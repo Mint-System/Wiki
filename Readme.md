@@ -1,6 +1,8 @@
 # Knowedge Mint System
 Diese Ablage ist die strukturierte Wissensdatenbank der Mint System GmbH.
 
+Sie wird öffentlich unter [https://github.com/Mint-System/Knowledge](https://github.com/Mint-System/Knowledge) publiziert.
+
 ## Obsidian
 Die Betrachtung der Wissensdatenbank erfordert die Installation und Verwendung von [Obidian](https://obsidian.md/).
 
