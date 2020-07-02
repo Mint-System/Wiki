@@ -31,23 +31,5 @@ Gibt es bereits ein Corporate Design mit Logo, Farben und Schrift?
 
 Welche Odoo Apps sollen bereitgestellt werden?
 
-## Aufgaben Intern
-
-* Registration des Datenbank- und Applikations-Container im Wiki
-* Konfiguration der Datenank und und Applikation im Infrastruktur-Projekt
-* Registration der Domäne
-* Konfiguration des Proxy-Dienstes
-* Bereitstellung der Applikation
-* Einloggen und Vorbereiten gemäss Informationen des Kunden
-	* Installation Datenbank in ausgewählter Sprache
-	* Benutzername: admint
-	* Passwort des Administrators speichern
-	* Anzeigename und Anzeigebild des Administrators `Administrator Mint System` anpassen
-	* Konfiguration ausgehender Mail-Server
-	* Konfiguration eingehender Mail-Server
-	* Anpassen des Unternehmens-Datensatz
-	* Logo hinzufügen und Anpassung Dokumentenlayout
-	* Benutzer erstellen und Berechtigungen konfigurieren
-	* Installation der Initialmodule:
-		* Base: web_color, web_responsive, show_db_name, project, auth_oauth_keycloak
-		* Enterprise: web_responsive
+## Vorlage
+Die Odoo Datenbank wird als [[Odoo Datenbank Vorlage|Vorlage]] bereitgestellt.

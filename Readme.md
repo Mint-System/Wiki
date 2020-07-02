@@ -1,4 +1,6 @@
-# Knowedge Mint System
+![[Mint System Logo.png]]
+
+# Knowedge
 Diese Ablage ist die strukturierte Wissensdatenbank der Mint System GmbH.
 
 Sie wird öffentlich unter [https://github.com/Mint-System/Knowledge](https://github.com/Mint-System/Knowledge) publiziert.
