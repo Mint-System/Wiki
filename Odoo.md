@@ -6,7 +6,13 @@ Odoo Features:
 
 * [[Odoo Email Integration]]
 * [[Odoo Fertigung]]
+* [[Odoo Finanzen]]
+* [[Odoo Kalender]]
 
 Odoo Apps:
 
 * [[Odoo REST API]]
+
+Odoo Integration:
+
+* [[Odoo Map View]]

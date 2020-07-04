@@ -20,7 +20,7 @@ Die Vorlagen wurde mit diesen Arbeitsschritten erstellt:
 	* Kalender synchronisation einrichten
 	* Installation der Initialmodule:
 		* Base: web_color, web_responsive, show_db_name, project, auth_oauth_keycloak
-		* Enterprise: web_responsive
+		* Enterprise: web_responsive,contacts_enterprise,ocn_client
 
 Es existieren zusätzliche manuelle Arbeitsschritte für die finale Konfiguration:
 
