@@ -8,6 +8,7 @@ Odoo Features:
 * [[Odoo Fertigung]]
 * [[Odoo Finanzen]]
 * [[Odoo Kalender]]
+* [[Odoo Lohnabrechnung]]
 
 Odoo Apps:
 
