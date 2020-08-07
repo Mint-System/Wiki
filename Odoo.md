@@ -9,6 +9,9 @@ Odoo Features:
 * [[Odoo Finanzen]]
 * [[Odoo Kalender]]
 * [[Odoo Lohnabrechnung]]
+* [[Odoo Projekt]]
+* [[Odoo Planung]]
+* [[Odoo Widgets]]
 
 Odoo Apps:
 
@@ -17,3 +20,5 @@ Odoo Apps:
 Odoo Integration:
 
 * [[Odoo Map View]]
+* [[Odoo Painpoints]]
+* [[Odoo Development]]

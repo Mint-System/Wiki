@@ -15,3 +15,14 @@ Man wählt die Kategorie Abzüge. Als Code gibt man AHV an. Die Berechnungsart i
 * Prozent (%): 5.2750
 
 BASIC ist eine Referenz auf eine andere Lohnart. Im Tab Finanzen gilt es die Konten für die Abrechnung der Sozialleistungen zu hinterlegen.
+
+## Fehlende Optionen
+
+Leider bietet die Lohnabrechnung einige Optionen nicht.
+
+* Lohnpfändung
+* Quellensteuer
+* Krankentaggeld über Zeit
+
+
+Dazu eine Auswahl an [[Lohnarten]]
