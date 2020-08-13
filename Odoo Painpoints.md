@@ -14,5 +14,7 @@ GitHub Issue dazu: https://github.com/odoo/odoo/issues/8660
 Genehigung Budget ist falsch übersetzt.  
 Berichtsnamen in Projekte sind nicht übersetzt.
 
-## Planung 
+## Filter in Url
+
+Standardmässig sind Filter nicht in der Url von Odoo enthalten. Das macht es schwierig Filter zu teilen.
 
