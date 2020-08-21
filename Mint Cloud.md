@@ -1,0 +1,1 @@
+Ist ein [[Angebot]] der Mint System.

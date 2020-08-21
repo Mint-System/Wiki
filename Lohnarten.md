@@ -1,3 +1,5 @@
+Eine Liste von wichtigen Lohnarten:
+
 Monatslohn
 Stundenlohn
 Anteile AN / AG

@@ -18,3 +18,7 @@ Kosten können über Kostenstellen-Tags getrackt werden. Mehr dazu unter [[Odoo 
 ## Budget planen
 
 Mehr dazu unter [[Odoo Budget]].
+
+## Import Kontoauszüge
+
+Mit Odoo können Kontoauszüge ganz einfach importiert werden. Mehr dazu unter [[Odoo Finanzen Import]].

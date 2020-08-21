@@ -24,5 +24,14 @@ Leider bietet die Lohnabrechnung einige Optionen nicht.
 * Quellensteuer
 * Krankentaggeld über Zeit
 
+Dazu eine Auswahl an [[Lohnarten]].
 
-Dazu eine Auswahl an [[Lohnarten]]
+## Erweiterungen
+
+Odoo Partner wie [[Partner Gioardano|Giordano]] haben Erweiterungen entwickelt.
+
+**Lohnprogramm CH-d**
+
+Partner: [[Partner Gioardano|Giordano]]  
+Website: [https://giordano.ch/produkte/odoo/odoo-l%C3%B6sungen/lohnprogramm-ch-d](https://giordano.ch/produkte/odoo/odoo-l%C3%B6sungen/lohnprogramm-ch-d)  
+Beschreibung: Die Lösung stellt einerseits die Standardlohnarten für eine Schweizer Lohnbuchhaltung zur Verfügung und andererseits neue Ansichten um die Lohnarten und Anteile für Mitarbeiter und Unternehmen zu konfigurieren. Auch der Bericht zur Lohnabrechnung wurde überarbeitet. Die Berichtserstellung erfolgt mit der alterantiven [[Py3o Report Engine ]]. Somit ist diese Erweiterung nur mit [[Odoo Hosting - Odoo.sh|Odoo.sh]] und Odoo [[Odoo Hosting - On-Premise|On-Premise]] kompatibel.

@@ -1,0 +1,1 @@
+Datenablage der Mint System. 

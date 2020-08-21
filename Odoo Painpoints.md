@@ -12,9 +12,28 @@ GitHub Issue dazu: https://github.com/odoo/odoo/issues/8660
 ## Mangelnde und falsche Übersetzungen
 
 Genehigung Budget ist falsch übersetzt.  
-Berichtsnamen in Projekte sind nicht übersetzt.
+Berichtsnamen in Projekten sind nicht übersetzt.
 
 ## Filter in Url
 
 Standardmässig sind Filter nicht in der Url von Odoo enthalten. Das macht es schwierig Filter zu teilen.
 
+## Personalbrechnung Lokalisierung
+
+Verschiedene Lohnarten der Schweiz können nicht abgebildet werden.
+
+## Integrität Chatter-Favoriten
+
+Markiert man eine Nachricht im Chatter und löscht das dazugehörige Objekt, kann man den Favoriten nicht mehr entfernen.
+
+## Anzeige Aktivitäten
+
+Erstellt man eine Aktivität zu einem Objekt und archiviert dieses, wird die Aktivität immer noch als Erinnerung dargstellt. Klickt man darauf erscheint eine leer Seite.
+
+## E-Mail Empfänger nicht sichtbar
+
+Versendet man ein Mail an mehrere Empfänger so ist das beim empfangenen Mail nicht sichbar.
+
+## Reporting
+
+QWeb Reports können nicht auf einfache Art und Weise erstellt werden.
