@@ -37,3 +37,6 @@ Versendet man ein Mail an mehrere Empfänger so ist das beim empfangenen Mail ni
 ## Reporting
 
 QWeb Reports können nicht auf einfache Art und Weise erstellt werden.
+
+## Forward chatter messages
+
