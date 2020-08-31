@@ -12,6 +12,7 @@ Odoo Features:
 * [[Odoo Projekt]]
 * [[Odoo Planung]]
 * [[Odoo Widgets]]
+* [[Odoo Verkäufe]]
 
 Odoo Apps:
 

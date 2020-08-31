@@ -40,3 +40,12 @@ QWeb Reports können nicht auf einfache Art und Weise erstellt werden.
 
 ## Forward chatter messages
 
+Cannot forward chatter messages.
+
+## Soll-/Haben-Konten vertauscht
+
+Konfiguriert man eine Regel im Modul Personalabrechnung wird im Tab Finanzen zuerst das Soll und dann das Haben angzeigt.
+
+-> Changed order with Odoo Studio
+
+In der Ansicht der Buchungszeilen erscheint ebenfalls zuerst das Soll und dann das Haben.

@@ -1,3 +1,9 @@
+## Vorbereitung
+
+Erstellen Kontorrent Bank.
+
+## Buchungen
+
 Wichtige Buchungssätze kurz und knapp beschrieben.
 
 **Gutschriften Lieferant**
@@ -6,7 +12,7 @@ Konto: 6500 Verwaltungsaufwand
 
 **Gebührenbelastung Zahlungsverkehr**
 
-Konto: 
+
 
 **Lastschriftverfahren VISECA**
 
@@ -25,8 +31,7 @@ Angenommen es wurde eine Rechnung ohne MWST erstellt und verbucht.
 
 Gutschrift für Rechnung erfassen:
 
-Grund: Keine MWST gebucht  
-Konto: 3200  
+Konto: Bestehendes Konto  
 Journal: Ausgangsrechnungen (CHF)
 
 Neue Rechnung erfassen:
@@ -38,9 +43,49 @@ MWST: MwSt. 7,7% ink. NRZ
 
 
 
+**Einzahlung Darlehen**
 
+Als GmbH können Gesellschafter von Privatvermögen einzahlen und verzinsen lassen. Die ESTV legt den Zinsatz fest.
+
+Für jeder Mitarbeiter muss ein Darlehenskonto erfasst werden.
+
+Vorher:
+
+2160 Gesellschaftsverbindlichkeiten
+
+Nachher:
+
+2160 Darlehen Kurt GIsler
+2161 Darlehen Janik von Rotz
+2162 Darlehen Marco Roeleven
+
+Buchung:
+
+Habenkonto: 1022 Kontokorrent
+Sollkonto: 2160 Darlehen
+Betrag: 1500 CHF  
+
+**Auszahlung Darlehen**
+
+Habenkonto: 2160 Darlehen  
+Sollkonto: 1022 Kontokorrent  
+
+**Einbehaltene Lohnauszahlungen**
+
+Habenkonto: 1091 Lohndurchlaufkonto  
+Sollkonto: 2330 Kurzfristige Rückstellungen  
+
+**Rechnung in anderer Währung**
+
+**Lohnabrechung**
+
+Die Lohnbuchhaltung ist [[Prozesse Finanzen - Personalabrechnung#Buchhaltung]]|hier]] beschrieben.
 
 ## Mehrwersteuer
+
+Allgemeine Informationen zur gibt es [[Mehrwertsteuer|hier]].
+
+**Richtiger Satz auswählen**
 
 6XXX -> MWST sonstiger Betriebsaufwand
 4XXX -> MWST Normal

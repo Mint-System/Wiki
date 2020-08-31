@@ -8,3 +8,4 @@ Dokumentation der Odoo Prozesse.
 * [[Prozesse Odoo - App Personalabrechnung]]
 * [[Prozesse Odoo - App Finanzen]]
 * [[Prozesse Odoo - App Zeiterfassung]]
+* [[Prozesse Odoo - App Abwesenheitszeiten]]

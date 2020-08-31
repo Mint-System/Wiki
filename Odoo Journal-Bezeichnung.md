@@ -6,8 +6,8 @@ Sequenz: Prefix "Nr. " und nächste Nummer 300
 Rückerstattungs-Sequenz: Prefix "Nr. " und nächste Nummer 300  
 Typ: Verkäufe  
 Währung: CHF  
-Standard-Sollkonto: 3200 Handelserlöse  
-Standard-Habenkonto: 3200 Handelserlöse  
+Standard-Sollkonto: 3400 Dienstleistungserlöse  
+Standard-Habenkonto: 3400 Dienstleistungserlöse  
 
 Name: **Eingangsrechnungen**  
 Kurzzeichen: KFA  

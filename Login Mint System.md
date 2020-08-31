@@ -11,4 +11,9 @@ Mehr Details zur Konfiguration sind hier verfügbar: https://janikvonrotz.ch/202
 
 Aktuell exisiteren die foglenden Realms:
 
-* [[mint-system.ch realm]]
+## [[mint-system.ch Realm]]
+
+Zur Erfassung des OAuth-Providers stehen diese Informationen zur Verfügung:
+
+* Authorisierungs URL: https://login.mint-system.ch/auth/realms/mint-system.ch/protocol/openid-connect/auth
+* Validierungs URL: https://login.mint-system.ch/auth/realms/mint-system.ch/protocol/openid-connect/userinfo
