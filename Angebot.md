@@ -1,5 +1,6 @@
 ## Open Source Software
 
+[[LibreOffice]]
 [[Odoo]]  
 [[Moodle]]  
 [[Nextcloud]]  

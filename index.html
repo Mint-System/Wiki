@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+</head>
+<body>
+  <nav>
+    <a href="#/README">Home</a>
+  </nav>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Knowledge Mint System',
+      repo: 'Mint-System/Knowledge'
+    }
+    window.$docsify = {
+      search : [
+        '/',            // => /README.md
+      ],
+    }
+    window.$docsify = {
+      plugins: [
+        function(hook) {
+          hook.beforeEach(function(content) {
+
+            // wiki link image
+            const wikiImage = /!\[\[([^\]]*)\]\]/g
+            content = content.replace(wikiImage, '<img src="/assets/$1" \/>')
+
+            const link = /\[\[([^\]]*)\]\]/g
+            let matches = content.match(link) || []
+            for (i = 0; i < matches.length; i++) {
+
+              let match = matches[i]
+              let title = match.match(/\[\[([^\]]*)/)[1]
+              let href,anchor
+
+              if (match.indexOf('#') > 0) {
+                anchor = match.match(/#([^\||\]]*)/)[1]
+              }
+
+              if (match.indexOf('|') > 0) {
+                href = match.match(/\[\[([^\||#]*)/)[1]
+                title = match.match(/\|(.*)\]\]/)[1]
+              }
+
+              content = content.replace(match, `<a href="/#/${href ? href : title}${anchor ? ('?id='+anchor) : ''}">${title}</a>`)
+            }
+                       
+            return content;
+          });
+        }
+      ]
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</body>
+</html>

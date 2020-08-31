@@ -20,6 +20,15 @@ Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch. Das ist zu Begin
 
 Starten wir mit dem Artikel [[Odoo]].
 
+Themen:
+* [[Angebot]]
+* [[Prozesse]]
+* [[Infrastuktur]]
+* [[Methodik]]
+* [[Policies]]
+* [[Dokumente]]
+* [[Netzwerk]]
+
 ## Hilfe
 
 Obsidian bietet eine umfangreiche Hilfestellung.
