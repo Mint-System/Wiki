@@ -1,4 +1,4 @@
-
+# Odoo Journal-Bezeichnung
 
 Name: **Ausgangsrechnungen**  
 Kurzzeichen: DFA  

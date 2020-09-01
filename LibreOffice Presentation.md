@@ -1,3 +1,5 @@
+# LibreOffice Presentation
+## Update slide master
 To select the slide master for modification:
 
 1. Select: View > Master Slide

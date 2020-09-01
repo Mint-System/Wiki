@@ -1,3 +1,4 @@
+# App Verkäufe
 Optionen konfigurieren:
 * Bank für Zahlungsabwicklung konfigurieren
 * Option Mengeneinheiten aktivieren

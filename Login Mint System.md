@@ -1,3 +1,4 @@
+# Login Mint System
 Login Mint System ist ein Identitäts-Anbieter, der unter https://login.mint-system.ch verfügbar ist. Für eine Odoo Integration müssen die folgenden Informationen verfügbar sein:
 
 * Liste der Benutzer
@@ -7,11 +8,11 @@ Damit die Odoo Installation Zugriff auf den Identitäts-Anbieter hat, muss Odoo 
 
 Mehr Details zur Konfiguration sind hier verfügbar: https://janikvonrotz.ch/2020/04/30/role-based-access-control-for-multiple-keycloak-clients/.
 
-# Realms
+## Realms
 
 Aktuell exisiteren die foglenden Realms:
 
-## [[mint-system.ch Realm]]
+### [[mint-system.ch Realm]]
 
 Zur Erfassung des OAuth-Providers stehen diese Informationen zur Verfügung:
 

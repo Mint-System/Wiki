@@ -1,4 +1,4 @@
-![Mint System Logo.png](assets/Mint%20System%20Logo.png)
+![[Mint System Logo.png]]
 
 # Knowedge
 
@@ -28,6 +28,7 @@ Themen:
 * [[Policies]]
 * [[Dokumente]]
 * [[Netzwerk]]
+* [[Corporate Design]]
 
 ## Hilfe
 

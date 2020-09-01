@@ -1,8 +1,9 @@
+# Odoo Kalender
 Der Odoo Kalender kann mit Google synchronisiert werden.
 
 In den Einstellung von Odoo muss dazu ein API Token und Secret hinterlegt werden.
 
-# Kalender mit Google Account synchronisieren
+## Kalender mit Google Account synchronisieren
 Eine Synchronisation des Google Kalender mit dem Odoo Kalender ist in wenigen Schritten möglich.
 
 * Den Odoo Kalender öffnen

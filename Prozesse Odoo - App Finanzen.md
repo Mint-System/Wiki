@@ -1,3 +1,4 @@
+# App Finanzen
 ## Initialisierung
 *  Abschliessen der Standardkonfigurationen
 

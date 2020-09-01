@@ -1,1 +1,2 @@
-[[LibreOffice Presentation - Update slide master]]
+# LibreOffice
+[[LibreOffice Presentation]]

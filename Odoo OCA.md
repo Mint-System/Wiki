@@ -1,4 +1,5 @@
-Odoo Community Association
+# Odoo OCA
+[[Odoo Community Association]]
 
 ## Management System
 

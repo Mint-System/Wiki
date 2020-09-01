@@ -1,3 +1,4 @@
+# Mehrwertsteuer
 Die Mint System hat folgende Abrechnungsmodalitäten:
 
 **Software: Programmierung/Entwicklung**  

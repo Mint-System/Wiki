@@ -1,3 +1,4 @@
+# Odoo Finanzen Setup
 Das Finanzmodul wird in folgenden Schritten konfiguriert:
 
 **Unternehmensdaten**

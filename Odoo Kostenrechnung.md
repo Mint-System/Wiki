@@ -1,3 +1,4 @@
+# Odoo Kostenrechnung
 Damit die Kostenrechnung funktioniert müssen folgende Bedienungen erfüllt sein:
 
 * Einstellungen sind aktiviert

@@ -1,3 +1,4 @@
+# Installation BigBlueButton
 Installation [[BigBlueButton]]:
 * URL gemäss Schema `bbb.[company].mintsys.ch` oder custom definieren
 * Registration DNS-Name

@@ -1,3 +1,4 @@
+# Odoo Datenbank Vorlage
 Die Odoo Datenbank Vorlage ist auf der [[Mint System Cloud]] verfügbar.
 
 Die Vorlagen wurde mit diesen Arbeitsschritten erstellt:

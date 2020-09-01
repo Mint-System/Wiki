@@ -1,17 +1,18 @@
-# Lizenzierung
+# Odoo Hosting
+## Lizenzierung
 
 Odoo wird in zwei verschiednen Lizenz-Modellen angeboten:
 1. [[Odoo Community Edition]]
 2. [[Odoo Enterprise]]
 
-# Modelle
+## Modelle
 
 Odoo wird in folgenden Modellen angeboten:
 
 * [[Odoo Hosting - Odoo.sh]]
 * [[Odoo Hosting - On-Premise]]
 
-# Initialisierung
+## Initialisierung
 
 Für eine Installation werden die folgenden Informationen benötigt:
 
@@ -45,6 +46,6 @@ Gibt es bereits ein Corporate Design mit Logo, Farben und Schrift?
 
 Welche Odoo Apps sollen bereitgestellt werden?
 
-## Vorlage
+### Vorlage
 
 Die Odoo Datenbank wird als [[Odoo Datenbank Vorlage|Vorlage]] bereitgestellt.

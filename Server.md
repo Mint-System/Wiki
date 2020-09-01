@@ -1,3 +1,4 @@
+# Server
 ## Namenskonvention
 
 Server werden nach griechischen Götter nach folgendem Schema benannt: NAME.mint-system.com. Liste der griechischen Götter: https://en.vikidia.org/wiki/List_of_Greek_gods_and_goddesses.

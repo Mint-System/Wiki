@@ -1,3 +1,4 @@
+# Odoo Engineering & Lifecycle Management
 Das Unternehmen [TechSpell srl](http://www.techspell.eu/) entwickelt die Odoo App [Engineering & Lifecycle Management](https://apps.odoo.com/apps/modules/13.0/pdm/) sowie die Client- und Server Software [[LibrePLM]] zur Synchronisation der CAD-Daten mit Odoo.
 
 Gemäss Herstellen können so automatisch Produkte und Dokumente mit dem Odoo Fertigungs-Modul abgeglichen werden. Produkrevisionen sowie die Erstellung des BOMs sind weitere Mermkale dieser Lösung.

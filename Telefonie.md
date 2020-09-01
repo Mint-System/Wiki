@@ -1,4 +1,4 @@
-
+# Telefonie
 Nummer 	Bezeichnung 	Umgeleitet nach  
 +41 41 541 78 63 	Hauptnummer  ---  
 +41 41 541 78 64 	Direkte Nummer Kurt 0+41 41 541 78 63 (Hauptnummber)  

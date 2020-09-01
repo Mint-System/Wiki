@@ -1,12 +1,11 @@
-
-# Verkaufsgruppen und Baugruppen
+# Odoo Verkäufe
+## Verkaufsgruppen und Baugruppen
 
 Wie werden die Verkaufsgruppen von Baugruppen unterschieden?
 
 Odoo bildet die Produkte zur Fertigung in folgenden Schema ab.
 
 ![[Verkaufsgruppen und Baugruppen.png]]
-![[assets/Verkaufsgruppen und Baugruppen.xml]]
 
 **Beispiel Produkt Stuhl**
  

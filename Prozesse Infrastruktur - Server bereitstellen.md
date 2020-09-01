@@ -1,3 +1,4 @@
+# Server bereitstellen
 Neuer Server wie folgt bereitstellen:
 * Konfiguration im Setup Inventory
 * Festlegen Zugriffsberechtigungen

@@ -1,3 +1,4 @@
+# Lohnarten
 Eine Liste von wichtigen Lohnarten:
 
 Monatslohn

@@ -1,3 +1,4 @@
+# Odoo Widgets
 List of useful widgets for Odoo.
 
 ## Flow Chart Widget

@@ -1,4 +1,4 @@
-# On-Premise Checkliste
+# Odoo Hosting - On-Premise
 
 Struktur:
 

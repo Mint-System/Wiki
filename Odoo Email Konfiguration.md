@@ -1,3 +1,4 @@
+# Odoo Email Konfiguration
 Um diese Funktion einzurichten müssen folgende Einstellung gemacht werden:
 
 * Registration Mail Account odoo@irrelevant.com

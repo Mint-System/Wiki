@@ -1,3 +1,4 @@
+# Odoo REST API
 Odoo by default has no REST API. By installing the module [rest_api](https://github.com/yezyilomo/odoo-rest-api) from GitHub and its python dependencies you get one.
 
 Here is an python example script on how to use the the REST API.

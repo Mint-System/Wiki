@@ -1,3 +1,4 @@
+# Odoo Budget
 Die Budgetplanung in Odoo ist verbunden mit der Finanzbuchhaltung und Kostenrechnung.
 
 Ein Budget umfasst mehrere Budgetpositionen. Jede Budgetposition ist einem Konto und einer Kostenstelle zugewiesen.

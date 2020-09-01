@@ -1,3 +1,4 @@
+# Akquise abschliessen
 Zusammenstellen Angebot wenn die Akquise erfolgreich ist.
 * Lizenzierung festlegen: Community oder Enterprise
 * Odoo-Hosting Modell definieren

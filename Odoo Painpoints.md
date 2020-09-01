@@ -1,3 +1,4 @@
+# Odoo Painpoints
 Eine Liste von Design-Entscheiden und Funktionen, die mangelhaft umgesetzt oder schwer nachvollziehbar sind.
 
 ## Projektstufen verwalten
