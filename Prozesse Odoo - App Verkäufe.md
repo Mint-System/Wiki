@@ -1,9 +1,16 @@
 # App Verkäufe
-Optionen konfigurieren:
+## Initialisierung
+* Unternehmensdaten erfassen
+* Angebotslayout festlegen
+* Bezahlmethode wählen
 * Bank für Zahlungsabwicklung konfigurieren
-* Option Mengeneinheiten aktivieren
-* Option Produktvarianten aktivieren
 
-Erweiterungen installieren:
-* Sale enterprise (sale_enterprise)
-* Sales timesheet (sale_timesheet_enterprise)
+## Erweiterungen installieren
+* Sale Enterprise (sale_enterprise)
+* Sales Timesheet (sale_timesheet_enterprise)
+
+## Optionen aktivieren
+*Einstellungen > Verkäufe*
+* Mengeneinheiten
+* Produktvarianten
+* Produktkonfigurator

@@ -33,3 +33,5 @@ Themen:
 ## Hilfe
 
 Obsidian bietet eine umfangreiche Hilfestellung.
+
+![[Obsidian.png]]

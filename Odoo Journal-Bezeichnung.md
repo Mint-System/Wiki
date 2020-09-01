@@ -15,8 +15,8 @@ Sequenz: Prefix "Nr. " und nächste Nummer 300
 Rückerstattungs-Sequenz: Prefix "Nr. " und nächste Nummer 300  
 Typ: Einkauf  
 Währung: CHF  
-Standard-Sollkonto: 4200 Handelswarenaufwand  
-Standard-Habenkonto: 4200 Handelswarenaufwand  
+Standard-Sollkonto: 4400 Handelswarenaufwand  
+Standard-Habenkonto: 4400 Handelswarenaufwand  
 
 Name: **Sonstige Operationen**  
 Kurzzeichen: DIV  
