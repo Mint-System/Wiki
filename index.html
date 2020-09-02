@@ -17,10 +17,6 @@
       loadNavbar: true,
       logo: '/assets/logo.svg',
       themeColor: '#0B9FA3',
-      search : [
-        '/',
-        '/Odoo',
-      ],
       plugins: [
         function(hook, vm) {
           hook.beforeEach(function(content) {
@@ -40,6 +36,9 @@
 
               if (match.indexOf('#') > 0) {
                 anchor = match.match(/#([^\||\]]*)/)[1]
+                // Convert to docsify id
+                anchor = anchor.toLowerCase().replace(/ /g,"-")
+                console.log(anchor)
               }
 
               if (match.indexOf('|') > 0) {
@@ -51,9 +50,8 @@
             }
 
             // add edit button
-            var url = 'https://github.com/Mint-System/Knowledge/blob/master/' +
-              vm.route.file;
-            var edit = '[📝 Edit Document](' + url + ')\n';
+            var url = 'https://github.com/Mint-System/Knowledge/blob/master/' + vm.route.file
+            var edit = '[📝 Edit Document](' + url + ')\n'
                        
             return (
               content +

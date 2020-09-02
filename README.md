@@ -32,6 +32,6 @@ Themen:
 
 ## Hilfe
 
-Obsidian bietet eine umfangreiche Hilfestellung.
+Obsidian bietet eine umfangreiche Hilfestellung. Ein Tutorial um Markdown zu lernen gibt es [[Markdown Tutorial|hier]]
 
 ![[Obsidian.png]]

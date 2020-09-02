@@ -7,7 +7,7 @@ Die [[Odoo Zeiterfassung]] kann mit Projektaufgaben verbunden werden.
 
 Folgende Apps müssen installiert sein:
 
-* hr_timesheet
+* Aufgabenprotokolle (hr_timesheet)
 
 Ist eine Aufgabe geplant und Zeit darauf gebucht, erhält man in der Listenansicht der Projektaufgaben eine Auswertung zum Fortschritt.
 
@@ -17,7 +17,7 @@ Die Zeiterfassung kann mittels Timer in der Aufgabe gestartet werden.
 
 Die folgenden Apps müssen installiert sein:
 
-* sale_timesheet_enterprise
+* Sales Timesheet: Grid Support (sale_timesheet_enterprise)
 
 ## Planung
 
@@ -45,5 +45,12 @@ Die folgenden Apps müssen installiert sein:
 
 * sale_timesheet_enterprise
 
-## Einkauf
+## Berichtswesen
 
+**Project Costs and Revenues**
+
+Dieser Bericht stellt die folgenden Erlöse und Kosten dar:
+* Stundenaufwand Arbeitsrapportierung
+* Ertrag aus Verrechnung
+* Produktkosten aus Kostenstelle
+* Unverrechneter Rechnungsbetrag

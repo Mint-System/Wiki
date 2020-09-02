@@ -1,2 +1,2 @@
 # LibreOffice
-[[LibreOffice Presentation]]
+[[LibreOffice Impress]]
