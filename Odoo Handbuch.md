@@ -1,4 +1,3 @@
-
 # Odoo Handbuch
 
 Das ist das Mint System Handbuch zu Odoo. Hier erhalten Kunden Anleitungen zu Odoo-Funktionen.
