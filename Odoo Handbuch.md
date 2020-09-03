@@ -1,7 +1,7 @@
 
 # Odoo Handbuch
 
-
+Das ist das Mint System Handbuch zu Odoo. Hier erhalten Kunden Anleitungen zu Odoo-Funktionen.
 
 # Initialisierung
 
@@ -20,6 +20,13 @@ Benötigte Informationen:
 
 ## Benutzer
 
+Nach dem Login klicken sie oben rechts auf ihren Benutzer und wählen Einstellungen. Legen sie die folgenden Einstellungen fest.
+
+**Zeitzone** - Damit wird automatisch die Systemzeit richtig eingestellt.  
+**EMail** - Über diese EMailadresse werden alle Nachrichten verschickt (Rechnung, Nachrichten an Kunden). Diese Mailadresse erscheint als Versender im Mailheader.  
+**Signatur** - Die Signatur sollte die kompletten Unternehmensdaten enthalten.  
+**Foto** - Für das Foto verwenden sie ein JPG-Format nicht grösser als 100 x 100 Pixel.  
+
 ## Mehrwertsteuer
 
 Bevor sie im System die erste Rechnung erstellen sollten sie die Abklärungen machen ob sie überhaupt MwSt. pflichtig sind oder nicht. Es gilt die Regel:
@@ -32,6 +39,8 @@ Steuerverrechnung und vereinbarten Entgelten. So ist auch die Buchhaltung einges
 DIe Abrechnung nach vereinbarten Entgelten (Art. 39 Abs. 1 MWSTG) ist das Standardverfahren der eidgenössischen Steuerverwaltung.
 
 ## Journale
+
+[[Odoo Journal-Vorlage]]
 
 ## Kontenplan
 
@@ -73,7 +82,13 @@ Navigation: *Verkläufe > Produkte > Produkte*
 
 # App Projekt
 
+# App Finanzen
+
+## Finanzen Dashboard
+
 # App Zeiterfassung
+
+## Zeiterfassung Dashboard
 
 # App Personal
 

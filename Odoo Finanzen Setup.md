@@ -29,4 +29,4 @@ Die Benennung und Konfiuguration der Journale ist essenziell. Ein Journal kann v
 
 Jedem Journal wird eine Definition für die Kurzzeiten hinterlegt. Bei Verkäufe und Einkauf wird das Kurzzeichnen in der Rechnungsreferenz verwendet.
 
-Dazu eine Vorlage für die [[Odoo Journal-Bezeichnung]].
+Dazu eine Vorlage für die [[Odoo Journal-Vorlage|Journale]].

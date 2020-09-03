@@ -17,7 +17,7 @@
 * Switzerland - Accounting Reports (l10n_ch_reports)
 
 ## Customizing
-* Journale und Sequenzen anhand [[Odoo Journal-Bezeichnung]] festlegen
+* Journale und Sequenzen anhand [[Odoo Journal-Vorlage]] festlegen
 
 ## Optionen aktivieren
 *Einstellungen > Finanzen*

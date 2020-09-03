@@ -18,14 +18,13 @@ Die Wissensdatenbank ist eine Ansammlung von [Markdown](https://de.wikipedia.org
 
 Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch. Das ist zu Beginn gewöhnungsbedürftig. Man öffnet entweder direkt eine Datei oder navigiert über die Backlinks.
 
-Starten wir mit dem Artikel [[Odoo]].
-
 Themen:
+* [[Odoo]]
 * [[Angebot]]
 * [[Prozesse]]
 * [[Infrastuktur]]
 * [[Methodik]]
-* [[Policies]]
+* [[Richtlinien]]
 * [[Dokumente]]
 * [[Netzwerk]]
 * [[Corporate Design]]

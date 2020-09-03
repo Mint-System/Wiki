@@ -1,4 +1,5 @@
 # Corporate Design
+Corporate Design der Mint System.
 ## Colors
 
 ```css
