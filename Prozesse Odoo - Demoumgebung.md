@@ -23,3 +23,4 @@
 * DNS-Einträge löschen
 * OAuth Client URL von Liste *Valid Redirect URIs* entfernen
 * Projektaufgaben bereinigen
+* Datenbank löschen

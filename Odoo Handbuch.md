@@ -17,15 +17,6 @@ Benötigte Informationen:
 * IBAN Nummer
 * Unternehmensnummer, MwSt Nr. (wenn vorhanden)
 
-## Benutzer
-
-Nach dem Login klicken sie oben rechts auf ihren Benutzer und wählen Einstellungen. Legen sie die folgenden Einstellungen fest.
-
-**Zeitzone** - Damit wird automatisch die Systemzeit richtig eingestellt.  
-**EMail** - Über diese EMailadresse werden alle Nachrichten verschickt (Rechnung, Nachrichten an Kunden). Diese Mailadresse erscheint als Versender im Mailheader.  
-**Signatur** - Die Signatur sollte die kompletten Unternehmensdaten enthalten.  
-**Foto** - Für das Foto verwenden sie ein JPG-Format nicht grösser als 100 x 100 Pixel.  
-
 ## Mehrwertsteuer
 
 Bevor sie im System die erste Rechnung erstellen sollten sie die Abklärungen machen ob sie überhaupt MwSt. pflichtig sind oder nicht. Es gilt die Regel:
@@ -45,15 +36,34 @@ DIe Abrechnung nach vereinbarten Entgelten (Art. 39 Abs. 1 MWSTG) ist das Standa
 
 ## Eröffnungsbuchung
 
+# Persönliche Einstellungen
+
+## Lokalisierung
+
+Nach dem Login klicken sie oben rechts auf ihren Benutzer und wählen *My Profile*. Legen sie die folgenden Einstellungen fest.
+
+**Zeitzone** - Damit wird automatisch die Systemzeit richtig eingestellt.  
+**EMail** - Über diese EMailadresse werden alle Nachrichten verschickt (Rechnung, Nachrichten an Kunden). Diese Mailadresse erscheint als Versender im Mailheader.  
+**Signatur** - Die Signatur sollte die kompletten Unternehmensdaten enthalten.  
+**Foto** - Für das Foto verwenden sie ein JPG-Format nicht grösser als 100 x 100 Pixel.  
+
+## Passwort ändern
+
+Klicken sie oben rechts auf ihen Benutzer und wählen *My Profile*. Drücken sie  am Ende des Dialogs auf *Passwort ändern*.
+
 # App Apps
 
 # App Einstellungen
 
 ## Entwicklermodus aktivieren
 
+Navigieren nach *Einstellungen > Allgemeine Einstellungen > Entwickler Tools*.
+
+Auf *Entwicklermodus aktivieren* klicken. Nun erscheinen neue Optionen in verschiedenen Odoo Apps. In der URL erscheint zusätzlich der Parameter `?debug=1`. Der Entwicklermodus kann auch über die manuelle Eingabe dieses Parameters aktiviert werden.
+
 ## Übersetzungen aktualisieren
 
-**Intiierung**
+**Generierung**
 
 Damit Begriffe überesetzt werden können, muss als erstes die Liste, der zu übersetzenden Begriffe aktualisiert werden.  Im Entwickler-Modus folgende Ausführung machen:
 
@@ -68,6 +78,28 @@ Die Liste *Einstellungen > Übersetzungen > Übersetzte Begriffe* nach *Nicht ü
 Nach dem zu übersetzenden Begriff suchen und aktualisieren.
 
 ![[Odoo Übersetzte Begriffe.png]]
+
+## Tour deaktivieren
+
+Aktivieren Sie den [[#Entwicklermodus aktivieren|Entwicklermodus]].
+
+Klicken sie auf das Käfer-Symbol in der Menu-Leiste oben rechts. Wählen sie *Tour deaktivieren*.
+
+## Benutzerrechte vergeben.
+
+Navigieren sie nach *Einstellungen > Allgemeine Einstellungen > Benutzer* und klicken auf *Benutzer verwalten*. Wählen sie den Benutzer, dessen Zugriffsrechte sie verändern möchten. Drücken sie auf *Bearbeiten* und wählen sie nun über die Dropdown oder Checkboxen die Rollen und Zugriffe aus.
+
+![[Odoo Handbuch Benutzerrechte.png]]
+
+Klicken Sie auf speichern um den Vorgang abzuschliessen.
+
+!> Damit die neuen Rechte für den Benutzer sichtbar sind, muss dieser den Browser aktualisieren.
+
+## Passwort zurücksetzen
+
+Navigieren sie nach *Einstellungen > Allgemeine Einstellungen > Benutzer* und klicken auf *Benutzer verwalten*. Wählen sie den Benutzer, dessen Passwort sie zurücksetzen möchten.
+ 
+Wählen Sie *Aktion* und *Passwort ändern*. Geben sie im Feld *Neues Passwort* das neue Passwort ein.
 
 # App Diskussion
 
@@ -107,7 +139,45 @@ Navigation: *Verkläufe > Produkte > Produkte*
 
 ## Zeiterfassung Dashboard
 
+## Awesome Timesheet
+
+Um die mobile App *Awesome Timesheet* in ihrem Browser oder auf dem Smartphone zu verwenden, müssen sie es zuerst über den jeweiligen App-Store installieren.
+
+### Login
+
+Öffnen sie das Menu und wählen *Synchronize*.
+
+![[Awesome Timesheet Login 1.png]]
+
+Klick auf *Sign In*.
+
+![[Awesome Timesheet Login 2.png]]
+
+*Https://* auswählen und die Odoo Domain eingeben.
+
+![[Awesome Timesheet Login 5.png]]
+
+Im Feld *Login* die Email und Feld *Password* das Passwort eingeben. Einloggen mit klick auf *Login*.
+
+![[Awesome Timesheet Login 4.png]]
+
+Erscheint ein Dialog, wählen sie *Discard Data*.
+
+![[Awesome Timesheet Login 3.png]]
+
+Nun ist die App zur mobilen Zeiterfassung bereit.
+
 # App Personal
+
+Odoo unterscheidet zwischen Benutzer und Mitarbeiter. Mitarbeiter müssen nicht zwingend einen Odoo-Account besitzen. Zur Verwendung von Apps wie die Zeiterfassung muss den Benutzer ein Mitarbeiter hinterlegt werden.
+
+## Mitarbeiter erfassen
+
+Navigieren sie nach *Personal* und wählen *+ Anlegen*. Geben sie den Vor- und Nachnamen des Mitarbeiter ein und öffnen den Tab *HR Einstelungen*. Wählen sie unter *Verknüpfter Benutzer* einen bestehenden Benutzer aus, falls der Mitarbeiter Zugriff auf Odoo haben soll.
+
+Schliessen Sie den Vorgang mit *Speichern* ab.
+
+## Arbeitsvertrag hinzufügen
 
 # App Personalabrechnung
 
