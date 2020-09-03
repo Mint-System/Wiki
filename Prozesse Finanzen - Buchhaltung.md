@@ -70,6 +70,7 @@ Betrag: 1500 CHF
 
 Habenkonto: 2160 Darlehen  
 Sollkonto: 1022 Kontokorrent  
+Betrag: 1234.55 CHF
 
 **Einbehaltene Lohnauszahlungen**
 

@@ -5,6 +5,21 @@
 
 # Initialisierung
 
+## Unternehmensdaten
+
+Die Unternehmensdaten werden an vielen Stellen im System verwendet. Unter anderem für die Rechnung, für Angebote, für E-Mails und weiteres. Füllen sie bitte diese Daten aus und verwenden sie ein Logo mit folgenden Details:
+* Datenformat: JPG oder PNG
+* Grösse: Empfehlung Breite 300 pixel
+
+Benötigte Informationen:
+* Unternehmensname, Adresse, Telefon
+* EMail, Webseite (Domain)
+* Bankverbindung - Name, Kontonummer
+* IBAN Nummer
+* Unternehmensnummer, MwSt Nr. (wenn vorhanden)
+
+## Benutzer
+
 ## Mehrwertsteuer
 
 Bevor sie im System die erste Rechnung erstellen sollten sie die Abklärungen machen ob sie überhaupt MwSt. pflichtig sind oder nicht. Es gilt die Regel:
@@ -25,6 +40,8 @@ DIe Abrechnung nach vereinbarten Entgelten (Art. 39 Abs. 1 MWSTG) ist das Standa
 # App Apps
 
 # App Einstellungen
+
+## Entwicklermodus aktivieren
 
 # App Diskussion
 
@@ -65,3 +82,5 @@ Navigation: *Verkläufe > Produkte > Produkte*
 # App Abwesenheitszeiten
 
 # App Link Tracker
+
+Aktivieren Sie den [[#Entwicklermodus aktivieren|Entwicklermodus]].

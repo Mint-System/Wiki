@@ -26,19 +26,21 @@
             content = content.replace(wikiImage, '<img src="/assets/$1" \/>')
 
             // convert wiki links
+            // [[href#anchor|title] -> <a href="href?id=anchor">title</a>
+
             const link = /\[\[([^\]]*)\]\]/g
             let matches = content.match(link) || []
             for (i = 0; i < matches.length; i++) {
 
               let match = matches[i]
-              let title = match.match(/\[\[([^\]]*)/)[1]
-              let href,anchor
+              let href = match.match(/\[\[([^\]|#]*)/)[1]
+              let title = match.match(/\[\[([^\]|#]*)/)[1]
+              let anchor
 
               if (match.indexOf('#') > 0) {
                 anchor = match.match(/#([^\||\]]*)/)[1]
                 // Convert to docsify id
                 anchor = anchor.toLowerCase().replace(/ /g,"-")
-                console.log(anchor)
               }
 
               if (match.indexOf('|') > 0) {
@@ -46,7 +48,7 @@
                 title = match.match(/\|(.*)\]\]/)[1]
               }
 
-              content = content.replace(match, `<a href="/#/${href ? href : title}${anchor ? ('?id='+anchor) : ''}">${title}</a>`)
+              content = content.replace(match, `<a href="/#/${href ? href : vm.route.file.replace('\.md','')}${anchor ? ('?id='+anchor) : ''}">${title}</a>`)
             }
 
             // add edit button
