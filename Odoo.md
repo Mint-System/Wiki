@@ -18,6 +18,7 @@ Mint System bietet ein [[Odoo Hosting]] und ein [[Odoo Handbuch]].
 ## Apps
 
 * [[Odoo REST API]]
+* [[Odoo QM Data System]]
 
 ## Other
 
