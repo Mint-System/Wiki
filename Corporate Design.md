@@ -10,3 +10,6 @@ Corporate Design der Mint System.
 --text-light-color: #EAEAEA;
 --text-grey-color: #B9B9BA;
 ```
+
+## Signatur
+Die Signaturen sind in einem [[Signatur|Dokument]] festgehalten.

@@ -51,6 +51,24 @@ DIe Abrechnung nach vereinbarten Entgelten (Art. 39 Abs. 1 MWSTG) ist das Standa
 
 ## Entwicklermodus aktivieren
 
+## Übersetzungen aktualisieren
+
+**Intiierung**
+
+Damit Begriffe überesetzt werden können, muss als erstes die Liste, der zu übersetzenden Begriffe aktualisiert werden.  Im Entwickler-Modus folgende Ausführung machen:
+
+*Einstellungen > Übersetzungen > Fehlende Begriffe generieren*
+
+Dann die kann man die Überstzungen über die Einstellungen anzeigen.
+
+**Aktualisierung**
+
+Die Liste *Einstellungen > Übersetzungen > Übersetzte Begriffe* nach *Nicht übersetzt* filtern.
+
+Nach dem zu übersetzenden Begriff suchen und aktualisieren.
+
+![[Odoo Übersetzte Begriffe.png]]
+
 # App Diskussion
 
 # App Kalender

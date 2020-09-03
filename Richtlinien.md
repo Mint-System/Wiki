@@ -1,6 +1,10 @@
 # Richtlinien
 Richtlinien der Mint System.
 
-[[Code Sharing]]
-[[Namenskonventionen]]
-[[Dokumentmanagementsystem]]
+[[Richtlinie - Code Sharing]]  
+[[Richtlinie - Namenskonventionen]]  
+[[Richtlinie - Dokumentmanagementsystem]]  
+[[Richtlinie - Konferenz]]  
+[[Richtlinie - Passwörter]]  
+[[Richtlinei - E-Mail]]  
+[[Richtlinie - Website]]

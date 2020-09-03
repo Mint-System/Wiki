@@ -6,6 +6,7 @@ Finanzen sind in Odoo über verschiedene Module abgebildet.
 [[Odoo Finanzen Setup]]  
 
 ## Rechnungsdigitalisierung
+
 Mit Odoo Finanzen können Rechnung einfach analysiert und importiert werden.
 
 Die folgenden Apps müssen dazu installiert sein:
@@ -14,6 +15,12 @@ Die folgenden Apps müssen dazu installiert sein:
 ## Kostenstellen
 
 Kosten können über Kostenstellen-Tags getrackt werden. Mehr dazu unter [[Odoo Kostenrechnung]]
+
+## Kontenplan
+
+Der schweizerische Kontenplan KMU von Sterchi/Mattle/Helbling ist in der Schweiz weit verbreitet.
+
+Eine neuer Mandant in odoo hatbei Ländereinstellung "Schweiz" automatisch einen Kontenplan der schweiz. KMU. Dieser muss jedoch noch angepasst werde, da diverse Konten enthalten sind, die nicht verwendet werden.
 
 ## Budget planen
 
