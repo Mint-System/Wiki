@@ -29,3 +29,11 @@ Mehr dazu unter [[Odoo Budget]].
 ## Import Kontoauszüge
 
 Mit Odoo können Kontoauszüge ganz einfach importiert werden. Mehr dazu unter [[Odoo Finanzen Import]].
+
+## Mehrere Währungen
+
+Das Finanz-Modul von Odoo unterstützt mehrere Währungen.
+
+### Automatische Wechselkurse
+
+Wechselkurse können automatisch mit Anbietern synchronisiert werden.

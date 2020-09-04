@@ -51,9 +51,9 @@ Nach dem Login klicken sie oben rechts auf ihren Benutzer und wählen *My Profil
 
 Klicken sie oben rechts auf ihen Benutzer und wählen *My Profile*. Drücken sie  am Ende des Dialogs auf *Passwort ändern*.
 
-# App Apps
+# Apps
 
-# App Einstellungen
+# Einstellungen
 
 ## Entwicklermodus aktivieren
 
@@ -101,15 +101,15 @@ Navigieren sie nach *Einstellungen > Allgemeine Einstellungen > Benutzer* und kl
  
 Wählen Sie *Aktion* und *Passwort ändern*. Geben sie im Feld *Neues Passwort* das neue Passwort ein.
 
-# App Diskussion
+# Diskussion
 
-# App Kalender
+# Kalender
 
-# App Kontakte
+# Kontakte
 
-# App Kundenveraltung
+# Kundenveraltung
 
-# App Verkäufe
+# Verkäufe
 
 ## Verkäufe Dashboard
 
@@ -129,13 +129,19 @@ Navigation: *Verkläufe > Produkte > Produkte*
 
 ### Produkt erstellen
 
-# App Projekt
+# Projekt
 
-# App Finanzen
+# Finanzen
 
 ## Finanzen Dashboard
 
-# App Zeiterfassung
+## Mehrere Währungen
+
+Odoo Dokumentation: [Odoo’s multi-currency system ](https://www.odoo.com/documentation/user/13.0/accounting/others/multicurrencies/how_it_works.html)
+
+Navigieren nach *Finanzen > Konfiguration > Einstellungen > Währungen* und dort die Option *Mehrere Währungen* akvieren. Nach Bedarf muss ein Journal gemäss [[Odoo Journal-Vorlage]] erstellt werden. Die verfügbaren Währungen können über die Option *Andere Währungen aktivieren* verwaltet werden.
+
+# Zeiterfassung
 
 ## Zeiterfassung Dashboard
 
@@ -167,7 +173,7 @@ Erscheint ein Dialog, wählen sie *Discard Data*.
 
 Nun ist die App zur mobilen Zeiterfassung bereit.
 
-# App Personal
+# Personal
 
 Odoo unterscheidet zwischen Benutzer und Mitarbeiter. Mitarbeiter müssen nicht zwingend einen Odoo-Account besitzen. Zur Verwendung von Apps wie die Zeiterfassung muss den Benutzer ein Mitarbeiter hinterlegt werden.
 
@@ -179,10 +185,20 @@ Schliessen Sie den Vorgang mit *Speichern* ab.
 
 ## Arbeitsvertrag hinzufügen
 
-# App Personalabrechnung
+# Personalabrechnung
 
-# App Abwesenheitszeiten
+# Abwesenheitszeiten
 
-# App Link Tracker
+# Link Tracker
 
-Aktivieren Sie den [[#Entwicklermodus aktivieren|Entwicklermodus]].
+Um diesen App zu sehen, müssen sie den [[#Entwicklermodus aktivieren|Entwicklermodus]] aktvieren.
+
+# Odoo App
+
+Alle Odoo-Funktionen sind als mobile App verfügbar.
+
+## Login
+
+Die Verwendung der App erfordert einen Odoo Account. Setze nach Bedarf das [[#Passwort ändern]] zurück.
+
+Laden Sie die App aus dem Geräte-spezifischen App-Store herunter.

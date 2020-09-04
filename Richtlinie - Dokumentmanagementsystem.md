@@ -50,7 +50,8 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 * Projekte/[Name] - Projektablagen analog Odoo
 * Public Relations - Zeitungsartikel und allgemeine PR
 * Strategie - Allgemeine Geschäftsstrategie und Businessplan
-* Verkauf und Marketing - Markting-Kampagnen und Verkaufsdokumente
+* Marketing - Dokumente zu Marketing-Kampagnen
 * Verträge/[Name] - Alle Vertragsdokumente mit Externen
 * Vorlage - Dokumentvorlagen mit Inhalt
 * Website - Dateien zum Webauftritt
+* Verkauf - Vorlagen für Angebote
