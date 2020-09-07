@@ -1,7 +1,7 @@
 # Odoo Hosting
 ## Lizenzierung
 
-Odoo wird in zwei verschiednen Lizenz-Modellen angeboten:
+Odoo wird in zwei verschiedenen Lizenz-Modellen angeboten:
 1. [[Odoo Community Edition]]
 2. [[Odoo Enterprise]]
 

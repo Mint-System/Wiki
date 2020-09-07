@@ -1,6 +1,6 @@
 # Projektdefinition
 * Anforderungsanalyse gemäss Vorgehensmodell durchführen.
-* Cloud-Projektordner unter https://cloud.mint-system.ch/f/1035 erstellen
+* Cloud-Projektordner erstellen
 * Durchführung Unternehmensanalyse
 *  Durchführen Dokumentanalyse
 * Technische Systeme festlegen

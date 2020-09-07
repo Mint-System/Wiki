@@ -32,6 +32,8 @@ Mit Odoo können Kontoauszüge ganz einfach importiert werden. Mehr dazu unter [
 
 ## Mehrere Währungen
 
+Odoo Dokumentation: [Odoo’s multi-currency system ](https://www.odoo.com/documentation/user/13.0/accounting/others/multicurrencies/how_it_works.html)
+
 Das Finanz-Modul von Odoo unterstützt mehrere Währungen.
 
 ### Automatische Wechselkurse

@@ -6,5 +6,5 @@ Richtlinien der Mint System.
 [[Richtlinie - Dokumentmanagementsystem]]  
 [[Richtlinie - Konferenz]]  
 [[Richtlinie - Passwörter]]  
-[[Richtlinei - E-Mail]]  
+[[Richtlinie - E-Mail]]  
 [[Richtlinie - Website]]

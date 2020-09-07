@@ -137,9 +137,13 @@ Navigation: *Verkläufe > Produkte > Produkte*
 
 ## Mehrere Währungen
 
-Odoo Dokumentation: [Odoo’s multi-currency system ](https://www.odoo.com/documentation/user/13.0/accounting/others/multicurrencies/how_it_works.html)
-
 Navigieren nach *Finanzen > Konfiguration > Einstellungen > Währungen* und dort die Option *Mehrere Währungen* akvieren. Nach Bedarf muss ein Journal gemäss [[Odoo Journal-Vorlage]] erstellt werden. Die verfügbaren Währungen können über die Option *Andere Währungen aktivieren* verwaltet werden.
+
+### Währungskursmanuell festlegen
+
+Euro -> CHF 1.1061
+
+### Währungskurse synchronisieren
 
 # Zeiterfassung
 
@@ -196,6 +200,12 @@ Um diesen App zu sehen, müssen sie den [[#Entwicklermodus aktivieren|Entwickler
 # Odoo App
 
 Alle Odoo-Funktionen sind als mobile App verfügbar.
+
+# Fleet
+
+## Fahrzeugflotte
+Nach der Installation sind die gängisten Automarken bereits erfasst.
+Bei einer Fahrzeugflotte für Lastkraftwagen (LKW) sind die Marken/Lieferanten nicht erfasst. Diese sind noch nachträglich zu erfassen inkl. Logo.
 
 ## Login
 

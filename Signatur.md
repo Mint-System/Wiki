@@ -2,6 +2,7 @@
 ```
 ___
 
+Janik von Rotz
 CTO
 Mint System GmbH
 Seedorferstrasse 29
