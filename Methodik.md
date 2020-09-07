@@ -1,4 +1,4 @@
 # Methodik
-[[Evaluation]]
-[[Vorgehensmodell]]
-[[Management Handbuch]]
+[[Evaluation]]  
+[[Vorgehensmodell]]  
+[[Management Handbuch]]  

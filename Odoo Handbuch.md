@@ -177,6 +177,13 @@ Erscheint ein Dialog, wählen sie *Discard Data*.
 
 Nun ist die App zur mobilen Zeiterfassung bereit.
 
+## Aufgabe und Projekt zuweisen
+
+Damit ein Projekt und eine Aufgabe in der Awesome Timesheet für die Zeiterfassung sichtbar wird müssen die folgenden Bedigungen erfüllt sein.
+
+* Das Projekt muss als Favorit markiert sein
+* Die Projektaufgabe ist dem Benutzer zugewiesen oder der Benutzer wurde als Abonement der Aufgabe hinzugefügt.
+
 # Personal
 
 Odoo unterscheidet zwischen Benutzer und Mitarbeiter. Mitarbeiter müssen nicht zwingend einen Odoo-Account besitzen. Zur Verwendung von Apps wie die Zeiterfassung muss den Benutzer ein Mitarbeiter hinterlegt werden.
@@ -203,7 +210,11 @@ Alle Odoo-Funktionen sind als mobile App verfügbar.
 
 # Fleet
 
+Das App dient zur Verwaltung der Fahrzeuge.
+Dabei werden die Fahrzeugdaten hinterlegt. Im Weiteren auch Lasing-Verträge, Servicekosten und auch Treibstoffkosten.
+
 ## Fahrzeugflotte
+
 Nach der Installation sind die gängisten Automarken bereits erfasst.
 Bei einer Fahrzeugflotte für Lastkraftwagen (LKW) sind die Marken/Lieferanten nicht erfasst. Diese sind noch nachträglich zu erfassen inkl. Logo.
 
@@ -212,3 +223,15 @@ Bei einer Fahrzeugflotte für Lastkraftwagen (LKW) sind die Marken/Lieferanten n
 Die Verwendung der App erfordert einen Odoo Account. Setze nach Bedarf das [[#Passwort ändern]] zurück.
 
 Laden Sie die App aus dem Geräte-spezifischen App-Store herunter.
+
+## Treibstoffkosten
+
+Je erfasstes Fahrzeug kann der Tankvorgang erfasst werden:
+- Treibstoffart
+- Anzahl Liter
+- Preis je Liter
+- aktueller Kilometerstand
+
+## Status der Fahrzeuge
+
+In der Kanban-Ansicht werden die Stati wie "Verfügbar", "in Wartung" oder "in Betrieb" als Spalten dargestellt und die Fahrzeuge zugeteilt.
