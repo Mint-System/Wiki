@@ -65,19 +65,29 @@ Auf *Entwicklermodus aktivieren* klicken. Nun erscheinen neue Optionen in versch
 
 **Generierung**
 
-Damit Begriffe überesetzt werden können, muss als erstes die Liste, der zu übersetzenden Begriffe aktualisiert werden.  Im Entwickler-Modus folgende Ausführung machen:
+Damit Begriffe überesetzt werden können, muss als erstes die Liste, der zu übersetzenden Begriffe aktualisiert werden.  Im [[#Entwicklermodus aktivieren|Entwickler-Modus]] folgende Aktionen ausführen:
 
-*Einstellungen > Übersetzungen > Fehlende Begriffe generieren*
+*Einstellungen > Übersetzungen > Fehlende Begriffe generieren*.
 
-Dann die kann man die Überstzungen über die Einstellungen anzeigen.
+Dann kann man die Übersetzungen über die Einstellungen anzeigen.
 
-**Aktualisierung**
+## Übersetzungen erstellen
 
-Die Liste *Einstellungen > Übersetzungen > Übersetzte Begriffe* nach *Nicht übersetzt* filtern.
+Odoo wird in viele Sprachen übersetzt, daher kann es sein, dass die Lokalisierung in der eingestellte Sprache unvollständig ist.
 
-Nach dem zu übersetzenden Begriff suchen und aktualisieren.
+Findet man einen Begriff oder Satz, der nicht korrekt übersetzt ist, kann man diesen selbst anpassen. Dazu ein Beispiel.
 
-![[Odoo Übersetzte Begriffe.png]]
+Der folgende Ausschnitt ist aus einem Odoo-Dialog. Die Labels und Buttons sind nicht übersetzt.
+
+![[Odoo Übersetzung vorher.png]]
+
+Als erstes muss man  die [[#Übersetzungen aktualisieren]]. Anschliessend kann man in der Liste *Einstellungen > Übersetzungen > Übersetzte Begriffe* den englischen Begriff suchen und anpassen.
+
+![[ODoo Übersetzung bearbeiten.png]]
+
+Nun ist der Odoo-Dialog übersetzt.
+
+![[Odoo Übersetzung nachher.png]]
 
 ## Tour deaktivieren
 
@@ -149,6 +159,14 @@ Euro -> CHF 1.1061
 
 ## Zeiterfassung Dashboard
 
+## Eintrag manuell erstellen
+
+Damit ein Odoo Benutzer ein Zeiterfassungs-Eintrag machen kann, müssen die foglenden Bedingungen erfüllt sein:
+* Dem Benutzer ist ein Mitarbeiter zugewiesen
+* Der Benutzer hat Zugriff auf ein Projekt und auf eine Projektaufgabe
+
+Zur manuellen Erfassung folgende Aktion ausführen *Zeiterfassung > + Anlegen*. Anschliessend die Beschreibung eingeben, Projekt wählen, Aufgabe wählen und die Zeitdauer eintragen.
+
 ## Awesome Timesheet
 
 Um die mobile App *Awesome Timesheet* in ihrem Browser oder auf dem Smartphone zu verwenden, müssen sie es zuerst über den jeweiligen App-Store installieren.
@@ -177,7 +195,7 @@ Erscheint ein Dialog, wählen sie *Discard Data*.
 
 Nun ist die App zur mobilen Zeiterfassung bereit.
 
-## Aufgabe und Projekt zuweisen
+### Aufgabe und Projekt zuweisen
 
 Damit ein Projekt und eine Aufgabe in der Awesome Timesheet für die Zeiterfassung sichtbar wird müssen die folgenden Bedigungen erfüllt sein.
 
@@ -208,21 +226,20 @@ Um diesen App zu sehen, müssen sie den [[#Entwicklermodus aktivieren|Entwickler
 
 Alle Odoo-Funktionen sind als mobile App verfügbar.
 
-# Fleet
-
-Das App dient zur Verwaltung der Fahrzeuge.
-Dabei werden die Fahrzeugdaten hinterlegt. Im Weiteren auch Lasing-Verträge, Servicekosten und auch Treibstoffkosten.
-
-## Fahrzeugflotte
-
-Nach der Installation sind die gängisten Automarken bereits erfasst.
-Bei einer Fahrzeugflotte für Lastkraftwagen (LKW) sind die Marken/Lieferanten nicht erfasst. Diese sind noch nachträglich zu erfassen inkl. Logo.
-
 ## Login
 
 Die Verwendung der App erfordert einen Odoo Account. Setze nach Bedarf das [[#Passwort ändern]] zurück.
 
 Laden Sie die App aus dem Geräte-spezifischen App-Store herunter.
+
+# Fleet
+
+Das App dient zur Verwaltung von Fahrzeugen. Es können Fahrzeugdaten, Leasing-Verträge, Servicekosten oder Treibstoffkosten erfasst werden.
+
+## Fahrzeugflotte
+
+Nach der Installation sind die gängisten Automarken bereits erfasst.
+Bei einer Fahrzeugflotte für Lastkraftwagen (LKW) sind die Marken/Lieferanten nicht erfasst. Diese sind noch nachträglich zu erfassen inkl. Logo.
 
 ## Treibstoffkosten
 
