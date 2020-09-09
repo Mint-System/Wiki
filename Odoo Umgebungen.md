@@ -5,7 +5,7 @@ Falls die Entwicklung von Odoo-Anwendungen eine grössere Bedeutung erhält, mü
 
 ## Entwicklung
 
-Zur Entwicklung von Odoo App wurde eine lokale Entwicklungsumgebung erstellt: https://github.com/Mint-System/Odoo-Development
+Zur Entwicklung von Odoo App wurde eine lokale Entwicklungsumgebung erstellt: <https://github.com/Mint-System/Odoo-Development>
 
 ## Intern
 

@@ -1,4 +1,4 @@
-# Odoo Demo
+# Odoo Demoaten
 
 Für die Odoo Demos werden Datensätze und Szenarios gepflegt. Für jede Odoo App wird festgehalten wie die Demodaten exportiert wurden und wie die dazugehörige Export-Datei heisst.
 

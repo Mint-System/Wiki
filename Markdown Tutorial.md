@@ -1,10 +1,10 @@
-## Markdown Tutorial
+# Markdown Tutorial
 
 Markdown ist eine vereinfachte Auszeichnungssprache. Markdown-Dateien sind einfache Text-Dateien, die zur Darstellung in HTML-Seiten umgewandelt werden. Das Markdown-Markup hat zum Ziel als Textdatei und als HTML-Seite leserlich zu bleiben.
 
-# Formatierung
+## Basis
 
-Die wichtigsten Befehle zur Formatierung.
+Die [Basissyntax](https://www.markdownguide.org/basic-syntax/) umfasst eine übersichliche Anzahl Befehle. Dazu eine Auswahl der wichtigsten:
 
 ## Text
 
@@ -17,6 +17,7 @@ Markup:
 # Überschrift 1
 ## Überschrift 2
 ### Überschrift 3
+Normal
 ```
 
 Output:
@@ -24,6 +25,7 @@ Output:
 # Überschrift 1
 ## Überschrift 2
 ### Überschrift 3
+Normal
 
 ### Fett
 
@@ -47,11 +49,15 @@ Output:
 
 *Lorem* ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
-## Docsify
+## Erweiterungen
 
-Das Set an Markdown-Befehlen wurde von Driten erweitert. Mit [Docsify](https://docsify.js.org/) können umfassende Dokumentationen erstellt werden.
+Zur Basissyntax von Markdown gibt es verschiedene [Erweiterungen](https://www.markdownguide.org/extended-syntax/).
 
-### Wichtig
+### Docsify
+
+Das Set an Markdown-Befehlen wurde von Dritten erweitert. Mit [Docsify](https://docsify.js.org/) können umfassende Dokumentationen erstellt werden.
+
+#### Wichtig
 
 Markup:
 ```
@@ -62,9 +68,13 @@ Output:
 
 !> Wichtige Notiz
 
-## GitHub
+### GitHub
 
-### Aufgaben
+GitHub ist eine Kollaborationsplattform zur Entwicklung von Software. Es erweitert Markdown um einige Funktionen.
+
+#### Aufgaben
+
+Aufgaben können auf GitHub direkt bearbeitet werden.
 
 Markup:
 ```
