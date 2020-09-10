@@ -12,7 +12,3 @@ Zur Umsetzung eines ERP-Projekt werden die folgenden Prozesse angwendet:
 * [[Prozesse Akquise - Anforderungsanalyse]]
 * [[Prozesse Projektmanagement - Konzept]]
 * [[Prozesse Akquise - Angebot erstellen]]
-
-## Makro-Prozesse
-
-## Mikro-Prozesse

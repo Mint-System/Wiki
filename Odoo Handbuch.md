@@ -89,6 +89,19 @@ Nun ist der Odoo-Dialog übersetzt.
 
 ![[Odoo Übersetzung nachher.png]]
 
+## Übersetzungen exportieren
+
+Im Entwicklermodus öffnen sie den Export-Dialog via *Einstellungen > Übersetzungen > Import / Export > Übersetzung exportieren*. Wählen sie die zu exportierende Sprache, Datei-Format CSV und eine App deren Übersetzungen sie exportieren möchten. Drücken sie auf *Export* und laden die CSV-Datei herunter.
+
+!> Organisieren sie die Übersetzung nach Apps
+
+## Übersetzungen importieren
+
+m Entwicklermodus öffnen sie den Import-Dialog via *Einstellungen > Übersetzungen > Import / Export > Übersetzung importieren*. Für die Sprache Deutsch (Schweiz) geben sie die folgenden Informationen ein:
+* Sprache: de
+* Code: CH
+Laden sie die Datei mit Übersetzungen hoch und klicken auf *Import*.
+
 ## Tour deaktivieren
 
 Aktivieren Sie den [[#Entwicklermodus aktivieren|Entwicklermodus]].
@@ -135,7 +148,7 @@ Wählen Sie den Kunden aus, der das Angebot erhalten soll.
 
 ## Produkte Dashboard
 
-Navigation: *Verkläufe > Produkte > Produkte*
+Navigation: *Verkkäufe > Produkte > Produkte*
 
 ### Produkt erstellen
 

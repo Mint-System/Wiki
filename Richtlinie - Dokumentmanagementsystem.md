@@ -28,7 +28,7 @@ Ordner mit der Bezeichung "Input" sind Sammelordner mit Dokumenten zur Verarbeit
 
 Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 
-* Angebot - Angebot der Mint System
+* Angebot - Angebote der Mint System
 * Archiv - Ablage zur Archivierung
 * Bilder - Fotoalben
 * Corporate Design - Format- und Dokumentvorlagen, Bilder zur Publikation

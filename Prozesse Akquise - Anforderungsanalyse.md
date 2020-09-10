@@ -30,6 +30,6 @@ Jede Anforderungen wird mit diesen Attributen beschrieben:
 
 **Beispiel**
 
-ID|Name|Beschreibung|Priorität
-|-|-|-|-|
-FA-1|Export CSV|Alle Daten müssen in das CSV-Datenformat exportiert werden können.|Muss 
+ID|Name|Beschreibung|Priorität|Prozess|
+|-|-|-|-|-|
+FA-1|Export CSV|Alle Daten müssen in das CSV-Datenformat exportiert werden können.|Muss|Daten exportieren|
