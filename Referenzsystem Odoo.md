@@ -10,10 +10,6 @@
 
 ![[Prozess Einkauf]]
 
-Aufgaben:
-
-![[Prozess Einkauf.png]]
-
 ```mermaid
 graph TD;
     A-->B(Text);
