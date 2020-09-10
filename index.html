@@ -28,7 +28,7 @@
             // convert embeded content links
             // ![[Content] -> [Content](Content.md ':include')
             const embededContent = /!\[\[([^\]]*)\]\]/g
-            let matches = content.match(embededContent)
+            let matches = content.match(embededContent) || []
             for (i = 0; i < matches.length; i++) {
               let match = matches[i]
               let title = encodeURI(match.match(/\[\[([^\]|#]*)/)[1])
