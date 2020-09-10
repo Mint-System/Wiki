@@ -6,15 +6,19 @@ Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
 
 Sie ist als Git Repository unter <https://github.com/Mint-System/Knowledge> gehostet.
 
-## Benutzung
+## Darstellung
 
-Die Betrachtung der Wissensdatenbank erfordert die Installation und Verwendung von [Obsidian](https://obsidian.md/) und [git](https://git-scm.com/).
+Die Wissensdatenbank wird mit [[Docsify]] visualisiert.
 
-Zur Bearbeitung erstellt man einen lokalen Klon `git clone git@github.com:Mint-System/Knowledge.git` und öffnet den Ordner als Obsidian-Vault.
+## Bearbeitung
+
+Zur Bearbeitung der Wissensdatenbank muss [Obsidian](https://obsidian.md/) und [git](https://git-scm.com/) installiert werden.
+
+Zur lokalen Bearbeitung erstellt man einen Klon `git clone git@github.com:Mint-System/Knowledge.git` des Git Repo und öffnet den Ordner als Obsidian-Vault.
 
 ## Struktur
 
-Die Wissensdatenbank ist eine Ansammlung von [Markdown](https://de.wikipedia.org/wiki/Markdown)-Dateien. Diese Text-Dateien werden mittels `[[]]`-Wikilinks  verlinkt und bilden so eine vernetzte Wissensdatenbank.
+Die Wissensdatenbank ist eine Ansammlung von [Markdown](https://de.wikipedia.org/wiki/Markdown)-Dateien. Diese Text-Dateien werden mittels [Wikilinks](https://de.wikipedia.org/wiki/Hilfe:Links)  verlinkt und bilden so eine vernetzte Wissensdatenbank.
 
 ## Navigation
 
@@ -31,6 +35,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Netzwerk]]
 * [[Corporate Design]]
 * [[Tools]]
+* [[Links]]
 
 ## Hilfe
 

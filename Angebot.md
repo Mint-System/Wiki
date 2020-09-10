@@ -1,10 +1,9 @@
 # Angebot 
-## Open Source Software
-
-[[LibreOffice]]
+[[LibreOffice]]  
 [[Odoo]]  
 [[Moodle]]  
 [[Nextcloud]]  
 [[BigBlueButton]]  
-[[Linux Server Patching]]
-[[Hosting]]
+[[Linux Server Patching]]  
+[[Hosting]]  
+[[OpenEduca]]  
