@@ -83,7 +83,7 @@ Der folgende Ausschnitt ist aus einem Odoo-Dialog. Die Labels und Buttons sind n
 
 Als erstes muss man  die [[#Übersetzungen aktualisieren]]. Anschliessend kann man in der Liste *Einstellungen > Übersetzungen > Übersetzte Begriffe* den englischen Begriff suchen und anpassen.
 
-![[ODoo Übersetzung bearbeiten.png]]
+![[Odoo Übersetzung bearbeiten.png]]
 
 Nun ist der Odoo-Dialog übersetzt.
 

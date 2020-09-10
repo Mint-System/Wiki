@@ -22,7 +22,7 @@
           hook.beforeEach(function(content) {
 
             // convert wiki image links
-            const wikiImage = /!\[\[([^\]]*)\]\]/g
+            const wikiImage = /!\[\[([^\]]*\.png|jpg|jpeg)\]\]/g
             content = content.replace(wikiImage, '<img src="/assets/$1" \/>')
 
             // convert wiki links
