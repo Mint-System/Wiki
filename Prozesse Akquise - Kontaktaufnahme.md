@@ -4,4 +4,4 @@
 
 * Bereitstellen Kontaktliste mit Telefonnummern
 * Direkte Anfrage zu Interessen
-* Aufnahme der Mail-Adresse im [[Prozesse Marting - Newsletter und Blog|Newsletter]]
+* Aufnahme der Mail-Adresse im [[Prozesse Marketing - Newsletter und Blog|Newsletter]]

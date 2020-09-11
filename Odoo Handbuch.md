@@ -154,6 +154,10 @@ Navigation: *Verkkäufe > Produkte > Produkte*
 
 # Projekt
 
+## Timer starten
+
+
+
 # Finanzen
 
 ## Finanzen Dashboard
@@ -249,12 +253,12 @@ Laden Sie die App aus dem Geräte-spezifischen App-Store herunter.
 
 Das App dient zur Verwaltung von Fahrzeugen. Es können Fahrzeugdaten, Leasing-Verträge, Servicekosten oder Treibstoffkosten erfasst werden.
 
-## Fahrzeugflotte
+## Fahrzeugflotte verwalten
 
 Nach der Installation sind die gängisten Automarken bereits erfasst.
 Bei einer Fahrzeugflotte für Lastkraftwagen (LKW) sind die Marken/Lieferanten nicht erfasst. Diese sind noch nachträglich zu erfassen inkl. Logo.
 
-## Treibstoffkosten
+## Treibstoffkosten erfassen
 
 Je erfasstes Fahrzeug kann der Tankvorgang erfasst werden:
 - Treibstoffart
@@ -262,7 +266,7 @@ Je erfasstes Fahrzeug kann der Tankvorgang erfasst werden:
 - Preis je Liter
 - aktueller Kilometerstand
 
-## Status der Fahrzeuge
+## Status der Fahrzeuge anzeigen
 
 In der Kanban-Ansicht werden die Stati wie "Verfügbar", "in Wartung" oder "in Betrieb" als Spalten dargestellt und die Fahrzeuge zugeteilt.
 
