@@ -1,5 +1,6 @@
 .DS_Store
 .obsidian
 default.vim
-
 .now
+node_modules
+.vercel
