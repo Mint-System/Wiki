@@ -30,7 +30,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Odoo]]
 * [[Angebot]]
 * [[Prozesse]]
-* [[Infrastuktur]]
+* [[Infrastruktur]]
 * [[Methodik]]
 * [[Richtlinien]]
 * [[Dokumente]]

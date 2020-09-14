@@ -153,7 +153,7 @@ Navigation: *Verkkäufe > Produkte > Produkte*
 ### Produkt erstellen
 
 # Projekt
-## ==Projektplanung erstellen==
+## Projektplanung erstellen
 
 ## Projekt anlegen
 Feld |Inhalt|Beispiel
