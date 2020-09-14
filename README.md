@@ -38,6 +38,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Corporate Design]]
 * [[Tools]]
 * [[Links]]
+* [[Tags]]
 
 ## Hilfe
 

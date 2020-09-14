@@ -5,5 +5,5 @@ Dokumentation der Akquise Prozesse.
 * [[Prozesse Akquise - Angebot erstellen]]
 * [[Prozesse Akquise - Anforderungsanalyse]]
 * [[Prozesse Akquise - Kontaktaufnahme]]
-* [[Prozesse Akquise - Odoo Demoumgebung]]
+* [[Prozesse Akquise - Odoo Demoumgebung bestellen]]
 * [[Prozesse Akquise - Präsentation]]
