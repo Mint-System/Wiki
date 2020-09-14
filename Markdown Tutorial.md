@@ -93,3 +93,30 @@ Output:
 - [] bam <~ not working
   - [ ] bim
   - [ ] lim
+
+### Mermaid
+
+Mit [mermaid](https://mermaid-js.github.io/mermaid/) erstellt man  Diagramme basierend auf Markdown-inspierten Textdefinitionen.
+
+#### Flowchart
+
+Markup:
+~~~
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+~~~
+
+Output:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
