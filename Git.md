@@ -1,4 +1,7 @@
 # Git
+Git ist eine freie Software zur verteilten Versionsverwaltung von Dateien, die durch Linus Torvalds initiiert wurde.
+
+Homepage: https://git-scm.com/
 
 ## Client
 

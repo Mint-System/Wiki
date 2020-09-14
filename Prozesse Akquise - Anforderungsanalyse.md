@@ -25,6 +25,7 @@ Jede Anforderungen wird mit diesen Attributen beschrieben:
 
 ## Anforderungskatalog erstellen
 
+Arbeitsschritte:
 * Erfassen der Anforderung durch Interview und Dokumentanalyse
 * Erstellen Dokument mit tabellarischer Darstellung der Anforderungen
 

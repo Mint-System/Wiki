@@ -1,5 +1,7 @@
 # Odoo Demoumgebung
-Demoumgebung beantragen.
+Odoo Demoumgebung bestellen.
+
+Arbeitsschritte:
 * Aufgabe von Vorlage Akquise duplizieren
 * Festhalten Module und Lizenz-Typ
 * Zuweisen an Infrastruktur

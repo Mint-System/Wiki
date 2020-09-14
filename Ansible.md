@@ -4,3 +4,9 @@ Ansible ist die Technologie mit der die gesamte Mint System Infrastruktur betrie
 ## Architektur
 
 ![[Ansible Architektur.png]]
+
+## Lessons Learned
+
+**Tags**
+
+Once a play matches a tag, it will also run every task that is part of that play regardless of other tags.

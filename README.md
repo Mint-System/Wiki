@@ -12,9 +12,9 @@ Die Wissensdatenbank wird mit [[Docsify]] visualisiert.
 
 ## Bearbeitung
 
-Zur Bearbeitung der Wissensdatenbank muss [Obsidian](https://obsidian.md/) und [git](https://git-scm.com/) oder ein anderer git client installiert werden.
+Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
 
-Zur lokalen Bearbeitung erstellt man einen Klon `git clone git@github.com:Mint-System/Knowledge.git` des Git Repo und öffnet den Ordner als Obsidian-Vault.
+Zur lokalen Bearbeitung erstellt man einen Klon des Git Repo `git clone git@github.com:Mint-System/Knowledge.git` und öffnet den Ordner als Obsidian-Vault.
 
 Mehr zur gemeinsamen Bearbeitung gibt es unter [[Contribution]]. 
 

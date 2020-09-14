@@ -1,5 +1,7 @@
 # Prozesse Finanzen
-[[Prozesse Finanzen - Buchhaltung]]
-[[Prozesse Finanzen - Ausgangsrechnungen]]
-[[Prozesse Finanzen - Personalabrechnung]]
-[[Prozesse Finanzen - Eingangsrechnungen]]
+Dokumentation der Finanz-Prozesse.
+
+* [[Prozesse Finanzen - Ausgangsrechnungen]]
+* [[Prozesse Finanzen - Buchhaltung]]
+* [[Prozesse Finanzen - Eingangsrechnungen]]
+* [[Prozesse Finanzen - Personalabrechnung]]

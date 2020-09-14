@@ -1,5 +1,7 @@
 # Angebot erstellen
-Angebot erstellen:
+Mit dem Odoo Verkäufe-App ein Angebot erstellen.
+
+Arbeitsschritte:
 * App Verkäufe öffnen
 * Neues Angebot erstellen
 * Ablaufdatum 1 Monat

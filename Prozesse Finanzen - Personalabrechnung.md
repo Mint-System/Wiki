@@ -1,5 +1,7 @@
 # Personalabrechnung
-## Vorbereitung
+Prozesse zur Personalabrechung der Mint System.
+
+## Konten einrichten
 
 Zur korrekten Abrechnung müssen die folgenden Konten vorhanden sein:
 
@@ -15,6 +17,7 @@ Zur korrekten Abrechnung müssen die folgenden Konten vorhanden sein:
 
 Die Aufwandskonten sind ohne Steuern.
 
-## Buchhaltung
+## Lohnabrechnung erstellen
 
-Übersicht zur Lohnabrechnung auf [buchen.ch](https://www.buchen.ch/Handout-Modul-C2-Loehne-Lohnabrechnung-Personalaufwand.html).
+Arbeitsschritte:
+* 

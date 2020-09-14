@@ -1,6 +1,13 @@
 # Referenzsystem Odoo
+#replaceme: Was ist eine Prozesslandkarte?
+
+![[Prozesslandkarte]]
 
 ## Prozesse
+#replaceme: Text einfügen.
+
+### Entwicklung
+![[Prozess Entwicklung]]
 
 ### Produktionsplanung
 
@@ -14,8 +21,6 @@
 
 * [[Odoo Handbuch#Angebot erstellen|Angebotsanfrage erstellen]]
 * [[Odoo Handbuch#Produkt erstellen|Einkaufprodukte definieren]]
-
-[[Odoo Handbuch#Angebot erstellen]]
 
 ### Lieferantenbeurteilung
 

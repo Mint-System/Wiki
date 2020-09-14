@@ -1,7 +1,5 @@
-# Prozesse
-## Vorbereitung
-
-Erstellen Kontorrent Bank.
+# Buchhaltung
+Führung der Buchhaltung der Mint System.
 
 ## Darlehenskonto einrichten
 
@@ -60,6 +58,8 @@ MWST: MwSt. 7,7% ink. NRZ
 ### Fördergelder
 
 Bank an ausserordentlicher Ertrag
+
+Konto: 8510 Ausserordentlicher, einmaliger oder periodenfremder Ertrag
 
 ### Einzahlung Darlehen
 

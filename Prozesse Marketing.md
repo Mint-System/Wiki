@@ -1,2 +1,4 @@
 # Prozesse Marketing
-[[Prozesse Marketing - Newsletter und Blog]]
+Dokumentation der Marketing Prozesse.
+
+* [[Prozesse Marketing - Newsletter und Blog]]

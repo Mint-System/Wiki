@@ -1,5 +1,7 @@
 # Server bereitstellen
-Neuer Server wie folgt bereitstellen:
+Bereitstellung eines neuen Server.
+
+Arbeitsschritte:
 * Konfiguration im Setup Inventory
 * Festlegen Zugriffsberechtigungen
 * Bereitstellung mit Setup Playbook

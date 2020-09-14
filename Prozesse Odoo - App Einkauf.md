@@ -2,4 +2,6 @@
 ## Initialisierung
 
 ## Erweiterungen installieren
+
+Auswahl:
 * (purchase_enterprise)

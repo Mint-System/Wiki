@@ -153,6 +153,13 @@ Navigation: *Verkkäufe > Produkte > Produkte*
 ### Produkt erstellen
 
 # Projekt
+## ==Projektplanung erstellen==
+
+## Projekt anlegen
+Feld |Inhalt|Beispiel
+:- |: -|:-
+Projektbezeichnung| *Name des Projektes*|Mountainbike Krönten
+
 
 ## Timer starten
 

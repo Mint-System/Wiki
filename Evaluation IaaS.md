@@ -45,6 +45,6 @@ Commandlinetools und APIs für Entwickler bieten grundsätzlich nur wenige an.
 
 Falls der Standort frei Wählbar ist und sehr günstig fahren möchte ist [[Hetzner]] eine gute Wahl.
 
-Muss der Standort Schweiz sein, ist **Exoscale** zu empfehlen.
+Muss der Standort Schweiz sein, ist [[Exoscale]] zu empfehlen.
 
 Die beiden Anbieter überzeugen im Preis, Angebot und der Entwicklerfreundlichkeit.

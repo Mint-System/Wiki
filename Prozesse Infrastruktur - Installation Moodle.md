@@ -1,6 +1,7 @@
 # Installation Moodle
+Inbetriebnahme einer Moodle-Installation.
 
-Bevor eine Moodle-Installation in Betrieb genommen werden kann müssen die folgenden Dinge erledigt werden:
-* Registration mail server für Outgoing Emails
+Arbeitsschritte:
+* Registration Mail Server für Outgoing Emails
 * Sprachpaket installieren
 * Administrationsbenutzer erfassen
