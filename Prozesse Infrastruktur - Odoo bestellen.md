@@ -7,4 +7,6 @@ Arbeitsschritte:
 	* Subscription-Code: Wenn es eine Odoo-Enterprise-Installation, braucht es den Subscription-Code um die Odoo-Umgebung zu aktivieren.
 	* Liste der Apps: Welche Enterprise-Apps müssen aktiviert werden?
 	* Sprackpaket: Welche Sprachpakete sollen installiert werden?
-* Erstellen Aufgabe in Kundenprojekt und zuweisen an Infrastruktur.
+	* Testumgebung: Benötigt der Kunde eine Testumgebung? Wenn ja, unter welcher URL soll diese erreichbar sein? Beispiel: `erp-dev.example.com`
+* Erstellen Aufgabe in Kundenprojekt mit Kundeninformationen
+* Zuweisen an [[Team Infrastruktur]]
