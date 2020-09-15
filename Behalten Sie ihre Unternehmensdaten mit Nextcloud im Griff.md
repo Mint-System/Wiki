@@ -1,6 +1,5 @@
 ### Präsentation
 Behalten Sie ihre Unternehmensdaten mit Nextcloud im Griff  
-![](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://nextcloud.mint-system.ch)
 
 ---
 ### Agenda
@@ -64,25 +63,25 @@ Begriff aus den 80er Jahren.
  
  ---
  ### Geschichte
- * 2010: ownCloud - Ersatz für proprietäre Storage Service Provider
+* 2010: ownCloud - Ersatz für proprietäre Storage Service Provider
 * 2016: Karlitschek verlässt ownCloud Inc. und gründet Nextcloud
 * 2018: Zuschlag Ausschreibung Bundescloud[^3]
 * 2019: Behörden der EU-Staaten Frankreich, Schweden und Niederlande setzen auf Nextcloud[^4]
 ---
  ### Geshichte
- * 2020:
+ * 2020
 	 * Nextcloud Hub als direkte Konkurrenz zu Office 365 und Google Docs[^5]
 	 * Partnerschaft Ionos[^6]
 	 * Features Talk und high performance backend
 ---
 ### Gründer Nextcloud
 Frank Karlitschek
-
- * Geboren in Reutlingen, Deutschland
+* Geboren in Reutlingen, Deutschland
 * World Wide Web Consortium Experte
 * Mitglied der Gaia-X-Initiative
 * Berater zu den United Nations
 * Speaker: Parldigi, Open Education Day, CH Open
+
 ---
 ### Was leistet Nextcloud
 ![[Nextcloud Aufbau.png]]
