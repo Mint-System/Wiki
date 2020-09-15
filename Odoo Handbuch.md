@@ -3,6 +3,9 @@
 Das ist das Mint System Handbuch zu Odoo. Hier erhalten Kunden Anleitungen zu Odoo-Funktionen.
 
 # Initialisierung
+![[icons_odoo_survey.png]]
+
+Richten sie ihre Odoo-Umgebung ein.
 
 ## Unternehmensdaten
 
@@ -37,6 +40,9 @@ DIe Abrechnung nach vereinbarten Entgelten (Art. 39 Abs. 1 MWSTG) ist das Standa
 ## Eröffnungsbuchung
 
 # Persönliche Einstellungen
+![[icons_odoo_membership.png]]
+
+Einstellungen für ihren persönlichen Odoo-Benutzer.
 
 ## Lokalisierung
 
@@ -52,8 +58,12 @@ Nach dem Login klicken sie oben rechts auf ihren Benutzer und wählen *My Profil
 Klicken sie oben rechts auf ihen Benutzer und wählen *My Profile*. Drücken sie  am Ende des Dialogs auf *Passwort ändern*.
 
 # Apps
+![[icons_odoo_modules.png]]
+
+Odoo-Apps konfigurieren und korrekt verwenden.
 
 # Einstellungen
+![[icons_odoo_settings.png]]
 
 ## Entwicklermodus aktivieren
 
@@ -125,14 +135,25 @@ Navigieren sie nach *Einstellungen > Allgemeine Einstellungen > Benutzer* und kl
 Wählen Sie *Aktion* und *Passwort ändern*. Geben sie im Feld *Neues Passwort* das neue Passwort ein.
 
 # Diskussion
+![[icons_odoo_mail.png]]
 
 # Kalender
+![[icons_odoo_calendar.png]]
 
 # Kontakte
+![[icons_odoo_contacts.png]]
+
+# Notizen
+![[icons_odoo_note.png]]
+
+# Dashboards
+![[icons_odoo_board.png]]
 
 # Kundenveraltung
+![[icons_odoo_crm.png]]
 
 # Verkäufe
+![[icons_odoo_sale.png]]
 
 ## Verkäufe Dashboard
 
@@ -153,6 +174,8 @@ Navigation: *Verkkäufe > Produkte > Produkte*
 ### Produkt erstellen
 
 # Projekt
+![[icons_odoo_project.png]]
+
 ## Projektplanung erstellen
 
 ## Projekt anlegen
@@ -166,6 +189,7 @@ Projektbezeichnung| *Name des Projektes*|Mountainbike Krönten
 
 
 # Finanzen
+![[icons_odoo_account_accountant.png]]
 
 ## Finanzen Dashboard
 
@@ -180,6 +204,7 @@ Euro -> CHF 1.1061
 ### Währungskurse synchronisieren
 
 # Zeiterfassung
+![[icons_odoo_hr_timesheet.png]]
 
 ## Zeiterfassung Dashboard
 
@@ -196,28 +221,34 @@ Zur manuellen Erfassung folgende Aktion ausführen *Zeiterfassung > + Anlegen*. 
 Um die mobile App *Awesome Timesheet* in ihrem Browser oder auf dem Smartphone zu verwenden, müssen sie es zuerst über den jeweiligen App-Store installieren.
 
 ### Login
-
+<!-- tabs:start -->
+#### **Schritt 1**
 Öffnen sie das Menu und wählen *Synchronize*.
 
 ![[Awesome Timesheet Login 1.png]]
 
+#### **Schritt 2**
 Klick auf *Sign In*.
 
 ![[Awesome Timesheet Login 2.png]]
 
+#### **Schritt 3**
 *Https://* auswählen und die Odoo Domain eingeben.
 
 ![[Awesome Timesheet Login 5.png]]
 
+#### **Schritt 4**
 Im Feld *Login* die Email und Feld *Password* das Passwort eingeben. Einloggen mit klick auf *Login*.
 
 ![[Awesome Timesheet Login 4.png]]
 
+#### **Schritt 5**
 Erscheint ein Dialog, wählen sie *Discard Data*.
 
 ![[Awesome Timesheet Login 3.png]]
+<!-- tabs:end -->
 
-Nun ist die App zur mobilen Zeiterfassung bereit.
+Nun ist die App bereit zur mobilen Zeiterfassung.
 
 ### Aufgabe und Projekt zuweisen
 
@@ -227,6 +258,7 @@ Damit ein Projekt und eine Aufgabe in der Awesome Timesheet für die Zeiterfassu
 * Die Projektaufgabe ist dem Benutzer zugewiesen oder der Benutzer wurde als Abonement der Aufgabe hinzugefügt.
 
 # Personal
+![[icons_odoo_hr.png]]
 
 Odoo unterscheidet zwischen Benutzer und Mitarbeiter. Mitarbeiter müssen nicht zwingend einen Odoo-Account besitzen. Zur Verwendung von Apps wie die Zeiterfassung muss den Benutzer ein Mitarbeiter hinterlegt werden.
 
@@ -239,10 +271,13 @@ Schliessen Sie den Vorgang mit *Speichern* ab.
 ## Arbeitsvertrag hinzufügen
 
 # Personalabrechnung
+![[icons_odoo_hr_payroll.png]]
 
 # Abwesenheitszeiten
+![[icons_odoo_hr_holidays.png]]
 
 # Link Tracker
+![[icons_odoo_website_partner.png]]
 
 Um diesen App zu sehen, müssen sie den [[#Entwicklermodus aktivieren|Entwicklermodus]] aktvieren.
 
@@ -257,6 +292,7 @@ Die Verwendung der App erfordert einen Odoo Account. Setze nach Bedarf das [[#Pa
 Laden Sie die App aus dem Geräte-spezifischen App-Store herunter.
 
 # Fleet
+![[icons_odoo_fleet.png]]
 
 Das App dient zur Verwaltung von Fahrzeugen. Es können Fahrzeugdaten, Leasing-Verträge, Servicekosten oder Treibstoffkosten erfasst werden.
 
@@ -276,8 +312,14 @@ Je erfasstes Fahrzeug kann der Tankvorgang erfasst werden:
 ## Status der Fahrzeuge anzeigen
 
 In der Kanban-Ansicht werden die Stati wie "Verfügbar", "in Wartung" oder "in Betrieb" als Spalten dargestellt und die Fahrzeuge zugeteilt.
+# Website
+![[icons_odoo_website.png]]
+
+# Studio
+![[icons_odoo_web_studio.png]]
 
 # Datenbank Manager
+![[icons_odoo_website_version.png]]
 
 Zur Verwaltung der Odoo-Instanzen gibt es ein Datenbank Manager. Dieses Tool erlaubt ein Backup von der Instanz zu erstellen und nach Bedarf wiederherzustellen.
 

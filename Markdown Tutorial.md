@@ -68,6 +68,26 @@ Output:
 
 !> Wichtige Notiz
 
+#### Tabs
+
+Markup:
+```
+<!-- tabs:start -->
+#### **Schritt 1**
+Schritt 1
+#### **Schritt 2**
+Schritt 2
+<!-- tabs:end -->
+```
+
+Output:
+<!-- tabs:start -->
+#### **Schritt 1**
+Schritt 1
+#### **Schritt 2**
+Schritt 2
+<!-- tabs:end -->
+
 ### GitHub
 
 GitHub ist eine Kollaborationsplattform zur Entwicklung von Software. Es erweitert Markdown um einige Funktionen.
