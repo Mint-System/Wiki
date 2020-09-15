@@ -1,4 +1,5 @@
 # Odoo Hosting - On-Premise
+Checklsite für On-Premise Installation.
 
 Struktur:
 

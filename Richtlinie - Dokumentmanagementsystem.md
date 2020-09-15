@@ -1,7 +1,5 @@
 # Dokumentmanagementsystem
 
-Dokumentmanagementsystem.
-
 Dokumentation zur Dokumentablage der Mint System.
 
 ## Review-Workflow

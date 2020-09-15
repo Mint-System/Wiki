@@ -7,6 +7,13 @@ Der Ordner *Knowledge* auf der Nextcloud-Ablage enthält eine Kopie von https://
 
 Diese Ablage kann mit [[Obsidian]] geöffnet und bearbeitet werden. Möchte man die Inhalte publizieren braucht es eine Git-Synchronisation.
 
+## Obsidian
+
+Für eine konfliktfreie Bearbeitung der Inhalte mit Obsidian müssen die folgenden Einstellungen vorgenommen werden:
+* Editor - Strict line breaks: On
+* Plugin - Slides: On
+* Plugin - Tag pane: On
+
 ## Git-Synchronisation
 
 Die Inhalte die auf GitHub unter https://github.com/Mint-System/Knowledge vorhanden sind, werden automatisch von [[Vercel]] unter https://knowledge.mint-system.ch publiziert.

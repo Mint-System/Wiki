@@ -1,6 +1,9 @@
 # Ansible
 Ansible ist die Technologie mit der die gesamte Mint System Infrastruktur betrieben wird. Mit Ansible beschreibt man wie eine Anzahl an Server konfiguriert wird.
 
+## Playbooks
+Die [[Ansible Playbooks]] von Mint System sind öffentlich auf GitHub verfügbar.
+
 ## Architektur
 
 ![[Ansible Architektur.png]]

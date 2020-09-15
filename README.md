@@ -39,6 +39,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Tools]]
 * [[Links]]
 * [[Tags]]
+* [[Philosophie]]
 
 ## Hilfe
 

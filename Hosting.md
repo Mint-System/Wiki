@@ -14,15 +14,15 @@ Wir erstellen für ihre Odoo Installation reguläre Backups und stellen diese na
 
 ### Monitoring
 
-Wir überwachen ihre Odoo Installation.
+Wir überwachen die gehostete Anwendung.
 
 ### Updates
 
-Die Odoo Installation sowie Apps werden laufend aktualisiert.
+Anwenungsupdates und Sicherheitspatches werden fortlaufend installiert.
 
 ### Schutz
 
-Die Webanwendungen der Mint System werden von einer [[Webapplication Firewall]] (WAF) geschützt. Dieser Schutz-Mechanismus wird fortlaufend trainiert und verbessert.
+Die Webanwendungen der Mint System werden von einer [[Web Application Firewall]] (WAF) geschützt. Dieser Schutz-Mechanismus wird fortlaufend trainiert und verbessert.
 
 ### Support
 

@@ -1,7 +1,8 @@
 # Demoumgebung bereitstellen
 ## Initialisierung
 Arbeitsschritte:
-* Registration Domain und Installation Odoo
+* Registration Domain  `$NAME.mintsys.ch`
+* Installation Odoo mit [[Ansible Playbooks]]
 * Laden Datenbankvorlage
 * Mail-Domäne gemäss Domain festlegen
 * Unternehmensdaten eintragen
@@ -15,11 +16,12 @@ Auswahl:
 * Web-Enterprise (web_enterprise)
 
 ## Login Mint System
-Integration in Login Mint System
+Integration in [[Login Mint System]].
 
 Arbeitsschritte:
 * Bei [[Login Mint System#mint-system ch Realm]] die Applikation registrieren
 * Benutzer mit Rolle `access` austatten
+* Zugriff testen
 
 ## Entfernen Demoumgebung
 Arbeitsschritte:
