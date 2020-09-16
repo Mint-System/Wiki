@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Kowledge Mint System</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -72,16 +72,20 @@
               content = content.replace(match, `<a href="/#/${href ? href : vm.route.file.replace('\.md', '')}${anchor ? ('?id=' + anchor) : ''}">${title}</a>`)
             }
 
-            // add edit button
-            var url = 'https://github.com/Mint-System/Knowledge/blob/master/' + vm.route.file
-            var edit = '[📝 Edit Document](' + url + ')\n'
+            // add footer
+            let footer = [
+              '\n\n',
+              '[📝 Edit Document](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + vm.route.file + ')\n',
+              '<hr>',
+              '<footer>',
+              'Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a>',
+              '</footer>'
+            ].join('')
 
             return (
-              content +
-              '\n\n' +
-              edit
-            );
-          });
+              content + footer
+            )
+          })
         }
       ],
       markdown: {
@@ -95,22 +99,14 @@
             return this.origin.code.apply(this, arguments)
           }
         }
-      }
+      },
+      ga: 'UA-31105856-12',
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-31105856-12"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-31105856-12');
-  </script>
-
+  <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js"></script>
 </body>
 
 </html>

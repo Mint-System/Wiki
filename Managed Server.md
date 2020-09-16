@@ -22,3 +22,8 @@ Die Anwendung werden als Linux Container betrieben. Somit sind sie voneinander g
 **Support**
 
 Benötigen Sie technischen Support für eine Anwendung, können Sie uns jederzeit kontaktieren.
+
+## Informationen
+
+[[Kalkulation Managed Server]]
+
