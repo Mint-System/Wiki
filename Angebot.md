@@ -11,5 +11,10 @@ Das Angebot der Mint System.
 [[Hosting]]  
 [[OpenEduca]]  
 
+## Hosting
+
+* [[Nextcloud Hosting]]
+* [[Odoo Hosting]]
+
 ## Produkte
 * [[Managed Server]]
