@@ -14,6 +14,7 @@
   <div id="app"></div>
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
   <script type="text/javascript" src="paths.js"></script>
+  <script type="text/javascript" src="convert.js"></script>
   <script>
     var num = 0;
     mermaid.initialize({ startOnLoad: false })
@@ -29,6 +30,16 @@
       search: {
         paths: paths 
       },
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (content) {
+
+            content = convert(content, vm.route.file)
+
+            return content
+          })
+        }
+      ],
       markdown: {
         renderer: {
           code: function (code, lang) {
