@@ -1,6 +1,6 @@
 ![[Mint System Logo.png]]
 
-# Knowedge
+# Knowledge Mint System
 
 Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
 
