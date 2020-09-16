@@ -15,7 +15,7 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md')).forEach((fi
     content = convert.convert(content,file)
 
     // write content back to file
-    //fs.writeFileSync(file, content, 'utf8')
+    fs.writeFileSync(file, content, 'utf8')
 })
 
 // write paths.json for search index
