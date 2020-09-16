@@ -3,11 +3,12 @@ Behalten Sie ihre Unternehmensdaten mit Nextcloud im Griff
 
 ---
 ### Agenda
-* Grundlagen
+* Cloud und mehr
 * Was ist Nextcloud?
 * Was leistet Nextcloud?
 * Demo
 * What's Next?
+
 ---
 ### Begriffe
 **Proprietär**  
@@ -31,15 +32,15 @@ Begriff aus den 80er Jahren.
 
 ---
 ### Cloud Heute
- ![[Cloud heute.png]]
- 
- ---
- ### Anteile
- ![[Cloud Anteile.png]]
- 
- ---
- ### Digitale Souveränität
- > Digitale Souveränität oder Cyber-Souveränität ist der Grad der Kontrolle einer Person, Organisation oder Regierung über die Daten, die Sie auf lokalen oder Online-Plattformen generieren und mit denen Sie arbeiten.
+![[Cloud heute.png]]
+
+---
+### Anteile
+![[Cloud Anteile.png]]
+
+---
+### Digitale Souveränität
+> Digitale Souveränität oder Cyber-Souveränität ist der Grad der Kontrolle einer Person, Organisation oder Regierung über die Daten, die Sie auf lokalen oder Online-Plattformen generieren und mit denen Sie arbeiten.
 
 ---
 ### Herausforderungen
@@ -50,22 +51,27 @@ Begriff aus den 80er Jahren.
 * Die Digitale Souveränität ist bedroht
 
 ---
- ### Was ist Nextcloud?
- * Dezentraler Datenspeicher
- * Überall installierbar: Eigener Server, SaaS, PaaS, Appliances
- * Garantiert Gesetzeskonform[^1]
- * Open Source[^2]
- * Kein Unterschied zwischen Community und Enterprise
+### Was ist Nextcloud?
+* Dezentraler Datenspeicher
+* Überall installierbar: Eigener Server, SaaS, PaaS, Appliances
+* Garantiert Gesetzeskonform[^1]
+* Open Source[^2]
+* Kein Unterschied zwischen Community und Enterprise
  
- ---
- ### Screenshot
- ![[Nextcloud Screenshot.png]]
- 
- ---
+---
+### Nextcloud?
+![[infomaniak kDrive.png]]
+Ja.
+
+---
+### Screenshot
+![[Nextcloud Screenshot.png]]
+
+---
  ### Geschichte
 * 2010: ownCloud - Ersatz für proprietäre Storage Service Provider
 * 2016: Karlitschek verlässt ownCloud Inc. und gründet Nextcloud
-* 2018: Zuschlag Ausschreibung Bundescloud[^3]
+* 2018: Zuschlag Ausschreibung Bundescloud (Deutschland)[^3]
 * 2019: Behörden der EU-Staaten Frankreich, Schweden und Niederlande setzen auf Nextcloud[^4]
 ---
  ### Geshichte
@@ -142,7 +148,7 @@ Password **12demo34**
 ### What's Next?
 * Nextcloud 20
 * Fokus auf Schulen[^13]
-* Kollaboration
+* Partnerschaften
 * Verschlüsselung
 
 ---
@@ -157,7 +163,7 @@ Schweizer Anbieter:
 * hosttech
 * wölkli (oriented.net GmbH)
 * Adfinis
-* Mintsys Cloud (Mint System)
+* Mintsys Cloud (Mint System GmbH)
 
 ---
 ### Von was lebt Nextcloud?
@@ -176,20 +182,20 @@ Open Source ≠ Kostenlos
 
 ---
 ### Footer
- [^1]: https://nextcloud.com/gdpr/
- [^2]: https://github.com/nextcloud/
- [^3]: https://www.itzbund.de/Restricted/DE/Ausschreibungen/O1912-Z4-1519-2017/Leistungsbeschreibung.pdf?__blob=publicationFile&v=2
- [^4]: https://www.handelsblatt.com/technik/it-internet/cloud-dienste-eu-staaten-setzen-auf-deutsches-start-up-nextcloud/24942352.html?ticket=ST-1035759-qKOCaOrSgyUvSoWNbLed-ap4
- [^5]:  https://nextcloud.com/blog/the-new-standard-in-on-premises-team-collaboration-nextcloud-hub/
- [^6]: https://nextcloud.com/blog/ionos-and-nextcloud-together-for-more-data-sovereignty/
- [^7]: https://hackerone.com/nextcloud
- [^8]: https://nextcloud.com/security/advisories/
- [^9]: https://docs.nextcloud.com/server/19/admin_manual/installation/harden_server.html
- [^10]: https://github.com/features/security
- [^11]: https://nextcloud.com/monitoring/
- [^12]: https://www.polyas.de/wahllexikon/digitale-souveraenitaet 
- [^13]: https://nextcloud.com/blog/eine-digital-souverane-schulcloud/
- [^14]: https://nextcloud.com/blog/german-federal-administration-relies-on-nextcloud-as-a-secure-file-exchange-solution/
- [^15]: https://nextcloud.com/blog/eu-governments-choose-independence-from-us-cloud-providers-with-nextcloud/
- [^16]: https://nextcloud.com/blog/9-german-educational-and-research-institutions-move-to-nextcloud-as-part-of-tu-berlin-migration-more-coming/
- [^17]: https://nextcloud.com/blog/nextcloud-is-the-one-and-only-solution-we-are-providing-to-our-end-customers-florian-hausleitner/
+[^1]: https://nextcloud.com/gdpr/
+[^2]: https://github.com/nextcloud/
+[^3]: https://www.itzbund.de/Restricted/DE/Ausschreibungen/O1912-Z4-1519-2017/Leistungsbeschreibung.pdf?__blob=publicationFile&v=2
+[^4]: https://www.handelsblatt.com/technik/it-internet/cloud-dienste-eu-staaten-setzen-auf-deutsches-start-up-nextcloud/24942352.html?ticket=ST-1035759-qKOCaOrSgyUvSoWNbLed-ap4
+[^5]:  https://nextcloud.com/blog/the-new-standard-in-on-premises-team-collaboration-nextcloud-hub/
+[^6]: https://nextcloud.com/blog/ionos-and-nextcloud-together-for-more-data-sovereignty/
+[^7]: https://hackerone.com/nextcloud
+[^8]: https://nextcloud.com/security/advisories/
+[^9]: https://docs.nextcloud.com/server/19/admin_manual/installation/harden_server.html
+[^10]: https://github.com/features/security
+[^11]: https://nextcloud.com/monitoring/
+[^12]: https://www.polyas.de/wahllexikon/digitale-souveraenitaet 
+[^13]: https://nextcloud.com/blog/eine-digital-souverane-schulcloud/
+[^14]: https://nextcloud.com/blog/german-federal-administration-relies-on-nextcloud-as-a-secure-file-exchange-solution/
+[^15]: https://nextcloud.com/blog/eu-governments-choose-independence-from-us-cloud-providers-with-nextcloud/
+[^16]: https://nextcloud.com/blog/9-german-educational-and-research-institutions-move-to-nextcloud-as-part-of-tu-berlin-migration-more-coming/
+[^17]: https://nextcloud.com/blog/nextcloud-is-the-one-and-only-solution-we-are-providing-to-our-end-customers-florian-hausleitner/

@@ -3,3 +3,4 @@ Dokumentation der Projektmanagement Prozesse.
 
 * [[Prozesse Projektmanagement - Konzept]]
 * [[Prozesse Projektmanagement - Projektdefinition]]
+* [[Prozesse Projektmanagement - Odoo Projekt erstellen]]

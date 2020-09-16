@@ -1,6 +1,13 @@
 # Managed Server
 Der *Managed Server* ist ein Produkt der Mint System.
 
+## Leistungsbeschreibung
+Dem Kunden steht exklusiv ein dedizierter Sever zur Verfügung. Die Betriebsbereitschaft der Hardware und des Betriebssystem sind garantiert.
+
+## Abgrenzung
+**Keine Applikationen**  
+Die Installation und Aufrechterhaltung der Betriebsbereitschaft von Applikationen ist nicht im Leistungsumfang enthalten.
+
 ## Vorteile
 
 **Systemupdates**
