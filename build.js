@@ -61,7 +61,7 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md')).forEach((fi
     ].join('')
 
     // write content back to file
-    fs.writeFileSync('paths.js', content, 'utf8')
+    fs.writeFileSync(file, content, 'utf8')
 })
 
 // write paths.json for search index
