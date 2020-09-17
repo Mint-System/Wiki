@@ -15,6 +15,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Kronos | Backupserver | kronos.mint-system.com | |
 | Hera | BigBlueButton | hera.mint-system.com | |
 | Atlas | Monitoring | atlas.mint-system.com | |
-| Eris | BigBlueButton | eris.mint-system.com | Deaktiviert |
+| Helios |  | helios.mint-system.com |  |
 | Hermes | Server Light Wing AG | hermes.mint-system.com | |
 | Artmies | BigBlueButton | artemis.mint-system.com | ExoScale |

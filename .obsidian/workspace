@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "8c4d3087a000c2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "625a41450c3c3937",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e74440ccc1805c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e2939749888f61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb589a5e1b57595c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2eb284b4cf5ec2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "3e831528301b31ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.50868225097656
+  },
+  "right": {
+    "id": "4ebfaab382fc31be",
+    "type": "split",
+    "children": [
+      {
+        "id": "3145db10dcd5e3dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073a2ade942e68a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "913eafa251612cd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Odoo Handbuch.md",
+    "Odoo Development Environment.md",
+    "Odoo.md",
+    "assets/Odoo Übersetzte Begriffe.png",
+    "Vorgehensmodell.md",
+    "Referenzsystem Odoo.md",
+    "Methodik.md",
+    "Odoo Verkäufe.md",
+    "assets/Verkaufsgruppen und Baugruppen.png"
+  ]
+}

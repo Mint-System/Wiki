@@ -11,10 +11,6 @@ Inside the docker container run this command to uninstall the web_enterprise mod
 `"self.env['ir.module.module'].search([('name', '=', 'web_enterprise')]).button_immediate_uninstall()" | 
 odoo shell -d odoo --db_host=$HOST -r $USER -w $PASSWORD`
 
-## Übersetzungen aktualisieren
-
-Siehe [[Odoo Handbuch#Übersetzungen aktualisieren]].
-
 ## Enable/disable Odoo Enterprise
 
 **Enable**

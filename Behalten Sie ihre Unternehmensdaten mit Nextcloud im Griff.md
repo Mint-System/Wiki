@@ -101,7 +101,7 @@ Frank Karlitschek
 ![[Nextcloud Alle Plattformen.png]]
 
 ---
-### Förderierung
+### Föderierung
 ![[Föderierung vernetzt.png]]
 
 ---
