@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "f.md",
-            "mode": "preview"
+            "file": "f-1.md",
+            "mode": "source"
           }
         }
       }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "f.md"
+                "file": "f-1.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
-    "ID.md",
+    "f-1.md",
+    "f.md",
     "f/1.md",
+    "f/Untitled.md",
+    "_navbar.md",
+    "ID.md",
     "Untitled.md",
     "ID/Untitled.md",
     "Prozesse Projektmanagement - Odoo Projekt erstellen.md",
-    "Prozesse Projektmanagement - Zeiterfassung.md",
-    "Server.md",
-    "Kalkulation Managed Server.md",
-    "Prozesse Projektmanagement - Konzept.md",
-    "Prozesse Projektmanagement.md"
+    "Prozesse Projektmanagement - Zeiterfassung.md"
   ]
 }
