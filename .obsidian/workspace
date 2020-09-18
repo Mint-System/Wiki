@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "f/1.md",
-            "mode": "source"
+            "file": "f.md",
+            "mode": "preview"
           }
         }
       }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "f/1.md"
+                "file": "f.md"
               }
             }
           },
@@ -91,6 +91,7 @@
     "width": 242
   },
   "lastOpenFiles": [
+    "ID.md",
     "f/1.md",
     "Untitled.md",
     "ID/Untitled.md",
@@ -99,7 +100,6 @@
     "Server.md",
     "Kalkulation Managed Server.md",
     "Prozesse Projektmanagement - Konzept.md",
-    "Prozesse Projektmanagement.md",
-    "Team Infrastruktur.md"
+    "Prozesse Projektmanagement.md"
   ]
 }
