@@ -1,6 +1,8 @@
 # Prozesse Akquise
 Dokumentation der Akquise Prozesse.
 
+Verantwortlich: [[Marco Roeleven]]
+
 * [[Prozesse Akquise - Akquise abschliessen]]
 * [[Prozesse Akquise - Angebot erstellen]]
 * [[Prozesse Akquise - Anforderungsanalyse]]

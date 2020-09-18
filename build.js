@@ -2,9 +2,10 @@ const fs = require('fs')
 const convert = require('./convert')
 
 const paths = []
+const ignoreFiles = ['_navbar.md', '_sidbar.md']
 
 // loop all markdown files of the current folder
-fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md')).forEach((file) => {
+fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
 
     // push filename
     paths.push('/' + encodeURI(file.replace('.md', '')))

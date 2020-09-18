@@ -1,6 +1,8 @@
 # Prozesse
 In diesem Dokument werden die internen Prozesse der Mint System beschrieben.
 
+Verantwortlich: [[Kurt Gisler]]
+
 * [[Prozesse Akquise]]
 * [[Prozesse Odoo]]
 * [[Prozesse Projektmanagement]]

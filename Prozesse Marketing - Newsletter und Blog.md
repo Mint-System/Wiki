@@ -1,5 +1,9 @@
 # Newsletter und Blog
 
+## Text sammeln
+
+Texte für Newsletter und Blog werden in der Notizen-App von Odoo unter der Spalte *Newsletter* gesammelt.
+
 ## Newsletter versenden
 
 Jeden letzten Donnerstag im Monat wird ein Newsletter an die in Odoo eingetragenen Adressen versendet.

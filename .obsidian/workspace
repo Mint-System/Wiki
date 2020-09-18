@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Prozesse Projektmanagement - Odoo Projekt erstellen.md",
             "mode": "source"
           }
         }
@@ -56,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.50868225097656
+    "width": 369.50868225097656
   },
   "right": {
     "id": "4ebfaab382fc31be",
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md"
+                "file": "Prozesse Projektmanagement - Odoo Projekt erstellen.md"
               }
             }
           },
@@ -88,19 +88,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242,
-    "collapsed": true
+    "width": 242
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Odoo Handbuch.md",
-    "Odoo Development Environment.md",
-    "Odoo.md",
-    "assets/Odoo Übersetzte Begriffe.png",
-    "Vorgehensmodell.md",
-    "Referenzsystem Odoo.md",
-    "Methodik.md",
-    "Odoo Verkäufe.md",
-    "assets/Verkaufsgruppen und Baugruppen.png"
+    "Prozesse Projektmanagement - Odoo Projekt erstellen.md",
+    "Prozesse Projektmanagement - Zeiterfassung.md",
+    "Server.md",
+    "Kalkulation Managed Server.md",
+    "Prozesse Projektmanagement - Konzept.md",
+    "Prozesse Projektmanagement.md",
+    "Team Infrastruktur.md",
+    "Janik von Rotz.md",
+    "Kurt Gisler.md",
+    "Prozesse.md"
   ]
 }

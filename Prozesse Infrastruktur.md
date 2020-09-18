@@ -1,6 +1,8 @@
 # Prozesse Infrastruktur
 Dokumentation der Infrastruktur Prozesse.
 
+Verantwortlich: [[Janik von Rotz]]
+
 * [[Prozesse Infrastruktur - Installation BigBlueButton]]
 * [[Prozesse Infrastruktur - Installation Moodle]]
 * [[Prozesse Infrastruktur - Odoo bestellen]]

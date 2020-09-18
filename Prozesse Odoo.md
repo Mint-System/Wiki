@@ -1,6 +1,8 @@
 # Prozesse Odoo
 Technische Dokumentation der Odoo Prozesse.
 
+Verantwortlich: [[Janik von Rotz]]
+
 * [[Prozesse Odoo - App Abwesenheitszeiten]]
 * [[Prozesse Odoo - App Einkauf]]
 * [[Prozesse Odoo - App Finanzen]]
