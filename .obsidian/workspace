@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "f-1.md",
+            "file": "Prozesse Infrastruktur - Server bereitstellen.md",
             "mode": "source"
           }
         }
@@ -48,7 +48,7 @@
             "id": "3e831528301b31ed",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "empty",
               "state": {}
             }
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "f-1.md"
+                "file": "Prozesse Infrastruktur - Server bereitstellen.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "id": "913eafa251612cd1",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "empty",
               "state": {}
             }
           }
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
-    "f-1.md",
+    "Prozesse Infrastruktur - Server bereitstellen.md",
+    "Prozesse Infrastruktur - Server bestellen.md",
+    "Richtlinie - Dokumentmanagementsystem.md",
     "f.md",
+    "f-1.md",
     "f/1.md",
     "f/Untitled.md",
     "_navbar.md",
     "ID.md",
-    "Untitled.md",
-    "ID/Untitled.md",
-    "Prozesse Projektmanagement - Odoo Projekt erstellen.md",
-    "Prozesse Projektmanagement - Zeiterfassung.md"
+    "Untitled.md"
   ]
 }
