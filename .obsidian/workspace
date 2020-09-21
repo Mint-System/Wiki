@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prozesse Infrastruktur - Installation Nextcloud.md",
+            "file": "Vorgehensmodell.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prozesse Infrastruktur - Installation Nextcloud.md"
+                "file": "Vorgehensmodell.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
+    "Vorgehensmodell.md",
+    "README.md",
+    "Web Analytics.md",
+    "Richtlinie - Dokumentmanagementsystem.md",
     "Prozesse Infrastruktur - Installation Nextcloud.md",
     "Prozesse Infrastruktur - Installation Odoo.md",
     "Prozesse Infrastruktur - Installation Moodle.md",
     "Prozesse Infrastruktur.md",
     "Prozesse Infrastruktur - Nextcloud bestellen.md",
-    "Prozesse Infrastruktur - Odoo bestellen.md",
-    "Prozesse Infrastruktur - Server bestellen.md",
-    "Prozesse Odoo.md",
-    "Prozesse Odoo - Demoumgebung bereitstellen.md",
-    "Odoo Datenbank Vorlage.md"
+    "Prozesse Infrastruktur - Odoo bestellen.md"
   ]
 }

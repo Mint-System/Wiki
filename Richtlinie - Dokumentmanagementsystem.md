@@ -41,6 +41,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 * Methodik/[Thema] - Angwendet Methoden
 * Mitgliedschaften/[Name] - Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen
 * Odoo - Odoo Dokumente
+* Odoo Handbuch - Das Odoo Handbuch ist eine Referenzdokumentation der Odoo-Prozesse und bietet eine umfangreiche Benutzeranleitung. 
 * Partner - Dokumente zu unseren Partner
 * Rechnungen/[Monat] - Rechnung von Lieferanten
 * Personal - Verträge und Abrechnungen
