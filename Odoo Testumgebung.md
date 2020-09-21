@@ -7,4 +7,8 @@ Die Odoo Testumgebung läuft paralell zur produktiven-Installation auf der gleic
 Produktive Odoo-Umgebungen sind unter `erp.example.com` abrufbar.  
 Testumgebungen unter `erp-dev.example.com`.
 
-Dementesprechend heissen auch die Datenbanken *erp* und *erp-dev*.
+Dementesprechend heissen auch die Datenbanken *erp* und *erp-dev*. Die Datenbanknamen sind oben rechts im Odoo-Menu ersichtlich.
+
+![[Odoo Show DB Name.png]]
+
+!> Dies gilt sofern das [[Odoo App - Show DB Name]] installiert ist.

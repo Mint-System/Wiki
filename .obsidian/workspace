@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Odoo Testumgebung.md",
+            "file": "Odoo App - Show DB Name.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo Testumgebung.md"
+                "file": "Odoo App - Show DB Name.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
+    "Odoo App - Show DB Name.md",
     "Odoo Testumgebung.md",
+    "assets/Pasted image.png",
     "Prozesse Infrastruktur - Odoo bestellen.md",
     "Prozesse Infrastruktur - Server bereitstellen.md",
     "Odoo Hosting.md",
     "Odoo.md",
     "Odoo Marketing.md",
     "Prozesse Projektmanagement - Aufgaben verwalten.md",
-    "Prozesse Projektmanagement.md",
-    "Prozesse Projektmanagement - Zeiterfassung.md",
-    "Prozesse Projektmanagement - Odoo Projekt erstellen.md"
+    "Prozesse Projektmanagement.md"
   ]
 }
