@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prozesse Infrastruktur - Installation Odoo.md",
+            "file": "Prozesse Infrastruktur - Installation Nextcloud.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "ocn_client"
               }
             }
           },
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prozesse Infrastruktur - Installation Odoo.md"
+                "file": "Prozesse Infrastruktur - Installation Nextcloud.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
+    "Prozesse Infrastruktur - Installation Nextcloud.md",
     "Prozesse Infrastruktur - Installation Odoo.md",
     "Prozesse Infrastruktur - Installation Moodle.md",
+    "Prozesse Infrastruktur.md",
+    "Prozesse Infrastruktur - Nextcloud bestellen.md",
+    "Prozesse Infrastruktur - Odoo bestellen.md",
+    "Prozesse Infrastruktur - Server bestellen.md",
     "Prozesse Odoo.md",
-    "Prozesse Odoo - Testumgebung bereitstellen.md",
     "Prozesse Odoo - Demoumgebung bereitstellen.md",
-    "Lohnarten.md",
-    "Prozesse Odoo - App Personalabrechnung.md",
-    "Prozesse Odoo - App Kontakte.md",
-    "Prozesse Odoo - App Fertigung.md",
-    "Prozesse Odoo - App Finanzen.md"
+    "Odoo Datenbank Vorlage.md"
   ]
 }
