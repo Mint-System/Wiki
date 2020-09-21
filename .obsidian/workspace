@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_navbar.md",
+            "file": "Odoo Testumgebung.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_navbar.md"
+                "file": "Odoo Testumgebung.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
-    "_navbar.md",
-    "README.md",
+    "Odoo Testumgebung.md",
+    "Prozesse Infrastruktur - Odoo bestellen.md",
     "Prozesse Infrastruktur - Server bereitstellen.md",
-    "Prozesse Infrastruktur - Server bestellen.md",
-    "Richtlinie - Dokumentmanagementsystem.md",
-    "f.md",
-    "f-1.md",
-    "f/1.md",
-    "f/Untitled.md",
-    "ID.md"
+    "Odoo Hosting.md",
+    "Odoo.md",
+    "Odoo Marketing.md",
+    "Prozesse Projektmanagement - Aufgaben verwalten.md",
+    "Prozesse Projektmanagement.md",
+    "Prozesse Projektmanagement - Zeiterfassung.md",
+    "Prozesse Projektmanagement - Odoo Projekt erstellen.md"
   ]
 }
