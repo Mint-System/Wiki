@@ -1,15 +1,18 @@
 # App Personalabrechnung
+Installation Modul Personalabrechnung (hr_payroll).
+
 ## Initialsierung
 
 Arbeitsscrhitte:
 * HR-Stammdaten vorbereiten.
-*  Erfassen Standardarbeitsvertrag
+* Erfassen Standardarbeitsvertrag
 * Mitarbeiter mit Vertrag erfassen
 * [[Lohnarten]] importieren
 
 ## Erweiterungen installieren
 Auswahl:
-* Payroll Accounting (hr_payroll_account)
+* Lohnbuchhaltung (hr_payroll_account)
+* SEPA-Zahlungen für Gehaltsabrechnungen  (hr_payroll_account_sepa)
 
 ## Optionen aktivieren
 Auswahl:

@@ -1,4 +1,6 @@
 # App Qualität
+Installation Modul Qualität (quality_control).
+
 ## Erweiterungen installieren
 MRP Erweiterungen nach Bedarf installieren.
 

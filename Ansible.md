@@ -4,6 +4,12 @@ Ansible ist die Technologie mit der die gesamte Mint System Infrastruktur betrie
 ## Playbooks
 Die [[Ansible Playbooks]] von Mint System sind öffentlich auf GitHub verfügbar.
 
+## Inventories
+Die Konfiguration der Infrastruktur ist als [[Ansible Inventory]] gespeichert.
+
+## Secrets
+Passwörter und Keys werden mit [[Ansible Vault]] verschlüsselt und verwaltet.
+
 ## Architektur
 
 ![[Ansible Architektur.png]]

@@ -1,4 +1,6 @@
 # App Verkäufe
+Installation Modul Verkäufe (sale_management).
+
 ## Initialisierung
 Arbeitsschritte:
 * Unternehmensdaten erfassen
@@ -8,8 +10,8 @@ Arbeitsschritte:
 
 ## Erweiterungen installieren
 Auswahl:
-* Sale Enterprise (sale_enterprise)
-* Sales Timesheet (sale_timesheet_enterprise)
+* Verkauf Enterprise (sale_enterprise)
+* Vertriebs-Zeiterfassung: Raster-Unterstützung (sale_timesheet_enterprise)
 
 ## Optionen aktivieren
 Navigieren nach *Einstellungen > Verkäufe* und Auswahl:

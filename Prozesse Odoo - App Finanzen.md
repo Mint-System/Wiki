@@ -1,4 +1,5 @@
 # App Finanzen
+Installation Modul Finanzen (account_accountant).
 
 ## Initialisierung
 
@@ -14,19 +15,18 @@ Arbeitsschritte:
 
 Auswahl:
 * Import CAMT Bank Statement (account_bank_statement_import_camt)
-* SEPA Credit Transfer (account_sepa)
+* SEPA Kreditübertragung (account_sepa)
 * Account Invoice Extract (account_invoice_extract)
 * Accounting Reports (account_reports)
-* Analytic Accounting Enterprise (analytic_enterprise)
-* Budget Management (account_budget)
-* Switzerland - Accounting Reports (l10n_ch_reports)
+* Analytische Konten   (analytic_enterprise)
+* Budgetverwaltung (account_budget)
+* Schweizer Buchhaltungsauswertungen (l10n_ch_reports)
 
 ## Customizing
 Auswahl:
-* Journale und Sequenzen anhand [[Odoo Journal-Vorlage]] festlegen
+* Journale und Sequenzen festlegen
 
 ## Optionen aktivieren
-
 Navigation nach *Einstellungen > Finanzen* und Auswahl:
 * Print Swiss QR Code
 * Rechnungsdigitalisierung
