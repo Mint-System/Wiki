@@ -4,3 +4,4 @@ Arbeitsschritte:
 * Registration DNS-Name
 * Konfigurationsvorlage anpassen
 * Mit Ansible bereitstellen
+* Einloggen und anpassen Logo und Farbe

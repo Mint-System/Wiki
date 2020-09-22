@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Monitoring.md",
+            "file": "Odoo Marketing.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assets"
+                "query": "permanent"
               }
             }
           },
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monitoring.md"
+                "file": "Odoo Marketing.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
-    "Monitoring.md",
-    "Grafana.md",
-    "Telefonie.md",
-    "Odoo Assets.md",
-    "Odoo.md",
-    "Odoo Development.md",
-    "Odoo Zeiterfassung.md",
-    "Odoo Widgets.md",
-    "Odoo Website Konfiguration.md",
-    "Odoo Projekt.md"
+    "Odoo Marketing.md",
+    "Corporate Design.md",
+    "Prozesse Infrastruktur - Installation BigBlueButton.md",
+    "Prozesse Projektmanagement - Zeiterfassung.md",
+    "Prozesse Projektmanagement - Aufgaben verwalten.md",
+    "Prozesse Odoo - App Zeiterfassung.md",
+    "Prozesse Projektmanagement - Projektdefinition.md",
+    "Prozesse Projektmanagement - Odoo Projekt erstellen.md",
+    "Odoo Painpoints.md",
+    "Links.md"
   ]
 }
