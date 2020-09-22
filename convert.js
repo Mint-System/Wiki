@@ -1,3 +1,7 @@
+function sanitizeFilename(file) {
+    return file.toLocaleLowerCase().replace(/\s+/g, '-').replace('---','-')
+}
+
 function convert(content,file) {
     // convert wiki image links
     const wikiImage = /!\[\[([^\]]*\.png|jpg|jpeg)\]\]/g
@@ -35,7 +39,10 @@ function convert(content,file) {
             title = match.match(/\|(.*)\]\]/)[1]
         }
 
-        content = content.replace(match, `<a href="/#/${href ? href : file.replace('\.md', '')}${anchor ? ('?id=' + anchor) : ''}">${title}</a>`)
+        // sanitize href
+        href = sanitizeFilename(href ? href : file.replace('\.md', ''))
+
+        content = content.replace(match, `<a href="/#/${href}${anchor ? ('?id=' + anchor) : ''}">${title}</a>`)
     }
 
     // add footer
@@ -52,3 +59,4 @@ function convert(content,file) {
 }
 
 exports.convert = convert
+exports.sanitizeFilename = sanitizeFilename

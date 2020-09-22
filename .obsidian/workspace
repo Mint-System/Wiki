@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Telefonie.md",
+            "file": "Monitoring.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telefonie.md"
+                "file": "Monitoring.md"
               }
             }
           },
@@ -91,6 +91,8 @@
     "width": 242
   },
   "lastOpenFiles": [
+    "Monitoring.md",
+    "Grafana.md",
     "Telefonie.md",
     "Odoo Assets.md",
     "Odoo.md",
@@ -98,8 +100,6 @@
     "Odoo Zeiterfassung.md",
     "Odoo Widgets.md",
     "Odoo Website Konfiguration.md",
-    "Odoo Projekt.md",
-    "Odoo Painpoints.md",
-    "Odoo Planung.md"
+    "Odoo Projekt.md"
   ]
 }
