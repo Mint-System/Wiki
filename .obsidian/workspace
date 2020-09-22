@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vorgehensmodell.md",
+            "file": "Telefonie.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ocn_client"
+                "query": "assets"
               }
             }
           },
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorgehensmodell.md"
+                "file": "Telefonie.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
-    "Vorgehensmodell.md",
-    "README.md",
-    "Web Analytics.md",
-    "Richtlinie - Dokumentmanagementsystem.md",
-    "Prozesse Infrastruktur - Installation Nextcloud.md",
-    "Prozesse Infrastruktur - Installation Odoo.md",
-    "Prozesse Infrastruktur - Installation Moodle.md",
-    "Prozesse Infrastruktur.md",
-    "Prozesse Infrastruktur - Nextcloud bestellen.md",
-    "Prozesse Infrastruktur - Odoo bestellen.md"
+    "Telefonie.md",
+    "Odoo Assets.md",
+    "Odoo.md",
+    "Odoo Development.md",
+    "Odoo Zeiterfassung.md",
+    "Odoo Widgets.md",
+    "Odoo Website Konfiguration.md",
+    "Odoo Projekt.md",
+    "Odoo Painpoints.md",
+    "Odoo Planung.md"
   ]
 }
