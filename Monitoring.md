@@ -1,2 +1,2 @@
 # Monitoring
-Grafana and Prometheus for Server-Monitoring.
+[[Grafana]] and Prometheus for Server-Monitoring.
