@@ -88,19 +88,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242,
-    "collapsed": true
+    "width": 242
   },
   "lastOpenFiles": [
     "Odoo Barcode.md",
-    "Prozesse Projektmanagement - Zeiterfassung.md",
-    "Prozesse Odoo - App Zeiterfassung.md",
+    "Barcode.md",
+    "Behalten Sie ihre Unternehmensdaten mit Nextcloud im Griff.md",
     "Odoo.md",
-    "Workplace.md",
-    "bot-minsys.md",
-    "Richtlinie - Dokumentmanagementsystem.md",
-    "Signatur.md",
-    "Corporate Design.md",
+    "admint.md",
+    "Service-Accounts.md",
+    "bot-mintsys.md",
+    "Accounts.md",
+    "Infrastruktur.md",
     "Richtlinie - E-Mail.md"
   ]
 }
