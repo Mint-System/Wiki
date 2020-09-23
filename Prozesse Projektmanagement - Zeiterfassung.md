@@ -13,4 +13,4 @@ Wenn der Zeitaufwand verrechnet werden soll, muss die Aufgabe mit einem Auftrags
 
 ### Permanente Aufgaben
 
-Interne Aufgaben, die nicht dem Projektlebenszyklus unterstehen, stehen in der Spalte *Permanet* zur Verfügung.
+Interne Aufgaben, die nicht dem Projektlebenszyklus unterstehen, stehen in der Spalte *Permanent* zur Verfügung.
