@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Odoo Barcode.md",
+            "file": "Odoo Testumgebung.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo Barcode.md"
+                "file": "Odoo Testumgebung.md"
               }
             }
           },
@@ -91,6 +91,8 @@
     "width": 242
   },
   "lastOpenFiles": [
+    "Odoo Testumgebung.md",
+    "Web Application Firewall.md",
     "Odoo Barcode.md",
     "Barcode.md",
     "Behalten Sie ihre Unternehmensdaten mit Nextcloud im Griff.md",
@@ -98,8 +100,6 @@
     "admint.md",
     "Service-Accounts.md",
     "bot-mintsys.md",
-    "Accounts.md",
-    "Infrastruktur.md",
-    "Richtlinie - E-Mail.md"
+    "Accounts.md"
   ]
 }
