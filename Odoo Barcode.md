@@ -6,6 +6,11 @@ Odoo generiert Barcodes nach *1D Industrial Codes*
 
 ## Integration
 
+**USB oder Bluetooth**
+
+Jeder Barcode-Scanner, der über USB oder Bluetooth an einem Computer angeschlossen werden kann, ist kompatibel.  
+Im Normall wird beim Scannen eines Barcodes der Code eingefügt. Wenn auf dem Computer die Odoo Barcode-App im Browser aktiv ist, wird der eingefügt Code erfasst.
+
 **Ventor App**
 
 Die App und geräte von Ventor sehen interessant aus.
