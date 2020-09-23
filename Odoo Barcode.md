@@ -21,7 +21,7 @@ Es gibt Lösungen um einen Scan vom Smartphone an den Computer zu senden.
 
 Website https://barcodetopc.com/
 
-Auf dem Computer startet man ein Program zum Empfang der Barcodes vom Smartphone. Auf dem Smartphone startet man die Barcode-App und verbindet sich mit dem Computer-Pgoram. Dann öffnet man auf dem Computer Odoo im Browser, wählt die Barcode-App und den Vorgang. Wenn man mit dem Smartphone einen Barcode scannt, wird dieser über via Wifi übertragen.
+Auf dem Computer startet man ein Program zum Empfang der Barcodes vom Smartphone. Auf dem Smartphone startet man die Barcode-App und verbindet sich mit dem Computer-Program über Wifi. Dann öffnet man auf dem Computer Odoo im Browser, wählt die Barcode-App und starte einen Vorgang. Wenn man mit dem Smartphone einen Barcode scannt, wird dieser über via Wifi übertragen, vom Program entfangen und in Odoo eingefügt.
 
 ## Mobile Apps
 
