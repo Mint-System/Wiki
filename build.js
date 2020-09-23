@@ -19,7 +19,7 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
     // add footer
     content = content + [
         '\n\n',
-        '[📝 Edit Document](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file + ')\n',
+        '[📝 Edit Document](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file.replace(' ','%20') + ')\n',
         '<hr>',
         '<footer>',
         'Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a>',
