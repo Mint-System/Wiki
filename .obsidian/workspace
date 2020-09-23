@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Odoo Barcode.md",
+            "file": "Prozesse Projektmanagement - Zeiterfassung.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo Barcode.md"
+                "file": "Prozesse Projektmanagement - Zeiterfassung.md"
               }
             }
           },
@@ -92,6 +92,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Prozesse Projektmanagement - Zeiterfassung.md",
     "Odoo Barcode.md",
     "Odoo.md",
     "Workplace.md",
@@ -100,7 +101,6 @@
     "Signatur.md",
     "Corporate Design.md",
     "Richtlinie - E-Mail.md",
-    "Team Infrastruktur.md",
-    "Ansible.md"
+    "Team Infrastruktur.md"
   ]
 }
