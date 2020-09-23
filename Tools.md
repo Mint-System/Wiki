@@ -1,3 +1,6 @@
-[[Fernwartung]]
-[[Web Analytics]]
-[[Workplace]]
+# Tools
+Werkzeuge im Einsatz der Mint System.
+
+[[Fernwartung]]  
+[[Web Analytics]]  
+[[Workplace]]  

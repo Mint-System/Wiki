@@ -1,5 +1,5 @@
 # App Fertigung
-Installation Module Fertigung (mrp)
+Installation Modul Fertigung (mrp)
 
 ## Erweiterungen installieren
 Auswahl:

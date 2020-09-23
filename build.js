@@ -11,15 +11,23 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
     var content = fs.readFileSync(file, 'utf8')
 
     // set new file name
-    file = convert.sanitizeFilename(file)
+    newfile = convert.sanitizeFilename(file)
 
     // push filename
-    paths.push('/' + file.replace('.md', ''))
+    paths.push('/' + newfile.replace('.md', ''))
 
-    // content = convert.convert(content,file)
+    // add footer
+    content = content + [
+        '\n\n',
+        '[📝 Edit Document](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file + ')\n',
+        '<hr>',
+        '<footer>',
+        'Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a>',
+        '</footer>'
+    ].join('')
 
     // write content back to file
-    fs.writeFileSync(file, content, 'utf8')
+    fs.writeFileSync(newfile, content, 'utf8')
 })
 
 // write paths.json for search index

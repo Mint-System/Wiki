@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "625a41450c3c3937",
+        "id": "52040b3d2ca6fcac",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Odoo Marketing.md",
+            "file": "Odoo Barcode.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "permanent"
+                "query": "Produktiv"
               }
             }
           },
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo Marketing.md"
+                "file": "Odoo Barcode.md"
               }
             }
           },
@@ -88,18 +88,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 242,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Odoo Marketing.md",
+    "Odoo Barcode.md",
+    "Odoo.md",
+    "Workplace.md",
+    "bot-minsys.md",
+    "Richtlinie - Dokumentmanagementsystem.md",
+    "Signatur.md",
     "Corporate Design.md",
-    "Prozesse Infrastruktur - Installation BigBlueButton.md",
-    "Prozesse Projektmanagement - Zeiterfassung.md",
-    "Prozesse Projektmanagement - Aufgaben verwalten.md",
-    "Prozesse Odoo - App Zeiterfassung.md",
-    "Prozesse Projektmanagement - Projektdefinition.md",
-    "Prozesse Projektmanagement - Odoo Projekt erstellen.md",
-    "Odoo Painpoints.md",
-    "Links.md"
+    "Richtlinie - E-Mail.md",
+    "Team Infrastruktur.md",
+    "Ansible.md"
   ]
 }

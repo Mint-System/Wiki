@@ -11,5 +11,6 @@
     "word-count": true,
     "slides": true,
     "custom-css": true
-  }
+  },
+  "alwaysUpdateLinks": true
 }

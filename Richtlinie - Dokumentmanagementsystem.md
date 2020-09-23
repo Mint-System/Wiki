@@ -54,3 +54,4 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 * Vorlage - Dokumentvorlagen mit Inhalt
 * Website - Dateien zum Webauftritt
 * Verkauf - Vorlagen für Angebote
+* Secrets - Schlüssel und Passwörter

@@ -45,16 +45,6 @@ function convert(content,file) {
         content = content.replace(match, `<a href="/#/${href}${anchor ? ('?id=' + anchor) : ''}">${title}</a>`)
     }
 
-    // add footer
-    content = content + [
-        '\n\n',
-        '[📝 Edit Document](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file + ')\n',
-        '<hr>',
-        '<footer>',
-        'Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a>',
-        '</footer>'
-    ].join('')
-
     return content
 }
 
