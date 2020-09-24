@@ -51,8 +51,8 @@ Eine Frage aus dem Odoo Forum:
 
 Und hier die Antwort:
 
-> As Zebra partner we can recommend you Zebra MC40, Zebra 51 or Zebra 55, MC3300 or Zebra TC8000. You can find all of them here - https://www.zebra.com/us/en/products/mobile-computers
-> We have tested all of them. Scanners worked fine with Odoo Enterprise (only) and Odoo barcode module (Enterprise only). However, the screens of mobile computers are rather small and even with the enterprise version of Odoo (with responsive design) is not useful for industry use. It's OK for small warehouses where the speed of picking does not play a key role. You have to use at least 7" devices + connect external scanners (Wired or Bluetooth) in case of using Odoo Enterprise. And it's not very useful.
+> As Zebra partner we can recommend you Zebra MC40, Zebra 51 or Zebra 55, MC3300 or Zebra TC8000. You can find all of them here - https://www.zebra.com/us/en/products/mobile-computers  
+> We have tested all of them. Scanners worked fine with Odoo Enterprise (only) and Odoo barcode module (Enterprise only). However, the screens of mobile computers are rather small and even with the enterprise version of Odoo (with responsive design) is not useful for industry use. It's OK for small warehouses where the speed of picking does not play a key role. You have to use at least 7" devices + connect external scanners (Wired or Bluetooth) in case of using Odoo Enterprise. And it's not very useful.  
 > *From the other hand you can try Ventor (mERP Warehouse) app that works with all Zebra devices (Android based). The app connects to Odoo Community and Enterprise (Odoo 8/9/10 and 11), has adapted screen and buttons and provide even more inventory features and user experience.
 
 Quelle: https://www.odoo.com/de_DE/forum/hilfe-1/question/mobile-computer-barcode-scanner-110218
