@@ -15,7 +15,7 @@ Mint System GmbH bietet ein [[Odoo Hosting]].
 * [[Odoo Widgets]]
 * [[Odoo Diskussion]]
 * [[Odoo Verkäufe]]
-* [[Odoo Barcode]]
+* [[Odoo Strichcode]]
 
 ## Apps
 
