@@ -41,6 +41,22 @@ Website https://barcodetopc.com/
 
 Auf dem Computer startet man ein Program zum Empfang der Barcodes vom Smartphone. Auf dem Smartphone startet man die Strichcode-App und verbindet sich mit dem Computer-Program über Wifi. Dann öffnet man auf dem Computer Odoo im Browser, wählt die Strichcode-App und starte einen Vorgang. Wenn man mit dem Smartphone einen Barcode scannt, wird dieser über via Wifi übertragen, vom Program empfangen und in Odoo eingefügt.
 
+**Mobile Computer Barcode Scanner**
+
+Moderne Mobile Computer Scanner sind Android-Smartphones mit entsprechender Hardware. Auf dem Gerät wird Odoo im Browser geöffnet und die Strichcode-App gestartet. Der Scan-Vorgang erfolgt direkt auf dem Gerät.
+
+Eine Frage aus dem Odoo Forum:
+
+> Does anyone have experience with mobile computer scanners that work with Odoo stock barcode module? Can you recommend a model/brand?
+
+Und hier die Antwort:
+
+> As Zebra partner we can recommend you Zebra MC40, Zebra 51 or Zebra 55, MC3300 or Zebra TC8000. You can find all of them here - https://www.zebra.com/us/en/products/mobile-computers
+> We have tested all of them. Scanners worked fine with Odoo Enterprise (only) and Odoo barcode module (Enterprise only). However, the screens of mobile computers are rather small and even with the enterprise version of Odoo (with responsive design) is not useful for industry use. It's OK for small warehouses where the speed of picking does not play a key role. You have to use at least 7" devices + connect external scanners (Wired or Bluetooth) in case of using Odoo Enterprise. And it's not very useful.
+> *From the other hand you can try Ventor (mERP Warehouse) app that works with all Zebra devices (Android based). The app connects to Odoo Community and Enterprise (Odoo 8/9/10 and 11), has adapted screen and buttons and provide even more inventory features and user experience.
+
+Quelle: https://www.odoo.com/de_DE/forum/hilfe-1/question/mobile-computer-barcode-scanner-110218
+
 ## Mobile Apps
 
 **iOS**
