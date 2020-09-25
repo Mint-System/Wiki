@@ -6,7 +6,7 @@ Die wichtigsten Links der Mint System.
 
 [BigBlueButton](https://bbb.mint-system.ch/b)
 
-[BigBlueButton-Raum Mint System](https://cloud.mint-system.ch/apps/bbb/b/ECA9FmnosoQ5Yn4a)
+[BigBlueButton-Raum Mint System](https://cloud.mint-system.ch/apps/bbb/b/ffdGtEiJLeHYgWGw)
 
 [Odoo Website Mint System](https://www.mint-system.ch)
 

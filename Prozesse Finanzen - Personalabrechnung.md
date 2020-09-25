@@ -17,7 +17,23 @@ Zur korrekten Abrechnung müssen die folgenden Konten vorhanden sein:
 
 Die Aufwandskonten sind ohne Steuern.
 
+## Lohnstruktur kopieren
+
+Arbeitsschritte:
+* Export Lohnarten
+* Anpassen Spalte Vergütungsstruktur
+* Import Lohnarten
+* Anpassen Darlehenskonto
+* Darlehenskontro auswählen
+* Anpassen PK/BVG-Beitrag für AG und AN gemäss Vertrag
+
 ## Lohnabrechnung erstellen
 
 Arbeitsschritte:
-* 
+* Navigieren nach *Personalabrechnung  > Work Entries > Work Entries*
+* Lohnabrechnung erzeugen
+* Navigieren nach *Abrechnung Mitarbeitervergütung > Zu Bezahlen* und Payslip auswählen
+* Lohnstruktur auswählen
+* Klick auf *Create Draft Entry*
+* Review Buchhaluntssätze *Tab Buchungsinformationen > Buchung*
+* Buchung Bestätigen

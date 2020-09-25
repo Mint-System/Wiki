@@ -50,3 +50,7 @@ Konfiguriert man eine Regel im Modul Personalabrechnung wird im Tab Finanzen zue
 -> Changed order with Odoo Studio
 
 In der Ansicht der Buchungszeilen erscheint ebenfalls zuerst das Soll und dann das Haben.
+
+## Nur einer Timer kann gestartet werden
+
+Nur ein Mitarbeiter kann den Aufgaben-Timer laufen lassen.
