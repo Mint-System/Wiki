@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Odoo Fertigung.md",
+            "file": "Mitgliedschaften.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Management"
+                "query": "alias"
               }
             }
           },
@@ -56,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.50868225097656
+    "width": 339
   },
   "right": {
     "id": "4ebfaab382fc31be",
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo Fertigung.md"
+                "file": "Mitgliedschaften.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
-    "Odoo Fertigung.md",
-    "Odoo Produktdatenmanagement (PDM).md",
-    "Management Handbuch.md",
-    "f.md",
-    "Links.md",
-    "Odoo Datenbank Vorlage.md",
-    "Odoo Datenbank Manager.md",
+    "Mitgliedschaften.md",
+    "Mint System GmbH.md",
+    "Prozesse Marketing - Newsletter und Blog.md",
+    "Odoo Painpoints.md",
+    "Markdown Tutorial.md",
     "README.md",
-    "f-1.md",
-    "Telefonie.md"
+    "Links.md",
+    "Odoo Email Konfiguration.md",
+    "Odoo Fertigung.md",
+    "Odoo Produktdatenmanagement (PDM).md"
   ]
 }

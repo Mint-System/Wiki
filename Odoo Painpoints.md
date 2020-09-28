@@ -54,3 +54,23 @@ In der Ansicht der Buchungszeilen erscheint ebenfalls zuerst das Soll und dann d
 ## Nur einer Timer kann gestartet werden
 
 Nur ein Mitarbeiter kann den Aufgaben-Timer laufen lassen.
+
+## Odoo-Benutzerlizenzen für Partner
+
+Die aktuelle Lage zum Problem mit den Partner-Benutzer-Lizenzen:
+
+Es stehen die folgenden Optionen zur Verfügung:
+- Der Kunde kauft eine zusätzliche Benutzer Lizenz für einen Partner-Account. Der Partner-Account ist nicht personalisiert.
+- Der Kunde kauft für einen Mitarbeiter des Partners eine Lizenz. Der Partner-Account ist personalisiert
+- Der Kunde deaktiviert und aktiviert die Partner-Benutzer nach Bedarf. Der Partner kann seine Benutzer nicht selber aktivieren.
+- Der Partner greift auf die Datenbank zu und aktiviert seinen Benutzer.
+
+Lösungsvorschlag 1
+
+Auf der Live-Umgebung sind die Parnter-Benutzer vorhanden und archiviert. Nach Bedarf kann der Kunde diese aktivieren. Möchte der Partner die Benutzer selber aktivieren, kann er das über die Datenbank machen. Der technische Verantwortliche kann mittels Skript auf dem Server den Account aktiveren oder deaktivieren.
+helios:/$ docker-odoo-user -c odoo06  -d erp-dev -enable janik.vonrotz@mint-system.ch
+helios:/$ docker-odoo-user -c odoo06 -d erp-dev -disable janik.vonrotz@mint-system.ch
+
+Lösungsvorschlag 2
+
+Auf jeder Kundeninstallation wird pgAdmin installiert. Über den Admin kann auf die Datenbank zugegriffen werden und der entsprechende Benutzer aktiviert oder deaktiviert werden.
