@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "76252224ad5be66d",
+        "id": "1e6ef9d60632f329",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Telefonie.md",
+            "file": "Odoo Fertigung.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Produktiv"
+                "query": "Management"
               }
             }
           },
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telefonie.md"
+                "file": "Odoo Fertigung.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
-    "Telefonie.md",
-    "Prozesse Projektmanagement - Aufgaben verwalten.md",
-    "Prozesse Projektmanagement - Zeiterfassung.md",
+    "Odoo Fertigung.md",
+    "Odoo Produktdatenmanagement (PDM).md",
+    "Management Handbuch.md",
+    "f.md",
     "Links.md",
-    "Odoo Painpoints.md",
-    "Prozesse Finanzen - Buchhaltung.md",
-    "Prozesse Finanzen - Personalabrechnung.md",
-    "Odoo Strichcode.md",
-    "Barcode.md",
-    "Odoo.md"
+    "Odoo Datenbank Vorlage.md",
+    "Odoo Datenbank Manager.md",
+    "README.md",
+    "f-1.md",
+    "Telefonie.md"
   ]
 }

@@ -2,4 +2,3 @@
 
 ## Kundenanfrage
 
-![[Management Handbuch Kundenanfrage.png]]
