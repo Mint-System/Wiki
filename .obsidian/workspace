@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mitgliedschaften.md",
+            "file": "Prozesse Odoo - App Einstellungen.md",
             "mode": "source"
           }
         }
@@ -56,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339
+    "width": 470
   },
   "right": {
     "id": "4ebfaab382fc31be",
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mitgliedschaften.md"
+                "file": "Prozesse Odoo - App Einstellungen.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
-    "Mitgliedschaften.md",
-    "Mint System GmbH.md",
-    "Prozesse Marketing - Newsletter und Blog.md",
-    "Odoo Painpoints.md",
-    "Markdown Tutorial.md",
-    "README.md",
-    "Links.md",
-    "Odoo Email Konfiguration.md",
-    "Odoo Fertigung.md",
-    "Odoo Produktdatenmanagement (PDM).md"
+    "Prozesse Odoo - App Einstellungen.md",
+    "Prozesse Infrastruktur - Installation Moodle.md",
+    "Prozesse Infrastruktur - Nextcloud bestellen.md",
+    "Prozesse Finanzen - Eingangsrechnungen.md",
+    "Prozesse Infrastruktur - Installation Nextcloud.md",
+    "Prozesse Infrastruktur - Server-Zugriff verwalten.md",
+    "Prozesse Infrastruktur - Installation Odoo.md",
+    "Prozesse Infrastruktur - Odoo bestellen.md",
+    "Prozesse Infrastruktur - Server bereitstellen.md",
+    "Prozesse Infrastruktur - Server bestellen.md"
   ]
 }
