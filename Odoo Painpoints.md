@@ -74,3 +74,5 @@ helios:/$ docker-odoo-user -c odoo06 -d erp-dev -disable janik.vonrotz@mint-syst
 Lösungsvorschlag 2
 
 Auf jeder Kundeninstallation wird pgAdmin installiert. Über den Admin kann auf die Datenbank zugegriffen werden und der entsprechende Benutzer aktiviert oder deaktiviert werden.
+
+Note: Odoo.sh allows you to impersonate as any user on the database.

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prozesse Odoo - App Einstellungen.md",
+            "file": "Prozesse Infrastruktur - Server-Zugriff verwalten.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prozesse Odoo - App Einstellungen.md"
+                "file": "Prozesse Infrastruktur - Server-Zugriff verwalten.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 242
   },
   "lastOpenFiles": [
+    "Prozesse Infrastruktur - Server-Zugriff verwalten.md",
+    "Odoo Hosting - Odoo.sh.md",
+    "Odoo Painpoints.md",
     "Prozesse Odoo - App Einstellungen.md",
     "Prozesse Projektmanagement - Odoo Projekt erstellen.md",
-    "Prozesse Infrastruktur - Server-Zugriff verwalten.md",
     "Prozesse Marketing.md",
     "Prozesse Infrastruktur - Installation Moodle.md",
     "Prozesse Infrastruktur - Nextcloud bestellen.md",
     "Prozesse Finanzen - Eingangsrechnungen.md",
-    "Prozesse Infrastruktur - Installation Nextcloud.md",
-    "Prozesse Infrastruktur - Installation Odoo.md",
-    "Prozesse Infrastruktur - Odoo bestellen.md"
+    "Prozesse Infrastruktur - Installation Nextcloud.md"
   ]
 }

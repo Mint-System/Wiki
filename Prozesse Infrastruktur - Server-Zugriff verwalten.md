@@ -4,17 +4,18 @@ Zugriff der Benutzer auf Server verwalten.
 ## Schlüsselpaar erstellen
 
 Arbeitsschritte:
-* Kommandozeile öffnen
+* Die Kommandozeile öffnen
 * SSH-Schlüsselpaar generieren mit Befehl `ssh-keygen -t ed25519 -C "VORNAME.NACHNAME@mint-system.ch"`
 * Den privaten Schlüssel sicher aufbewahren
 
 ## Server-Benutzer bestellen
 
 Arbeitsschritte:
-* Den öffentlichen SSH-Schlüssel kopieren `cat ~/.ssh/id_ed25519.pub`
-* Liste der [[Server]] auf die der Benutzer Zugriff haben soll
+* Die Kommandozeile öffnen
+* Den öffentlichen SSH-Schlüssel ausgeben  `cat ~/.ssh/id_ed25519.pub`
+* Liste der [[Server]] auf die der Benutzer Zugriff haben soll erstellen
 * Den Benutzernamen ausgeben `whoami`
-* Erstellen Aufgabe mit diesen Informationen in Infrastuktur-Projekt
+* Aufgabe mit diesen Informationen in Infrastuktur-Projekt erstellen
 
 ## Server-Benutzer erfassen
 
