@@ -4,6 +4,7 @@
 
 Arbeitsschritte:
 * Mit SSH auf den Server zugreifen `ssh ALIAS.mint-system.com`
+	* Bei Frage, ob der *fingerprint* gespeichert werden soll, mit `yes` beantworten
 * Einen Benutzer deaktivieren `docker-odoo-user -c CONTAINER -d DATABASE -a disable -i VORNAME.NACHNAME@mint-system.ch`
 * Einen Benutzer aktivieren `docker-odoo-user -c CONTAINER -d DATABASE -a enable -i VORNAME.NACHNAME@mint-system.ch`
 * Die SSH-Verbindung trennen `exit`

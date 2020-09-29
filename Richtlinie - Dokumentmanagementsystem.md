@@ -46,7 +46,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 * Rechnungen/[Monat] - Rechnung von Lieferanten
 * Personal - Verträge und Abrechnungen
 * Produkte - Dokumente zu den Mint System Produkten
-* Projekte/[Name] - Projektablagen analog Odoo
+* Projekte/[Name] - Projektablagen analog Odoo. Der Projektnahme enthält den Unternehmensname sowie eine Projektbezeichnung
 * Public Relations - Zeitungsartikel und allgemeine PR
 * Strategie - Allgemeine Geschäftsstrategie und Businessplan
 * Marketing - Dokumente zu Marketing-Kampagnen
