@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1e6ef9d60632f329",
+        "id": "95e18aec817ccd7e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wiederherstellung von Backup.md",
+            "file": "f-1.md",
             "mode": "source"
           }
         }
@@ -52,12 +52,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 458
   },
   "right": {
     "id": "4ebfaab382fc31be",
@@ -73,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiederherstellung von Backup.md"
+                "file": "f-1.md"
               }
             }
           },
@@ -92,15 +91,15 @@
     "width": 139
   },
   "lastOpenFiles": [
-    "Backup Wiederherstellen.md",
-    "Backup.md",
-    "Links.md",
-    "Richtlinie - Spesenreglement.md",
-    "Richtlinie - Passwörter.md",
-    "Richtlinien.md",
-    "README.md",
-    "Prozesse Odoo - App Einstellungen.md",
-    "Server.md",
-    "Richtlinie - Dokumentmanagementsystem.md"
+    "f-1.md",
+    "f-2.md",
+    "f.md",
+    "Wiederherstellung von Backup.md",
+    "Prozesse Odoo - Testumgebung bereitstellen.md",
+    "Nextcloud - Restore password manager from backup.md",
+    "Service-Accounts.md",
+    "Infrastruktur.md",
+    "Methodik.md",
+    "Links.md"
   ]
 }

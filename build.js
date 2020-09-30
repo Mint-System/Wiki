@@ -21,7 +21,7 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
         '\n\n',
         '<hr>',
         '\n\n',
-        '[📝 Edit Document on GitHub](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file.replace(/\s+/g, '%20') + ')',
+        '[📝 Edit on GitHub](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file.replace(/\s+/g, '%20') + ')',
         '\n\n',
         '[📂 Open in Obsidan](' + 'obsidian://open?vault=Knowledge%20Mint%20System&file=' + file.replace(/\s+/g, '%20') + " ':target=_self')",
         '\n\n',

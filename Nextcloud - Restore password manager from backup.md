@@ -3,7 +3,8 @@ Source: https://git.mdns.eu/nextcloud/passwords/wikis/Administrators/Backups
 
 Copy the latest autobackup:
 
-```ls /var/lib/docker/volumes/nextcloud_data01/_data/data/appdata_oce3obfs0hqu/passwords/autoBackups/
+```
+ls /var/lib/docker/volumes/nextcloud_data01/_data/data/appdata_oce3obfs0hqu/passwords/autoBackups/
 ```
 
 List backups:
