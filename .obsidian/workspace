@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prozesse Odoo - App Einstellungen.md",
+            "file": "Wiederherstellung von Backup.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alias"
+                "query": "restic"
               }
             }
           },
@@ -52,11 +52,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 528
+    "width": 284
   },
   "right": {
     "id": "4ebfaab382fc31be",
@@ -72,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prozesse Odoo - App Einstellungen.md"
+                "file": "Wiederherstellung von Backup.md"
               }
             }
           },
@@ -88,18 +89,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 139
   },
   "lastOpenFiles": [
+    "Backup Wiederherstellen.md",
+    "Backup.md",
+    "Links.md",
+    "Richtlinie - Spesenreglement.md",
+    "Richtlinie - Passwörter.md",
+    "Richtlinien.md",
+    "README.md",
     "Prozesse Odoo - App Einstellungen.md",
     "Server.md",
-    "Links.md",
-    "Richtlinie - Dokumentmanagementsystem.md",
-    "Prozesse Infrastruktur - Server-Zugriff verwalten.md",
-    "Nextcloud - Set default locale.md",
-    "Nextcloud - Restore password manager from backup.md",
-    "Nextcloud.md",
-    "Odoo Hosting - Odoo.sh.md",
-    "Odoo Painpoints.md"
+    "Richtlinie - Dokumentmanagementsystem.md"
   ]
 }

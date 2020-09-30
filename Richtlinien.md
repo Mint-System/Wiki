@@ -7,4 +7,5 @@ Richtlinien der Mint System.
 [[Richtlinie - Konferenz]]  
 [[Richtlinie - Passwörter]]  
 [[Richtlinie - E-Mail]]  
-[[Richtlinie - Website]]
+[[Richtlinie - Website]]  
+[[Richtlinie - Spesenreglement]]  

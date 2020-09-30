@@ -21,3 +21,7 @@ Konkret würde die folgende Option ausreichen: [https://www.hetzner.de/storage/s
 atlas.mint-system.com 100 GB
 
 ![[Backup Architektur.png]]
+
+## Anwendung
+
+[[Wiederherstellung von Backup]]
