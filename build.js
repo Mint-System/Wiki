@@ -19,8 +19,11 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
     // add footer
     content = content + [
         '\n\n',
-        '[📝 Edit Document](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file.replace(/\s+/g, '%20') + ')\n',
         '<hr>',
+        '[📝 Edit Document on GitHub](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file.replace(/\s+/g, '%20') + ')',
+        '\n\n',
+        '[📂 Open in Obsidan](' + 'obsidian://open?vault=Knowledge%20Mint%20System&file=' + file.replace(/\s+/g, '%20') + ')',
+        '\n\n',
         '<footer>',
         'Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a>',
         '</footer>'
