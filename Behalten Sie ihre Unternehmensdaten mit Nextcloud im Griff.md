@@ -27,7 +27,7 @@ Abhängigkeitsverhältnis von einem Kunden zu einen Anbieter.
 
 ---
 ### Cloud
-Begriff aus den 80er Jahren.
+Begriff aus den 80er Jahren.  
 ![[Cloud 80er Jahre.png]]
 
 ---

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "f-1.md",
+            "file": "Marktsondierung.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "f-1.md"
+                "file": "Marktsondierung.md"
               }
             }
           },
@@ -91,15 +91,15 @@
     "width": 139
   },
   "lastOpenFiles": [
-    "f-1.md",
-    "f-2.md",
-    "f.md",
-    "Wiederherstellung von Backup.md",
-    "Prozesse Odoo - Testumgebung bereitstellen.md",
-    "Nextcloud - Restore password manager from backup.md",
-    "Service-Accounts.md",
-    "Infrastruktur.md",
+    "Marktsondierung.md",
     "Methodik.md",
-    "Links.md"
+    "README.md",
+    "Prozesse Marketing.md",
+    "Prozesse Marketing - Newsletter und Blog.md",
+    "Prozesse Projektmanagement - Zeiterfassung.md",
+    "Behalten Sie ihre Unternehmensdaten mit Nextcloud im Griff.md",
+    "Slides.md",
+    "Links.md",
+    "f-1.md"
   ]
 }
