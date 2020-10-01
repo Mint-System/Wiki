@@ -18,13 +18,13 @@ Gemeinsamkeiten mit Odoo:
 
 Im Vergleich mit Odoo:
 
-➖ Bexio ist nicht Open Source
-➖ Bexio kann nicht [[Odoo Hosting - On-Premise|On-Premise]] gehostet werden
-➖ Bexio bietet nicht den gleichen Funktionsumfang
-➖ Bexio ist nicht modular
-➖ Bietet keine mobile App
+➖ Bexio ist nicht Open Source  
+➖ Bexio kann nicht [[Odoo Hosting - On-Premise|On-Premise]] gehostet werden  
+➖ Bexio bietet nicht den gleichen Funktionsumfang  
+➖ Bexio ist nicht modular  
+➖ Bietet keine mobile App  
 
-➕ Buchhaltung und Lohnbuchhaltung für Schweizer KMU
-➕ Schnittstellen zu Schweizer Banken
-➕ "Swissness" und Schweizer Lokalisierung
-➕ Treuhänder-Angebot
+➕ Buchhaltung und Lohnbuchhaltung für Schweizer KMU  
+➕ Schnittstellen zu Schweizer Banken  
+➕ "Swissness" und Schweizer Lokalisierung  
+➕ Treuhänder-Angebot  
