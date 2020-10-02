@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "5c9b4bcddee447f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6deb7ea085c7ba82",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mint System und Odoo.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "572f6332dc0a6fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1867ebb09af17a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fdd87ee08a19d1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ed0ef41546f0ef9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "62901fbab63c2351",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4720d30e70b00be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfee001eaef2c27d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mint System und Odoo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Mint System und Odoo.md",
+    "Odoo Marketing.md",
+    "Lokalisierung.md",
+    "Odoo Enterprise.md",
+    "Odoo Community Association.md",
+    "Odoo Development Environment.md",
+    "Odoo Migration - Worklog.md",
+    "Slides.md",
+    "Odoo.md",
+    "Demoumgebungen.md"
+  ]
+}

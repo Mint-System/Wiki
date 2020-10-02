@@ -3,6 +3,10 @@ Odoo ist eine ERP-Software. Es ist Teil des [[Angebot|Angebots]] der [[Mint Syst
 
 Mint System GmbH bietet ein [[Odoo Hosting]].
 
+## Odoo Projekt
+
+![[Odoo Projekt.png]]
+
 ## Features
 
 * [[Odoo Email Integration]]

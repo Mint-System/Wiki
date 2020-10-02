@@ -2,6 +2,16 @@
 
 Für die Odoo Demos werden Datensätze und Szenarios gepflegt. Für jede Odoo App wird festgehalten wie die Demodaten exportiert wurden und wie die dazugehörige Export-Datei heisst.
 
+##  Initialisierung
+Benutzer
+```
+Name
+Login
+Sprache
+```
+Datei: `res.users.xlsx`
+?> Die Benutzer haben nach dem Import für alle Apps maximale Rechte ausser für PLM, Administration und Quality.
+
 ## App Fertigung
 Produkte
 ```
