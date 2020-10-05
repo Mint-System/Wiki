@@ -37,3 +37,8 @@ Arbeitsschritte:
 * Klick auf *Create Draft Entry*
 * Review Buchhaluntssätze *Tab Buchungsinformationen > Buchung*
 * Buchung Bestätigen
+
+## Lohnzahlungen verbuchen
+
+Arbeitsschritte:
+* 

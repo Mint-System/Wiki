@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "5c9b4bcddee447f0",
+    "id": "61ddca96d9a506fc",
     "type": "split",
     "children": [
       {
-        "id": "6deb7ea085c7ba82",
+        "id": "ab9575c47a268bd0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mint System und Odoo.md",
+            "file": "Odoo Development Environment.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "572f6332dc0a6fb8",
+    "id": "f6348999b802f9f8",
     "type": "split",
     "children": [
       {
-        "id": "1867ebb09af17a5c",
+        "id": "549efa6cbdce2208",
         "type": "tabs",
         "children": [
           {
-            "id": "9fdd87ee08a19d1b",
+            "id": "b75df16230874234",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "5ed0ef41546f0ef9",
+            "id": "8ec2a107e9a30949",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "cache"
               }
             }
           }
@@ -49,24 +49,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 560
   },
   "right": {
-    "id": "62901fbab63c2351",
+    "id": "bb2587051aed61d3",
     "type": "split",
     "children": [
       {
-        "id": "b4720d30e70b00be",
+        "id": "eee6ffb878b1f508",
         "type": "tabs",
         "children": [
           {
-            "id": "dfee001eaef2c27d",
+            "id": "5275b623141d887c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mint System und Odoo.md"
+                "file": "Odoo Development Environment.md"
               }
             }
           }
@@ -77,15 +76,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Mint System und Odoo.md",
-    "Odoo Marketing.md",
-    "Lokalisierung.md",
-    "Odoo Enterprise.md",
-    "Odoo Community Association.md",
     "Odoo Development Environment.md",
-    "Odoo Migration - Worklog.md",
-    "Slides.md",
-    "Odoo.md",
-    "Demoumgebungen.md"
+    "Odoo Shell.md",
+    "Prozesse Finanzen - Personalabrechnung.md",
+    "Prozesse Finanzen - Buchhaltung.md",
+    "Prozesse Finanzen - Eingangsrechnungen.md",
+    "Ansible Playbooks.md"
   ]
 }
