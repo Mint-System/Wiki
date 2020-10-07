@@ -6,8 +6,7 @@ Open the nextcloud client window and click on *Edit ignored files* of a selected
 
 Enter these default patterns:
 * .git
-* .obsidian
-* obsidian.css
+* workspace (for Obsidian users)
 * .DS_Store (for Mac users)
 * default.vim (for developers)
 * node_modules (for developers)

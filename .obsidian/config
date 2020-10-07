@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "pluginEnabledStatus": {
     "file-explorer": true,
     "global-search": true,
@@ -9,6 +9,7 @@
     "command-palette": true,
     "markdown-importer": true,
     "word-count": true,
-    "custom-css": true
+    "custom-css": true,
+    "slides": true
   }
 }

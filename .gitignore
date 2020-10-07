@@ -3,3 +3,4 @@ default.vim
 .now
 node_modules
 .vercel
+.obsidian/workspace

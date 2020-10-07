@@ -7,7 +7,7 @@ Corporate Design der Mint System.
 --secondary-color: #0D8485;
 --text-dark-color: #202020;
 --text-normal-color: #CCCCCC;
---text-light-color: #EAEAEA;
+--text-light-color: #EAEAEA;	
 --text-grey-color: #B9B9BA;
 ```
 

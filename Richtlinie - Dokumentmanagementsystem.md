@@ -12,6 +12,8 @@ Beispiel: Marco möchte, dass Janik das Dokument "Flyer" reviewed. Er zeigt die 
 
 Die Office-Dokumente werden als `.odt` gespeichert.
 
+Dateien vom Typ `.zip` müssen immer entpackt sein, damit die Inhalte durchsuchbar sind.
+
 ## Versionierung
 
 Dokumentversionen werden von Nextcloud verwaltet.
@@ -20,7 +22,7 @@ Ein Dokument soll immer nur einmal existieren, das heisst keine Versionsduplikat
 
 ## Inputs
 
-Ordner mit der Bezeichung "Input" sind Sammelordner mit Dokumenten zur Verarbeitung.
+Ordner mit der Bezeichung *Input* sind Sammelordner mit Dokumenten zur Verarbeitung.
 
 ## Ablagestruktur
 
