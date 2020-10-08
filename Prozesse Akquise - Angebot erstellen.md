@@ -21,6 +21,17 @@ Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistun
 Auftragserteilung:
 In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder durch Annahme des Angebots oder durch Unterzeichnung eines separaten Vertrages oder durch eine Bestellung.
 
+### Fakturierungen
+
+Fakturierung Einmalige Leistungen:
+Einmalige Leistungen werden nach deren Erbringung am Ende des Monats inkl. MwSt. in Rechnung gestellt.
+
+Fakturierung Leistungen nach Aufwand:
+Die Fakturierung der Leistungen inkl. MwSt. erfolgt monatlich nach effektivem Aufwand unter Beilage eines detaillierten Arbeitsrapportes.
+
+Fakturierung Monatliche Kosten:
+Die Fakturierung der monatlichen Kosten werden inkl. MwSt. am Ende des Monats in Rechnung gestellt.
+
 ### Entwicklungsprojekt
 
 Allgemeine Bestimmungen:

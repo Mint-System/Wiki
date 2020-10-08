@@ -20,9 +20,15 @@ Dokumentversionen werden von Nextcloud verwaltet.
 
 Ein Dokument soll immer nur einmal existieren, das heisst keine Versionsduplikate erstellen.
 
-## Inputs
+## Reservierte Namen
+
+**Input**
 
 Ordner mit der Bezeichung *Input* sind Sammelordner mit Dokumenten zur Verarbeitung.
+
+**Archiviert**
+
+Zu Archivierung werden Dokument oder Ordner im selben Verzeichnis in den Ordnert *Archiviert* verschoben.
 
 ## Ablagestruktur
 
