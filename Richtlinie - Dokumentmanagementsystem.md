@@ -22,6 +22,8 @@ Ein Dokument soll immer nur einmal existieren, das heisst keine Versionsduplikat
 
 ## Reservierte Namen
 
+Bestimmte Ordnernamen sind reserviert.
+
 **Input**
 
 Ordner mit der Bezeichung *Input* sind Sammelordner mit Dokumenten zur Verarbeitung.
@@ -29,6 +31,14 @@ Ordner mit der Bezeichung *Input* sind Sammelordner mit Dokumenten zur Verarbeit
 **Archiviert**
 
 Zu Archivierung werden Dokument oder Ordner im selben Verzeichnis in den Ordnert *Archiviert* verschoben.
+
+**Output**
+
+Dokument und Dateien zur Veröffentlichung freigeben.
+
+**tmp**
+
+Temporäre Dateien können hier abgelegt werden.
 
 ## Ablagestruktur
 
