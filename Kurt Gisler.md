@@ -1,0 +1,2 @@
+# Kurt Gisler
+Verantwortlich: [[Unternehmensentwicklung]]

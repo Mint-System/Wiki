@@ -1,4 +1,6 @@
 # Infrastruktur
+Typ: [[Bereich]]
+
 Beinhaltet:  
 [[Ansible]]  
 [[Security]]  

@@ -10,7 +10,6 @@ Bei der Open-Source-Software UltraVNC handelt es sich um eine hervorragende Alte
 
 Sowohl die Client- als auch die Serverkomponente der freien Remote-Software überzeugen durch ihre umfangreichen Konfigurationsmöglichkeiten. Diese gewähren Experten einen riesigen Spielraum. Allerdings erschweren sie im Gegenzug weniger erfahrenen Nutzern den Umgang mit UltraVNC spürbar, woran auch die altbackene Menüoberfläche einen großen Anteil hat. Da die Signale der Serveranwendung von einer beliebig hohen Anzahl von Viewern empfangen und angezeigt werden können, eignet sich die TeamViewer-Alternative auch für Schulungen oder Präsentationen. Über die Toolbar oder im Servermodul können Sie dabei einstellen, dass nur einzelne Desktopfenster übertragen werden, um den Fokus der Teilnehmer auf die wesentlichen Informationen zu lenken.
 
-
 Vorteile  
 ✔ Gänzlich kostenfrei und Open-Source  
 ✔ Umfangreiche Optionen  

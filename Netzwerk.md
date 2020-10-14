@@ -1,2 +1,5 @@
 # Netzwerk
-[[Odoo OCA]]
+Geschäftsbeziehungen der Mint System.
+
+[[Odoo OCA]]  
+[[Odoo S.A.]]

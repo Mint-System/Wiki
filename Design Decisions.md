@@ -1,10 +1,25 @@
 # Design Decisions
-
 Technische und komplexe Fragestellungen werden hier systematisch bewertet und beantwortet.
 
 ## Zugriff ohne Benutzerlizenz
 
 Fragestellung: Wie erhalten Mitarbeiter der Mint System Zugriff auf die Odoo-Umgebung des Kunden ohne, dass eine Benutzer-Lizenz gekauft werden muss?
+
+Referenz: [[Odoo Painpoints#Odoo Painpoints#Odoo-Benutzerlizenzen für Partner]]
+
+**Entscheid:** Löunsgsvorschlag 1
+
+### Lösungsvorschlag 1
+
+Auf der Live-Umgebung sind die Parnter-Benutzer vorhanden und archiviert. Nach Bedarf kann der Kunde diese aktivieren. Möchte der Partner die Benutzer selber aktivieren, kann er das über die Datenbank machen. Der technische Verantwortliche kann mittels Skript auf dem Server den Account aktiveren oder deaktivieren.
+helios:/$ docker-odoo-user -c odoo06  -d erp-dev -enable janik.vonrotz@mint-system.ch
+helios:/$ docker-odoo-user -c odoo06 -d erp-dev -disable janik.vonrotz@mint-system.ch
+
+### Lösungsvorschlag 2
+
+Auf jeder Kundeninstallation wird pgAdmin installiert. Über den Admin kann auf die Datenbank zugegriffen werden und der entsprechende Benutzer aktiviert oder deaktiviert werden.
+
+Note: Odoo.sh allows you to impersonate as any user on the database.
 
 ## Odoo Enterprise Modul-Code
 

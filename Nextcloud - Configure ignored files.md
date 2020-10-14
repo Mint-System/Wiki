@@ -11,4 +11,4 @@ Enter these default patterns:
 * default.vim (for developers)
 * node_modules (for developers)
 
-The list of ignored files is saved to `sync-exclude.lst`.
+The list of ignored files is saved to `.sync-exclude.lst`.
