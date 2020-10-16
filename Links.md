@@ -31,19 +31,3 @@ Die wichtigsten Links der Mint System.
 [Login Mint System](https://login.mint-system.ch)
 
 [Monitoring Dashboard Node Stats and Alerts](https://monitor.mint-system.ch/d/000000012/node-stats-and-alerts?orgId=1&from=1591106500163&to=1591711300164)
-
-## Odoo Umgebungen
-
-[Odoo Mint System](https://erp.mint-system.ch)
-
-[Odoo Testumgebung](https://odoo.mint-system.ch)
-
-[Odoo Zeiterfassung Testumgebung](https://zeiterfassung.mint-system.ch/)
-
-[Odoo.sh Testumgebung](https://www.odoo.sh/project/janikvonrotz-odoo-sh)
-
-## Demo Umgebungen
-
-[Moodle Testumgebung](https://moodle.mint-system.ch)
-
-[Nextcloud Testumgebung](https://nextcloud.mint-system.ch)
