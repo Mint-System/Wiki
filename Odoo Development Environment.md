@@ -1,6 +1,7 @@
 # Odoo Development Environment
 
-[[Odoo Shell]]
+[[Odoo Shell]]  
+[[Odoo Scripts]]
 
 ## Recipies
 
