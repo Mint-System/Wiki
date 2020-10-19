@@ -42,3 +42,5 @@ Pro:
 Con:
 * Hoher Verwaltungsaufwand der Pakete
 * Kunde erhält nicht den gesamten Code
+
+### Lösungsvorschlag 2: Git Repo

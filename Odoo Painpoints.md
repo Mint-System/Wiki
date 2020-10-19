@@ -70,3 +70,25 @@ Es stehen die folgenden Optionen zur Verfügung:
 - Der Partner greift auf die Datenbank zu und aktiviert seinen Benutzer.
 
 Löunsg: [[Design Decisions#Zugriff ohne Benutzerlizenz]]
+
+## Fertigung
+
+### Reservierung Bestand bei Planung
+
+Wenn ein Auftrag geplant wird, werden die benötigten Produkte im Lager reserviert. Die Priorisierung der Produkte ist oftmals ungünstig. Möchte man diese ändern muss zuerst die Reservierung aufgehoben werden.
+
+**Lösungsansatz 1**
+
+Lager-Reservierungen bei Arbeitsaufträgen sollen bei Ausführung des Lager-Schedulers aufgehoben werden.
+
+### Lieferungen bewerten
+
+Lieferungen können nicht bewertet werden.
+
+### Angebotsanfrage mit Anhang
+
+Den RFQs können keine Portal-Anhänge mitgeschickt werden.
+
+### Barcode generieren
+
+Barcodes können nicht automatisch generiert werden.
