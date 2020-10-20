@@ -15,6 +15,11 @@ Auf der Live-Umgebung sind die Parnter-Benutzer vorhanden und archiviert. Nach B
 helios:/$ docker-odoo-user -c odoo06  -d erp-dev -enable janik.vonrotz@mint-system.ch
 helios:/$ docker-odoo-user -c odoo06 -d erp-dev -disable janik.vonrotz@mint-system.ch
 
+Die Prozesse:
+
+[[Prozesse Odoo - App Einstellungen#Benutzer aktivieren oder deaktivieren]]  
+[[Prozesse Odoo - App Einstellungen#App Einstellungen#Partner-Synchronisation auf täglich umstellen]]
+
 ### Lösungsvorschlag 2
 
 Auf jeder Kundeninstallation wird pgAdmin installiert. Über den Admin kann auf die Datenbank zugegriffen werden und der entsprechende Benutzer aktiviert oder deaktiviert werden.
