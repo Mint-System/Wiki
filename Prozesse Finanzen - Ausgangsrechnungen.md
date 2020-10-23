@@ -19,8 +19,9 @@ Vorbereitung:
 * Odoo Rechnungsadresse mit VAT erfassen
 
 Arbeitsschritte:
-* Bestellungen im Odoo Portal herunterladen unter [Portal - BEstellungen](https://www.odoo.com/de_DE/my/purchase)
-* Neue Rechnung erstellen *Finanzen > Ausgangsrechnungen > Neue Rechnung* und als Kunde die Rechnungsadresse auswählen
+* Bestellungen im Odoo Portal herunterladen unter [Portal - Bestellungen](https://www.odoo.com/de_DE/my/purchase)
+* Neue Rechnung erstellen *Finanzen > Ausgangsrechnungen > Neue Rechnung* und als Kunde die Rechnungsadresse von Odoo S.A. mit Mail 	
+commissions@odoo.com auswählen
 * Produkt *Odoo Lizenzen* mit Bestellnummer als Buchungstext erfassen
 * In der Rechnungsnotiz die Zahlungsinformationen speichern
 

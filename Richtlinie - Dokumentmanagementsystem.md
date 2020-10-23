@@ -48,6 +48,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 * Archiv - Ablage zur Archivierung
 * Bilder - Fotoalben
 * Corporate Design - Format- und Dokumentvorlagen, Bilder zur Publikation
+* Data - Speicherung von Anwendungsdaten.  Beispielsweise Passwort-Dateien von [[KeePassXC]]
 * Development - Entwicklung Odoo und System Engineering
 * Finanzen - Finanz- und Kontenplan
 * Förderbeiträge - Dokumente Sponsoring Mint System
