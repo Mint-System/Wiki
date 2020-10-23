@@ -5,7 +5,7 @@ Mint System unterstützt die Verbindung von Odoo mit verschiedenen Login-Systeme
  * OAuth
  	* Facebook
     * Google
-    * Odoo.com
+    * [[Login mit Odoo.com]]
      * [[Login Mint System]]
 
 Login-Systeme von Facebook, Google oder Odoo.com können für interne und externe Benutzer freigeschaltet werden.

@@ -12,6 +12,6 @@ Antwort:
 
 # Fertigung
 
-## Hauptfertgigungsplan
+## Hauptfertigungsplan
 
 ## 
