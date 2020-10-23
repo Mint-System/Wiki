@@ -11,4 +11,5 @@ Kriterien zur Evaluation einer Lösung.
 ## Evaluationen
 
 [[Evaluation IaaS]]  
-[[Evaluation Odoo Report]]
+[[Evaluation Odoo Report]]  
+[[Evaluation Telefonieanbieter]]

@@ -4,3 +4,4 @@ default.vim
 node_modules
 .vercel
 .obsidian/workspace
+.obsidian/graph.json

@@ -39,3 +39,9 @@ Das Finanz-Modul von Odoo unterstützt mehrere Währungen.
 ### Automatische Wechselkurse
 
 Wechselkurse können automatisch mit Anbietern synchronisiert werden.
+
+
+### Rechnungsstellung in Euro
+
+
+### 
