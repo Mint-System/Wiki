@@ -14,11 +14,12 @@ Die Vorlagen wurde mit diesen Arbeitsschritten erstellt:
 	* Passwort des Administrators speichern
 	* Anzeigename und Anzeigebild des Administrators `Administrator Mint System` anpassen
 	* Konfiguration ausgehender Mail-Server
-	* Konfiguration eingehender Mail-Server
+	* ~~Konfiguration eingehender Mail-Server
 	* Anpassen des Unternehmens-Datensatz
 	* Logo und Favicon hinzufügen und Anpassung Dokumentenlayout
 	* Benutzer erstellen und Berechtigungen konfigurieren
-	* Kalender synchronisation einrichten
+	* ~~Kalender synchronisation einrichten
+	* Enternen `odoo_referral`apps
 	* Installation der Initialmodule:
 		* Base: web_color, web_responsive, show_db_name, project, auth_oauth_keycloak
 		* Enterprise: web_responsive,contacts_enterprise,ocn_client
