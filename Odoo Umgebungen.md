@@ -13,7 +13,7 @@ Kunden haben [[Testumgebungen]] im Einsatz.
 
 Zu internen Zwecken wird eine Odoo Installation unter https://odoo.mint-system.ch zur Verfügung gestellt.
 
-Für diese Umgebung existieren [[Odoo Datenbank Vorlage|Datenbankvorlagen]].
+Für diese Umgebung existieren [[Odoo Datenbankvorlage|Datenbankvorlagen]].
 
 ## Extern
 

@@ -12,3 +12,16 @@ Damit die Kostenrechnung funktioniert müssen folgende Bedienungen erfüllt sein
 ## Kostenstellen-Tags
 
 Über Kostenstellen-Tags können Rechnungszeilen auf verschiedene Kostenstellen aufgeteilt werden.
+
+## Kostenstellengruppen
+
+Vorlage:
+* Projekte
+	* Odoo Projekte
+	* Open Source Projekte
+* Technische Entwicklungen
+* Personelle Entwicklungen
+* Verkauf
+	* Marketing
+* Interne Organisation
+* Methodische Entwicklung

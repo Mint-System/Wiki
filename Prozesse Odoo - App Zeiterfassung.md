@@ -1,5 +1,5 @@
 # App Zeiterfassung
-InstallationModul Zeiterfassung (timesheet_grid).
+Installation Modul Zeiterfassung (timesheet_grid).
 
 ## Erweiterungen installieren
 Auswahl:

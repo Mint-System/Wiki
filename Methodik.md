@@ -3,4 +3,6 @@
 [[Management Handbuch]]  
 [[Vorgehensmodell]]  
 [[Design Decisions]]  
-[[Marktsondierung]]
+[[Marktsondierung]]  
+[[Pendenzen]]  
+[[Arbeitsplanung]]  
