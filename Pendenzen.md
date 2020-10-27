@@ -20,7 +20,11 @@ Kann eine Diskussionsaufgabe nicht ad-hoch erledigt werden, erstellt man daraus 
 
 Mit Odoo können auf allen Objekten Aktivitäten geplant werden. Dieser sind ein Bestandteil, der [[Arbeitsplanung]].
 
+Aufgaben mit einer Deadline werden als Aktivitäten erfasst und direkt zugewiesen.
+
 ## Tägliche Aufgaben
 
 Jeder Mitarbeiter führt eine Notiz mit Aufgaben, die er am Tag erledigen möchte. Fortlaufend aktualisiert er die Liste. Aufgaben, die nicht erledigt werden, werden am Ende des Tages als Projektaufgabe oder Aktivität festgehalten.
+
+## Unteraufgaben
 

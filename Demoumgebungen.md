@@ -17,11 +17,13 @@ https://finanzen.mintsys.ch | Demoumgebung für Finanzen
 
 Link | Beschreibung
 -|-
-https://steiner.mintsys.ch | ERP Steiner Sarnen Schweiz AG
-https://zgraggen.mintsys.ch | ERP Zgraggen Holding
-https://arnold.mintsys.ch | ERP Arnold Reklamen AG
-https://aersolution.mintsys.ch | ERP Aersolution Interior AG
-https://metallprojekt.mintsys.ch | ERP metallprojekt gmbh
+~~https://steiner.mintsys.ch~~ | Steiner Sarnen Schweiz AG
+https://zgraggen.mintsys.ch | Zgraggen Holding
+https://arnold.mintsys.ch | Arnold Reklamen AG
+https://aersolution.mintsys.ch | Aersolution Interior AG
+https://metallprojekt.mintsys.ch | metallprojekt gmbh
+https://trimada.mintsys.ch | Trimada AG
+https://kleinbrauerei.mintsys.ch | Kleinbrauerei Stiär Biär AG
 
 ## Nextcloud
 

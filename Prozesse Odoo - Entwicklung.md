@@ -1,4 +1,4 @@
-# App Einstellungen
+# Entwicklung
 
 ## Benutzer aktivieren oder deaktivieren
 

@@ -10,7 +10,10 @@
     "markdown-importer": true,
     "word-count": true,
     "custom-css": true,
-    "slides": true
+    "slides": true,
+    "tag-pane": true
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets",
+  "enabledPlugins": []
 }

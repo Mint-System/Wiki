@@ -1,5 +1,6 @@
-# App Barcode
+# App Strichcode
 Installation Module Strichcode (stock_barcode)
+
 ## Erweiterungen installieren
 Auswahl:
 * Stock Barcode in Mobile  (stock_barcode_mobile)

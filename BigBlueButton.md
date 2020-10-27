@@ -16,3 +16,9 @@ psql -U postgres
 select email from users;
 delete from users where users.email = 'info@mint-system.ch';
 ```
+
+### Mikrofon auswählen
+
+BigBlueButton fragt einmalig nach dem Mikrofon-Zugriff.
+
+![[BigBlueButton Mikrofon-Zugriff.png]]

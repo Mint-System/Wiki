@@ -6,14 +6,15 @@ Arbeitsschritte:
 * Laden Datenbankvorlage
 * Mail-Domäne gemäss Domain festlegen
 * Unternehmensdaten eintragen
-* Ausgewählte Module installieren und konfigureiren
+* Ausgewählte Module installieren und konfigurieren
 * Benutzer registrieren
 * Corporate Design umsetzen
+* Aktualisieren [[Demoumgebungen#Demoumgebungen#Odoo]]
 
 ## Installation Apps
 Auswahl:
-* Odoo Cloud Notification Client (OCN) (ocn_client)
-* Web-Enterprise (web_enterprise)
+* Odoo Cloud Notification Client (OCN) (ocn_client) #Odoo13
+* Web-Enterprise (web_enterprise) #Odoo13-14
 
 ## Login Mint System
 Integration in [[Login Mint System]].

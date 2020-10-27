@@ -17,8 +17,8 @@ helios:/$ docker-odoo-user -c odoo06 -d erp-dev -disable janik.vonrotz@mint-syst
 
 Die Prozesse:
 
-[[Prozesse Odoo - App Einstellungen#Benutzer aktivieren oder deaktivieren]]  
-[[Prozesse Odoo - App Einstellungen#App Einstellungen#Partner-Synchronisation auf täglich umstellen]]
+[[Prozesse Odoo - Entwicklung#Benutzer aktivieren oder deaktivieren]]  
+[[Prozesse Odoo - Entwicklung#App Einstellungen#Partner-Synchronisation auf täglich umstellen]]
 
 ### Lösungsvorschlag 2
 

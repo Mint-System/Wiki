@@ -1,5 +1,8 @@
 # Tags
 Mit [[Obsidian]] können Artikel getagged `#tagname` werden. Tags werden jedoch von [[Docsify]] nicht unterstütze. Daher werden die Tags nur zur Verwaltung der Artikel verwendet. Folgende Tags stehen zur verfügung:
 
-* #replaceme: An der Stelle des Tags mit gemäss Kommentar Inhalt ergänzt werden.
-* #deleteme: Dieser Artikel und Assets kann gelöscht werden.
+* #FIXME: An dieser Stelle ist eine Änderungen offen.
+* #REPLACEME: An der Stelle des Tags mit gemäss Kommentar Inhalt ergänzt werden.
+* #DELETEME: Dieser Artikel und Assets kann gelöscht werden.
+* #Odoo13: Dieses Feature ist nur für Odoo 13 verfügbar.
+* #Odoo13-14: Dieses Feature ist für Odoo 13 bis 14 verfügbar.

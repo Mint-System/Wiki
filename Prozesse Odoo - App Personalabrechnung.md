@@ -2,7 +2,6 @@
 Installation Modul Personalabrechnung (hr_payroll).
 
 ## Initialsierung
-
 Arbeitsscrhitte:
 * HR-Stammdaten vorbereiten.
 * Erfassen Standardarbeitsvertrag

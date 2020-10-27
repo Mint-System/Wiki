@@ -23,8 +23,8 @@ Arbeitsschritte:
 * Export Lohnarten
 * Anpassen Spalte Vergütungsstruktur
 * Import Lohnarten
-* Anpassen Darlehenskonto
-* Darlehenskontro auswählen
+* Anpassen Betrag Darlehen
+* Darlehenskonto auswählen
 * Anpassen PK/BVG-Beitrag für AG und AN gemäss Vertrag
 
 ## Lohnabrechnung erstellen
