@@ -18,7 +18,7 @@ Auswahl:
 * SEPA Kreditübertragung (account_sepa)
 * Account Invoice Extract (account_invoice_extract)
 * Accounting Reports (account_reports)
-* Analytische Konten   (analytic_enterprise)
+* Analytische Konten (analytic_enterprise)
 * Budgetverwaltung (account_budget)
 * Schweizer Buchhaltungsauswertungen (l10n_ch_reports)
 

@@ -29,6 +29,13 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 
 **Login**: Wenn Benutzer sich über [LDAP](https://www.odoo.com/documentation/user/14.0/general/auth/ldap.html) oder [[OAuth]] in Odoo einloggen, müssen die entsprechenden Authentisierungs-Endpunkte erreichbar sein.  
 **E-Mail**: Odoo verschickt Mails zur Benachrichtigungen. Dazu ist eine SMTP-Verbindung zu einem Mail-Account der Organisation notwendig.  
+**HTTPS**: Die Odoo Webapplikation soll unter HTTPS erreichbar sein. Wenn der Server nur intern erreichbar ist, müssen die notwendigen Zertifikate bereitgestellt werden.
+
+## Best Practice
+
+Ein On-Premise Odoo Hosting kann wie folgt aussehen:
+
+![[Odoo Hosting On-Premise.png]]
 
 ## Checkliste
 
