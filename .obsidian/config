@@ -15,5 +15,6 @@
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
-  "enabledPlugins": []
+  "enabledPlugins": [],
+  "strictLineBreaks": true
 }
