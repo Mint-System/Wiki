@@ -6,33 +6,29 @@ Der Kunde stellt einen Server zur Installation von Odoo bereit. Die Mint System 
 
 ### Hardware
 
-CPU
+Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Benutzer:
 
-RAM
-
-Disk
+**vCPU**: 2 Cores  
+**RAM**: 4 GB  
+**Disk**: 40 GB  
 
 ### Software
 
-Betriebssystem
-
-Container
-
-Berechtigungen
+**Betriebssystem**: Die Linux-basierten Betriebsysteme Ubuntu, Debian, CentOS werden unterstützt. 
+**Container-Support**: Die Odoo Webapplikation wird als Docker-Container betrieben.  
+**Berechtigungen**: Zur Installation der benötigten Software werden Root-Rechte benötigt.  
 
 ### Zugriff
 
-Domain
-
-Extern
-
-SSH
+**DNS**: Der Server soll unter einem Hostname, beispielsweise `odoo.example.com`, erreichbar sein.  
+**Extern**: Wenn der Server und die Odoo Webapplikation nicht vom Kunden verwaltet werden, muss der Server von extern erreichbar sein.  
+**SSH**: Der Remote-Zugriff erfolgt über SSH. Der entsprechende Port muss freigeschaltet sein.  
+**Repositories**: Zur Installation von Software kann der Server auf externe Repositories der jeweiligen Linux-Distribution zugreifen.  
 
 ### Integration
 
-LDAP
-
-E-Mail
+**Login**: Wenn Benutzer sich über [LDAP](https://www.odoo.com/documentation/user/14.0/general/auth/ldap.html) oder [[OAuth]] in Odoo einloggen, müssen die entsprechenden Authentisierungs-Endpunkte erreichbar sein.  
+**E-Mail**: Odoo verschickt Mails zur Benachrichtigungen. Dazu ist eine SMTP-Verbindung zu einem Mail-Account der Organisation notwendig.  
 
 ## Checkliste
 
