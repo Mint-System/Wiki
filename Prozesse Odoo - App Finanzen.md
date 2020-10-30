@@ -28,7 +28,8 @@ Auswahl:
 
 ## Optionen aktivieren
 Navigation nach *Einstellungen > Finanzen* und Auswahl:
-* Print Swiss QR Code
+* Print Swiss QR Code #Odoo13 
+* QR Codes #Odoo14
 * Rechnungsdigitalisierung
 * Kostenrechnung
 * Kostenstellen-Tags

@@ -20,7 +20,7 @@ Kosten können über Kostenstellen-Tags getrackt werden. Mehr dazu unter [[Odoo 
 
 Der schweizerische Kontenplan KMU von Sterchi/Mattle/Helbling ist in der Schweiz weit verbreitet.
 
-Eine neuer Mandant in odoo hatbei Ländereinstellung "Schweiz" automatisch einen Kontenplan der schweiz. KMU. Dieser muss jedoch noch angepasst werde, da diverse Konten enthalten sind, die nicht verwendet werden.
+Eine neuer Mandant in odoo hat bei Ländereinstellung "Schweiz" automatisch einen Kontenplan der schweiz. KMU. Dieser muss jedoch noch angepasst werde, da diverse Konten enthalten sind, die nicht verwendet werden.
 
 ## Budget planen
 
@@ -39,9 +39,3 @@ Das Finanz-Modul von Odoo unterstützt mehrere Währungen.
 ### Automatische Wechselkurse
 
 Wechselkurse können automatisch mit Anbietern synchronisiert werden.
-
-
-### Rechnungsstellung in Euro
-
-
-### 

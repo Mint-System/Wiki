@@ -5,6 +5,7 @@ Rechnungen erstellen und versenden.
 
 Arbeitsshritte:
 * Kostenstelle festlegen
+	* 3400 Handelserlöse
 * Mehrwertssteuersatz auswählen:
 	* 6XXX -> MWST sonstiger Betriebsaufwand  
 	* 4XXX -> MWST Normal

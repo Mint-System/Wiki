@@ -1,7 +1,7 @@
 ### Präsentation Mint System und Odoo
-Mint System GmbH
-Seedorferstrasse 29
-6460 Altdorf
+Mint System GmbH  
+Seedorferstrasse 29  
+6460 Altdorf  
 
 ---
 ### Agenda

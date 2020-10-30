@@ -1,6 +1,15 @@
 # Odoo 14
 
+## Insight
+
+- MRP has been refactored
+- Accounting has changed
+
 ## Bugs
+
+### Account permissions removed
+
+Die Rollen zur Vergabe von Rechten im Finanzen App wurde entfernt.
 
 ### Editor not wide enough
 

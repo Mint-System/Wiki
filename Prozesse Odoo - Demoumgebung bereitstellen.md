@@ -31,3 +31,17 @@ Arbeitsschritte:
 * OAuth Client URL von Liste *Valid Redirect URIs* entfernen
 * Projektaufgaben bereinigen
 * Datenbank löschen
+
+## Demodaten importieren
+Arbeitsschritte:
+* Import leere Datenbank `odoo leer.zip`
+* Import `res.users.csv`
+* Import `product.template.csv`
+* Import `mrp.bom.csv`
+* Import `mrp.workcenter.csv`
+* Installation App *Kontakte*
+* Import `res.partner.csv`
+* Arbeitsplan für *Oberrohr* und *Rahmen unbeschichtet* erstellen
+* Mengen für die Bestandteile des Rahmens anpassen
+* Lieferanten für die Produkte für den Rahmen hinterlegen
+* Diese Inhalte finden sich in der Datenbank `odoo.zip`
