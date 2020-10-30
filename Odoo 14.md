@@ -7,10 +7,6 @@
 
 ## Bugs
 
-### Account permissions removed
-
-Die Rollen zur Vergabe von Rechten im Finanzen App wurde entfernt.
-
 ### Editor not wide enough
 
 Module: website  
