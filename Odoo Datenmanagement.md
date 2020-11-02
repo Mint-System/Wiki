@@ -18,7 +18,7 @@ Passwort
 Verbindungssicherheit
 SMTP-Port 
 ```
-Datei: `ir.mail_server.xlsx`
+Datei: `ir.mail_server.csv`
 
 Listenansicht: *Einstellungen > Diskussion > Externe E-Mail-Server > Eingehender Mail-Server*
 
@@ -36,7 +36,7 @@ Port
 Servername
 Benutzername 
 ```
-Datei: `fetchmail.server.xlsx`
+Datei: `fetchmail.server.csv`
 
 ### Produkt
 
@@ -52,7 +52,7 @@ Lieferanten/Lieferant/Externe ID
 Lieferant/Menge
 Lieferanten/Preis
 ```
-Datei: `product.template.xlsx`
+Datei: `product.template.csv`
 
 ### Projekt
 
@@ -67,7 +67,7 @@ Stufenbezeichnung
 In Kanban eingeklappt
 Beschreibung
 ```
-File: `project.task.type.xlsx`
+File: `project.task.type.csv`
 
 Listenansicht: *Projekt > Konfiguration > Projekte*
 
@@ -79,11 +79,11 @@ Projektmanager
 Kunde
 Zeiterfassung 
 ```
-Datei: `project.project.xlsx`
+Datei: `project.project.csv`
 
 ## Importvorgänge
 
 ### Produkt
 
-Die Datei `product.template.xlsx` importieren. Die folgenden Anpassungen im Importdialog vornehmen:
+Die Datei `product.template.csv` importieren. Die folgenden Anpassungen im Importdialog vornehmen:
 * 

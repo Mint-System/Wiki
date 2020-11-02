@@ -1,4 +1,4 @@
-y§# Ansible Playbooks
+# Ansible Playbooks
 Collection of ansible playbooks and roles. 
 
 Page: https://github.com/Mint-System/Ansible-Playbooks
