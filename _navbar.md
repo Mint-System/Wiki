@@ -1,2 +1,2 @@
 - [Home](/)
-- [Odoo Handbuch](https://odoo-handbuch.mint-system.ch)
+- [Odoo Handbuch](https://doc.odoo-erp.ch)
