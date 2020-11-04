@@ -20,6 +20,12 @@ Dokumentversionen werden von Nextcloud verwaltet.
 
 Ein Dokument soll immer nur einmal existieren, das heisst keine Versionsduplikate erstellen.
 
+## Dateinamen
+
+**Datum**
+
+Sitzungsnotizen und datierte Dateien werden am Anfang mit dem Datumsstempel versehen: `YYYY-MM-DD Dateiname.zip`
+
 ## Reservierte Namen
 
 Bestimmte Ordnernamen sind reserviert.

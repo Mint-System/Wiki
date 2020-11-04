@@ -1,5 +1,10 @@
 # Corporate Design
 Corporate Design der Mint System.
+
+## Logo
+
+Url: https://www.mint-system.ch/theme_mint_system/static/img/logo.svg
+
 ## Colors
 
 ```css

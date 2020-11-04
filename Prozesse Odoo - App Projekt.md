@@ -2,8 +2,8 @@
 ## Initialisierung
 Arbeitsschritte:
 * Aktivieren Entwicklermodus
-* Import Projektstufen von `project.task.type.xlsx`
-* Import Projektvorlage von `project.project.xlsx`
+* Import Projektstufen von `project.task.type.csv`
+* Import Projektvorlage von `project.project.csv`
 * Filter Archiverte-Elemente anzeigen und diese entfernen
 
 ## Customizing
