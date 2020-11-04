@@ -23,7 +23,7 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
         '\n\n',
         '[📝 Edit on GitHub](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file.replace(/\s+/g, '%20') + ')',
         '\n\n',
-        '[📂 Open in Obsidan](' + 'obsidian://open?vault=Knowledge%20Mint%20System&file=' + file.replace(/\s+/g, '%20') + " ':target=_self')",
+        '[📂 Open in Obsidan](' + 'obsidian://open?vault=Knowledge%20Mint%20System&file=' + file.replace(/\s+/g, '%20') + ')',
         '\n\n',
         '<footer>',
         'Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a>',
