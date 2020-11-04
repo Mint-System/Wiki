@@ -61,26 +61,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-  <script>
-  (function () {
-    function appendScript() {
-      var script = document.createElement('script')
-      script.async = true
-      script['data-domain'] = 'knowledge.mint-system.ch'
-      script.src = 'https://plausible.io/js/plausible.js'
-      document.body.appendChild(script)
-    }
-    function init() {
-      appendScript();
-    }
-
-    var install = function(hook) {
-      hook.beforeEach(init);
-    };
-
-    $docsify.plugins = [].concat(install, $docsify.plugins);
-
-  }());
-  </script>
+  <script async defer data-domain="knowledge.mint-system.ch" src="https://plausible.io/js/plausible.js"></script>
 </body>
 </html>
