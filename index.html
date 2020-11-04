@@ -70,7 +70,17 @@
       script.src = 'https://plausible.io/js/plausible.js'
       document.body.appendChild(script)
     }
-  }())
+    function init() {
+      appendScript();
+    }
+
+    var install = function(hook) {
+      hook.beforeEach(init);
+    };
+
+    $docsify.plugins = [].concat(install, $docsify.plugins);
+
+  }());
   </script>
 </body>
 </html>
