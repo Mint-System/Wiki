@@ -38,7 +38,7 @@
         function (hook, vm) {
           hook.beforeEach(function (content) {
 
-            //content = convert(content, vm.route.file)
+            content = convert(content, vm.route.file)
 
             return content
           })
