@@ -6,13 +6,13 @@ Manage Odoo Revisions with git and docker tags.
 
 ```bash
 # Checkout enterprise repo
-cd enterprise && git checkout b2bef9525fe5c51e0f5c8c7ae5d680b39b7c4ad8
+cd enterprise && git checkout b2bef9525f
 
 # Create tag on the enterprise repo
 git tag -a 13.0 -m "13.0"
 
 # Checkout odoo repo
-cd odoo && git checkout b2bef9525fe5c51e0f5c8c7ae5d680b39b7c4ad8
+cd odoo && git checkout bd2d4a55136
 
 # Create tag on the odoo repo
 git tag -a 13.0 -m "13.0"
