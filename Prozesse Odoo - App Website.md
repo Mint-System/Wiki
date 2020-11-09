@@ -15,3 +15,4 @@ Navigieren nach *Einstellungen > Website > Website* und Auswahl:
 ## Customizing
 
 * Fix bug [[Odoo 14#Editor not wide enough]]
+* Festlegen *Domain* der Website mit `http://` Prefix.

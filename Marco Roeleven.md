@@ -1,2 +1,3 @@
 # Marco Roeleven
-Verantwortlich: [[Finanzen]], [[Personal]]
+Verantwortlich: [[Finanzen]], [[Personal]]  
+Alias: mro

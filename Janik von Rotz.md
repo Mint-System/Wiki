@@ -1,2 +1,3 @@
 # Janik von Rotz
-Verantwortlich: [[Infrastruktur]], [[Development]]
+Verantwortlich: [[Infrastruktur]], [[Development]]  
+Alias: jvr

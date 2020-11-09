@@ -1,2 +1,3 @@
 # Kurt Gisler
-Verantwortlich: [[Unternehmensentwicklung]]
+Verantwortlich: [[Unternehmensentwicklung]]  
+Alias: kgi

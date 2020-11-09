@@ -86,12 +86,8 @@ Checkliste zur Auditierung einer Odoo-Installation.
 1 Email  
 Die Email-Domäne und der ausgehende Server ist konfiguriert
 
-[odoo.mint-system.ch](https://odoo.mint-system.ch/web#action=14&active_id=20&model=ir.mail_server&view_type=list&cids=1&menu_id=4)
-
 2 Email  
 Der eingehende Email-Server ist konfiguriert
-
-[odoo.mint-system.ch](https://odoo.mint-system.ch/web#action=114&active_id=21&model=fetchmail.server&view_type=list&cids=1&menu_id=4)
 
 3 Email  
 Für den Email Account sind die nötigen Aliase konfiguriert
@@ -100,8 +96,6 @@ Für den Email Account sind die nötigen Aliase konfiguriert
 
 4 Localization  
 Es ist nur eine System-Sprache konfiguriert
-
-[odoo.mint-system.ch](https://odoo.mint-system.ch/web#action=55&active_id=22&model=res.lang&view_type=list&cids=1&menu_id=4)
 
 5 Localization  
 Begriffe wie die "payment terms" sind übersetzt
@@ -162,12 +156,8 @@ Checkliste zur Auditierung eines Forward-Proxys für eine Odoo-Installation.
 1 Domain  
 Die Odoo-Installation ist öffentlich unter einer Subdomain erreichbar
 
-[https://odoo.mint-system.ch](https://odoo.mint-system.ch)
-
 2 Sicherheit  
 Die Verbindung ist verschlüsselt und mit einem Zeritifikat von LetsEncrypt verifiziert
-
-[https://odoo.mint-system.ch](https://odoo.mint-system.ch)
 
 3 Sicherheit  
 Die LetsEncrypt-Zertifikate werden automatisch erneuert
