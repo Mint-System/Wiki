@@ -4,6 +4,7 @@ const fs = require('fs')
 const ignoreFiles = ['_navbar.md', '_sidbar.md']
 const basePath = '/'
 const basePathAssets = '/assets/img/'
+const uriSuffix = '.html'
 
 function sanitizeFilename(file) {
     return file.toLocaleLowerCase().replace(/\s+/g, '-').replace('---','-')
@@ -51,7 +52,7 @@ function convert(content,file) {
         // sanitize href
         href = sanitizeFilename(href ? href : file.replace('\.md', ''))
 
-        content = content.replace(match, `<a href="${basePath}${href}${anchor ? ('?id=' + anchor) : ''}">${title}</a>`)
+        content = content.replace(match, `<a href="${basePath}${href}${uriSuffix}${anchor ? ('?id=' + anchor) : ''}">${title}</a>`)
     }
 
     return content
