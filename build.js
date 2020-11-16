@@ -3,7 +3,7 @@ const fs = require('fs')
 // settings
 const ignoreFiles = ['_navbar.md', '_sidbar.md']
 const basePath = '/'
-const basePathAssets = '/assets/img/'
+const basePathAssets = '/assets/'
 const uriSuffix = '.html'
 
 function sanitizeFilename(file) {
@@ -14,7 +14,7 @@ function convert(content,file) {
 
     // convert wiki image links
     // ![[image.png]] -> <img src="./assets/image.png"/>
-    const wikiImage = /!\[\[([^\]]*\.png|jpg|jpeg)\]\]/g
+    const wikiImage = /!\[\[([^\]]*\.png|jpg|jpeg|svg|gif)\]\]/g
     content = content.replace(wikiImage, `<img src="${basePathAssets}$1"\/>`)
 
     // convert embeded content links
@@ -88,3 +88,5 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
     // write content to new file
     fs.writeFileSync(newfile, content, 'utf8')
 })
+
+fs.moveSync( __dirname + '/assets', __dirname + '.vuepress/dist/assets')
