@@ -1,15 +1,22 @@
 # Aufgaben verwalten
-
 Aufgabenverwaltung im Odoo
 
 ## Aufgabe erstellen
 
 Beim Erstellen einer Aufgabe muss beachtet werden, dass standardmässig ein Auftragselement aus dem verlinkten Verkaufsauftrag hinzugefügt wird. Soll die verbuchte Zeit auf der Aufgabe verrechnet werden, muss ein entsprechendes Auftragselement vorhanden sein. Ansonsten gilt es den Link zum Auftrag zu entfernen.
 
-**Vorlagen**
+### Vorlagen
+
+**Verrechenbar**
+
+* Odoo Implementierung - Implementation von Odoo-Funktionen
+* Projektleitung - Allgmeine Projektleitung
+
+**Nicht verrechenbar**
 
 * Projektadministration - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts
 * Q&A - Kommunikation mit dem Kunde
+* Know-how - Erarbeiten Basiswissen zur Beratung von Kunden
 
 ## Aufgabenstatus festlegen
 

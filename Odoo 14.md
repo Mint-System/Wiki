@@ -7,6 +7,11 @@
 
 ## Bugs
 
+### Chatter aside class missing
+
+Module: mail  
+Issue: Chatter is too wide on full screen.  
+
 ### Editor not wide enough
 
 Module: website  

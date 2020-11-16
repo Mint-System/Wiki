@@ -8,15 +8,3 @@ Arbeitsschritte:
 
 #FIXME
 
-## Feiertage erfassen, importieren
-
-
-## Abwesenheitstypen erfassen
-Unter Konfiguration > Abwesenheitstypen
-
-* bezahlter Urlaub
-* unbezahlter Urlaub
-* Krankheit
-* Militär, Zivildienst
-* Ausgleichstage
-

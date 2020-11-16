@@ -12,6 +12,9 @@ Arbeitsschritte:
 
 ## Bedingungen und Konditionen
 
+Spesen:
+Für die Projektarbeit und Reiszeit werden keine Spesen verrechnet.
+
 Fakturierung:
 Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt monatlich nach effektivem Aufwand unter Beilage eines detaillierten Arbeitsrapportes bis zur Erreichung des Kostendaches.
 
@@ -47,8 +50,7 @@ Informationenwie Firmen-und Personendaten, die vom Kunden zur Erbringung der Lei
 Weiterentwicklung:
 Hervorgehende Rechte und Pflichten aus dem Projektvertrag können nach Erbringung der Leistungen ohne schriftliche Zustimmung an Dritte abgetreten oder übertragen werden.
 
-Lizenzierung
-
+Lizenzierung:  
 Der entwickelte Softwarecode untersteht der [[GNU GPLv3 Lizenz]].
 
 ### Fixpreis
