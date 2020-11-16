@@ -1,5 +1,4 @@
 const fs = require('fs')
-const fse = require('fs-extra')
 
 // settings
 const ignoreFiles = ['_navbar.md', '_sidbar.md']
@@ -90,5 +89,3 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
     // write content to new file
     fs.writeFileSync(newfile, content, 'utf8')
 })
-
-fse.moveSync( __dirname + '/assets', __dirname + '.vuepress/public')

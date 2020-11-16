@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "vercel-build": "node build.js && vuepress build ."
+    "vercel-build": "node build.js && vuepress build . && node post-build.js"
   },
   "devDependencies": {
     "vuepress": "^1.7.1"
