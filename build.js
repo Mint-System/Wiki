@@ -6,6 +6,7 @@ const ignoreFiles = ['_navbar.md', '_sidbar.md']
 const basePath = '/'
 const basePathAssets = '/assets/'
 const uriSuffix = '.html'
+const anchorPrefix = '#'
 
 function sanitizeFilename(file) {
     return file.toLocaleLowerCase().replace(/\s+/g, '-').replace('---','-')
@@ -53,7 +54,7 @@ function convert(content,file) {
         // sanitize href
         href = sanitizeFilename(href ? href : file.replace('\.md', ''))
 
-        content = content.replace(match, `<a href="${basePath}${href}${uriSuffix}${anchor ? ('?id=' + anchor) : ''}">${title}</a>`)
+        content = content.replace(match, `<a href="${basePath}${href}${uriSuffix}${anchor ? (anchorPrefix + anchor) : ''}">${title}</a>`)
     }
 
     return content
@@ -90,4 +91,4 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
     fs.writeFileSync(newfile, content, 'utf8')
 })
 
-fse.moveSync( __dirname + '/assets', __dirname + '.vuepress/dist/assets')
+fse.moveSync( __dirname + '/assets', __dirname + '.vuepress/public')
