@@ -9,7 +9,7 @@ const uriSuffix = '.html'
 const anchorPrefix = '#'
 const allowedAssets = ['.png', '.jpg', '.svg', 'gif']
 
-function sanitizeFilename(file) {
+function sanitizeName(file) {
     return file.toLocaleLowerCase().replace(/\s+/g, '-').replace('---','-')
 }
 
@@ -48,13 +48,14 @@ function convert(content,file) {
 
         let href = match.match(/\[\[([^\]|#]*)/)[1]
         let title = match.match(/\[\[([^\]|#]*)/)[1]
-        let anchor
+        let anchor = null
 
         // set anchor
         if (match.indexOf('#') > 0) {
+            console.log(match, anchor)
             anchor = match.match(/#([^\||\]]*)/)[1]
             // sanitize anchor link
-            anchor = anchor.toLowerCase().replace(/ /g, "-")
+            anchor = sanitizeName(anchor)
         }
 
         // set title and href
@@ -64,7 +65,7 @@ function convert(content,file) {
         }
 
         // sanitize href
-        href = sanitizeFilename(href ? href : file.replace('\.md', ''))
+        href = sanitizeName(href ? href : file.replace('\.md', ''))
 
         content = content.replace(match, `[${title}](${basePath}${href}${uriSuffix}${anchor ? (anchorPrefix + anchor) : ''})`)
     }
@@ -79,7 +80,7 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
     var content = fs.readFileSync(file, 'utf8')
 
     // set new file name
-    newfile = sanitizeFilename(file)
+    newfile = sanitizeName(file)
 
     // convert content
     content = convert(content, file)
