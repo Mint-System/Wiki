@@ -9,7 +9,7 @@ Arbeitsschritte:
 * Ausgewählte Module installieren und konfigurieren
 * Benutzer registrieren
 * Corporate Design umsetzen
-* Aktualisieren [[Demoumgebungen#Demoumgebungen#Odoo]]
+* Aktualisieren [[Demoumgebungen#Odoo]]
 
 ## Installation Apps
 Auswahl:

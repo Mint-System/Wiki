@@ -12,56 +12,76 @@ Arbeitsschritte:
 
 ## Bedingungen und Konditionen
 
-Spesen:
-Für die Projektarbeit und Reiszeit werden keine Spesen verrechnet.
-
-Fakturierung:
+Fakturierung:  
 Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt monatlich nach effektivem Aufwand unter Beilage eines detaillierten Arbeitsrapportes bis zur Erreichung des Kostendaches.
 
-Kostendach:
+Kostendach:  
 Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostendach abgedeckt sind, wird der Kunde seitens Mint System frühzeitig informiert. Der Entscheid, ob und in welchem Rahmen die Mehrarbeit geleistet wird, liegt bei dem Kunden in Absprache mit Mint System. 
 
-Auftragserteilung:
+Auftragserteilung:  
 In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder durch Annahme des Angebots oder durch Unterzeichnung eines separaten Vertrages oder durch eine Bestellung.
+
+### Termine
+
+Termine:  
+Termin Workshop: zu vereinbaren
+Lieferung Ergebnisse: max. 3 Wochen nach Workshop
+
+### Leistungen
+
+Leistungen Kunde:  
+Teilnahme am Workshop und Bereitstellung von benötigten Informationen (Daten, Bilder, Texte, ext. Kontaktstellen)
+
+Drittleistungen:  
+Es entstehen beim Workshop keine weiteren Kosten Dritter.
 
 ### Fakturierungen
 
-Fakturierung Einmalige Leistungen:
+Fakturierung Projektphase:  
+Die Fakturierung der Leistungen inkl. MwSt. erfolgt nach Abschluss einer Projektphase.
+
+Fakturierung Einmalige Leistungen:  
 Einmalige Leistungen werden nach deren Erbringung am Ende des Monats inkl. MwSt. in Rechnung gestellt.
 
-Fakturierung Leistungen nach Aufwand:
+Fakturierung Leistungen nach Aufwand:  
 Die Fakturierung der Leistungen inkl. MwSt. erfolgt monatlich nach effektivem Aufwand unter Beilage eines detaillierten Arbeitsrapportes.
 
-Fakturierung Monatliche Kosten:
+Fakturierung Monatliche Kosten:  
 Die Fakturierung der monatlichen Kosten werden inkl. MwSt. am Ende des Monats in Rechnung gestellt.
+
+Fakturierung Fixpreis:  
+Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt nach Abschluss einer Projektphase.
 
 ### Entwicklungsprojekt
 
-Allgemeine Bestimmungen:
+Allgemeine Bestimmungen:  
 Es gelten die Mint System [[AGBs Entwicklungsprojekt|AGBs]] Version 1.18, welche in einem separaten PDF angehängt werden.
 
-Änderungen:
+Änderungen:  
 Lang: Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostentotalabgedeckt sind, wird der Kunde seitens Auftragnehmerfrühzeitig informiert.
 Kurz: Zeichnen sich im Laufe der Projektarbeit Änderungen ab welche nicht Bestandteil des Angebots sind, wird der Kunde von Mint System zeitnah informiert.
 
-Vertraulichkeit:
+Vertraulichkeit:  
 Informationenwie Firmen-und Personendaten, die vom Kunden zur Erbringung der Leistungen zur Verfügung gestellt werden, werden vom Auftragnehmer absolut vertraulich behandelt.
 
-Weiterentwicklung:
+Weiterentwicklung:  
 Hervorgehende Rechte und Pflichten aus dem Projektvertrag können nach Erbringung der Leistungen ohne schriftliche Zustimmung an Dritte abgetreten oder übertragen werden.
 
 Lizenzierung:  
 Der entwickelte Softwarecode untersteht der [[GNU GPLv3 Lizenz]].
 
-### Fixpreis
+### Abrechnung
 
-Fakturierung:
-Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt nach Abschluss einer Projektphase.
-
-Abrechnung:
+Abrechnung Fixpreis:  
 Die Abrechnung der offerierten Leistungen erfolgt einmalig.
 
-### Inklusive Spesen
+### Spesen
 
-Fakturierung:
-Die Fakturierung der Leistungen inkl. MwSt. erfolgt nach Abschluss einer Projektphase.
+Spesen gemäss Aufwand:  
+Reisezeit und Kilometer werden gemäss Aufwand verrechnet.
+
+Spesen Pauschal:  
+Reisezeit und Kilometer werden pauschal zu CHF verrechnet.
+
+Keine Spesen:  
+Für die Projektarbeit und Reiszeit werden keine Spesen verrechnet.
