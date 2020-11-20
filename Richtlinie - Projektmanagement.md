@@ -18,3 +18,4 @@ PhaseN/ | Ordner mit Inhalt der jeweiligen Projektphase
 Prozess/ | Ordner für Korrespondenz und Projektdaten
 Archiviert/ | Archivierte Dokumente werden hier abgelegt
 assets/ | Mediendateien werden hier gespeichert
+tmp/ | Temporäre Daten die gelöscht werden dürfen

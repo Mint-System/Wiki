@@ -24,7 +24,7 @@ Ein Dokument soll immer nur einmal existieren, das heisst keine Versionsduplikat
 
 **Datum**
 
-Sitzungsnotizen und datierte Dateien werden am Anfang mit dem Datumsstempel versehen: `YYYY-MM-DD Dateiname.zip`
+Sitzungsnotizen und datierte Dateien werden am Anfang mit dem Datumsstempel versehen: `YYYY-MM-DD Dateiname.md`
 
 ## Reservierte Namen
 
