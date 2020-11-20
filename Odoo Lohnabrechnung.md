@@ -31,7 +31,7 @@ Dazu eine Auswahl an [[Lohnarten]].
 
 Odoo Partner wie [[Partner Gioardano|Giordano]] haben Erweiterungen entwickelt.
 
-### Lohnprogramm CH-d
+### [[Lohnprogramm CH-d]]
 
 Partner: [[Partner Gioardano|Giordano]]  
 Website: [https://giordano.ch/produkte/odoo/odoo-l%C3%B6sungen/lohnprogramm-ch-d](https://giordano.ch/produkte/odoo/odoo-l%C3%B6sungen/lohnprogramm-ch-d)  
