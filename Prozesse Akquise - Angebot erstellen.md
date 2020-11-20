@@ -1,4 +1,19 @@
 # Angebot erstellen
+
+## Odoo-Lizenz-Angebot erstellen
+Kontakt mit Odoo-Partner.
+
+Arbeitsschritte:
+* Lizenzierung festlegen: Community oder Enterprise
+* Odoo-Hosting Modell definieren
+* Schätzung Aufwand für Customizations
+* Angebot von [[Odoo S.A.]]  erstellen lassen
+	* Kontakt Kunde
+	* Unternehmen mit MWST
+	* Hosting-Modell
+	* Liste der Apps gemäss [https://www.odoo.com/pricing](https://www.odoo.com/pricing)
+
+## Mint Sytem Angebot erstellen
 Mit dem Odoo Verkäufe-App ein Angebot erstellen.
 
 Arbeitsschritte:

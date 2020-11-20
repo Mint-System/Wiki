@@ -3,7 +3,14 @@ Dokumentation der Akquise Prozesse.
 
 Verantwortlich: [[Marco Roeleven]]
 
-* [[Prozesse Akquise - Akquise abschliessen]]
+```mermaid
+graph LR;
+    A[Kontakaufnahme]-->B[Präsentation];
+    B-->C[Anforderungsanalyse];
+    C-->D[Odoo Demoumgebung bestellen];
+    D-->E[Angebot erstellen]
+```
+
 * [[Prozesse Akquise - Angebot erstellen]]
 * [[Prozesse Akquise - Anforderungsanalyse]]
 * [[Prozesse Akquise - Kontaktaufnahme]]
