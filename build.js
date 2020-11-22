@@ -7,14 +7,22 @@ const basePath = '/'
 const basePathAssets = './'
 const uriSuffix = '.html'
 const anchorPrefix = '#'
-const allowedAssets = ['.png', '.jpg', '.svg', 'gif']
+const assetsFolder = 'assets'
+const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
 
 function sanitizeName(file) {
-    return file.toLocaleLowerCase().replace(/\s+/g, '-').replace('---','-')
+    return file.toLocaleLowerCase()
+        .replace(/\s+/g, '-')
+        .replace('---','-')
 }
 
 function sanitizeAssetname(file) {
-    return file.toLocaleLowerCase().replace(/\s+/g, '-').replace('---','-').replace('ö','oe').replace('ü','ue').replace('ä','ae')
+    return file.toLocaleLowerCase()
+        .replace(/\s+/g, '-')
+        .replace('---','-')
+        .replace('ö','ö')
+        .replace('ü','u')
+        .replace('ä','a')
 }
 
 function convert(content,file) {
@@ -67,7 +75,8 @@ function convert(content,file) {
         // sanitize href
         href = sanitizeName(href ? href : file.replace('\.md', ''))
 
-        content = content.replace(match, `[${title}](${basePath}${href}${uriSuffix}${anchor ? (anchorPrefix + anchor) : ''})`)
+        let mdLink = `[${title}](${basePath}${href}${uriSuffix}${anchor ? (anchorPrefix + anchor) : ''})`
+        content = content.replace(match, mdLink)
     }
 
     return content
@@ -90,7 +99,7 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
         '\n\n',
         '<hr>',
         '\n\n',
-        '[📝 Edit on GitHub](' + 'https://github.com/Mint-System/Knowledge/blob/master/' + file.replace(/\s+/g, '%20') + ')',
+        '[📝 Edit on GitHub](' + gitUrl + file.replace(/\s+/g, '%20') + ')',
         '\n\n',
         '<footer>',
         'Copyright © <a href="https://www.mint-system.ch/">Mint System GmbH</a>',
@@ -105,13 +114,11 @@ fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFi
 })
 
 // Loop all asset files
-fs.readdirSync(__dirname + '/assets').filter(file => (allowedAssets.indexOf(path.extname(file)) == 0)).forEach((file) => {
+fs.readdirSync(path.join(__dirname, assetsFolder)).forEach((file) => {
     
-    console.log()
-
     // set new file name
     newfile = sanitizeAssetname(file)
 
     // move asset file
-    fs.renameSync(__dirname + '/assets/' + file, __dirname + '/' + newfile)
+    fs.renameSync(path.join(__dirname, assetsFolder,file), path.join(__dirname, newfile))
 })
