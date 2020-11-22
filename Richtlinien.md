@@ -9,3 +9,4 @@ Richtlinien der Mint System.
 [[Richtlinie - E-Mail]]  
 [[Richtlinie - Website]]  
 [[Richtlinie - Spesenreglement]]  
+[[Richtlinie - Projektmanagement]]
