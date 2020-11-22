@@ -20,7 +20,7 @@ function sanitizeAssetname(file) {
     return file.toLocaleLowerCase()
         .replace(/\s+/g, '-')
         .replace('---','-')
-        .replace('ö','ö')
+        .replace('ö','o')
         .replace('ü','u')
         .replace('ä','a')
 }
