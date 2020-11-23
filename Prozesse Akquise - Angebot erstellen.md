@@ -23,7 +23,7 @@ Arbeitsschritte:
 * Ablaufdatum 1 Monat
 * Kostenstelle festlegen
 * Kunde mit MWST. hinzufügen
-* Positionen einfügen
+* Positionen einfügen und Beschreibung anpassen
 * Validieren durch Mitarbeiter
 
 ## Bedingungen und Konditionen
