@@ -80,3 +80,4 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 * Website - Dateien zum Webauftritt
 * Verkauf - Vorlagen für Angebote
 * Secrets - Schlüssel und Passwörter
+* Steuern/[Jahr] - Dokumente Unternehmens- und Mehrwertssteuer

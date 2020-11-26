@@ -24,6 +24,27 @@ Frage: Die Lageraktualisierung funktioniert nur im Pull-Modus, d.h. beim Erstell
 
 Anwort:
 
+## Produktionsplanung
+
+Frage:
+
+Gemäss untenstehendem Bild weiss Odoo wenn der Start eines Produktionsauftrages geplant ist bevor das Material verfügbar ist. Das zeigt sich nämlich daran, dass die Schrift dunkelrot erscheint. (Wäre der Starttermin hinter dem Liefertermin des fehlenden Materials wäre die Schrift orange.)
+Die entscheidende Frage ist: Auf welcher Gesamtübersicht erscheint diese Information? D.h. auf welcher Liste/Grafik erkenne ich, welche Produktionsaufträge noch unrealistisch geplant sind?
+
+![[Lagerbewegung.png]]
+
+Die gesuchte Liste ist offensichtlich "Prognostizierter Bestand" (Lager > Berichtswesen). Darauf sind nämlich mit dem Filter "Forecasted Stock" die Artikel sichtbar, welche zu einem bestimmten Zeitpunkt Negativ-Bestand haben. Dies wiederum entspricht der Markierung "rote Farbe" gemäss obiger Bemerkung.
+Die nächste Frage ist nun: Wie verbessert man die Planung am effizientesten?
+
+![[Progonostizierter Bestand.png]]
+
+Eine gute Möglichkeit wäre vielleicht die untenstehend abgebildete Maske.
+Die dargestellten Auftragsnummern sind offensichtlich ein Hyperlink. ... der funktioniert aber nicht. Ich vermute einen technischen Fehler.
+
+![[Bestandsprognose Rundrohr.png]]
+
+Antwort:
+
 # Personal
 
 ## Vergleich theoretische und tatsächliche Arbeitszeit
