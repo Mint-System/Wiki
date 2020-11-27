@@ -14,8 +14,9 @@ Arbeitsschritte:
 
 Gemäss dem Angebot Aufgaben erstellen. Dazu eine Auswahl von Standardaufgaben:
 * Projektadministration
+* Projektleitung
 * Odoo Installation
 * Server bereitstellen
 * Nextcloud Installation
-* Q&A
+* Know-how
 * Odoo Implementation

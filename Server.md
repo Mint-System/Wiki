@@ -18,3 +18,4 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Helios | Server Aersolution Interior AG | helios.mint-system.com |  |
 | Hermes | Server Light Wing AG | hermes.mint-system.com | |
 | Artmies | BigBlueButton | artemis.mint-system.com | ExoScale |
+| Iris | Server Kleinbrauerei Stiär Biär AG | iris.mint-system.ch | |
