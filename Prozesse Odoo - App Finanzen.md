@@ -16,11 +16,12 @@ Arbeitsschritte:
 Auswahl:
 * Import CAMT Bank Statement (account_bank_statement_import_camt)
 * SEPA Kreditübertragung (account_sepa)
-* Account Invoice Extract (account_invoice_extract)
+* Auszug aus der Kontorechnung (account_invoice_extract)
 * Accounting Reports (account_reports)
 * Analytische Konten (analytic_enterprise)
 * Budgetverwaltung (account_budget)
 * Schweizer Buchhaltungsauswertungen (l10n_ch_reports)
+* Lieferanten-Rechnung: Freigegeben zu zahlen (account_3way_match)
 
 ## Customizing
 Auswahl:
