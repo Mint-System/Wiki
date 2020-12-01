@@ -80,7 +80,7 @@ docker tag 6640ab6622b9 odoo:6640ab6622b9
 ## Odoo 14.1
 
 Version: 14.0  
-Revision: 14.0.20201026
+Revision: 14.0.2020.1026
 
 ```bash
 # Checkout enterprise repo
@@ -94,4 +94,29 @@ docker pull odoo@sha256:335d31e83074a79e1ad8be65587558d24a1ea90c0d2b3b7e65cc91b9
 
 # Tag the docker image
 docker tag 70de954aa8a5 odoo:70de954aa8a5
+```
+
+## Odoo 14.2
+
+Version: 14.0  
+Revision: 14.0.2020.1123
+
+```bash
+# Checkout enterprise repo
+cd enterprise && git checkout ad68b67e525341807c416e95ea2db2dda75da9d2
+
+# Create tag on the enterprise repo
+git tag -a 14.2 -m "14.2"
+
+# Checkout odoo repo
+cd odoo && git checkout 87ea687169c9a0047b41b11ab143544142c82aae
+
+# Create tag on the odoo repo
+git tag -a 14.2 -m "14.2"
+
+# Pull docker image
+docker pull odoo@sha256:ac884a5f7166600a3cecf7fd95aa6ffbacd989e98a0483ff59f0e542c6a84f76
+
+# Tag the docker image
+docker tag 8363e01420b1 odoo:8363e01420b1
 ```

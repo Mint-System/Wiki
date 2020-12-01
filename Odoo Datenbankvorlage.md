@@ -12,11 +12,9 @@ Die Vorlagen wurde mit diesen Arbeitsschritten erstellt.
 * Konfiguration ausgehender Mail-Server
 * Anpassen des Unternehmens-Datensatz
 * Benutzer erstellen und Berechtigungen konfigurieren
-* Enternen `odoo_referral`apps
+* Entfernen `odoo_referral`apps
 * Installation der Initialmodule:
-	* project #Odoo13 
-	* web_responsive #Odoo13 
-	* note #Odoo14 
+	* note #Odoo13-14 
 
 ## Allgemein
 

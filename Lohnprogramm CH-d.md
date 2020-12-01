@@ -73,4 +73,4 @@ Erweiterung überschreibt das Template.
 
 Payroll SEPA-Problem wurde mit einer neueren Version gefixed.
 
-ubs-paymentstandards.ch
+https://www.moneytoday.ch/iso20022/movers-shakers/unternehmen-institutionen/testplattformen-iso20022/
