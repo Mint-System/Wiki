@@ -14,6 +14,7 @@ Beim Erstellen einer Aufgabe muss beachtet werden, dass standardmässig ein Auft
 
 **Nicht verrechenbar**
 
+* Anforderungsanalyse - Anforderungen definieren
 * Projektadministration - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts
 * Q&A - Kommunikation mit dem Kunde
 * Know-how - Erarbeiten Basiswissen zur Beratung von Kunden

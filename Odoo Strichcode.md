@@ -15,7 +15,7 @@ Die Strichcode-App kennt verschiedene Vorgänge:
 * Lieferaufträge
 * Inventur
 
-Odoo hat eine klare Vorstellung wie Lieferaufträge oder die Inventur erlediegt wird.
+Odoo hat eine klare Vorstellung wie Lieferaufträge oder die Inventur erledigt wird.
 
 ## Integration
 

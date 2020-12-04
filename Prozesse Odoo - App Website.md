@@ -12,7 +12,10 @@ Navigieren nach *Einstellungen > Allgemeine Einstellungen > Integration* und Aus
 Navigieren nach *Einstellungen > Website > Website* und Auswahl:
 * Google Analytics
 
+Theme installieren: *Einstellungen > Website > Pick a Theme*.
+
 ## Customizing
 
 * Fix bug [[Odoo 14#Editor not wide enough]]
-* Festlegen *Domain* der Website mit `http://` Prefix.
+* Festlegen *Domain* der Website mit `http://` Prefix
+* Color Theme festlegen

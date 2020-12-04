@@ -33,15 +33,33 @@ Arbeitsschritte:
 * Datenbank löschen
 
 ## Demodaten importieren
-Arbeitsschritte:
-* Import leere Datenbank `odoo leer.zip`
-* Import `res.users.csv`
+### Stammdaten importieren
+* Import `uom.uom.csv`
 * Import `product.template.csv`
 * Import `mrp.bom.csv`
 * Import `mrp.workcenter.csv`
-* Installation App *Kontakte*
+* Import `mrp.routing.workcenter.csv`
+* Import `stock.warehouse.orderpoint.csv`
 * Import `res.partner.csv`
-* Arbeitsplan für *Oberrohr* und *Rahmen unbeschichtet* erstellen
-* Mengen für die Bestandteile des Rahmens anpassen
-* Lieferanten für die Produkte für den Rahmen hinterlegen
-* Diese Inhalte finden sich in der Datenbank `odoo.zip`
+* Import `product.supplierinfo.csv`
+* Import `product.pricelist.cvs`
+* Import `res.users.cvs`
+
+### Lagerbestand buchen
+Inventur anlegen, Inventur starten, Inventur/Inventory/Bestandszeilen, importieren
+* Import `stock.inventory.line.csv`
+Bestandsbuchungen durchführen
+
+### Apps installieren
+* Web Gantt (web_gantt)
+* Dashboard (board)
+* Studio (web_studio)
+* Strichcode (stock_barcode)
+* Lager-Bardoce in Mobile (stock_barcode_mobile)
+* Documents Spreadsheets (Documents Spreadsheet)
+
+### Filter einrichten
+Prognostizierter Bestand
+
+### Einstellungen wählen
+Mehrere Währungen

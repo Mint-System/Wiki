@@ -120,7 +120,7 @@ Stufe
 ```
 Datei: `project.task_main.csv`
 
-Felder aufgaben:
+Felder Aufgaben:
 ```
 Titel
 Projekt
@@ -130,9 +130,94 @@ Stufe
 ```
 Datei: `project.task.csv`
 
+### Arbeitszeit
+
+Felder Arbeitszeit:
+```
+Name
+Arbeitszeit
+Arbeitszeit/Arbeitszeit von
+Arbeitszeit/Arbeitszeit bis
+```
+Datei: `resource.calendar.csv`
+
+### Arbeitsverträge
+
+Felder Vertrag:
+```
++ Vergütung
+```
+Datei: `hr.contract.csv`
+
+### 
+
+```
+Name
+Code
+Kategorie
+Vergütungsstruktur/ID
+Berechnungsart
+Prozent (%)
+Prozent basierend auf
+Python Bedingung
+Python Code
+Fester Betrag
+Habenkonto
+Sollkonto
+```
+
 ## Importvorgänge
 
 ### Produkt
 
-Die Datei `product.template.csv` importieren. Die folgenden Anpassungen im Importdialog vornehmen:
-* 
+Navigation: *Verkauf > *
+
+Die Datei `product.template.csv` importieren.
+
+### Bankverzeichnis
+
+Navigation: *Kontakte > Konfiguration > Bankverzeichnis*
+
+Die Datei `account.analytic.line.csv` importieren.
+
+### Arbeitszeiten
+
+Navigation: *Einstellungen > Technisch > Ressource (Objekt) > Arbeitszeit*
+
+Die Datei `resource.calendar.csv` importieren.
+
+### Kontakte
+
+Navigation: *Kontakte*
+
+Die Datei `res.partner.csv` importieren.
+
+### Bankkonten
+
+Navigation: *Kontakte > Konfiguration > Bankkonten*
+
+Die Datei `res.partner.bank.csv` importieren.
+
+### Abteilungen
+
+Navigation: *Personal > Konfiguration > Abteilungen*
+
+Die Datei `hr.departement.csv` importieren.
+
+### Arbeitsstellen
+
+Navigation: *Personal > Konfiguration > Arbeitstellen*
+
+Die Datei `hr.job.csv` importieren.
+
+### Personal
+
+Navigation: *Personal*
+
+Die Datei `hr.employee.csv` importieren.
+
+### Arbeitsverträge
+
+Navigation *Personal > Verträge*
+
+Die Datei `hr.contract.csv` importieren.

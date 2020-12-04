@@ -25,7 +25,7 @@ Auswahl:
 
 ## Customizing
 Auswahl:
-* Journale und Sequenzen festlegen
+* Journale und Sequenzen festlegen (siehe Odoo Handbuch)
 
 ## Optionen aktivieren
 Navigation nach *Einstellungen > Finanzen* und Auswahl:
