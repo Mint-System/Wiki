@@ -1,2 +1,0 @@
-- [Home](/)
-- [Odoo Handbuch](https://doc.odoo-erp.ch)

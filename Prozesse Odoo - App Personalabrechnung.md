@@ -11,11 +11,18 @@ Arbeitsscrhitte:
 ## Erweiterungen installieren
 Auswahl:
 * Lohnbuchhaltung (hr_payroll_account)
-* SEPA-Zahlungen für Gehaltsabrechnungen  (hr_payroll_account_sepa)
+* SEPA-Zahlungen für Gehaltsabrechnungen (hr_payroll_account_sepa)
+* HR Payroll Shares (gio_payroll_custom)
+* HR Payroll Report (gio_py3o_addon)
 
 ## Optionen aktivieren
 Auswahl:
 *  Payroll SEPA
+
+## Lohnmodul konfigurieren
+Arbeitsschritte:
+* Archivieren der Standardlohnarten BASIC, GROSS und NET
+* Festlegen Lohnjournal
 
 ## Daten Importieren
 Arbeitsschritte:

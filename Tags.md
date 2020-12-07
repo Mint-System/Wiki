@@ -1,5 +1,5 @@
 # Tags
-Mit [[Obsidian]] können Artikel getagged `#tagname` werden. Tags werden jedoch von [[Docsify]] nicht unterstütze. Daher werden die Tags nur zur Verwaltung der Artikel verwendet. Folgende Tags stehen zur verfügung:
+Mit [[Obsidian]] können Artikel getagged `#tagname` werden. Tags werden jedoch von [[Vuepress]] nicht unterstützt. Daher werden die Tags nur zur Verwaltung der Artikel verwendet. Folgende Tags stehen zur verfügung:
 
 * #FIXME: An dieser Stelle ist eine Änderungen offen.
 * #REPLACEME: An der Stelle des Tags mit gemäss Kommentar Inhalt ergänzt werden.

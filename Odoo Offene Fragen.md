@@ -49,7 +49,7 @@ Antwort:
 
 ## Vergleich theoretische und tatsächliche Arbeitszeit
 
-Frage: Wie kann die theoretische Arbeitszeit mit der tatsächlichen inklusive Abwesenheit verglichen werden? Es gibt eine OCA-Erweiterung, was ist das Enterprise-Pendant
+Frage: Wie kann die theoretische Arbeitszeit mit der tatsächlichen inklusive Abwesenheit verglichen werden? Es gibt eine OCA-Erweiterung, was ist das Enterprise-Pendant?
 
 Antwort:
 

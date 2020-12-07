@@ -21,10 +21,13 @@ Standardmässig steht der Kontenplan gemäss Sterchi/Mattle/Helbling zur Verfüg
 
 Die Benennung und Konfiuguration der Journale ist essenziell. Ein Journal kann vom folgenden Typ sein:
 
-* Verkäufe: Für Ausgangsrechnungen
-* Einkauf: Für Eingangsrechnungen
-* Kasse/Bank: Für Kasse
-* Bank: Bankkonto ist hinterlegt
-* Sonstiges: Andere Buchungen
+* Verkäufe: Für Ausgangsrechnungen mit Kurzzeichen DFA
+* Einkauf: Für Eingangsrechnungen mit Kurzzeichen KFA und dem E-Mail alias 	
+eingangsrechnungen@
+* Kasse/Bank: Für Kasse mit 
+* Bank: Bankkonto ist hinterlegt mit Kurzzeichen BNK1
+* Sonstiges: Andere Buchungen mit Kurzzeichen DIV
+* Lohn: Sonstiges mit Kurzzeichen LHN
+* Wechselkursdifferenzen: Sonstiges mit Kurzzeichen EXCH
 
-Jedem Journal wird eine Definition für die Kurzzeiten hinterlegt. Bei Verkäufe und Einkauf wird das Kurzzeichnen in der Rechnungsreferenz verwendet.
+Jedem Journal wird eine Definition für die Kurzzeiten hinterlegt. Bei Verkäufe und Einkauf wird das Kurzzeichnen in der Rechnungsreferenz verwendet. Weitere Informationen sind im Oddo Handbuch zu finden.

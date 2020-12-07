@@ -16,3 +16,19 @@ _executeWindowAction/<@https://metallprojekt.mintsys.ch/web/content/625-ed50555/
 ```
 
 **Solution**
+
+Reassmble all assets. Alernatively delete assets entries.
+
+##  Python OSError
+
+**Problem**
+
+When generating a report with p3yo this error occurs:
+
+```
+OSError: [Errno 8] Exec format error: '/usr/local/bin/libreoffice'
+```
+
+**Solution**
+
+Apply shebang line `#!/bin/sh` in shell script.

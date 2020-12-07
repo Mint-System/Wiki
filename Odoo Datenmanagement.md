@@ -149,8 +149,9 @@ Felder Vertrag:
 ```
 Datei: `hr.contract.csv`
 
-### 
+### Lohnarten
 
+Felder Lohnarten:
 ```
 Name
 Code
@@ -165,6 +166,27 @@ Fester Betrag
 Habenkonto
 Sollkonto
 ```
+Datei: `hr.salary.rule.csv`
+
+### Unternehmen
+
+Listenansicht: *Einstellungen > Benutzer und Unternehmen > Unternehmen*
+
+Export mit Option *Ich will Daten aktualisieren*.
+
+Felder Unternehmen:
+```
+Unternehmensname
+Strasse
+Stadt
+PLZ
+Land/Land
+Website-Link
+E-Mail
+USt-IdNr.
+```
+Datei: `res.company.csv`
+
 
 ## Importvorgänge
 
