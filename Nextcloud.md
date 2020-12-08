@@ -1,5 +1,8 @@
 # Nextcloud
-## Troubleshooting
+
+[[Nextcloud Troubleshooting]]
+
+## Usage
  
  [[Nextcloud - OwnCloud Console]]
  [[Nextcloud - Transfer ownership]]  

@@ -243,3 +243,9 @@ Die Datei `hr.employee.csv` importieren.
 Navigation *Personal > Verträge*
 
 Die Datei `hr.contract.csv` importieren.
+
+### Lohnarten
+
+Navigation *Personalabrechnung > Konfiguration > Regeln*
+
+Die Datei ``

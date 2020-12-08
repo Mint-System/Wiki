@@ -8,3 +8,10 @@ Arbeitsschritte:
 * Einloggen mit Administrator und folgende Einstellungen vornehmen:
 	* Hintergrund-Aufgaben: Cron
 	* Design: Name, Internet-Link, Slogan, Farbe
+
+## Nextcloud aktualisieren
+
+Arbeitsschritte:
+* Image-Variable für Nextcloud in [[Ansible Inventory]] anpassen
+* Deployment für Host  ausführen
+* Überwachen des Update-Prozess

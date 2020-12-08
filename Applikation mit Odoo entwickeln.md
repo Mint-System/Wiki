@@ -1,25 +1,43 @@
-In Odoo sind verschiedenste Anwendung verpackt, die zusammen, aber auch alleine funktionieren. Beispielsweise speichert die Kontake-App alle Adressdaten des Unternehmens. Die Anwendung Personal zur Verwaltung der Mitarbeiter oder das CRM greifen dieselben Adressdaten zu. So werden auch technische Features wie die Zugriffsverwaltung, das Generieren von Berichten, die Datenverwaltung oder Auswertungen unter einer einheitlichen Oberfläche verpackt. Diese Features können von Software-Entwickler ohne Entwicklungsaufwand verwendet werden. Blitzschnell können so neue Anwendungen oder Erweiterungen zu bestehenden Apps entwickelt werden.
+In Odoo sind verschiedenste Anwendung verpackt, die zusammen, aber auch alleine funktionieren. Beispielsweise speichert die Kontake-App alle Adressdaten des Unternehmens. Die Anwendung Personal zur Verwaltung der Mitarbeiter oder das CRM greifen auf diesee Adressdaten zu. So werden auch technische Features wie die Zugriffsverwaltung, das Generieren von Berichten, die Datenverwaltung oder Auswertungen unter einer einheitlichen Oberfläche von Odoo verpackt. Diese Features können von Software-Entwickler ohne hohen Entwicklungsaufwand verwendet werden. Blitzschnell können so neue Anwendungen oder Erweiterungen zu bestehenden Apps entwickelt werden.
 
 Odoo ist also nicht nur ein ERP-System, sondern auch ein Entwicklungs-Framework. Mit Odoo können massgeschneiderte Anwendung entwickelt werden, die auf einem robusten Grundgerüst aufbauen.
 
-## Use case
+## Beispiel
 
-Die Mint System hat einen Kunden begleitet, der seit mehreren Jahren eine Microsoft Access-Anwendung im Einsatz hat. Die Anwendung ist in die Jahre gekommen und wird von den neusten Version von Microsoft-Office nicht mehr unterstützt.
+Die Mint System hat einen Kunden begleitet, der seit mehreren Jahren eine Microsoft Access-Anwendung im Einsatz hat. Die Anwendung ist in die Jahre gekommen und wird von der neusten Microsoft-Office Version nicht mehr unterstützt.
 
-Unser Vorgehensmodell sieht wie folgt aus:
+Im Rahmen eines Entwicklungsprojekts wurde die bestehende Anwendung abgelöst und mit einer neuen ersetzt. Dazu unser Vorgehensmodell:
 
 1. Analyse der bestehenden Datenstruktur
-2. Festhalten Arbeitsprozesse
-3. Design eines neuen Datenmodells für Odoo
-4. Entwicklung von Datenmigrationsskripte
-5. Iterative Entwicklung der Odoo App
-6. Migration der Anwendung
+2. Festhalten bestehende Arbeitsprozesse
+3. Design eines neuen Datenmodells basieren auf Odoo
+4. Entwicklung von Datenmigrationsskripten
+5. Anforderungsalayse für die neue App
+6. Iterative Entwicklung der neuen Odoo App
+7. Ablösen der bestehenden Anwendung und Projektabschluss
 
+In nur wenigen Schritten haben eine Legacy-Anwendung in eine topmoderne Browserapp migriert.
 
 ## Vorteile
 
-Was sind die Vorteile einer Entwicklung mit dem Odoo-Framework?
+Entwicklungsframeworks gibt es wie Sand am Meer. Was sind die Vorteile einer Entwicklung mit dem Odoo-Framework?
 
-Siehe Knowledge-Base.
+**Benutzer- und Zugriffsverwaltung durch Odoo**
 
-Nehmen sie Kontakt auf?
+Lösungen zur Benutzer- und Gruppenverwaltung werden bereits von Odoo bereitgestellt. Eine Integration der Anwendung in das ActiveDirectory oder eine Authentisierungslösung mit OAuth ist problemlos möglich.
+
+**Verküpfung mit bestehenden Odoo-Entitäten**
+
+Odoo verwaltet mehrere hunderte Geschäftsobjekte wie Projekt, Aufgaben, Arbeitszeiten, Mitarbeiter, Rechnung, Kostenstellen oder Nachrichten. Jedes dieser Objekt kann mit der Eigentwicklung vernüpft werden.
+
+**Vordefinierte Elemente für Benutzeroberfläche**
+
+Odoo bietet veschiedene Ansichtsweisen für die darzustellenden Daten: Listen, Graphen, Kanban, Pivot, Gitter, Gantt oder Map. Diese Ansichtsweisen können für Eigentwicklung übernohmen werden.
+
+**Mobile Support**
+
+Alle Odoo-Apps funktionieren auch auf dem Mobilgerät. Der Entwickler muss kein Responsive-Design entwickeln.
+
+**Sicherheit und Robustheit**
+
+Odoo ist bei tausenden Unternehmen im Einsatz. Von KMUs bis zu Grossunterhmen. Entsprechend viele Sicherheitslücken wurden geschlossen, Erfahrungen im produktiven Einsatz gesammelt und Unternehmeninterne Daten gesammelt. Odoo ist ein sicheres und erprobtes Framework für Geschäftsapplikationen.

@@ -5,7 +5,7 @@ Installation Modul Finanzen (account_accountant).
 
 Arbeitsschritte:
 *  Unternehmensdaten eintragen
-*  Bankkonto erfassen
+*  Bankkonto erfassen, zum Beispiel
 	*  IBAN: CH3989144871696181962
 	*  Name: UBS
 *  Buchungsperiode eröffnen
@@ -26,6 +26,9 @@ Auswahl:
 ## Customizing
 Auswahl:
 * Journale und Sequenzen festlegen (siehe Odoo Handbuch)
+
+#Odoo14  
+Die Sequenz in Odoo 14 wird über *Finanzen > Kunden > Rechungen* festgelegt. Dazu erstellen Sie eine erste Proformarechnung und wählen diese links zum Bearbeiten aus. Über das Menü *Aktion > Resequence* kann der nächste Wert (Rechnungsnummer) festgelegt werden. Dasselbe gilt auch für Eingangsrechnungen *Finanzen > Lieferanten > Rechungen*
 
 ## Optionen aktivieren
 Navigation nach *Einstellungen > Finanzen* und Auswahl:

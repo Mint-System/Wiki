@@ -9,6 +9,7 @@ Der Projektordner soll immer gleich aussehen und so die projektübergreifende Na
 Ordner / Dokument | Beschreibung
 -|-
 Input/ | Dokumente des Kunden werden hier abgelegt
+Bilder/ | Bilder bezüglich Daten und Produkten 
 Output/ | Deliverable, die an den Kunden gehen
 Anforderungen.ext | Dokument mit Anforderungsanalyse
 Präsentation.ext | Präsentation bei Kunde
@@ -19,3 +20,7 @@ Prozess/ | Ordner für Korrespondenz und Projektdaten
 Archiviert/ | Archivierte Dokumente werden hier abgelegt
 assets/ | Mediendateien werden hier gespeichert
 tmp/ | Temporäre Daten die gelöscht werden dürfen
+Readme.md | Projektbeschreibung und Orientierung für Mitarbeiter
+Anforderungsanalyse/ | Dokumente zur Anforderungsanalyse
+Workshop/ | Dokumente zum Workshop
+Notizen.ext | Notizedokumente der Mitarbeiter
