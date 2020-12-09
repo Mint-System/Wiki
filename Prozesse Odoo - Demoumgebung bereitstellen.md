@@ -32,7 +32,8 @@ Arbeitsschritte:
 * Projektaufgaben bereinigen
 * Datenbank löschen
 
-## Demodaten importieren
+## Customizing
+
 ### Stammdaten importieren
 * Import `uom.uom.csv`
 * Import `product.template.csv`

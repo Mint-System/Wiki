@@ -32,7 +32,7 @@ Postausgang-Server (SMTP)
 Benutzername
 Passwort
 Verbindungssicherheit
-SMTP-Port 
+SMTP-Port
 ```
 Datei: `ir.mail_server.csv`
 

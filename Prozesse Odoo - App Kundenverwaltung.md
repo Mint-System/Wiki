@@ -1,6 +1,6 @@
 # App Kundenverwaltung
 Installation Modul Kundenverwaltung (crm).
 
-## Erweiterungen installieren
+## 1. Erweiterungen installieren
 Auswahl:
 * CRM Enterprise (crm_enterprise)

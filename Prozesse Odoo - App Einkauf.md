@@ -1,6 +1,6 @@
 # App Einkauf
 Installation Modul Einkauf (purchase)
 
-## Erweiterungen installieren
+## 1. Erweiterungen installieren
 Auswahl:
 * Unternehmen kaufen (purchase_enterprise)

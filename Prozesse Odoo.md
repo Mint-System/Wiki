@@ -26,3 +26,33 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - Entwicklung]]
 * [[Prozesse Odoo - Demoumgebung bereitstellen]]
 * [[Prozesse Odoo - Testumgebung bereitstellen]]
+
+## Prozessvorlage:
+
+# Prozesse Odoo - App APPNAME
+
+Installation von APPNAME.
+
+## 1. Erweiterungen installieren
+
+Erweiterung des Funktionsumfangs der App.
+
+### Optionen aktivieren
+
+Die Optionen aus den Erweiterungen aktivieren.
+
+## 2 .Initialisierung
+
+Arbeitschritte damit die App funktioniert.
+
+### Unteraufgaben
+
+Areitsschritte zur Ausführung der Unteraufgabe.
+
+## 3. Customizing
+
+Kundenspezifische Anpassungen.
+
+### Unteraufgaben
+
+Areitsschritte zur Ausführung der Unteraufgabe.

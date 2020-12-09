@@ -24,3 +24,4 @@ Readme.md | Projektbeschreibung und Orientierung für Mitarbeiter
 Anforderungsanalyse/ | Dokumente zur Anforderungsanalyse
 Workshop/ | Dokumente zum Workshop
 Notizen.ext | Notizedokumente der Mitarbeiter
+Daten/ |  Nutzdaten für Projekt

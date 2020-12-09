@@ -1,7 +1,7 @@
 # App Dokumente
 Installation Modul CRM (documents)
 
-## Erweiterungen installieren
+## 1. Erweiterungen installieren
 Auswahl:
 * Documents Spreadsheet (documents_spreadsheet)
 * Documents - Accounting (documents_account)
