@@ -22,6 +22,9 @@ The communiy document server still does not work as of 08.12.2020. Decided to te
 
 Docker image seems to work.
 
+Cons:
+* Dokumentmetadaten werden nur in .docx  unterstützt
+
 ## Descision
 
 Use OnlyOffice.

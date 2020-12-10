@@ -25,3 +25,5 @@ Anforderungsanalyse/ | Dokumente zur Anforderungsanalyse
 Workshop/ | Dokumente zum Workshop
 Notizen.ext | Notizedokumente der Mitarbeiter
 Daten/ |  Nutzdaten für Projekt
+Meta/ | Verträge, Bestellungen, NDAs
+Dokumentation/ | Projektdokumentationen
