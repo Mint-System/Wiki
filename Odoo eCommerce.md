@@ -31,7 +31,12 @@ Eine Integration von den gängigen in der Schweiz eingesetzten Kreditkarten ist 
 https://www.odoo.com/documentation/user/13.0/general/payment_acquirers/payment_acquirers.html
 
 ## Versandarten
-Die Versandarten werden in *Finanzen > Konfiguration > Versandmethoden* erfasst. Zuerst ist die Versandmethode zu erstellen, danach wird das Auslieferungsprodukt hinterlegt. Falls eine Versandart über verschiedene Anbieter (Post, DHL, etc.) möglich ist, so werden die Preise und der Anbieter über das Auslieferungsprodukthinterlegt.
+Die Versandarten werden in *Finanzen > Konfiguration > Versandmethoden* erfasst. Zuerst ist die Versandmethode zu erstellen, danach wird das Auslieferungsprodukt hinterlegt. 
+Falls eine Versandart über verschiedene Anbieter (Post, DHL, etc.) möglich ist, so werden die Preise und der Anbieter über das Auslieferungsprodukt hinterlegt.
+Damit die Versandarten auf der WebSite sichtbar sind, müssen diese "published" werden.
+
+Mit den Versandnethoden können verschiedene Kostenanteile angegeben werden.
+Zum Beispiel, wenn der Warenwert mehr als CHF 250.05 ist, soll der Versand kostenlos sein.
 
 ## Varianten im Warenkorb
 Automatischisches Produktzubehör oder vorgeschlagene Produkte und Alternativen, um den Kunden mehr Artikel zu zeigen, die sie vielleicht mögen, ist möglich.

@@ -65,7 +65,7 @@ Die Fakturierung der Leistungen inkl. MwSt. erfolgt monatlich nach effektivem Au
 Fakturierung Monatliche Kosten:  
 Die Fakturierung der monatlichen Kosten werden inkl. MwSt. am Ende des Monats in Rechnung gestellt.
 
-Fakturierung Fixpreis:  
+Fakturierung Fixpreis nach Phase:  
 Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt nach Abschluss einer Projektphase.
 
 ### Entwicklungsprojekt

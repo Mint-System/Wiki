@@ -5,8 +5,7 @@ Installation Modul Personalabrechnung (hr_payroll).
 Auswahl:
 * Lohnbuchhaltung (hr_payroll_account)
 * SEPA-Zahlungen für Gehaltsabrechnungen (hr_payroll_account_sepa)
-* HR Payroll Shares (gio_payroll_custom)
-* HR Payroll Report (gio_py3o_addon)
+* HR Payroll Share (gio_payroll_custom)
 
 ### Optionen aktivieren
 Auswahl:
@@ -16,12 +15,13 @@ Auswahl:
 Arbeitsscrhitte:
 * HR-Stammdaten vorbereiten.
 * Erfassen Standardarbeitsvertrag
-* Mitarbeiter mit Vertrag erfassen
+* Mitarbeiter mit Vertrag erfassen und konfigurieren
 * [[Lohnarten]] importieren
 
 ### Lohnmodul konfigurieren
 Arbeitsschritte:
 * Archivieren der Standardlohnarten BASIC, GROSS und NET
+* Import `hr.salary.rule.basis.csv`
 * Festlegen Lohnjournal
 
 ## 3. Customzing

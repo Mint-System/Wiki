@@ -18,6 +18,27 @@ Sprache
 ```
 Datei: `res.users.csv`
 
+### Kontakte
+
+Listenansicht: *Kontakte*
+
+Felder Kontakt:
+```
+Name
+Straße
+Straße2
+Stadt
+PLZ
+Land
+USt-IdNr.
+Telefon
+Mobil
+E-Mail
+Websiten-Link
+```
+
+Datei: `res.partner.csv`
+
 ### E-Mail-Server
 
 Exportieren von Mail-Konfigurationen.
