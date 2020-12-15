@@ -5,11 +5,18 @@ Aufgabenverwaltung im Odoo
 
 Beim Erstellen einer Aufgabe muss beachtet werden, dass standardmässig ein Auftragselement aus dem verlinkten Verkaufsauftrag hinzugefügt wird. Soll die verbuchte Zeit auf der Aufgabe verrechnet werden, muss ein entsprechendes Auftragselement vorhanden sein. Ansonsten gilt es den Link zum Auftrag zu entfernen.
 
+### Haupt- und Unteraufgaben
+
+Alle Unteraufgaben haben Prefix: "OI: ". OI steht in diesem Fall für Odoo Implementierung.  
+Alle Hauptaufgaben haben am Ende des Namens den Suffix " (OI)" mit den jeweiligen Anfangsbuchstaben.
+
+![[Prozesse Projektmanagent Unterteilung Aufgaben.png]]
+
 ### Vorlagen
 
 **Verrechenbar**
 
-* Odoo Implementierung - Implementation von Odoo-Funktionen
+* Odoo Implementierung (OI) - Implementation von Odoo-Funktionen
 * Projektleitung - Allgmeine Projektleitung
 
 **Nicht verrechenbar**

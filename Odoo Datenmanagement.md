@@ -1,4 +1,4 @@
-# Datenmanagement
+# Odoo Datenmanagement
 
 Für die Odoo Demos werden Datensätze und Szenarios gepflegt. Für jede Odoo App wird festgehalten wie die [[Odoo Demodaten]] exportiert wurden und wie die dazugehörige Export-Datei heisst.
 
@@ -35,6 +35,7 @@ Telefon
 Mobil
 E-Mail
 Websiten-Link
+Ist ein Unternehmen
 ```
 
 Datei: `res.partner.csv`
