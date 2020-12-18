@@ -36,6 +36,8 @@ Mobil
 E-Mail
 Websiten-Link
 Ist ein Unternehmen
+Bankverzeichnis/Kontonummer
+Bankverzeichnis/Bank/ID
 ```
 
 Datei: `res.partner.csv`
@@ -214,7 +216,7 @@ Datei: `res.company.csv`
 
 ### Produkt
 
-Navigation: *Verkauf > *
+Navigation: *Verkauf > Prodoukte > Produktvarianten*
 
 Die Datei `product.template.csv` importieren.
 
@@ -222,7 +224,7 @@ Die Datei `product.template.csv` importieren.
 
 Navigation: *Kontakte > Konfiguration > Bankverzeichnis*
 
-Die Datei `account.analytic.line.csv` importieren.
+Die Datei `res.bank.csv` importieren.
 
 ### Arbeitszeiten
 
