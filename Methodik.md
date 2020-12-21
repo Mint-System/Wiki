@@ -6,4 +6,5 @@
 [[Marktsondierung]]  
 [[Pendenzen]]  
 [[Arbeitsplanung]]  
-[[Projektmanagement]]
+[[Projektmanagement]]  
+[[Technologien]]  

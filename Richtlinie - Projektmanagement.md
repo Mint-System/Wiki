@@ -11,13 +11,13 @@ Der Projektordner soll immer gleich aussehen und so die projektübergreifende Na
 Ordner / Dokument | Beschreibung
 -|-
 Readme.md | Projektbeschreibung und Orientierung für Mitarbeiter
-Notizen.ext | Notizedokumente der Mitarbeiter
 Projektplan.ext | Dokument mit Zeitplan
+Notizen/ | Ordner für Notizedokumente der Mitarbeiter
 Dokumentation/ | Projektdokumentationen
 Meta/ | Verträge, Bestellungen, NDAs
-Meta/Konzept.ext | Projektkonzept mit Zeitplan
-Präsentation/ | Dokumente für Präsentation
-Präsentation/Präsentation.ext | Präsentation bei Kunde
+Meta/Konzept.ext | Projektkonzept mit Planung
+Slides/ | Dokumente für Präsentation
+Slides/Präsentation.ext | Präsentation bei Kunde
 Meeting/ | Meeting-Notizen werden in diesem Ordner abgelegt
 Workshop/ | Dokumente zum Workshop
 Anforderungen/ | Dokumente zur Anforderungsanalyse
