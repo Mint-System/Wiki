@@ -7,3 +7,8 @@ Um diese Funktion einzurichten müssen folgende Einstellung gemacht werden:
 * Konfiguration der Mail-Domäne für Mail Account und Odoo
 * Konfiguration eingehender E-Mail Server in Odoo
 * MX-DNS-Eintrag für die Mail-Domäne
+
+
+## Verbindung testen
+
+Zum testen stehen verschiedene [[SMTP-Skripte]] zur Verfügung.

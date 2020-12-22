@@ -37,6 +37,16 @@ Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistun
 Auftragserteilung:  
 In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder durch Annahme des Angebots oder durch Unterzeichnung eines separaten Vertrages oder durch eine Bestellung.
 
+### Zusammenarbeit
+
+Pflichten des Kunden:
+Der Kunde unterstützt den Auftragnehmer bei der Erbringung der vereinbarten Leistungen, im Wesentlichen durch Einhaltung der festgesetzten Termine, durch Zurverfügungstellung aller erforderlichen Informationen sowie Festlegung einer Single-Point-of-Contatct (SPoC).
+
+### Wartung und Support
+
+Kosten Wartung und Support:
+Wartung, Unterhalt, Support und Erweiterungen werden nach Tarifsystem gemäss separatem Arbeitsrapport verrechnet.
+
 ### Termine
 
 Termine:  
