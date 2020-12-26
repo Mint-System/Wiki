@@ -272,4 +272,20 @@ Die Datei `hr.contract.csv` importieren.
 
 Navigation *Personalabrechnung > Konfiguration > Regeln*
 
-Die Datei ``
+Die Datei  ` ` importieren.
+
+### Preislisten
+
+Die Datei  `product.pricelist.csv` importieren.
+
+### Arbeitsplätze
+
+Die Datei  `mrp.workcenter.csv` importieren.
+
+### Routen
+
+Die Datei  `mrp.routing.workcenter.csv` importieren.
+
+### Stücklisten
+
+Die Datei `mrp.bom.csv` importieren.

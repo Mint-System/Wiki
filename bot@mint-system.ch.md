@@ -1,4 +1,4 @@
-# Bot Mint System
+# Bot Mintsys
 
 Der Bot Mint System ist automatisierter Benutzer-Account. Er wird verwendet um E-Mails aus Nextcloud oder anderen Diensten zu versenden und um den Zugriff von Ansible auf GitHub zu steuern.
 
