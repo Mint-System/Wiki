@@ -20,7 +20,7 @@ Sollen die Preise im Webshop inklusive der Mehrwertsteuer angezeigt werden, so i
 ## Produkte
 Die Produkte für den WebShop werden entweder im Modul Lager, Produkte erfasst oder im Modul Webseite, Produkte. 
 
-Die Produkte (Artikel) sollen möglichst einer Kategorie zugteilt werden, Produkte, eCommerce dann Kategorien. Auch lohnt es sich in der Ansicht eCommerce ein oder mehrere Alternativprodukte anzugeben. Der Kunde sieht diese nach der Auswahl des Artikels unten  angezeigt. 
+Die Produkte (Artikel) sollen möglichst einer Kategorie zugeteilt werden *Menü > Produkte, eCommerce dann Kategorien*. Auch lohnt es sich in der Ansicht eCommerce ein oder mehrere Alternativprodukte anzugeben. Der Kunde sieht diese nach der Auswahl des Artikels unten  angezeigt. 
 
 Es macht Sinn, dass die Produkte mit einem Bild erfasst sind, da im WebShob dann diese auch mit einem Bild präsentiert werden. Das erfasste Produkt ist zuerst nicht "Published" (veröffentlicht), soll das Produkt als Artikel auf der Webseite zur Verfügung stehen, so ist es unter WebSite auf Status *Published* zu setzen.
 
@@ -29,7 +29,7 @@ Wenn der Verkäufer sein Produkt in verschiedenen Varianten anbietet, so ist die
 - in einer 33cl Flasche (einzeln)
 - in einer 58cl Flasche (einzeln)
 - 6 Flaschen 33cl in einer Tragbox aus Karton (Einweg)
-- 24 Flaschen 33cl in einem Harasse (mit Depot als Merhweggebinde)
+- 24 Flaschen 33cl in einem Harasse (mit Depot als Mehrweggebinde)
 
 Vorgehen zum Einrichten der Produktvarianten:
 1. App *Verkauf > Produkte* in Reiter Varianten die Variante hinzufügen. Dabei gibt die Spalte das Attribut wieder. Im Beispiel oben wäre dies "Gebinde".  

@@ -38,6 +38,16 @@ Auswahl:
 #Odoo14  
 Die Sequenz in Odoo 14 wird über *Finanzen > Kunden > Rechungen* festgelegt. Dazu erstellen Sie eine erste Proformarechnung und wählen diese links zum Bearbeiten aus. Über das Menü *Aktion > Resequence* kann der nächste Wert (Rechnungsnummer) festgelegt werden. Dasselbe gilt auch für Eingangsrechnungen *Finanzen > Lieferanten > Rechnungen*
 
+### Kontenplan
+
+Arbeitsschritte:
+* Kontennamen übersetzen
+
+Name | Übersetzung
+-|-
+Outstanding Receipts | Ausstehende Belege
+Outstanding Payments | Ausstehende Zahlungen
+
 ### Steuern
 
 Arbeitsschritte:
