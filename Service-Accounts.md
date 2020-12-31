@@ -1,5 +1,5 @@
 # Service-Accounts
 Es existieren die folgenden Service-Accounts:
-* [[admint@mint-system.ch]]
+* [[login@mint-system.ch]]
 * [[bot@mint-system.ch]]
 * [[odoo@mint-system.ch]]

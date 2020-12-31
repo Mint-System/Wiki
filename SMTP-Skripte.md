@@ -60,3 +60,20 @@ MAIL_MESSAGE="Welcome to Odoo"
 
 echo $MAIL_MESSAGE | swaks --to $MAIL_TO --from $MAIL_FROM --server $SMTP_SERVER --port $SMTP_PORT -tls
 ```
+
+## Troubleshooting
+
+**TLS not avaialble**
+
+The error:
+
+```
+*** TLS not available: requires Net::SSLeay.  Exiting
+```
+
+Can be resolved by installing:
+
+```bash
+sudo apt-get install libnet-ssleay-perl
+sudo apt-get install libcrypt-ssleay-perl
+```

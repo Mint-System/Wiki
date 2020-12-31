@@ -28,7 +28,7 @@ docker exec --user www-data nextcloud02 php occ maintenance:mode --off
 
 Installation from app store failed.
 
-** Solution**
+**Solution**
 
 Run a manual installation.
 
@@ -36,3 +36,13 @@ Run a manual installation.
 docker exec --user www-data nextcloud02 php -d memory_limit=512M occ app:install richdocumentscode
 docker exec --user www-data nextcloud02 php -d memory_limit=512M occ app:remove richdocumentscode
 ```
+
+### Sync client not autostarting
+
+**Problem**
+
+On the Nextcloud sync client is not started automatically.
+
+**Solution**
+
+Install GNOME Tweaks and add Nextcloud to the *Startup Applications*.

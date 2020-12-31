@@ -9,6 +9,12 @@ Um diese Funktion einzurichten müssen folgende Einstellung gemacht werden:
 * MX-DNS-Eintrag für die Mail-Domäne
 
 
+## Relay Server konfigurieren
+
+Odoo verwendet den SMTP-Server als Relay. Das heisst Odoo kann unter verschiedenen Adressen E-Mails verwschicken.
+
+[[Office 365 Exchange für Odoo konfigurieren]]
+
 ## Verbindung testen
 
 Zum testen stehen verschiedene [[SMTP-Skripte]] zur Verfügung.
