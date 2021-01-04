@@ -52,5 +52,5 @@ Outstanding Payments | Ausstehende Zahlungen
 
 Arbeitsschritte:
 * Steuergruppen festlegen *Einstellungen > Finanzen > Steuern > configure your tax accounts*
-* Steuern deaktivieren und neue Sätze erfassen *Fianzen > Konfiguration > Steuern*
+* Steuern deaktivieren und neue Sätze erfassen *Finanzen > Konfiguration > Steuern*
 * Taxgrid deaktiveren
