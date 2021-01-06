@@ -272,7 +272,7 @@ Die Datei `hr.contract.csv` importieren.
 
 Navigation *Personalabrechnung > Konfiguration > Regeln*
 
-Die Datei  ` ` importieren.
+Die Datei  `hr.salary.rule.basis.csv` importieren.
 
 ### Preislisten
 
