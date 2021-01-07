@@ -32,3 +32,44 @@ OSError: [Errno 8] Exec format error: '/usr/local/bin/libreoffice'
 **Solution**
 
 Apply shebang line `#!/bin/sh` in shell script.
+**
+
+## wkhtmlpdf unpatched
+
+**Problem**
+
+```
+wkhtmltopdf: b'The switch --header-spacing, is not support using unpatched qt, and will be ignored.The switch --header-html, is not support using unpatched qt, and will be ignored.The switch --footer-html, is not support using unpatched qt, and will be ignored.'  
+```
+
+**Solution**
+
+```bash
+cd ~
+
+# Select an appropriate link for your system (32 or 64 bit) from the page https://wkhtmltopdf.org/downloads.html and past to the next line
+
+wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4\_linux-generic-amd64.tar.xz
+
+tar xvf wkhtmltox\*.tar.xz
+
+sudo mv wkhtmltox/bin/wkhtmlto\* /usr/bin
+
+sudo apt-get install -y openssl build-essential libssl-dev libxrender-dev git-core libx11-dev libxext-dev libfontconfig1-dev libfreetype6-dev fontconfig
+```
+
+## Watch limit reached
+
+**Problem**
+
+```
+OSError(errno.ENOSPC, "inotify watch limit reached")
+```
+
+**Solution**
+
+Temporary:
+
+```bash
+sudo sysctl fs.inotify.max_user_watches=524288
+```
