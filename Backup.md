@@ -2,7 +2,7 @@
 
 ## Vorschlag
 
-Die Daten der Applikations-Container werden täglich gesichert. Container, die Nutzdaten verarbeiten, speichern diese auf dem Filesystem des Docker Hosts. Siehe Spalte Daten in [Tabelle Übersicht Container](https://wiki.mint-system.ch/books/infrastruktur/page/container "Container"). Diese Daten-Ordner sollen fortlauend gesichert werden.
+Die Daten der Applikations-Container werden täglich gesichert. Container, die Nutzdaten verarbeiten, speichern diese auf dem Filesystem des Docker Hosts. Diese Daten-Ordner sollen fortlauend gesichert werden.
 
 ### Backup Management
 
