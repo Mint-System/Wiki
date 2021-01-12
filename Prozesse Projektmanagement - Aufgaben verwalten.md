@@ -17,13 +17,12 @@ Alle Hauptaufgaben haben am Ende des Namens den Suffix " (OI)" mit den jeweilige
 **Verrechenbar**
 
 * Odoo Implementierung (OI) - Implementation von Odoo-Funktionen
-* Projektleitung - Allgmeine Projektleitung
+* Projektleitung (PL) - Allgmeine Projektleitung
 
 **Nicht verrechenbar**
 
-* Anforderungsanalyse - Anforderungen definieren
-* Projektadministration - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts
-* Q&A - Kommunikation mit dem Kunde
+* Anforderungsanalyse (AA) - Anforderungen definieren
+* Projektadministration (PA) - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts
 * Know-how (KH) - Erarbeiten Basiswissen zur Beratung von Kunden
 
 ## Aufgabenstatus festlegen

@@ -51,3 +51,37 @@ Am Ende muss man die Anpassung als Odoo-Modul speichern und zur Installation ber
 Dieses Snippet ergibt:
 
 ![[Odoo Studio snippet custom header.png]]
+
+**auto-select bank account**
+
+```xml
+<data>
+  <xpath expr="/t/t/div/p[2]" position="after">
+    <t t-if="o.currency_id.name=='CHF'">
+        <t t-set="account" t-value="o.company_id.bank_ids.browse(13)"/>
+    </t>
+    <t t-if="o.currency_id.name=='EUR'">
+        <t t-set="account" t-value="o.company_id.bank_ids.browse(14)"/>
+    </t>
+    <t t-if="o.currency_id.name=='USD'">
+        <t t-set="account" t-value="o.company_id.bank_ids.browse(15)"/>
+    </t>
+    <div class="row">
+      <div class="col">
+        <span>IBAN: </span>
+        <span t-field="account.acc_number"/>
+      </div>
+    </div>
+  </xpath>
+  <xpath expr="/t/t/div/div[3]" position="after">
+    <div class="row">
+      <div class="col">
+        <span>Bank/BIC: </span>
+        <span t-field="account.bank_id.display_name"/>
+        <br/>
+        <br/>
+      </div>
+    </div>
+  </xpath>
+</data>
+```
