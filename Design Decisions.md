@@ -11,7 +11,7 @@ Referenz: [[Odoo Painpoints#Odoo Painpoints#Odoo-Benutzerlizenzen für Partner]]
 
 ### Lösungsvorschlag 1
 
-Auf der Live-Umgebung sind die Parnter-Benutzer vorhanden und archiviert. Nach Bedarf kann der Kunde diese aktivieren. Möchte der Partner die Benutzer selber aktivieren, kann er das über die Datenbank machen. Der technische Verantwortliche kann mittels Skript auf dem Server den Account aktiveren oder deaktivieren.
+Auf der Live-Umgebung sind die Partner-Benutzer vorhanden und archiviert. Nach Bedarf kann der Kunde diese aktivieren. Möchte der Partner die Benutzer selber aktivieren, kann er das über die Datenbank machen. Der technische Verantwortliche kann mittels Skript auf dem Server den Account aktiveren oder deaktivieren.
 helios:/$ docker-odoo-user -c odoo06  -d erp-dev -enable janik.vonrotz@mint-system.ch
 helios:/$ docker-odoo-user -c odoo06 -d erp-dev -disable janik.vonrotz@mint-system.ch
 

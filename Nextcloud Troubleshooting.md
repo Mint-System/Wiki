@@ -45,4 +45,4 @@ On the Nextcloud sync client is not started automatically.
 
 **Solution**
 
-Install GNOME Tweaks and add Nextcloud to the *Startup Applications*.
+Install *GNOME Tweaks* and add Nextcloud to the *Startup Applications*.

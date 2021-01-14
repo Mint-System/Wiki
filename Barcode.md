@@ -12,7 +12,23 @@ Der Code128 enthält eine Prüfziffer und kann komplexe Inhalte in schmale Barco
 
 In der Regel simmulieren die Barcode-Scanner nichts anderes als eine Tastatur. Der gescannte Code wird umgesetzt und auf dem PC als Tastaturcode in das vom Cursor belegte Feld eingesetzt. Setzt man zum Beispiel der Cursor in einem Tabellenkalkulatiosprogramm in ein Feld und liest einen Barcode, so schreibt der Scanner den Text ins ausgewählte Feld.
 
-Wir empfelen die Linie Gryphon der Datalogic. Sollte es etwas günstiger sein, dann kann auch die Linie QuickScan (auch Datalogic) zum Einsatz kommen.
+### Produkt-Empfehlungen
+
+#### Datalogic
+
+| Produkt | Bemerkungen  |
+|:- |:- |
+| Gryphon |  |
+| QuickScan | kostengünstiger |
+
+#### Zebra
+
+| Produkt | Typ  | Bemerkungen | Preis (ca.)
+|:- |:- |:- |:- |
+| TC20 | Mobile Computer Scanner | 2D barcodes, Wireless und Bluetooth Verbindung, integriertes Funkgerät, PowerPack Zebra für Verlängerung der Akkulaufzeit | CHF 400
+| TC20 | Mobile Computer Scanner | 2D barcodes, Wireless und Bluetooth Verbindung, integriertes Funkgerät, PowerPack Zebra für Verlängerung der Akkulaufzeit, mit Tastenfeld | CHF 500
+| TC70 | Mobile Touch Computer Scanner | | CHF 1'200
+| TC75 | Mobile Touch Computer Scanner | | CHF 1'400
 
 ## Barcodes drucken
 
