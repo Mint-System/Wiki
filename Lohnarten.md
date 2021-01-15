@@ -21,3 +21,4 @@ KTG Männer
 Zulagen: Schichtzulage / Pikett
 Erfolgsbeteiligung
 Versicherungserstattungen von EO, SUVA und KTG
+UVG Unfallversicherung
