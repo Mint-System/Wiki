@@ -24,7 +24,8 @@ https://arnold.mintsys.ch | Arnold Reklamen AG
 ~~https://aersolution.mintsys.ch~~ | ~~Aersolution Interior AG~~
 https://metallprojekt.mintsys.ch | metallprojekt gmbh
 https://trimada.mintsys.ch | Trimada AG
-https://kleinbrauerei.mintsys.ch | Kleinbrauerei Stiär Biär AG
+~~https://kleinbrauerei.mintsys.ch | Kleinbrauerei Stiär Biär AG~~
+https://erevo.mintsys.ch | e-Revo AG
 
 ## Nextcloud
 

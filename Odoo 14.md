@@ -25,3 +25,13 @@ Fix: Inject html/css into body.
 }
 </style>
 ```
+
+### Cannot open links in forecasted report
+
+The browser console says:
+
+```
+Failed to execute ‘postMessage’ on ‘DOMWindow’: The target origin provided (‘http://odoo14.mintsys.ch’) does not match the recipient window’s origin (‘https://odoo14.mintsys.ch’).
+```
+
+Ensure that the `web.base.url` starts with https.

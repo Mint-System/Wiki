@@ -36,3 +36,4 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 * Stammdaten gemäss [[Odoo Datenmanagement]] importieren
+* Systemparameter `web.base.url` mit https ergänzen
