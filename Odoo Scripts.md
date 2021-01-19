@@ -13,4 +13,13 @@ curl https://raw.githubusercontent.com/Mint-System/Ansible-Playbooks/master/role
 
 chmod +x /usr/local/bin/odoo-restore
 
-odoo-restore -p $MASTER_PASSWORD$ -d finanzen -h https://finazen.mintsys.ch -f /var/tmp/erp.zip -r```
+odoo-restore -p $MASTER_PASSWORD$ -d finanzen -h https://finazen.mintsys.ch -f /var/tmp/erp.zip -r
+```
+
+Disable online signature for quotes.
+
+```sql
+UPDATE public.res_company
+	SET portal_confirmation_sign=False
+	WHERE id=1;
+```
