@@ -3,7 +3,7 @@ Odoo Projekt verbindet Projektmanagement mit Verkauf, Einkauf, Plannung und Fina
 
 ## Zeiterfassung
 
-Die [[Odoo Zeiterfassung]] kann mit Projektaufgaben verbunden werden.
+Die [[Odoo Timesheet]] kann mit Projektaufgaben verbunden werden.
 
 Folgende Apps müssen installiert sein:
 
