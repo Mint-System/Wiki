@@ -6,7 +6,7 @@ Die Vorlagen wurde mit diesen Arbeitsschritten erstellt.
 ## Odoo
 
 * Installation Datenbank in Sprache Deutsch
-* Benutzername: admint
+* Benutzername: `login@mint-system.ch`
 * Passwort des Administrators speichern
 * Anzeigename und Anzeigebild des Administrators `Administrator Mint System` anpassen
 * Konfiguration ausgehender Mail-Server

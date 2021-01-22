@@ -17,6 +17,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Atlas | Monitoring | atlas.mint-system.com | |
 | Helios | Server Aersolution Interior AG | helios.mint-system.com |  |
 | Hermes | Odoo Demoumgebung | hermes.mint-system.com | |
-| Artmies | BigBlueButton | artemis.mint-system.com | ExoScale |
+| Themis | BigBlueButton | themis.mint-system.com | ExoScale |
 | Iris | Server Kleinbrauerei Stiär Biär AG | iris.mint-system.ch | |
 | Pan | Server Light Wing AG | pan.mint-sytem.ch | |

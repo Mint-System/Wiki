@@ -1,4 +1,4 @@
-# Linux Server Patching
+# Linux Server Patching Dokumentation
 
 Das "Linux Server Patching" umfasst die Installation von Sicherheits-, Software- und Systemupdates auf unterschiedlichen Linux-Server. Es ist ein Automatisierungs-Werkzeug, dass ohne Aufsicht Patches auf konfigurierten System installiert und den Erfolgt des Vorgangs meldet.
 
