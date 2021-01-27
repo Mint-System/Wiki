@@ -3,6 +3,7 @@
 [[Odoo Shell]]  
 [[Odoo Scripts]]
 [[Odoo Revisions]]
+[[Odoo Snippets]]
 
 ## Recipies
 

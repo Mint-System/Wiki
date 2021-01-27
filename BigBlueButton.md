@@ -22,3 +22,19 @@ delete from users where users.email = 'info@mint-system.ch';
 BigBlueButton fragt einmalig nach dem Mikrofon-Zugriff.
 
 ![[BigBlueButton Mikrofon-Zugriff.png]]
+
+### Aufnahmen verwalten
+
+BigBlueButton erstellt Aufnahmen in [vier Schritten](https://docs.bigbluebutton.org/dev/recording.html#overview).
+
+Aufnahmen auflisten.
+
+```
+bbb-record --list
+```
+
+Erstellung der Aufnahmen verfolgen.
+
+```
+bbb-record --watch
+```

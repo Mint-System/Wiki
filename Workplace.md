@@ -10,4 +10,4 @@ Name | OS | Description
 [kap](https://getkap.co/) | MacOS | Open Source Gif creatore
 [peek](https://github.com/phw/peek) | Ubuntu | Simple screen recorder with an easy to use interface
 [[Firefox]] | Ubuntu,MacOS, Windows | Browser
-[[OBS]]|Windows,MacOS,Linux|Broadcast software for professional presentations
+[[Open Broadcast Software]]|Windows,MacOS,Linux|Broadcast software for professional presentations
