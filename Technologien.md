@@ -9,6 +9,7 @@ Browser:
 Datenbanksystem:
 
 * [[PostgreSQL]]
+* [[pgAdmin]]
 
 Identity and Access Management:
 
