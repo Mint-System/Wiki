@@ -2,4 +2,5 @@
 
 [[Vorlage Angebot]]  
 [[Vorlage Konzept]]
-[[Vorlage Anforderungsanalyse]]
+[[Vorlage Anforderungsanalyse]]  
+[[Vorlage Aufwandsschätzung]]

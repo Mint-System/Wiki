@@ -22,6 +22,7 @@ Meeting/ | Meeting-Notizen werden in diesem Ordner abgelegt
 Workshop/ | Dokumente zum Workshop
 Anforderungen/ | Dokumente zur Anforderungsanalyse
 Anforderungen/Anforderungen.ext | Dokument mit Anforderungsanalyse
+Angebot/ | Dokumente Angebotserstellung
 
 **Prozessordner**
 
