@@ -1,5 +1,7 @@
 # Odoo Lager
 
+* [[Odoo Replenishment]]
+
 ## Video Tutorial
 [What's New in Odoo 14 Inventory?](https://www.youtube.com/watch?v=ujSeKrkx30g).
 

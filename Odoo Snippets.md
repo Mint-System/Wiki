@@ -77,3 +77,23 @@ Code:
 	</style>
 	...
 ```
+
+### Add product name to quote
+
+sale_order_portal_content
+
+Name: `add product name`  
+Key: `sale.sale_order_portal_content_product_name`  
+Inherited Key: `sale.sale_order_portal_content`  
+Priority: 99  
+
+Code:
+```html
+<?xml version="1.0"?>
+<data>
+  <xpath expr="//td[@id='product_name']" position="replace">
+  	<td id="product_name"><span t-field="line.product_id.name"/><br/><span class="font-italic" t-field="line.name"/></td>
+  </xpath>
+</data>
+```
+

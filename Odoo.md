@@ -7,30 +7,29 @@ Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Handbuch]].
 
 ![[Odoo Projekt.png]]
 
-## Features
+## Apps
 
-* [[Odoo Email Integration]]
 * [[Odoo Fertigung]]
 * [[Odoo Finanzen]]
 * [[Odoo Kalender]]
 * [[Odoo Lohnabrechnung]]
 * [[Odoo Projekt]]
 * [[Odoo Planung]]
-* [[Odoo Widgets]]
 * [[Odoo Diskussion]]
 * [[Odoo Verkäufe]]
 * [[Odoo Strichcode]]
 * [[Odoo eCommerce]]
 * [[Odoo Website]]
-* [[Odoo Replenishment]]
 * [[Odoo Lager]]
 
-## Apps
+## System
 
+* [[Odoo Email Integration]]
 * [[Odoo REST API]]
 * [[Odoo QM Data System]]
+* [[Odoo Widgets]]
 
-## Other
+## Anderes
 
 * [[Odoo Datenmanagement]]
 * [[Odoo Map View]]

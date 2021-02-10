@@ -25,6 +25,8 @@ Die Unterscheidung der Gruppe lässt sich festlegen:
 
 ## Rahmenaufträge
 
+Mit dem Kunden können in Form eines Rahmenvertrags zum Beispiel 10'000 Stk des Produktes X verkauft werden. Ein Rahmenvertrag wird in mehrere Verkaufsaufträge gesplittet. Die 10'000 Stk können also zum Beispiel auf fünf Aufträge à je 2'000 Stk aufgeteilt werden. Die Zugehörigkeit der Unter-Verkaufsaufträge zum Rahmenvertrag ist in der Menu-Führung sichtbar. Im CRM wiederum wird angezeigt, dass Rahmenvertrag aus den fünf Unter-Vekaufsaufträgen besteht. Im Rahmenvertrag wird zudem sichtbar, ob die gesamte verkaufte Stückzahl bereits in Unter-Verkaufsaufträge aufgeteilt ist. Im Weiteren wird verhindert, dass die Summe der Stückzahl aus den Unter-Verkaufsaufträgen die vereinbarte Gesamtstückzahl nicht überschreitet. Jeder Unter-Verkaufsautrag kann individuelle Stückzahlen und Liefertermine beinhalten.
+
 Mit der Odoo App [Blanket Sale Orde](https://apps.odoo.com/apps/modules/14.0/dev_blanket_sale_order/) können Rahmenaufträge erfasst werden. Von einer Chance kann ein Verkaufsangebot erstellt werden und von einem Angebot können mehrere Verkaufsaufträge erstellt werden. Die Verkaufsauträge haben ihr eigener Lebenszyklus.
 
 ![[Erstellen Auftrag.png]]
