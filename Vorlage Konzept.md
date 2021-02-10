@@ -10,6 +10,7 @@
 	* Partner
 * Lösungsvorschlag
 * Anforderungsanalyse
+	* Systeme im Einsatz
 	* Systemkontext
 	* Stakeholder
 * Prozesse
@@ -34,45 +35,88 @@ Bezüglich der Lizenzierung von Odoo steht der Kunde direkt mit Odoo S.A. in Ver
 
 ### Vorgehen
 
-Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](https://cloud.mint-system.ch/s/cPnnr7yjPApL8YG).
+Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](https://cloud.mint-system.ch/s/cPnnr7yjPApL8YG). Die einzelnen Arbeitspakete sind im folgenden Abschnitt erläutert. Daraus leitet sich die
+Aufwandsschätzung ab.
 
-Speziell zu beachtende Aspekte sind in diesem Abschnitt beschrieben.
-
-Phase 1: Installation
+Phase X: Installation
 * Den Odoo Mandanten aufsetzen
 * Die DNS Konfiguration vornehmen
 * Odoo Mail-Account Integration
 * Die Benutzer in Odoo bereitstellen
+
 Ziel: Odoo steht für die Initialisierung bereit
 
-Phase 2: Initialisierung
+Phase X: Initialisierung
 * Die Adressen der Lieferanten importieren
 * Die Adressen der Kunden importieren
 * Die Bankkonten erfassen und konfigurieren
 * Das Dokumentlayout festlegen und umsetzen
-* Die Produktdaten erfassen
 
-Ziel: Daten stehen in Odoo zur Verfügung
-Phase 3: Finanzen
+Ziel: Initialisierungs-Daten stehen in Odoo zur Verfügung
+
+Phase X: Finanzen
 * Den Kontenplan einrichten
 * Die Mehrwertsteuersätze einrichten
 * Die Journale einrichten
-* die Bankenverbindung zu Ebanking einrichten
+* Die Bankenverbindung zum Ebanking einrichten
 * Debitoren und Kreditoren einrichten
-Ziel: interne Buchhaltung erfolgt mittels Odoo
 
-Phase 4: Personalabrechnung
+Ziel: Interne Buchhaltung erfolgt mittels Odoo
+
+Phase X: Fertigung
+* Die Arbeitsplätze erfassen
+* Alle Produkte importieren
+* Die Fertigungs-Routen definieren
+* Stücklisten und Arbeitspläne erfassen
+* Notwendige Qualitätsschritte einfügen
+
+Ziel: Alle Daten zum Fertigen der Produkte sind bereit
+
+Phase X: Personalabrechnung
 * Das Personal erfassen
 * Die Verträge erfassen und zuweisen
 * Die Abzüge der Arbeitgeber/Arbeitnehmer in den Stammdaten eintragen
 * Die Konfiguration der Lohnarten vornehmen
+
 Ziel: Lohnabrechnung mit Odoo
 
-Phase 5: Webshop
+Phase X: Verkäufe und Einkauf
+* Die Lieferanten Preislisten importieren
+* Lead-Times festlegen
+* Mindestbestandsregeln einrichten
+
+Ziel: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit
+
+Phase X: Webshop
 * Den Seitenaufbau definieren (Startseite und weitere Seiten)
 * Das Layout (Farbkonzept, Schriftarten) bestimmen
 * Die Inhalte erfassen
 * Die Inhalte mit den Produkten erweitern
-* den Warenkorb einrichten
+* Den Warenkorb einrichten
 * Die Zahlungsmittel einrichten
+
 Ziel: Es sind Produkte der Stiär Biär im Webshop bestellbar
+
+Phase X: Projekt
+* Projekt-Berichte konfigurieren
+* Die Hauptaufgaben - Unteraufgaben Struktur definieren
+*  Projekt-Templates einrichten
+
+Ziel: Alle Daten zum Starten und Überwachen der Projekte sind bereit
+
+Phase X: Zeiterfassung
+* Alle persönlichen Verträge einrichten
+* Den Freigabe-Workflow konfigurieren
+* Den anwendbaren Feiertagskalender importieren
+* Das Berichtswesen konfigurieren
+
+Ziel: Die Kalender und Verträge sind für Arbeitszeit-Rapportierung bereit
+
+Phase X: Lager
+* Alle Lager und Lagerorte einrichten
+* Die Lager-Routen definieren
+* Die Lager beschriften
+* Den Verpackungs-Vorgang einrichten
+* Das Barcode Scanning aktivieren
+
+Ziel: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert
