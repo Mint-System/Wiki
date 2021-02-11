@@ -10,7 +10,7 @@ Technisch gesehen ist die Tabletansicht ein normales Odoo-Formular mit aufwändi
 
 Die Ansicht kann aktuell nicht mit Odoo Studio verändert werden. Das liegt an den aufwändigen Formatierungen.
 
-Im Odoo Forum wurde folgender Beitrag beantwortet: [# Can I customize the Work Order Tablet View? I want all the buttons at the top.](https://www.odoo.com/de_DE/forum/hilfe-1/can-i-customize-the-work-order-tablet-view-i-want-all-the-buttons-at-the-top-170932). Die Felder des Datenmodells `mrp.workorder` können also mit der Anpassung der Ansicht neu angeordnet werden.
+Im Odoo Forum wurde folgender Beitrag beantwortet: [Can I customize the Work Order Tablet View? I want all the buttons at the top.](https://www.odoo.com/de_DE/forum/hilfe-1/can-i-customize-the-work-order-tablet-view-i-want-all-the-buttons-at-the-top-170932). Die Felder des Datenmodells `mrp.workorder` können also mit der Anpassung der Ansicht neu angeordnet werden.
 
 **Felder verknüpfter Modelle anzeigen**
 
