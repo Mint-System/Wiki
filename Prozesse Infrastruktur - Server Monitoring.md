@@ -1,6 +1,7 @@
-# Server Monitoring
+# Prozess Server Monitoring
 Server in Monitoring einbinden.
 
+## Server in Monitoring registrieren
 Arbeitsschritte:
 * Konfiguration Server in Monitor Inventory
 * Hostname in Prometheus Konfiguration hinterlegen

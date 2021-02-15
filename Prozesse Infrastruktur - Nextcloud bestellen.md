@@ -1,6 +1,7 @@
-# Nextcloud bestellen
+# Prozess Nextcloud bestellen
 Bestellung einer Odoo-Installation.
 
+## Nextcloud-Instanz bestellen
 Arbeitsschritte:
 * Zusammenstellen Informationen Kunde:
 	* Host: Unter welcher Host-Adresse ist Nextcloud erreichbar? Beispiel: `erp.example.com`. 

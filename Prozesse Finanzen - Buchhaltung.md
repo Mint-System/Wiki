@@ -1,4 +1,4 @@
-# Buchhaltung
+# Prozess Buchhaltung
 Führung der Buchhaltung der Mint System.
 
 ## Darlehenskonto einrichten

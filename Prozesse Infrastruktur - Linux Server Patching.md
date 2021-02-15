@@ -1,4 +1,4 @@
-# Linux Sever Patching
+# Prozess Linux Sever Patching
 Konfiguration Linux Server Patching.
 
 ## Neuer Server hinzufügen

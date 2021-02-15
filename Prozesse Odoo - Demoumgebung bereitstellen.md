@@ -1,4 +1,5 @@
-# Demoumgebung bereitstellen
+# Prozess Demoumgebung bereitstellen
+
 ## Initialisierung
 Arbeitsschritte:
 * Registration Domain  `$NAME.mintsys.ch`

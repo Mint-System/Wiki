@@ -1,4 +1,4 @@
-# App Fertigung
+# Prozess App Fertigung
 Installation Modul Fertigung (mrp)
 
 ## 1. Erweiterungen installieren

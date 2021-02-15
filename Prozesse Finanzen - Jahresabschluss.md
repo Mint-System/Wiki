@@ -1,4 +1,4 @@
-# Jahresabschluss
+# Prozess Jahresabschluss
 
 Arbeitsschritte zum Erstellen des Jahresabschlusses.
 

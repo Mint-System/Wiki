@@ -1,4 +1,4 @@
-# App Strichcode
+# Prozess App Strichcode
 Installation Module Strichcode (stock_barcode)
 
 ## 1. Erweiterungen installieren

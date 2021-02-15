@@ -1,4 +1,4 @@
-# App Verkäufe
+# Prozess App Verkäufe
 Installation Modul Verkäufe (sale_management).
 
 ## 1. Erweiterungen installieren

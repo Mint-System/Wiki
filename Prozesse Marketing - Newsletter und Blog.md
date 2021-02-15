@@ -1,4 +1,4 @@
-# Newsletter und Blog
+# Prozess Newsletter und Blog
 
 ## Texte sammeln
 

@@ -23,9 +23,9 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - App Website]]
 * [[Prozesse Odoo - App Dokumente]]
 * [[Prozesse Odoo - App Lager]]
-* [[Prozesse Odoo - Entwicklung]]
 * [[Prozesse Odoo - Demoumgebung bereitstellen]]
 * [[Prozesse Odoo - Testumgebung bereitstellen]]
+* [[Prozesse Odoo - Produktionsumgebung bereitstellen]]
 
 ## Prozessvorlage:
 

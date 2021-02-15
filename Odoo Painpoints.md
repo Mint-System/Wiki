@@ -13,6 +13,41 @@ Versendet man ein Mail an mehrere Empfänger so ist das beim empfangenen Mail ni
 
 Cannot forward chatter messages.
 
+## Nur ein Timer kann gestartet werden
+
+Nur ein Mitarbeiter kann den Aufgaben-Timer laufen lassen.  
+Funktioniert mit OCA timer besser.
+
+## Reservierung Bestand bei Planung
+
+Wenn ein Auftrag geplant wird, werden die benötigten Produkte im Lager reserviert. Die Priorisierung der Produkte ist oftmals ungünstig. Möchte man diese ändern muss zuerst die Reservierung aufgehoben werden.
+
+**Lösungsansatz 1**
+
+Lager-Reservierungen bei Arbeitsaufträgen sollen bei Ausführung des Lager-Schedulers aufgehoben werden.
+
+## Lieferungen bewerten
+
+Lieferungen können nicht bewertet werden.
+
+## Angebotsanfrage mit Anhang
+
+Den RFQs können keine Portal-Anhänge mitgeschickt werden.
+
+Lösung: Mit Odoo14 geht das, für Odoo 13 kann gemäss Handbuch ein Feld hinzugefügt werden.
+
+## Barcode generieren
+
+Barcodes können nicht automatisch generiert werden.
+
+## Invoicing Type kann nicht geändert werden
+
+Für Timesheet Enträge kann der Abrechnungstyp nicht geändert werden.
+
+
+
+# Resolved
+
 ## Soll-/Haben-Konten vertauscht
 
 Konfiguriert man eine Regel im Modul Personalabrechnung wird im Tab Finanzen zuerst das Soll und dann das Haben angzeigt.
@@ -23,36 +58,7 @@ In der Ansicht der Buchungszeilen erscheint ebenfalls zuerst das Soll und dann d
 
 Fehler ist auch bei Schweizer Partner bekannt.
 
-## Nur ein Timer kann gestartet werden
-
-Nur ein Mitarbeiter kann den Aufgaben-Timer laufen lassen.  
-Funktioniert mit OCA timer besser.
-
-## Fertigung
-
-### Reservierung Bestand bei Planung
-
-Wenn ein Auftrag geplant wird, werden die benötigten Produkte im Lager reserviert. Die Priorisierung der Produkte ist oftmals ungünstig. Möchte man diese ändern muss zuerst die Reservierung aufgehoben werden.
-
-**Lösungsansatz 1**
-
-Lager-Reservierungen bei Arbeitsaufträgen sollen bei Ausführung des Lager-Schedulers aufgehoben werden.
-
-### Lieferungen bewerten
-
-Lieferungen können nicht bewertet werden.
-
-### Angebotsanfrage mit Anhang
-
-Den RFQs können keine Portal-Anhänge mitgeschickt werden.
-
-Lösung: Mit Odoo14 geht das, für Odoo 13 kann gemäss Handbuch ein Feld hinzugefügt werden.
-
-### Barcode generieren
-
-Barcodes können nicht automatisch generiert werden.
-
-# Resolved
+Resolved:  Correct in Odoo 14.
 
 ## Projektstufen verwalten
 

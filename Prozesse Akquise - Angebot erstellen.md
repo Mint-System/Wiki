@@ -1,4 +1,4 @@
-# Angebot erstellen
+# Prozess Angebot erstellen
 
 ## Odoo-Lizenz-Angebot erstellen
 Kontakt mit Odoo-Partner.

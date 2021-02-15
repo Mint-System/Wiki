@@ -1,4 +1,4 @@
-# Server bestellen
+# Prozess Server bestellen
 Bestellen eines [[Server]] bei Infrastruktur.
 
 Arbeitsschritte:

@@ -1,4 +1,4 @@
-# App Einkauf
+# Prozess App Einkauf
 Installation Modul Einkauf (purchase)
 
 ## 1. Erweiterungen installieren

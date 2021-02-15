@@ -1,4 +1,4 @@
-# App Finanzen
+# Prozess App Finanzen
 Installation Modul Finanzen (account_accountant).
 
 ## 1. Erweiterungen installieren

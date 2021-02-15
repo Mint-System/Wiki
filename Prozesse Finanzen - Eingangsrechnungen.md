@@ -1,4 +1,4 @@
-# Eingangsrechnungen
+# Prozess Eingangsrechnungen
 Lieferantenrechnungen verbuchen.
 
 ## Eingangsrechnung erstellen

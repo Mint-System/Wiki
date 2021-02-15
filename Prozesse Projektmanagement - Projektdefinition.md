@@ -1,4 +1,4 @@
-# Projektdefinition
+# Prozess Projektdefinition
 Ein Projekt definieren.
 
 ## Projekt definieren
@@ -9,6 +9,13 @@ Arbeitsschritte:
 * Input-Dokumente ablegen
 * Technische Systeme festhalten
 * Chance Odoo Account Manager erstellen https://www.odoo.com/de_DE/my/opportunities
+
+## Projekt starten
+
+Arbeitsschritte:
+* Initiale Aufgaben erstellen und zuweisen
+* Sicherstellen das Aufwände korrekt verbucht werden
+* 
 
 ## Projektdokumentation vorbereiten
 

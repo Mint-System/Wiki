@@ -1,4 +1,4 @@
-# App Personalabrechnung
+# Prozess App Personalabrechnung
 Installation Modul Personalabrechnung (hr_payroll).
 
 ## Erweiterungen installieren

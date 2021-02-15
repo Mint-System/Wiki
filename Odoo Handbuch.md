@@ -1,5 +1,7 @@
 # Odoo Handbuch
 
-Das Odoo Handbuch ist ein Git-Projekt.
+Website: <https://odoo-erp.ch>
 
-Repository: https://github.com/Mint-System/Odoo-Handbuch
+Das Odoo Handbuch ist ein erweitertes Angebot für unsere Kunden. Die Mint System dokumentiert dort ein Referenzsystem und die dazugehörigen Arbeitsprozesse.
+
+Git-Repository: <https://github.com/Mint-System/Odoo-Handbuch>

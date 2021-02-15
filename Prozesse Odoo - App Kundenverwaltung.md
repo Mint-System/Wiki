@@ -1,4 +1,4 @@
-# App Kundenverwaltung
+# Prozess App Kundenverwaltung
 Installation Modul Kundenverwaltung (crm).
 
 ## 1. Erweiterungen installieren

@@ -1,4 +1,4 @@
-# Ausgangsrechnungen
+# Prozess Ausgangsrechnungen
 Rechnungen erstellen und versenden.
 
 ## Ausgangsrechnung erstellen

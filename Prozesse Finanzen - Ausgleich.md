@@ -1,4 +1,4 @@
-# Ausgleich
+# Prozess Ausgleich
 Kontostand eBanking mit Odoo abgleichen.
 
 ## Kontodaten exportieren

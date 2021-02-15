@@ -1,4 +1,4 @@
-# Odoo Demoumgebung bestellen
+# Prozess Odoo Demoumgebung bestellen
 
 Arbeitsschritte:
 * Aufgabe *Odoo Demoumgebung* von Projektvorlage Akquise duplizieren

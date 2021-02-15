@@ -1,4 +1,4 @@
-# App CRM
+# Prozess App CRM
 Installation Modul CRM (crm)
 
 ## 1. Erweiterungen installieren

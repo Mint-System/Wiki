@@ -1,4 +1,4 @@
-# Server-Zugriff verwalten
+# Prozess Server-Zugriff verwalten
 Zugriff der Benutzer auf Server verwalten.
 
 ## Schlüsselpaar erstellen

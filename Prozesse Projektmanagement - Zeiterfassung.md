@@ -1,4 +1,4 @@
-# Zeiterfassung
+# Prozess Zeiterfassung
 Stundenrapport auf externe und interne Projekte.
 
 ## Aufwand verrechnen

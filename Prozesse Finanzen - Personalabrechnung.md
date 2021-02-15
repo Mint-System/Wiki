@@ -1,4 +1,4 @@
-# Personalabrechnung
+# Prozess Personalabrechnung
 Prozesse zur Personalabrechung der Mint System.
 
 ## Konten einrichten

@@ -1,4 +1,17 @@
-# Entwicklung
+# Prozess Produktionsumgebung bereitstellen
+
+Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung immer verfügbar sein und gesichert sein.
+
+## Initialisierung
+
+Arbeitsschritte:
+* Bereistellen Umgebung gemäss Bestellung
+* Installation initale Apps
+* Konfiugration der Mail-Dienste
+
+## Zugriff Mint System bereitstellen
+
+Das ist eine offene Fragestellung. Siehe [[Design Decisions#Zugriff ohne Benutzerlizenz]].
 
 ## Benutzer aktivieren oder deaktivieren
 

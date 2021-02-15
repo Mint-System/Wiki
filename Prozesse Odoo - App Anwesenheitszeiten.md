@@ -1,4 +1,4 @@
-# App Anwesenheitszeiten
+# Prozess App Anwesenheitszeiten
 Installation Modul Anwesenheitszeiten (hr_attendance)
 
 ## 1. Erweiterungen installieren

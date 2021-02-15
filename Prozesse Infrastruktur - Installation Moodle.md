@@ -1,4 +1,4 @@
-# Installation Moodle
+# Prozess Installation Moodle
 Inbetriebnahme einer Moodle-Installation.
 
 Arbeitsschritte:

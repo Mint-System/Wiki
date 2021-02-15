@@ -1,6 +1,7 @@
-# Odoo bestellen
+# Prozess Odoo bestellen
 Bestellung einer Odoo-Installation.
 
+## Odoo-Instanz bestellen
 Arbeitsschritte:
 * Zusammenstellen Informationen Kunde:
 	* Host: Unter welcher Host-Adresse ist Odoo erreichbar? Beispiel: `erp.example.com`. 

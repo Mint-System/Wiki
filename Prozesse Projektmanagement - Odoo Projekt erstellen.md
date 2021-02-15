@@ -1,4 +1,4 @@
-# Odoo Projekt erstellen
+# Prozess Odoo Projekt erstellen
 Aus einem Angebot ein Projekt erstellen.
 
 Arbeitsschritte:

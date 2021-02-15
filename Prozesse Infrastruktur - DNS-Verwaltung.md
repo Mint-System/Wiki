@@ -1,4 +1,11 @@
-# DNS-Verwaltung
+# Prozess DNS-Verwaltung
+
+## Kunden-DNS integrieren
+
+Arbeitsschritte:
+* Zusammenstellen benötigte DNS-Einträge
+* Zustellen der Liste an Kunde
+* Bei Erhalt Zugangsdaten die Einträge selber erstellen
 
 ## DNS-Einträge erstellen
 Arbeitsschritte:
