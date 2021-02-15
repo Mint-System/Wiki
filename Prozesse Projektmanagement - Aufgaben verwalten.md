@@ -7,7 +7,7 @@ Beim Erstellen einer Aufgabe muss beachtet werden, dass standardmässig ein Auft
 
 ### Haupt- und Unteraufgaben
 
-Alle Unteraufgaben haben Prefix: "OI: ". OI steht in diesem Fall für Odoo Implementierung.  
+Alle Unteraufgaben haben Prefix: `OI: `. OI steht in diesem Fall für Odoo Implementierung.  
 Alle Hauptaufgaben haben am Ende des Namens den Suffix " (OI)" mit den jeweiligen Anfangsbuchstaben.
 
 ![[Prozesse Projektmanagent Unterteilung Aufgaben.png]]
