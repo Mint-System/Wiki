@@ -1,6 +1,6 @@
 # Odoo Upgrade
 
-## Setup test environment
+## Setup upgrade environment
 
 Create new Odoo instance:
 * Create new Odoo host `$ALIAS-14` by copying the folder
@@ -24,7 +24,8 @@ The main challenge of the upgrade process is having the filestore at the right l
 Steps to upgrade a databse.
 
 * Start local development environment
-* Export remote database to local folder and restore database
+* Clear the local filestore and database
+* Export remote database to local folder and restore it
 * Run the upgrade script
 
 ```
@@ -42,6 +43,15 @@ It should automatically restore the database.
 * Upload database to test environment
 
 **Production**
+
+Execute the same steps as for *Tests* except for these changes:
+
+`odoo-upgrade production -d erp -t 14.0`
+
+* Upload database to production environment
+
+In addition you must:
+* Reconnect the [[Odoo Subscription]]
 
 ## Troubleshooting
 
