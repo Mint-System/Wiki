@@ -7,6 +7,10 @@
 
 ## Recipies
 
+### Translate Odoo apps
+
+We use [[Transifex]] for translations.
+
 ### Edit Odoo source in Docker container
 
 Navigate to `/usr/lib/python3/dist-packages/odoo/addons/` and edit source files.

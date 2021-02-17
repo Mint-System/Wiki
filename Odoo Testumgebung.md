@@ -11,4 +11,4 @@ Dementesprechend heissen auch die Datenbanken *erp* und *erp-dev*. Die Datenbank
 
 ![[Odoo Show DB Name.png]]
 
-!> Dies gilt sofern das [[Odoo App - Show DB Name]] installiert ist.
+!> Dies gilt sofern das [[Odoo App Show DB Name]] installiert ist.

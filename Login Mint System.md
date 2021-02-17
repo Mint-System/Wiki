@@ -16,5 +16,6 @@ Aktuell exisiteren die foglenden Realms:
 
 Zur Erfassung des OAuth-Providers stehen diese Informationen zur Verfügung:
 
+* Client ID: odoo.mint-system.ch
 * Authorisierungs URL: https://login.mint-system.ch/auth/realms/mint-system.ch/protocol/openid-connect/auth
 * Validierungs URL: https://login.mint-system.ch/auth/realms/mint-system.ch/protocol/openid-connect/userinfo

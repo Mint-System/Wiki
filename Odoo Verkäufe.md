@@ -34,3 +34,5 @@ Mit der Odoo App [Blanket Sale Orde](https://apps.odoo.com/apps/modules/14.0/dev
 Video zur Odoo App:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GOlRnho-tzI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Mehr zur [[Odoo App Blanket Sale Order]]
