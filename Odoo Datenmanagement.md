@@ -220,6 +220,12 @@ Navigation: *Verkauf > Prodoukte > Produktvarianten*
 
 Die Datei `product.template.csv` importieren.
 
+### Preislisten
+
+Navigation: *Einkauf > Konfiguration > Preislisten*
+
+Die Datei `product.supplierinfo.csv` importieren.
+
 ### Bankverzeichnis
 
 Navigation: *Kontakte > Konfiguration > Bankverzeichnis*
