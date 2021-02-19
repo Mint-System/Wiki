@@ -51,6 +51,7 @@ Temporäre Dateien können hier abgelegt werden.
 Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 
 * Angebot - Angebote der Mint System
+* Akquise - Notizen für Akquisen
 * Archiv - Ablage zur Archivierung
 * Bilder - Fotoalben
 * Corporate Design - Format- und Dokumentvorlagen, Bilder zur Publikation
