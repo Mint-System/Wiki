@@ -12,7 +12,7 @@ Inherited Key: `web.external_layout_standard`
 Priority: 99  
 
 Code:
-```html
+```xml
 <?xml version="1.0"?>
 <data>
   <xpath expr="//li[@t-if='company.website']" position="replace">
@@ -29,7 +29,7 @@ Inherited Key: `account.report_invoice_document`
 Priority: 99  
 
 Code:
-```html
+```xml
 <?xml version="1.0"?>
 <data>
   <xpath expr="//th[@name='th_taxes']" position="replace">
@@ -51,12 +51,27 @@ Inherited Key: `web.brand_promotion_message`
 Priority: 99  
 
 Code:
-```html
+```xml
 <?xml version="1.0"?>
 <data>
   <xpath expr="//t[@name='Brand Promotion Message']" position="replace">
   	<t name="Brand Promotion Message" t-name="web.brand_promotion_message"></t>
   </xpath>
+</data>
+```
+
+### Change unit precision
+
+Name: `Change unit precision`  
+Key: `account.report_invoice_document_unit_precision`  
+Inherited Key: `account.report_invoice_document`  
+
+```xml
+<?xml version="1.0"?>
+<data>
+	  <xpath expr="//tbody[1]/t[3]/tr[1]/t[1]/td[2]/span[1]" position="attributes">
+		<attribute name="t-options-widget">"integer"</attribute>
+	  </xpath>
 </data>
 ```
 
@@ -68,7 +83,7 @@ Key: `website.home`
 Priority: 99  
 
 Code:
-```html
+```xml
 <div id="wrap" class="oe_structure oe_empty">
 	<style>
 	header nav.navbar {  
@@ -88,7 +103,7 @@ Inherited Key: `sale.sale_order_portal_content`
 Priority: 99  
 
 Code:
-```html
+```xml
 <?xml version="1.0"?>
 <data>
   <xpath expr="//td[@id='product_name']" position="replace">
