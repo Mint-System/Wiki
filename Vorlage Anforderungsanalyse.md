@@ -16,3 +16,13 @@ Ein Anforderungsanalyse hat die folgende Struktur:
 	* Tabelle mit Rollen und deren Berechtigungen auf den Geschäftsobjekten
 * Anhang
 	* Dokumente Interview
+
+## Textbausteine
+
+**Systemkontext**
+
+Der Systemkontext stellt eine Abgrenzung des ERP-System zu den Umsystemen dar. Dazu eine Grafik, welche die Odoo-Funktionen im Kontext der Unternehmensorganisation zeigt:
+
+![[Odoo Systemkontext.svg]]
+
+Odoo besteht aus einer Vielzahl an Apps die miteinander gekoppelt werden können. Geschäftsprozesse berühren verschiedene Odoo-Apps und deren Geschäftsobjekte.

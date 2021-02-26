@@ -120,3 +120,19 @@ Phase X: Lager
 * Das Barcode Scanning aktivieren
 
 Ziel: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert
+
+Phase X: Versand
+* Die Lieferfirmen integrieren
+* Die Beauftragung für den Versand einrichten
+
+Ziel: Die Schnittstelle zu den Lieferfirmen ist etabliert
+
+Phase X: Reporting
+* Das Reporting für die Nachkalkulation einrichten
+* Die verschiedenen Dashboards bereitstellen
+
+Ziel: Das Reporting und das Management-Cockpit sind bereit
+
+## Referenzen
+
+Siehe [[Mint System Referenzen]].

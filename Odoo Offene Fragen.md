@@ -57,4 +57,15 @@ Antwort:
 
 Frage: Verwalten von öffentlichen Feiertagen und berücksichtigung in Abwesenheitszeiten.
 
-Antwort:
+Antwort: 
+
+# Einkauf
+
+## Streuanfragen verwalten
+
+## ABC-Kategorien
+
+# Lager
+
+## Serienummer-Range auf Lieferschein
+
