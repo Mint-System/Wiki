@@ -4,9 +4,28 @@ Ad-hoc view extensions to apply specific changes.
 
 ## View
 
+### Remove brand promotion
+
+Name: `remove brand promotion message`  
+Key: `web.brand_promotion_message_remove`  
+Inherited Key: `web.brand_promotion_message`  
+Priority: 99  
+
+Code:
+```xml
+<?xml version="1.0"?>
+<data>
+  <xpath expr="//t[@name='Brand Promotion Message']" position="replace">
+  	<t name="Brand Promotion Message" t-name="web.brand_promotion_message"></t>
+  </xpath>
+</data>
+```
+
+## Reports
+
 ### Replace website url in document footer
 
-Name: `override website url`  
+Name: `Override footer website url`  
 Key: `web.external_layout_standard_company_website`  
 Inherited Key: `web.external_layout_standard`  
 Priority: 99  
@@ -17,6 +36,24 @@ Code:
 <data>
   <xpath expr="//li[@t-if='company.website']" position="replace">
   	<li t-if="company.website" class="list-inline-item d-inline">www.stiärbiär.ch</li>
+  </xpath>
+</data>
+```
+
+### Remove contact info in footer
+
+Name: `Remove footer contact info`  
+Key: `web.external_layout_standard_remove_contact`  
+Inherited Key: `web.external_layout_standard`  
+Priority: 99  
+
+Code:
+```xml
+<?xml version="1.0"?>
+<data>
+  <xpath expr="//li[@t-if='company.phone']" position="replace">
+  </xpath>
+  <xpath expr="//li[@t-if='company.email']" position="replace">
   </xpath>
 </data>
 ```
@@ -43,23 +80,6 @@ Code:
 </data>
 ```
 
-### Remove brand promotion
-
-Name: `remove brand promotion message`  
-Key: `web.brand_promotion_message_remove`  
-Inherited Key: `web.brand_promotion_message`  
-Priority: 99  
-
-Code:
-```xml
-<?xml version="1.0"?>
-<data>
-  <xpath expr="//t[@name='Brand Promotion Message']" position="replace">
-  	<t name="Brand Promotion Message" t-name="web.brand_promotion_message"></t>
-  </xpath>
-</data>
-```
-
 ### Change unit precision
 
 Name: `Change unit precision`  
@@ -72,6 +92,54 @@ Inherited Key: `account.report_invoice_document`
 	  <xpath expr="//tbody[1]/t[3]/tr[1]/t[1]/td[2]/span[1]" position="attributes">
 		<attribute name="t-options-widget">"integer"</attribute>
 	  </xpath>
+</data>
+```
+
+### Zahlungsreferenz entfernen
+
+Name: `Remove payment reference`  
+Key: `account.report_invoice_document_remove_pay_ref`  
+Inherited Key: `account.report_invoice_document`  
+
+```xml
+<?xml version="1.0"?>
+<data>
+  <xpath expr="//p[@name='payment_communication']" position="replace">
+  </xpath>
+</data>
+```
+
+### Change default font size
+
+Name: `Change default font size`  
+Key: `account.report_invoice_document_font_size`  
+Inherited Key: `account.report_invoice_document`  
+
+```xml
+<?xml version="1.0"?>
+<data>
+	<xpath expr="//div[hasclass('page')]" position="inside">
+		<style>
+			body {
+				font-size: 0.9rem;
+			}
+		</style>
+	</xpath>
+</data>
+```
+
+### Add header space
+
+Name: `Add space before header`  
+Key: `account.report_invoice_document_header_space`  
+Inherited Key: `account.report_invoice_document`  
+
+```xml
+<?xml version="1.0"?>
+<data>
+	<xpath expr="//h2" position="attributes">
+		 <attribute name="style">padding-top: 1rem</attribute>
+	</xpath>
 </data>
 ```
 
