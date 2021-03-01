@@ -20,9 +20,9 @@ function sanitizeAssetname(file) {
     return file.toLocaleLowerCase()
         .replace(/\s+/g, '-')
         .replace('---','-')
-        .replace('ö','o')
-        .replace('ü','u')
-        .replace('ä','a')
+        .replace(/ö/g,'o')
+        .replace(/ü/g,'u')
+        .replace(/ä/g,'a')
 }
 
 function convert(content,file) {
