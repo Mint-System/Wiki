@@ -1,6 +1,7 @@
 # Nextcloud
 
-[[Nextcloud Troubleshooting]]
+[[Nextcloud Troubleshooting]]  
+[[Nextcloud Handbuch]]
 
 ## Usage
  
