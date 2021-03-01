@@ -95,7 +95,7 @@ Inherited Key: `account.report_invoice_document`
 </data>
 ```
 
-### Zahlungsreferenz entfernen
+### Remove payment reference
 
 Name: `Remove payment reference`  
 Key: `account.report_invoice_document_remove_pay_ref`  
