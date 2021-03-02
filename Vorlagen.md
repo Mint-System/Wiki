@@ -1,6 +1,7 @@
 # Vorlagen
 
 [[Vorlage Angebot]]  
-[[Vorlage Konzept]]
+[[Vorlage Konzept]]  
 [[Vorlage Anforderungsanalyse]]  
-[[Vorlage Aufwandsschätzung]]
+[[Vorlage Aufwandsschätzung]]  
+[[Vorlage Phase]]  

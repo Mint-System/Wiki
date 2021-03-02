@@ -54,7 +54,7 @@ Phase X: Initialisierung
 
 Ziel: Initialisierungs-Daten stehen in Odoo zur Verfügung
 
-Phase X: Finanzen
+[[Phase Finanzen|Phase X: Finanzen]]
 * Den Kontenplan einrichten
 * Die Mehrwertsteuersätze einrichten
 * Die Journale einrichten
@@ -63,7 +63,7 @@ Phase X: Finanzen
 
 Ziel: Interne Buchhaltung erfolgt mittels Odoo
 
-Phase X: Fertigung
+[[Phase Fertigung|Phase X: Fertigung]]
 * Die Arbeitsplätze erfassen
 * Alle Produkte importieren
 * Die Fertigungs-Routen definieren
@@ -72,7 +72,7 @@ Phase X: Fertigung
 
 Ziel: Alle Daten zum Fertigen der Produkte sind bereit
 
-Phase X: Personalabrechnung
+[[Phase Lohnabrechnung|Phase X: Personalabrechnung]]
 * Das Personal erfassen
 * Die Verträge erfassen und zuweisen
 * Die Abzüge der Arbeitgeber/Arbeitnehmer in den Stammdaten eintragen
@@ -80,14 +80,14 @@ Phase X: Personalabrechnung
 
 Ziel: Lohnabrechnung mit Odoo
 
-Phase X: Verkäufe und Einkauf
+[[Phase Verkäufe und Einkauf|Phase X: Verkäufe und Einkauf]]
 * Die Lieferanten Preislisten importieren
 * Lead-Times festlegen
 * Mindestbestandsregeln einrichten
 
 Ziel: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit
 
-Phase X: Webshop
+[[Phase Webshop|Phase X: Webshop]]
 * Den Seitenaufbau definieren (Startseite und weitere Seiten)
 * Das Layout (Farbkonzept, Schriftarten) bestimmen
 * Die Inhalte erfassen
@@ -97,14 +97,14 @@ Phase X: Webshop
 
 Ziel: Es sind Produkte der Stiär Biär im Webshop bestellbar
 
-Phase X: Projekt
+[[Phase Projekt|Phase X: Projekt]]
 * Projekt-Berichte konfigurieren
 * Die Hauptaufgaben - Unteraufgaben Struktur definieren
 *  Projekt-Templates einrichten
 
 Ziel: Alle Daten zum Starten und Überwachen der Projekte sind bereit
 
-Phase X: Zeiterfassung
+[[Phase Zeiterfassung|Phase X: Zeiterfassung]]
 * Alle persönlichen Verträge einrichten
 * Den Freigabe-Workflow konfigurieren
 * Den anwendbaren Feiertagskalender importieren
@@ -112,7 +112,7 @@ Phase X: Zeiterfassung
 
 Ziel: Die Kalender und Verträge sind für Arbeitszeit-Rapportierung bereit
 
-Phase X: Lager
+[[Phase Lager|Phase X: Lager]]
 * Alle Lager und Lagerorte einrichten
 * Die Lager-Routen definieren
 * Die Lager beschriften
@@ -121,7 +121,7 @@ Phase X: Lager
 
 Ziel: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert
 
-Phase X: Versand
+[[Phase Versand|Phase X: Versand]]
 * Die Lieferfirmen integrieren
 * Die Beauftragung für den Versand einrichten
 

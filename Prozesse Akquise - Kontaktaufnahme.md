@@ -1,4 +1,4 @@
-# Prozess Kontakaufnahme
+# Prozess Kontaktaufnahme
 Kontaufnahme mit dem Kunden.
 
 ## Kalt-Akquise
