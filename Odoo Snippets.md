@@ -143,6 +143,26 @@ Inherited Key: `account.report_invoice_document`
 </data>
 ```
 
+### Append delivery document description
+
+Name: `Append description to delivery document`  
+Key: `stock.report_delivery_document_description`  
+Inherited Key: `stock.report_delivery_document`  
+
+```xml
+<?xml version="1.0"?>
+<data>
+	<xpath expr="/t/t/t/div/table[1]" position="after">
+		<p>Retouren:<br/>
+		KEG:             ___________  Anzahl<br/>
+		Harassen:  ___________  Anzahl<br/>
+		<br/>
+		Waren erhalten:  Datum:  ___________  Unterschrift:  ______________________
+		</p>
+	</xpath>
+</data>
+```
+
 ## Website
 
 ### Remove header navigation for a page
