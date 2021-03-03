@@ -1,4 +1,4 @@
-# Odoo Shell
+# Odoo Shell Scripts
 
 ## Commands
 

@@ -11,5 +11,6 @@ Wir bieten diese Projektphasen an:
 * [[Phase Webshop]]
 * [[Phase Verkäufe und Einkauf]]
 * [[Phase Versand]]
+* [[Phase Odoo Entwicklung]]
 
 Die Phasen basieren auf der [[Vorlage Phase]].

@@ -1,4 +1,4 @@
-# Odoo Snippets
+# Odoo XML Snippets
 
 Ad-hoc view extensions to apply specific changes.
 

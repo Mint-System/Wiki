@@ -133,6 +133,13 @@ Phase X: Reporting
 
 Ziel: Das Reporting und das Management-Cockpit sind bereit
 
+[[Phase Odoo Entwicklung|Phase x: Odoo Entwicklung]]
+* Erstellen technische Spezifikation
+* Kick-Off mit externen Odoo Entwickler
+* Kontinuierliche Integration und Testen der Lösung
+
+Ziel: Odoo Entwicklung validiert
+
 ## Referenzen
 
 Siehe [[Mint System Referenzen]].

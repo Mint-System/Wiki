@@ -1,10 +1,11 @@
 # Odoo Development Environment
 
-[[Odoo Shell]]  
-[[Odoo Scripts]]  
+[[Odoo Shell Scripts]]  
+[[Odoo Bash Scripts]]  
 [[Odoo Revisions]]  
-[[Odoo Snippets]]  
-[[Odoo Reports]]
+[[Odoo XML Snippets]]  
+[[Odoo Reports]]  
+[[Odoo SQL Scripts]]  
 
 ## Recipies
 
