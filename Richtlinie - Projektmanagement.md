@@ -45,7 +45,8 @@ tmp/ | Temporäre Daten die gelöscht werden dürfen, werden hier abgelegt
 
 ### Projektphasen
 
-* Anforderungen
-* Entwicklung
-* Migration
-* Abnahme
+Projektphasen sind analog [[Phasen]].
+
+## Projektdaten Teilen
+
+Projektordner dürfen mit Kunden geteilt werden. Die Teilung erfolgt mittels [[Nextcloud]]-Link.
