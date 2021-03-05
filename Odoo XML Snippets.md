@@ -138,7 +138,7 @@ Inherited Key: `account.report_invoice_document`
 <?xml version="1.0"?>
 <data>
 	<xpath expr="//h2" position="attributes">
-		 <attribute name="style">padding-top: 1rem</attribute>
+		 <attribute name="style">padding-top: 2rem</attribute>
 	</xpath>
 </data>
 ```
