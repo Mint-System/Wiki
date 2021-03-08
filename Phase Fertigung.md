@@ -12,7 +12,6 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 - Welche Arbeitsplätze gibt es und wie heissen sie?
 
-
 **Code**
 
 - Wie sind die Arbeitsplätze codiert?
@@ -28,7 +27,6 @@ Für die Stufe 1 werden die Produktinformationen definiert, die aus dem Prozess 
 **Produktname**
 
 - Mit welchem Namen soll das Produkt erscheinen?
-
 
 **Abbildung**
 

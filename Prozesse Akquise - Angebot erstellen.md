@@ -113,7 +113,7 @@ Reisezeit und Kilometer werden pauschal zu CHF verrechnet.
 Keine Spesen:  
 Für die Projektarbeit und Reiszeit werden keine Spesen verrechnet.
 
-## Bedingungen und Konditionen in Englischer Sprache
+## Terms and Conditions
 
 Changes: 
 If changes become apparent in the course of the project work which are not part of the offer, the customer will be informed promptly by the contractor. 

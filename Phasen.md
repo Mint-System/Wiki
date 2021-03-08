@@ -2,6 +2,7 @@
 
 Wir bieten diese Projektphasen an:
 
+* [[Phase Produktentwicklung]]
 * [[Phase Fertigung]]
 * [[Phase Lager]]
 * [[Phase Finanzen]]

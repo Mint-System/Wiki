@@ -4,12 +4,17 @@ Regelt die Zusammenarbeit mit externen Kunden und internen Mitarbeiter.
 
 ## Intern
 
-Dokumente werden mit [[OnlyOffice]] auf der Nextcloud erstellt.
+Dokumente werden mit [[OnlyOffice]] auf der Nextcloud erstellt und können gemeinsam direkt bearbeitet werden.
 
 ## Extern
 
-Projektordner dürfen mit Dritten geteilt werden. Entweder erstellt man dazu einen Sharing-Link oder man erstellt einen Benutzer auf der Nextcloud.
+Projektordner dürfen**nicht** mit Dritten geteilt werden. Wenn man mit Externen ein Projekt teilen möchte muss dieses aufgeteilt werden.
+
+Beispielsweise existieren für das Projekt *ERP Velomanufaktur AG* diese Ordner:
+
+* ERP Velomanufaktur AG Private
+* ERP Velomanufaktur AG Public
 
 **Gruppenberechtigungen**
 
-Die externen Benutzer sind mitgleider einer Gruppe deren Name gleich dem Projekt ist. Die Freigabe von Dokumente erfolgt mittels des Gruppennamen.
+Die externen Benutzer sind mitgleider einer Gruppe deren Name gleich dem Projekt ist. In diesem Fall wäre es `ERP Velomanufaktur AG`. Die Freigabe des `Public`-Ordners erfolgt mittels dieser Gruppe.

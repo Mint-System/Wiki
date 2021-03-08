@@ -72,6 +72,9 @@ Ziel: Interne Buchhaltung erfolgt mittels Odoo
 
 Ziel: Alle Daten zum Fertigen der Produkte sind bereit
 
+[[Phase Produktentwicklung|Phase X: Produktentwicklung]]
+* 
+
 [[Phase Lohnabrechnung|Phase X: Personalabrechnung]]
 * Das Personal erfassen
 * Die Verträge erfassen und zuweisen
