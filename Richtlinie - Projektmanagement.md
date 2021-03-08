@@ -1,4 +1,5 @@
 # Richtlinie - Projektmanagement
+Übersetung EN: [[Policy - Project Management]]
 
 Die Umsetzung von Projekten unterliegt bestimmten Richlinien.
 
@@ -11,9 +12,10 @@ Der Projektordner soll immer gleich aussehen und so die projektübergreifende Na
 Ordner / Dokument | Beschreibung
 -|-
 Readme.md | Projektbeschreibung und Orientierung für Mitarbeiter
-Projektplan.ext | Dokument mit Zeitplan
+Kick-Off | Informationen zum Projekt Kick-Off
+Kick-Off/Projektplan.ext | Dokument mit Zeitplan
 Notizen/ | Ordner für Notizedokumente der Mitarbeiter
-Dokumentation/ | Projektdokumentationen
+Docs/ | Projektdokumentationen
 Meta/ | Verträge, Bestellungen, NDAs
 Meta/Konzept.ext | Projektkonzept mit Planung
 Slides/ | Dokumente für Präsentation
@@ -28,7 +30,7 @@ Angebot/ | Dokumente Angebotserstellung
 
 Ordner / Dokument | Beschreibung
 -|-
-PhaseN/ | Ordner mit Inhalt der jeweiligen Projektphase
+PhaseNN NAME/ | Ordner mit Inhalt der jeweiligen Projektphase
 Prozess/ | Ordner für Korrespondenz und Projektdaten
 Input/ | Dokumente des Kunden werden hier abgelegt
 Output/ | Deliverable, die an den Kunden gehen

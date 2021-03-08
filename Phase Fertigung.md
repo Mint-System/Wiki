@@ -2,9 +2,9 @@
   
 Für praktisch alle Aspekte der Implementierung ist es wichtig, dass Produkte im System vorhanden sind. Deshalb werden bereits in der ersten Phase die Produkte thematisiert. Etwas speziell ist, dass bereits im ersten Schritt die Arbeitsplätze eingerichtet werden. Weil sie zur Definition der Vorgänge in den Stücklisten benötigt werden, wird dieses Thema bereits zu Beginn thematisiert.
 
-## Arbeitsplätze einrichten
+## Arbeitsplätze anlegen
 
-Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie frühzeitig definiert werden.
+Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie frühzeitig angelegt werden.
 
 ### Analyse
 
@@ -12,16 +12,12 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 - Welche Arbeitsplätze gibt es und wie heissen sie?
 
-**Alternative Arbeitsplätze**
-
-- Ist die Systematik der alternativen Arbeitsplätze anwendbar?  
-  {Systematik?}
 
 **Code**
 
 - Wie sind die Arbeitsplätze codiert?
 
-## Produkte einrichten
+## Produkte anlegen
 
 Aus dem [Prozess Entwicklung](https://odoo-erp.ch/prozess-entwicklung.html) resultieren Design\-Daten, welche die Produkte definieren (siehe [Item Structure](https://odoo-erp.ch/best-practice-item-structure.html)). Es werden Produktionsunterlagen erstellt und alle notwendigen Ressourcen für die Fertigung bereitgestellt.
 
@@ -33,11 +29,6 @@ Für die Stufe 1 werden die Produktinformationen definiert, die aus dem Prozess 
 
 - Mit welchem Namen soll das Produkt erscheinen?
 
-In verschiedenen Darstellungen erscheint die Produktbezeichnung als zusammengesetzter Text in der Form \[Interne Referenz\] Produktname.
-
-Zum Beispiel als Beschreibung auf einem Angebot.
-
-![[Produktname.png]]
 
 **Abbildung**
 
@@ -56,10 +47,6 @@ Zum Beispiel als Beschreibung auf einem Angebot.
 - Wie werden die Produkte in der Lagerverwaltung berücksichtigt?
 
 [Erklärung im Handbuch](https://odoo-erp.ch/fertigung-stammdaten.html#produktart)
-
-**Produktkategorie**
-
-- Welche Möglichkeiten bieten die Produktkategorien?
 
 **Interne Referenz**
 
