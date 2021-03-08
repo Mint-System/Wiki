@@ -13,8 +13,8 @@ Projektordner dürfen**nicht** mit Dritten geteilt werden. Wenn man mit Externen
 Beispielsweise existieren für das Projekt *ERP Velomanufaktur AG* diese Ordner:
 
 * ERP Velomanufaktur AG Private
-* ERP Velomanufaktur AG Public
+* ERP Velomanufaktur AG Shared
 
 **Gruppenberechtigungen**
 
-Die externen Benutzer sind mitgleider einer Gruppe deren Name gleich dem Projekt ist. In diesem Fall wäre es `ERP Velomanufaktur AG`. Die Freigabe des `Public`-Ordners erfolgt mittels dieser Gruppe.
+Die externen Benutzer sind mitgleider einer Gruppe deren Name gleich dem Projekt ist. In diesem Fall wäre es `ERP Velomanufaktur AG`. Die Freigabe des `Shared`-Ordners erfolgt mittels dieser Gruppe.
