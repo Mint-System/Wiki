@@ -65,15 +65,23 @@ Ziel: Interne Buchhaltung erfolgt mittels Odoo
 
 [[Phase Fertigung|Phase X: Fertigung]]
 * Die Arbeitsplätze erfassen
-* Alle Produkte importieren
 * Die Fertigungs-Routen definieren
-* Stücklisten und Arbeitspläne erfassen
+* Arbeitspläne erfassen
 * Notwendige Qualitätsschritte einfügen
 
 Ziel: Alle Daten zum Fertigen der Produkte sind bereit
 
 [[Phase Produktentwicklung|Phase X: Produktentwicklung]]
-* 
+* Alle Produkte importieren
+* Stücklisten definieren
+
+Ziel: Alle Produkte sind definiert
+
+[[Phase Produktionsplanung|Phase X: Produktionsplanung]]
+* Sicherhehits-Vorlaufzeiten sammeln
+* Kapazitäten der Arbeitsplätze definieren
+
+Ziel: Produktionsabläufe können geplant werden.
 
 [[Phase Lohnabrechnung|Phase X: Personalabrechnung]]
 * Das Personal erfassen
