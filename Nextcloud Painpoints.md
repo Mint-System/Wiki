@@ -4,4 +4,4 @@
 
 The draw.io plugin is not working for shared folders.
 
-Issue: <https://github.com/pawelrojek/nextcloud-drawio/issues/105>window.REMARK42.changeTheme('light');
+Issue: <https://github.com/pawelrojek/nextcloud-drawio/issues/105>
