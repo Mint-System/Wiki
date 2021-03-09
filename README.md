@@ -8,7 +8,7 @@ Sie ist als Git Repository unter <https://github.com/Mint-System/Knowledge> geho
 
 ## Darstellung
 
-Die Wissensdatenbank wird mit [[Docsify]] visualisiert.
+Die Wissensdatenbank wird mit [[Vuepress]] visualisiert.
 
 ## Bearbeitung
 
@@ -16,7 +16,7 @@ Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert s
 
 Zur lokalen Bearbeitung erstellt man einen Klon des Git Repo `git clone git@github.com:Mint-System/Knowledge.git` und öffnet den Ordner als Obsidian-Vault.
 
-Mehr zur gemeinsamen Bearbeitung gibt es unter [[Contribution]]. 
+Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]]. 
 
 ## Struktur
 

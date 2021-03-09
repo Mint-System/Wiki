@@ -1,5 +1,5 @@
 # Richtlinie - Projektmanagement
-Übersetung EN: [[Policy - Project Management]]
+Übersetzung en_GB: [[Policy - Project Management]]
 
 Die Umsetzung von Projekten unterliegt bestimmten Richlinien.
 
@@ -11,10 +11,10 @@ Der Projektordner soll immer gleich aussehen und so die projektübergreifende Na
 
 Ordner / Dokument | Beschreibung
 -|-
-Readme.md | Projektbeschreibung und Orientierung für Mitarbeiter
+README.md | Projektbeschreibung und Orientierung für Mitarbeiter
 Kick-Off | Informationen zum Projekt Kick-Off
 Kick-Off/Projektplan.ext | Dokument mit Zeitplan
-Notizen/ | Ordner für Notizedokumente der Mitarbeiter
+Notizen/(*Notes/*) | Ordner für Notizedokumente der Mitarbeiter
 Docs/ | Projektdokumentationen
 Meta/ | Verträge, Bestellungen, NDAs
 Meta/Konzept.ext | Projektkonzept mit Planung
@@ -22,7 +22,7 @@ Slides/ | Dokumente für Präsentation
 Slides/Präsentation.ext | Präsentation bei Kunde
 Meeting/ | Meeting-Notizen werden in diesem Ordner abgelegt
 Workshop/ | Dokumente zum Workshop
-Anforderungen/ | Dokumente zur Anforderungsanalyse
+Anforderungen/(*Requirements/*) | Dokumente zur Anforderungsanalyse
 Anforderungen/Anforderungen.ext | Dokument mit Anforderungsanalyse
 Angebot/ | Dokumente Angebotserstellung
 

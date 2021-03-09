@@ -1,7 +1,8 @@
 # Nextcloud
 
 [[Nextcloud Troubleshooting]]  
-[[Nextcloud Handbuch]]
+[[Nextcloud Handbuch]]  
+[[Nextcloud Painpoints]]
 
 ## Usage
  
