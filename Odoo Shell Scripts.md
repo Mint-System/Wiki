@@ -23,7 +23,7 @@ Uninstall app.
 env['ir.module.module'].search([('name', '=', 'certificate_planer')]).button_immediate_uninstall()
 ```
 
-List all inactive users
+List all inactive users.
 ```
 users=self.env['res.users'].search([('active', '=', False)])
 for user in users:
@@ -31,7 +31,6 @@ for user in users:
 ```
 
 Enable user.
-
 ```py
 user = self.env['res.users'].search([('active', '=', False),('login', '=', 'janik.vonrotz@mint-system.ch')])
 user.active = True
