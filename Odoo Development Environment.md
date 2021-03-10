@@ -6,6 +6,7 @@
 [[Odoo XML Snippets]]  
 [[Odoo Reports]]  
 [[Odoo SQL Scripts]]  
+[[Update custom Odoo module]]
 
 ## Recipies
 

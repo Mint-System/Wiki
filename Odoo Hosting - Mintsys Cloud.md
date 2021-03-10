@@ -1,6 +1,6 @@
 # Odoo Hosting in der Mintsys Cloud
 
-Vollständige Kontrolle über die Odoo-Installation. Ist immer billiger als [[Odoo Hosting - Odoo.sh]].
+Vollständige Kontrolle über die Odoo-Installation. Ist immer kostengünstiger als [[Odoo Hosting - Odoo.sh]].
 
 ## Vorteile
 
@@ -19,6 +19,10 @@ Tägliche Sicherung der Odoo Datenbanken.
 **Akualisierung Odoo Module**
 
 Aktuaisierung in der Odoo Community Edition und den Enterprise Modulen werden fortlaufend installiert.
+
+**Enterprise Upgrade**
+
+Das Upgrade der Odoo Enterprise Datenbank auf eine neue Odoo Version ist Hosting mitinbegriffen.
 
 **Umfassender Anwendungsschutz**
 
