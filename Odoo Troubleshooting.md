@@ -79,26 +79,28 @@ sudo sysctl fs.inotify.max_user_watches=524288
 **Problem**
 
 ```
-It is not possible to unreserve more products of NAME than you have in stock.
+It is not possible to unreserve more products of $PRODUCT_NAME than you have in stock.
+Es ist nicht möglich, die Reservierung für mehr Produkte von $PRODUKTNAME auzuheben als im Lager vorhanden sind.
 ```
 
 **Solution**
 
 See here: <https://www.odoo.com/de_DE/forum/hilfe-1/it-is-not-possible-to-unreserve-more-products-of-than-you-have-in-stock-138783>
 
-1 Enable debug mode  
-2 Open technical > server actions  
-3 Click create  
-4Set  action name: e.g. report unreserved qty  
-5 Select model: ir.actions.server  
-6 Set action to do: "execute python code"  
-7 Copy/paste the fix underneath the pre-existing code  
-8 Click "save"   
-9 Start the acction  
-10 Wait for log message  
-11 Click action > delete  
+1. Enable debug mode  
+2. Open technical > server actions  
+3. Click create  
+4. Set  action name: e.g. report unreserved qty  
+5. Select model: ir.actions.server  
+6. Set action to do: "execute python code"  
+7. Copy/paste the fix underneath the pre-existing code  
+8. Click "save"   
+9. Start the action  
+10. Wait for log message  
 
 The script <https://gist.github.com/amoyaux/279aee13eaddacbddb435dafbc0a6295>.
+
+**report unreserved qty**
 
 ```py
 quants = env['stock.quant'].search([])
@@ -174,13 +176,12 @@ The next script will resolve the issues:
 
 **fix unreserved qty**
 
+Run as superuser.
+
 ```py
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
 quants = env['stock.quant'].search([])
-
 move_line_ids = []
-
 warning = ''
 
 for quant in quants:
@@ -192,87 +193,49 @@ for quant in quants:
         ('package_id', '=', quant.package_id.id),
         ('owner_id', '=', quant.owner_id.id),
         ('product_qty', '!=', 0),
-        ])
+    ])
 
     move_line_ids += move_lines.ids
-
     reserved_on_move_lines = sum(move_lines.mapped('product_qty'))
-
-    move_line_str = str.join(', ', [str(move_line_id)
-                             for move_line_id in move_lines.ids])
+    move_line_str = str.join(', ', [str(move_line_id) for move_line_id in move_lines.ids])
 
     if quant.location_id.should_bypass_reservation():
-
         # If a quant is in a location that should bypass the reservation, its `reserved_quantity` field
-
         # should be 0.
-
         if quant.reserved_quantity != 0:
-
             quant.write({'reserved_quantity': 0})
     else:
-
         # If a quant is in a reservable location, its `reserved_quantity` should be exactly the sum
-
         # of the `product_qty` of all the partially_available / assigned move lines with the same
-
         # characteristics.
-
         if quant.reserved_quantity == 0:
-
             if move_lines:
-
                 move_lines.with_context(bypass_reservation_update=True).write({'product_uom_qty': 0})
         elif quant.reserved_quantity < 0:
-
             quant.write({'reserved_quantity': 0})
-
             if move_lines:
-
                 move_lines.with_context(bypass_reservation_update=True).write({'product_uom_qty': 0})
         else:
-
             if reserved_on_move_lines != quant.reserved_quantity:
-
                 move_lines.with_context(bypass_reservation_update=True).write({'product_uom_qty': 0})
-
                 quant.write({'reserved_quantity': 0})
             else:
-
-                if any(move_line.product_qty < 0 for move_line in
-                       move_lines):
-
+                if any(move_line.product_qty < 0 for move_line in move_lines):
                     move_lines.with_context(bypass_reservation_update=True).write({'product_uom_qty': 0})
-
                     quant.write({'reserved_quantity': 0})
 
-move_lines = env['stock.move.line'].search([('product_id.type', '=',
-        'product'), ('product_qty', '!=', 0), ('id', 'not in',
-        move_line_ids)])
-
+move_lines = env['stock.move.line'].search([('product_id.type', '=', 'product'), ('product_qty', '!=', 0), ('id', 'not in', move_line_ids)])
 move_lines_to_unreserve = []
-
 for move_line in move_lines:
-
     if not move_line.location_id.should_bypass_reservation():
-
         move_lines_to_unreserve.append(move_line.id)
 
 if len(move_lines_to_unreserve) > 1:
-
     env.cr.execute(""" 
-
             UPDATE stock_move_line SET product_uom_qty = 0, product_qty = 0 WHERE id in %s ;
-
-        """
-                   % (tuple(move_lines_to_unreserve), ))
+        """ % (tuple(move_lines_to_unreserve), ))
 elif len(move_lines_to_unreserve) == 1:
-
     env.cr.execute(""" 
-
         UPDATE stock_move_line SET product_uom_qty = 0, product_qty = 0 WHERE id = %s ;
-
-        """
-                   % move_lines_to_unreserve[0])
-
+        """ % move_lines_to_unreserve[0])
 ```
