@@ -24,8 +24,8 @@ Applikationen, die dieses Prinzip erfüllen, bauen auf bestimmten Technologien a
 
 ## Solid
 
-Gegründet vom Erfinder des Internets [Sir Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) als Initiative um die Privatsphäre der Internetanwender wiederherzustellen, stellt Solid sicher, dass Daten dezentral und sicher gespeichert werden. Im Zentrum der [Solid-Spezifikation](https://solidproject.org/TR/protocol) stehen sogennante Pods. Pods sind persönliche Server für Daten. Der Besitzer entscheidet wie er mit anderen Nutzer und Anwendungen seine Daten teilen möchte.
+Gegründet vom Erfinder des Internets [Sir Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) als Initiative um die Privatsphäre der Internetanwender wiederherzustellen, stellt Solid sicher, dass Daten dezentral und sicher gespeichert werden. Im Zentrum der [Solid-Spezifikation](https://solidproject.org/TR/protocol) stehen die sogennante Pods. Pods sind persönliche Server für Daten. Der Besitzer entscheidet wie er mit anderen Nutzern und Anwendungen seine Daten teilt.
 
-Wenn Applikationen nach diesem Prinzip entwickelt werden, entfällt nicht nur die Problematik des Datenschutzes, es entsteht auch eine Umgebung wo Benutzer ohne Anstrenung ihre Daten verschieben und Anbieter wechseln können.
+Wenn Applikationen nach diesem Prinzip entwickelt werden, entfällt nicht nur die Problematik des Datenschutzes, es entsteht auch eine Umgebung wo Benutzer ohne Anstrengung ihre Daten verschieben und Anbieter wechseln können.
 
 Natürlich entstehen in diesem Zusammenhang neue Herausforderungen. Es müssen sinnvolle ökonomische Anreize zur Entwicklung dieser Applikationen geschaffen werden. Der Handel mit Daten ist ein lukratives Geschäft auf Kosten der Privatsphäre. Vielleicht hilft hier ein Paradigmenwechsel.
