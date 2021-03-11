@@ -1,6 +1,6 @@
 # Paradigmenwechsel im Umgang mit Daten
 
-Das Thema Datenschutz ist in aller Munde. Private und sensible Daten müssen adequat geschützt werden. Beim Betrieb eines ERP-System fallen sensible sowie private Daten an. Mit verschiedenen Massnahmen wie beispielsweise der laufenden Aktualisierung der Software, stellt die Mint System sicher, dass kein Datenleck entsteht.
+Das Thema Datenschutz ist in aller Munde. Private und sensible Daten müssen adequat geschützt werden. Beim Betrieb eines ERP-System fallen sensible sowie private Daten an. Mit verschiedenen Massnahmen wie beispielsweise der laufenden Aktualisierung der Software, stellt auch die Mint System sicher, dass kein Datenleck entsteht.
 
 Über den Umgang mit privaten Daten wird in der Öffentlichkeit kontrovers diskutiert. Jeder äussert Bedenken zum Umgang mit privaten Daten, die meisten geben diese jedoch bedenkenlos über Social Media an Dritte weiter. Eine Kontroverse die man oft im Raum stehen lässt.
 
