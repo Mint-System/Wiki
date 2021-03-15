@@ -32,5 +32,13 @@ Der Nachteil liegt daran, dass das Unternehmen die bezahlten MWST der Einkäufe 
 Da Mint System nach Saldosteuersatz abrechnen (5.9%) und somit den Einkauf nicht abziehen kann, ergibt sich jeweils eine Differenz von 1.8%. Bei einem Projekt mit externen Dienstleistungen (Debitoren) von zum Beispiel CHF 40'000 sind dies CHF 2'360 die Mint System so statt CHF 0 der MWST abliefert. Auch wenn die Dienstleistung mit CHF 40'000 weiterverrechnet (Kreditoren) wird. 
 
 
+## Fakturierung von Dienstleistungen im Ausland
+Bei einer Dienstleistung im Ausland fragt es sich, ob die Fakturierung auch inkl. Mehrwertsteuer sein muss. Und wenn ja, mit welchen Steuersatz.
 
-
+Zuerst wird betrachtet, wie die Leistungen zustande kommen: 
+Voneinander unabhängige Leistungen werden selbstständig behandelt (Art. 19 Abs. 1 MWSTG). Hingegen gelten Leistungen, die wirtschaftlich eng zusammengehören und so ineinander greifen, dass sie als unteilbares Ganzes anzusehen sind, als ein einheitlicher wirtschaftlicher Vorgang und sind nach dem Charakter der Gesamtleistung zu behandeln (Art. 19 Abs. 3 MWSTG).  
+  
+Bei den erbrachten Leistungen der Mint System GmbH handelt es sich um Leistungen im Zusammenhang mit der Implementierung einer ERP-Software (Produkteeinführung, Beratung über den Einsatz der Software im Unternehmen, Schulung der Mitarbeiter) beim ausländischen Kunden. Davon ausgehend, dass die Leistungen wirtschaftlich eng zusammengehören und so ineinander greifen, dass sie als unteilbar Ganzes anzusehen sind, folglich als einheitlicher wirtschaftlicher Vorgang gelten und nach dem Charakter der Gesamtleistung zu beurteilen sind, *gilt als Ort der Leistung der Ort, an dem der Leistungsempfänger seinen Sitz hat (Art. 8 Abs. 1 MWSTG)*.
+Die Leistung kann dem Kunden ohne Ausweis der schweizerischen MWST in Rechnung gestellt werden. Der Nachweis erfolgt buch- und belegmässig (Verträge, Rechnungen usw.).  
+  
+Im MWST-Abrechnungsformular ist zwar das vereinnahmte Entgelt in Ziff. 200 zu deklarieren, kann aber vom steuerbaren Umsatz wieder in Abzug gebracht werden (Ziff. 230, Leistungen im Ausland).

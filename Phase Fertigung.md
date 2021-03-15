@@ -16,45 +16,9 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 - Wie sind die Arbeitsplätze codiert?
 
-## Produkte anlegen
-
-Aus dem [Prozess Entwicklung](https://odoo-erp.ch/prozess-entwicklung.html) resultieren Design\-Daten, welche die Produkte definieren (siehe [Item Structure](https://odoo-erp.ch/best-practice-item-structure.html)). Es werden Produktionsunterlagen erstellt und alle notwendigen Ressourcen für die Fertigung bereitgestellt.
-
-Für die Stufe 1 werden die Produktinformationen definiert, die aus dem Prozess "Entwicklung" resultieren.
+## Produkte anlegen (Stufe 3)
 
 ### Analyse
-
-**Produktname**
-
-- Mit welchem Namen soll das Produkt erscheinen?
-
-**Abbildung**
-
-- Werden die Produkte mit einem Bild hinterlegt?
--  Können die zugeordneten Bilder importiert werden?
-
-**Verkaufsartikel/Einkaufsartikel**
-
-- Welche Produkte können verkauft werden?
-- Welche Produkte können eingekauft werden?
- 
- [Erklärung im Handbuch](https://odoo-erp.ch/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
-
-**Produktart**
-
-- Wie werden die Produkte in der Lagerverwaltung berücksichtigt?
-
-[Erklärung im Handbuch](https://odoo-erp.ch/fertigung-stammdaten.html#produktart)
-
-**Interne Referenz**
-
-- Mit welchem Namen soll das Produkt erscheinen? (siehe oben)
-
-**Strichcode**
-
-- Wie setzt sich der Barcode zusammen?
-  
-[Erklärung im Handbuch](https://odoo-erp.ch/strichcode.html#strichcode)
 
 **Verkaufspreis**
 

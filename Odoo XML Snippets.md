@@ -200,3 +200,27 @@ Code:
 </data>
 ```
 
+## Portal
+
+### Show billable field for timesheet entries
+
+Name: `Show billable on timesheet table`   
+Key: `portal_my_timesheets_show_billable`  
+Inherited Key: `portal_my_timesheets`  
+Priority: 99
+
+Code:
+```xml
+<?xml version="1.0"?>
+<data>
+
+  <xpath expr="//thead/tr/th[4]" position="after">
+  	<th>Invoice Type</th>
+  </xpath>
+	
+  <xpath expr="//tbody/t/tr/td[3]" position="after">
+  	<td><span t-field="timesheet.timesheet_invoice_type"/></td>
+  </xpath>
+	
+</data>
+```

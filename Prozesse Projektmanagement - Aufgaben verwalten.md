@@ -24,6 +24,7 @@ Alle Hauptaufgaben haben am Ende des Namens den Suffix " (OI)" mit den jeweilige
 * Anforderungsanalyse (AA) - Anforderungen definieren
 * Projektadministration (PA) - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts
 * Know-how (KH) - Erarbeiten Basiswissen zur Beratung von Kunden
+* Reisezeit (RZ) - Fahrzeit zum Kunden
 
 ## Aufgabenstatus festlegen
 
