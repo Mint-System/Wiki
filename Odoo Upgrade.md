@@ -32,8 +32,9 @@ Steps to upgrade a databse.
 export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
+export DATABASE=erp
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
-odoo-upgrade test -d erp -t 14.0
+odoo-upgrade test -d $DATABASE -t 14.0
 ```
 
 It should automatically restore the database.
@@ -46,7 +47,7 @@ It should automatically restore the database.
 
 Execute the same steps as for *Tests* except for these changes:
 
-`odoo-upgrade production -d erp -t 14.0`
+`odoo-upgrade production -d $DATABASE -t 14.0`
 
 * Upload database to production environment
 
