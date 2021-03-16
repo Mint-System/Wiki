@@ -2,11 +2,13 @@
 
 Ad-hoc view extensions to apply specific changes.
 
+Every name must be prefixed with: `Mint System: `
+
 ## View
 
 ### Remove brand promotion
 
-Name: `remove brand promotion message`  
+Name: `Remove brand promotion message`  
 Key: `web.brand_promotion_message_remove`  
 Inherited Key: `web.brand_promotion_message`  
 Priority: 99  
@@ -35,7 +37,7 @@ Code:
 <?xml version="1.0"?>
 <data>
   <xpath expr="//li[@t-if='company.website']" position="replace">
-  	<li t-if="company.website" class="list-inline-item d-inline">www.stiärbiär.ch</li>
+  	<li t-if="company.website" class="list-inline-item d-inline">www.example.ch</li>
   </xpath>
 </data>
 ```
@@ -60,7 +62,7 @@ Code:
 
 ### Align invoice tax row right
 
-Name: `taxes align right`  
+Name: `Taxes align right`  
 Key: `account.report_invoice_document_custom_taxes`  
 Inherited Key: `account.report_invoice_document`  
 Priority: 99  
@@ -167,6 +169,7 @@ Inherited Key: `stock.report_delivery_document`
 
 ### Remove header navigation for a page
 
+Name: `remove header navigation`  
 Key: `website.home`  
 Priority: 99  
 
@@ -183,9 +186,7 @@ Code:
 
 ### Add product name to quote
 
-sale_order_portal_content
-
-Name: `add product name`  
+Name: `Add product name`  
 Key: `sale.sale_order_portal_content_product_name`  
 Inherited Key: `sale.sale_order_portal_content`  
 Priority: 99  
@@ -197,6 +198,24 @@ Code:
   <xpath expr="//td[@id='product_name']" position="replace">
   	<td id="product_name"><span t-field="line.product_id.name"/><br/><span class="font-italic" t-field="line.name"/></td>
   </xpath>
+</data>
+```
+
+### Add class to button
+
+Name: `Add class to categories button`  
+Key: `website_sale.products_categories_mobile_button`  
+Inherited Key: `website_sale.products_categories`  
+Priority: 99  
+
+```xml
+<data>
+	<xpath expr="//button" position="replace">
+	  <button type="button" class="btn btn-secondary d-lg-none mb-2"
+		  data-target="#wsale_products_categories_collapse" data-toggle="collapse">
+		  Show categories
+	  </button>
+	</xpath>
 </data>
 ```
 
@@ -220,6 +239,89 @@ Code:
 	
   <xpath expr="//tbody/t/tr/td[3]" position="after">
   	<td><span t-field="timesheet.timesheet_invoice_type"/></td>
+  </xpath>
+	
+</data>
+```
+
+## Mail
+
+### Remove logo top right
+
+Name: `Remove logo top right`   
+Key: `mail.mail_notification_{border,light,paynow}_remove_logo`  
+Priority: 99
+
+Inherited Key: `mail.message_notification_email`
+
+```xml
+<?xml version="1.0"?>
+<data>
+
+  <xpath expr="//div[@summary='o_mail_notification']/table/tbody/tr/td[2]/img" position="replace">
+  </xpath>
+	
+</data>
+```
+
+Inherited Key: `mail.mail_notification_borders`
+
+```xml
+<?xml version="1.0"?>
+<data>
+
+  <xpath expr="//table[@summary='o_mail_notification']//table/tr/td[2]/img" position="replace">
+  </xpath>
+	
+</data>
+```
+
+Inherited Key: `mail.mail_notification_light` and `mail.mail_notification_paynow`
+
+```xml
+<?xml version="1.0"?>
+<data>
+
+  <xpath expr="//tbody/tr/td/table/tr/td[2]/img" position="replace">
+  </xpath>
+	
+</data>
+```
+
+### Remove signature
+
+Name: `Remove signature`   
+Key: `mail.mail_notification_remove_signature`  
+Inherited Key: `mail.mail_notification_paynow`  
+Priority: 99
+
+```xml
+<?xml version="1.0"?>
+<data>
+
+  <xpath expr="//tbody/tr[2]/td/t[2]" position="replace">
+  </xpath>
+	
+</data>
+```
+
+### Replace footer links
+
+Name: `Replace footer links`   
+Key: `mail.mail_notification_{light,paynow}_replace_footer`  
+Inherited Key: `mail.mail_notification_light` and `mail.mail_notification_paynow`  
+Priority: 99
+
+```xml
+<?xml version="1.0"?>
+<data>
+
+  <xpath expr="//tbody/tr[3]/td/div" position="replace">
+	  <div style="color: #999999">
+			<a t-att-href="'%s' % company.website" style="text-decoration:none; color: #999999;">
+				example.ch
+			</a>
+		</div>
   </xpath>
 	
 </data>
