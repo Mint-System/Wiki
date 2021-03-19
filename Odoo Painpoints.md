@@ -44,8 +44,6 @@ Barcodes können nicht automatisch generiert werden.
 
 Für Timesheet Enträge kann der Abrechnungstyp nicht geändert werden.
 
-
-
 # Resolved
 
 ## Soll-/Haben-Konten vertauscht
