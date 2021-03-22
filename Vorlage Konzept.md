@@ -38,21 +38,22 @@ Bezüglich der Lizenzierung von Odoo steht der Kunde direkt mit Odoo S.A. in Ver
 Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](https://cloud.mint-system.ch/s/cPnnr7yjPApL8YG). Die einzelnen Arbeitspakete sind im folgenden Abschnitt erläutert. Daraus leitet sich die
 Aufwandsschätzung ab.
 
-Phase X: Installation
+[[Phase Installation|Phase X: Installation]]
 * Den Odoo Mandanten aufsetzen
 * Die DNS Konfiguration vornehmen
 * Odoo Mail-Account Integration
 * Die Benutzer in Odoo bereitstellen
+* Odoo Module von Dritten installieren
 
-Ziel: Odoo steht für die Initialisierung bereit
+Ziel: Odoo steht für die Initialisierung bereit.
 
-Phase X: Initialisierung
+[[Phase Initialisierung|Phase X: Initialisierung]]
 * Die Adressen der Lieferanten importieren
 * Die Adressen der Kunden importieren
 * Die Bankkonten erfassen und konfigurieren
 * Das Dokumentlayout festlegen und umsetzen
 
-Ziel: Initialisierungs-Daten stehen in Odoo zur Verfügung
+Ziel: Initialisierungs-Daten stehen in Odoo zur Verfügung.
 
 [[Phase Finanzen|Phase X: Finanzen]]
 * Den Kontenplan einrichten
@@ -61,7 +62,7 @@ Ziel: Initialisierungs-Daten stehen in Odoo zur Verfügung
 * Die Bankenverbindung zum Ebanking einrichten
 * Debitoren und Kreditoren einrichten
 
-Ziel: Interne Buchhaltung erfolgt mittels Odoo
+Ziel: Interne Buchhaltung erfolgt mittels Odoo.
 
 [[Phase Fertigung|Phase X: Fertigung]]
 * Die Arbeitsplätze erfassen
@@ -69,13 +70,13 @@ Ziel: Interne Buchhaltung erfolgt mittels Odoo
 * Arbeitspläne erfassen
 * Notwendige Qualitätsschritte einfügen
 
-Ziel: Alle Daten zum Fertigen der Produkte sind bereit
+Ziel: Alle Daten zum Fertigen der Produkte sind bereit.
 
 [[Phase Produktentwicklung|Phase X: Produktentwicklung]]
 * Alle Produkte importieren
 * Stücklisten definieren
 
-Ziel: Alle Produkte sind definiert
+Ziel: Alle Produkte sind definiert.
 
 [[Phase Produktionsplanung|Phase X: Produktionsplanung]]
 * Sicherhehits-Vorlaufzeiten sammeln
@@ -89,14 +90,14 @@ Ziel: Produktionsabläufe können geplant werden.
 * Die Abzüge der Arbeitgeber/Arbeitnehmer in den Stammdaten eintragen
 * Die Konfiguration der Lohnarten vornehmen
 
-Ziel: Lohnabrechnung mit Odoo
+Ziel: Lohnabrechnung mit Odoo.
 
 [[Phase Verkäufe und Einkauf|Phase X: Verkäufe und Einkauf]]
 * Die Lieferanten Preislisten importieren
 * Lead-Times festlegen
 * Mindestbestandsregeln einrichten
 
-Ziel: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit
+Ziel: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit.
 
 [[Phase Webshop|Phase X: Webshop]]
 * Den Seitenaufbau definieren (Startseite und weitere Seiten)
@@ -106,14 +107,14 @@ Ziel: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit
 * Den Warenkorb einrichten
 * Die Zahlungsmittel einrichten
 
-Ziel: Es sind Produkte der Stiär Biär im Webshop bestellbar
+Ziel: Es sind Produkte der Stiär Biär im Webshop bestellbar.
 
 [[Phase Projekt|Phase X: Projekt]]
 * Projekt-Berichte konfigurieren
 * Die Hauptaufgaben - Unteraufgaben Struktur definieren
 *  Projekt-Templates einrichten
 
-Ziel: Alle Daten zum Starten und Überwachen der Projekte sind bereit
+Ziel: Alle Daten zum Starten und Überwachen der Projekte sind bereit.
 
 [[Phase Zeiterfassung|Phase X: Zeiterfassung]]
 * Alle persönlichen Verträge einrichten
@@ -121,7 +122,7 @@ Ziel: Alle Daten zum Starten und Überwachen der Projekte sind bereit
 * Den anwendbaren Feiertagskalender importieren
 * Das Berichtswesen konfigurieren
 
-Ziel: Die Kalender und Verträge sind für Arbeitszeit-Rapportierung bereit
+Ziel: Die Kalender und Verträge sind für Arbeitszeit-Rapportierung bereit.
 
 [[Phase Lager|Phase X: Lager]]
 * Alle Lager und Lagerorte einrichten
@@ -130,7 +131,7 @@ Ziel: Die Kalender und Verträge sind für Arbeitszeit-Rapportierung bereit
 * Den Verpackungs-Vorgang einrichten
 * Das Barcode Scanning aktivieren
 
-Ziel: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert
+Ziel: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 [[Phase Versand|Phase X: Versand]]
 * Die Lieferfirmen integrieren
@@ -142,14 +143,39 @@ Phase X: Reporting
 * Das Reporting für die Nachkalkulation einrichten
 * Die verschiedenen Dashboards bereitstellen
 
-Ziel: Das Reporting und das Management-Cockpit sind bereit
+Ziel: Das Reporting und das Management-Cockpit sind bereit.
 
 [[Phase Odoo Entwicklung|Phase x: Odoo Entwicklung]]
 * Erstellen technische Spezifikation
 * Kick-Off mit externen Odoo Entwickler
 * Kontinuierliche Integration und Testen der Lösung
 
-Ziel: Odoo Entwicklung validiert
+Ziel: Odoo Entwicklung validiert.
+
+[[Phase Personal|Phase x: Personal]]
+* Adressen des Personal erfassen
+* Arbeitsverträge einrichten
+* Arbeitszeiten definieren
+* Organisation und Genehmigungsprozess abbilden
+
+Ziel: Die Pesonaldaten der Mitarbeiter sind erfasst.
+
+[[Phase An- und Abwesenheitszeiten|Phase x: An- und Abwesenheitszeiten]]
+* Abwesenheitstypen festlegen
+* Importieren Feiertagskalender
+* Prüfung des Genehmegigungsprozesses
+* Testen der Stundenlohnabrechnung
+
+Ziel: Mitarbeiter können ihre An- und Abwesenheitszeiten registrieren.
+
+
+[[Phase Terminal Zeiterfassung|Phase x: Terminal Zeiterfassung]]
+* Beschaffung Hardware
+* Installation und Konfiguration Betriebssystem
+* Registration RFID/NFC-Codes
+* Installation Terminal vor Ort
+
+Ziel: Mitarbeiter registrieren ihre Anwesenheitszeiten über das Terminal.
 
 ## Referenzen
 

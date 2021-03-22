@@ -33,7 +33,7 @@ Ordner / Dokument | Beschreibung
 PhaseNN NAME/ | Ordner mit Inhalt der jeweiligen Projektphase
 Prozess/ | Ordner für Korrespondenz und Projektdaten
 Input/ | Dokumente des Kunden werden hier abgelegt
-Output/ | Deliverable, die an den Kunden gehen
+Output/ | Deliverable, die an den Kunden gehen. Berichte, Daten oder Auswertungen.
 
 **Systemordner**
 

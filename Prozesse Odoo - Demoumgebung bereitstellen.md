@@ -1,6 +1,6 @@
 # Prozess Demoumgebung bereitstellen
 
-## Initialisierung
+## 1. Initialisierung
 Arbeitsschritte:
 * Registration Domain  `$NAME.mintsys.ch`
 * Installation Odoo mit [[Ansible Playbooks]]
@@ -12,12 +12,18 @@ Arbeitsschritte:
 * Corporate Design umsetzen
 * Aktualisieren [[Demoumgebungen#Odoo]]
 
-## Installation Apps
+## 2. Installation Apps
 Auswahl:
 * Odoo Cloud Notification Client (OCN) (ocn_client) #Odoo13
 * Web-Enterprise (web_enterprise) #Odoo13-14
 
-## Login Mint System
+## 3. Customizing
+
+Arbeitsschritte:
+* Stammdaten gemäss [[Odoo Datenmanagement]] importieren
+* Systemparameter `web.base.url` mit https ergänzen
+
+## 4. Login Mint System
 Integration in [[Login Mint System]].
 
 Arbeitsschritte:
@@ -25,16 +31,10 @@ Arbeitsschritte:
 * Benutzer mit Rolle `access` austatten
 * Zugriff testen
 
-## Entfernen Demoumgebung
+## 5. Entfernen Demoumgebung
 Arbeitsschritte:
 * Einträge aus Ansible Inventar löschen
 * DNS-Einträge löschen
 * OAuth Client URL von Liste *Valid Redirect URIs* entfernen
 * Projektaufgaben bereinigen
 * Datenbank löschen
-
-## Customizing
-
-Arbeitsschritte:
-* Stammdaten gemäss [[Odoo Datenmanagement]] importieren
-* Systemparameter `web.base.url` mit https ergänzen

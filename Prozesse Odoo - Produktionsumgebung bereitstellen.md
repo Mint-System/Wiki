@@ -2,18 +2,30 @@
 
 Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung immer verfügbar sein und gesichert sein.
 
-## Initialisierung
+## 1. Initialisierung
 
 Arbeitsschritte:
 * Bereistellen Umgebung gemäss Bestellung
 * Installation initale Apps
 * Konfiugration der Mail-Dienste
+* Einladen Benutzer und vergabe Berechtigungen
 
-## Zugriff Mint System bereitstellen
+## 2. Lokalisierung
+
+Arbeitsschritte:
+* Sprachpakete installieren und aktivieren
+* Währung festlegen
+* Globale Übersetzungen importieren
+
+## 3. Customizing
+
+Abhäingig von der Konfiguration der Umgebung können diese Teilschritte ausgeführt werden.
+
+### Zugriff Mint System bereitstellen
 
 Das ist eine offene Fragestellung. Siehe [[Design Decisions#Zugriff ohne Benutzerlizenz]].
 
-## Benutzer aktivieren oder deaktivieren
+### Benutzer aktivieren oder deaktivieren
 
 Arbeitsschritte:
 * Mit SSH auf den Server zugreifen `ssh ALIAS.mint-system.com`
@@ -22,7 +34,7 @@ Arbeitsschritte:
 * Einen Benutzer aktivieren `docker-odoo-user -c CONTAINER -d DATABASE -a enable -i VORNAME.NACHNAME@mint-system.ch`
 * Die SSH-Verbindung trennen `exit`
 
-## Partner-Synchronisation auf täglich umstellen
+### Partner-Synchronisation auf täglich umstellen
 
 Arbeitsschritte:
 * Einstellungen im Entwicklermodus öffnen *Einstellungen > Technisch > Automation > Geplante Aktionen > Partner Autovervollständigung ...*
