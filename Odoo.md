@@ -44,3 +44,4 @@ Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Handbuch]].
 * [[Odoo 13]]
 * [[Odoo Upgrade]]
 * [[Odoo Community]]
+* [[Odoo Zertifizierung]]
