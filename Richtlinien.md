@@ -11,3 +11,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Spesenreglement]]  
 * [[Richtlinie - Projektmanagement]]
 * [[Richtlinie - Kollaboration]]
+* [[Richtlinie - Softwareentwicklung]]
