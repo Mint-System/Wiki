@@ -10,9 +10,9 @@ A short introduction into the ecosystem of Odoo, its communities and how it is d
 * Framwork for Business Application
 
 ---
-### History[^1]
+### History
 
-Fabien Pinckaers - Odoo Founder & CEO
+Fabien Pinckaers - Odoo Founder & CEO[^1].
 
 * 2005: TinyERP
 * 2008: Rename to OpenERP
@@ -31,7 +31,9 @@ Fabien Pinckaers - Odoo Founder & CEO
 * Maintains the partner network
 
 ---
-### Odoo Community Association[^4]
+### OCA
+
+Odoo Community Association[^4]
 
 * Nonprofit orgnisation
 * Promotes the widespread use of Odoo
@@ -99,7 +101,9 @@ The Odoo business layer consists of various modules. Example: [Product Model](ht
 ![[Odoo Logical Architecture.png]]
 
 ---
-###  Odoo's ORM[^2]
+###  Odoo's ORM
+
+Object Relation Mapping[^2].
 
 * Manages models and business logic
 * Internal registry loads module definitions

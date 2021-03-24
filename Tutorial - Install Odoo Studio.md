@@ -5,7 +5,7 @@ Install and customize a view with Odoo Studio.
 ### Step 0: Install dependency
 
 * Open *Apps*
-* Search for *Web Enterprise*
+* Search for *Web-Enterprise*
 * Install module
 
 ### Step 1: Install module
