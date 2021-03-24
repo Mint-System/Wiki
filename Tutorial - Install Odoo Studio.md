@@ -2,6 +2,8 @@
 
 Install and customize a view with Odoo Studio.
 
+## Steps
+
 ### Step 0: Install dependency
 
 * Open *Apps*

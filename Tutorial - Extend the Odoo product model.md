@@ -2,6 +2,8 @@
 
 Let's add a new field to the product model step by step.
 
+## Steps
+
 ### Step 0: Install manufacturing app
 
 * Navigate to *Apps*

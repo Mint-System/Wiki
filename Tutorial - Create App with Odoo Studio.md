@@ -1,5 +1,7 @@
 # Tutorial: Create App with Odoo Studio
 
+## Steps
+
 ### Step 0: Init app
 
 * Open dashboard
