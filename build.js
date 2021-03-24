@@ -9,7 +9,7 @@ const uriSuffix = '.html'
 const anchorPrefix = '#'
 const assetsFolder = 'assets'
 const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
-const wikiImage = /!\[\[([^\]]*\.png|jpg|jpeg|svg|gif)\]\]/g
+const wikiImage = /!\[\[([^\]]+\..+)\]\]/g
 const embededContent = /!\[\[([^\]]*)\]\]/g
 const wikiLink = /\[\[([^\]]*)\]\]/g 
 
