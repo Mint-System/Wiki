@@ -100,7 +100,7 @@ See here: <https://www.odoo.com/de_DE/forum/hilfe-1/it-is-not-possible-to-unrese
 
 The script <https://gist.github.com/amoyaux/279aee13eaddacbddb435dafbc0a6295>.
 
-**report unreserved qty**
+**Report Unreserved Qty**
 
 ```py
 quants = env['stock.quant'].search([])
@@ -174,7 +174,7 @@ raise Warning(warning)
 
 The next script will resolve the issues:
 
-**fix unreserved qty**
+**Fix Unreserved Qty**
 
 Run as superuser.
 
