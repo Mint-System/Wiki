@@ -1,4 +1,4 @@
-### Präsentation
+## Präsentation
 Behalten Sie ihre Unternehmensdaten mit Nextcloud im Griff  
 
 ---
