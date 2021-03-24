@@ -39,6 +39,12 @@ Fabien Pinckaers - Odoo Founder & CEO
 * Maintains OSS Apps
 
 ---
+### Odoo Overview
+
+![[Odoo Projekt.svg]]
+
+---
+
 ### Odoo Community Edition
 
 The core of Odoo.

@@ -129,7 +129,7 @@ Das kostengünstigstes All-In-One ERP-System.
 ---
 ### Odoo Projekt
 
-![[Odoo Projekt.png]]
+![[Odoo Projekt.svg]]
 
 ---
 ### Odoo Community Edition

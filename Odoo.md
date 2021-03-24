@@ -5,7 +5,7 @@ Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Handbuch]].
 
 ## Odoo Projekt
 
-![[Odoo Projekt.png]]
+![[Odoo Projekt.svg]]
 
 ## Apps
 
