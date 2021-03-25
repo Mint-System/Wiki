@@ -1,4 +1,4 @@
-# Tutoiral: Install Odoo Studio
+# Tutorial: Install Odoo Studio
 
 Install and customize a view with Odoo Studio.
 
