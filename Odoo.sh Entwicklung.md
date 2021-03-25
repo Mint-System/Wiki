@@ -1,6 +1,6 @@
 # Odoo.sh Entwicklung
 
-Die Odoo.sh Konsole ist eng mit dem [[GitHub]] repository gekoppelt.
+Die Odoo.sh Verwaltungsplattform ist eng mit dem [[GitHub]] Repository gekoppelt.
 
 ## Branches
 

@@ -1,8 +1,10 @@
 # Vorgehensmodell
 
-## Prozess-Analyse
+[[Vorgehensmodell Softwareentwicklung]]
 
-### Projekt ERP-System
+## Prozesse
+
+### ERP-System
 
 Zur Umsetzung eines ERP-Projekt werden die folgenden Prozesse angwendet:
 
@@ -12,3 +14,9 @@ Zur Umsetzung eines ERP-Projekt werden die folgenden Prozesse angwendet:
 * [[Prozesse Akquise - Anforderungsanalyse]]
 * [[Prozesse Projektmanagement - Konzept]]
 * [[Prozesse Akquise - Angebot erstellen]]
+
+### Softwareentwicklung
+
+Zur Umsetzung eines Softwareentwicklungs-Projekt werden diese Prozesse angwendet:
+
+* [[Prozesse Softwareentwicklung]]

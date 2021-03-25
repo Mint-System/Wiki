@@ -10,6 +10,8 @@
 
 ## Recipies
 
+[[Odoo - Import data from csv]]
+
 ### Translate Odoo apps
 
 We use [[Transifex]] for automated translations. Manual translations are done directly in the .po file.
