@@ -1,6 +1,10 @@
 # Phasen
 
-Wir bieten diese Projektphasen an:
+Die Phasen basieren auf der [[Vorlage Phase]].
+
+## Odoo-Projekt
+
+Wir bieten diese Projektphasen für Odoo-Projekte an:
 
 * [[Phase Installation]]
 * [[Phase Initialisierung]]
@@ -21,4 +25,8 @@ Wir bieten diese Projektphasen an:
 * [[Phase Projekt]]
 * [[Phase Terminal Zeiterfassung]]
 
-Die Phasen basieren auf der [[Vorlage Phase]].
+## Softwareentwicklungsprojekt
+
+Wir bieten diese Projektphasen für Softwareentwicklungsprojekte an:
+
+* [[Phase Anforderungsanalyse]]

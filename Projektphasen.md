@@ -1,0 +1,3 @@
+# Projektphasen
+
+Projektphasen sind [[Phasen]].

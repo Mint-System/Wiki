@@ -36,7 +36,7 @@ Für das Projektmanagement wird [[Odoo]] verwendet.
 
 ### Initiale Planung
 
-Das gesamte Projekt wird in [[Phasen|Projektphasen]] mit groben Aufwandsschätzungen geplant. Die daraus resultierenden Kosten werden als Kostendach betrachtet.
+Das gesamte Projekt wird in [[Projektphasen]] mit groben Aufwandsschätzungen geplant. Die daraus resultierenden Kosten werden als Kostendach betrachtet.
 
 ### Arbeitspakete
 
