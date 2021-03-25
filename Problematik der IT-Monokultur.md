@@ -7,7 +7,6 @@ Es kommt vor, dass Parlamente Verpflichtungskredite für Software-Lizenzen bewil
 Oft besteht zum Lieferanten Microsoft ein Abhängigkeitsverhältnis, das nicht zu knacken ist. Und es wird immer extremer. Mit der Erweiterung der Produktpalette auf Office365 begibt man sich in die Arme der Datenkrake Microsoft-Cloud. Damit sind dann auch unsere Daten nur noch teilweise unser Eigentum. (Wir wissen ja schliesslich nicht genau wo sie sind.)
 Nebeneffekte sind unter anderem die schwer beherrschbaren Sicherheitsrisiken und steigende Lizenzkosten.
 
-
 ## Wir reden alle von Digitalisierung. Aber ...
 
 Mit dem Slogan "Digitalisierung" sind wir auf der Suche nach neuen technischen Lösungen. Wir versuchen ein Umfeld zu schaffen das Kreativität fördert. Wir wünschen uns Querdenken und Innovationsgeist.

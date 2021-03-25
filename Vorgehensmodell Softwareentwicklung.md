@@ -48,6 +48,10 @@ Die Arbeitspakete sind als Projektaufgaben im Odoo-Projekt verfügbar.
 
 Die Kommunikation mit dem Kunden erfolgt über die Portalansicht des Odoo-Projekts. Der Kunde kann dort direkt Aufgaben kommentieren oder Anhänge hinzufügen.
 
+### Verrechnung
+
+Die Verrechnung des Aufwands erfolgt auf Stundenbasis. Der Entwickler rapportiert seine Stunden und der Projektleiter verrechnet diese am Ende des Monats. Damit die Kontrolle der Kosten für den Kunden sichergestellt ist, wird ein [[Kostendach]] festgelegt.
+
 ## Releasemanagement
 
 Neue Software-Releases werden auf dem verknüpften GithHub-[[Repository]] publiziert.
