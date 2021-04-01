@@ -1,5 +1,7 @@
 # Odoo Reports
 
+Alles zu Odoo Reporting.
+
 ## Call by url
 
 Odoo reports are generate from a html template. The template can be called directly

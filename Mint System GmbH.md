@@ -5,7 +5,8 @@ Internes Kürzel: ms
 
 [[Mitgliedschaften]]
 
-Mitarbeiter:
+## Mitarbeiter
+
 * [[Janik von Rotz]]
 * [[Kurt Gisler]]
 * [[Marco Roeleven]]

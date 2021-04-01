@@ -1,4 +1,4 @@
-# Migrate bind mount to volume mount
+# Docker: Migrate bind mount to volume mount
 
 Assuming we have a container that is storing data on bind mount, proceed as followed:
 
