@@ -1,6 +1,13 @@
 const fs = require('fs')
 var path = require('path')
 
+/* arguments:
+all
+index
+convert
+assets
+*/
+
 // settings
 const ignoreFiles = ['_navbar.md', '_sidbar.md']
 const basePath = '/'
@@ -11,24 +18,31 @@ const assetsFolder = 'assets'
 const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
 const wikiImage = /!\[\[([^\]]+\..+)\]\]/g
 const embededContent = /!\[\[([^\]]*)\]\]/g
-const wikiLink = /\[\[([^\]]*)\]\]/g 
+const wikiLink = /\[\[([^\]]*)\]\]/g
 
 function sanitizeName(file) {
     return file.toLocaleLowerCase()
         .replace(/\s+/g, '-')
-        .replace('---','-')
+        .replace('---', '-')
 }
 
 function sanitizeAssetname(file) {
     return file.toLocaleLowerCase()
         .replace(/\s+/g, '-')
-        .replace('---','-')
-        .replace(/ö/g,'o')
-        .replace(/ü/g,'u')
-        .replace(/ä/g,'a')
+        .replace('---', '-')
+        .replace(/ö/g, 'o')
+        .replace(/ü/g, 'u')
+        .replace(/ä/g, 'a')
 }
 
-function convert(content,file) {
+const groupBy = key => array =>
+    array.reduce((objectsByKeyValue, obj) => {
+        const value = obj[key];
+        objectsByKeyValue[value] = (objectsByKeyValue[value] || []).concat(obj);
+        return objectsByKeyValue;
+    }, {});
+
+function convert(content, file) {
 
     // convert wiki image links
     // ![[image.png]] -> <img src="./assets/image.png"/>
@@ -81,85 +95,120 @@ function convert(content,file) {
     return content
 }
 
-links = []
+// Build vars
+var links = []
+var files = []
+var args = process.argv.slice(2);
+var firstArg = args[0]
 
-// loop all markdown files
-fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
-    
-    // get markdown content
-    var content = fs.readFileSync(file, 'utf8')
+if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
+    // loop all markdown files
+    fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
 
-    // get wiki links
-    matches = content.match(wikiLink) || []
+        // get markdown content
+        var content = fs.readFileSync(file, 'utf8')
 
-    // create backlink list
-    for (i = 0; i < matches.length; i++) {
-        let match = matches[i]
-        links.push({ source: file.replace('\.md', ''), target: match.match(/\[\[([^\]|#]*)/)[1] })
-    }
-    
-})
+        // get wiki links
+        matches = content.match(wikiLink) || []
 
-// process all markdown files
-fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
+        // create backlink list
+        for (i = 0; i < matches.length; i++) {
+            let match = matches[i]
+            links.push({ source: file.replace('\.md', ''), target: match.match(/\[\[([^\]|#]*)/)[1] })
+        }
 
-    // get markdown content
-    let content = fs.readFileSync(file, 'utf8')
+        // create file link list
+        files.push({ source: file.replace('\.md', ''), target: file, firstLetter: file[0].toUpperCase() })
+    })
+}
 
-    // set new file name
-    let newfile = sanitizeName(file)
+if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
+    // process all markdown files
+    fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
 
-    // Get file name
-    let fileName = file.replace('\.md', '')
+        // get markdown content
+        let content = fs.readFileSync(file, 'utf8')
 
-    // convert content
-    content = convert(content, file)
+        // set new file name
+        let newfile = sanitizeName(file)
 
-    // get backlinks
-    let backLinks = links.filter(link => link.target === fileName)
+        // Get file name
+        let fileName = file.replace('\.md', '')
 
-    content = content + [
-        '\n',
-        '\n',
-        '<footer class="page-edit">\n',
-        '\n',
-    ].join('')
+        // convert content
+        content = convert(content, file)
 
-    // add banklinks
-    if(backLinks.length > 0) {
+        // get backlinks
+        let backLinks = links.filter(link => link.target === fileName)
+
         content = content + [
-            'Backlinks:\n',
             '\n',
-            backLinks.map((link) => {
-                let target = link.source != 'README' ? `${basePath}${sanitizeName(link.source)}${uriSuffix}` : '/'
-                return `* [${link.source}](${target}) \n`
-            }).join(''),
+            '\n',
+            '<footer class="page-edit">\n',
             '\n',
         ].join('')
-    }
 
-    // add footer
-    content = content + [
-        '[📝 Edit on GitHub](' + gitUrl + file.replace(/\s+/g, '%20') + ')\n',
-        '\n',
-        'Copyright © [Mint System GmbH](https://www.mint-system.ch)\n',
-        '\n',
-        '</footer>'
-    ].join('')
+        // add banklinks
+        if (backLinks.length > 0) {
+            content = content + [
+                'Backlinks:\n',
+                '\n',
+                backLinks.map((link) => {
+                    let target = link.source != 'README' ? `${basePath}${sanitizeName(link.source)}${uriSuffix}` : '/'
+                    return `* [${link.source}](${target}) \n`
+                }).join(''),
+                '\n',
+            ].join('')
+        }
 
-    // Delete existing file
-    fs.unlinkSync(file)
+        // add footer
+        content = content + [
+            '[📝 Edit on GitHub](' + gitUrl + file.replace(/\s+/g, '%20') + ')\n',
+            '\n',
+            'Copyright © [Mint System GmbH](https://www.mint-system.ch)\n',
+            '\n',
+            '</footer>'
+        ].join('')
 
-    // write content to new file
-    fs.writeFileSync(newfile, content, 'utf8')
-})
+        // Delete existing file
+        fs.unlinkSync(file)
 
-// Loop all asset files
-fs.readdirSync(path.join(__dirname, assetsFolder)).forEach((file) => {
+        // write content to new file
+        fs.writeFileSync(newfile, content, 'utf8')
+    })
+}
+
+if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
     
-    // set new file name
-    newfile = sanitizeAssetname(file)
+    // Group files by first letter
+    groupedFiles = groupBy('firstLetter')(files)
+    content = [
+        '# Glossary',
+        '\n'
+    ]
 
-    // move asset file
-    fs.renameSync(path.join(__dirname, assetsFolder,file), path.join(__dirname, newfile))
-})
+    Object.keys(groupedFiles).forEach(function(key) {
+        content.push(`## ${key}`)
+        content.push('\n','\n')
+        groupedFiles[key].forEach((link) => {
+            content.push(`[${link.source}](${sanitizeName(link.target)})  `)
+            content.push('\n')
+        })
+        content.push('\n')
+    })
+    
+    // write content to index file
+    fs.writeFileSync('glossary.md', content.join(''), 'utf8')
+}
+
+if (!firstArg || ['all', 'assets'].indexOf(firstArg) > 0) {
+    // Loop all asset files
+    fs.readdirSync(path.join(__dirname, assetsFolder)).forEach((file) => {
+
+        // set new file name
+        newfile = sanitizeAssetname(file)
+
+        // move asset file
+        fs.renameSync(path.join(__dirname, assetsFolder, file), path.join(__dirname, newfile))
+    })
+}

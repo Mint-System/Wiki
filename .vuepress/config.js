@@ -3,7 +3,11 @@ module.exports = {
     title: 'Knowledge Mint System',
     description: 'Knowledge Mint System',
     themeConfig: {
-        sidebar: 'auto'
+        sidebar: 'auto',
+        nav: [
+            { text: 'Home', link: '/' },
+            { text: 'Glossary', link: '/glossary' }
+        ]
     },
     plugins: [
         '@vuepress/active-header-links',
