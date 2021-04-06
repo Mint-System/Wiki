@@ -1,3 +1,8 @@
+---
+tags:
+- Nextcloud
+---
+
 # Nextcloud
 
 [[Nextcloud Troubleshooting]]  

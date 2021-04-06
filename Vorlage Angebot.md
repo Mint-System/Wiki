@@ -1,3 +1,8 @@
+---
+tags:
+- Vorlagen
+---
+
 # Vorlage Angebot
 
 Ein Angebot hat diese Struktur:

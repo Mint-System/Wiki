@@ -1,3 +1,8 @@
+---
+tags:
+- Vorlagen
+---
+
 # Vorlagen
 
 [[Vorlage Angebot]]  
@@ -5,3 +10,4 @@
 [[Vorlage Anforderungsanalyse]]  
 [[Vorlage Aufwandsschätzung]]  
 [[Vorlage Phase]]  
+[[Vorlage Troubleshooting]]

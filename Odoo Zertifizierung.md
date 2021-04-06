@@ -2,7 +2,7 @@
 
 Für jede Odoo-Version werden Zertifizierungen angeboten.
 
-## Information von Odoo
+## Informationen von Odoo
 
 - You **only have one shot.** A test lasts 60 minutes and you have 80 questions to reply to. If you fail one time, Odoo will ask you to rebuy another certification. 
 - The modules you need to know are: Inventory, MRP, CRM, eCommerce, Intro (=Data-Base management and settings), HR, Timesheets, Project, Accounting, Purchase, Sales and Studio    

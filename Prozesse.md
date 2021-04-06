@@ -1,3 +1,8 @@
+---
+tags:
+- Prozesse
+---
+
 # Prozesse
 In diesem Dokument werden die internen Prozesse der Mint System beschrieben.
 
