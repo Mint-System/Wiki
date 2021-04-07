@@ -4,6 +4,7 @@ tags:
 ---
 
 # Vorlage Konzept
+Übersetzung en_GB: [[Template Concept]]
 
 Überschriften:
 

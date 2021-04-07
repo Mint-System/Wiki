@@ -4,6 +4,7 @@ tags:
 ---
 
 # Vorlage Angebot
+Übersetzung en_GB: [[Template Quote]]
 
 Ein Angebot hat diese Struktur:
 
@@ -19,13 +20,7 @@ Ein Angebot hat diese Struktur:
 
 ## Textbausteine
 
-## Bedingungen und Konditionen
-
-Fakturierung:  
-Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt monatlich nach effektivem Aufwand unter Beilage eines detaillierten Arbeitsrapportes bis zur Erreichung des Kostendaches.
-
-Kostendach:  
-Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostendach abgedeckt sind, wird der Kunde seitens Mint System frühzeitig informiert. Der Entscheid, ob und in welchem Rahmen die Mehrarbeit geleistet wird, liegt bei dem Kunden in Absprache mit Mint System. 
+### Bedingungen und Konditionen
 
 Auftragserteilung:  
 In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder durch Annahme des Angebots oder durch Unterzeichnung eines separaten Vertrages oder durch eine Bestellung.
@@ -55,6 +50,12 @@ Drittleistungen:
 Es entstehen beim Workshop keine weiteren Kosten Dritter.
 
 ### Fakturierungen
+
+Fakturierung:  
+Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt monatlich nach effektivem Aufwand unter Beilage eines detaillierten Arbeitsrapportes bis zur Erreichung des Kostendaches.
+
+Kostendach:  
+Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostendach abgedeckt sind, wird der Kunde seitens Mint System frühzeitig informiert. Der Entscheid, ob und in welchem Rahmen die Mehrarbeit geleistet wird, liegt bei dem Kunden in Absprache mit Mint System. 
 
 Fakturierung Projektphase:  
 Die Fakturierung der Leistungen inkl. MwSt. erfolgt nach Abschluss einer Projektphase.
@@ -107,17 +108,3 @@ Für die Projektarbeit und Reiszeit werden keine Spesen verrechnet.
 
 Reisepesen Pauschal:
 Für die Reisezeit und -kosten (Altdorf - Zürch) verrechnen wir Pauschal je Ereignis CHF 250.00. Weitere Spesen werden nach Aufwand verrechnet.
-
-## Terms and Conditions
-
-Changes: 
-If changes become apparent in the course of the project work which are not part of the offer, the customer will be informed promptly by the contractor. 
-
-Confidentiality:
-The contractor treats information such as company and personal data provided by the customer for the provision of the services with absolute confidentiality. 
-
-Expenses: 
-Expenses will be charged according to expenditure. Invoicing: The billing of the services as well as any expenses including VAT takes place monthly according to the actual expenditure with the addition of a detailed work report. 
-
-Order placement:
-By mutual agreement, the order is placed in writing either by accepting the offer or by signing a separate contract or by placing an order.
