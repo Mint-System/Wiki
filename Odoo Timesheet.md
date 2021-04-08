@@ -1,4 +1,4 @@
-# Odoo Zeiterfassung
+# Odoo Timesheet
 
 ## Awesome Timesheet
 

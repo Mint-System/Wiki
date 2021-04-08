@@ -12,4 +12,8 @@ Odoo reports are generate from a html template. The template can be called direc
 
 **Invoice**
 
-<https://shop.stiärbiär.ch/report/html/account.report_invoice/$ID>
+<https://example.com/report/html/account.report_invoice/$ID>
+
+**MRP Order**
+
+<https://example.com/report/html/mrp.report_mrporder/$ID>

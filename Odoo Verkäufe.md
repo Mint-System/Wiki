@@ -1,4 +1,5 @@
 # Odoo Verkäufe
+
 ## Verkaufsgruppen und Baugruppen
 
 Wie werden die Verkaufsgruppen von Baugruppen unterschieden?

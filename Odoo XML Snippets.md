@@ -2,7 +2,7 @@
 
 Ad-hoc view extensions to apply specific changes.
 
-Every name must be prefixed with: `Mint System: `
+Every name must be prefixed with `Mint System: ` and Priority is set to 99 by default.
 
 ## View
 
@@ -11,7 +11,6 @@ Every name must be prefixed with: `Mint System: `
 Name: `Remove brand promotion message`  
 Key: `web.brand_promotion_message_remove`  
 Inherited Key: `web.brand_promotion_message`  
-Priority: 99  
 
 Code:
 ```xml
@@ -30,7 +29,6 @@ Code:
 Name: `Override footer website url`  
 Key: `web.external_layout_standard_company_website`  
 Inherited Key: `web.external_layout_standard`  
-Priority: 99  
 
 Code:
 ```xml
@@ -47,7 +45,6 @@ Code:
 Name: `Remove footer contact info`  
 Key: `web.external_layout_standard_remove_contact`  
 Inherited Key: `web.external_layout_standard`  
-Priority: 99  
 
 Code:
 ```xml
@@ -65,7 +62,6 @@ Code:
 Name: `Taxes align right`  
 Key: `account.report_invoice_document_custom_taxes`  
 Inherited Key: `account.report_invoice_document`  
-Priority: 99  
 
 Code:
 ```xml
@@ -165,13 +161,156 @@ Inherited Key: `stock.report_delivery_document`
 </data>
 ```
 
+### Show stock on mrp order
+
+Name: `Show stock on mrp order`  
+Key: `mrp.report_mrporder_show_stock`  
+Inherited Key: `mrp.report_mrporder`  
+
+```
+<?xml version="1.0"?>
+<data>
+	<xpath expr="/t/t/t/t/div/table/thead/tr/th[2]" position="after">
+        <th>
+            <span>Lagerort</span>
+        </th>
+    </xpath>
+    <xpath expr="/t/t/t/t/div/table/tbody/t/tr/td[2]" position="after">
+        <td>
+            <span t-field="raw_line.location_id.display_name"/>
+        </td>
+    </xpath>
+</data>
+```
+
+### Remove barcode from mrp order
+
+Name: `Remove barcode from mrp order`  
+Key: `mrp.report_mrporder_remove_barcode`  
+Inherited Key: `mrp.report_mrporder`  
+
+```xml
+<?xml version="1.0"?>
+<data>
+ 	<xpath expr="/t/t/t/t/div/table/thead/tr/th[3]" position="replace"/>
+	<xpath expr="/t/t/t/t/div/table/tbody/t/tr/td[3]" position="replace"/>
+</data>
+```
+
+### Show stock on mrp order
+
+Name: `Show stock on mrp order`  
+Key: `mrp.report_mrporder_show_stock`  
+Inherited Key: `mrp.report_mrporder`  
+
+```xml
+<?xml version="1.0"?>
+<data>
+	<xpath expr="/t/t/t/t/div/table/thead/tr/th[2]" position="after">
+        <th>
+            <span>Lagerort</span>
+        </th>
+    </xpath>
+    <xpath expr="/t/t/t/t/div/table/tbody/t/tr/td[2]" position="after">
+        <td>
+            <span t-field="raw_line.location_id.display_name"/>
+        </td>
+    </xpath>
+</data>
+```
+
+### List quality points in mrp order
+
+![[Odoo XML Snippet - List quality points in mrp order.png]]
+
+Name: `List quality points in mrp order`  
+Key: `mrp.report_mrporder_quality_points`  
+Inherited Key: `mrp.report_mrporder`  
+
+```xml
+<?xml version="1.0"?>
+<data>
+	<xpath expr="/t/t/t/t/div/div[5]/table/tr[2]/td[1]/span" position="after">
+		<ul>
+		  <li t-foreach="line2.operation_id.quality_point_ids" t-as="quality_point"><span t-field="quality_point.title"/></li>
+	  </ul>
+    </xpath>
+</data>
+```
+
+### Show lot in mrp order
+
+If lot is not available show forecasted days.
+
+Name: `Show lot in mrp order`  
+Key: `mrp.report_mrporder_show_lot`  
+Inherited Key: `mrp.report_mrporder`
+
+```xml
+<?xml version="1.0"?>
+<data>
+	<xpath expr="/t/t/t/t/div/table/tbody/t/tr/td[1]/span" position="after">
+		<t t-if="raw_line.forecast_expected_date">
+			<br/><span>Expected date: </span><span t-field="raw_line.forecast_expected_date" t-options='{"widget": "date"}'/><br/>
+		</t>
+		
+    	<!-- 
+		<span>Qty: </span><span t-field="raw_line.product_uom_qty"/><br/>
+    	<span>Forecast: </span><span t-field="raw_line.forecast_availability"/><br/>
+    	<span>Available: </span><span t-field="raw_line.availability"/><br/>
+		-->
+
+		<t t-if="len(raw_line.move_line_ids) > 0 and raw_line.move_line_ids[0].lot_id">
+			<br/><span>Lot(s): </span><span t-foreach="raw_line.move_line_ids" t-as="move_line"><span t-field="move_line.lot_id"/> </span>
+		</t>
+	</xpath>
+</data>
+```
+
+### Add space to mrp order
+
+Name: `Add space to mrp order`  
+Key: `mrp.report_mrporder_add_space`  
+Inherited Key: `mrp.report_mrporder`
+
+```xml
+<?xml version="1.0"?>
+<data>
+	<!-- First row -->
+  	<xpath expr="/t/t/t/t/div/div[2]" position="attributes">
+		<attribute name="style" add="padding-bottom: 2rem"/>
+  	</xpath>
+	
+	<!-- Header level 3 -->
+	<xpath expr="/t/t/t/t/div/div[3]/div[2]" position="attributes">
+		<attribute name="class">col-5</attribute>
+	</xpath>
+	<xpath expr="/t/t/t/t/div/div[3]/div[1]" position="attributes">
+		<attribute name="class">col-5</attribute>
+	</xpath>
+	<xpath expr="/t/t/t/t/div/div[4]/div[1]" position="attributes">
+		<attribute name="class">col-5</attribute>
+	</xpath>
+	<xpath expr="/t/t/t/t/div/div[4]/div[3]" position="attributes">
+		<attribute name="class">col-5</attribute>
+	</xpath>
+	
+	<!-- Header level 3 -->
+	<xpath expr="/t/t/t/t/div/div[5]/h3" position="attributes">
+		 <attribute name="style">padding-top: 2rem</attribute>
+	</xpath>
+	<xpath expr="/t/t/t/t/div/h3" position="attributes">
+		 <attribute name="style">padding-top: 2rem</attribute>
+	</xpath>
+</data>
+```
+
 ## Website
 
 ### Remove header navigation for a page
 
 Name: `remove header navigation`  
 Key: `website.home`  
-Priority: 99  
 
 Code:
 ```xml
@@ -189,7 +328,6 @@ Code:
 Name: `Add product name`  
 Key: `sale.sale_order_portal_content_product_name`  
 Inherited Key: `sale.sale_order_portal_content`  
-Priority: 99  
 
 Code:
 ```xml
@@ -206,7 +344,6 @@ Code:
 Name: `Add class to categories button`  
 Key: `website_sale.products_categories_mobile_button`  
 Inherited Key: `website_sale.products_categories`  
-Priority: 99  
 
 ```xml
 <data>
@@ -250,7 +387,6 @@ Code:
 
 Name: `Remove logo top right`   
 Key: `mail.mail_notification_{border,light,paynow}_remove_logo`  
-Priority: 99
 
 Inherited Key: `mail.message_notification_email`
 
@@ -293,7 +429,6 @@ Inherited Key: `mail.mail_notification_light` and `mail.mail_notification_paynow
 Name: `Remove signature`   
 Key: `mail.mail_notification_remove_signature`  
 Inherited Key: `mail.mail_notification_paynow`  
-Priority: 99
 
 ```xml
 <?xml version="1.0"?>
@@ -310,7 +445,6 @@ Priority: 99
 Name: `Replace footer links`   
 Key: `mail.mail_notification_{light,paynow}_replace_footer`  
 Inherited Key: `mail.mail_notification_light` and `mail.mail_notification_paynow`  
-Priority: 99
 
 ```xml
 <?xml version="1.0"?>
