@@ -167,7 +167,7 @@ Name: `Show stock on mrp order`
 Key: `mrp.report_mrporder_show_stock`  
 Inherited Key: `mrp.report_mrporder`  
 
-```
+```xml
 <?xml version="1.0"?>
 <data>
 	<xpath expr="/t/t/t/t/div/table/thead/tr/th[2]" position="after">
