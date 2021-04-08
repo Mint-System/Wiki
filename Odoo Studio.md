@@ -1,5 +1,7 @@
 # Odoo Studio
 
+[[Odoo Studio - Konvertierung zu Odoo Modul]]
+
 ## Berichtsvorlagen anpassen
 
 Im Dokument `odoo/addons/web/views/report_templates.xml` findet man alle Berichtsvorlagen von Odoo.

@@ -1,3 +1,8 @@
+---
+tags:
+- HowTos
+---
+
 # Odoo: Import data from csv
 
 There are few ways using which we can load demo data from csv file.

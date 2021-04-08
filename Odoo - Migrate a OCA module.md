@@ -1,3 +1,8 @@
+---
+tags:
+- HowTos
+---
+
 # Odoo - Migrate a OCA module
 
 See <https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-14.0> for details.
