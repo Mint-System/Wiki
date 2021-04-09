@@ -29,10 +29,12 @@ Damit man die Inhalte auf GitHub stellen kann benötigt man:
 
 Aktuell ist die Knowlege-Base nur in Deutsch verfügbar.
 
-Möchte man für bestimmte Wörter Übersetzungen anlegen, so fügt man diese kursiv geschrieben in runden Klammern an das Wort oder Satz an. Dazu ein Beispiel:
+Möchte man für bestimmte Wörter Übersetzungen anlegen, so erstellt man einen Artikel mit dem gleichen Namen und für eine englische Übersetzung `.en` an.
+
+Für mehrsprachige Angaben innerhalb eines Artikels verwendet man diese Form:
 
 Das ist eine Notiz (*This is a note*).\
-Notiz/(*Note/*)
+Notiz(*Note*)
 
 ### Artikel übersetzen
 

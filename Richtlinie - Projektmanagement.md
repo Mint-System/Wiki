@@ -1,5 +1,5 @@
 # Richtlinie - Projektmanagement
-Übersetzung en_GB: [[Policy - Project Management]]
+Übersetzung: [[Richtlinie - Projektmanagement.en]]
 
 Die Umsetzung von Projekten unterliegt bestimmten Richlinien.
 

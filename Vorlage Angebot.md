@@ -4,7 +4,7 @@ tags:
 ---
 
 # Vorlage Angebot
-Übersetzung en_GB: [[Template Quote]]
+Übersetzung: [[Vorlage Angebot.en]]
 
 Ein Angebot hat diese Struktur:
 
