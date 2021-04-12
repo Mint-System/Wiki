@@ -1,5 +1,15 @@
 # Odoo Shell Scripts
 
+## Basics
+
+List all fields
+
+```
+record = env['res.config.settings'].browse(1)
+for field in record.fields_get():
+    print(field)
+```
+
 ## Commands
 
 Log into Docker Container.  
@@ -35,4 +45,13 @@ Enable user.
 user = self.env['res.users'].search([('active', '=', False),('login', '=', 'janik.vonrotz@mint-system.ch')])
 user.active = True
 self.env.cr.commit()
+```
+
+Disable mail server
+
+```py
+record = env['res.config.settings'].browse(1)
+print(record.external_email_server_default)
+record.external_email_server_default = False
+env.cr.commit()
 ```

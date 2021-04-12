@@ -26,7 +26,7 @@ Gehäuse für Raspberry Pi Computer und Touchscreen.
 
 Kann mit dieser [Zeichnung](https://www.thingiverse.com/thing:1585924) auch selber gedruckt werden.
 
-**RFID Cardd Reader**
+**RFID Card Reader**
 
 Liest die RFID-Karten aus.
 

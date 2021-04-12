@@ -242,7 +242,6 @@ Inherited Key: `mrp.report_mrporder`
 
 If lot is not available show forecasted days.
 
-Name: `Show lot in mrp order`  
 Key: `mrp.report_mrporder_show_lot`  
 Inherited Key: `mrp.report_mrporder`
 
