@@ -11,12 +11,16 @@ Das Angebot der Mint System.
 * [[Hosting]]  
 * [[OpenEduca]]  
 * [[Support]]
+* [[Odoo Zeiterfassung]]
 
 ## Hosting
 
 * [[Nextcloud Hosting]]  
 * [[Odoo Hosting]]  
+* [[Managed Server]]
+* [[BigBlueButton Hosting]]
 
 ## Produkte
-* [[Managed Server]]
-* [[Odoo Zeiterfassung]]
+
+* [[Terminal Zeiterfassung]]
+
