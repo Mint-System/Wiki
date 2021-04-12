@@ -26,3 +26,8 @@ Als Odoo-Partner hat man Zugriff auf den gesamten Quellcode von Odoo. Das ist ei
 ![[odoo all in one.jpeg]]
 
 ![[Odoo all-in-one software solution.png]]
+
+## Apps
+
+* [[Odoo Anwesenheitszeiten]]
+* [[Odoo Abwesenheitszeiten]]

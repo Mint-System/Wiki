@@ -128,14 +128,19 @@ Ziel: Odoo Entwicklung validiert.
 * Arbeitsverträge einrichten
 * Arbeitszeiten definieren
 * Organisation und Genehmigungsprozess abbilden
+- Abteilungen erfassen inklusive der Hierarchie
+- Die Adressen des Personals importieren
+- Mitarbeiter erfassen und mit Odoo-Benutzer verknüpfen
+- Rollen und Berechtigungen erteilen
+- Arbeitszeiten festlegen
 
-Ziel: Die Pesonaldaten der Mitarbeiter sind erfasst.
+Ziel: Die Personaldaten der Mitarbeiter sind erfasst.
 
 [[Phase An- und Abwesenheitszeiten|Phase x: An- und Abwesenheitszeiten]]
 * Abwesenheitstypen festlegen
 * Importieren Feiertagskalender
-* Prüfung des Genehmegigungsprozesses
-* Testen der Stundenlohnabrechnung
+* Prüfung des Genehmigungsprozess
+* PIN-Code und Kartennummer hinterlegen
 
 Ziel: Mitarbeiter können ihre An- und Abwesenheitszeiten registrieren.
 
