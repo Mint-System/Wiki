@@ -1,14 +1,14 @@
 # Prozess Produktionsumgebung bereitstellen
 
-Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung immer verfügbar sein und gesichert sein.
+Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung muss immer verfügbar und gesichert sein.
 
 ## 1. Initialisierung
 
 Arbeitsschritte:
 * Bereistellen Umgebung gemäss Bestellung
 * Installation initale Apps
-* Konfiugration der Mail-Dienste
-* Einladen Benutzer und vergabe Berechtigungen
+* Konfiguration der Mail-Dienste
+* Einladen Benutzer und Vergabe Berechtigungen
 
 ## 2. Lokalisierung
 

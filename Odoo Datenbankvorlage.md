@@ -9,12 +9,16 @@ Die Vorlagen wurde mit diesen Arbeitsschritten erstellt.
 * Benutzername: `login@mint-system.ch`
 * Passwort des Administrators speichern
 * Anzeigename und Anzeigebild des Administrators `Administrator Mint System` anpassen
-* Konfiguration ausgehender Mail-Server
-* Anpassen des Unternehmens-Datensatz
+* Externer Mail-Server aktivieren
+* Anpassen des Unternehmens-Datensatz mit Demodaten
 * Benutzer erstellen und Berechtigungen konfigurieren
-* Entfernen `odoo_referral`apps #Odoo13
+* Entfernen `odoo_referral`apps (Odoo13)
 * Installation der Initialmodule:
-	* note #Odoo13-14 
+	* note
+	* show_db_name
+	* auth_oauth_keycloak
+	* web_responsive (Odoo-Community)
+* Konfigurieren OAuth Provider
 
 ## Allgemein
 

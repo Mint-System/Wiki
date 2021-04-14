@@ -1,4 +1,4 @@
 # Phase Lager
 
-## Lagerort einrichten
+## Lagerorte einrichten
 

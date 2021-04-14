@@ -17,3 +17,7 @@ Odoo reports are generate from a html template. The template can be called direc
 **MRP Order**
 
 <https://example.com/report/html/mrp.report_mrporder/$ID>
+
+**HR Payslip**
+
+<https://example.com/report/html/gio_payroll_custom.hr_payroll_report/$ID>

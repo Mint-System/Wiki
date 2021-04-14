@@ -78,6 +78,24 @@ Benutzername
 ```
 Datei: `fetchmail.server.csv`
 
+### OAuth Provider
+
+Listenansicht: *Provider*
+
+Felder Kontakt:
+```
+Provider Name
+Client ID
+Erlaubt
+Keycloak
+Nachrichtentext
+Gültigkeitsbereich
+Validierungs URL
+Authorisierungs URL
+```
+
+Datei: `auth.oauth.provider.csv`
+
 ### Fertigung
 
 Exportieren von Produkten, Arbeitsplätze, Arbeitspläne und mehr.
