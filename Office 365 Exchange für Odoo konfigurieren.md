@@ -20,6 +20,13 @@ graph LR
 
 * Als Name *Odoo Connector* eintragen
 * Option *IP-Adresse* auswählen und die Adresse des Odoo Server eintragen
+
+Die IP-Adresse des Odoo Server können sie mit diesem Befehl anzeigen:
+
+```bash
+nslookup erp.example.com
+```
+
 * Mit *Weiter* und *Speichern* den Vorgang abschliessen
 
 ## Odoo Postfach
@@ -47,27 +54,27 @@ Odoo kann unter anderen Adressen Mails versenden und Empfangen. Dazu braucht es 
 
 Für den Empfang von Exchange-Mails das folgende IMAP-Postfach konfigureiren:
 
-Servername: `outlook.office365.com`  
-Port: `993` 
-SSL/TLS: `[x]`
+Servername: `outlook.office365.com`\
+Port: `993`\
+SSL/TLS: `[x]`\
 Login information: Bentzername und Passwort des Odoo Postfach
 
 ## Odoo ausgehender Mail-Server
 
-Odoo unterscheidet zwischen eingehenden und ausgehen Mails. Für den Versand von Mails muss eine SMTP-Verbindung konfgiuriert werden.
+Odoo unterscheidet zwischen eingehenden und ausgehen Mails. Für den Versand von Mails muss eine SMTP-Verbindung konfiguriert werden.
 
 * Adresse für Mail-Server anzeigen
 
 ```
-dig example.com MX +short
+dig example.ch MX +short
 0 example-ch.mail.protection.outlook.com.
 ```
 
 * Mail-Account mit diesen Informaionen erfassen:
 
-Beschreibung: `Office365 Outgoing`  
-Postausgang-Server: `example-ch.mail.protection.outlook.com` 
-SMTP-Port: `25`  
-Verbindungssicherheit: `TLS (STARTTLS)`  
+Beschreibung: `Office365 Outgoing`\
+Postausgang-Server: `example-ch.mail.protection.outlook.com`\
+SMTP-Port: `25`\
+Verbindungssicherheit: `TLS (STARTTLS)`
 
 * Die Verbindung testen und den Vorgang abschliessen
