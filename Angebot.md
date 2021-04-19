@@ -12,6 +12,7 @@ Das Angebot der Mint System.
 * [[OpenEduca]]  
 * [[Support]]
 * [[Odoo Zeiterfassung]]
+* [[ERPNext]]
 
 ## Hosting
 

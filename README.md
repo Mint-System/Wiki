@@ -4,7 +4,7 @@
 
 Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
 
-Sie ist als Git Repository unter <https://github.com/Mint-System/Wiki> gehostet.
+Sie ist als Git Repository unter <https://github.com/Mint-System/Wiki> abrufbar.
 
 ## Struktur
 
@@ -30,6 +30,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Philosophie]]
 * [[Marketing]]
 * [[Unternehmensentwicklung]]
+* [[Topics]]
 
 ## Darstellung
 
