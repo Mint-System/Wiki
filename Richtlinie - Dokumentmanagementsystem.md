@@ -62,7 +62,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 * Geschäftsführung - Strategische Informationen
 * Gründung - Gründungsdokumente
 * Infrastruktur - Dokumentation der Mint System Infrastruktur
-* Knowledge Mint System - Wissensdatenbank
+* Wiki Mint System - Wissensdatenbank
 * Lieferanten/[Name] - Lieferantenbeziehungen werden hier abgebildet
 * Methodik/[Thema] - Angwendet Methoden
 * Mitgliedschaften/[Name] - Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen

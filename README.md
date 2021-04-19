@@ -1,22 +1,10 @@
 ![[Mint System Logo.png]]
 
-# Knowledge Mint System
+# Wiki Mint System
 
 Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
 
-Sie ist als Git Repository unter <https://github.com/Mint-System/Knowledge> gehostet.
-
-## Darstellung
-
-Die Wissensdatenbank wird mit [[Vuepress]] visualisiert.
-
-## Bearbeitung
-
-Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
-
-Zur lokalen Bearbeitung erstellt man einen Klon des Git Repo `git clone git@github.com:Mint-System/Knowledge.git` und öffnet den Ordner als Obsidian-Vault.
-
-Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]]. 
+Sie ist als Git Repository unter <https://github.com/Mint-System/Wiki> gehostet.
 
 ## Struktur
 
@@ -42,6 +30,18 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Philosophie]]
 * [[Marketing]]
 * [[Unternehmensentwicklung]]
+
+## Darstellung
+
+Die Wissensdatenbank wird mit [[Vuepress]] visualisiert.
+
+## Bearbeitung
+
+Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
+
+Zur lokalen Bearbeitung erstellt man einen Klon des Git Repo `git clone git@github.com:Mint-System/Wiki.git` und öffnet den Ordner als Obsidian-Vault.
+
+Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]]. 
 
 ## Hilfe
 

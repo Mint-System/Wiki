@@ -5,9 +5,10 @@ tags:
 
 # Vorlagen
 
-[[Vorlage Angebot]]  
-[[Vorlage Konzept]]  
-[[Vorlage Anforderungsanalyse]]  
-[[Vorlage Aufwandsschätzung]]  
-[[Vorlage Phase]]  
-[[Vorlage Troubleshooting]]
+* [[Vorlage Angebot]]
+* [[Vorlage Konzept]]
+* [[Vorlage Anforderungsanalyse]]
+* [[Vorlage Aufwandsschätzung]]
+* [[Vorlage Phase]]
+* [[Vorlage Troubleshooting]]
+* [[Vorlage Datenmmigration]]

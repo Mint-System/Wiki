@@ -12,7 +12,7 @@ Die wichtigsten Links der Mint System.
 
 [Odoo Website Mint System](https://www.mint-system.ch)
 
-[Knowledge Mint System](https://knowledge.mint-system.ch)
+[Wiki Mint System](https://wiki.mint-system.ch)
 
 [Webmail Infomaniak](https://workspace.infomaniak.com/#service=mail)
 

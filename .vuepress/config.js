@@ -1,7 +1,7 @@
 
 module.exports = {
-    title: 'Knowledge Mint System',
-    description: 'Knowledge Mint System',
+    title: 'Wiki Mint System',
+    description: 'Wiki Mint System',
     themeConfig: {
         sidebar: 'auto',
         nav: [
@@ -19,7 +19,7 @@ module.exports = {
         [
             'vuepress-plugin-sitemap',
             {
-                hostname: 'https://knowledge.mint-system.ch/'
+                hostname: 'https://wiki.mint-system.ch/'
             }
         ]
     ]

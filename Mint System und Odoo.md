@@ -168,8 +168,8 @@ Odoo Open Source Community
 
 * https://www.odoo.com
 * https://github.com/odoo
-* https://odoo-handbuch.mint-system.ch
-* https://knowledge.mint-system.ch
+* https://odoo-erp.ch
+* https://wiki.mint-system.ch
 * https://www.odoo.com/pricing
 
 ---

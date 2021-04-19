@@ -8,7 +8,7 @@ We have Docker environment containing a postgres 10 database and want to upgrade
 
 The environment has an Odoo database:
 
-**docker-compose.yml**
+**Odoo-Development/docker-compose.yml**
 
 ```yml
 ...
@@ -33,25 +33,73 @@ volumes:
 
 Start the environment.
 
-`docker-compose up`
+`task start`
 
-Set env vars.
+Set env vars and create directory.
 
 ```bash
 OLD='10'
 NEW='12'
+POSTGRES_USER=odoo
+mkdir -p "$PWD/$NEW"
 ```
 
 Stop the running container.
 
 `docker stop db`
 
-Upgrade the volume
+Upgrade the volume.
 
 ```bash
+sudo rm -rf "$PWD/$NEW"
 docker run --rm \
- -v odoo-db-data:/var/lib/postgresql \
- "tianon/postgres-upgrade:$OLD-to-$NEW" \
- --link
+ -v odoo-development_odoo-db-data:/var/lib/postgresql/10/data \
+ -v "$PWD/$NEW/data":/var/lib/postgresql/12/data \
+ -e PGUSER=$POSTGRES_USER\
+ -e POSTGRES_INITDB_ARGS="-U $POSTGRES_USER"\
+ "tianon/postgres-upgrade:$OLD-to-$NEW"
+```
 
+Show current version.
+
+`sudo cat /var/lib/docker/volumes/odoo-development_odoo-db-data/_data/PG_VERSION`
+
+Move the directory.
+
+```
+sudo rm -rf /var/lib/docker/volumes/odoo-development_odoo-db-data/_data
+sudo mv 12/data /var/lib/docker/volumes/odoo-development_odoo-db-data/_data
+```
+
+Change posgres version.
+
+`image: postgres:12`
+
+Start the container.
+
+```
+task start-db
+```
+
+Check logs.
+
+```
+docker logs db
+```
+
+## Troubleshooting
+
+### No entry host
+
+**Problem**
+
+```
+2021-04-16 12:07:49.121 UTC [35] FATAL:  no pg_hba.conf entry for host "172.28.0.5", user "odoo", database "postgres", SSL off
+```
+
+**Solution**
+
+```
+docker exec db /bin/bash -c 'echo "host all all all trust" >> /var/lib/postgresql/data/pg_hba.conf'
+task start
 ```
