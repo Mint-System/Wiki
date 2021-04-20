@@ -14,3 +14,7 @@ Wenn der Zeitaufwand verrechnet werden soll, muss die Aufgabe mit einem Auftrags
 ### Permanente Aufgaben
 
 Interne Aufgaben, die nicht dem Projektlebenszyklus unterstehen, stehen in der Spalte *Permanent* zur Verfügung.
+
+## Verrechenbaren Stunden anzeigen
+
+ Navigiere nach *Projekt > Übersicht > Zeiterfassung > Favoriten > Verrechnung*. Dann zeigt es dir alle validierten verrechenbaren Stunden an, die noch nicht verrechnet wurden.

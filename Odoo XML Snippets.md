@@ -304,6 +304,11 @@ Inherited Key: `mrp.report_mrporder`
 </data>
 ```
 
+### Single user timesheet report
+
+Name: `mint_system.hr_timesheet.report_timesheet_user_report.xml`\
+Inherited Key: `hr_timesheet.report_timesheet`
+
 ## Website
 
 ### Remove header navigation for a page
