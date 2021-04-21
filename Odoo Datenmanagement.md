@@ -230,6 +230,44 @@ USt-IdNr.
 Datei: `res.company.csv`
 
 
+### Fenster öffnen/schliessen ...
+
+Listenansciht: *Einstellungen > Technisch > Aktionen > Fenster öffnen/schliessen ...*
+
+Fehler:
+```
+Name der Aktion
+Zielmodell
+Aktionsart
+```
+Datei: `ir.actions.act_window.csv`
+
+### Menüeinträge
+
+Listenansciht: *Einstellungen > Technisch > Benutzer-Interface > Menüeinträge*
+
+Fehler:
+```
+id
+name
+parent_id/id
+sequence
+action
+```
+Datei: `ir.ui.menu.csv`
+
+### Exportvorlagen
+
+Listenansciht: *Einstellungen > Technisch > Exportvorlagen*
+
+Fehler:
+```
+Exportbezeichnung
+Ressource (Objekt)
+Export ID/Feldname
+```
+Datei: `ir.exports.csv`
+
 ## Importvorgänge
 
 ### Produkt
