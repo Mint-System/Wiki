@@ -1,8 +1,8 @@
 # Infomaniak
 
-## Mail-Hosting
+Website: <https://www.infomaniak.com/>
 
-Die Mail-Postfächer der Mint-System werden hier
+Die Mail-Postfächer der Mint-System werden von Infomaniak verwaltet.
 
 ## Troubleshooting
 

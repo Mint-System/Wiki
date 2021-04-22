@@ -1,9 +1,18 @@
 # Phasen Textbausteine
 
-[[Phase Installation|Phase X: Installation]]
+[[Phase Hosting initialisieren|Phase X: Hosting initialisieren]]
+* Die DNS Konfiguration vornehmen
+* Hosting-Lösungen installieren
+* Benutzer-Accounts einrichten
+* Initiale Konfiguration vornehmen
+* Mail-Accounts integrieren
+
+Ziel: Die Hosting-Lösungen sind initialisiert.
+
+[[Phase Odoo Installation|Phase X: Odoo Installation]]
 * Den Odoo Mandanten aufsetzen
 * Die DNS Konfiguration vornehmen
-* Odoo Mail-Account Integration
+* Odoo Mail-Account integrieren
 * Die Benutzer in Odoo bereitstellen
 * Odoo Module von Dritten installieren
 
@@ -192,3 +201,10 @@ Ziel: Das Design der Odoo-Webseite entspricht dem Corporate Design des Unternehm
 * Neue Block-Elemente definieren
 
 Ziel: Anpassung für die Website sind umgesetzt.
+
+[[Phase Software-Entwicklung|Phase x: Software-Entwicklung]]
+* Requirements Engineering
+* Iterative Entwicklung gemäss Anforderungen
+* Bereitstellung und Inbetriebnahme der Software-Lösung
+
+Ziel: Die Geschäftsapplikation ist entwickelt.

@@ -1,8 +1,8 @@
 # Hosting
 
-Die hier vorgestellten Anwendung sollen vorzugsweise als Docker Container betrieben werden. Somit ist sichergestellt, dass man als Unternehmen Plattform-unabhängig bleibt.
+## Leistungsbeschreibung
 
-Zum Betrieb der Docker-Container braucht es ein PaaS-Angebot. Die restlichen Anwendungen werden als SaaS eingekauft.
+Die Mint System unterstützt Kunden beim Betrieb von Applikationen. Basierend auf der Container-Technologie können nahezu alle Arten von Applikationen gehostet werden. Die sichere Konfiguration und laufende Aktualisierung der Container wird durch die Mint System sichergestellt.
 
 ## Service-Pakete
 

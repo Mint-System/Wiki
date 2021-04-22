@@ -13,7 +13,7 @@ Create server action:
 10. Start the action
 11. Wait for log message
 
-## Manufacturing: Archive stock production lot
+## Mint System: Archive stock production lot
 
 ```py
 # search for all lots

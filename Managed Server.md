@@ -2,11 +2,11 @@
 Der *Managed Server* ist ein Produkt der Mint System.
 
 ## Leistungsbeschreibung
-Dem Kunden steht exklusiv ein dedizierter Sever zur Verfügung. Die Betriebsbereitschaft der Hardware und des Betriebssystem sind garantiert.
+Der Managed Server ist die Basis für die Hosting-Angebote der Mint System.
 
-## Abgrenzung
-**Keine Applikationen**  
-Die Installation und Aufrechterhaltung der Betriebsbereitschaft von Applikationen ist nicht im Leistungsumfang enthalten.
+Dem Kunden steht exklusiv ein dedizierter Sever zur Verfügung. Die Betriebsbereitschaft der Hardware und des Betriebssystem sind durch den Anbieter garantiert.
+
+Die laufende Aktualisierung und Überwachung des Systems und dessen Konfiguration wird durch die Mint System sichergestellt.
 
 ## Vorteile
 
@@ -26,9 +26,17 @@ Wichtige Daten werden täglich gesichert.
 
 Die Anwendung werden als Linux Container betrieben. Somit sind sie voneinander getrennt.
 
+**SSH-Zugriff**
+
+Der Kunde kann nach Wunsch direkten Zugriff auf den Server haben.
+
 **Support**
 
 Benötigen Sie technischen Support für eine Anwendung, können Sie uns jederzeit kontaktieren.
+
+## Abgrenzung
+**Keine Applikationen**  
+Die Installation und Aufrechterhaltung der Betriebsbereitschaft von Applikationen ist nicht im Leistungsumfang enthalten.
 
 ## Informationen
 

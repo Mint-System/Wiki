@@ -6,7 +6,7 @@ Die Phasen basieren auf der [[Vorlage Phase]].
 
 Wir bieten diese Projektphasen für Odoo-Projekte an:
 
-* [[Phase Installation]]
+* [[Phase Odoo Installation]]
 * [[Phase Initialisierung]]
 * [[Phase Produktentwicklung]]
 * [[Phase Produktionsplanung]]
