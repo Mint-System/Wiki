@@ -32,11 +32,11 @@ Bestimmte Ordnernamen sind reserviert.
 
 **Input**
 
-Ordner mit der Bezeichung *Input* sind Sammelordner mit Dokumenten zur Verarbeitung.
+Ordner mit der Bezeichung *Input| sind Sammelordner mit Dokumenten zur Verarbeitung.
 
 **Archiviert**
 
-Zu Archivierung werden Dokument oder Ordner im selben Verzeichnis in den Ordnert *Archiviert* verschoben.
+Zu Archivierung werden Dokument oder Ordner im selben Verzeichnis in den Ordnert *Archiviert| verschoben.
 
 **Output**
 
@@ -50,35 +50,39 @@ Temporäre Dateien können hier abgelegt werden.
 
 Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 
-* Angebot - Angebote der Mint System
-* Akquise - Notizen für Akquisen
-* Archiv - Ablage zur Archivierung
-* Bilder - Fotoalben
-* Corporate Design - Format- und Dokumentvorlagen, Bilder zur Publikation
-* Data - Speicherung von Anwendungsdaten.  Beispielsweise Passwort-Dateien von [[KeePassXC]]
-* Development - Entwicklung Odoo und System Engineering
-* Finanzen - Finanz- und Kontenplan
-* Förderbeiträge - Dokumente Sponsoring Mint System
-* Geschäftsführung - Strategische Informationen
-* Gründung - Gründungsdokumente
-* Infrastruktur - Dokumentation der Mint System Infrastruktur
-* Wiki Mint System - Wissensdatenbank
-* Lieferanten/[Name] - Lieferantenbeziehungen werden hier abgebildet
-* Methodik/[Thema] - Angwendet Methoden
-* Mitgliedschaften/[Name] - Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen
-* Odoo - Odoo Dokumente
-* Odoo Handbuch - Das Odoo Handbuch ist eine Referenzdokumentation der Odoo-Prozesse und bietet eine umfangreiche Benutzeranleitung. 
-* Partner - Dokumente zu unseren Partner
-* Rechnungen/[Monat] - Rechnung von Lieferanten
-* Personal - Verträge und Abrechnungen
-* Produkte - Dokumente zu den Mint System Produkten
-* Projekte/[Name] - Projektablagen analog Odoo. Der Projektnahme enthält den Unternehmensname sowie eine Projektbezeichnung.
-* Public Relations - Zeitungsartikel und allgemeine PR
-* Strategie - Allgemeine Geschäftsstrategie und Businessplan
-* Marketing - Dokumente zu Marketing-Kampagnen
-* Verträge/[Name] - Alle Vertragsdokumente mit Externen
-* Vorlage - Dokumentvorlagen mit Inhalt
-* Website - Dateien zum Webauftritt
-* Verkauf - Vorlagen für Angebote
-* Secrets - Schlüssel und Passwörter
-* Steuern/[Jahr] - Dokumente Unternehmens- und Mehrwertssteuer
+| Ordner                  | Beschreibung                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Angebot                 | Angebote der Mint System                                                                                           |
+| Archiv                  | Ablage zur Archivierung                                                                                            |
+| Bilder                  | Fotoalben                                                                                                          |
+| Corporate Design        | Format- und Dokumentvorlagen, Bilder zur Publikation                                                               |
+| Data                    | Speicherung von Anwendungsdaten.  Beispielsweise Passwort-Dateien von [[KeePassXC]]                                |
+| Development             | Entwicklung Odoo und System Engineering                                                                            |
+| Finanzen                | Finanz- und Kontenplan                                                                                             |
+| Förderbeiträge          | Dokumente Sponsoring Mint System                                                                                   |
+| Geschäftsführung        | Strategische Informationen                                                                                         |
+| Gründung                | Gründungsdokumente                                                                                                 |
+| Infrastruktur           | Dokumentation der Mint System Infrastruktur                                                                        |
+| Lieferanten/[Name]      | Lieferantenbeziehungen werden hier abgebildet                                                                      |
+| Management Handbuch     | Dokumentation zu Methoden und Vorgehensmodellen                                                                    |
+| Marketing               | Dokumente zu Marketing-Kampagnen                                                                                   |
+| Meeting                 | Meeting Protokolle der Mint System                                                                                 |
+| Methodik/[Thema]        | Angwendet Methoden                                                                                                 |
+| Mitgliedschaften/[Name] | Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen                                              |
+| News                    | Neuigkeiten aus Medien                                                                                             |
+| Odoo                    | Odoo Dokumente                                                                                                     |
+| Odoo Handbuch           | Das Odoo Handbuch ist eine Referenzdokumentation der Odoo-Prozesse und bietet eine umfangreiche Benutzeranleitung. |
+| Partner                 | Dokumente zu unseren Partner                                                                                       |
+| Personal                | Verträge und Abrechnungen                                                                                          |
+| Produkte                | Dokumente zu den Mint System Produkten                                                                             |
+| Projekte/[Name]         | Projektablagen analog Odoo. Der Projektnahme enthält den Unternehmensname sowie eine Projektbezeichnung.           |
+| Public Relations        | Zeitungsartikel und allgemeine PR                                                                                  |
+| Rechnungen/[Monat]      | Rechnung von Lieferanten                                                                                           |
+| Secrets                 | Schlüssel und Passwörter                                                                                           |
+| Steuern/[Jahr]          | Dokumente Unternehmens- und Mehrwertssteuer                                                                        |
+| Strategie               | Allgemeine Geschäftsstrategie und Businessplan                                                                     |
+| Verkauf                 | Vorlagen für Angebote                                                                                              |
+| Verträge/[Name]         | Alle Vertragsdokumente mit Externen                                                                                |
+| Vorlage                 | Dokumentvorlagen mit Inhalt                                                                                        |
+| Website                 | Dateien zum Webauftritt                                                                                            |
+| Wiki Mint System        | Wissensdatenbank                                                                                                   |
