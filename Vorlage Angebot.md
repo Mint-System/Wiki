@@ -95,6 +95,11 @@ Der entwickelte Softwarecode untersteht der [[GNU GPLv3 Lizenz]].
 Abrechnung Fixpreis:  
 Die Abrechnung der offerierten Leistungen erfolgt einmalig.
 
+### Abrechnung
+
+Kostendach:
+Der Kostendachpreis ist der maximale Preis, den der Kunde für die im Angebot vereinbarte Leistung bezahlen muss. Es versteht sich, dass das Kostendach bei Projektänderungen angepasst werden muss.
+
 ### Spesen
 
 Spesen gemäss Aufwand:  

@@ -24,7 +24,7 @@ Das Angebot der Mint System.
 * [[Moodle Hosting]]
 * [[Wordpress Hosting]]
 
-## Produkte
+## [[Produkte]]
 
 * [[Terminal Zeiterfassung]]
 

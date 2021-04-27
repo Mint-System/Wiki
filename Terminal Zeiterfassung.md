@@ -1,19 +1,15 @@
 # Terminal Zeiterfassung
 Das "Terminal Zeiterfassung" ist ein Produkt der [[Mint System GmbH]].
 
+![[Produktbild.png]]
+
 ## Beschreibung
-Odoo bietet eine einfach zu bedienende Zeiterfassung an. Mit dem Terminal von Mint System erhalten sie das ideale Duo von Software und Hardware. 
 
-***Umschreiben als Text***
-Mit dem Terminal erfassen Mitarbeiter ihre Anwesenheit.
-Die Hardware zeichnet durch folgende Punkte aus:
-- Zuverlässig und Unabhängig
-- Komponenten sind universell Verfügbar 
-- Touchscreen für intuitive Bedienung
-- Flexible Montage vor Ort
-- Chipleser fïur RFID und NFC
+Mit dem Terminal Zeiterfassung erfassen Mitarbeitende ihre Präsenzeit ohne Tastatureingaben. Das Terminal ist mit einem Touchscreen bedienbar und ist mit dem Odoo-Kioskmodus integriert. Mitarbeitende können mittels PIN, RFID oder NFC ihre Identität bestätigen und ihre Anwesenheit registrieren.
 
-***Umschreiben als Text***
+Wir setzen auf Open Source Hardware.  Heisst alle Komponenten des Terminals werden von verschiedenen Hardwarehersteller angeboten. Die Hardware ist zuverlässiger und als Kunde ist man vom Lieferanten unabhängig.
+
+Die Mint System übernimmt die Montage vor Ort und unterstützt den Kunden bei der Konfiguration oder allfälligen Problemen. 
 
 ## Hardware
 

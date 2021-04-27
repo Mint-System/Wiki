@@ -1,5 +1,7 @@
 # Phasen Textbausteine
 
+## Phase und Aktivitäten
+
 [[Phase Hosting initialisieren|Phase X: Hosting initialisieren]]
 * Die DNS Konfiguration vornehmen
 * Hosting-Lösungen installieren
@@ -119,18 +121,22 @@ Ziel: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 Ziel: Die Schnittstelle zu den Lieferfirmen ist etabliert
 
-Phase X: Reporting
-* Das Reporting für die Nachkalkulation einrichten
-* Die verschiedenen Dashboards bereitstellen
-
-Ziel: Das Reporting und das Management-Cockpit sind bereit.
-
 [[Phase Odoo Entwicklung|Phase x: Odoo Entwicklung]]
 * Erstellen technische Spezifikation
 * Kick-Off mit externen Odoo Entwickler
 * Kontinuierliche Integration und Testen der Lösung
 
 Ziel: Odoo Entwicklung validiert.
+
+[[Phase Odoo Bericht|Phase x: Odoo Bericht]]
+* Anpassen Odoo Bericht gemäss Anforderungen
+* Analyse Anforderungen Bericht
+* Entwicklung neuer Bericht gemäss Anforderungen
+* Layout entsprechend Corporate Design anpassen
+* Globale Formatvorlagen erfassen
+
+Ziel: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
+
 
 [[Phase Personal|Phase x: Personal]]
 * Adressen des Personal erfassen

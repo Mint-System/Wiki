@@ -47,7 +47,7 @@ REFERENZ.
 
 **Mint System GmbH**
 
-Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und "bauen die Brücke" zwischen Odoo S.A. und dem Kunden. Wir verstehen die Prozesse von Firmen wie die KUNDE. Der designierte [[Mint System GmbH#Mitarbeiter]]. Ergänzt mit dem Knowhow aus erfolgreichen Odoo-Projekten (siehe Abschnitt Referenzen) sind wir ein kompetenter Partner für die Umsetzung des ERP-Projektes bei KUNDE. Wir würden uns sehr freuen.
+Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und "bauen die Brücke" zwischen Odoo S.A. und dem Kunden. Wir verstehen die Prozesse von Firmen wie die KUNDE. Ergänzt mit dem Knowhow aus erfolgreichen Odoo-Projekten (siehe Abschnitt Referenzen) sind wir ein kompetenter Partner für die Umsetzung von ERP-Projekten bei KUNDE.
 
 **Dreiecksbeziehung "Kunde - Odoo - Mint System"**
 
@@ -62,6 +62,6 @@ Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](
 
 [[Phasen Textbausteine]]
 
-## Referenzen
+### Referenzen
 
 Siehe [[Mint System Referenzen]].

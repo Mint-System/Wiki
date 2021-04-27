@@ -1,5 +1,7 @@
 # Odoo Upgrade
 
+Description of the [[Odoo Enterprise Edition]] upgrade process. For [[Odoo Community Edition]] there is the [[OpenUpgrade]] project.
+
 ## Setup upgrade environment
 
 Create new Odoo instance:
@@ -23,23 +25,51 @@ The main challenge of the upgrade process is having the filestore at the right l
 
 Steps to upgrade a databse.
 
-* Start local development environment
-* Clear the local filestore and database
-* Export remote database to local folder and restore it
-* Run the upgrade script
+* Set env vars
 
-```
+```bash
 export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
 export DATABASE=erp
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
+```
+
+* Start local development environment
+
+```bash
+task start db
+task start src
+```
+
+* Clear the local filestore and database
+
+```bash
+task drop-db erp
+task clear-filestore erp
+```
+
+* Export remote database to local folder and restore it
+
+```bash
+odoo-backup ...
+odoo-restore ...
+```
+
+* Run the upgrade script
+
+```bash
 odoo-upgrade test -d $DATABASE -t 14.0
 ```
 
 It should automatically restore the database.
 
 * Switch local development environment to targeted version
+
+```bash
+task checkout 14.0
+```
+
 * Test and export database
 * Upload database to test environment
 
@@ -55,6 +85,15 @@ In addition you must:
 * Reconnect the [[Odoo Subscription]]
 
 ## Troubleshooting
+
+### Modules missing
+
+Remove specific modules that are not supported.
+
+```bash
+task remove-module erp_test_14.0_2021_04_27_09_02 auth_oauth_multi_token
+task remove-module erp_test_14.0_2021_04_27_09_02 web_company_color
+```
 
 ### Connection lost
 

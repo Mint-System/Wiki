@@ -2,6 +2,8 @@
 
 Die Phasen basieren auf der [[Vorlage Phase]].
 
+Die Angebotstext sind unter [[Phasen Textbausteine]] festgehalten.
+
 ## Odoo-Projekt
 
 Wir bieten diese Projektphasen für Odoo-Projekte an:
