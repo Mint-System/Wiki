@@ -12,6 +12,7 @@ Laufende Integration](https://janikvonrotz.ch/2020/02/26/nginx-waf-with-modsecur
 
 Der Einsatz WAF erfordert kontinuierliches Training. Die sogennanten False Positives, also von der WAF als erkannte Angriffs-Muster, die aber legitime Handlungen sind, müssen identifiziert werden.
 
- ## Testen
+ ## Weitere Links
  
- Die WAF kann sehr einfach getestet werden. Browser öffnen und link eingeben: `https://erp.example.com?param="><script>alert(1);</script>`
+* [[WAF testen]]
+* [[WAF-Log analysieren]]
