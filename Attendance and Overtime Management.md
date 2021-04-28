@@ -6,11 +6,12 @@ Odoo App von [[Syscoon GmbH]] zur Kalkulation von Überzeiten.
 
 **Arbeitszeiten**
 
-* Arbeitszeit am jeweiligen Tag wird berücksichtigt 
+* Arbeitszeitblock am jeweiligen Tag wird berücksichtigt
 
 **Überstunden**
 
 * Offset kann für Mitarbeiter festgelegt werden
+* Überzeit wird fortlaufend kumuliert
 
 **Anwesenheit**
 
@@ -24,4 +25,8 @@ Odoo App von [[Syscoon GmbH]] zur Kalkulation von Überzeiten.
 
 ## Einschränkungen
 
-* Feiertage müssen als Abwesenheit bezogen werden oder müssen an jeder Arbeitszeit als *Global Time-Off* hinterlegt werden
+* Feiertage müssen als Abwesenheit bezogen werden damit sie angezeigt werden.
+
+* Feiertag müssen als Arbeitszeit als *Global Time-Off* hinterlegt werden.
+
+* Bei Feiertag und halber Ferientag (< 1 Tag) werden nicht die durchschnittlichen Arbeitszeiten verwendet.

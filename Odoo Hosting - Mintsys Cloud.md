@@ -1,4 +1,4 @@
-# Odoo Hosting in der Mintsys Cloud
+# Odoo Hosting - Mintsys Cloud
 
 Vollständige Kontrolle über die Odoo-Installation. Ist immer kostengünstiger als [[Odoo Hosting - Odoo.sh]].
 
