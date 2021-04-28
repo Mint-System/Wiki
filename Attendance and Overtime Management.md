@@ -25,8 +25,10 @@ Odoo App von [[Syscoon GmbH]] zur Kalkulation von Überzeiten.
 
 ## Einschränkungen
 
-* Feiertage müssen als Abwesenheit bezogen werden damit sie angezeigt werden.
+* Feiertage müssen als Abwesenheit bezogen werden, damit sie als Anwesenheit angezeigt werden.
 
-* Feiertag müssen als Arbeitszeit als *Global Time-Off* hinterlegt werden.
+* Feiertage müssen bei Arbeitszeit als *Global Time-Off* hinterlegt werden. Hat man pro Mitarbeiter aufgrund der unterschiedlichen Anstellungsmodellen eine Arbeitszeitdefinition, müssen Feiertage mehrmals erfasst werden.
 
 * Bei Feiertag und halber Ferientag (< 1 Tag) werden nicht die durchschnittlichen Arbeitszeiten verwendet.
+
+* Der Code des Moduls ist nicht kommentiert. Die Feldtitel sind auf Englisch, die Hilfestellung wieder auf Deutsch. Das macht eine Erweiterung des Moduls schwierig.
