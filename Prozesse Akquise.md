@@ -9,6 +9,7 @@ graph LR;
     B-->C[Anforderungsanalyse];
     C-->D[Odoo Demoumgebung bestellen];
     D-->E[Angebot erstellen]
+	E-->F[Konzept erstellen]
 ```
 
 * [[Prozesse Akquise - Angebot erstellen]]
@@ -16,3 +17,4 @@ graph LR;
 * [[Prozesse Akquise - Kontaktaufnahme]]
 * [[Prozesse Akquise - Odoo Demoumgebung bestellen]]
 * [[Prozesse Akquise - Präsentation]]
+* [[Prozesse Akquise - Konzept erstellen]]
