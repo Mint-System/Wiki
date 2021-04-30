@@ -41,7 +41,7 @@ Der Projektordner soll immer gleich aussehen und so die projektübergreifende Na
 | Ordner / Dokument | Beschreibung                                                     |
 | ----------------- | ---------------------------------------------------------------- |
 | Archiviert/       | Archivierte Dokumente werden hier abgelegt                       |
-| Daten/            | Nutzdaten für Projekt                                            |
+| Data/             | Nutzdaten für Projekt                                            |
 | Bilder/           | Bilder bezüglich Daten und Produkten                             |
 | assets/           | Mediendateien werden hier gespeichert                            |
 | tmp/              | Temporäre Daten die gelöscht werden dürfen, werden hier abgelegt |
