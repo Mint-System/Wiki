@@ -24,4 +24,5 @@ atlas.mint-system.com 100 GB
 
 ## Anwendung
 
-[[Wiederherstellung von Backup]]
+[[Wiederherstellung von Backups]]\
+[[Disaster Recovery Plan]]

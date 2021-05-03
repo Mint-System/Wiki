@@ -29,3 +29,9 @@ Die Webanwendungen der Mint System werden von einer [[Web Application Firewall]]
 Unser Ticketsystem und Forum steht Ihnen zu Verfügung. Bei dringenden Notfällen können Sie uns telefonisch kontaktieren.
 
 [[Wartungsvertrag]]
+
+### Service Level Agreement
+
+Das offertiete Hosting kann als Service Level Agreement (SLA) festgehalten werden.
+
+[[Service Level Agreement Hosting]]

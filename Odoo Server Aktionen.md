@@ -13,7 +13,9 @@ Create server action:
 10. Start the action
 11. Wait for log message
 
-## Mint System: Archive stock production lot
+## Mint System: Archive Stock Production Lot
+
+Archives stock lots if they have a quantity of zero and unarchives them if they have a quantity greater than 0.
 
 ```py
 # search for all lots
@@ -31,16 +33,20 @@ if len(filtered_lots) > 0:
 
 # search for archived lots with product qty 1 or greater
 filtered_lots = all_lots.filtered(lambda lot : lot.active is False and lot.product_qty > 0)
-len(filtered_lots)
+#len(filtered_lots)
 
 # unarchive the filtered lots
 if len(filtered_lots) > 0:
     log('About to unarchive %s: %s' % (filtered_lots._name, filtered_lots.ids))
-    filtered_lots.write({'active': False})
-#env.cr.commit()
+    filtered_lots.write({'active': True})
+env.cr.commit()
+
+raise Warning('The "Archive Stock Production Lot" job was executed successfully.')
 ```
 
-## Report Unreserved Qty
+## Mint System: Report Unreserved Qty
+
+Reports stock movements with problematic definitions.
 
 ```py
 quants = env['stock.quant'].search([])
@@ -112,7 +118,9 @@ if warning == '':
 raise Warning(warning)
 ```
 
-## Fix Unreserved Qty
+## Mint System: Fix Unreserved Qty
+
+Fixes problematic stock movement by resetting the reserved quantity.
 
 Must be run as superuser.
 
