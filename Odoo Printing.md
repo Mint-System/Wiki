@@ -27,7 +27,7 @@ OCA-Programm in GitHub
 
 Entscheidend ist wie lokale Drucker in die off-premise Odoo-Umgebung eingebunden werden können. Bei Ventor wird das mit [PrintNode](https://www.printnode.com/en) ermöglicht.
 
-PrintNode ist ein Programm, das lokal auf dem Computer installiert wird. Es entdeck alle Drucker und synchronisiert mit dem PrintNode-Account. In Odoo verbindet man sich mit dem PrintNode-Account und dadurch stehen Odoo alle Drucker des lokalen Computer zur verfügung.
+PrintNode ist ein Programm, das lokal auf dem Computer installiert wird. Es entdeck alle Drucker und synchronisiert mit dem PrintNode-Account. In Odoo verbindet man sich mit dem PrintNode-Account und dadurch stehen Odoo alle Drucker des lokalen Computer zur verfügung. PrintNode ist kostenpflichtig.
 
 Die Abwicklung eines Druckauftrags:
 
@@ -41,7 +41,11 @@ graph TD
 	f --> g[document is printed]
 ```
 
-PrintNode ist kostenpflichtig.
+Visualisierung:
+
+![[how does PrintNode work.png]]
+
+<small><https://www.printnode.com/en/docs></small>
 
 Die Lösung von VentorTech kann unter <https://odoo.ventor.tech/> getestet werden.
 
