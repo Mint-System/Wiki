@@ -29,25 +29,35 @@ Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Handbuch]].
 
 ## System
 
+* [[Odoo Umgebungen]]
 * [[Odoo Email Integration]]
 * [[Odoo REST API]]
 * [[Odoo QM Data System]]
-* [[Odoo Widgets]]
+* [[Odoo Map View]]
+* [[Odoo Assets]]
+* [[Odoo Printing]]
 
-## Anderes
+## Customization
+
+* [[Odoo Widgets]]
+* [[Odoo Reports]]
+
+## Prozesse
 
 * [[Odoo Datenmanagement]]
-* [[Odoo Map View]]
-* [[Odoo Painpoints]]
+* [[Odoo Upgrade]]
 * [[Odoo Entwicklung]]
-* [[Odoo Assets]]
-* [[Odoo Umgebungen]]
+
+## Meta
+
+* [[Odoo Painpoints]]
 * [[Odoo Troubleshooting]]
 * [[Odoo Offene Fragen]]
 * [[Odoo Business Flow]]
 * [[Odoo 13]]
-* [[Odoo Upgrade]]
 * [[Odoo Community]]
 * [[Odoo Zertifizierung]]
 * [[Odoo Tutorials]]
-* [[Odoo Reports]]
+
+
+

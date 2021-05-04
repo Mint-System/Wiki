@@ -14,3 +14,4 @@ Kriterien zur Evaluation einer Lösung.
 [[Evaluation Odoo Report]]  
 [[Evaluation Telefonieanbieter]]  
 [[Evaluation Nextcloud Office]]
+[[Odoo Printing#Evaluation]]
