@@ -16,39 +16,39 @@ Seedorferstrasse 29
 ### Kurt Gisler
 Elektroingenieur/Manager
 
-Zeit | Unternehmen | Rolle
--|-|-
-Okt 2018 - Heute | Light Wing AG | CPO
-Jun 2016 - Nov 2018 | SATHOM SARL | CPO
-Nov 2014 - Mai 2016 | THOMMEN AIRCRAFT | CPO
-Sep 2012 - Okt 2014 | REVUE THOMMEN AG | CPO
+| Zeit                | Unternehmen      | Rolle |
+| ------------------- | ---------------- | ----- |
+| Okt 2018 - Heute    | Light Wing AG    | CPO   |
+| Jun 2016 - Nov 2018 | SATHOM SARL      | CPO   |
+| Nov 2014 - Mai 2016 | THOMMEN AIRCRAFT | CPO   |
+| Sep 2012 - Okt 2014 | REVUE THOMMEN AG | CPO   |
 
 ---
 ### Janik von Rotz
 Wirtschaftsinformatiker / System Engineer
 
-Zeit | Unternehmen | Rolle
--|-|-
-Jan 2018 - Apr 2019 | AdNovum Informatik AG | Associate IAM Engineer
-Aug 2017 - Dez 2017 | Kantonsspital Obwalden | System Engineer (Zivildienst)
+| Zeit                | Unternehmen            | Rolle                         |
+| ------------------- | ---------------------- | ----------------------------- |
+| Jan 2018 - Apr 2019 | AdNovum Informatik AG  | Associate IAM Engineer        |
+| Aug 2017 - Dez 2017 | Kantonsspital Obwalden | System Engineer (Zivildienst) |
 
 ---
 ### Janik von Rotz
 Wirtschaftsinformatiker / System Engineer
 
-Zeit | Unternehmen | Rolle
--|-|-
-Dez 2012 - Jun 2014 | Verkehrsbetriebe Luzern AG | System Engineer
-Aug 2008 - Jun 2012 | ILZ OW/NW | Informatiker EFZ Systemtechnik
+| Zeit                | Unternehmen                | Rolle                          |
+| ------------------- | -------------------------- | ------------------------------ |
+| Dez 2012 - Jun 2014 | Verkehrsbetriebe Luzern AG | System Engineer                |
+| Aug 2008 - Jun 2012 | ILZ OW/NW                  | Informatiker EFZ Systemtechnik |
 
 ---
 ### Marco Roeleven
 Wirtschaftsinformatiker
 
-Zeit | Unternehmen | Rolle
--|-|-
-Jul 2020 - heute | Mint System GmbH | Verkauf und Projektleitung
-Jan 2003 - Jun 2020 | SisWare AG | Verkauf, Projektleitung und Entwicklung
+| Zeit                | Unternehmen      | Rolle                                   |
+| ------------------- | ---------------- | --------------------------------------- |
+| Jul 2020 - heute    | Mint System GmbH | Verkauf und Projektleitung              |
+| Jan 2003 - Jun 2020 | SisWare AG       | Verkauf, Projektleitung und Entwicklung |
 
 ---
 ### Was uns antreibt
@@ -160,8 +160,8 @@ Odoo Open Source Community
 ### Demo
 
 * Url: https://zeiterfassung.mintsys.ch  
-* Benutzer: peter.vonrotz@metallprojekt.ch  
-* Passwort: met408al;  
+* Benutzer: -
+* Passwort: -
 
 ---
 ### Weitere Links

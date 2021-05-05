@@ -12,9 +12,9 @@ Listenansicht: *Einstellungen > Benutzer >  Benutzer verwalten*
 
 Felder Benutzer:
 ```
-Name
-Login
-Sprache
+name
+login
+lang
 ```
 Datei: `res.users.csv`
 
@@ -41,6 +41,21 @@ Bankverzeichnis/Bank/ID
 ```
 
 Datei: `res.partner.csv`
+
+### Personal
+
+Listenansicht: *Kontakte*
+
+Felder Kontakt:
+```
+name
+work_email
+deparment_id/id
+job_id/id
+user_id/id
+```
+
+Datei: `hr.employee.csv`
 
 ### E-Mail-Server
 
