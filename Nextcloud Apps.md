@@ -1,4 +1,4 @@
 # Nextcloud Apps
 
-[[Nextcloud Social Login]]
-
+* [[Nextcloud Mail]]
+* [[Nextcloud Social Login]]

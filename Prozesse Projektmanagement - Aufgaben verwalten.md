@@ -19,6 +19,7 @@ Alle Hauptaufgaben haben am Ende des Namens den Suffix " (OI)" mit den jeweilige
 * Odoo Implementierung (OI) - Implementation von Odoo-Funktionen
 * Projektleitung (PL) - Allgmeine Projektleitung
 * Software-Entwicklung (SE) - Implementation von Geschäftsapplikationen
+* System-Engineering (SN) - Konfiguration Betriebssystem und Applikationen
 
 **Nicht verrechenbar**
 
