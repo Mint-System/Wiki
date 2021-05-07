@@ -25,8 +25,16 @@ Den Kalender von Infomaniak können sie ganz einfach als `.ics`-Datei exportiere
 
 ![[Calendar Import.png]]
 
+## Infomaniak-Kontakte importieren
+
+Die Kontakte von Infomaniak können sie ganz einfach als `.vcf`-Datei exportieren und in Nextcloud importieren.
+
 ## Kalender abonnieren
 
 Bei Google Calendar, Office 365 und vielen anderen Groupware-Anbieter können Kalender im iCal-Format als Link geteilt werden. In Nextcloud kann man diesen Link  hinzufügen und hat so den Kalender als read-only an einem zentralen Ort.
 
 ![[iCal Link.png]]
+
+## Nextcloud Kalender und Kontakte mit iOS synchronisieren
+
+Damit sie ihre Termine und Kontate von Nextcloud auf ihr iOS-Gerät synchronisieiren können, gibt es von Nextcloud ein offizielle Dokumentation: <https://docs.nextcloud.com/server/19/user_manual/pim/sync_ios.html>
