@@ -16,6 +16,7 @@ Der Projektordner soll immer gleich aussehen und so die projektübergreifende Na
 | Anforderungen/                  | Dokumente zur Anforderungsanalyse                    |
 | Anforderungen/Anforderungen.ext | Dokument mit Anforderungsanalyse                     |
 | Angebot/                        | Dokumente Angebotserstellung                         |
+| Berichte/                       | Kundenrapporte                                       |
 | Docs/                           | Projektdokumentationen                               |
 | Kick-Off                        | Dokumente zum Projektstart                           |
 | Meeting/YYYY-MM-DD TITEL.md     | Meeting-Notizen werden in diesem Ordner abgelegt     |
