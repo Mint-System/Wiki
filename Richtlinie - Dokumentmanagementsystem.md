@@ -53,7 +53,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Ordner                  | Beschreibung                                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Angebot                 | Angebote der Mint System                                                                                           |
-| Archiv                  | Ablage zur Archivierung                                                                                            |
+| Archiviert              | Ablage zur Archivierung                                                                                            |
 | Bilder                  | Fotoalben                                                                                                          |
 | Corporate Design        | Format- und Dokumentvorlagen, Bilder zur Publikation                                                               |
 | Data                    | Speicherung von Anwendungsdaten.  Beispielsweise Passwort-Dateien von [[KeePassXC]]                                |
@@ -70,6 +70,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Methodik/[Thema]        | Angwendet Methoden                                                                                                 |
 | Mitgliedschaften/[Name] | Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen                                              |
 | News                    | Neuigkeiten aus Medien                                                                                             |
+| Newsletter              | Dokumente zum Newsletter Mint System                                                                               |
 | Odoo                    | Odoo Dokumente                                                                                                     |
 | Odoo Handbuch           | Das Odoo Handbuch ist eine Referenzdokumentation der Odoo-Prozesse und bietet eine umfangreiche Benutzeranleitung. |
 | Partner                 | Dokumente zu unseren Partner                                                                                       |
