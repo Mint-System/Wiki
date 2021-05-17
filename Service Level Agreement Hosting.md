@@ -1,11 +1,38 @@
 # Service Level Agreement Hosting
-Application hosted with [[Mintsys Cloud]] enjoy the following services at all times.
+Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten zu jederzeit diese Dienste.
+
+## 99.9% Verfügbarkeit
+
+* Kundendatenbanken werden in der gewählten Region gehostet: Schweiz, Deutschland
+* Wir arbeiten mit verschiedenen Hosting-Anbieter, die immer mindestens 99.9% Verfügbarkeit garantieren. Deshalb garantieren wir eine monatliche Verfügbarkeit von 99.9 % für unsere Hosting-Angebote
+* 99.9% monatliche Verfügbarkeit = Maximale ungeplante Ausfallzeit von 45 Minuten pro Monat
+
+## Redundanz
+
+* Unsere Rechenzentren
+
+## Backup und Wiederherstellung
+
+* Datenbanken werden täglich gesichert
+* Benutzer können Datenbanken jederzeit herunterladen
+* 
+
+## Sicherheit
+
+
+
+## Unabhängigkeit
+
+* Der Code zum Aufbau der Infrastruktur ist Open Source
+* Sie können auf Ende-Monat ihr Hosting-Vertrag kündigen und zu einem Dritt-Anbieter wechseln
 
 #FIXME 
 
+diesen enjoy the following services at all times.
+
 ## Uptime - 99.9%
 
-* Customer databases are hosted in the chosen Odoo region: americas, asia, or europe (see Privacy Policy for more info)
+* Customer databases are hosted in the chosen Odoo region: Switerland or Germay
 * Each customer database is replicated in real-time on redundant storage located in the same data center
 * We work with different hosting providers worldwide that always deliver at least 99.9% uptime guarantee, so we guarantee 99.9% uptime on a monthly basis (3 nines, excluding planned maintenance)[^1]
 * 99.9% uptime monthly = maximum unplanned downtime of 45 min/month.

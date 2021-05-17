@@ -1,11 +1,11 @@
-# Vorlage Meeting
+# TITEL
 
 Datum: YYYY-MM-DD\
 Teilnehmer: 
 
 ## Themen
 
-Welche Themen sollen behandelt werden
+Folgende Themen werden besprochen:
 
 * Punkt 1
 * Punkt 2
@@ -14,8 +14,12 @@ Welche Themen sollen behandelt werden
 
 Notizen zu den Themen.
 
-## Aktionen
+## Entscheidungen
 
-Entscheidungen und neue Todos.
+Zusammenfassung der Entscheidungen.
 
-- Entscheid fällen
+## Todo
+
+Neue Aktivitäten an Personen zuweisen.
+
+- Entscheid fällen @Person
