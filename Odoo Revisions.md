@@ -171,7 +171,7 @@ docker pull odoo@sha256:23ccd7deac2664336b94543e3f2653631f0c8e2a562ffa15812805c7
 docker tag 3863e3e905e5 odoo:3863e3e905e5
 ```
 
-## Odoo 14.4
+##  [[Odoo 14.4]]
 
 Version: 14.0  
 Revision: 14.0.2020510

@@ -23,7 +23,7 @@ Ein Angebot hat diese Struktur:
 ### Bedingungen und Konditionen
 
 Auftragserteilung:  
-In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder durch Annahme des Angebots oder durch Unterzeichnung eines separaten Vertrages oder durch eine Bestellung.
+In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder durch Annahme der Offerte oder durch eine Bestellung.
 
 ### Zusammenarbeit
 
@@ -44,7 +44,7 @@ Lieferung Ergebnisse: max. 3 Wochen nach Workshop
 ### Leistungen
 
 Leistungen Kunde:  
-Teilnahme am Workshop und Bereitstellung von benötigten Informationen (Daten, Bilder, Texte, ext. Kontaktstellen)
+Teilnahme am Workshop, Bereitstellung von benötigten Informationen und Voraussetzungen.
 
 Drittleistungen:  
 Es entstehen beim Workshop keine weiteren Kosten Dritter.

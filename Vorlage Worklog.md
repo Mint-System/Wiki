@@ -1,4 +1,5 @@
-# YYYY-MM-DD Title
+# Title
+Datum: YYYY-MM-DD\
 Author: [[Janik von Rotz]]
 
 ## Ziele
