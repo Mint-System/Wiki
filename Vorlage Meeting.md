@@ -16,7 +16,7 @@ Notizen zu den Themen.
 
 ## Entscheidungen
 
-Zusammenfassung der Entscheidungen.
+Zusammenfassung der Entscheide.
 
 ## Todo
 

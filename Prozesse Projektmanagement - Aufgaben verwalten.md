@@ -32,9 +32,9 @@ Alle Hauptaufgaben haben am Ende des Namens den Suffix " (OI)" mit den jeweilige
 ## Aufgabenstatus festlegen
 
 Jede Projektaufgabe durchläuft die folgenden Stufen:
-* **Backlog** Hier werden neue Aufgaben erstellt und Ideen gesammelt.
-* **Bereit** Die Aufgabe ist bereit und hat alle Informationen zur Bearbeitung hinterlegt.
-* **In Arbeit** Die Aufgabe befindet sich in Bearbeitung.
-* **Zur Verifizierung** Der Abschluss der Aufgabe wird durch eine zweite Person verifiziert.
-* **Erledigt** Die Aufgabe ist erledigt und kann archiviert werden.
-* **Permanent** Die Aufgabe steht Permanent zur Zeiterfassung zur Verfügung.
+* **Backlog 🎒** Hier werden neue Aufgaben erstellt und Ideen gesammelt.
+* **Bereit 🏁** Die Aufgabe ist bereit und hat alle Informationen zur Bearbeitung hinterlegt.
+* **In Arbeit 🧑‍💻** Die Aufgabe befindet sich in Bearbeitung.
+* **Zur Verifizierung 🔍** Der Abschluss der Aufgabe wird durch eine zweite Person verifiziert.
+* **Erledigt ✅** Die Aufgabe ist erledigt und kann archiviert werden.
+* **Permanent ♻️** Die Aufgabe steht Permanent zur Zeiterfassung zur Verfügung.

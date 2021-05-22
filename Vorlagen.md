@@ -15,3 +15,4 @@ tags:
 * [[Vorlage Meeting]]
 * [[Vorlage Test Cases]]
 * [[Vorlage Worklog]]
+* [[Vorlage Issues]]

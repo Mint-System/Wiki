@@ -2,7 +2,6 @@
 
 ![[Nextcloud Logo.png]]
 
-
 ## Einloggen mit GitLab
 
 Mit dem [[Nextcloud Social Login]] können sie ganz einfach mit einem bestehenden GitLab-Account in Nextcloud einloggen. Sofern sie Mitglied in einer registrierten GitLab-Gruppe sind, wird die Mitgliedschaft übertragen und Zugriff auf Ordner mit dieser Gruppe werden freigegeben. 
@@ -38,3 +37,7 @@ Bei Google Calendar, Office 365 und vielen anderen Groupware-Anbieter können Ka
 ## Nextcloud Kalender und Kontakte mit iOS synchronisieren
 
 Damit sie ihre Termine und Kontate von Nextcloud auf ihr iOS-Gerät synchronisieiren können, gibt es von Nextcloud ein offizielle Dokumentation: <https://docs.nextcloud.com/server/19/user_manual/pim/sync_ios.html>
+
+## OnlyOffice Dokumentvorlage hinzufügen
+
+Navigieren sie nach *Einstellungen > Verwaltung > ONLYOFFICE > Gemeinsame Vorlagen*. Fügen sie hier Dokumente hinzu. Diese stehen anschliessen beim Erstellen eines Dokuments mit OnlyOffice zur Verfügung.
