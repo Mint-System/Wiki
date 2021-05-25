@@ -7,4 +7,4 @@
 [[Problematik der IT-Monokultur]]\
 [[IT-Monokultur in der Verwaltung]]\
 [[Den eigenen Login-Anbieter mit Keycloak]]\
-[[Sicherer Chat für ihre Schule]]
+[[Der eigene Messenger für ihre Schule]]
