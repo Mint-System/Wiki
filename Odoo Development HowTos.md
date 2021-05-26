@@ -4,6 +4,16 @@
 [[Odoo - Import data from csv]]\
 [[Odoo - Migrate a OCA module]]
 
+## Log message
+
+Use the snippet below to log a message.
+
+```py
+import logging
+
+logging.info(res)
+```
+
 ## Translate Odoo apps
 
 We use [[Transifex]] for automated translations. Manual translations are done directly in the .po file.
