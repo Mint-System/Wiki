@@ -7,7 +7,7 @@ tags:
 
 [[Nextcloud Troubleshooting]]  
 [[Nextcloud Handbuch]]  
-[[Nextcloud Painpoints]]
+[[Nextcloud Painpoints]]  
 [[Nextcloud Apps]]
 
 ## Usage

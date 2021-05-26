@@ -55,7 +55,5 @@ form.checkout_autoformat div.checkbox {
 Hide calculation on checkout.
 
 ```
-div#portal_sale_content section#details {
-	display: none
-}
+
 ```

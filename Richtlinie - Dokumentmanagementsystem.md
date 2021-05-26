@@ -2,50 +2,6 @@
 
 Dokumentation zur Dokumentablage der Mint System.
 
-## Review-Workflow
-
-Dokumente zur Review werden mit dem Tag `review-[kürzel]` in Nextcloud markiert.
-
-Beispiel: Marco möchte, dass Janik das Dokument "Flyer" reviewed. Er zeigt die Datei in Nextcloud an und tagged diese mit `review-jvr`. Janik sieht sich seine Tags an, klick auf `review-janik` und sieht alle Dokumente, die er anschauen muss. Ist die Aufgabe erledigt, entfernt er seinen Tag und fügt den Tag `review-mr` hinzu. Nun weiss Marco, dass das Dokument angeschaut wurde.
-
-## Format
-
-Die Office-Dokumente werden im [[Office Open XML]]-Format gespeichert.
-
-Dateien vom Typ `.zip` müssen immer entpackt sein, damit die Inhalte durchsuchbar sind.
-
-## Versionierung
-
-Dokumentversionen werden von Nextcloud verwaltet.
-
-Ein Dokument soll immer nur einmal existieren, das heisst keine Versionsduplikate erstellen.
-
-## Dateinamen
-
-**Datum**
-
-Sitzungsnotizen und datierte Dateien werden am Anfang mit dem Datumsstempel versehen: `YYYY-MM-DD Dateiname.md`
-
-## Reservierte Namen
-
-Bestimmte Ordnernamen sind reserviert.
-
-**Input**
-
-Ordner mit der Bezeichung *Input| sind Sammelordner mit Dokumenten zur Verarbeitung.
-
-**Archiviert**
-
-Zu Archivierung werden Dokument oder Ordner im selben Verzeichnis in den Ordnert *Archiviert| verschoben.
-
-**Output**
-
-Dokument und Dateien zur Veröffentlichung freigeben.
-
-**tmp**
-
-Temporäre Dateien können hier abgelegt werden.
-
 ## Ablagestruktur
 
 Bestimmte Ordner erfordern die Erstellung eines Unterordners.
@@ -87,3 +43,47 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Vorlage                 | Dokumentvorlagen mit Inhalt                                                                                        |
 | Website                 | Dateien zum Webauftritt                                                                                            |
 | Wiki Mint System        | Wissensdatenbank                                                                                                   |
+
+## Format
+
+Die Office-Dokumente werden im [[Office Open XML]]-Format gespeichert.
+
+Dateien vom Typ `.zip` müssen immer entpackt sein, damit die Inhalte durchsuchbar sind.
+
+## Versionierung
+
+Dokumentversionen werden von Nextcloud verwaltet.
+
+Ein Dokument soll immer nur einmal existieren, das heisst keine Versionsduplikate erstellen.
+
+## Dateinamen
+
+**Datum**
+
+Sitzungsnotizen und datierte Dateien werden am Anfang mit dem Datumsstempel versehen: `YYYY-MM-DD Dateiname.md`
+
+## Reservierte Namen
+
+Bestimmte Ordnernamen sind reserviert.
+
+**Input**
+
+Ordner mit der Bezeichung *Input| sind Sammelordner mit Dokumenten zur Verarbeitung.
+
+**Archiviert**
+
+Zu Archivierung werden Dokument oder Ordner im selben Verzeichnis in den Ordner *Archiviert* verschoben.
+
+**Output**
+
+Dokument und Dateien zur Veröffentlichung freigeben.
+
+**tmp**
+
+Temporäre Dateien können hier abgelegt werden.
+
+## Review-Workflow
+
+Dokumente zur Review werden mit dem Tag `review-[kürzel]` in Nextcloud markiert.
+
+Beispiel: Marco möchte, dass Janik das Dokument "Flyer" reviewed. Er zeigt die Datei in Nextcloud an und tagged diese mit `review-jvr`. Janik sieht sich seine Tags an, klick auf `review-janik` und sieht alle Dokumente, die er anschauen muss. Ist die Aufgabe erledigt, entfernt er seinen Tag und fügt den Tag `review-mr` hinzu. Nun weiss Marco, dass das Dokument angeschaut wurde.
