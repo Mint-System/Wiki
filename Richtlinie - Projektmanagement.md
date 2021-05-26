@@ -15,17 +15,17 @@ Der Projektordner soll immer gleich aussehen und so die projektübergreifende Na
 | Abrechnung/                     | Zeitrapporte und Rechnung von Dritten                |
 | Anforderungen/                  | Dokumente zur Anforderungsanalyse                    |
 | Anforderungen/Anforderungen.ext | Dokument mit Anforderungsanalyse                     |
-| Angebot/                        | Dokumente Angebotserstellung                         |
-| Berichte/                       | Kundenrapporte                                       |
+| Angebot/                        | Dokumente zur Angebotserstellung                     |
+| Angebot/Konzept.ext             | Projektkonzept mit Planung                           |
+| Berichte/                       | Kunden- und Projektrapporte                          |
 | Docs/                           | Projektdokumentationen                               |
-| Kick-Off                        | Dokumente zum Projektstart                           |
-| Meeting/YYYY-MM-DD TITEL.md     | Meeting-Notizen werden in diesem Ordner abgelegt     |
-| Meta/                           | Verträge, Bestellungen, NDAs                         |
-| Meta/Konzept.ext                | Projektkonzept mit Planung                           |
-| Notizen/                        | Ordner für Notizedokumente der Mitarbeiter           |
+| Input/                          | Projektinputs                                        |
+| Kick-Off/                       | Dokumente zum Projektstart                           |
+| Meeting/YYYY-MM-DD TITEL.md     | Meeting-Notizen mit Namenskonvention                 |
+| Meta/                           | Verträge, Bestellungen, NDAs zum Projekt             |
+| Notizen/                        | Ordner für Notizen der Projektmitarbeiter            |
 | Projektplan.ext                 | Dokument mit Zeitplan                                |
-| Slides/                         | Dokumente für Präsentation                           |
-| Slides/Präsentation.ext         | Präsentation bei Kunde                               |
+| Slides/                         | Dokumente für Präsentationen                         |
 | Worklog/YYYY-MM-DD TITEL.md     | Protokolle zur Auftragsabwicklung                    |
 | Workshop/                       | Dokumente zum Workshop                               |
 
