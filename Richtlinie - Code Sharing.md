@@ -1,4 +1,4 @@
-# Code Sharing
+# Richtlinie - Code Sharing
 ## Öffentlich
 
 Quellcode, der frei zugänglich sein soll, wird auf [[GitHub]] gehostet.

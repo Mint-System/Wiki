@@ -1,4 +1,4 @@
-ha# Server
+# Server
 
 ## Namenskonvention
 

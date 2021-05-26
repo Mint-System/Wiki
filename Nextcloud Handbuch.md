@@ -41,3 +41,15 @@ Damit sie ihre Termine und Kontate von Nextcloud auf ihr iOS-Gerät synchronisie
 ## OnlyOffice Dokumentvorlage hinzufügen
 
 Navigieren sie nach *Einstellungen > Verwaltung > ONLYOFFICE > Gemeinsame Vorlagen*. Fügen sie hier Dokumente hinzu. Diese stehen anschliessen beim Erstellen eines Dokuments mit OnlyOffice zur Verfügung.
+
+## Ordner Nextcloud-übergreifend teilen
+
+Ordner und Dateien können nicht nur innerhalb von Nextcloud und mit den Teilen-Links nach Extern geteilt werden, sondern auch mit anderen Nextcloud-Installation.
+
+Damit sie einen Ordner oder Datei mit jemanden auf einer anderen Nextcloud-Installation teilen können, brauchen sie deren *Federated-Cloud-ID*. Diese findet man unter *Einstellungen > Persönlich > Teilen > Federated Cloud*, sie können sie direkt kopieren und zum Versender zustellen.
+
+Der Empfänger teilt den Ordner oder Datei wie gewohnt, jedoch wählt er den zweiten Vorschlag bei der Eingabe der ID:
+
+![[Nextcloud Federated Sharing.png]]
+
+Der Empfänger erhält in Nextcloud eine Nachricht mit der Aufforderung den geteilten Ordner oder Datei zu bestätigen.

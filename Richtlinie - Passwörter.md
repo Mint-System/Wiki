@@ -1,4 +1,4 @@
-# Passwörter
+# Richtlinie - Passwörter
 Passwörter und Zugangsdaten zu Accounts der Mint System werden zentral gespeichert.
 
 Mehr dazu unter [[Passwortmanager]].

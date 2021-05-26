@@ -1,4 +1,4 @@
-# Website
+# Richtlinie - Website
 
 Die Mint System GmbH braucht einen modernen und professionellen Webauftritt. Der Webauftritt umfasst Seiteninhalte wie Angebote, Referenzen, Über uns, Kontakt, Blog und Partner. Die Inhalte können [statisch](https://www.keycdn.com/support/difference-between-static-and-dynamic "https://www.keycdn.com/support/difference-between-static-and-dynamic") bereitgestellt werden.
 

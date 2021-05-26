@@ -1,4 +1,4 @@
-# Namenskonventionen
+# Richtlinie - Namenskonventionen
 
 ## [[Cloud Mint System]]
 

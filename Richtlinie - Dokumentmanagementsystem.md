@@ -1,4 +1,4 @@
-# Dokumentmanagementsystem
+# Richtlinie - Dokumentmanagementsystem
 
 Dokumentation zur Dokumentablage der Mint System.
 
@@ -10,7 +10,7 @@ Beispiel: Marco möchte, dass Janik das Dokument "Flyer" reviewed. Er zeigt die 
 
 ## Format
 
-Die Office-Dokumente werden als `.odt` gespeichert.
+Die Office-Dokumente werden im [[Office Open XML]]-Format gespeichert.
 
 Dateien vom Typ `.zip` müssen immer entpackt sein, damit die Inhalte durchsuchbar sind.
 
