@@ -1,0 +1,4 @@
+# Odoo XML Snippets
+
+A
+

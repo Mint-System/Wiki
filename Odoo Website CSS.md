@@ -57,3 +57,19 @@ Hide calculation on checkout.
 ```
 
 ```
+
+## Remove header navigation for a page
+
+Name: `remove header navigation`  
+Key: `website.home`  
+
+Code:
+```xml
+<div id="wrap" class="oe_structure oe_empty">
+	<style>
+	header nav.navbar {  
+		display: none;  
+	}
+	</style>
+	...
+```

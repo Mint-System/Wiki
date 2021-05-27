@@ -7,7 +7,6 @@ Odoo Versionen werden in [[Odoo Revisions]] definiert.
 Für Odoo-Installationen und Module werden verschiedene Skripte und Konfigurationen geschrieben:
 
 [[Odoo Shell Scripts]]\
-[[Odoo XML Snippets]]\
 [[Odoo SQL Scripts]]\
 [[Odoo Server Aktionen]]\
 [[Odoo Website CSS]]
