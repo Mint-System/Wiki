@@ -9,6 +9,7 @@ Für Odoo-Installationen und Module werden verschiedene Skripte und Konfiguratio
 [[Odoo Shell Scripts]]\
 [[Odoo SQL Scripts]]\
 [[Odoo Server Aktionen]]\
-[[Odoo Website CSS]]
+[[Odoo Website CSS]]\
+[[Odoo XML Snippets]]
 
 Zur Entwicklung gibt es [[Odoo Development HowTos]].

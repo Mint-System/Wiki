@@ -6,6 +6,7 @@ Website customizations with CSS.
 Remove from carousel.
 
 ```css
+section.s_wsale_products_recently_viewed div.o_carousel_product_card_footer,
 section.s_dynamic_snippet_products div.card-footer {
 	display: none !important;
 }
@@ -31,7 +32,7 @@ table#cart_products td.td-price {
 Hide cart summary.
 
 ```css
-div#o_cart_summary {
+div#o_cart_summary div.js_cart_summary {
 	display: none
 }
 ```
@@ -52,10 +53,21 @@ form.checkout_autoformat div.checkbox {
 }
 ```
 
-Hide calculation on checkout.
+Hide portal sidebar
 
 ```
+div.o_portal_sidebar div.d-print-none {
+	display: none
+}
+```
 
+Hide portal total prices and payment terms
+
+```
+div#portal_sale_content section.mt-5,
+div.o_portal_sidebar div#total {
+	display: none
+}
 ```
 
 ## Remove header navigation for a page
