@@ -7,4 +7,5 @@
 [[Problematik der IT-Monokultur]]\
 [[IT-Monokultur in der Verwaltung]]\
 [[Den eigenen Login-Anbieter mit Keycloak]]\
-[[Der eigene Messenger für ihre Schule]]
+[[Der eigene Messenger für ihre Schule]]\
+[[Odoo Customizing ohne zukünftige Einschränkungen]]
