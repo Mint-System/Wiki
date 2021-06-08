@@ -1,6 +1,8 @@
 # Vorgehensmodell
 
 [[Vorgehensmodell Softwareentwicklung]]
+[[Vorgehensmodell Beratungs-Projekte]]
+[[Vorgehensmodell ERP Projekte]]
 
 ## Prozesse
 
