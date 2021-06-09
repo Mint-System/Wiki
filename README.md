@@ -22,7 +22,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Methodik]]
 * [[Richtlinien]]
 * [[Dokumente]]
-* [[Netzwerk]]
+* [[Odoo Netzwerk]]
 * [[Corporate Design]]
 * [[Tools]]
 * [[Links]]

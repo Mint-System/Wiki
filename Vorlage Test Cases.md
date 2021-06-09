@@ -8,11 +8,12 @@ Last execution: YYYY-MM-DD
 
 **Action**
 
-* User does xy
+* Step 1
+* Step 2
 
 **Expecation**
 
-The rsult is
+The result is.
 
 **Result**: OPEN,PASS,WARNING,FAIL
 

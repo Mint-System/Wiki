@@ -38,6 +38,6 @@ Notiz(*Note*)
 
 ### Artikel übersetzen
 
-Erstellt man eine Überersetzung eines ganzen Artikels, so fügt man unter dem Titel der Notiz die folgende Definition ein: `Übersetzung en_GB: [[Link to translated note]]`.
+Erstellt man eine Überersetzung eines ganzen Artikels, so fügt man unter dem Titel der Notiz die folgende Definition ein: `Übersetzung: [[Titel.en]]`.
 
 Ein Beispiel dazu ist [[Richtlinie - Projektmanagement]].

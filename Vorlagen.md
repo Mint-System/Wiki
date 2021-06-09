@@ -16,3 +16,5 @@ tags:
 * [[Vorlage Test Cases]]
 * [[Vorlage Worklog]]
 * [[Vorlage Issues]]
+* [[Vorlage Minor Improvements]]
+* [[Vorlage Bugs]]
