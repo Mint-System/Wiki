@@ -29,7 +29,7 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 - Welche Steuern werden für den Verkauf des Produkts festgelegt?
   
-[Erklärung im Handbuch](https://odoo-erp.ch/theorie-mehrwertsteuer.html#steuersatze)
+[Erklärung im Handbuch](https://odoo-wiki.ch/theorie-mehrwertsteuer.html#steuersatze)
 
 **Kosten**
 

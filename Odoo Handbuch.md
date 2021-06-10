@@ -1,6 +1,6 @@
 # Odoo Handbuch
 
-Website: <https://odoo-erp.ch>
+Website: <https://odoo-wiki.ch>
 
 Das Odoo Handbuch ist ein erweitertes Angebot für unsere Kunden. Die Mint System dokumentiert dort ein Referenzsystem und die dazugehörigen Arbeitsprozesse.
 

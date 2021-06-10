@@ -2,7 +2,7 @@
 
 ## Produkte einrichten (Stufe 1)
 
-Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die Daten aus dem [Prozess Produktentwicklung](https://odoo-erp.ch/prozess-produktentwicklung.html) sind deshalb die Grundlage zur Definition der Produkte auf Stufe 1.
+Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die Daten aus dem [Prozess Produktentwicklung](https://odoo-wiki.ch/prozess-produktentwicklung.html) sind deshalb die Grundlage zur Definition der Produkte auf Stufe 1.
 
 Ergebnis: Definition der Produktidentifikation
 
@@ -21,16 +21,16 @@ Ergebnis: Definition der Produktidentifikation
 - Welche Produkte können verkauft werden?
 - Welche Produkte können eingekauft werden?
  
- [Erklärung im Handbuch](https://odoo-erp.ch/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
+ [Erklärung im Handbuch](https://odoo-wiki.ch/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
 
 **Produktart**
 
 - Wie werden die Produkte in der Lagerverwaltung berücksichtigt?
 
-[Erklärung im Handbuch](https://odoo-erp.ch/fertigung-stammdaten.html#produktart)
+[Erklärung im Handbuch](https://odoo-wiki.ch/fertigung-stammdaten.html#produktart)
 
 **Strichcode**
 
 - Wie setzt sich der Strichcode zusammen?
   
-[Erklärung im Handbuch](https://odoo-erp.ch/strichcode.html#strichcode)
+[Erklärung im Handbuch](https://odoo-wiki.ch/strichcode.html#strichcode)

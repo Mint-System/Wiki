@@ -16,7 +16,7 @@ Für jedes Produkt kann entschieden werden, ob eine Los- oder Seriennummer zugeo
 
 ### Information an Produktion
 
-Ein Verkaufsauftrag löst automatisch die notwendigen Bestellungen und Fertigungsaufträge aus. Gleichzeitig wird die Lieferung als zukünftiger "Lagertransfer an den Kunden" angelegt. Detailbeschreibung im Portal [odoo-erp](https://odoo-erp.ch/) von Mint System.
+Ein Verkaufsauftrag löst automatisch die notwendigen Bestellungen und Fertigungsaufträge aus. Gleichzeitig wird die Lieferung als zukünftiger "Lagertransfer an den Kunden" angelegt. Detailbeschreibung im Portal [Odoo Handbuch](https://odoo-wiki.ch/) von Mint System.
 
 ### Kapazitätsplanung / Zeiterfassung
 

@@ -1,4 +1,6 @@
-### Präsentation Mint System und Odoo
+![[logo.svg]]
+
+## Präsentation Mint System und Odoo
 Mint System GmbH  
 Seedorferstrasse 29  
 6460 Altdorf  
@@ -13,31 +15,46 @@ Seedorferstrasse 29
 	* Demo
 
 ---
+### Wer wir sind
+
+![[Team.png]]
+
+---
+
+Wir sind ein Team von Spezialisten für Management-Software. Auf Basis von Führungserfahrung in der Industrie und Fachkenntnis im Software-Engineering kennen wir Lösungen die funktionieren. Mit Open Source Software implementieren wir Systeme in einem erstklassigen Preis-Leistungs-Verhältnis.
+
+---
 ### Kurt Gisler
 Elektroingenieur/Manager
 
-| Zeit                | Unternehmen      | Rolle |
-| ------------------- | ---------------- | ----- |
-| Okt 2018 - Heute    | Light Wing AG    | CPO   |
-| Jun 2016 - Nov 2018 | SATHOM SARL      | CPO   |
-| Nov 2014 - Mai 2016 | THOMMEN AIRCRAFT | CPO   |
-| Sep 2012 - Okt 2014 | REVUE THOMMEN AG | CPO   |
+| Zeit                | Unternehmen      | Rolle                    |
+| ------------------- | ---------------- | ------------------------ |
+| Apr 2020 - Heute    | Mint System GmbH | CEO                      |
+| Okt 2018 - Heute    | Light Wing AG    | Chief Operation Officer  |
+| Jun 2016 - Nov 2018 | Sathom SARL      | Chief Operation Officer  |
+
+---
+
+| Zeit                | Unternehmen      | Rolle                    |
+| ------------------- | ---------------- | ------------------------ |
+| Nov 2014 - Mai 2016 | Thommen Aircraft | Chief Compliance Officer |
+| Sep 2012 - Okt 2014 | Revue Thommen    | Quality Manager          |
 
 ---
 ### Janik von Rotz
 Wirtschaftsinformatiker / System Engineer
 
-| Zeit                | Unternehmen            | Rolle                         |
-| ------------------- | ---------------------- | ----------------------------- |
-| Jan 2018 - Apr 2019 | AdNovum Informatik AG  | Associate IAM Engineer        |
-| Aug 2017 - Dez 2017 | Kantonsspital Obwalden | System Engineer (Zivildienst) |
+| Zeit                 | Unternehmen            | Rolle                           |
+| -------------------- | ---------------------- | ------------------------------- |
+| Apr 2020 - Heute     | Mint System GmbH       | CTO                             |
+| Jun 2019 -  Mär 2020 | Apland GmbH            | Software and Business Developer |
+| Jan 2018 - Apr 2019  | AdNovum Informatik AG  | Associate IAM Engineer          |
 
 ---
-### Janik von Rotz
-Wirtschaftsinformatiker / System Engineer
 
 | Zeit                | Unternehmen                | Rolle                          |
 | ------------------- | -------------------------- | ------------------------------ |
+| Aug 2017 - Dez 2017 | Kantonsspital Obwalden     | System Engineer (Zivildienst)  |
 | Dez 2012 - Jun 2014 | Verkehrsbetriebe Luzern AG | System Engineer                |
 | Aug 2008 - Jun 2012 | ILZ OW/NW                  | Informatiker EFZ Systemtechnik |
 
@@ -53,10 +70,17 @@ Wirtschaftsinformatiker
 ---
 ### Was uns antreibt
 
+Vom Technischen Fortschritt müssen alle profitieren. 
+
+Gute Technische Lösungen für die Unternehmensführung müssen nicht teuer sein.
+
+Wir streben permanent nach intelligenten Lösungen zum bestmöglichen Preis-Leistungs-Verhältnis.
+
+---
+
 ![[Was uns antreibt.png]]
 
 ---
-### Was uns antreibt
 
 * Die Kompetenz im Management befähigt uns für das Engineering von Software-Tools.
 * Die Software-Tools befähigen uns für das  Management.
@@ -108,6 +132,15 @@ Management
 * Odoo, Nextcloud, BigBlueButton, Moodle, ...
 	* Integration statt Entwicklung
 * Webapplikationen als erste Wahl
+
+---
+### Management
+
+![[icon Management.png]]
+
+* Projektmanagement
+* Qualitätsmanagement
+* Wissensmanagement
 
 ---
 ### Was ist Odoo?
@@ -168,7 +201,7 @@ Odoo Open Source Community
 
 * https://www.odoo.com
 * https://github.com/odoo
-* https://odoo-erp.ch
+* https://odoo-wiki.ch
 * https://wiki.mint-system.ch
 * https://www.odoo.com/pricing
 
