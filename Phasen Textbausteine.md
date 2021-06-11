@@ -214,3 +214,37 @@ Ziel: Anpassung für die Website sind umgesetzt.
 * Bereitstellung und Inbetriebnahme der Software-Lösung
 
 Ziel: Die Geschäftsapplikation ist entwickelt.
+
+[[Phase Aufnahme Assets]]
+* Interview mit Stakeholder
+* Findings und Bedürfnisse festhalten
+* Analyse Datenbestände und Dokumentationen
+* Dokumentieren Prozesse und Abläufe
+* Festhalten Optimierungspotenzial der Assets
+
+Ziel: Das Optimierungspotenzial ist als Kosten- Nutzenanalyse ersichtlich.
+
+[[Phase Anforderungsanalyse]]
+* Bereitstellen Struktur für Anforderungsanalyse
+* Beschreibung Systemkontext, Stakeholder und Rollen
+* Festhalten und Kategorisierung der Anforderungen
+* Dokumentieren mit Entity Relationship Modell (ERM)
+* Dokumentieren mit Business Process Model and Notation (BPMN)
+
+Ziel: Die Anforderungen wurden systematisch im Lastenheft erfasst.
+
+[[Phase Softwareevaluation]]
+* Erstellen Bewertungsmatrix mit Kriterien und Gewichtung
+* Zusammenstellen Kandidaten und Alternativen
+* Kandidaten bewerten
+* Ergebnisse als Empfehlung festhalten
+
+Ziel: Anhand des Lastenhefts wurde eine passende Software evaluiert.
+
+[[Phase Projekteingabe]]
+* Erfassen formelle Vorgaben und Erwartungen
+* Erstellen Kostenrechnung und  Return of Investment (RoI)
+* Verfassen Management Summary
+* Unterstützung Kunde bei Formulierung und Erfüllung Eingabebedingungen
+
+Ziel: Die Unterlagen zum Projektantrag sind erstellt und entsprechen den formellen Bedingungen.

@@ -49,6 +49,11 @@ Teilnahme am Workshop, Bereitstellung von benötigten Informationen und Vorausse
 Drittleistungen:  
 Es entstehen beim Workshop keine weiteren Kosten Dritter.
 
+### Subunternehmen
+
+Subunternehmen:
+Die UNTERNEHMENSNAME agiert bei der Auftragsabwicklung als Subunternehmer. Sie unterstützen die Mint System GmbH bei der Erbrinung der offerierten Leistungen. Die Verrechnung der erbrachten Leistungen erfolgt ausschliesslich durch die Mint System GmbH.
+
 ### Fakturierungen
 
 Fakturierung:  

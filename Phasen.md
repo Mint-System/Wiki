@@ -4,9 +4,9 @@ Die Phasen basieren auf der [[Vorlage Phase]].
 
 Die Angebotstext sind unter [[Phasen Textbausteine]] festgehalten.
 
-## Odoo-Projekt
+## Odoo-Projekte
 
-Wir bieten diese Projektphasen für Odoo-Projekte an:
+Wir bieten diese Projektphasen für [[Odoo-Projekte]] an:
 
 * [[Phase Odoo Installation]]
 * [[Phase Initialisierung]]
@@ -27,8 +27,18 @@ Wir bieten diese Projektphasen für Odoo-Projekte an:
 * [[Phase Projekt]]
 * [[Phase Terminal Zeiterfassung]]
 
-## Softwareentwicklungsprojekt
+## Softwareentwicklungsprojekte
 
-Wir bieten diese Projektphasen für Softwareentwicklungsprojekte an:
+Wir bieten diese Projektphasen für [[Softwareentwicklungsprojekte]] an:
 
 * [[Phase Anforderungsanalyse]]
+* [[Phase Software-Entwicklung]]
+
+## Beratungs-Projekte
+
+Wir bieten diese Projektphasen für [[Beratungsprojekte]] an:
+
+* [[Phase Aufnahme Assets]]
+* [[Phase Anforderungsanalyse]]
+* [[Phase Softwareevaluation]]
+* [[Phase Projekteingabe]]
