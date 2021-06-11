@@ -8,7 +8,7 @@ Ein ERM eignet sich insbesondere für konzeptionellen Phase einer Anwendungsentw
 
 ## Software
 
-Es gibt zahlreiche Programme um ERDs zu erstellen Wir empfehlen [[draw.io]]. Im Blog von draw.io findet man eine ausgezeichnete Aneitung: [draw.io - Entity Relationship Diagrams with draw.io](https://drawio-app.com/entity-relationship-diagrams-with-draw-io/).
+Es gibt zahlreiche Programme um ERDs zu erstellen Wir empfehlen [[diagrams.net]]. Im Blog von diagrams.net / draw.io findet man eine ausgezeichnete Aneitung: [draw.io - Entity Relationship Diagrams with draw.io](https://drawio-app.com/entity-relationship-diagrams-with-draw-io/).
 
 ## Beispiel
 
