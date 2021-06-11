@@ -34,3 +34,11 @@ Arbeitsschritte:
 ID|Name|Beschreibung|Priorität|Prozess|
 |-|-|-|-|-|
 FA-1|Export CSV|Alle Daten müssen in das CSV-Datenformat exportiert werden können.|Muss|Daten exportieren|
+
+## ERM erstellen
+
+Ein [[Entity Relationship Modell]] (ERM) ist eine Möglichkeit um Daten, Objekte und deren Beziehungen zueinander darzustellen. Damit lassen sich Datenbankschemas modellieren und spezifizieren. Ist eine gute Grundlage zur Evaluation von Software.
+
+## BPMN erstellen
+
+Ein [[Business Process Model and Notation]] (BPMN) Diagramm eignet sich um Geschäftsprozesse und Abläufe zu modellieren und zu dokumentieren.
