@@ -1,8 +1,10 @@
 # Odoo Datenmanagement
 
-Für die Odoo Demos werden Datensätze und Szenarios gepflegt. Für jede Odoo App wird festgehalten wie die [[Odoo Demodaten]] exportiert wurden und wie die dazugehörige Export-Datei heisst.
+Für die Odoo Demos werden Datensätze und Szenarios gepflegt. Für jede Odoo App wird festgehalten wie die [[Odoo Demodaten]] exportiert werden und wie die dazugehörige Export-Datei heisst.
 
 ## Exportvorlagen
+
+Entscheidend ist, dass es noch eine Spalte **id** gibt. Beim Export muss dazu im Export-Dialog das Häkchen oben links gesetzten sein. Die Spalte **id** ist eine eindeutige Referenz für jeden Eintrag. Damit können bestehende Einträge überschrieben werden und in bestimmten Fällen möchte man die Berechnungen im Erstellvorgang umgehen indem zweimal Importiert und so die berechneten Werte überschreibt.
 
 ### Benutzer
 
@@ -189,6 +191,8 @@ Datei: `project.task.csv`
 
 ### Abwesenheitszeiten
 
+Listenansicht: *Abwesenheitszeiten > *
+
 Felder Abwesenheitszeit:
 ```
 id
@@ -205,7 +209,11 @@ number_of_days
 ```
 Datei: `hr.leave.csv`
 
-Damit die Dauer (number_of_days) stimmt, muss der Import zwei Mal ausgeführt werden.
+::: warning
+Währen dem Importvorgang wird die Dauer mit dem Start- und Enddatum berechnet, das heisst nach dem ersten Import stimmt die Dauer nicht (Wochenende wird nicht abgezählt). Um das zu lösen kann man den Import-Vorgang nochmals durchführen. Anhand der *id* werden dann die bestehenden Einträge überschrieben statt erstellt. Dann stimmt auch die Dauer des Eintrags.
+:::
+
+Beispiel:
 
 ![[Abwesenheiten Beispiel Export.png]]
 
