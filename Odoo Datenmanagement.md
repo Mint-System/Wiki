@@ -187,6 +187,26 @@ Stufe
 ```
 Datei: `project.task.csv`
 
+### Abwesenheitszeiten
+
+Felder Abwesenheitszeit:
+```
+id
+employee_id
+holiday_status_id
+name
+state
+x_synced
+request_date_from
+date_from
+request_date_to
+date_to
+number_of_days
+```
+Datei: `hr.leave.csv`
+
+Damit die Dauer (number_of_days) stimmt, muss der Import zwei Mal ausgeführt werden.
+
 ### Arbeitszeit
 
 Felder Arbeitszeit:
