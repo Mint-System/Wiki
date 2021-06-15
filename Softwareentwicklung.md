@@ -1,0 +1,5 @@
+# Softwareeentwicklung
+
+## IDE
+
+Als Integrated Development Environment (IDE) verwenden wir [[Visual Studio Code]].

@@ -8,7 +8,7 @@ Das vorliegende Vorgehensmodell für ERP Projekte beschreibt die Systematik zur 
 
 In der Projektarbeit sind auf Seite Mint System und Kunde unterschiedliche Rollen zu besetzen. Im folgenden Kapitel werden sie beschrieben.
 
-### Projektleiter \[Mint System\]
+### Projektleiter (Mint System)
 
 Der Projektleiter ist der Hauptentscheidungsträger des Projekts. Er ist gleichzeitig Projektmanager, Business Analyst und Produktexperte.
 
@@ -30,7 +30,7 @@ Seine Aufgaben sind:
  
 Der Projektleiter ist der Hauptansprechpartner für den Kunden während des gesamten Projekts.
 
-### Projektdirektor \[Mint System\]
+### Projektdirektor (Mint System)
 
 Bei grösseren Projekten oder in einem hochpolitischen Umfeld wird ein Projektdirektor ergänzend zum Projektleiter eingesetzt. Während sich der Projektleiter auf die Umsetzung des Projektes konzentriert, hilft der Projektdirektor bei der Kommunikation des Projekts und lenkt die Erwartungen der Führungskräfte auf einer abstrakteren Ebene.
 
@@ -40,7 +40,7 @@ Seine Rolle besteht darin, die Entscheidungsträger auf dem Laufenden zu halten 
 
 Im Gegensatz zum Projektleiter arbeitet der Projektdirektor nicht Vollzeit an einem Projekt, aber er überblickt es von Anfang bis Ende. Bei kleineren Projekten wird diese Rolle in der Regel direkt vom Projektleiter übernommen.
 
-### App-Experte \[Mint System\]
+### App-Experte (Mint System)
 
 Für speziell komplexe Anwendungen (Finanzen, Lager, Marketing, Fertigung, Website) werden die Personen mit dem grössten Fachwissen als Odoo App-Experten einbezogen.
 
@@ -48,11 +48,11 @@ Sie haben ein tiefes funktionales Wissen in branchenspezifischen Odoo Funktionen
 
 Die App-Experten sind nicht Teil des Projekts. Sie arbeiten in verschiedenen Projekten gleichzeitig. In der Regel werden sie für die GAP-Analyse hinzugezogen.
 
-### Entwickler \[Mint System\]
+### Entwickler (Mint System)
 
 Nicht alle Projekte erfordern Entwickler. Sie werden situativ beigezogen wenn kundenspezifische komplexe Anpassungen gefordert sind.
 
-### Single Point of Contact (SPoC) \[Kunde\]
+### Single Point of Contact (SPoC) (Kunde)
 
 Um die Umsetzung so schnell, einfach und kosteneffizient wie möglich zu machen, braucht es einen starken Ansprechpartner auf der Seite der Kunden. Diese Person muss die erforderlichen Fachkenntnisse mitbringen Der Projektleiter arbeitet eng mit dem SPoC eng zusammen.
 
@@ -71,7 +71,7 @@ Entscheidende Anforderungen an den SPoC sind:
 * die Kompetenz haben, Entscheidungen zu treffen
 * bei MitarbeiterInnen anerkannt
 
-### Extra-Rollen \[Kunde\]
+### Extra-Rollen (Kunde)
 
 Bei grossen Projekten könnten zusätzliche Rollen definiert werden:
 
@@ -184,8 +184,6 @@ Wenn es an der Zeit ist den Schalter umzulegen, könnten unerwartete Probleme au
     Es muss sichergestellt sein, dass die Super-User alle Prozesse getestet haben
 * Die Anwender sind nicht gut geschult:  
     Wenn die Schulung vor Monaten durchgeführt wurden, ist inzwischen vielleicht Vieles vergessen worden. Wenn sie nicht selbst geübt haben, haben sie möglicherweise kritische Schritte verpasst.
-
-    
 
 ### Second Deployment
 

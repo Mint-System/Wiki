@@ -1,4 +1,4 @@
-# Entity Relationship Modell
+# Entity Relationship Model
 
 Synomym zu [[Entity Relationship Diagram]] (ERD).
 

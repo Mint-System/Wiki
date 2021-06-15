@@ -20,7 +20,8 @@ Alle Hauptaufgaben haben am Ende des Namens den Suffix " (OI)" mit den jeweilige
 * Projektleitung (PL) - Allgmeine Projektleitung
 * Software-Entwicklung (SE) - Implementation von Geschäftsapplikationen
 * System-Engineering (SN) - Konfiguration Betriebssystem und Applikationen
-* Projektphase (PX) - Name der Projektphase und Nummer anstelle von X.
+* Projektphase (PX) - Name der Projektphase und Nummer anstelle von X
+* Geschäftsanalyse (GA) - Abwicklung von Beratungsprojekten
 
 **Nicht verrechenbar**
 

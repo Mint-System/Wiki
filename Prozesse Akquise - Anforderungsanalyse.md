@@ -37,7 +37,7 @@ FA-1|Export CSV|Alle Daten müssen in das CSV-Datenformat exportiert werden kön
 
 ## ERM erstellen
 
-Ein [[Entity Relationship Modell]] (ERM) ist eine Möglichkeit um Daten, Objekte und deren Beziehungen zueinander darzustellen. Damit lassen sich Datenbankschemas modellieren und spezifizieren. Ist eine gute Grundlage zur Evaluation von Software.
+Ein [[Entity Relationship Model]] (ERM) ist eine Möglichkeit um Daten, Objekte und deren Beziehungen zueinander darzustellen. Damit lassen sich Datenbankschemas modellieren und spezifizieren. Ist eine gute Grundlage zur Evaluation von Software.
 
 ## BPMN erstellen
 

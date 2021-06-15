@@ -47,7 +47,18 @@ REFERENZ.
 
 **Mint System GmbH**
 
-Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und "bauen die Brücke" zwischen Odoo S.A. und dem Kunden. Wir verstehen die Prozesse von Firmen wie die KUNDE. Ergänzt mit dem Knowhow aus erfolgreichen Odoo-Projekten (siehe Abschnitt Referenzen) sind wir ein kompetenter Partner für die Umsetzung von ERP-Projekten bei KUNDE.
+Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und "bauen die Brücke" zwischen Odoo S.A. und dem Kunden. Wir verstehen die Prozesse von Firmen wie die KUNDE. Ergänzt mit dem Know-auhow aus erfolgreichen Odoo-Projekten (siehe Abschnitt Referenzen) sind wir ein kompetenter Partner für die Umsetzung von ERP-Projekten bei KUNDE.
+
+**Mint System GmbH**
+
+Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und unterstützen Kunden bei der Inbetriebnahme und Implementation von Geschäftssoftware. Wir sind fähig die Prozesse des AfU zu verstehen und wissen wie diese mit Software optimiert werden können. Ergänzt mit dem Know-how aus erfolgreichen ERP-Projekten mit KMUs sind wir ein kompetenter Partner für die Abwicklung von Beratungsprojekten.
+
+Mint System GmbH Seedorfstrasse 29  
+ 6460 Altdorf
+
+Standort: Altdorf UR  
+ Gründungsjahr: 2020  
+ Mitarbeiter: 3
 
 **Dreiecksbeziehung "Kunde - Odoo - Mint System"**
 
