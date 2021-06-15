@@ -63,7 +63,7 @@ function convert(content, file) {
     }
 
     // convert wiki links
-    // [[href#anchor|title] -> [title](href#anchor)
+    // [[href#anchor|title] -> [title > anchor](href#anchor)
     matches = content.match(wikiLink) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
@@ -72,17 +72,21 @@ function convert(content, file) {
         let title = match.match(/\[\[([^\]|#]*)/)[1]
         let anchor = null
 
-        // set anchor
-        if (match.indexOf('#') > 0) {
-            anchor = match.match(/#([^\||\]]*)/)[1]
-            // sanitize anchor link
-            anchor = sanitizeName(anchor)
-        }
-
         // set title and href
         if (match.indexOf('|') > 0) {
             href = match.match(/\[\[([^\||#]*)/)[1]
             title = match.match(/\|(.*)\]\]/)[1]
+        }
+
+        // set anchor
+        if (match.indexOf('#') > 0) {
+            anchor = match.match(/#([^\||\]]*)/)[1]
+
+            // combine title and href text
+            title = `${title} > ${anchor}`
+
+            // sanitize anchor link
+            anchor = sanitizeName(anchor)
         }
 
         // sanitize href
