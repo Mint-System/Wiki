@@ -207,6 +207,8 @@ Datei: `hr.leave.csv`
 
 Damit die Dauer (number_of_days) stimmt, muss der Import zwei Mal ausgeführt werden.
 
+![[Abwesenheiten Beispiel Export.png]]
+
 ### Arbeitszeit
 
 Felder Arbeitszeit:
