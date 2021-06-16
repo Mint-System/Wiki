@@ -5,6 +5,8 @@ tags:
 
 # Vorlage Phase
 
+Beispiel: [[Phase Webshop]]
+
 ## Gliederung
 
 Eine Phase ist wie folgt gegliedert:
@@ -13,5 +15,6 @@ Eine Phase ist wie folgt gegliedert:
 	* Überschrift 2: AUFGABENNAME
 		* Überschrift 3: Analyse
 			* ABSCHNITTSNAME
+			* Details
 
 Jeder Abschnitt enthält Fragen zur Abklärung.

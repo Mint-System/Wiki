@@ -84,6 +84,13 @@ Temporäre Dateien können hier abgelegt werden.
 
 ## Review-Workflow
 
-Dokumente zur Review werden mit dem Tag `review-[kürzel]` in Nextcloud markiert.
+Dokumente zur Review werden mit im Chat mit `@Person Review` getagged. Hat die Person das Dokument angeschaut und Kommentar hinterlassen, meldet sie das über den Chat zurück.
 
-Beispiel: Marco möchte, dass Janik das Dokument "Flyer" reviewed. Er zeigt die Datei in Nextcloud an und tagged diese mit `review-jvr`. Janik sieht sich seine Tags an, klick auf `review-janik` und sieht alle Dokumente, die er anschauen muss. Ist die Aufgabe erledigt, entfernt er seinen Tag und fügt den Tag `review-mr` hinzu. Nun weiss Marco, dass das Dokument angeschaut wurde.
+## Tags
+
+In Nextcloud existieren diese Tags:
+
+| Tag     | Kommentar       |
+| ------- | --------------- |
+| Meeting | Meeting Notizen |
+|         |                 |
