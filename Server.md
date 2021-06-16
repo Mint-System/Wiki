@@ -1,5 +1,9 @@
 # Server
 
+## Hosting Provider
+
+Siehe [[Hosting Provider]]
+
 ## Namenskonvention
 
 Siehe [[Richtlinie - Namenskonventionen#Servernamen]].

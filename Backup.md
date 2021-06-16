@@ -16,6 +16,10 @@ Das Backup soll auf einer separaten Disk gespeichert werden. Eine örtliche Tren
 
 Konkret würde die folgende Option ausreichen: [https://www.hetzner.de/storage/storage-box/bx10](https://www.hetzner.de/storage/storage-box/bx10)
 
+### Backup Replication
+
+Damit die Backups auch bei einem Ausfall des Backup Servers zur Verfügung stehen, werden die Backup-Daten auf einem [[Storage Bucket]] gespiegelt. Mehr dazu unter [[Backup Replication]].
+
 ## Architektur
 
 atlas.mint-system.com 100 GB
