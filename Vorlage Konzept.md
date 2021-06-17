@@ -15,6 +15,7 @@ tags:
 * Mint System
 	* Partner
 * Lösungsvorschlag
+	* Abgrenzung
 * Anforderungsanalyse
 	* Systeme im Einsatz
 	* Systemkontext

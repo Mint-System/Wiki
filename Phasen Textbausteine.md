@@ -1,5 +1,7 @@
 # Phasen Textbausteine
 
+Textbausteine für Konzepte.
+
 ## Phase und Aktivitäten
 
 [[Phase Hosting initialisieren|Phase X: Hosting initialisieren]]
@@ -215,7 +217,7 @@ Ziel: Anpassung für die Website sind umgesetzt.
 
 Ziel: Die Geschäftsapplikation ist entwickelt.
 
-[[Phase Aufnahme Assets]]
+[[Phase Aufnahme Assets|Phase x: Aufnahme Assets]]
 * Interview mit Stakeholder
 * Findings und Bedürfnisse festhalten
 * Analyse Datenbestände und Dokumentationen
@@ -224,16 +226,16 @@ Ziel: Die Geschäftsapplikation ist entwickelt.
 
 Ziel: Das Optimierungspotenzial ist als Kosten- Nutzenanalyse ersichtlich.
 
-[[Phase Anforderungsanalyse]]
+[[Phase Anforderungsanalyse|Phase x: Anforderungsanalyse]]
 * Bereitstellen Struktur für Anforderungsanalyse
 * Beschreibung Systemkontext, Stakeholder und Rollen
 * Festhalten und Kategorisierung der Anforderungen
 * Dokumentieren mit Entity Relationship Modell (ERM)
 * Dokumentieren mit Business Process Model and Notation (BPMN)
 
-Ziel: Die Anforderungen wurden systematisch im Lastenheft erfasst.
+Ziel: Die Anforderungen wurden systematisch als Lastenheft erfasst.
 
-[[Phase Softwareevaluation]]
+[[Phase Softwareevaluation|Phase x: Softwareevaluation]]
 * Erstellen Bewertungsmatrix mit Kriterien und Gewichtung
 * Zusammenstellen Kandidaten und Alternativen
 * Kandidaten bewerten
@@ -241,7 +243,7 @@ Ziel: Die Anforderungen wurden systematisch im Lastenheft erfasst.
 
 Ziel: Anhand des Lastenhefts wurde eine passende Software evaluiert.
 
-[[Phase Projekteingabe]]
+[[Phase Projekteingabe|Phase x: Projekteingabe]]
 * Erfassen formelle Vorgaben und Erwartungen
 * Erstellen Kostenrechnung und  Return of Investment (RoI)
 * Verfassen Management Summary

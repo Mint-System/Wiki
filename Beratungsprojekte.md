@@ -15,4 +15,3 @@ Zur Abwicklung eines Beratungsprojekt werden diese Prozesse angwendet:
 
 * [[Prozesse Projektmanagement]]
 * [[Prozesse Akquise - Anforderungsanalyse]]
-* 

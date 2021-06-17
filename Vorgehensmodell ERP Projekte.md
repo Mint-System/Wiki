@@ -105,7 +105,7 @@ Die folgende Tabelle zeigt die Projektphasen und deren relativen Zeitbedarf.
 
 ### GAP-Analyse
 
-_Geschäftsanalyse, GAP-Analyse, Projektphasen & Budget_
+	_Geschäftsanalyse, GAP-Analyse, Projektphasen & Budget_
 
 **Inhalt**
 
