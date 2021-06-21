@@ -39,3 +39,9 @@ Jede Projektaufgabe durchläuft die folgenden Stufen:
 * **Zur Verifizierung 🔍** Der Abschluss der Aufgabe wird durch eine zweite Person verifiziert.
 * **Erledigt ✅** Die Aufgabe ist erledigt und kann archiviert werden.
 * **Permanent ♻️** Die Aufgabe steht Permanent zur Zeiterfassung zur Verfügung.
+
+## Aufgaben bündeln
+
+Bei mehreren Aufgaben ist es schwierig die Übersicht der Fristen zu behalten. Zur Planung können mehrere Aufgaben zu einem Paket gebündelt werden. Dazu erstellt man eine Aufgabe mit der Bezeichung `AP1: Beschreibung`. Das Aufgabenpaket (AP) verlinkt man mit den anderen Aufgaben.
+
+Auf die Aufgabenpakete wird keine Zeit gebucht. Sie dienen lediglich der Planung.

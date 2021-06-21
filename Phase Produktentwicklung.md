@@ -34,3 +34,23 @@ Ergebnis: Definition der Produktidentifikation
 - Wie setzt sich der Strichcode zusammen?
   
 [Erklärung im Handbuch](https://odoo-wiki.ch/strichcode.html#strichcode)
+
+**Ursprungsland**
+
+- Ist die Angabe des Urspungsland gefordert?
+
+**Referenenzeinheit**
+
+- Welches ist die Referenzenheit pro Produkt?
+
+
+## Produkte einrichten (Stufe 2)
+
+**Produktkategorie**
+
+- Werden Produkte in Kategorien unterschieden? (Zum Beispiel um spezielle Routen einzurichten)
+
+**Steuern**
+
+- Wie sind die Steuern für Verkaufsartikel definiert?
+
