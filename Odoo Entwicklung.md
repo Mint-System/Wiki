@@ -3,7 +3,7 @@ Odoo dient auch als Entwicklungsframework für Geschäftsapplikationen.
 
 Ein denkbarer Ansatz ist mit [[Odoo Studio]] ein Prototyp der Applikation zu erstellen und anschliessen, diese als [[Odoo App]] umzusetzen.
 
-Die Mint System entwickelt eine [[Odoo Development Environment]]
+Die Mint System entwickelt ein [[Odoo Entwicklungsumgebung]]
 
 Vorteile Entwicklung einer Applikation im Kontext von Odoo:
 * Benutzer- und Zugriffsverwaltung durch Odoo

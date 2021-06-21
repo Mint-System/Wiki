@@ -14,62 +14,36 @@ Moderiert Diskussionen mit dem Kunde und erfasst Informationen systematisch. Nim
 
 ### System Engineer
 
-Definiert die Methodik und implementiert das Vorgehensmodell für Beratungsprojekte.
-
-### Integrator
-
-Hat Fachkompotenz und kann Anpassungen auf der Benutzeroberfläche und für Workflows vornehmen. 
+Definiert die Methodik und implementiert das Vorgehensmodell für Beratungsprojekte. Nimmt die System- und Datenalayse vor.
 
 ## Vorgehen
 
 ![[Vorgehensmodell Beratungsprojekte.svg]]
 
-https://cti.consulting/beratungsfelder/digitalisierungsberatung/
-
-https://cti.consulting/wp-content/uploads/2019/01/digitalisierungsberatung-vorgehen-1024x429.png
-
 ### Kick-off Meeting
 
-Den Projektrahmen abstecken.
-Abgrenzung vornehmen
-Stakeholder definieren.
-Ziele definieren.
+Die Teilnehmer starten das Beratungsprojekt gemeinsam mit einem Kick-off Meeting. In Form eines Workshops werden die Ziele definiert und reduziert. Der Projektrahmen wird abgegrenzt und die Stakeholder sind definiert. Das Meeting bildet die Grundlage für eine erfolgreiche Zusammenarbeit. Spezielle Bedinungen und Erwartungen werden hier deponiert und besprochen.
 
 ### Interviews mit Stakeholder
 
-Vorbereitung Interviews. 
-
-Wie sehen die Arbeitsabläufe aus?
+Nun gilt es ein klares Bild von den Arbeitsabläufen der Organisation zu bekommen. Mithilfe von vordefiniert Interviews werden die Stakeholder zu ihrer Arbeit und den Prozessen befragt. Wir verfolgen dabei "bottom-up"-Ansatz. Wir möchten verstehen wie wie gearbeitet wird und nicht wie gearbeitet werden soll. Bestehende Prozessdokumentation und Richtlinien werden in dieser Phase ausgeblendet.
 
 ### Dokumentation IST-Prozesse
 
-Aufnahme der Quelldokumente.
-
-Wo sind die Unschärfen zu den dokumentieren Prozessen.
+Anhand von Dokumentenationen und Quelldokumentation, sprich alles was die Ablauforganisation beschreibt, werden die IST-Prozesse dokumentiert. Es gilt herauszufinden wo Unschärfen zu den dokumentierten Prozessen bestehen. Diese Unschärfen resultieren in Unklarheiten und daraus ergibt sich Optimierungspotenzial.
 
 ### System- und Datenanalyse
 
-Welche Systeme sind im Einsatz.
-
-Welche Datenbestände gibt es?
+Entscheidend ist die IT-gestützte Zusammenarbeit. Es soll klar sein, welche Systeme zur Datenbearbeitung im Einsatz und wo die Daten gespeichert sind. Es wird festgehalten, welchen IT-Systemen Rechnung getragen werden muss und ob Datenbestände konsolidiert werden können.
 
 ### Optimierung
 
-Identifizierung Chancen und Risiken.
+Anhand der Dokumentation und Analysen gilt es Chancen und Risiken zu identifzieren. Wo können unter Berücksichtigung der Projektagrenzung Abläufe verbessert oder neu gestaltet werden. Der IST-Zustand wird gewürdigt und das Optimierunspotenzial festgehalten. Aus den Interviews mit den Stakeholder werden Bedürfnisse und Probleme abgeleitet.
 
-Würdigung des IST-Zustand. Festhalten Optimierungspotenzial.
+### Anforderungsanalyse
 
-Welche Bedürfnisse und Probleme gibt es?
-
-### Phase Anforderungsanalyse
-
-Weiterverarbeitung der Ergebnisse aus der Optimierung.
-
-Anhand der Bedürfnisse und 
+Nun beginnt der modulare Teil des Vorgehensmodell. Die Erkenntnisse und Ergebnisse aus der Optimierung, können weiterverarbeitet werden. Damit es nicht bei Empfehlungen und Erkentnissen bleibt, können in der Anforderungsanalsye die Bedürfnisse an ein System verarbeitet werden. Ziel ist die Entwicklung eines Lastenhefts.
 
 ### Roadmap
 
-Präsentation Ergebnisse.
-
-Projekteingabe.
-
+Das Projekt findet den Abschluss mit einem Workshop zur Definition einer Roadmap. Die Ergebnisse und Erkentnisse aus der Optimierung und Folgephase werden präsentiert und mit der Organisationsstrategie abgeglichen. Dabei werden mittel- und langfristige Massnahmen sowie dazugehörge Verantwortliche definiert. Für kurzfristige Massnahmen werden Ressourcen reserviet und der zeitliche Aufwand eingeplant.

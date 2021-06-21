@@ -1,6 +1,6 @@
-# Odoo Development Environment
+# Odoo Entwicklungsumgebung
 
-Mint System hat zur Entwicklung von Odoo eine Entwicklungsumgebung.
+Mint System hat zur Entwicklung von Odoo eine Entwicklungsumgebung: [[Odoo Development]].
 
 Odoo Versionen werden in [[Odoo Revisions]] definiert.
 
