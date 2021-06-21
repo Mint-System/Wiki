@@ -5,7 +5,7 @@ Manage Odoo Revisions with git and docker tags.
 ## Odoo 13.0
 
 Version: 13.0  
-Revision: 13.0.20200629
+Revision: 13.0.2020.0629
 
 ```bash
 # Checkout enterprise repo
@@ -30,7 +30,7 @@ docker tag b073a2f2d68c odoo:b073a2f2d68c
 ## Odoo 13.1
 
 Version: 13.0  
-Revision: 13.0.20201123
+Revision: 13.0.2020.1123
 
 ```
 # Checkout enterprise repo
@@ -55,17 +55,17 @@ docker tag f20ab9613812 odoo:f20ab9613812
 ## Odoo 13.2
 
 Version: 13.0  
-Revision: 13.0.20210412
+Revision: 13.0.2021.0412
 
 ```
 # Checkout enterprise repo
-cd enterprise && git checkout 71aa7b935a
+cd enterprise && git checkout 71aa7b935a983d2904b6586aebaadb66987d4f0e
 
 # Create tag on the enterprise repo
 git tag -a 13.2 -m "13.2"
 
 # Checkout odoo repo
-cd odoo && git checkout acaca80f0ce
+cd odoo && git checkout acaca80f0ce544d1c9a738a5aac992a8ac9c75b2
 
 # Create tag on the odoo repo
 git tag -a 13.2 -m "13.2"
@@ -105,7 +105,7 @@ docker tag 6640ab6622b9 odoo:6640ab6622b9
 ## Odoo 14.1
 
 Version: 14.0  
-Revision: 14.0.20201026
+Revision: 14.0.2020.1026
 
 ```bash
 # Checkout enterprise repo
@@ -124,7 +124,7 @@ docker tag 70de954aa8a5 odoo:70de954aa8a5
 ## Odoo 14.2
 
 Version: 14.0  
-Revision: 14.0.20201123
+Revision: 14.0.2020.1123
 
 ```bash
 # Checkout enterprise repo
@@ -149,7 +149,7 @@ docker tag 8363e01420b1 odoo:8363e01420b1
 ## Odoo 14.3
 
 Version: 14.0  
-Revision: 14.0.20210111
+Revision: 14.0.2021.0111
 
 ```bash
 # Checkout enterprise repo
@@ -174,7 +174,7 @@ docker tag 3863e3e905e5 odoo:3863e3e905e5
 ##  [[Odoo 14.4]]
 
 Version: 14.0  
-Revision: 14.0.2020510
+Revision: 14.0.2021.0510
 
 ```bash
 # Checkout enterprise repo
@@ -199,7 +199,7 @@ docker tag c4370cddec27 odoo:c4370cddec27
 ##  [[Odoo 14.5]]
 
 Version: 14.0  
-Revision: 14.0.2020524
+Revision: 14.0.2021.524
 
 ```bash
 # Checkout enterprise repo
