@@ -1,14 +1,23 @@
 # Prozess Ausgangsrechnungen
 Rechnungen erstellen und versenden.
 
-## Ausgangsrechnung erstellen
+## Arbeitsrapport validieren
+Verantwortlich: [[Rollen#Controller]]
 
-Arbeitsshritte:
+Arbeitsrapport werden jeweils am Ende des Monats validiert, daraus werden die Ausgangsrechnungen generiert.
+
+Arbeitsschritte:
+* App Zeiterfassung  öffnen
+* Einträge auf den letzten Tag im Monat validieren
+
+## Ausgangsrechnung erstellen
+Verantwortlich: [[Rollen#Projektleiter]]
+
+Arbeitsschritte:
+* Projekt-Übersich öffnen und Rechnung erzeugen
+* Konten und * [[Mehrwertssteuersatz]] prüfen
 * Kostenstelle festlegen
-	* 3400 Handelserlöse
-* Mehrwertssteuersatz auswählen:
-	* 6XXX -> MWST sonstiger Betriebsaufwand  
-	* 4XXX -> MWST Normal
+* Rechnung als Entwurf bereitstellen.
 
 ## Odoo Lizenzkostenertrag verrechnen
 
