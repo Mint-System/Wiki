@@ -72,12 +72,6 @@ function convert(content, file) {
         let title = match.match(/\[\[([^\]|#]*)/)[1]
         let anchor = null
 
-        // set title and href
-        if (match.indexOf('|') > 0) {
-            href = match.match(/\[\[([^\||#]*)/)[1]
-            title = match.match(/\|(.*)\]\]/)[1]
-        }
-
         // set anchor
         if (match.indexOf('#') > 0) {
             anchor = match.match(/#([^\||\]]*)/)[1]
@@ -89,6 +83,12 @@ function convert(content, file) {
             anchor = sanitizeName(anchor)
         }
 
+        // set title and href
+        if (match.indexOf('|') > 0) {
+            href = match.match(/\[\[([^\||#]*)/)[1]
+            title = match.match(/\|(.*)\]\]/)[1]
+        }
+        
         // sanitize href
         href = sanitizeName(href ? href : file.replace('\.md', ''))
 
