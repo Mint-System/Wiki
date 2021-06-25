@@ -1,6 +1,6 @@
 # Odoo-Projekte
 
-## Phasen
+## [[Phasen]]
 
 Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 
@@ -23,7 +23,7 @@ Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 * [[Phase Projekt]]
 * [[Phase Terminal Zeiterfassung]]
 
-## Prozesse
+## [[Prozesse]]
 
 Zur Umsetzung eines Odoo-Projekt werden die folgenden Prozesse angwendet:
 
