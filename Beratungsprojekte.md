@@ -13,5 +13,5 @@ Zur Umsetzung eines Beratungsprojek können diese Phase angewendet werden:
 
 Zur Abwicklung eines Beratungsprojekt werden diese Prozesse angwendet:
 
-* [[Prozesse Projektmanagement]]
+* [[Prozesse Beratung - Stakeholder interviewen]]
 * [[Prozesse Akquise - Anforderungsanalyse]]

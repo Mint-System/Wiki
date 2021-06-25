@@ -16,9 +16,13 @@ Ergebnis: Auftrag Installation
 
 -   Gibt es verschiedene Mandanten? Falls ja: Wie heissen sie?
 
+**Hosting
+
+- Welche Hosting-Variante wird gewählt?
+
  **Domains**
  
--   Wie heisst die Domain? (Hinweis: Schema $NAME.mint-system.ch)
+-   Wie heisst die Domain? (Hinweis: Standard Schema $NAME.mint-system.ch)
 
 **eMail-System**
 
@@ -28,10 +32,17 @@ Ergebnis: Auftrag Installation
 
 -   Welche Apps werden installiert?
 
+**Benutzer-Einstellungen
+
+- Welches ist die Standard-Sprache?
+- Was ist die Zeitzone?
+
 **Benutzerliste**
--   Wie heissen die Benutzer?  (Datei: Liste aller Benutzer.md)
+
+-   Wie heissen die Benutzer?
 
 **E-mail Signatur**
+
 -   Wie ist ist die E-mail Signatur definiert? (Datei: eMail Signatur.md)
 
 
