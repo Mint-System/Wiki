@@ -26,5 +26,4 @@ Aufgaben mit einer Deadline werden als Aktivitäten erfasst und direkt zugewiese
 
 Jeder Mitarbeiter führt eine Notiz mit Aufgaben, die er am Tag erledigen möchte. Fortlaufend aktualisiert er die Liste. Aufgaben, die nicht erledigt werden, werden am Ende des Tages als Projektaufgabe oder Aktivität festgehalten.
 
-## Unteraufgaben
 
