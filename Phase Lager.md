@@ -7,7 +7,6 @@
 - Gibt es mehrere Lager?
 - Wie heissen die Lager?
 
-
 ## Lagerorte einrichten
 
 **Einrichtungs-Schema**
@@ -59,7 +58,6 @@
 - Welche Vorgangstypen kommen zur Anwendung?
 
 ## Einsatz von mobile-Apps
-
 
 
 

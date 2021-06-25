@@ -21,7 +21,6 @@
 * Welche Dokumentation sind für das Projekt relevant?
 * Können siese Dokumenten zur Verfügung gestellt werden?
 
-
 ## IT-Systeme und Daten dokumentieren
 
 * Wie sieht die IT-Landschaft aus?
