@@ -1,6 +1,6 @@
 # Phasen
 
-Die Phasen basieren auf der [[Vorlage Phase]].
+Phasen regeln das **Was**. Die Phasen basieren auf der [[Vorlage Phase]].
 
 Die Angebotstext sind unter [[Phasen Textbausteine]] festgehalten.
 

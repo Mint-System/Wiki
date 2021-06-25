@@ -2,8 +2,6 @@
 
 ## Webshop migrieren
 
-### Analyse
-
 **Existierende Webseite**
 
 - Wieso nicht gleich die WebSite in Odoo aufgesetzt und dadurch die aktuelle abgelöst?
@@ -13,8 +11,6 @@
 -  Sollen bestehende Kunden-Registration übernommen werden?
 
 ## Webshop gliedern
-
-### Analyse
 
 **Landingpage**
 
@@ -39,8 +35,6 @@
 - Was ist der Inhalt des Footers im Webshop?
 
 ## Checkout definieren
-
-### Analyse
 
 **Abschluss**
 

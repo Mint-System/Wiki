@@ -6,8 +6,6 @@ Für praktisch alle Aspekte der Implementierung ist es wichtig, dass Produkte im
 
 Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie frühzeitig angelegt werden.
 
-### Analyse
-
 **Name des Arbeitsplatzes**
 
 - Welche Arbeitsplätze gibt es und wie heissen sie?
@@ -17,8 +15,6 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 - Wie sind die Arbeitsplätze codiert?
 
 ## Produkte anlegen (Stufe 3)
-
-### Analyse
 
 **Verkaufspreis**
 
@@ -49,8 +45,6 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 ## Zuordnen von Dateien zu Produkten
 
-### Analyse
-
 **Zuordnen von Zeichnungen**
 
 - Welche technischen Informationen werden dem Produkt zugeordnet (z.B. Zeichnungen, step-Dateien)?
@@ -61,7 +55,6 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 Grundlagen: Alle Produkte wurden erfasst (importiert)
 
-### Analyse
 
 **Referenz**
 
@@ -86,8 +79,6 @@ Erklärung im Handbuch (Materialbezug beim Vorgang)
 
 ## Vorgänge einrichten
 
-### Analyse
-
 **Berechnung der Dauer**
 
 - Wird die Dauer manuell oder automatisch festgelegt?
@@ -106,8 +97,6 @@ Erklärung im Handbuch (Materialbezug beim Vorgang)
 **Flexible Consumption**
 
 ## Vorgänge importieren
-
-### Analyse
 
 **Typ**
 
@@ -130,8 +119,6 @@ Wie wird das Feld Anleitung verwendet?
 -   Wie wird das Feld Notizen verwendet?
 
 ## Fertigungsaufträge
-
-### Analyse
 
 -   Gibt es für die Bezeichnung der Sequenzen spezielle Anforderungen?  
 

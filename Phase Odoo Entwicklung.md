@@ -2,10 +2,4 @@
 
 ## Odoo App entwickeln
 
-### Analyse
-
-
 ## Odoo Bericht entwickeln
-
-### Analyse
-

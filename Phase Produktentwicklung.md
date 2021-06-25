@@ -6,8 +6,6 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 Ergebnis: Definition der Produktidentifikation
 
-### Analyse
-
 **Produktname und Interne Referenz**
 
 - Mit welcher Bezeichnung soll das Produkt erscheinen?
@@ -42,7 +40,6 @@ Ergebnis: Definition der Produktidentifikation
 **Referenenzeinheit**
 
 - Welches ist die Referenzenheit pro Produkt?
-
 
 ## Produkte einrichten (Stufe 2)
 

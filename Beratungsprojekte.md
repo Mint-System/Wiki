@@ -1,6 +1,6 @@
 # Beratungsprojekte
 
-## Phasen
+## [[Phasen]]
 
 Zur Umsetzung eines Beratungsprojek können diese Phase angewendet werden:
 
@@ -9,7 +9,7 @@ Zur Umsetzung eines Beratungsprojek können diese Phase angewendet werden:
 * [[Phase Softwareevaluation]]
 * [[Phase Projekteingabe]]
 
-## Prozesse
+## [[Prozesse]]
 
 Zur Abwicklung eines Beratungsprojekt werden diese Prozesse angwendet:
 

@@ -2,8 +2,6 @@
 
 ## Lager einrichten
 
-### Analyse
-
 **Liste der Lager**
 
 - Gibt es mehrere Lager?
@@ -11,8 +9,6 @@
 
 
 ## Lagerorte einrichten
-
-### Analyse
 
 **Einrichtungs-Schema**
 
@@ -37,8 +33,6 @@
 - An welchen Lagerort wird Ausschuss transferiert?
 
 ## Lager-Routen definieren
-
-### Analyse
 
 **Anzahl Schritte für Wareneingang**
 
@@ -66,9 +60,6 @@
 
 ## Einsatz von mobile-Apps
 
-### Analyse
-
-**Welche App**
 
 
 

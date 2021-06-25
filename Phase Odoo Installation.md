@@ -1,12 +1,11 @@
 # Phase Installation
+
 ## Installation vorbereiten
 
 Grundlegende Informationen werden erarbeitet um die Odoo-Installation zu beauftragen.
 
 Ergebnis: Auftrag Installation
 
-
-### Analyse
 
 **Version und Lizenz-Typ**
 
@@ -44,7 +43,6 @@ Ergebnis: Auftrag Installation
 **E-mail Signatur**
 
 -   Wie ist ist die E-mail Signatur definiert? (Datei: eMail Signatur.md)
-
 
 ### Organisation
 
