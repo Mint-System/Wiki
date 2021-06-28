@@ -159,7 +159,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
                 '\n',
                 backLinks.map((link) => {
                     let target = link.source != 'README' ? `${basePath}${sanitizeName(link.source)}${uriSuffix}` : '/'
-                    return `* [${link.source}](${target}) \n`
+                    return `🔗 [${link.source}](${target})  \n`
                 }).join(''),
                 '\n',
             ].join('')
