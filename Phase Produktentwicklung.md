@@ -1,10 +1,11 @@
 # Phase Produktentwicklung
 
 ## Produkte einrichten (Stufe 1)
+In einer ersten Stufe werden die wichtigsten Daten erfasst. Nach einer Phase der Validierung erfolgt in der zweiten Stufe die finale Definition und Import.
+
+### Analyse
 
 Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die Daten aus dem [Prozess Produktentwicklung](https://odoo-wiki.ch/prozess-produktentwicklung.html) sind deshalb die Grundlage zur Definition der Produkte auf Stufe 1.
-
-Ergebnis: Definition der Produktidentifikation
 
 **Produktname und Interne Referenz**
 
@@ -16,30 +17,49 @@ Ergebnis: Definition der Produktidentifikation
 
 **Verkaufsartikel/Einkaufsartikel**
 
+ [Beschreibung im Handbuch](https://odoo-wiki.ch/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
+
 - Welche Produkte können verkauft werden?
 - Welche Produkte können eingekauft werden?
- 
- [Erklärung im Handbuch](https://odoo-wiki.ch/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
 
 **Produktart**
 
-- Wie werden die Produkte in der Lagerverwaltung berücksichtigt?
+[Beschreibung im Handbuch](https://odoo-wiki.ch/fertigung-stammdaten.html#produktart)
 
-[Erklärung im Handbuch](https://odoo-wiki.ch/fertigung-stammdaten.html#produktart)
+- Wie werden die Produkte in der Lagerverwaltung berücksichtigt?
 
 **Strichcode**
 
-- Wie setzt sich der Strichcode zusammen?
-  
-[Erklärung im Handbuch](https://odoo-wiki.ch/strichcode.html#strichcode)
+[Beschreibung im Handbuch](https://odoo-wiki.ch/strichcode.html#strichcode)
 
+- Wie setzt sich der Strichcode zusammen?
+- Wird für die Generierung eine spezielle App verwendet? (Vorschlag: *Product Barcode Generator* von Cybrosys)
+  
 **Ursprungsland**
 
-- Ist die Angabe des Urspungsland gefordert?
+- Ist die Angabe des Urspungslands gefordert?
 
-**Referenenzeinheit**
+**Referenzeinheit**
 
 - Welches ist die Referenzenheit pro Produkt?
+
+
+### Konfiguration
+
+- Projektaufgabe *Produkte konfigurieren*
+
+### Entwicklung
+
+- Projektaufgabe *Produktfelder programmieren*
+
+### Import
+
+- Projektaufgabe *Produkte importieren*
+
+### Tests
+
+- Projektaufgabe *Produktimport prüfen*
+
 
 ## Produkte einrichten (Stufe 2)
 

@@ -2,6 +2,8 @@
 
 Auf GitHub verwaltet die Mint System ihre privaten Projekte.
 
+Repository: <https://gitlab.com/mint-system/>
+
 ## Applikationen
 
 Registrierte Applikationen.

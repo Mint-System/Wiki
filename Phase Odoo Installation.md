@@ -1,49 +1,59 @@
-# Phase Installation
+# Phase Odoo Installation
 
 ## Installation vorbereiten
 
-Grundlegende Informationen werden erarbeitet um die Odoo-Installation zu beauftragen.
+Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
-Ergebnis: Auftrag Installation
-
+### Analyse
 
 **Version und Lizenz-Typ**
 
--   Welche Odoo-Version mit welchem Lizenz-Typ wird verwendet?
+- Welche Odoo-Version mit welchem Lizenz-Typ wird verwendet?
 
 **Mandanten**
 
--   Gibt es verschiedene Mandanten? Falls ja: Wie heissen sie?
+- Welche Mandanten gibt es? Wie heissen sie?
 
-**Hosting
+**Hosting**
 
 - Welche Hosting-Variante wird gewählt?
 
- **Domains**
+**Domains**
  
--   Wie heisst die Domain? (Hinweis: Standard Schema $NAME.mint-system.ch)
+- Wie heisst die Domain? (Standard Schema $NAME.mint-system.ch)
 
 **eMail-System**
 
--   Welches eMail-System wird verwendet?
+- Welches eMail-System wird verwendet?
 
 **Installierte Apps**
 
--   Welche Apps werden installiert?
+- Welche Apps werden installiert?
 
-**Benutzer-Einstellungen
+**Benutzer-Einstellungen**
 
 - Welches ist die Standard-Sprache?
 - Was ist die Zeitzone?
 
 **Benutzerliste**
 
--   Wie heissen die Benutzer?
+- Wie heissen die Benutzer?
 
 **E-mail Signatur**
 
--   Wie ist ist die E-mail Signatur definiert? (Datei: eMail Signatur.md)
+- Wie ist ist die E-mail Signatur definiert?
 
-### Organisation
+**Sprachen
 
-Die Projektaufgabe *Odoo installieren* erstellen und dem *Team Infrastruktur* zuweisen. (Siehe [[Prozesse Projektmanagement - Aufgaben verwalten]])
+- Welche Sprachen werden installiert?
+
+## Installation durchführen
+
+### Tests
+
+- Projektaufgabe *Installation testen* (Der Projektleiter prüft die korrekte Installation.)
+
+ ### In Betriebsetzung
+ 
+ - Projektaufgabe *Benutzer einladen* (Der Projektleiter lädt die Benutzer ein.)
+    

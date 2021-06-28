@@ -2,9 +2,11 @@
   
 Für praktisch alle Aspekte der Implementierung ist es wichtig, dass Produkte im System vorhanden sind. Deshalb werden bereits in der ersten Phase die Produkte thematisiert. Etwas speziell ist, dass bereits im ersten Schritt die Arbeitsplätze eingerichtet werden. Weil sie zur Definition der Vorgänge in den Stücklisten benötigt werden, wird dieses Thema bereits zu Beginn thematisiert.
 
-## Arbeitsplätze anlegen
+## Arbeitsplätze einrichten
 
 Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie frühzeitig angelegt werden.
+
+### Analyse
 
 **Name des Arbeitsplatzes**
 
@@ -14,113 +16,89 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 - Wie sind die Arbeitsplätze codiert?
 
-## Produkte anlegen (Stufe 3)
+### Import
 
-**Verkaufspreis**
+- Projektaufgabe *Arbeitsplätze importieren*
 
-- Welche Verkaufsregeln sind hinterlegt?
-- Wie funktionieren die Verkaufsregeln?
-
-**Steuern (Verkauf)**
-
-- Welche Steuern werden für den Verkauf des Produkts festgelegt?
-  
-[Erklärung im Handbuch](https://odoo-wiki.ch/theorie-mehrwertsteuer.html#steuersatze)
-
-**Kosten**
-
-- Ist die Währung korrekt eingestellt?
-
-**Unternehmen**
-
-- Welche Bedeutung hat das Zuordnen der Unternehmen?
-
-**Mengeneinheit**
-
-- Welches ist die Standard-Mengeneinheit des Produkts?
- 
-**Einkauf ME**
-
-- Welches ist die Standard-Mengeneinheit für den Einkauf des Produkts?
-
-## Zuordnen von Dateien zu Produkten
-
-**Zuordnen von Zeichnungen**
-
-- Welche technischen Informationen werden dem Produkt zugeordnet (z.B. Zeichnungen, step-Dateien)?
-- Wie werden die technischen Informationen (z.B. Zeichnungen, step-Dateien) den Produkten zugeordnet?
-- Entwicklung von Mint System installieren
 
 ## Stücklisten einrichten
 
-Grundlagen: Alle Produkte wurden erfasst (importiert)
+### Analyse
 
+**Schema für Stücklisten**
+
+- Wie sieht der grundsätzliche Aufbau der Stückliste aus?
 
 **Referenz**
 
-- Was macht Sinn?
+- Wird für die Bezeichnung der Stückliste eine Referenz (Code) verwendet?
 
 **Stücklisten Typ**
 
 - Werden Bausätze (Kits) verwendet?
-
-**Unternehmen**
-
-- Warum diese Zuordnung?
+- Wird Subcontracting verwendet?
 
 **Komponenten**
 
 - Welche Dateianhänge werden zugeordnet?
 - Wird der Verbrauch von Material den einzelnen Vorgängen zugeordnet?
-- Warum sollen Zeichnungen oder Spezifikationen in der Stückliste hinterlegt werden?
+- Werden Zeichnungen oder Spezifikationen in der Stückliste hinterlegt?
 
-Erklärung im Handbuch (Attachment zu Produkten)\
-Erklärung im Handbuch (Materialbezug beim Vorgang)
+**Vorgänge**
 
-## Vorgänge einrichten
+- Wie wird die Dauer festgelegt? (Manuell festlegen?)
+- Werden den Vorgängen Arbeitsblätter zugeordnet? (Welches Datei-Format wird verwendet?
 
-**Berechnung der Dauer**
+**Schritte*
 
-- Wird die Dauer manuell oder automatisch festgelegt?
-
-**Standardzeitraum**
-
-- Was ist der vorgesehene Zeitbedarf?
-
-**Arbeitsblatt**
-
-- Werden den Vorgängen Arbeitsblätter zugeordnet?
-- Welches Datei-Format wird für die Arbeitsblätter verwendet?
+- Werden Schritte verwendet?
+- Welche Typen von Schritten werden verwendet?
+- Wie werden Arbeitsblätter verwendet? (Zu bestimmter Seite scrollen?)
+- Wie wird das Feld *Anleitung* verwendet?
+- Wie wird das Feld *Notizen* verwendet?
 
 **Fertigungsbereitschaft**
 
+- Welche Option wird für die Fertigungsbereitschaft verwendet?
+
 **Flexible Consumption**
 
-## Vorgänge importieren
+- Welche Option wird für Flexible Consumption verwendet?
 
-**Typ**
+### Konfiguration
 
--   Welche Schritt-Typen werden verwendet?
+- Projektaufgabe *Stücklisten konfigurieren*
 
-**Arbeitsblatt**
+### Import
 
--   Werden die Schritte mit Bezug auf eine bestimmte Seite des Arbeitsblatts beschrieben?
+- Projektaufgabe *Vorgänge importieren*
 
-**Arbeitsblattseite**
+## Fertigungsaufträge einrichten
 
-- Warum funktioniert das nicht?
+### Analyse
 
-**Anleitung**
+**Sequenzen**
+-   Gibt es für die Bezeichnung der Sequenzen spezielle Anforderungen?
 
-Wie wird das Feld Anleitung verwendet?
+### Konfiguration
 
-**Notizen**
+- Projektaufgabe *Fertigungsaufträge konfigurieren*
 
--   Wie wird das Feld Notizen verwendet?
 
-## Fertigungsaufträge
+## Produkte einrichten (Stufe 2)
 
--   Gibt es für die Bezeichnung der Sequenzen spezielle Anforderungen?  
+### Analyse
 
-Der Einfachheit halber sollten die Grundeinstellungen nicht geändert werden.
+**Zuordnen von technischen Informationen**
+
+- Welche technischen Informationen werden dem Produkt zugeordnet (z.B. Zeichnungen, step-Dateien)?
+- Wie werden die technischen Informationen (z.B. Zeichnungen, step-Dateien) den Produkten zugeordnet?
+- Wird die Entwicklung von Mint System eingesetzt?
+
+### Entwicklung
+
+- Projektaufgabe *Doku-Mmgt von Mint System installieren*
+- Projektaufgabe *Doku-Mmgt von Mint System testen*
+
+
 
