@@ -10,6 +10,8 @@ Sie ist als Git Repository unter <https://github.com/Mint-System/Wiki> abrufbar.
 
 Die Wissensdatenbank ist eine Ansammlung von [Markdown](https://de.wikipedia.org/wiki/Markdown)-Dateien. Diese Text-Dateien werden mittels [Wikilinks](https://de.wikipedia.org/wiki/Hilfe:Links)  verlinkt und bilden so eine vernetzte Wissensdatenbank.
 
+![[Obsidian Graph Screenshot.png]]
+
 ## Navigation
 
 Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang der Beziehungen. Jeder Wikilink zeigt auf einen Artikel, welcher wiederum auf einen weiteren Artikel zeigt.
