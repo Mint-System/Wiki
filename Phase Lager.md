@@ -2,20 +2,16 @@
 
 ## Lager einrichten
 
-### Analyse
-
 **Liste der Lager**
 
 - Gibt es mehrere Lager?
 - Wie heissen die Lager?
 
-### Konfiguration
+### Todos
 
-- Projektaufgabe "Lager konfigurieren"
+- Lager konfigurieren
 
 ## Lagerorte einrichten
-
-### Analyse
 
 **Einrichtungs-Schema**
 
@@ -44,13 +40,11 @@
 
 - An welchen Lagerort wird Ausschuss transferiert?
 
-### Konfiguration
+### Todos
 
-- Projektaufgabe *Lagerorte einrichten*
+- Lagerorte einrichten
 
 ## Lager-Routen definieren
-
-### Analyse
 
 **Anzahl Schritte für Wareneingang**
 
@@ -76,24 +70,17 @@
 
 - Welche Vorgangstypen kommen zur Anwendung?
 
-### Konfiguration
+### Todos
 
-- Projektaufgabe *Lager-Routen konfigurieren*
-
-### Test
-
-- Projektaufaufgabe *Lager-Routen testen* (Jeweils ein Produkt über die verschiedenen Lager-Routen führen)
-
-### Validierung
-
-- Projektaufgabe *Lager-Routen validieren* (Die verantwortliche Person prüft den Workflow)
+- Lager-Routen konfigurieren
+- Lager-Routen testen
+- Lager-Routen validieren
 
 ## Mobile-Apps in Betrieb nehmen
 
-### Analyse
-
 - Welche App wird eingesetzt?
 
-### Konfiguration
-- Projektaufgabe *Mobile-App konfigurieren*
+### Todos
+
+- Mobile-App konfigurieren
 

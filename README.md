@@ -48,4 +48,4 @@ Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]].
 
 ## Hilfe
 
-Obsidian bietet eine umfangreiche Hilfestellung. Ein Tutorial um Markdown zu lernen gibt es [[Markdown Tutorial|hier]]
+Obsidian bietet eine umfangreiche Hilfestellung. Ein Tutorial um Markdown zu lernen gibt es [[Markdown Tutorial|hier]].

@@ -4,7 +4,7 @@ Ziele:
 
 * Der Integrator eines [[Odoo-Projekte|Odoo-Projekt]] hat die Kompetenz Anpassungen an der Odoo-Oberfläche vorzunehmen und diese mit [[Git]] festzuhalten.
 * Die Geschäftslogik von Odoo kann an den Integrator vermittelt werden.
-* Der Integrator kann einfache Abfragen auf der Odoo-Datenbank machen und
+* Der Integrator kann einfache Abfragen auf der Odoo-Datenbank machen.
 
 Dauer: 8 Stunden
 

@@ -33,3 +33,5 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Header und Footer definieren
 * Unternehmensdaten auf der Website definieren
+
+## 4. Verifizieren

@@ -4,8 +4,6 @@
 
 Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
-### Analyse
-
 **Version und Lizenz-Typ**
 
 - Welche Odoo-Version mit welchem Lizenz-Typ wird verwendet?
@@ -49,11 +47,8 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
 ## Installation durchführen
 
-### Tests
+### Todos
 
-- Projektaufgabe *Installation testen* (Der Projektleiter prüft die korrekte Installation.)
-
- ### In Betriebsetzung
- 
- - Projektaufgabe *Benutzer einladen* (Der Projektleiter lädt die Benutzer ein.)
+- Installation testen
+- Benutzer einladen
     

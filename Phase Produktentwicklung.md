@@ -3,8 +3,6 @@
 ## Produkte einrichten (Stufe 1)
 In einer ersten Stufe werden die wichtigsten Daten erfasst. Nach einer Phase der Validierung erfolgt in der zweiten Stufe die finale Definition und Import.
 
-### Analyse
-
 Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die Daten aus dem [Prozess Produktentwicklung](https://odoo-wiki.ch/prozess-produktentwicklung.html) sind deshalb die Grundlage zur Definition der Produkte auf Stufe 1.
 
 **Produktname und Interne Referenz**
@@ -43,22 +41,12 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 - Welches ist die Referenzenheit pro Produkt?
 
+### Todos
 
-### Konfiguration
-
-- Projektaufgabe *Produkte konfigurieren*
-
-### Entwicklung
-
-- Projektaufgabe *Produktfelder programmieren*
-
-### Import
-
-- Projektaufgabe *Produkte importieren*
-
-### Tests
-
-- Projektaufgabe *Produktimport prüfen*
+-  Produkte konfigurieren
+-  Produktfelder programmieren
+-  Produkte importieren
+-  Produktimport prüfen
 
 
 ## Produkte einrichten (Stufe 2)

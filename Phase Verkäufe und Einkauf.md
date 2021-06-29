@@ -1,7 +1,6 @@
 # Phase Verkäufe und Einkauf
-## Produkte anlegen (Stufe 2)
 
-### Analyse
+## Produkte anlegen (Stufe 2)
 
 **Verkaufspreis**
 
@@ -13,12 +12,10 @@
 [Beschreibung im Handbuch](https://odoo-wiki.ch/theorie-mehrwertsteuer.html#steuersatze)
 
 - Welche Steuern werden für den Verkauf des Produkts festgelegt?
-  
 
 **Kosten**
 
 - Wie wird die Funktion *Berechnung des Preises aus Stückliste* verwendet?
-
 
 **Einkauf ME**
 
@@ -36,12 +33,9 @@
 
 - Wie ist die Preisliste für Einkaufs-Produkte definiert?
 
+### Todos
 
-### Konfiguration
-- Projektaufgabe *Preisregeln progammieren*
-- Projektaufgabe *Steuern konfigurieren*f
-
-### Import
-
-- Projektaufgabe *Lieferanten-Preisliste importieren*
+- Preisregeln progammieren
+- Steuern konfigurieren
+- Lieferanten-Preisliste importieren
 

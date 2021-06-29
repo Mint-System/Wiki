@@ -6,8 +6,6 @@ Für praktisch alle Aspekte der Implementierung ist es wichtig, dass Produkte im
 
 Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie frühzeitig angelegt werden.
 
-### Analyse
-
 **Name des Arbeitsplatzes**
 
 - Welche Arbeitsplätze gibt es und wie heissen sie?
@@ -16,14 +14,11 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 - Wie sind die Arbeitsplätze codiert?
 
-### Import
+### Todos
 
 - Projektaufgabe *Arbeitsplätze importieren*
 
-
 ## Stücklisten einrichten
-
-### Analyse
 
 **Schema für Stücklisten**
 
@@ -65,29 +60,22 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 - Welche Option wird für Flexible Consumption verwendet?
 
-### Konfiguration
+### Todos
 
-- Projektaufgabe *Stücklisten konfigurieren*
-
-### Import
-
-- Projektaufgabe *Vorgänge importieren*
+- Stücklisten konfigurieren
+- Vorgänge importieren
 
 ## Fertigungsaufträge einrichten
-
-### Analyse
 
 **Sequenzen**
 -   Gibt es für die Bezeichnung der Sequenzen spezielle Anforderungen?
 
-### Konfiguration
+### Todos
 
-- Projektaufgabe *Fertigungsaufträge konfigurieren*
+- Fertigungsaufträge konfigurieren
 
 
 ## Produkte einrichten (Stufe 2)
-
-### Analyse
 
 **Zuordnen von technischen Informationen**
 
@@ -95,10 +83,10 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 - Wie werden die technischen Informationen (z.B. Zeichnungen, step-Dateien) den Produkten zugeordnet?
 - Wird die Entwicklung von Mint System eingesetzt?
 
-### Entwicklung
+### Todos
 
-- Projektaufgabe *Doku-Mmgt von Mint System installieren*
-- Projektaufgabe *Doku-Mmgt von Mint System testen*
+- Doku-Mmgt von Mint System installieren
+- Doku-Mmgt von Mint System testen
 
 
 
