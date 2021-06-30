@@ -6,10 +6,24 @@
 * Wie sehen die Projektziele aus?
 * Wie sieht die Projektabgrenzung aus?
 
+### Todos
+
+-   Stakeholder mit Kunden definieren
+-   Festhalten Stakeholder und Bezug zu Projektrahmen
+
 ## Stakeholder interviewen
 
 * Wer sind die Stakeholder?
 * Wie sieht die Verfügbarkeit aus?
+* Welche Rollen haben die Stakeholder?
+
+### Todos
+
+-   Fragekatalog erstellen
+-   Themen definieren
+-   Themenspezifische Fragen definieren
+-   Interview-Termine vereinbaren
+-   Interview durchführen
 
 ## Laufende Projekte festhalten
 

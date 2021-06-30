@@ -1,7 +1,7 @@
 # Prozess App Projekt
 Installation Modul Projekt (project)
 
-## 1. Erweiterungen installieren
+## 1 Installation
 Auswahl:
 *  Planning (planning)
 * Timesheet and Planning  (project_timesheet_forecast)
@@ -13,13 +13,13 @@ Navigieren nach *Einstellungen > Projekt* und Auswahl:
 * Unteraufgaben
 * Zeiterfassung
 
-## 2. Initialisierung
+## 2 Initialisierung
 Arbeitsschritte:
 * Aktivieren Entwicklermodus
 * Import Projektstufen von `project.task.type.csv`
 * Import Projektvorlage von `project.project.csv`
 * Filter Archiverte-Elemente anzeigen und diese entfernen
 
-## 3. Customizing
+## 3 Implementation
 Arbeitsschritte:
 *  Erstellen Projekt-Vorlage für Angebots-Projekt

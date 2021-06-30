@@ -1,16 +1,18 @@
 # Prozess App Lager
 Installation Modul Lager (stock).
 
-## 1. Erweiterungen installieren
+## 1 Installation
 Auswahl:
 * Stock enterprise (stock_enterprise)
 
-## 2. Verifizieren
+## 2 Initialisierung
 
-**Lager-Routen testen**
+## 3 Implementation
 
- Jeweils ein Produkt über die verschiedenen Lager-Routen führen.
+### Lager-Routen testen
+
+Jeweils ein Produkt über die verschiedenen Lager-Routen führen.
  
-**Lager-Routen validieren**
+### Lager-Routen validieren
 
 Die verantwortliche Person prüft den Workflow.

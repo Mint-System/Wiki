@@ -1,7 +1,7 @@
 # Prozess App Verkäufe
 Installation Modul Verkäufe (sale_management).
 
-## 1. Erweiterungen installieren
+## 1 Installation
 Auswahl:
 * Verkauf Enterprise (sale_enterprise)
 * Verkaufs- und Lagerverwaltung (sale_stock) #Odoo13-14 
@@ -13,7 +13,7 @@ Navigieren nach *Einstellungen > Verkäufe* und Auswahl:
 * Produktvarianten
 * Produktkonfigurator
 
-## 2. Initialisierung
+## 2 Initialisierung
 Arbeitsschritte:
 * Unternehmensdaten erfassen
 * Angebotslayout festlegen

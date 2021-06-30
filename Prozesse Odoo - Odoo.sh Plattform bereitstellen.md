@@ -1,13 +1,15 @@
 # Odoo.sh Plattform bereitstellen
 
-## Bestehendes Projekt übernehmen
+## 1 Initialisierung
+
+### Bestehendes Projekt übernehmen
 
 Arbeitsschritte:
 * Kontaktaufnahme mit Besitzer des GitHub Repository
 * Anfrage zum Transfer des Repository machen
 * Anfrage zur Freigabe auf das bestehende Odoo.sh Projekt machen
 
-## Neues Projekt erstellen
+### Neues Projekt erstellen
 
 Arbeitsschritte:
 * Einloggen auf <https://odoo.sh>
@@ -15,7 +17,7 @@ Arbeitsschritte:
 * Erstellen `dev` und `main` Branch
 * Deployment des produktiven Branches
 
-## Berechtigung Kunde einrichten
+### Berechtigung Kunde einrichten
 
 Arbeitsschritte:
 * Kunde auffordern zur Erstellung eines GitHub-Accounts

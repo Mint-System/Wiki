@@ -1,7 +1,7 @@
 # Prozess App Dokumente
 Installation Modul CRM (documents)
 
-## 1. Erweiterungen installieren
+## 1 Installation
 Workspace Module:
 * Documents - Accounting (documents_account)
 * Documents - Fleet (documents_fleet)

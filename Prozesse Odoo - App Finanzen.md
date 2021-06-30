@@ -1,7 +1,7 @@
 # Prozess App Finanzen
 Installation Modul Finanzen (account_accountant).
 
-## 1. Erweiterungen installieren
+## 1 Installation
 
 Auswahl:
 * Import CAMT Bank Statement (account_bank_statement_import_camt)
@@ -21,7 +21,7 @@ Navigation nach *Einstellungen > Finanzen* und Auswahl:
 * Kostenrechnung
 * Kostenstellen-Tags
 
-## 2. Initialisierung
+## 2 Initialisierung
 
 Arbeitsschritte:
 *  Unternehmensdaten eintragen
@@ -31,14 +31,14 @@ Arbeitsschritte:
 *  Buchungsperiode eröffnen
 *  Kontenplan übernehmen
 
-## 3. Customizing
+## 3 Implementation
 Auswahl:
 * Journale und Sequenzen festlegen (siehe Odoo Handbuch)
 
 #Odoo14  
 Die Sequenz in Odoo 14 wird über *Finanzen > Kunden > Rechungen* festgelegt. Dazu erstellen Sie eine erste Proformarechnung und wählen diese links zum Bearbeiten aus. Über das Menü *Aktion > Resequence* kann der nächste Wert (Rechnungsnummer) festgelegt werden. Dasselbe gilt auch für Eingangsrechnungen *Finanzen > Lieferanten > Rechnungen*
 
-### Kontenplan
+### Kontenplan einrichten
 
 Arbeitsschritte:
 * Kontennamen übersetzen
@@ -48,7 +48,7 @@ Name | Übersetzung
 Outstanding Receipts | Ausstehende Belege
 Outstanding Payments | Ausstehende Zahlungen
 
-### Steuern
+### Steuern festlegen
 
 Arbeitsschritte:
 * Steuergruppen festlegen *Einstellungen > Finanzen > Steuern > configure your tax accounts*

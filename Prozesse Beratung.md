@@ -3,4 +3,6 @@ Dokumentation der Beratungsprozesse.
 
 Verantwortlich: [[Janik von Rotz]]
 
-* [[Prozesse Beratung - Stakeholder interviewen]]
+* [[Prozesse Beratung - Aufnahme Assets]]
+* [[Prozesse Beratung - Optimierung]]
+* [[Prozesse Akquise - Anforderungsanalyse]]

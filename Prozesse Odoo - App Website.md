@@ -1,7 +1,7 @@
 # Prozess App Website
 Installation Module Website (website).
 
-## 1. Erweiterungen installieren
+## 1 Installation
 Auswahl:
 * eCommerce (website_sale)
 
@@ -14,14 +14,14 @@ Navigieren nach *Einstellungen > Website > Website* und Auswahl:
 
 Theme installieren: *Einstellungen > Website > Pick a Theme*.
 
-## 2. Initialisierung
+## 2 Initialisierung
 
 Arbeitsschritte:
 * Zahlungsmittel  aktivieren
 * Produkte, Kategorien und Preislisten erfassen
 * Allgemeine Geschäftsbedingungen hinterlegen
 
-## 3. Customizing
+## 3 Implementation
 
 Arbeitsschritte:
 * Fix bug [[Odoo 14#Editor not wide enough]]
@@ -33,5 +33,3 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Header und Footer definieren
 * Unternehmensdaten auf der Website definieren
-
-## 4. Verifizieren

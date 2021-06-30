@@ -1,5 +1,5 @@
 # Prozesse Odoo
-Technische Dokumentation der Odoo Prozesse.
+Technische Dokumentation der Odoo Prozesse. Baisieren auf der [[Vorlage Prozesse Odoo]].
 
 Verantwortlich: [[Janik von Rotz]]
 
@@ -32,32 +32,3 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - Produktionsumgebung bereitstellen]]
 * [[Prozesse Odoo - Odoo.sh Plattform bereitstellen]]
 
-## Prozessvorlage:
-
-# Prozesse Odoo - App APPNAME
-
-Installation von APPNAME.
-
-## 1. Erweiterungen installieren
-
-Erweiterung des Funktionsumfangs der App.
-
-### Optionen aktivieren
-
-Die Optionen aus den Erweiterungen aktivieren.
-
-## 2 .Initialisierung
-
-Arbeitschritte damit die App funktioniert.
-
-### Unteraufgaben
-
-Areitsschritte zur Ausführung der Unteraufgabe.
-
-## 3. Customizing
-
-Kundenspezifische Anpassungen.
-
-### Unteraufgaben
-
-Areitsschritte zur Ausführung der Unteraufgabe.

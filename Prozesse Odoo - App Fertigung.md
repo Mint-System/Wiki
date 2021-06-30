@@ -1,7 +1,7 @@
 # Prozess App Fertigung
 Installation Modul Fertigung (mrp)
 
-## 1. Erweiterungen installieren
+## 1 Installation
 Auswahl:
 * MRP II (mrp_workorder)
 * Master Production Schedule (mrp_mps)

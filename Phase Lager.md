@@ -9,6 +9,8 @@
 
 ### Todos
 
+**Konfiguration**
+
 - Lager konfigurieren
 
 ## Lagerorte einrichten
@@ -42,6 +44,8 @@
 
 ### Todos
 
+**Konfiguration**
+
 - Lagerorte einrichten
 
 ## Lager-Routen definieren
@@ -72,15 +76,25 @@
 
 ### Todos
 
+**Konfiguration**
+
 - Lager-Routen konfigurieren
-- Lager-Routen testen
-- Lager-Routen validieren
+
+**Testen**
+
+- [[Prozesse Odoo - App Lager#Lager-Routen testen]]
+
+**Validierung**
+
+- [[Prozesse Odoo - App Lager#Lager-Routen validieren]]
 
 ## Mobile-Apps in Betrieb nehmen
 
 - Welche App wird eingesetzt?
 
 ### Todos
+
+**Konfiguration**
 
 - Mobile-App konfigurieren
 

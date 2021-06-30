@@ -16,5 +16,7 @@ Eine Phase ist wie folgt gegliedert:
 		* **Abschnitt**
 		* Details
  		* Überschrift 3: Todos
+		* **Abschnitt**
+		* Details
 
-Jeder Abschnitt enthält Fragen zur Abklärung.
+Jeder Abschnitt enthält Fragen zur Abklärung und [[Todos]].

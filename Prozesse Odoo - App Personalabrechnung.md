@@ -1,7 +1,7 @@
 # Prozess App Personalabrechnung
 Installation Modul Personalabrechnung (hr_payroll).
 
-## Erweiterungen installieren
+## 1 Installation
 Auswahl:
 * Lohnbuchhaltung (hr_payroll_account)
 * SEPA-Zahlungen für Gehaltsabrechnungen (hr_payroll_account_sepa)
@@ -11,7 +11,7 @@ Auswahl:
 Auswahl:
 *  Payroll SEPA
 
-## 2. Initialsierung
+## 2 Initialsierung
 Arbeitsscrhitte:
 * HR-Stammdaten vorbereiten.
 * Erfassen Standardarbeitsvertrag
@@ -24,9 +24,9 @@ Arbeitsschritte:
 * Import `hr.salary.rule.basis.csv`
 * Festlegen Lohnjournal
 
-## 3. Customzing
+## 3 Implementation
 
-### Daten Importieren
+### Daten importieren
 Arbeitsschritte:
 * Erstellen Structure Type "Monatliche Lohnabrechnung"
 * Erstellen Lohnstruktur "Lohnabrechnung VORNAME NACHNAME" und speichern der ID

@@ -18,3 +18,4 @@ tags:
 * [[Vorlage Issues]]
 * [[Vorlage Minor Improvements]]
 * [[Vorlage Bugs]]
+* [[Vorlage Prozesse Odoo]]
