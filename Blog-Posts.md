@@ -8,4 +8,5 @@
 [[IT-Monokultur in der Verwaltung]]\
 [[Den eigenen Login-Anbieter mit Keycloak]]\
 [[Der eigene Messenger für ihre Schule]]\
-[[Odoo Customizing ohne zukünftige Einschränkungen]]
+[[Odoo Customizing ohne zukünftige Einschränkungen]]\
+[[Neuerungen in Odoo 15]]

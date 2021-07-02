@@ -2,10 +2,17 @@
 
 Markanalyse und Differenzierungsstrategien.
 
-## Konkurrenzanalyse
+## Konkurrenten
 
-Details zur Konkurrenz von Odoo.
+### twio.tech
 
+Website: <https://www.twio.tech>
+
+Ist seit kurzen auf dem Markt. Hat viel Erfahrung mit SAP und IFS. Aktuell keine OSS Publikationen. Guten Blogbeitrag: https://www.twio.tech/hello-world/.
+
+## Konkurrenzprodukte
+
+Details zu Konkurrenzprodukte von Odoo.
 
 ### Bexio
 

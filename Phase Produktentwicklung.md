@@ -59,3 +59,9 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 - Wie sind die Steuern für Verkaufsartikel definiert?
 
+**Produktzeichnungen**
+
+- Wollen sie pro Produkt jeweils eine Step-Datei und eine Zeichnung speichern?  
+- Wo sollen die Zeichnungsdateien gespeichert werden?  
+- Sollen die Zeichnungsdateien den Lieferanten über das Portal und den RFQ/PO zugänglich gemacht werden?  
+- Soll in der Tablet-Ansicht den Zugriff auf die Zeichnungsdatei möglich sein?

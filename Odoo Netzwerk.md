@@ -1,7 +1,14 @@
 # Odoo Netzwerk
 Geschäftsbeziehungen der Mint System.
 
-[[Odoo OCA]]\
+## Odoo Partner
+
 [[Odoo S.A.]]\
-[[Cybrosys]]\
-[[]]
+[[Odoo OCA]]\
+[[giordano.ch ag]]\
+[[Equitania Software GmbH]]\
+[[Syscoon GmbH]]
+
+## Open Source Partner
+
+[[Cybrosys]]
