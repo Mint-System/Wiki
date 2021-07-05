@@ -1,6 +1,6 @@
 # Odoo Revisions
 
-Manage Odoo Revisions with git and docker tags.
+Odoo Revsions sind Snapshots der Entwicklungshistory zu einem bestimmten Zeitpunkt. Mit einem [[Git]]- und [[Docker]]-Hash wird der Snapshot festghealten.
 
 ## Odoo 13.0
 
