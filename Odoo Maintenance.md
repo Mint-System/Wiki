@@ -18,7 +18,9 @@ Damit laufende Kosten von Eigentwicklungen und Modulen mit geringer Nachfrage ge
 
 ## Versicherung
 
-**Frei lizenzierte Odoo-Module mit geringer Community-Nachfrage und umangreichen Funktionalitäten haben ein höhreres Risiko für unvorhergesehene Upgradekosten.** Damit diese Kosten vom Odoo-Partner gedeckt werden können, soll der Kunde eine Art Versicherung abschliessen. Der Kunde kann mit einem geringen Beitrag unvorhergesehene Kosten dem Odoo-Partner übertragen. Der Odoo-Partner hat laufende Einnahmen um das Risiko von unvorhergesehenen Upgradekosten zu reduzieren.
+**Frei lizenzierte Odoo-Module mit geringer Community-Nachfrage und umangreichen Funktionalitäten haben ein höhreres Risiko für unvorhergesehene Upgradekosten.** Diese Module werden als [[Maintained Apps]] bezeichnet.
+
+Damit diese Kosten vom Odoo-Partner gedeckt werden können, soll der Kunde eine Art Versicherung abschliessen. Der Kunde kann mit einem geringen Beitrag unvorhergesehene Kosten dem Odoo-Partner übertragen. Der Odoo-Partner hat laufende Einnahmen um das Risiko von unvorhergesehenen Upgradekosten zu reduzieren.
 
 ## Leistungen
 

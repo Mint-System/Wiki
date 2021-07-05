@@ -2,6 +2,10 @@
 
 * [[Odoo Replenishment]]
 
+## Themen
+
+Lagertransfers mit [[Ventor.app]].
+
 ## Video Tutorial
 [What's New in Odoo 14 Inventory?](https://www.youtube.com/watch?v=ujSeKrkx30g).
 
