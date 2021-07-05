@@ -68,11 +68,18 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 ## Fertigungsaufträge einrichten
 
 **Sequenzen**
+
 -   Gibt es für die Bezeichnung der Sequenzen spezielle Anforderungen?
 
 ### Todos
 
 - Fertigungsaufträge konfigurieren
+
+## Fertigungs-Routen einrichten
+
+**Manufacture**
+
+- In welchen Schritten wird produziert?
 
 
 ## Produkte einrichten (Stufe 2)

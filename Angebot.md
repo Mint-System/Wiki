@@ -2,6 +2,7 @@
 Das Angebot der Mint System.
 
 ## Software und Dienstleistungen
+
 * [[LibreOffice]]  
 * [[Odoo]]  
 * [[Moodle]]  

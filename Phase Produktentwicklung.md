@@ -58,6 +58,7 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 **Steuern**
 
 - Wie sind die Steuern für Verkaufsartikel definiert?
+- Sind spezielle Regeln einzurichten (Fiscal Position)?
 
 **Produktzeichnungen**
 
