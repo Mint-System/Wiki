@@ -46,5 +46,6 @@ Liest die RFID-Karten aus.
 **RFID Chip**
 
 Sendet den RFID-Code an den Leser. Gibt es in unterschiedlichen Ausführungen.
+Getestet wurden System "Glutz" und "Zaugg"
 
 [Mouser](https://www.mouser.ch/ProductDetail/Mikroe/MIKROE-1475/?qs=Jl8P5Tpu6m3JMLFFxNymZw%3D%3D) - CHF 1.83

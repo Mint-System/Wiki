@@ -6,3 +6,4 @@ Verantwortlich: [[Janik von Rotz]]
 
 * [[Prozesse Softwareentwicklung - Technische Spezifikation]]
 * [[Prozesse Softwareentwicklung - Git-Repository]]
+* [[Prozesse Softwareentwicklung - Odoo Snippets]]

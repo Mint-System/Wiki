@@ -70,4 +70,4 @@ Wurden im vorjahr in der bisherigen Buchhaltung bereits Zahlungen getätigt oder
 	6220 Versicherungen / Gegenkonto 1300 mit Buchungstext Transitorische Aktiven 
 
 Auflösen von Transitorischen Buchungen
-Dem Kunden wurde zum Beispiel im Dezember für einen Verkauf die Rechnug zugestellt, diese ist jedoch erst im Januar bezahlt. In der alten Buchhaltung wird der Ertrag verbucht, statt dem Konto 1020 Bank das transitorische Konto. Bei Zahlungseingang erfolgen Buchungen zur Auflösung der Transitorischen Einträge. Das Konto sollte danach ausgeglichen (Saldo 0) sein. 
+Dem Kunden wurde zum Beispiel im Dezember für einen Verkauf die Rechnug zugestellt, diese ist jedoch erst im Januar bezahlt. In der alten Buchhaltung wird der Ertrag verbucht, statt dem Konto 1020 Bank das transitorische Konto. Bei Zahlungseingang erfolgen Buchungen zur Auflösung der Transitorischen Einträge. Das Konto sollte danach ausgeglichen (Saldo CHF 0.00) sein. 
