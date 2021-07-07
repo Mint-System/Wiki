@@ -8,3 +8,5 @@ Arbeitsschritte:
 * Stagen sie ihr Odoo Snippet (git add)
 * Erstellen sie den Commit mit einer Nachricht (git commit -m)
 * Laden sie Änderungen hoch (git push)
+
+![[Odoo Snippet publizieren.gif]]
