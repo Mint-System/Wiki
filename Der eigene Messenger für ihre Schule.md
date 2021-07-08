@@ -49,7 +49,7 @@ Es gibt viele Unternehmen, die sich mit Open Source Software auskennen und sie b
 
 **Mint System**
 
-Mint System unterstützten Schulen beim Betrieb von Open Source Software. Mit der [Openeduca]()-Initiave präsentieren wir sinnvolle Lösungen für den Schulbetrieb.
+Mint System unterstützten Schulen beim Betrieb von Open Source Software. Mit der [Openeduca](https://www.openeduca.ch)-Initiave präsentieren wir sinnvolle Lösungen für den Schulbetrieb.
 
 **[Ungleich](https://ungleich.ch/)**
 

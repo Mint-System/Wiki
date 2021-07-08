@@ -1,3 +1,9 @@
 # Odoo.sh
 
 [[Odoo.sh Entwicklung]]
+
+## Painpoints
+
+**Kein Datebnankzugriff**
+
+Es ist nicht möglich direkt auf die Datenbank zuzugreifen. Man muss jeweils einen Export machen und die DB wieder importieren.
