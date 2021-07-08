@@ -18,7 +18,7 @@ Log into Docker Container.
 Start Odoo Shell.  
 ```bash
 DATABASE=odoo14
-./odoo-bin shell -d $DATABASE --db_host $HOST -r $USER -w $PASSWORD
+odoo shell -d $DATABASE --db_host $HOST -r $USER -w $PASSWORD
 ```
 
 Clear assets.  
@@ -53,5 +53,18 @@ Disable mail server
 record = env['res.config.settings'].browse(1)
 print(record.external_email_server_default)
 record.external_email_server_default = False
+env.cr.commit()
+```
+
+List all quality alerts.
+```
+alerts=self.env['quality.alert'].search([])
+for alert in alerts:
+	print(alert.id, alert.name, alert.title)
+```
+
+```py
+record = env['quality.alert'].browse(57)
+record.name = "QA0005X"
 env.cr.commit()
 ```

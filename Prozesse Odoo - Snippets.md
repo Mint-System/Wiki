@@ -1,4 +1,14 @@
-# Prozess Odoo Snippets
+# Prozess Snippets
+
+## Snippet einfügen
+
+Arbeitsschritte:
+* Parent-Ansicht aufrufen
+* Ein neuen Eintrag für eine vererbte Ansicht erstellen
+* Name mit `mint_system.` und Snippet-Dateiname ohne `.xml`-Endung einfügen
+* Als Sequence `50` eintragn
+* Unter Architektur den Snippet-Inhalt einfügen
+* Vererbte Ansicht und Parent-Ansicht speichern
 
 ## Snippet publizieren
 

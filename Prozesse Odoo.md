@@ -31,4 +31,4 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - Testumgebung bereitstellen]]
 * [[Prozesse Odoo - Produktionsumgebung bereitstellen]]
 * [[Prozesse Odoo - Odoo.sh Plattform bereitstellen]]
-
+* [[Prozesse Odoo - Snippets]]
