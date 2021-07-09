@@ -5,3 +5,5 @@
 Website: <https://www.postgresql.org/>
 
 [[Upgrade PostgreSQL Docker container]]
+
+[[Migrating data via pg_dump]]

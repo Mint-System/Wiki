@@ -50,9 +50,9 @@ Folgende Module stehen in SelectLine zur Verfügung und sind Mandantenfähig:
 Auftrag, CRM, Leistung verrechnen, PC-Kasse, Artikelmanager, EDI, RMA für Warenrücksendungen, Versandmodul, SL.mobile, Lagerbewirtschaftung, Webanwendung, Produktion, Finanzbuchhaltung, Anlagenbuchhaltung, Lohn, 
 Debitoren-/Kreditorenverwaltung, EBanking,  Archivierung SelectLine, BDE, Zeit- und Serviceerfassung
 
-> Die Preisliste steht hier zum Download: [[http://www.ddiag.ch/upload/pdf/dokumente/Preisliste%20SelectLine%20Software%20AG_ab%2008.05.2020.pdf]]
+Die Preisliste steht hier zum Download: <http://www.ddiag.ch/upload/pdf/dokumente/Preisliste%20SelectLine%20Software%20AG_ab%2008.05.2020.pdf>
 
 ### Abas ERP
 ABAS ERP ist eine deutsche ERP Software mit Modulen zu Themen wie Finanzen und Produktion. ABAS hat in der Schweiz eine Vertretung.
 
-> Link zu ABAS ERP: [[https://abas-erp.com/de/]]
+Link zu ABAS ERP: <https://abas-erp.com/de/>

@@ -71,7 +71,7 @@ sudo rm -rf /var/lib/docker/volumes/odoo-development_odoo-db-data/_data
 sudo mv 12/data /var/lib/docker/volumes/odoo-development_odoo-db-data/_data
 ```
 
-Change posgres version.
+Change postgres version.
 
 `image: postgres:12`
 
