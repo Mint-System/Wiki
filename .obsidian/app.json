@@ -1,9 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
-  "enabledPlugins": [
-    "table-editor-obsidian"
-  ],
   "strictLineBreaks": true,
   "trashOption": "local",
   "spellcheck": false
