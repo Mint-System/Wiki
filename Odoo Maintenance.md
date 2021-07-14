@@ -24,8 +24,8 @@ Damit laufende Kosten von Eigentwicklungen und Modulen mit geringer Nachfrage ge
 
 Die Versicherung umfasst diese Leistungen:
 
-* Übernahme von unvorhergesehenen Upgradekosten
-* Mitarbeit bei der Weiterentwicklung der Odoo-Module
-* Upgrade der Module auf eine neue Odoo-Version
-* Vermarktung der Odoo-Module mit dem Ziel die Nachfrage zu stärken
-* Dokumentation der Modul-Funktionalitäten
+- Übernahme von unvorhergesehenen Upgradekosten
+- Mitarbeit bei der Weiterentwicklung der Odoo-Module
+- Upgrade der Module auf eine neue Odoo-Version
+- Vermarktung der Odoo-Module mit dem Ziel die Nachfrage zu stärken
+- Dokumentation der Modul-Funktionalitäten

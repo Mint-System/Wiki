@@ -44,4 +44,17 @@
 
 ### Todos
 
-- 
+## Handlungsbedarf festhalten
+
+* In welchen Bereichen des Kunden bestehen Probleme?
+* Was sind die Bedürfnisse der Stakeholder?
+* Wie sehen die Workarounds der Stakeholder aus?
+* Wie kann die Arbeitsmethodik verbessert werden?
+
+### Todos
+
+-  Interviews zusammenfassen
+-  Themenfelder definieren
+-  Bedürfnisse der Stakeholder bündeln
+-  Lösungsvorschläge erfassen
+-  Erste Empfehlungen festhalten
