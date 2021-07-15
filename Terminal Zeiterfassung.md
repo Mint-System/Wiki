@@ -21,19 +21,22 @@ Dazu die Stückliste:
 
 Mini-Computer der die Odoo Zeiterfassung im Kiosk-Modus darstellt.
 
-[Mouser](https://www.mouser.ch/new/raspberry-pi/raspberry-pi-3-bplus/) - CHF 40.44
+[Mouser](https://www.mouser.ch/new/raspberry-pi/raspberry-pi-3-bplus/) - CHF 40.44\
+[pi-shop](https://www.pi-shop.ch/raspberry-pi-3-model-b) - CHF 42.90
 
 **Raspberry Pi Touchsccreen 7"**
 
 Touchscreen für Raspberry Pi.
 
-[Mouser](https://www.mouser.ch/ProductDetail/474-LCD-13733/) - CHF 77.23
+[Mouser](https://www.mouser.ch/ProductDetail/474-LCD-13733/) - CHF 77.23\
+[pi-shop](https://www.pi-shop.ch/raspberry-pi-7-touch-screen-display-mit-10-finger-capacitive-touch) - CHF 74.90
 
 **Raspberry Pi Touchscreen Case**
 
 Gehäuse für Raspberry Pi Computer und Touchscreen.
 
-[Mouser](https://www.mouser.ch/ProductDetail/713-114992003/) - CHF 17.38
+[Mouser](https://www.mouser.ch/ProductDetail/713-114992003/) - CHF 17.38\
+[pi-shop](https://www.pi-shop.ch/gehaeuse-fuer-offizielles-7-zoll-rpi-display-kompatibel-mit-raspberry-pi-4-model-b-schwarz) - CHF 29.90
 
 Kann mit dieser [Zeichnung](https://www.thingiverse.com/thing:1585924) auch selber gedruckt werden.
 
