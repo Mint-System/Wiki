@@ -54,12 +54,12 @@ function convert(content, file) {
     }
 
     // convert embeded content links
-    // ![[Content]] -> [Content](Content.md ':include')
+    // ![[Content]] -> !!!include(content.md)!!!
     matches = content.match(embededContent) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
-        let title = encodeURI(match.match(/\[\[([^\]|#]*)/)[1])
-        content = content.replace(embededContent, `[$1](${title}.md ':include')`)
+        let title = sanitizeName(match.match(/\[\[([^\]|#]*)/)[1])
+        content = content.replace(embededContent, `!!!include(${title}.md)!!!`)
     }
 
     // convert wiki links

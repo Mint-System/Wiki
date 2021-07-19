@@ -23,5 +23,8 @@ module.exports = {
                 hostname: 'https://wiki.mint-system.ch/'
             }
         ]
-    ]
+    ],
+    extendMarkdown: (md) => {
+        md.use(require('markdown-it-include'))
+    }
 }
