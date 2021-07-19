@@ -1,9 +1,10 @@
 # Prozess App Lager
-Installation Modul Lager (stock).
+Installation Modul Lager `stock`.
 
 ## 1 Installation
 Auswahl:
-* Stock enterprise (stock_enterprise)
+* Stock enterprise `stock_enterprise`
+* Produkt-Ablaufdatum `product_expiry`
 
 ## 2 Initialisierung
 

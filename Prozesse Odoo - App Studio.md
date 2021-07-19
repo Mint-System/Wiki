@@ -1,2 +1,2 @@
 # Prozess App Studio
-Installation Module (web_studio).
+Installation Module `web_studio`.

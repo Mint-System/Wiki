@@ -3,14 +3,14 @@ Nachdem die Odoo-Installation inklussive aller dazu bestellten Apps erfolgt ist,
 
 ## 1 Installation
 Auswahl:
-* User roles (base_user_role)
+* User roles `base_user_role`
 
 ## 2 Initialisierung
 Arbeitsschritte:
-* Unternehmensdaten festlegen (Adresse, Mehrwertsteuer-ID, UID, etc.)
-* Benutzer erfassen (Personal muss nicht zwingend Benutzer sein)
+* Unternehmensdaten festlegen `Adresse, Mehrwertsteuer-ID, UID, etc.`
+* Benutzer erfassen `Personal muss nicht zwingend Benutzer sein`
 * Sprachpakete installieren
-* Geschäftsunterlagen (Papierformat)
-* Diskussion (Externe E-Mail-Server)
-* Mengeneinheiten (Kilogramm, Kilometer)
-* Integration Kalender (Google, Outlook)
+* Geschäftsunterlagen `Papierformat`
+* Diskussion `Externe E-Mail-Server`
+* Mengeneinheiten `Kilogramm, Kilometer`
+* Integration Kalender `Google, Outlook`

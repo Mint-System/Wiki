@@ -1,11 +1,11 @@
 # Prozess App Personalabrechnung
-Installation Modul Personalabrechnung (hr_payroll).
+Installation Modul Personalabrechnung `hr_payroll`.
 
 ## 1 Installation
 Auswahl:
-* Lohnbuchhaltung (hr_payroll_account)
-* SEPA-Zahlungen für Gehaltsabrechnungen (hr_payroll_account_sepa)
-* HR Payroll Share (gio_payroll_custom)
+* Lohnbuchhaltung `hr_payroll_account`
+* SEPA-Zahlungen für Gehaltsabrechnungen `hr_payroll_account_sepa`
+* HR Payroll Share `gio_payroll_custom`
 
 ### Optionen aktivieren
 Auswahl:

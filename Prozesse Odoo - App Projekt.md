@@ -1,12 +1,12 @@
 # Prozess App Projekt
-Installation Modul Projekt (project)
+Installation Modul Projekt `project`
 
 ## 1 Installation
 Auswahl:
-*  Planning (planning)
-* Timesheet and Planning  (project_timesheet_forecast)
-* Compare timesheets and forecast for your projects (project_timesheet_forecast_sale)
-* Projekt Unternehmen (project_enterprise) 
+*  Planning `planning`
+* Timesheet and Planning  `project_timesheet_forecast`
+* Compare timesheets and forecast for your projects `project_timesheet_forecast_sale`
+* Projekt Unternehmen `project_enterprise` 
 
 ### Optionen aktivieren
 Navigieren nach *Einstellungen > Projekt* und Auswahl:

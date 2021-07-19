@@ -6,5 +6,5 @@ Website: <https://www.postgresql.org/>
 
 [[Upgrade PostgreSQL Docker container]]
 
-[[Migrating data via pg_dump]]
+[[Migrating docker postgres databases with pg_dump]]
 

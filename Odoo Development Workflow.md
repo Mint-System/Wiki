@@ -1,10 +1,10 @@
 # Odoo Development Workflow
 
-## Tools
+Workflow for [[Odoo Development]].
 
-In order to develope Odoo modules, install these tools:
+## Requirements
 
-* [pre-commit](https://pre-commit.com/#install)
+In order to develope Odoo modules you must run `task install-src`.
 
 ## Troubleshooting
 

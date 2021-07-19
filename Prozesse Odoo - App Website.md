@@ -1,9 +1,9 @@
 # Prozess App Website
-Installation Module Website (website).
+Installation Module Website `website`.
 
 ## 1 Installation
 Auswahl:
-* eCommerce (website_sale)
+* eCommerce `website_sale`
 
 ### Optionen aktivieren
 Navigieren nach *Einstellungen > Allgemeine Einstellungen > Integration* und Auswahl:
