@@ -1,7 +1,7 @@
 # Workplace
 
 * Bring your own Device
-* OS ist [[Pop!_OS]]
+* OS ist [[Pop_OS]]
 * Browser [[Firefox]]
 
 ## Hardware
