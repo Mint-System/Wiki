@@ -1,10 +1,13 @@
 # Methodik
-[[Evaluation]]  
-[[Management Handbuch]]  
-[[Vorgehensmodell]]  
-[[Design Decisions]]  
-[[Marktsondierung]]  
-[[Pendenzen]]  
-[[Arbeitsplanung]]  
-[[Projektmanagement]]  
-[[Technologien]]  
+
+Methodisches Vorgehen.
+
+* [[Evaluation]]
+* [[Management Handbuch]]
+* [[Vorgehensmodell]]
+* [[Design Decisions]]
+* [[Marktsondierung]]
+* [[Pendenzen]]
+* [[Arbeitsplanung]]
+* [[Projektmanagement]]
+* [[Akquise]]

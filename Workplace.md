@@ -1,10 +1,18 @@
 # Workplace
 
 * Bring your own Device
-* OS ist Ubuntu 18.04
-* Browser Firefox
+* OS ist [[Pop!_OS]]
+* Browser [[Firefox]]
+
+## Hardware
+
+Wir empfehlen einen Laptop von [[System76]], beispielsweise den [Lemur Pro](https://system76.com/laptops/lemur).
+
+Dazu die Dockingstation [Lenovo USB-C Dock](https://www.digitec.ch/de/s1/product/lenovo-usb-c-dock-2-gen-hdmi-displayport-90w-usb-a-dockingstation-11819345)
 
 ## Software
+
+Eine Liste von nützlichen Tools:
 
 | Name                                | OS                    | Description                                          |
 | ----------------------------------- | --------------------- | ---------------------------------------------------- |

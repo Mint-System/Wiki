@@ -4,6 +4,8 @@ Textbausteine für Konzepte.
 
 ## Phase und Aktivitäten
 
+### [[Odoo-Projekte]]
+
 [[Phase Hosting initialisieren|Phase X: Hosting initialisieren]]
 * Die DNS Konfiguration vornehmen
 * Hosting-Lösungen installieren
@@ -18,19 +20,19 @@ Ziel: Die Hosting-Lösungen sind initialisiert.
 * Die DNS Konfiguration vornehmen
 * Odoo Mail-Account integrieren
 * Die Benutzer in Odoo bereitstellen
-* Odoo Module von Dritten installieren
+* Odoo Module von Drittanbieter installieren
 
 Ziel: Odoo steht für die Initialisierung bereit.
 
-[[Phase Initialisierung|Phase X: Initialisierung]]
+[[Phase Kontakte|Phase X: Kontakte]]
 * Die Adressen der Lieferanten importieren
 * Die Adressen der Kunden importieren
 * Die Bankkonten erfassen und konfigurieren
 * Das Dokumentlayout festlegen und umsetzen
 
-Ziel: Initialisierungs-Daten stehen in Odoo zur Verfügung.
+Ziel: Kontakt-Daten stehen in Odoo zur Verfügung.
 
-[[Phase Initialisierung Website|Phase X: Initialisierung Website]]
+[[Phase Website|Phase X: Website]]
 * Die Portal-Benutzer importieren
 * Aufbau Berechtigungsstruktur
 * Seitenstruktur festlegen
@@ -139,7 +141,6 @@ Ziel: Odoo Entwicklung validiert.
 
 Ziel: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
 
-
 [[Phase Personal|Phase x: Personal]]
 * Adressen des Personal erfassen
 * Arbeitsverträge einrichten
@@ -210,12 +211,16 @@ Ziel: Das Design der Odoo-Webseite entspricht dem Corporate Design des Unternehm
 
 Ziel: Anpassung für die Website sind umgesetzt.
 
+### [[Softwareentwicklungsprojekte]]
+
 [[Phase Software-Entwicklung|Phase x: Software-Entwicklung]]
 * Requirements Engineering
 * Iterative Entwicklung gemäss Anforderungen
 * Bereitstellung und Inbetriebnahme der Software-Lösung
 
 Ziel: Die Geschäftsapplikation ist entwickelt.
+
+### [[Beratungsprojekte]]
 
 [[Phase Aufnahme Assets|Phase x: Aufnahme Assets]]
 * Interview mit Stakeholder

@@ -46,7 +46,7 @@ Für speziell komplexe Anwendungen (Finanzen, Lager, Marketing, Fertigung, Websi
 
 Sie haben ein tiefes funktionales Wissen in branchenspezifischen Odoo Funktionen und solides Erfahrungswissen.
 
-Die App-Experten sind nicht Teil des Projekts. Sie arbeiten in verschiedenen Projekten gleichzeitig. In der Regel werden sie für die GAP-Analyse hinzugezogen.
+Die App-Experten sind nicht Teil des Projekts. Sie arbeiten in verschiedenen Projekten gleichzeitig. In der Regel werden sie für die [[ROI-Analyse]] hinzugezogen.
 
 ### Entwickler (Mint System)
 
@@ -95,7 +95,7 @@ Die folgende Tabelle zeigt die Projektphasen und deren relativen Zeitbedarf.
 
 | Phase             | Relativer Zeitbedarf | Inhalt                                                                                   |
 | ----------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| GAP-Analyse       | 10%                  | Geschäftsanalyse, GAP-Analyse, Projektphasen & Budget                                    |
+| ROI-Analyse       | 10%                  | Geschäftsanalyse, ROI-Analyse, Projektphasen & Budget                                    |
 | Kick-Off          | 5%                   | Beteiligte mit Vorgehensmodell vertraut machen und Grundlagen schulen                    |
 | Implementierung   | 80%                  | Iterative Implementierungsschritte: Analyse, Umsetzung, Validierung, Super-User-Schulung |
 | Go-Live           | 5%                   | Benutzerschulung, Verbesserungen                                                         |
@@ -103,9 +103,9 @@ Die folgende Tabelle zeigt die Projektphasen und deren relativen Zeitbedarf.
 
 ![[Classic Project Journey.svg]]
 
-### GAP-Analyse
+### ROI-Analyse
 
-_Geschäftsanalyse, GAP-Analyse, Projektphasen & Budget_
+_Geschäftsanalyse, ROI-Analyse, Projektphasen & Budget_
 
 **Inhalt**
 
@@ -132,7 +132,7 @@ _Beteiligte mit Vorgehensmodell vertraut machen und Grundlagen schulen_
 **Ziele**
 
 * Der SPoC ist mit der Methodik vertraut und identifiziert sich mit den Projekt-Visionen
-* GAP-Analyse mit Machbarkeitsbeurteilung (falls noch nicht vorhanden)
+* ROI-Analyse mit Machbarkeitsbeurteilung (falls noch nicht vorhanden)
 * Projektplan Makro
 * Der SPoC ist motiviert und bereit, Zeit in das Erlernen von Odoo zu investieren
 

@@ -2,6 +2,10 @@
 
 Produktdefinition der Mint System.
 
+## Diensleitstungen
+
+Siehe [[Dienstleistungen]].
+
 ## Icon
 
 Zu Generierung von Icons wird <https://spilymp.github.io/ibo/> verwendet.

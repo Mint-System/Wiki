@@ -16,10 +16,11 @@ tags:
 	* Partner
 * Lösungsvorschlag
 	* Abgrenzung
-* Anforderungsanalyse
+* Anforderungen
 	* Systeme im Einsatz
 	* Systemkontext
 	* Stakeholder
+	* Verfügbarkeit
 * Prozesse
 * Vorgehen
 	* Phase N: Beschreibung
@@ -70,7 +71,7 @@ Bezüglich der Lizenzierung von Odoo steht der Kunde direkt mit Odoo S.A. in Ver
 
 ### Vorgehen
 
-Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](https://cloud.mint-system.ch/s/cPnnr7yjPApL8YG). Die einzelnen Arbeitspakete sind im folgenden Abschnitt erläutert. Daraus leitet sich die Aufwandsschätzung ab.
+Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](https://cloud.mint-system.ch/s/cPnnr7yjPApL8YG). Die einzelnen Projektphasen sind im folgenden Abschnitt erläutert. Daraus leitet sich die Aufwandsschätzung ab.
 
 [[Phasen Textbausteine]]
 

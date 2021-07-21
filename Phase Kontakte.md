@@ -1,4 +1,4 @@
-# Phase Initialisierung
+# Phase Kontakte
 
 ## Kontakte einrichten
 
