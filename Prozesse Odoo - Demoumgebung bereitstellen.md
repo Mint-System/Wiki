@@ -2,7 +2,7 @@
 
 ## 1 Initialisierung
 Arbeitsschritte:
-* Registration Domain  `$NAME.mintsys.ch`
+* Definieren Domain  `$NAME.14.odoo.build`
 * Installation Odoo mit [[Ansible Playbooks]]
 * Laden Datenbankvorlage
 * Mail-Domäne gemäss Domain festlegen

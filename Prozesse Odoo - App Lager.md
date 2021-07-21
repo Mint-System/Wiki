@@ -6,6 +6,15 @@ Auswahl:
 * Stock enterprise `stock_enterprise`
 * Produkt-Ablaufdatum `product_expiry`
 
+### Optionen aktivieren
+
+Auswahl:
+* Varianten
+* Mengeneinheiten
+* Produktverpackungen
+* Lagerorte
+* Mehrstufige Routen
+
 ## 2 Initialisierung
 
 ## 3 Implementation

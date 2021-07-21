@@ -199,7 +199,7 @@ docker tag c4370cddec27 odoo:c4370cddec27
 ##  [[Odoo 14.5]]
 
 Version: 14.0  
-Revision: 14.0.2021.524
+Revision: 14.0.2021.0524
 
 ```bash
 # Checkout enterprise repo
