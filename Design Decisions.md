@@ -30,7 +30,7 @@ Note: Odoo.sh allows you to impersonate as any user on the database.
 
 Fragestellung: Wie soll der Odoo Enterprise Modul-Code installiert und verwaltet werden?
 
-Auf dem [GitHub-Repo](github.com/odoo/enterprise) von Odoo Enterprise ist der gesamte Module-Code der Enterprise Apps verfügbar. Dieser Code muss zur Verwendung der Enterprise-Funktionen auf der Odoo-Instanz vorhanden sein. Da der Code umfangreich ist, sich stetig verändert und viele Abhängigkeiten besitzt, stellt sich die Frage, wie dieser am besten bereitgestellt wird.
+Auf dem [GitHub-Repo](https://github.com/odoo/enterprise) von Odoo Enterprise ist der gesamte Module-Code der Enterprise Apps verfügbar. Dieser Code muss zur Verwendung der Enterprise-Funktionen auf der Odoo-Instanz vorhanden sein. Da der Code umfangreich ist, sich stetig verändert und viele Abhängigkeiten besitzt, stellt sich die Frage, wie dieser am besten bereitgestellt wird.
 
 **Entscheid:** [[#Lösungsvorschlag 1 Zip-Pakete]].
 

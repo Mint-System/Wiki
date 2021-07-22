@@ -20,7 +20,10 @@ List all products
 ## Commands
 
 Log into Docker Container.  
-`docker exec -it odoo01 bin/bash`
+```
+CONTAINER=odoo04
+docker exec -it $CONTAINER bin/bash
+```
 
 Start Odoo Shell.  
 ```bash
