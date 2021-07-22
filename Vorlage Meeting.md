@@ -18,7 +18,7 @@ Notizen zu den Themen.
 
 Zusammenfassung der Entscheide.
 
-## Todo
+## Todos
 
 Neue Aktivitäten an Personen zuweisen.
 
