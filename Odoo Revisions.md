@@ -166,7 +166,7 @@ docker tag 8363e01420b1 odoo:8363e01420b1
 
 ## Odoo 14.3
 
-State: Upgrade\
+State: Outdated\
 Version: 14.0  
 Revision: 14.0.2021.0111
 
