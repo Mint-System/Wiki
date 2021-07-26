@@ -79,3 +79,9 @@ record = env['quality.alert'].browse(57)
 record.name = "QA0005X"
 env.cr.commit()
 ```
+
+Remove view.
+```python
+self.env['ir.ui.view'].browse(888).unlink()
+env.cr.commit()
+```

@@ -1,50 +1,101 @@
 # OpenUpgrade
 
-A step by step guide to upgrade an [[Odoo Community Edition]]
+A step by step guide to upgrade an [[Odoo Community Edition]] using [[Odoo Development]].
 
 ## Upgrade from 13.0 to 14.0
+
+* Define settings
+
+```bash
+DATABASE=mint-system
+FROM=13.0
+TARGET=14.0
+```
 
 * Start local development environment
 
 ```bash
+task checkout $FROM
+# with docker
+task start
+# or native
 task start db
-task start src
+task start native
 ```
 
 * Clear the local filestore and database
 
 ```bash
-task drop-db mint-system
-task clear-filestore mint-system
+# with docker
+docker-odoo-drop $DATABASE
+# or native
+task drop-db $DATABASE
+task clear-filestore $DATABASE
 ```
 
 * Export remote database to local folder and restore it
 
 ```bash
 odoo-backup ...
+# with docker
+docker-odoo-restore ...
+# or native
 odoo-restore ...
 ```
 
-* Install openupgrade dependencies
+* Clone openupgrade and stop server
 
 ```bash
-
-. ./scripts/lib
-locale
-activate-venv
-pip install git+https://github.com/OCA/openupgradelib.git@master#egg=openupgradelib
+git clone git@github.com:OCA/OpenUpgrade.git oca/openupgrade
+cd oca/openupgrade && git checkout $TARGET && ../..
+echo "\noca/openupgrade" >> config/addons_path
+task update-config
 ```
 
 * Install openupgrade scripts
 
-```
-task install-module mint-system openupgrade_scripts
+```bash
+# with docker
+docker-odoo-install -d $DATABASE -m openupgrade_scripts
+# or native
+task install-module $DATABASE openupgrade_scripts
 ```
 
 * Run the openupgrade scripts
 
-```
-odoo-bin -d mint-system --config 'config/odoo-src.conf' --update=all --stop-after-init --load=base,web,openupgrade_framework 
+```bash
+task checkout $TARGET
+echo "\noca/openupgrade" >> config/addons_path
+task update-config
+# WIP: with docker
+docker exec odoo odoo-bin -d $DATABASE --config /etc/odoo/odoo.conf --update=all --stop-after-init --load=base,web,openupgrade_framework 
+# or native
+odoo-bin -d $DATABASE --config config/odoo-native.conf --update=all --stop-after-init --load=base,web,openupgrade_framework 
 ```
 
-* Restart the development server
+* Remove unsupported modules
+
+```bash
+# with docker
+
+# or native
+task remove-module $DATABASE web_diagram
+```
+
+* Remove unsupported views
+
+```bash
+task start-shell $DATABASE
+```
+
+See [[Odoo Shell Scripts]].
+
+* Clear assets and restart server
+
+```bash
+# with docker
+
+# or native
+task clear-assets $DATABASE
+task start native
+```
