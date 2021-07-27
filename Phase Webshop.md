@@ -1,5 +1,16 @@
 # Phase Webshop
 
+Zusammenfassung:
+
+* Den Seitenaufbau definieren (Startseite und weitere Seiten)
+* Das Layout (Farbkonzept, Schriftarten) bestimmen
+* Die Inhalte erfassen
+* Die Inhalte mit den Produkten erweitern
+* Den Warenkorb einrichten
+* Die Zahlungsmittel einrichten
+
+Ziel: Es sind Produkte der Stiär Biär im Webshop bestellbar.
+
 ## Webshop migrieren
 
 **Existierende Webseite**

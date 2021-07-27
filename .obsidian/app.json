@@ -3,5 +3,6 @@
   "attachmentFolderPath": "assets",
   "strictLineBreaks": true,
   "trashOption": "local",
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }

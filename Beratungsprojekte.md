@@ -7,6 +7,7 @@ Zur Umsetzung eines Beratungsprojek können diese Phase angewendet werden:
 * [[Phase Aufnahme Assets]]
 * [[Phase Anforderungsanalyse]]
 * [[Phase Softwareevaluation]]
+* [[Phase Roadmap]]
 * [[Phase Projekteingabe]]
 
 ## [[Prozesse]]

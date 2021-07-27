@@ -1,3 +1,34 @@
 # Phase Anforderungsanalyse
 
-Erfolgt gemäss [[Prozesse Akquise - Anforderungsanalyse]].
+Zusammenfassung:
+
+* Bereitstellen Struktur für Anforderungsanalyse
+* Beschreibung Systemkontext, Stakeholder und Rollen
+* Festhalten und Kategorisierung der Anforderungen
+* Dokumentieren mit Entity Relationship Modell (ERM)
+* Dokumentieren mit Business Process Model and Notation (BPMN)
+
+Ziel: Die Anforderungen wurden systematisch als Lastenheft erfasst.
+
+## Anforderungen sammeln
+
+* Welche Quelldokumente gibt es?
+* Wer sind die Stakeholder und welche Rollen haben diese?
+* Wie sieht der Systemkontext aus?
+* Braucht es Kontextdiagramme?
+
+### Todos
+
+-   Stakeholder, Systemkontext definieren
+-   Anforderungen sammeln
+
+## Anforderungen verarbeiten
+
+* Welche Anforderungen sind kritisch?
+* Müssen bestimmte Anforderungen aufgteilt werden?
+* Nach welchen Kriterien sollen die Anforderungen kategorisiert werden?
+
+### Todos
+
+- Anforderungen bewerten
+- Anforderungen kategorisieren

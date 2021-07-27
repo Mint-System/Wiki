@@ -1,5 +1,15 @@
 # Phase Lager
 
+Zusammenfassung:
+
+* Alle Lager und Lagerorte einrichten
+* Die Lager-Routen definieren
+* Die Lager beschriften
+* Den Verpackungs-Vorgang einrichten
+* Das Barcode Scanning aktivieren
+
+Ziel: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
+
 ## Lager einrichten
 
 **Liste der Lager**

@@ -1,5 +1,15 @@
 # Phase Aufnahme Assets
 
+Zusammenfassung:
+
+* Interview mit Stakeholder
+* Findings und Bedürfnisse festhalten
+* Analyse Datenbestände und Dokumentationen
+* Dokumentieren Prozesse und Abläufe
+* Festhalten Optimierungspotenzial der Assets
+
+Ziel: Das Optimierungspotenzial ist als Kosten- Nutzenanalyse ersichtlich.
+
 ## Kick-off durchführen
 
 * Wer sind die Stakeholder?

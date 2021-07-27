@@ -1,5 +1,15 @@
 # Phase Finanzen
 
+Zusammenfassung:
+
+* Den Kontenplan einrichten
+* Die Mehrwertsteuersätze einrichten
+* Die Journale einrichten
+* Die Bankenverbindung zum Ebanking einrichten
+* Debitoren und Kreditoren einrichten
+
+Ziel: Interne Buchhaltung erfolgt mittels Odoo.
+
 ## Konten einrichten
 
 **Kontenplan**

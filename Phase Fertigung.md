@@ -1,4 +1,13 @@
 # Phase Fertigung
+
+Zusammenfassung:
+
+* Die Arbeitsplätze erfassen
+* Die Fertigungs-Routen definieren
+* Arbeitspläne erfassen
+* Notwendige Qualitätsschritte einfügen
+
+Ziel: Alle Daten zum Fertigen der Produkte sind bereit.
   
 Für praktisch alle Aspekte der Implementierung ist es wichtig, dass Produkte im System vorhanden sind. Deshalb werden bereits in der ersten Phase die Produkte thematisiert. Etwas speziell ist, dass bereits im ersten Schritt die Arbeitsplätze eingerichtet werden. Weil sie zur Definition der Vorgänge in den Stücklisten benötigt werden, wird dieses Thema bereits zu Beginn thematisiert.
 

@@ -1,5 +1,15 @@
 # Phase Odoo Installation
 
+Zusammenfassung:
+
+* Den Odoo Mandanten aufsetzen
+* Die DNS Konfiguration vornehmen
+* Odoo Mail-Account integrieren
+* Die Benutzer in Odoo bereitstellen
+* Odoo Module von Drittanbieter installieren
+
+Ziel: Odoo steht für die Initialisierung bereit.
+
 ## Installation vorbereiten
 
 Grundlegende Informationen werden erarbeitet und Odoo installiert.

@@ -1,11 +1,17 @@
 # Phase Versand
-## Versand einrichten
 
-### Analyse
+Zusammenfassung:
+
+* Die Lieferfirmen integrieren
+* Die Beauftragung für den Versand einrichten
+
+Ziel: Die Schnittstelle zu den Lieferfirmen ist etabliert
+
+## Versand einrichten
 
 - In welcher Einheit werden Höhe, Breite und Länge angegeben?
 
+### Todos
 
-### Konfiguration
 - Projektaufgabe *Versand konfigurieren*
 - Projektaufgabe *App product_logistics_uom installieren* (Set config product_default_length_uom_id = 10)
