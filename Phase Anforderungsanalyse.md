@@ -1,6 +1,6 @@
 # Phase Anforderungsanalyse
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Bereitstellen Struktur für Anforderungsanalyse
 * Beschreibung Systemkontext, Stakeholder und Rollen
@@ -8,7 +8,7 @@ Zusammenfassung:
 * Dokumentieren mit Entity Relationship Modell (ERM)
 * Dokumentieren mit Business Process Model and Notation (BPMN)
 
-Ziel: Die Anforderungen wurden systematisch als Lastenheft erfasst.
+Ergebnis: Die Anforderungen wurden systematisch als Lastenheft erfasst.
 
 ## Anforderungen sammeln
 

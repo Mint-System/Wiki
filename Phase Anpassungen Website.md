@@ -1,6 +1,6 @@
 # Phase Anpassungen Website
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Struktur der Website-Elementen anpassen
 * Felder und Filter zur Steuerung der Sichtbarkeit hinzufügen
@@ -8,4 +8,4 @@ Zusammenfassung:
 * Neue Optionen zur Konfiguration der Website hinzufügen
 * Neue Block-Elemente definieren
 
-Ziel: Anpassung für die Website sind umgesetzt.
+Ergebnis: Anpassung für die Website sind umgesetzt.

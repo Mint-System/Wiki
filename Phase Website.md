@@ -8,4 +8,4 @@ Zusmmenfassung:
 * Vorlage für Theme installieren
 * Unternehmensinformationen erfassen
 
-Ziel: Die Website steht bereit und kann mit Inhalten erweitert werden.
+Ergebnis: Die Website steht bereit und kann mit Inhalten erweitert werden.

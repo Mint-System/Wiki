@@ -1,11 +1,11 @@
 # Phase Versand
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Die Lieferfirmen integrieren
 * Die Beauftragung für den Versand einrichten
 
-Ziel: Die Schnittstelle zu den Lieferfirmen ist etabliert
+Ergebnis: Die Schnittstelle zu den Lieferfirmen ist etabliert
 
 ## Versand einrichten
 

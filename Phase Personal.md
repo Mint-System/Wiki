@@ -1,6 +1,6 @@
 # Phase Personal
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Adressen des Personal erfassen
 * Arbeitsverträge einrichten
@@ -12,4 +12,4 @@ Zusammenfassung:
 - Rollen und Berechtigungen erteilen
 - Arbeitszeiten festlegen
 
-Ziel: Die Personaldaten der Mitarbeiter sind erfasst.
+Ergebnis: Die Personaldaten der Mitarbeiter sind erfasst.

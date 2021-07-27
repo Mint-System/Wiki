@@ -1,6 +1,6 @@
 # Phase Hosting initialisieren
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Die DNS Konfiguration vornehmen
 * Hosting-Lösungen installieren
@@ -8,4 +8,4 @@ Zusammenfassung:
 * Initiale Konfiguration vornehmen
 * Mail-Accounts integrieren
 
-Ziel: Die Hosting-Lösungen sind initialisiert.
+Ergebnis: Die Hosting-Lösungen sind initialisiert.

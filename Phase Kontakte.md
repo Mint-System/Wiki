@@ -1,13 +1,13 @@
 # Phase Kontakte
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Die Adressen der Lieferanten importieren
 * Die Adressen der Kunden importieren
 * Die Bankkonten erfassen und konfigurieren
 * Das Dokumentlayout festlegen und umsetzen
 
-Ziel: Kontakt-Daten stehen in Odoo zur Verfügung.
+Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 
 ## Kontakte einrichten
 

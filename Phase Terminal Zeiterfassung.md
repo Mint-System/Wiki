@@ -1,10 +1,10 @@
 # Phase Terminal Zeiterfassung
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Beschaffung Hardware
 * Installation und Konfiguration Betriebssystem
 * Registration RFID/NFC-Codes
 * Installation Terminal vor Ort
 
-Ziel: Mitarbeiter registrieren ihre Anwesenheitszeiten über das Terminal.
+Ergebnis: Mitarbeiter registrieren ihre Anwesenheitszeiten über das Terminal.

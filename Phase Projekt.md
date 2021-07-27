@@ -1,9 +1,9 @@
 # Phase Projekt
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Projekt-Berichte konfigurieren
 * Die Hauptaufgaben - Unteraufgaben Struktur definieren
 *  Projekt-Templates einrichten
 
-Ziel: Alle Daten zum Starten und Überwachen der Projekte sind bereit.
+Ergebnis: Alle Daten zum Starten und Überwachen der Projekte sind bereit.

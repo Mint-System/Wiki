@@ -1,10 +1,10 @@
 # Phase Entwicklung Website Theme
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Dokumente Corporate Design zusammenstellen
 * Website in Bausteine aufteilen
 * Design für Bausteine definieren
 * Design als Theme implementieren
 
-Ziel: Das Design der Odoo-Webseite entspricht dem Corporate Design des Unternehmens.
+Ergebnis: Das Design der Odoo-Webseite entspricht dem Corporate Design des Unternehmens.

@@ -1,11 +1,11 @@
 # Phase Produktentwicklung
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Alle Produkte importieren
 * Stücklisten definieren
 
-Ziel: Alle Produkte sind definiert.
+Ergebnis: Alle Produkte sind definiert.
 
 ## Produkte einrichten (Stufe 1)
 In einer ersten Stufe werden die wichtigsten Daten erfasst. Nach einer Phase der Validierung erfolgt in der zweiten Stufe die finale Definition und Import.

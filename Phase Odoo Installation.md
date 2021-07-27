@@ -1,6 +1,6 @@
 # Phase Odoo Installation
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Den Odoo Mandanten aufsetzen
 * Die DNS Konfiguration vornehmen
@@ -8,7 +8,7 @@ Zusammenfassung:
 * Die Benutzer in Odoo bereitstellen
 * Odoo Module von Drittanbieter installieren
 
-Ziel: Odoo steht für die Initialisierung bereit.
+Ergebnis: Odoo steht für die Initialisierung bereit.
 
 ## Installation vorbereiten
 

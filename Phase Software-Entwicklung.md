@@ -1,9 +1,9 @@
 # Phase Software-Entwicklung
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Requirements Engineering
 * Iterative Entwicklung gemäss Anforderungen
 * Bereitstellung und Inbetriebnahme der Software-Lösung
 
-Ziel: Die Geschäftsapplikation ist entwickelt.
+Ergebnis: Die Geschäftsapplikation ist entwickelt.

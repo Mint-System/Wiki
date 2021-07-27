@@ -1,6 +1,6 @@
 # Phase Webshop
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Den Seitenaufbau definieren (Startseite und weitere Seiten)
 * Das Layout (Farbkonzept, Schriftarten) bestimmen
@@ -9,7 +9,7 @@ Zusammenfassung:
 * Den Warenkorb einrichten
 * Die Zahlungsmittel einrichten
 
-Ziel: Es sind Produkte der Stiär Biär im Webshop bestellbar.
+Ergebnis: Es sind Produkte der Stiär Biär im Webshop bestellbar.
 
 ## Webshop migrieren
 

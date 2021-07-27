@@ -1,8 +1,8 @@
 # Phase Produktionsplanung
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Sicherhehits-Vorlaufzeiten sammeln
 * Kapazitäten der Arbeitsplätze definieren
 
-Ziel: Produktionsabläufe können geplant werden.
+Ergebnis: Produktionsabläufe können geplant werden.

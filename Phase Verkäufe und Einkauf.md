@@ -1,12 +1,12 @@
 # Phase Verkäufe und Einkauf
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Die Lieferanten Preislisten importieren
 * Lead-Times festlegen
 * Mindestbestandsregeln einrichten
 
-Ziel: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit.
+Ergebnis: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit.
 
 ## Produkte anlegen (Stufe 2)
 

@@ -1,6 +1,6 @@
 # Phase Odoo Bericht
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Anpassen Odoo Bericht gemäss Anforderungen
 * Analyse Anforderungen Bericht
@@ -8,4 +8,4 @@ Zusammenfassung:
 * Layout entsprechend Corporate Design anpassen
 * Globale Formatvorlagen erfassen
 
-Ziel: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
+Ergebnis: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.

@@ -1,12 +1,12 @@
 # Phase Odoo Entwicklung
 
-Zusammenfassung:
+Tätigkeiten:
 
 * Erstellen technische Spezifikation
 * Kick-Off mit externen Odoo Entwickler
 * Kontinuierliche Integration und Testen der Lösung
 
-Ziel: Odoo Entwicklung validiert.
+Ergebnis: Odoo Entwicklung validiert.
 
 ## Odoo App entwickeln
 
