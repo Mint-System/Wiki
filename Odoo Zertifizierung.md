@@ -14,3 +14,7 @@ Für jede Odoo-Version werden Zertifizierungen angeboten.
 - Btw, if you watch these e-learning videos, I advise you not only to replicate the steps that "Amy-Caroline" is making, but also to try out features she's not demonstrating (in particular those options that need to be activated in the settings of each module).
 -This video, that we broadcasted during the Odoo Experience may help you: [Becoming an Odoo expert: how to prepare for the certification?](https://www.youtube.com/watch?v=JYaAoMnQvhM)
 - Finally, the certification is a pretty cheap marketing tool as more and more customers are looking for certified partners.
+
+## Tipps
+
+- Paralell zum Odoo-Test eine runbot-Instanz geföffnet haben, damit man die schwierigen Fragen direkt klären kann.

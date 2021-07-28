@@ -75,6 +75,12 @@ Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](
 
 [[Phasen Textbausteine]]
 
+**Go-Live**
+
+Zu diesem Zeitpunkt ist Odoo für alle Benutzer verfügbar. Es wird mit dem System gearbeitet, Nachschulungen werden situativ durchgeführt und noch vorhandene technische Unzulänglichkeiten behoben.
+
+Das Projektteam ist zur Unterstützung der Mitarbeitenden verfügbar und hilft zeitnah in allen Aspekten der Anwendung des Systems.
+
 ### Referenzen
 
 Siehe [[Mint System Referenzen]].

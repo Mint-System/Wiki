@@ -3,7 +3,16 @@ Ist eine kommerzielle PaaS-Lösung.
 
 Website: [https://www.odoo.sh/](https://www.odoo.sh/)
 
-[[Odoo.sh Plattformen]]
+[[Odoo.sh Projekte]]
+
+## Daten
+
+Beim Kauf einer Subscriptions muss dieser Faktor angepasst werden.
+
+* **Workers**: Anzahl Odoo Prozesse.
+* **Storage**: Speicherplatz in GB.
+* **Hosting type**: Shared auf geteilten Server und Dedicated auf eigenem Server.
+* **Staging env.**: Anzahl der Staging-Umgebungen.
 
 ## Features
 

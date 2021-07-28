@@ -10,6 +10,8 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 [[Phase Odoo Installation|Phase X: Odoo Installation]]
 
+[[Phase Odoo initialisieren|Phase X: Odoo initialisieren]]
+
 [[Phase Kontakte|Phase X: Kontakte]]
 
 [[Phase Website|Phase X: Website]]
@@ -38,7 +40,7 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 [[Phase Odoo Entwicklung|Phase x: Odoo Entwicklung]]
 
-[[Phase Odoo Bericht|Phase x: Odoo Bericht]]
+[[Phase Odoo Berichte|Phase x: Odoo Bericht]]
 
 [[Phase Personal|Phase x: Personal]]
 

@@ -1,8 +1,8 @@
-# Phase Odoo Bericht
+# Phase Odoo Berichte
 
 Tätigkeiten:
 
-* Anpassen Odoo Bericht gemäss Anforderungen
+* Anpassen Odoo Berichte gemäss Anforderungen
 * Analyse Anforderungen Bericht
 * Entwicklung neuer Bericht gemäss Anforderungen
 * Layout entsprechend Corporate Design anpassen

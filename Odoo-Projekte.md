@@ -22,6 +22,7 @@ Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 * [[Phase An- und Abwesenheitszeiten]]
 * [[Phase Projekt]]
 * [[Phase Terminal Zeiterfassung]]
+* [[Phase Odoo Berichte]]
 
 ## [[Prozesse]]
 

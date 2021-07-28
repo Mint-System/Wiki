@@ -5,12 +5,12 @@ Kontakt mit Odoo-Partner.
 
 Arbeitsschritte:
 * Lizenzierung festlegen: Community oder Enterprise
-* Odoo-Hosting Modell definieren
+* [[Odoo Hosting]] definieren
 * Schätzung Aufwand für Customizations
 * Daten speichern in Projektordner
 	* Kontakt Kunde
 	* Unternehmen mit MWST
-	* Hosting-Modell
+	* Hosting-Modell Daten
 	* Liste der Apps gemäss [https://www.odoo.com/pricing](https://www.odoo.com/pricing)
 * Angebot von [[Odoo S.A.]] erstellen lassen
 
