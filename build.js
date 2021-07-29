@@ -106,6 +106,10 @@ var args = process.argv.slice(2);
 var firstArg = args[0]
 
 if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
+
+    // log
+    console.log('Build title index ...')
+
     // loop all markdown files
     fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
 
@@ -124,9 +128,16 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
         // create file link list
         files.push({ source: file.replace('\.md', ''), target: file, firstLetter: file[0].toUpperCase() })
     })
+
+    // log
+    console.log('Building title index finished.')
 }
 
 if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
+
+    // log
+    console.log('Convert files ...')
+
     // process all markdown files
     fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
 
@@ -180,10 +191,16 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
         // write content to new file
         fs.writeFileSync(newfile, content, 'utf8')
     })
+
+    // log
+    console.log('Converting files finished.')
 }
 
 if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
     
+    // log
+    console.log('Build glossary ...')
+
     // Group files by first letter
     groupedFiles = groupBy('firstLetter')(files)
     content = [
@@ -203,9 +220,16 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
     
     // write content to index file
     fs.writeFileSync('glossary.md', content.join(''), 'utf8')
+
+    // log
+    console.log('Building glossary finished.')
 }
 
 if (!firstArg || ['all', 'assets'].indexOf(firstArg) > 0) {
+    
+    // log
+    console.log('Move assets ...')
+
     // Loop all asset files
     fs.readdirSync(path.join(__dirname, assetsFolder)).forEach((file) => {
 
@@ -215,4 +239,7 @@ if (!firstArg || ['all', 'assets'].indexOf(firstArg) > 0) {
         // move asset file
         fs.renameSync(path.join(__dirname, assetsFolder, file), path.join(__dirname, newfile))
     })
+
+    // log
+    console.log('Moving assets finished.')
 }
