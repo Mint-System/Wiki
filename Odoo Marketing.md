@@ -27,12 +27,9 @@ Als Odoo-Partner hat man Zugriff auf den gesamten Quellcode von Odoo. Das ist ei
 
 ![[Odoo all-in-one software solution.png]]
 
-## Vorgehen
+## Pakete
 
-Wir zwei Vorgehensmodelle im Angebot:
-
-[[Odoo Starter]]\
-[[Odoo Lean]]
+[[Odoo Pakete]]
 
 ## Apps
 

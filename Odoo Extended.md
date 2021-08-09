@@ -1,4 +1,4 @@
-# Odoo Lean
+# Odoo Extended
 
 Angebot zur Bereitstellung von Odoo.
 

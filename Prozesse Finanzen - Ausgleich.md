@@ -15,3 +15,6 @@ Arbeitsschritte:
 * Kontoauszug als XML-Datei ISO-20022 camt.053 exportieren
 * Die Datei in Odoo importieren
 * Für jede Zahlung  eine offene Rechnung auswählen
+
+#### Hinweis zu Export bei Raiffeisenbank
+Der Export kann auch als camt.053 mit Details exportiert werden. Dabei entfällt ein weiterer Export der Dateils mit camt.054. Dazu wird beim Export die Option *mit Details* angewählt. 

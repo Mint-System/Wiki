@@ -1,5 +1,5 @@
 {
   "theme": "moonstone",
-  "obsidianCss": true,
-  "baseFontSize": 17
+  "baseFontSize": 14,
+  "obsidianCss": true
 }

@@ -41,6 +41,15 @@ Ergebnis: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit.
 
 - Wie ist die Preisliste für Einkaufs-Produkte definiert?
 
+**Rahmenbestellungen**
+
+- Werden Rahmenbestellungen verwendet?
+
+**Online Signature**
+
+- Wird die Funktion *Online Signature* verwendet?
+- Soll ein automatisches Bestätigungs-eMail ausgelöst werden?
+
 ### Todos
 
 - Preisregeln progammieren
