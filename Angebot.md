@@ -1,6 +1,10 @@
 # Angebot
 Das Angebot der Mint System.
 
+## Beratung
+
+* [[Workshops]]
+
 ## Software und Dienstleistungen
 
 * [[LibreOffice]]  

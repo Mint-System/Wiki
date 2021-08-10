@@ -42,3 +42,8 @@ Bei den erbrachten Leistungen der Mint System GmbH handelt es sich um Leistungen
 Die Leistung kann dem Kunden ohne Ausweis der schweizerischen MWST in Rechnung gestellt werden. Der Nachweis erfolgt buch- und belegmässig (Verträge, Rechnungen usw.).  
   
 Im MWST-Abrechnungsformular ist zwar das vereinnahmte Entgelt in Ziff. 200 zu deklarieren, kann aber vom steuerbaren Umsatz wieder in Abzug gebracht werden (Ziff. 230, Leistungen im Ausland).
+
+### Faktura Verzollung
+Der Spediteur verrechnet der Empfänger die Schweizer MWST und Spesen für die Verzollung. Zum Beispiel wurden Waren im Wert von CHF 1 000 importiert. Der Spediteur fordert auf der Rechnung die MWST (aktuell 7.7%) von CHF 77 ein. Dieser Betrag der MWST in der Rechnung ist MWST-Frei 
+(keine Steuern auf Steuern).
+Dazu wird beim Erfassen des Artikels in der Kreditorenrechnung der MWST-Satz 100% Zoll verwendet.

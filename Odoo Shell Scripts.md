@@ -85,3 +85,9 @@ Remove view.
 self.env['ir.ui.view'].browse(888).unlink()
 env.cr.commit()
 ```
+
+Get sale order info.
+```
+sale_order = self.env['sale.order'].browse(60)
+sale_order.procurement_group_id.stock_move_ids.created_production_id.procurement_group_id.mrp_production_ids
+```

@@ -2,4 +2,4 @@
 
 Markanalyse und Differenzierungsstrategien.
 
-Siehe [[Konkurrenten]] für Details.
+Siehe [[Konkurrenten]] und [[Konkurrenzprodukte]] für Details.
