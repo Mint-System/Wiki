@@ -1,3 +1,3 @@
 # Sicherheit
 
-[[Security]]
+Ist Teil von [[Security]].
