@@ -11,9 +11,12 @@ Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 
 ## Kontakte einrichten
 
-- In welcher Form sind die Kontaktdaten der Lieferanten vorhanden?
-- In welcher Form sind Kontaktdaten der Kunden vorhanden?
+- In welcher Form sind die Kontaktdaten der Lieferanten für die Migration vorhanden?
+- In welcher Form sind Kontaktdaten der Kunden für die Migration vorhanden?
 - Wie sind die Feldinhalte von *Kontakte* definiert?
+- Wird die Funktion *Partner Autovervollständigung* genutzt?
+- Wird der Zusatz Name/Vorname gefordert? (Falls ja, in welcher Kombination)
+- Wird der Zusatz *Standardlieferbedingungen für Kunden* genutzt?
 - Sind *Kontakt-Stichwörter* vorgesehen?
 - Sind die vorhandenen *Branchen* ausreichend? Falls nein: Welche gibt es zusätzlich?
 - Sind die vorhandenen *Zahlungsbedingungen* ausreichend? Falls nein: Welche gibt es zusätzlich?
@@ -22,6 +25,8 @@ Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 
 - Kontakte konfigurieren
 - Felder Kontakte programmieren
+- App *partner_firstname* installieren
+- App *sale_partner_incoterm* installieren
 - Branchen importieren
 - Zahlungsbedingungen importieren
 - Kontakte importieren

@@ -20,3 +20,7 @@ Website: <https://nextcloud.com/>
  [[Nextcloud - Configure ignored files]]
  [[Nextcloud - Set default locale and language]]
  [[Nextcloud - Fix warnings]]
+
+## Prozesse
+
+[[Nextcloud Upgrade]]

@@ -33,7 +33,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Marketing]]
 * [[Unternehmensentwicklung]]
 * [[Topics]]
-* [[Technologien]]  
+* [[Technologien]]
 
 ## Darstellung
 
