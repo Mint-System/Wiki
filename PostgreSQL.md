@@ -6,6 +6,4 @@ Website: <https://www.postgresql.org/>
 
 ## Prozesse
 
-[[PostgreSQL Upgrade]]\
-[[Migrating docker postgres databases with pg_dump]]
-
+[[PostgreSQL Upgrade]]

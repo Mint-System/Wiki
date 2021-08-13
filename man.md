@@ -4,3 +4,4 @@ Hilfestellung für Kommandozeilenbefehle.
 
 * [[man psql]]
 * [[man sql]]
+* [[man git]]

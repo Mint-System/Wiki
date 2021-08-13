@@ -2,6 +2,9 @@
 
 These instructions are based on [docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade).
 
+For PostgreSQL upgrade with `pg_dump` see [[Migrating docker postgres databases with pg_dump]]
+.
+
 ## Scenario
 
 We have Docker environment containing a postgres 10 database and want to upgrade it to version 12. We use another docker image to update the postgres volume.

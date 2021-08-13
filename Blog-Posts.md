@@ -11,4 +11,5 @@ Hier entstehen entwürfe für neue Blog-Posts:
 [[Den eigenen Login-Anbieter mit Keycloak]]\
 [[Der eigene Messenger für ihre Schule]]\
 [[Odoo Customizing ohne zukünftige Einschränkungen]]\
-[[Neuerungen in Odoo 15]]
+[[Neuerungen in Odoo 15]]\
+[[Spam reduzieren mit SPF, DKIM und DMARC]]
