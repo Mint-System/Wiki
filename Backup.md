@@ -12,9 +12,7 @@ Als Teil des [Infrastruktur-Codes](https://github.com/Mint-System/Ansible-Playbo
 
 ### Backup Storage
 
-Das Backup soll auf einer separaten Disk gespeichert werden. Eine örtliche Trennung ist noch nicht nötig. Daher kann der Storage vom gleichen Hosting Partner bezogen werden. Hetzner bietet dedizierte Storage Server an: [https://www.hetzner.com/storage/storage-box](https://www.hetzner.com/storage/storage-box).
-
-Konkret würde die folgende Option ausreichen: [https://www.hetzner.de/storage/storage-box/bx10](https://www.hetzner.de/storage/storage-box/bx10)
+Backups werden auf einem remote Backup-Server gesichert. Dieser Server hat ein externe Disk gemounted, die flexibel vergrössert werden kann.
 
 ### Backup Replication
 
