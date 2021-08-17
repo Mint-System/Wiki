@@ -91,3 +91,31 @@ See here for details: <https://www.odoo.com/de_DE/forum/hilfe-1/it-is-not-possib
 
 The original script <https://gist.github.com/amoyaux/279aee13eaddacbddb435dafbc0a6295>.
 
+## Wrong translation
+
+When opening the sale report it fails.
+
+**Problem**
+
+```
+Fehler:
+Odoo Server Error
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/odoo/addons/web/controllers/main.py", line 2137, in report_download
+    report_name = safe_eval(report.print_report_name, {'object': obj, 'time': time})
+  File "/usr/lib/python3/dist-packages/odoo/tools/safe_eval.py", line 328, in safe_eval
+    c = test_expr(expr, _SAFE_OPCODES, mode=mode)
+  File "/usr/lib/python3/dist-packages/odoo/tools/safe_eval.py", line 184, in test_expr
+    code_obj = compile(expr, "", mode)
+  File "<string>", line 1
+    (object.state in ('draft', 'sent') und 'Angebot - %s' % (object.name)) oder 'Auftrag - %s' % (object.name)
+                                         ^
+SyntaxError: invalid syntax
+```
+
+**Solution**
+
+Reset the translated name of the report.
+
+![[Odoo troubleshooting - wrong translation.png]]

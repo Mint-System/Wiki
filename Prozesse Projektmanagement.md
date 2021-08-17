@@ -16,3 +16,4 @@ graph LR;
 * [[Prozesse Projektmanagement - Odoo Projekt erstellen]]
 * [[Prozesse Projektmanagement - Zeiterfassung]]
 * [[Prozesse Projektmanagement - Aufgaben verwalten]]
+* [[Prozesse Projektmanagement - Workshop ROI-Analyse durchführen]]
