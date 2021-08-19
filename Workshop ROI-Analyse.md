@@ -12,6 +12,9 @@ Zu den kritischen und nicht-erfüllten Anforderungen (Gaps) werden Lösungsansä
 
 Technische Themen wie Hosting und Infrastruktur werden besprochen.
 
+Es werden die als Kernfragen markierten Elemente des Fragenkatalogs gemäss [[Odoo-Projekte]] beantwortet und im Dokument Implementierung festgehalten.
+Zusätzliche Kundenanforderungen werden in die Anforderungsliste aufgenommen.
+
 ## Ergebnisse
 
 Anforderungen stehen im Vergleich mit den Leistungen von Odoo.
