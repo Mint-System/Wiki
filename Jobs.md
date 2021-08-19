@@ -2,4 +2,4 @@
 
 ## Stellenbeschreibung
 
-[[Open Source Integrator]]
+[[Open Source IntegratorIn]]
