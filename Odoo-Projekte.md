@@ -5,6 +5,7 @@
 Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 
 * [[Phase Odoo Installation]]
+* [[Phase Datenmigration]]
 * [[Phase Kontakte]]
 * [[Phase Produktentwicklung]]
 * [[Phase Produktionsplanung]]
@@ -23,6 +24,10 @@ Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 * [[Phase Projekt]]
 * [[Phase Terminal Zeiterfassung]]
 * [[Phase Odoo Berichte]]
+* [[Phase ROI-Analyse]]
+* [[Phase Wartung]]
+* [[Phase Personalbeschaffung]]
+* [[Phase Planung]]
 
 ## [[Prozesse]]
 

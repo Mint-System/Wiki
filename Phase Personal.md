@@ -13,3 +13,14 @@ Tätigkeiten:
 - Arbeitszeiten festlegen
 
 Ergebnis: Die Personaldaten der Mitarbeiter sind erfasst.
+
+
+## Onboarding definieren
+
+## Personalentwicklung
+
+## Weiterbildung
+
+## Offboarding definieren
+
+- Gibt es eine Checkliste für das Offboarding?

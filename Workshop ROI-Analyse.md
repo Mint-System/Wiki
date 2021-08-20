@@ -4,6 +4,8 @@ Orientiert sich sich an der [[ROI-Analyse]].
 
 ## Vorgehen
 
+![[Workshop ROI-Analyse.svg]]
+
 Wir möchen die Kernprozesse des Unternehmens verstehen. Sie bilden den Fokus für den Workshop. Regulatorische Rahmenbediungen werden aufgenommen.
 
 Die Möglichkeiten mit Odoo werden entlang den Prozessen aufgezeigt. Das Delta zwischen dem was Odoo bietet und den Anforderungen wird identifiziert.

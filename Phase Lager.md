@@ -14,7 +14,7 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 **Liste der Lager**
 
-- Gibt es mehrere Lager?
+- Gibt es mehrere Lager? ⭐
 - Wie heissen die Lager?
 
 ### Todos
@@ -108,3 +108,8 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 - Mobile-App konfigurieren
 
+## Material mit Ablaufdatum definieren
+
+**Konfiguration**
+
+- 
