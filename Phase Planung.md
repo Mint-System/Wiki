@@ -6,6 +6,3 @@ Tätigkeiten:
 * Kapazitätsplanung 
 
 Ergebnis: Vorgang für Datenexport ist bekannt und Strategie Datenmigration ist definiert
-
-
-## Vorgang Datenexport festhalten

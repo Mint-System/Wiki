@@ -4,7 +4,6 @@ Tätigkeiten:
 
 * Adressen des Personal erfassen
 * Arbeitsverträge einrichten
-* Arbeitszeiten definieren
 * Organisation und Genehmigungsprozess abbilden
 - Abteilungen erfassen inklusive der Hierarchie
 - Die Adressen des Personals importieren
@@ -14,13 +13,42 @@ Tätigkeiten:
 
 Ergebnis: Die Personaldaten der Mitarbeiter sind erfasst.
 
-
 ## Onboarding definieren
+
+**Prozess**
+
+- Haben sie Onboarding-Checklisten?  ⭐
+- Halten sie Probezeitgespräche fest?
+
+**Konfiguration**
+
+- Wie sehen die Arbeitsverträge 
 
 ## Personalentwicklung
 
+**Umfragen**
+
+- Führen sie Mitarbeiterumfragen durch?  ⭐
+- Wie werden Mitarbeitergespräche festgehalten?
+
+**Profil**
+
+- Wird eine Funktionsmatrix geführt? ⭐
+- Müssen Mitarbeitende bestimmte Zertifizierung absolvieren und wiederholgen?  ⭐
+
 ## Weiterbildung
+
+**Planung**
+
+- Gibt es Weiterbildungsprogramme für Mitarbeitende?  ⭐
+- Führen sie interne Schlungen durch?
+
+**Profil**
+
+- Wie erfassen sie Kompetenzen der Mitarbeitenden?
 
 ## Offboarding definieren
 
-- Gibt es eine Checkliste für das Offboarding?
+**Prozess**
+
+- Gibt es eine Checkliste für das Offboarding? ⭐

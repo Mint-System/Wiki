@@ -1,4 +1,4 @@
-# Phase Verkäufe und Einkauf
+# Phase Verkäufe
 
 Tätigkeiten:
 
@@ -6,14 +6,13 @@ Tätigkeiten:
 * Lead-Times festlegen
 * Mindestbestandsregeln einrichten
 
-Ergebnis: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit.
+Ergebnis: Alle Daten zum Verkaufen sind bereit.
 
 ## Produkte anlegen (Stufe 2)
 
 **Verkaufspreis**
 
 - Welche Verkaufsregeln sind hinterlegt?
-
 
 **Steuern (Verkauf)**
 
@@ -25,10 +24,6 @@ Ergebnis: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit.
 
 - Wie wird die Funktion *Berechnung des Preises aus Stückliste* verwendet?
 
-**Einkauf ME**
-
-- Welches ist die Standard-Mengeneinheit für den Einkauf des Produkts?
-
 **Fakturierungsregel**
 
 - Wie werden die Optionen für das Fakturieren angewendet?
@@ -36,14 +31,6 @@ Ergebnis: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit.
 **Verkaufs Beschreibung**
 
 - Wie soll das Produkt auf Angeboten usw. beschrieben sein?
-
-**Lieferanten-Preisliste**
-
-- Wie ist die Preisliste für Einkaufs-Produkte definiert?
-
-**Rahmenbestellungen**
-
-- Werden Rahmenbestellungen verwendet?
 
 **Online Signature**
 
@@ -54,5 +41,3 @@ Ergebnis: Alle Daten zum Verkaufen und Einkaufen der Produkte sind bereit.
 
 - Preisregeln progammieren
 - Steuern konfigurieren
-- Lieferanten-Preisliste importieren
-

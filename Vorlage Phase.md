@@ -14,9 +14,10 @@ Eine Phase ist wie folgt gegliedert:
 * Überschrift 1: PHASENNAME
 	* Überschrift 2: AUFGABENNAME
 		* **Abschnitt**
-		* Details
+		* Frage
+		* Kernfrage  ⭐
  		* Überschrift 3: Todos
 		* **Abschnitt**
-		* Details
+		* Aufgabe
 
 Jeder Abschnitt enthält Fragen zur Abklärung und [[Todos]].

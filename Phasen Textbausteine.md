@@ -26,7 +26,9 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 [[Phase Lohnabrechnung|Phase X: Personalabrechnung]]
 
-[[Phase Verkäufe und Einkauf|Phase X: Verkäufe und Einkauf]]
+[[Phase Verkäufe|Phase X: Verkäufe]]
+
+[[Phase Einkauf|Phase X: Einkauf]]
 
 [[Phase Webshop|Phase X: Webshop]]
 
