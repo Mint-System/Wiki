@@ -1,4 +1,4 @@
-# Phase Verkäufe und Einkauf
+# Phase Einkauf
 
 Tätigkeiten:
 
