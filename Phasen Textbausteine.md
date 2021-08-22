@@ -6,11 +6,11 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 ## [[Odoo-Projekte]]
 
-[[Phase Hosting initialisieren|Phase X: Hosting initialisieren]]
+[[Phase Hosting Initialisierung|Phase X: Hosting Initialisierung]]
 
 [[Phase Odoo Installation|Phase X: Odoo Installation]]
 
-[[Phase Odoo initialisieren|Phase X: Odoo initialisieren]]
+[[Phase Odoo Initialisierung|Phase X: Odoo Initialisierung]]
 
 [[Phase Kontakte|Phase X: Kontakte]]
 

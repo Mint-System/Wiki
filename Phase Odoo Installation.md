@@ -55,10 +55,9 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
 - Welche Sprachen werden installiert?
 
-## Installation durchführen
-
 ### Todos
 
-- Installation testen
-- Benutzer einladen
-    
+- Ansible Odoo und Proxy Inventory einrichten
+- Odoo und Proxy deployen
+- Installation Odoo Apps und Konfigurationspakete
+- Mandanten gemäss Prozess einrichten

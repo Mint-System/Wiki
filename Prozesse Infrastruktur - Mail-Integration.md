@@ -1,7 +1,7 @@
 # Prozess Mail-Integration
 Mailing-Dienste bereitstellen oder integrieren.
 
-## Account bei Kunde bestellen
+## Mail-Account bei Kunde bestellen
 
 Arbeitsschritte:
 * Liste der Mail-Adressen erstellen

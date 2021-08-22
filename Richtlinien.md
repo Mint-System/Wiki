@@ -12,3 +12,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Projektmanagement]]
 * [[Richtlinie - Kollaboration]]
 * [[Richtlinie - Softwareentwicklung]]
+* [[Richtlinie - Calc Dokumente]]

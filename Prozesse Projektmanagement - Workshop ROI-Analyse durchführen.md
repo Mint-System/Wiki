@@ -11,6 +11,7 @@
 * Agenda kommunizieren.
 * Themenbereiche abbarbeiten und laufend Beobachtungen festhalten.
 * Beobachtungen als Zwischenergebnisse festhalten.
+* [[Zusatzanforderungen]] festhalten.
 
 ## Workshop nachbereiten
 

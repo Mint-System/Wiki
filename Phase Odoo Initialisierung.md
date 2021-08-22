@@ -1,4 +1,4 @@
-# Phase Odoo initialisieren
+# Phase Odoo Initialisierung
 
 Tätigkeiten:
 - Allgemeine Einstellungen festlegen

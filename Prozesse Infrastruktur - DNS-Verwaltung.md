@@ -1,6 +1,6 @@
 # Prozess DNS-Verwaltung
 
-## Kunden-DNS integrieren
+## Externe DNS-Einträge erstellen
 
 Arbeitsschritte:
 * Zusammenstellen benötigte DNS-Einträge
