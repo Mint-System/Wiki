@@ -1,4 +1,4 @@
-# Wiederherstellung von Backup
+# Wiederherstellung von Backups
 
 In diesem Dokument wird das Vorgehen zur Wiederherstellung aus einem Backup beschrieben.
 
@@ -27,9 +27,9 @@ restic snapshots a1dd23e2
 Gibt man den folgenden Befehl ein:
 
 ```bash
-restic restore a1dd23e2 --target /var/tmp
+restic restore a1dd23e2 --target /
 # repository b7435fcd opened successfully, password is correct
-# restoring <Snapshot a1dd23e2 of [/var/tmp/erp.zip] at 2020-09-30 01:00:05.957738501 +0200 CEST by root@apollo> to /var/tmp
+# restoring <Snapshot a1dd23e2 of [/var/tmp/erp.zip] at 2020-09-30 01:00:05.957738501 +0200 CEST by root@apollo> to /
 ```
 
 ## Odoo Backup
@@ -37,7 +37,7 @@ restic restore a1dd23e2 --target /var/tmp
 Hat man das Odoo Backup wiederhergestellt, kann man die Daten einfach importieren.
 
 ```bash
-~ odoo odoo-restore -d erp -r -f /var/tmp/erp.zip
+~ odoo-restore -d erp -r -f /var/tmp/erp.zip
 # No errors detected in compressed data of /var/tmp/erp.zip.
 # Deleting Odoo database erp ...
 # Requesting restore for Odoo database erp ...
@@ -48,6 +48,16 @@ Hat man das Odoo Backup wiederhergestellt, kann man die Daten einfach importiere
 
 Der Container `nextcloud03` hat ein Volume `nextcloud_data03` und wiederhergestellter Export unter `/var/tmp/nextcloud03/nextcloud_data03.tar`.
 
+### Mit Helper-Scripts
+
+Bestehendes Volume erstetzen.
+
+```bash
+docker-postgres-restore -c postgres11 -f /var/tmp/postgres11/nextcloud.sql -r
+```
+
+### Ohne Helper-Scripts
+
 Dieser Export kann ganz einfach importiert werden.
 
 ```bash
@@ -57,6 +67,16 @@ docker run --rm -v nextcloud_data03:/_data -v /var/tmp:/var/tmp ubuntu bash -c "
 ## Postgres Dump
 
 Der Datenbank-Export `/var/tmp/postgres11/nextcloud.sql` soll für den Container `postgres11`  wiederhergestellt werden.
+
+### Mit Helper-Scripts
+
+Bestehende Datenbank erstetzen.
+
+```bash
+docker-postgres-restore -c postgres11 -f /var/tmp/postgres11/nextcloud.sql -r
+```
+
+### Ohne Helper-Scripts
 
 Bestehende Datenbank anzeigen und löschen.
 
