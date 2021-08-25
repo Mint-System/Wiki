@@ -16,6 +16,7 @@ tags:
 * [[Vorlage Test Cases]]
 * [[Vorlage Worklog]]
 * [[Vorlage Issues]]
+* [[Vorlage Anforderungen]]
 * [[Vorlage Minor Improvements]]
 * [[Vorlage Bugs]]
 * [[Vorlage Prozesse Odoo]]
