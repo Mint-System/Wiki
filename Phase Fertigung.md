@@ -53,7 +53,7 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 - Wie wird die Dauer festgelegt? (Manuell festlegen?)
 - Werden den Vorgängen Arbeitsblätter zugeordnet? (Welches Datei-Format wird verwendet?
 
-**Schritte*
+**Schritte**
 
 - Werden Schritte verwendet?
 - Welche Typen von Schritten werden verwendet?

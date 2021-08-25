@@ -12,13 +12,20 @@ Wir werden die Daten aus dem Quellsystem exportiert?
 
 Welche Input-Daten stehen zur Verfügung und wie heissen die Dateien?
 
+* Lieferanten.xlsx
+
 ## Prozess
 
 Wie müssen die Input-Daten transformiert werden? Wie heissen die transformierten Dateien?
 
+* partner.csv
+	* Add first row with external id
+
 ## Output
 
 Welches sie die Output-Daten aus dem Transformationsprozess? Wie heissen die Output-Dateien?
+
+* partner.output.csv
 
 ## Import
 

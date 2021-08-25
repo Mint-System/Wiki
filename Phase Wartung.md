@@ -10,3 +10,9 @@ Ergebnis: Geräte und Wartungsprozess ist eingerichtet
 
 ## Geräte erfassen
 
+**Prüfmittel**
+
+- In welchen Abständen werden die Werkzeuge geprüft? ⭐
+- Verwalten sie Ablaufdatum pro Werkzeug?
+- Wird erfasst wie oft ein Prüfmittel verwendet wird?
+- Gebt ihr die Kalibirierung extern?

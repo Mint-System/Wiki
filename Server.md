@@ -14,16 +14,17 @@ Liste aller Server im Einsatz der Mint System GmbH.
 
 | Name     | Funktion                           | DNS                      | Kommentar |
 | -------- | ---------------------------------- | ------------------------ | --------- |
-| Zeus     | Dienste Mint System GmbH           | zeus.mint-system.com     | Hezner    |
-| Hades    | Demoumgebung                       | hades.mint-system.com    | Hezner    |
-| Apollo   | Dienste Apland GmbH                | apollo.apland.ch         | Hezner    |
-| Kronos   | Backupserver                       | kronos.mint-system.com   | Hezner    |
-| Hera     | BigBlueButton                      | hera.mint-system.com     | Hezner    |
-| Atlas    | Monitoring                         | atlas.mint-system.com    | Hezner    |
-| Helios   | Server Aersolution Interior AG     | helios.mint-system.com   | Hezner    |
-| Hermes   | Odoo Demoumgebung                  | hermes.mint-system.com   | Hezner    |
+| Zeus     | Dienste Mint System GmbH           | zeus.mint-system.com     | Hetzner   |
+| Hades    | Demoumgebung                       | hades.mint-system.com    | Hetzner   |
+| Apollo   | Dienste Apland GmbH                | apollo.apland.ch         | Hetzner   |
+| Kronos   | Backupserver                       | kronos.mint-system.com   | Hetzner   |
+| Hera     | BigBlueButton                      | hera.mint-system.com     | Hetzner   |
+| Atlas    | Monitoring                         | atlas.mint-system.com    | Hetzner   |
+| Helios   | Server Aersolution Interior AG     | helios.mint-system.com   | Hetzner   |
+| Hermes   | Odoo Demoumgebung                  | hermes.mint-system.com   | Hetzner   |
 | Themis   | BigBlueButton                      | themis.mint-system.com   | ExoScale  |
-| Iris     | Server Kleinbrauerei Stiär Biär AG | iris.mint-system.com     | Hezner    |
+| Iris     | Server Kleinbrauerei Stiär Biär AG | iris.mint-system.com     | Hetzner   |
 | Pan      | Server Light Wing AG               | pan.mint-system.com      | Hostpoint |
-| Artemis  | Server Trimada AG                  | artemis.mint-system.com  | Hezner    |
+| Artemis  | Server Trimada AG                  | artemis.mint-system.com  | Hetzner   |
 | Hyperion | Server Digital Cluster Uri         | hyperion.mint-system.com | ExoScale  |
+| poseidon | Server Basis75                     | poseidon.mint-system.com | ExoScale  |

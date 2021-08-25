@@ -4,4 +4,4 @@
 
 ## Inhaltsverzeichnis anzeigen
 
-Navigieren nach **Settings > Core plugin** und aktiviere die Option **Outline**.
+Navigieren sie nach **Settings > Core plugin** und aktivieren sie die Option **Outline**.

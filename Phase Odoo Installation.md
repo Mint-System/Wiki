@@ -10,7 +10,7 @@ Tätigkeiten:
 
 Ergebnis: Odoo steht für die Initialisierung bereit.
 
-## Installation vorbereiten
+## Mintsys Hosting einrichten
 
 Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
@@ -61,3 +61,12 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 - Odoo und Proxy deployen
 - Installation Odoo Apps und Konfigurationspakete
 - Mandanten gemäss Prozess einrichten
+
+## Odoo.sh Hosting einrichten
+
+### Todos
+
+- GitHub Projekt einrichten
+- Odoo.sh Projekt erstellen und teilen
+- Git Submodule hinzufügen
+- Projekt Branches erstellen
