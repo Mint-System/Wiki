@@ -1,3 +1,3 @@
 # Odoo PoS
 
-[[Odoo PoS-Hardware]]
+[[Odoo PoS Hardware]]

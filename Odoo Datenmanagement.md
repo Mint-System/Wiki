@@ -313,6 +313,18 @@ Export ID/Feldname
 ```
 Datei: `ir.exports.csv`
 
+### Produktkategorien
+
+Listenansciht: *Finanzen > Konfiguration > Finanzen > Produktkategorien*
+
+Fehler:
+```
+id
+name
+parent_id/id
+```
+Datei: `product.category.csv`
+
 ## Importvorgänge
 
 ### Produkt
