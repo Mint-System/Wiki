@@ -26,6 +26,7 @@ tags:
 	* Phase N: Beschreibung
 * Aufwandsschätzung
 * Referenzen
+* Projektmanagement
 * Anhang
 
 ## Textbausteine
@@ -73,7 +74,7 @@ Bezüglich der Lizenzierung von Odoo steht der Kunde direkt mit Odoo S.A. in Ver
 
 Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](https://cloud.mint-system.ch/s/cPnnr7yjPApL8YG). Die einzelnen Projektphasen sind im folgenden Abschnitt erläutert. Daraus leitet sich die Aufwandsschätzung ab.
 
-[[Phasen Textbausteine]]
+Siehe [[Phasen Textbausteine]].
 
 **Go-Live**
 
@@ -84,3 +85,7 @@ Das Projektteam ist zur Unterstützung der Mitarbeitenden verfügbar und hilft z
 ### Referenzen
 
 Siehe [[Mint System Referenzen]].
+
+### Projektmanagement
+
+Siehe [[Projektmanagement#Vorlage Konzept]].

@@ -5,7 +5,7 @@ Bei Tätgikeiten der Mitarbeiter können Spesen anfallen. Als Spesen im Sinne di
 
 Das Spesenreglement hat gegenüber der Kant. Steuerverwaltung nur dann Gültigkeit, wenn diese dem Kant Steuerarmt Uri zur Genehmigung vorgelegt und genehmigt wurde.
 
-Das für Mint System GmbH aktuell gültige Spesenreglement "Mint System Spesenreglement 2020" ist in *Mint System > Personal > Spesenreglement* abgelegt (direkter Link https://cloud.mint-system.ch/f/57177).
+Das für Mint System GmbH aktuell gültige Spesenreglement "Mint System Spesenreglement 2020" ist in *Mint System > Personal > Spesenreglement* abgelegt (direkter Link <https://cloud.mint-system.ch/f/95926>).
 
 ## Ablauf Spesenrückvergütung
 - alle Spesen, die gemäss Reglement zurückerstattet werden, sind in der Datei "Mint System - Vorlage Spesenabrechnung.ods" (direkter Link https://cloud.mint-system.ch/f/57078) einzutragen. Dabei wird je Beleg das Datum, die Beschreibung und der Betrag erfasst. Unter Beschreibung wird zuerst den Ort, den kontakt und anschliessend die Art angegeben. 

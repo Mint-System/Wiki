@@ -7,3 +7,9 @@ Notizen werden nicht synchronisiert. Projektnotizen werden ohne Zwischenschritte
 Projektinformationen werden weder dupliziert und noch synchronisiert. Projekinformationen können exportiert, aber nicht importiert werden.
 
 Der [[Rollen#Projektleiter|Projektleiter]] stellt sicher das der Zustand eines Projekts korrekt erfasst ist.
+
+## Vorlage Konzept
+
+Mint System nutzt für die Umsetzung des Projekts Odoo und Nextcloud. Das Projekt wird gemäss Phasen und Aufwandsschätzung im Projektmanagementtool abgebildet. Auf Wunsch kann der Kunde Zugriff auf das Projekt-Portal haben. 
+
+Der Dateiaustausch und Kollaboration an Dokumenten erfolgt mit Nextcloud. Der Kunde erhält einen Link mit Schreibzugriff auf alle Projektunterlagen.
