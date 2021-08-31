@@ -10,13 +10,13 @@ Arbeitsschritte:
 
 ## Odoo-Installation initialisieren
 Arbeitsschritte:
-* App Odoo referral program (odoo_referral) entfernen
+* App Odoo referral program (`odoo_referral`) entfernen
 * Installation Mint System Apps:
-	* Show DB Name (show_db_name)
-	* Auth OAuth Keycloak (auth_oauth_keycloak)
+	* Show DB Name (`show_db_name`)
+	* Auth OAuth Keycloak (`auth_oauth_keycloak`)
 * Installation Odoo Enterprise Apps:
-	* Odoo Cloud Benachrichtigungen Client (OCN) (ocn_client) #Odoo13 
-	* Web-Enterprise (web_enterprise)
+	* Odoo Cloud Benachrichtigungen Client (OCN) (`ocn_client`) #Odoo13 
+	* Web-Enterprise (`web_enterprise`)
 * Benutzer `admint` archivieren 
 
 ## Odoo Master Password erstellen
