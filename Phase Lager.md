@@ -27,8 +27,8 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 **Einrichtungs-Schema**
 
-- Werden verschiedene Lagerorte  verwendet?
-- Nach welchem Schema werden die Lagerorte definiert?
+- Werden verschiedene Lagerorte  verwendet? ⭐
+- Nach welchem Schema werden die Lagerorte definiert? ⭐
 
 **Beschriftungs-Schema**
 

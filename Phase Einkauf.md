@@ -20,6 +20,12 @@ Ergebnis: Alle Daten zum Einkaufen der Produkte sind bereit.
 
 - Werden Rahmenbestellungen verwendet?
 
+## Lieferantenbewertung
+**Messgrössen**
+
+- Werden neben der On Time Delivery weitere Messgrössen gefordert?
+
+
 ### Todos
 
 - Lieferanten-Preisliste importieren

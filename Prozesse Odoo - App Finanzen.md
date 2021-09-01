@@ -7,6 +7,7 @@ Auswahl:
 * Import CAMT Bank Statement `account_bank_statement_import_camt`
 * SEPA Kreditübertragung `account_sepa`
 * Auszug aus der Kontorechnung `account_invoice_extract`
+* Account Invoice Extract Purchase `account_invoice_extract_purchase`
 * Accounting Reports `account_reports`
 * Analytische Konten `analytic_enterprise`
 * Budgetverwaltung `account_budget`
@@ -26,8 +27,8 @@ Navigation nach *Einstellungen > Finanzen* und Auswahl:
 Arbeitsschritte:
 *  Unternehmensdaten eintragen
 *  Bankkonto erfassen, zum Beispiel
-	*  IBAN: CH3989144871696181962
-	*  Name: UBS
+	*  IBAN: `CH3989144871696181962`
+	*  Name: `UBS`
 *  Buchungsperiode eröffnen
 *  Kontenplan übernehmen
 

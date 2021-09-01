@@ -16,7 +16,7 @@ Arbeitsschritte:
 	* Auth OAuth Keycloak (`auth_oauth_keycloak`)
 * Installation Odoo Enterprise Apps:
 	* Odoo Cloud Benachrichtigungen Client (OCN) (`ocn_client`) #Odoo13 
-	* Web-Enterprise (`web_enterprise`)
+	* Mail Enterprise (`mail_enterprise`) #Odoo14 
 * Benutzer `admint` archivieren 
 
 ## Odoo Master Password erstellen

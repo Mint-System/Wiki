@@ -16,15 +16,15 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
 **Version und Lizenz-Typ**
 
-- Welche Odoo-Version mit welchem Lizenz-Typ wird verwendet?
+- Welche Odoo-Version mit welchem Lizenz-Typ wird verwendet? ⭐
 
 **Mandanten**
 
-- Welche Mandanten gibt es? Wie heissen sie?
+- Welche Mandanten gibt es? Wie heissen sie? ⭐
 
 **Hosting**
 
-- Welche Hosting-Variante wird gewählt?
+- Welche Hosting-Variante wird gewählt? ⭐
 
 **Domains**
  
@@ -36,7 +36,7 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
 **Installierte Apps**
 
-- Welche Apps werden installiert?
+- Welche Apps werden installiert? ⭐
 
 **Benutzer-Einstellungen**
 
@@ -45,7 +45,7 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
 **Benutzerliste**
 
-- Wie heissen die Benutzer?
+- Wie heissen die Benutzer? ⭐
 
 **E-mail Signatur**
 

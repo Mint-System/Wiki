@@ -10,10 +10,14 @@ Tätigkeiten:
 Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 
 ## Kontakte einrichten
+**Quelldaten für Lieferanten und Kunden**
+- In welcher Form sind die Kontaktdaten der Lieferanten für die Migration vorhanden? ⭐
+- In welcher Form sind Kontaktdaten der Kunden für die Migration vorhanden? ⭐
 
-- In welcher Form sind die Kontaktdaten der Lieferanten für die Migration vorhanden?
-- In welcher Form sind Kontaktdaten der Kunden für die Migration vorhanden?
-- Wie sind die Feldinhalte von *Kontakte* definiert?
+**Feldinhalte**
+- Wie sind die Feldinhalte von *Kontakte* definiert? ⭐
+
+**Spezielle Funktionen**
 - Wird die Funktion *Partner Autovervollständigung* genutzt?
 - Wird der Zusatz Name/Vorname gefordert? (Falls ja, in welcher Kombination)
 - Wird der Zusatz *Standardlieferbedingungen für Kunden* genutzt?
@@ -33,9 +37,9 @@ Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 - Datenimport Kontakte prüfen
 
 ## Bankkonten einrichten
-
-- Ist das vorhandenen *Bankverzeichnis* ausreichend? Falls nein: Welche gibt es zusätzlich?
-- Sind die vorhandenen *Bankkonten* ausreichend? Falls nein: Welche gibt es zusätzlich?
+**Bankverzeichnis und Bankkonten**
+- Ist das vorhandenen *Bankverzeichnis* ausreichend? Falls nein: Welche gibt es zusätzlich? ⭐
+- Sind die vorhandenen *Bankkonten* ausreichend? Falls nein: Welche gibt es zusätzlich? ⭐
 
 ### Todos
 

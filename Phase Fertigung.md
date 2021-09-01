@@ -17,7 +17,7 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 **Name des Arbeitsplatzes**
 
-- Welche Arbeitsplätze gibt es und wie heissen sie?
+- Welche Arbeitsplätze gibt es und wie heissen sie? ⭐
 
 **Code**
 
@@ -31,7 +31,7 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 **Schema für Stücklisten**
 
-- Wie sieht der grundsätzliche Aufbau der Stückliste aus?
+- Wie sieht der grundsätzliche Aufbau der Stückliste aus? ⭐
 
 **Referenz**
 
@@ -55,7 +55,7 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 **Schritte**
 
-- Werden Schritte verwendet?
+- Werden Schritte verwendet? ⭐
 - Welche Typen von Schritten werden verwendet?
 - Wie werden Arbeitsblätter verwendet? (Zu bestimmter Seite scrollen?)
 - Wie wird das Feld *Anleitung* verwendet?
@@ -88,16 +88,8 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 
 **Manufacture**
 
-- In welchen Schritten wird produziert?
+- In welchen Schritten wird produziert? ⭐
 
-
-## Produkte einrichten (Stufe 2)
-
-**Zuordnen von technischen Informationen**
-
-- Welche technischen Informationen werden dem Produkt zugeordnet (z.B. Zeichnungen, step-Dateien)?
-- Wie werden die technischen Informationen (z.B. Zeichnungen, step-Dateien) den Produkten zugeordnet?
-- Wird die Entwicklung von Mint System eingesetzt?
 
 ### Todos
 

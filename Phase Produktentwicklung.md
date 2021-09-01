@@ -37,7 +37,8 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 [Beschreibung im Handbuch](https://odoo-wiki.ch/strichcode.html#strichcode)
 
-- Wie setzt sich der Strichcode zusammen?
+- Werden die Produkte mit einem Strichcode bezeichnet? ⭐
+- Wie setzt sich der Strichcode zusammen? ⭐
 - Wird für die Generierung eine spezielle App verwendet? (Vorschlag: *Product Barcode Generator* von Cybrosys)
   
 **Ursprungsland**
@@ -69,7 +70,11 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 **Produktzeichnungen**
 
-- Wollen sie pro Produkt jeweils eine Step-Datei und eine Zeichnung speichern?  
+- Wollen sie pro Produkt jeweils eine Step-Datei und eine Zeichnung speichern? ⭐
 - Wo sollen die Zeichnungsdateien gespeichert werden?  
-- Sollen die Zeichnungsdateien den Lieferanten über das Portal und den RFQ/PO zugänglich gemacht werden?  
-- Soll in der Tablet-Ansicht den Zugriff auf die Zeichnungsdatei möglich sein?
+- Sollen die Zeichnungsdateien den Lieferanten über das Portal und den RFQ/PO zugänglich gemacht werden? ⭐  
+- Soll in der Tablet-Ansicht den Zugriff auf die Zeichnungsdatei möglich sein? ⭐
+
+**Produktvarianten**
+
+- Werden Produktvarianten verwendet? ⭐
