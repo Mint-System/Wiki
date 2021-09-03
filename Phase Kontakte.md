@@ -25,6 +25,10 @@ Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 - Sind die vorhandenen *Branchen* ausreichend? Falls nein: Welche gibt es zusätzlich?
 - Sind die vorhandenen *Zahlungsbedingungen* ausreichend? Falls nein: Welche gibt es zusätzlich?
 
+**Spezielle Attribute**
+- Wird ein Attribut zur Unterscheidung von Lieferanten für Luftfahrtprodukte ja/nein benötigt?
+
+
 ### Todos
 
 - Kontakte konfigurieren
@@ -38,8 +42,8 @@ Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 
 ## Bankkonten einrichten
 **Bankverzeichnis und Bankkonten**
-- Ist das vorhandenen *Bankverzeichnis* ausreichend? Falls nein: Welche gibt es zusätzlich? ⭐
-- Sind die vorhandenen *Bankkonten* ausreichend? Falls nein: Welche gibt es zusätzlich? ⭐
+- Ist das vorhandenen *Bankverzeichnis* ausreichend? Falls nein: Welche gibt es zusätzlich?
+- Sind die vorhandenen *Bankkonten* ausreichend? Falls nein: Welche gibt es zusätzlich?
 
 ### Todos
 

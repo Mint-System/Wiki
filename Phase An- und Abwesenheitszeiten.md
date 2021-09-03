@@ -8,3 +8,14 @@ Tätigkeiten:
 * PIN-Code und Kartennummer hinterlegen
 
 Ergebnis: Mitarbeiter können ihre An- und Abwesenheitszeiten registrieren.
+
+## Anwesenheitszeiten planen
+
+
+
+## Abwesenheitszeiten überwachen
+
+
+**Regelverstösse*
+
+- Müssen Regelverstösse überwacht weden (z.B. Einhaltung von 30 Minuten Mittagspause)?

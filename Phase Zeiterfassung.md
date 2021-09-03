@@ -8,3 +8,16 @@ Tätigkeiten:
 * Das Berichtswesen konfigurieren
 
 Ergebnis: Die Kalender und Verträge sind für Arbeitszeit-Rapportierung bereit.
+
+## Arbeitsrapport erstellen
+
+**Inhalt**
+- Sollen gefahrene km rapportiert werden?
+- Sollen die eigene Ausgaben rapportiert werden?
+- Soll verwendetes Material rapportiert werden?
+
+
+## Strategie für die Zeiterfassung festlegen
+
+**Unterscheidung Anwesenheit- und Projektzeit**
+- 

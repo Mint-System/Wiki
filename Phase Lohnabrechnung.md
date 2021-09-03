@@ -8,3 +8,7 @@ Tätigkeiten:
 * Die Konfiguration der Lohnarten vornehmen
 
 Ergebnis: Lohnabrechnung mit Odoo.
+
+## Lohnabrechnung erstellen
+
+- Wie wird die Lohnabrechnung erstellt?

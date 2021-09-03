@@ -65,6 +65,11 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 [Erklärung im Handbuch](https://www.odoo-wiki.ch/best-practice-lager-konfigurieren.html#standard-routen-fur-lieferungen)
 
 - In wievielen Schritten wird der Wareneingang abgehandelt?
+
+**Bereitstellung von Material im Produkionsprozess**
+
+- Wie wird Material für den Produktionsprozess bereitgestellt?
+
  
  **Anzahl Schritte für ausgehende Lieferungen**
  
@@ -83,6 +88,30 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 **Liste der Vorgangstypen**
 
 - Welche Vorgangstypen kommen zur Anwendung?
+
+## Materialzeugnisse zuordnen
+
+**Rohmaterial**
+
+- Muss das Rohmaterial mit einer Relation auf ein entsprechendes Materialzeugnis eingelagert werden?
+
+## Verpackungsvorgang einrichten
+
+**Verpackung**
+
+- Wird die Funktion *Verpacken* verwendet?
+
+## Gefahrenstoffe organisieren
+
+**Identifikation**
+
+- Müssen Gefahrenstoffe speziell identifiziert werden?
+- Müssen Sicherheitsdatenblätter den Produkten zugeordnet werden können?
+
+**Separierte Lagerung**
+
+- Müssen Gefahrenstoffe auf einer spezfischen Lagerliste sichtbar sein?
+
 
 ### Todos
 
@@ -110,6 +139,11 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 ## Material mit Ablaufdatum definieren
 
-**Konfiguration**
+**Ablaufdatum auf Produkt-Etikett**
 
-- 
+- Muss das Ablaufdatum auf dem Produkt-Etikett sichtbar sein?
+
+**Protokollierung der Ablaufdatum-Verlängerung**
+
+- Muss das Verlängern eines Ablaufdatums protokolliert werden?
+- Muss eine Begründung für die Verlängerung eines Ablaufdatums festgehalten werden?

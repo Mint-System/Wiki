@@ -20,10 +20,33 @@ Ergebnis: Alle Daten zum Einkaufen der Produkte sind bereit.
 
 - Werden Rahmenbestellungen verwendet?
 
-## Lieferantenbewertung
+## Auftragsabwicklung festlegen
+
+**Auftragsbestätigung**
+
+- Soll n Tage vor dem Liefertermin eine Bestätigung eingeholt werden (Receipt Reminder)?
+
+## Lieferantenbewertung definieren
+
+**Freigabe**
+
+- Gilt für Lieferanten ein spezielles Freigabeverfahren (zum Beispiel Lieferanten für Luftfahrtprodukte)? ⭐
+- Müssen Lieferanten gesperrt werden können? ⭐
+
+
 **Messgrössen**
 
-- Werden neben der On Time Delivery weitere Messgrössen gefordert?
+- Werden neben der On Time Delivery weitere Messgrössen gefordert? ⭐
+
+**Eingrenzung auf attributierte Lieferanten**
+
+- Muss die Lieferantenbewertung auf spezifische attributierte Lieferanten eingegrenzt werden können? ⭐
+
+
+## Eingangsprüfung definieren
+**Qualitätssicherung**
+
+- Werden bestimmte Arten von Prüfungen unterschieden? ⭐
 
 
 ### Todos

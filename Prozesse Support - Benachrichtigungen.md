@@ -1,5 +1,5 @@
-# Benachrichtigungen
-Support-Benachrichtigungen verawlten.
+# Prozess Benachrichtigungen
+Support-Benachrichtigungen verwalten.
 
 ## Benachrichtigungen abonnieren
 

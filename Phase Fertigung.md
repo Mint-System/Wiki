@@ -51,7 +51,8 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen sie fr
 **Vorgänge**
 
 - Wie wird die Dauer festgelegt? (Manuell festlegen?)
-- Werden den Vorgängen Arbeitsblätter zugeordnet? (Welches Datei-Format wird verwendet?
+- Werden den Vorgängen Arbeitsblätter zugeordnet? (Welches Datei-Format wird verwendet?)
+- Werden den Vorgängen Hilfsmittel (Lehren, Montagevorrichtungen usw.) zugeordnet?
 
 **Schritte**
 

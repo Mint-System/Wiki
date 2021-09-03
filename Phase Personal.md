@@ -13,42 +13,64 @@ Tätigkeiten:
 
 Ergebnis: Die Personaldaten der Mitarbeiter sind erfasst.
 
+## Rollen, Stellen, Kompetenzen
+
+**Funktionsmatrix**
+
+- Wird eine Funktionsmatrix geführt? ⭐
+
+
+**Kompetenzen**
+
+- Wird eine Kompetenzmatrix erstellt?
+
+**Autorisierung**
+
+- Werden Ausweise für die persönliche Ermächtigung erstellt?
+
+
 ## Onboarding definieren
 
 **Prozess**
 
-- Haben sie Onboarding-Checklisten?  ⭐
+- Ist eine Onboarding-Checklisten definiert?  ⭐
 - Halten sie Probezeitgespräche fest?
 
 **Konfiguration**
 
-- Wie sehen die Arbeitsverträge 
+- Wie ist die Struktur der Arbeitsverträge?
+
 
 ## Personalentwicklung
 
 **Umfragen**
 
-- Führen sie Mitarbeiterumfragen durch?  ⭐
+- Werden Mitarbeiterumfragen durchgeführt?  ⭐
+
+**Mitarbeitergespräche**
+
+- Wie werden Mitarbeitergespräche geplant?
 - Wie werden Mitarbeitergespräche festgehalten?
+- Wie werden Ziele für die Mitarbeitenden festgehalten?
 
-**Profil**
 
-- Wird eine Funktionsmatrix geführt? ⭐
-- Müssen Mitarbeitende bestimmte Zertifizierung absolvieren und wiederholgen?  ⭐
+## Weiterbildung planen und dokumentieren
 
-## Weiterbildung
-
-**Planung**
+**Planung, Durchführung, Nachweise**
 
 - Gibt es Weiterbildungsprogramme für Mitarbeitende?  ⭐
 - Führen sie interne Schlungen durch?
+- Werden Schulungsnachweise erstellt und abgelegt?
 
-**Profil**
 
-- Wie erfassen sie Kompetenzen der Mitarbeitenden?
+## Wiederholungskurse planen
+
+**Rezertifizierung der Sicherheitsanweisungen**
+
+- Müssen Unterweisungen der Sicherheitsvorgaben zyklisch wiederholt werden?
 
 ## Offboarding definieren
 
 **Prozess**
 
-- Gibt es eine Checkliste für das Offboarding? ⭐
+- Ist eine Offboarding Checkliste definiert? ⭐

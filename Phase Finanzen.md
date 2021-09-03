@@ -52,11 +52,14 @@ Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 -  Welche Mehrwertsteuersätze sind im Einkauf im Einsatz?
 -  Werden Produkte im Ausland eingekauft?
 
+
+
 ## Eröffungsbuchung erstellen
 
 **Datenübername und Eröffnung der Fibu**
 
 - Ist eine Bilanz aus dem Vorjahr vorhanden?
-- Sind transistorische Buchungen aus dem Vorjahr vorhanden? 
-- Sind Maschinen/Anlagen/Lager vorhanden, die in der Bilanz eröffnert werden müssen?
+- Sind transitorische Buchungen aus dem Vorjahr vorhanden? 
+- Sind Maschinen/Anlagen/Lager vorhanden, die in der Bilanz eröffnet werden müssen?
 - Wird eine Anlagenbuchhaltung benötigt?
+- Müssen offene Rechnungen migriert werden?
