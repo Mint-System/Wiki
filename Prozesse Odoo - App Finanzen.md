@@ -8,11 +8,12 @@ Auswahl:
 * SEPA Kreditübertragung `account_sepa`
 * Auszug aus der Kontorechnung `account_invoice_extract`
 * Account Invoice Extract Purchase `account_invoice_extract_purchase`
-* Accounting Reports `account_reports`
 * Analytische Konten `analytic_enterprise`
 * Budgetverwaltung `account_budget`
 * Schweizer Buchhaltungsauswertungen `l10n_ch_reports`
+	* Accounting Reports `account_reports`
 * Lieferanten-Rechnung: Freigegeben zu zahlen `account_3way_match`
+*  Management der Zahlungserinnerungen `account_followup`
 
 ### Optionen aktivieren
 Navigation nach *Einstellungen > Finanzen* und Auswahl:

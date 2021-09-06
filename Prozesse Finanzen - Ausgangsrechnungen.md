@@ -10,13 +10,24 @@ Arbeitsschritte:
 * App Zeiterfassung  öffnen
 * Einträge auf den letzten Tag im Monat validieren
 
+
+## Zeitrapport erstellen
+
+Mit der Rechnung wird immer der dazugehörige Arbeitsrapport verschickt.
+
+Arbeitsschritte:
+
+* Projekt-Übersicht anzeigen und Zeiterfassung öffnen
+* Anzeigen Einträge zur Verrechnung
+* Erstellen und Ablagen Bericht *Zeitnachweis-Eintrage*
+
 ## Ausgangsrechnung erstellen
 Verantwortlich: [[Rollen#Projektleiter]]
 
 Arbeitsschritte:
 * Projekt-Übersich öffnen und Rechnung erzeugen
-* Konten und * [[Mehrwertssteuersatz]] prüfen
-* Kostenstelle festlegen
+* Konten, [[Mehrwertssteuersatz]] und Kostenstelle prüfen
+* Verlinken Zeitrapport
 * Rechnung als Entwurf bereitstellen.
 
 ## Odoo Lizenzkostenertrag verrechnen
