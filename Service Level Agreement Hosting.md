@@ -1,3 +1,5 @@
+![[Banner Metrics.png]]
+
 # Service Level Agreement Hosting
 Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten die folgenden Garantien:
 
