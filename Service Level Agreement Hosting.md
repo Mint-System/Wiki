@@ -11,7 +11,7 @@ Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten die folgenden
 
 <small>Diese Metriken beziehen sich auf die Verfügbarkeit der Plattform selbst. Einzelne Datenbanken oder Applikationen können aus bestimmten Gründen vorübergehend nicht verfügbar sein, die in der Regel mit den Aktionen oder Anpassungen des Kunden zusammenhängen. Geplante Wartungsarbeiten finden selten statt, in der Regel einmal im Monat, dauern in der Regel weniger als 1 Stunde und werden ausserhalb der Geschäftszeiten in der Region, in der die Wartung stattfindet, durchgeführt.</small>
 
-## Backup und Restore
+## Backup
 
 * Standardmässig werden Dateien und Datenbanken täglich gesichert. Volle Backups werden jeweils die letzten 7 Tage, 4 Wochen und 12 Monate aufbewahrt.
 * Der Backup-Server wird täglich auf einen zweiten Standort gespiegelt.
