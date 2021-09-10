@@ -17,6 +17,11 @@ List all products
 		print(product.name)
 ```
 
+Execute sql quer.
+```python
+self._cr.execute("SELECT * FROM account_move WHERE id = 16")
+```
+
 ## Commands
 
 Log into Docker Container.  
