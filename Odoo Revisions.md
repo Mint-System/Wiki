@@ -5,7 +5,7 @@ Odoo Revsions sind Snapshots der Entwicklungshistory zu einem bestimmten Zeitpun
 ## Odoo 13.0
 
 State: Outdated\
-Version: 13.0  
+Version: 13.0\
 Revision: 13.0.2020.0629
 
 ```bash
@@ -33,7 +33,7 @@ docker tag b073a2f2d68c odoo:b073a2f2d68c
 ## Odoo 13.1
 
 State: Outdated\
-Version: 13.0  
+Version: 13.0\
 Revision: 13.0.2020.1123
 
 ```
@@ -61,7 +61,7 @@ docker tag f20ab9613812 odoo:f20ab9613812
 ## Odoo 13.2
 
 State: Active\
-Version: 13.0  
+Version: 13.0\
 Revision: 13.0.2021.0412
 
 ```
@@ -89,7 +89,7 @@ docker tag e13c9ce400b0 odoo:e13c9ce400b0
 ## Odoo 14.0
 
 State: Outdated\
-Version: 14.0  
+Version: 14.0\
 Revision: 14.0.2020.1019
 
 ```bash
@@ -117,7 +117,7 @@ docker tag 6640ab6622b9 odoo:6640ab6622b9
 ## Odoo 14.1
 
 State: Outdated\
-Version: 14.0  
+Version: 14.0\
 Revision: 14.0.2020.1026
 
 ```bash
@@ -139,7 +139,7 @@ docker tag 70de954aa8a5 odoo:70de954aa8a5
 ## Odoo 14.2
 
 State: Outdated\
-Version: 14.0  
+Version: 14.0\
 Revision: 14.0.2020.1123
 
 ```bash
@@ -167,7 +167,7 @@ docker tag 8363e01420b1 odoo:8363e01420b1
 ## Odoo 14.3
 
 State: Outdated\
-Version: 14.0  
+Version: 14.0\
 Revision: 14.0.2021.0111
 
 ```bash
@@ -195,7 +195,7 @@ docker tag 3863e3e905e5 odoo:3863e3e905e5
 ##  [[Odoo 14.4]]
 
 State: Active\
-Version: 14.0  
+Version: 14.0\
 Revision: 14.0.2021.0510
 
 ```bash
@@ -223,7 +223,7 @@ docker tag c4370cddec27 odoo:c4370cddec27
 ##  [[Odoo 14.5]]
 
 State: Active\
-Version: 14.0  
+Version: 14.0\
 Revision: 14.0.2021.0524
 
 ```bash
@@ -251,7 +251,7 @@ docker tag 5ca003a231ac odoo:5ca003a231ac
 ##  Odoo 14.6
 
 State: Active\
-Version: 14.0  
+Version: 14.0\
 Revision: 14.0.2021.0817
 
 ```bash
