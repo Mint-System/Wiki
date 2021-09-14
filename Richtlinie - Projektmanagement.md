@@ -28,6 +28,7 @@ Der Projektordner soll immer gleich aussehen und so die projektübergreifende Na
 | Slides/                         | Dokumente für Präsentationen                         |
 | Worklog/YYYY-MM-DD TITEL.md     | Protokolle zur Auftragsabwicklung                    |
 | Workshop/                       | Dokumente zum Workshop                               |
+| Output                          | Projektergebnisse                                    |
 
 **Prozessordner**
 

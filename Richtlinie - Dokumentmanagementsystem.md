@@ -32,7 +32,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Partner                       | Dokumente zu unseren Partner                                                                                       |
 | Personal                      | Verträge und Abrechnungen                                                                                          |
 | Produkte                      | Dokumente zu den Mint System Produkten                                                                             |
-| Projekte/[Name]               | Projektablagen analog Odoo. Der Projektnahme enthält den Unternehmensname sowie eine Projektbezeichnung.           |
+| Projekte/[Name]               | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.                                          |
 | Public Relations              | Zeitungsartikel und allgemeine PR                                                                                  |
 | Rechnungen/([YYYY]/[MM],[MM]) | Rechnung von Lieferanten                                                                                           |
 | Secrets                       | Schlüssel und Passwörter                                                                                           |
