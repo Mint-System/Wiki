@@ -1,6 +1,6 @@
 # Blog-Posts
 
-Hier entstehen entwürfe für neue Blog-Posts:
+Hier entstehen Entwürfe für neue Blog-Posts:
 
 [[Applikation mit Odoo entwickeln]]\
 [[System-Überwachung mit Prometheus und Grafana]]\

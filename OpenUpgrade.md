@@ -1,6 +1,6 @@
 # OpenUpgrade
 
-Website:<https://oca.github.io/OpenUpgrade/>
+Website: <https://oca.github.io/OpenUpgrade/>
 
 A step by step guide to upgrade an [[Odoo Community Edition]] using [[Odoo Development]].
 
