@@ -9,7 +9,7 @@ A step by step guide to upgrade an [[Odoo Community Edition]] using [[Odoo Devel
 * Define settings
 
 ```bash
-DATABASE=mint-system
+DATABASE=janikv
 FROM=13.0
 TARGET=14.0
 ```
@@ -23,8 +23,7 @@ task checkout $FROM
 task start
 
 # or native
-task start db
-task start native
+task start db,native
 ```
 
 * Clear the local filestore and database
@@ -41,40 +40,23 @@ task clear-filestore $DATABASE
 * Export remote database to local folder and restore it
 
 ```bash
-odoo-backup ...
+odoo-backup -d $DATABASE -o tmp/$DATABASE.zip ...
 
 # with docker
-docker-odoo-restore ...
+docker-odoo-restore -r -f tmp/$DATABASE.zip
 
 # or native
-odoo-restore ...
+odoo-restore -r -f tmp/$DATABASE.zip
 ```
 
-* Install openupgrade scripts
-
-```bash
-# with docker
-docker-odoo-install -d $DATABASE -m openupgrade_scripts
-
-# or native
-task install-module $DATABASE openupgrade_scripts
-```
-
-* Stop the server, checkout target and run the openupgrade scripts
+* Stop the server, checkout target and clone openupgrade scripts
 
 ```bash
 task checkout $TARGET
-git clone git@github.com:OCA/OpenUpgrade.git oca/openupgrade
-cd oca/openupgrade && git checkout $TARGET && ../..
-echo "\noca/openupgrade" >> config/addons_path
+git clone git@github.com:OCA/OpenUpgrade.git tmp/openupgrade
+cd tmp/openupgrade && git checkout $TARGET && ../..
+echo "\ntmp/openupgrade" >> config/addons_path
 task update-config
-
-# WIP: with docker
-docker exec odoo odoo-bin -d $DATABASE --config /etc/odoo/odoo.conf --update=all --stop-after-init --load=base,web,openupgrade_framework
-
-# or native
-source venv$TARGET/bin/activate
-./odoo/odoo-bin -d $DATABASE --config config/odoo-native.conf --update=all --stop-after-init --load=base,web,openupgrade_framework 
 ```
 
 * Remove unsupported modules
@@ -84,6 +66,25 @@ source venv$TARGET/bin/activate
 
 # or native
 task remove-module $DATABASE web_diagram
+task remove-module $DATABASE auth_oauth_multi_token
+```
+
+* Run the upgrade scripts
+
+```
+# WIP: with docker
+docker exec odoo odoo-bin -d $DATABASE --config /etc/odoo/odoo.conf --update=all --stop-after-init --load=base,web,openupgrade_framework
+
+# or native
+source task source
+./odoo/odoo-bin -d $DATABASE --config config/odoo-native.conf --update=all --stop-after-init --load=base,web,openupgrade_framework 
+```
+
+* Clear the assets, run the server and check the log
+
+```
+docker-odoo-clear-assets -c db -d $DATABASE
+task start db,native
 ```
 
 * Remove unsupported views
@@ -92,15 +93,48 @@ task remove-module $DATABASE web_diagram
 task start-shell $DATABASE
 ```
 
-See [[Odoo Shell Scripts]].
+See [[Odoo Shell Scripts]] for details
 
-* Clear assets and restart server
+* Backup the new database
 
 ```bash
-# WIP: with docker
-
-# or native
-task clear-assets $DATABASE
-task start native
+odoo-backup -d $DATABASE -o tmp/$DATABASE-$TARGET.zip
 ```
 
+* Deploy the Odoo 14 instance
+* Drop the current database, restore the new dabase and tail the server log
+
+```bash
+odoo-drop -d $DATABASE ...
+odoo-restore -f tmp/$DATABASE-$TARGET.zip -r -d $DATABASE ...
+```
+
+### Troubleshooting
+
+#### Style error
+
+**Problem**
+
+After restoring the database, the assets cannot be loaded.
+
+```
+Style error
+
+The style compilation failed, see the error below. Your recent actions may be the cause, please try reverting the changes you made.
+
+Could not get content for /web_responsive/static/src/css/search_view_mobile.scss defined in bundle 'web.assets_backend'.
+Could not get content for /web_responsive/static/src/css/kanban_view_mobile.scss defined in bundle 'web.assets_backend'.
+Error: no mixin named o-search-options-dropdown-custom-item
+        on line 18239 of /stdin
+>>             @include o-search-options-dropdown-custom-item;
+
+   ---------------------^
+This error occured while compiling the bundle 'web.assets_backend' containing:
+    - /web/static/lib/bootstrap/scss/_functions.scss
+    - /web/static/lib/bootstrap/scss/_mixins.scss
+    - /web/static/src/scss/bs_mixins_overrides.scss
+```
+
+**Solution**
+
+Make sure the same version of `web_responsive` is deployed as locally.
