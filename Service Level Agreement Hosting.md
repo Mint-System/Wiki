@@ -1,6 +1,8 @@
 ![[Banner Metrics.png]]
 
 # Service Level Agreement Hosting
+Version: 2021-09-16
+
 Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten die folgenden Garantien:
 
 ## Verfügbarkeit
