@@ -15,15 +15,15 @@ VentorTech (<https://ventor.tech/solutions/odoo-direct-print/>)
 * von Ventor Tech
 * kann Versand-Dokumente auf zwei verschiedene Drucker ausgeben.
 *  Unterstützt DirectPrint und auch automatisierter Druck (Knopf "Bestätigen" drucken und Dokument wird gleich gedruckt),
-*   Unterstützt mehre Druckerfabrikate
-*   Kosten: einmalig Euro 199
+* Unterstützt mehre Druckerfabrikate
+* Kosten: einmalig Euro 199
 
 OCA-Programm in GitHub
 * Odoo 14.0 (<https://github.com/OCA/report-print-send/tree/14.0/base_report_to_printer>)
 * Kostenlos
 * mehrere Drucker und innerhalb der Drucker verschiedne Fächer
 
-### Analayse
+### Analyse
 
 Entscheidend ist wie lokale Drucker in die off-premise Odoo-Umgebung eingebunden werden können. Bei Ventor wird das mit [PrintNode](https://www.printnode.com/en) ermöglicht.
 

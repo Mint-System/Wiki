@@ -2,7 +2,6 @@
 
 App zur effizienten Lager- und Warehouseverwaltung.
 
-
 Website: <https://ventor.app>
 
 ## Installation
