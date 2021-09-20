@@ -1,4 +1,4 @@
-![[Banner Odoo Hosting Mintsys Cloud.jpg]]
+![[Banner Odoo Hosting Mintsys cloud.jpg]]
 
 # Odoo Hosting - Mintsys Cloud
 

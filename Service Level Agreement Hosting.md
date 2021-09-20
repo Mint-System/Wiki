@@ -1,4 +1,4 @@
-![[Banner Metrics.png]]
+![[Banner Hosting SLA.png]]
 
 # Service Level Agreement Hosting
 Version: 2021-09-16
