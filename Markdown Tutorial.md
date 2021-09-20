@@ -53,40 +53,34 @@ Output:
 
 Zur Basissyntax von Markdown gibt es verschiedene [Erweiterungen](https://www.markdownguide.org/extended-syntax/).
 
-### Docsify
+### Vuepress
 
-Das Set an Markdown-Befehlen wurde von Dritten erweitert. Mit [Docsify](https://docsify.js.org/) können umfassende Dokumentationen erstellt werden.
+Das Set an Markdown-Befehlen wurde von Dritten erweitert. [[Vuepress]] können zusätzliche Markdown-Formatierungen verwendet werden.
 
-#### Wichtig
+#### Markierung
+
+Um Inhalte speziell zu markieren gibt es diese Optionen.
 
 Markup:
 ```
-!> Wichtige Notiz
+::: tip
+Info
+:::
+
+::: warning
+Warnung
+::: tip
 ```
 
 Output:
 
-!> Wichtige Notiz
+::: tip
+Info
+:::
 
-#### Tabs
-
-Markup:
-```
-<!-- tabs:start -->
-#### **Schritt 1**
-Schritt 1
-#### **Schritt 2**
-Schritt 2
-<!-- tabs:end -->
-```
-
-Output:
-<!-- tabs:start -->
-#### **Schritt 1**
-Schritt 1
-#### **Schritt 2**
-Schritt 2
-<!-- tabs:end -->
+::: warning
+Warnung
+:::
 
 ### GitHub
 
