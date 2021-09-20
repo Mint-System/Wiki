@@ -41,3 +41,18 @@ Notiz(*Note*)
 Erstellt man eine Überersetzung eines ganzen Artikels, so fügt man unter dem Titel der Notiz die folgende Definition ein: `Übersetzung: [[Titel.en]]`.
 
 Ein Beispiel dazu ist [[Richtlinie - Projektmanagement]].
+
+## Metadaten
+
+Für Markdown-Dateien können nach dem Frontmatter-Schema Metadaten definiert werden.
+
+```yaml
+---
+publish: false
+tags:
+- Nextcloud
+---
+
+# Titel
+...
+```

@@ -12,4 +12,4 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Der eigene Messenger für ihre Schule]]\
 [[Odoo Customizing ohne zukünftige Einschränkungen]]\
 [[Neuerungen in Odoo 15]]\
-[[Spam reduzieren mit SPF, DKIM und DMARC]]
+[[Spam reduzieren mit SPF, DKIM und DMARC]]\
