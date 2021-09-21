@@ -17,12 +17,6 @@ Auswahl:
 * Odoo Cloud Notification Client (OCN) (ocn_client) #Odoo13
 * Web-Enterprise (web_enterprise) #Odoo13-14
 
-## 3 Implementation
-
-Arbeitsschritte:
-* Stammdaten gemäss [[Odoo Datenmanagement]] importieren
-* Systemparameter `web.base.url` mit https ergänzen
-
 ### Login Mint System
 Integration in [[Login Mint System]].
 
