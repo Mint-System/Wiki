@@ -1,6 +1,6 @@
 # Richtlinie - Finanzen
 
-## Bank-Buchungen ausgleichen
+## Ausgleich Bank-Buchungen
 
 Beim Ausgleichen von Bank-Buchungen, die folgenden Punkte beachten:
 
@@ -8,3 +8,7 @@ Beim Ausgleichen von Bank-Buchungen, die folgenden Punkte beachten:
 * **Fördergelder**: Auf Konto 8510 buchen
 * **Bankspesen**: Auf Konto 6910 buchen
 * **Lohnbuchungen**: Ignorieren und auf 0 setzen
+
+## Zahlungen
+
+Es gilt: Alle eingehenden Zahlungen sind Bank-Belege und alle ausgehenden Zahlungen sind SEPA-Zahlungen. Es dürf keine manuellen Zahlungen für ausgehende Rechnungen erstellt werden.

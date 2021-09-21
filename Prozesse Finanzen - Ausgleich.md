@@ -8,7 +8,7 @@ Arbeitsschritte:
 * Unter Datentransfer die Kontodaten als camt.053 XML-Datei mit Details herunterladen
 * Die Datei unter *Finanzen > Datentransfer* ablegen
 * Datei importieren *Finanzen > Übersicht > Journal Bank > Import*
-* Die einzelnen Transaktionen mit Rechnungen abgleichen und dabei [[Richtlinie - Finanzen#Bank-Buchungen ausgleichen]] beachten
+* Die einzelnen Transaktionen mit Rechnungen abgleichen und dabei [[Richtlinie - Finanzen#Ausgleich Bank-Buchungen]] beachten
 
 ::: tip
 **Hinweis zu Export bei Raiffeisenbank**
