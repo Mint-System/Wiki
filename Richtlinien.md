@@ -14,3 +14,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Softwareentwicklung]]
 * [[Richtlinie - Calc Dokumente]]
 * [[Richtlinie - Aufgabenverwaltung]]
+* [[Richtlinie - Finanzen]]
