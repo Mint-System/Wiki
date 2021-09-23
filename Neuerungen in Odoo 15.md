@@ -8,6 +8,9 @@ publish: false
 
 <https://runbot.odoo.com>
 
+## eCommerce
+Der Webshop hat neue Designs erhalten. Auch kann der Artikel im Shop einfach überandere Medien wie zum Beispiel Twitter oder Facebook geteilt werden.
+
 ## Anwesenheit
 
 **Überstunden**
@@ -47,6 +50,12 @@ Für jedes Projekt kann man fortlaufend ein Bericht zum Projektstatus generieren
 **Auseinander**
 
 Neu können gefertigte Produkte wieder auseinander genommen werden.
+
+
+## Verkäufe
+**neue Spalte in der Ansicht der Verkäufe**
+
+Die neue Spalte "nächste Aktivität" zeigt auf einem Blick an, was zu dieser Verkaufsauftrag als nächstes ansteht. Selbstverständlich lässt sich diese Spalte sortieren oder filtern.
 
 
 ## Editor

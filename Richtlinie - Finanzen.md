@@ -5,9 +5,10 @@
 Beim Ausgleichen von Bank-Buchungen, die folgenden Punkte beachten:
 
 * **Darlehen**: Direkt auf Darlehenskonto des Mitarbeitenden buchen
-* **Fördergelder**: Auf Konto 8510 buchen
-* **Bankspesen**: Auf Konto 6910 buchen
+* **Fördergelder**: Auf Konto *8510 Ausserordentlicher, einmaliger oder periodenfremder Ertrag* buchen
+* **Bankspesen**: Auf Konto *6910 Bankspesen* buchen
 * **Lohnbuchungen**: Ignorieren und auf 0 setzen
+* **Währungsdifferenzen**: Auf *4906 Währungsdifferenzen* buchen
 
 ## Zahlungen
 

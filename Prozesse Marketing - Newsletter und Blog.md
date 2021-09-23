@@ -7,9 +7,11 @@ Texte für Newsletter und Blog werden in der Notizen-App von Odoo unter der Spal
 ## Empfängerliste aktualisieren
 
 Arbeitsschritte:
-* Alle Kontakte mit Stichtwort *Newsletter* exportieren
+* Anzeigen der abgemeldeten Kontakte in der Empfängerliste
+* Entfernen Newsletter-Tag in Konakte Mint System
+* Alle Kontakte mit Stichtwort *Newsletter* und mit ID exportieren
 * Öffnen Empfängerliste im Odoo E-Mail-Marketing
-* Importieren der Kontaktliste
+* Importieren der exportierten Kontaktliste
 
 ## Newsletter versenden
 

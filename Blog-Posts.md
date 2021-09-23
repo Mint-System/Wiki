@@ -2,6 +2,13 @@
 
 Hier entstehen Entwürfe für neue Blog-Posts:
 
+## Entwurf
+
+[[Odoo Experience 2021]]\
+[[Neuerungen in Odoo 15]]\
+
+## Veröffentlicht
+
 [[Applikation mit Odoo entwickeln]]\
 [[System-Überwachung mit Prometheus und Grafana]]\
 [[Success Story Kleinbrauerei Stiärbiär AG]]\
@@ -11,5 +18,4 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Den eigenen Login-Anbieter mit Keycloak]]\
 [[Der eigene Messenger für ihre Schule]]\
 [[Odoo Customizing ohne zukünftige Einschränkungen]]\
-[[Neuerungen in Odoo 15]]\
 [[Spam reduzieren mit SPF, DKIM und DMARC]]\

@@ -6,7 +6,7 @@ publish: true
 
 Mit diesem Beitrag möchten wir einen Einblick in eine komplexe Thematik geben: Spam.
 
-Spam verursacht tagtäglich Kosten in Millardenhöhe. E-Mail-Server werden geflutet, Mails landen fälschlicherweise im Spamordner und unerfahrene Anwender werden mit Mails "gefischt". Ebenso viele Massnahmen gibt es dagegen. Gerade aktuell ist SPF, DKIM und DMARC. Jeder Administrator sollte diese kryptischen Begriffe kennen.
+Spam verursacht tagtäglich Kosten in Miliardenhöhe. E-Mail-Server werden geflutet, Mails landen fälschlicherweise im Spamordner und unerfahrene Anwender werden mit Mails "gefischt". Ebenso viele Massnahmen gibt es dagegen. Gerade aktuell ist SPF, DKIM und DMARC. Jeder Administrator sollte diese kryptischen Begriffe kennen.
 
 ## Versand und Empfang von E-Mails
 

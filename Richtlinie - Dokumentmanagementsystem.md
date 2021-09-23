@@ -15,6 +15,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Data                          | Speicherung von Anwendungsdaten.  Beispielsweise Passwort-Dateien von [[KeePassXC]]                                |
 | Development                   | Entwicklung Odoo und System Engineering                                                                            |
 | Finanzen                      | Finanz- und Kontenplan                                                                                             |
+| Finanzen Datentransfer        | Alle camt.53 und pain.001 Dateien werden hier abgelegt                                                             |
 | Förderbeiträge                | Dokumente Sponsoring Mint System                                                                                   |
 | Geschäftsführung              | Strategische Informationen                                                                                         |
 | Gründung                      | Gründungsdokumente                                                                                                 |

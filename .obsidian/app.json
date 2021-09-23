@@ -1,15 +1,4 @@
 {
-  "obsidianCss": true,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assets",
-  "strictLineBreaks": true,
-  "trashOption": "local",
-  "spellcheck": false,
-  "promptDelete": false,
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets"
 }

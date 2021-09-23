@@ -22,7 +22,3 @@ iOS: https://apps.apple.com/us/app/nexphone-ag-ipcall/id979545853
 Telefonate ins Mobilfunknetz kosten zu viel. Die Sprachqualität ist schlecht und die App funktioniert nicht korrekt.
 
 Entscheid: Neuer Telefonanbieter suchen. [[Evaluation Telefonieanbieter]]
-
-### Client
-
-*Kunden-Bereich > Telefonie > SIP Einstellungen*
