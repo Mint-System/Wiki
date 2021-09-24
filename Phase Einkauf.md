@@ -2,7 +2,9 @@
 
 Tätigkeiten:
 
-* 
+* Die Lieferanten Preislisten importieren
+* Lead-Times festlegen
+* Mindestbestandsregeln einrichten
 
 Ergebnis: Alle Daten zum Einkaufen der Produkte sind bereit.
 

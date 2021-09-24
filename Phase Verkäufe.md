@@ -2,9 +2,8 @@
 
 Tätigkeiten:
 
-* Die Lieferanten Preislisten importieren
-* Lead-Times festlegen
-* Mindestbestandsregeln einrichten
+* Formalien definieren
+* Lieferbedingungen festlegen
 
 Ergebnis: Alle Daten zum Verkaufen sind bereit.
 

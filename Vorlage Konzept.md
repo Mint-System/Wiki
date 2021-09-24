@@ -72,7 +72,7 @@ Bezüglich der Lizenzierung von Odoo steht der Kunde direkt mit Odoo S.A. in Ver
 
 ### Vorgehen
 
-Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für ERP Projekte](https://cloud.mint-system.ch/s/cPnnr7yjPApL8YG). Die einzelnen Projektphasen sind im folgenden Abschnitt erläutert. Daraus leitet sich die Aufwandsschätzung ab.
+Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für Odoo Projekte](https://wiki.mint-system.ch/vorgehensmodell-odoo-projekte.html). Die einzelnen Projektphasen sind im folgenden Abschnitt erläutert. Daraus leitet sich die Aufwandsschätzung ab.
 
 Siehe [[Phasen Textbausteine]].
 
@@ -81,6 +81,8 @@ Siehe [[Phasen Textbausteine]].
 Zu diesem Zeitpunkt ist Odoo für alle Benutzer verfügbar. Es wird mit dem System gearbeitet, Nachschulungen werden situativ durchgeführt und noch vorhandene technische Unzulänglichkeiten behoben.
 
 Das Projektteam ist zur Unterstützung der Mitarbeitenden verfügbar und hilft zeitnah in allen Aspekten der Anwendung des Systems.
+
+**Second Deployment**
 
 ### Referenzen
 

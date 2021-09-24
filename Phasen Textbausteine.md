@@ -40,40 +40,40 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 [[Phase Versand|Phase X: Versand]]
 
-[[Phase Odoo Entwicklung|Phase x: Odoo Entwicklung]]
+[[Phase Odoo Entwicklung|Phase X: Odoo Entwicklung]]
 
-[[Phase Odoo Berichte|Phase x: Odoo Bericht]]
+[[Phase Odoo Berichte|Phase X: Odoo Bericht]]
 
-[[Phase Personal|Phase x: Personal]]
+[[Phase Personal|Phase X: Personal]]
 
-[[Phase An- und Abwesenheitszeiten|Phase x: An- und Abwesenheitszeiten]]
+[[Phase An- und Abwesenheitszeiten|Phase X: An- und Abwesenheitszeiten]]
 
-[[Phase Terminal Zeiterfassung|Phase x: Terminal Zeiterfassung]]
+[[Phase Terminal Zeiterfassung|Phase X: Terminal Zeiterfassung]]
 
-[[Phase Website Blog|Phase x: Website Blog]]
+[[Phase Website Blog|Phase X: Website Blog]]
 
-[[Phase Website Forum|Phase x: Website Forum]]
+[[Phase Website Forum|Phase X: Website Forum]]
 
-[[Phase Website Event|Phase x: Website Event]]
+[[Phase Website Event|Phase X: Website Event]]
 
-[[Phase Entwicklung Website Theme|Phase x: Entwicklung Website Theme]]
+[[Phase Entwicklung Website Theme|Phase X: Entwicklung Website Theme]]
 
-[[Phase Anpassungen Website|Phase x: Anpassungen Website]]
+[[Phase Anpassungen Website|Phase X: Anpassungen Website]]
 
 ### [[Softwareentwicklungsprojekte]]
 
-[[Phase Anforderungsanalyse|Phase x: Anforderungsanalyse]]
+[[Phase Anforderungsanalyse|Phase X: Anforderungsanalyse]]
 
-[[Phase Software-Entwicklung|Phase x: Software-Entwicklung]]
+[[Phase Software-Entwicklung|Phase X: Software-Entwicklung]]
 
 ### [[Beratungsprojekte]]
 
-[[Phase Aufnahme Assets|Phase x: Aufnahme Assets]]
+[[Phase Aufnahme Assets|Phase X: Aufnahme Assets]]
 
-[[Phase Anforderungsanalyse|Phase x: Anforderungsanalyse]]
+[[Phase Anforderungsanalyse|Phase X: Anforderungsanalyse]]
 
-[[Phase Softwareevaluation|Phase x: Softwareevaluation]]
+[[Phase Softwareevaluation|Phase X: Softwareevaluation]]
 
-[[Phase Projekteingabe|Phase x: Projekteingabe]]
+[[Phase Projekteingabe|Phase X: Projekteingabe]]
 
-[[Phase Roadmap|Phase x: Roadmap]]
+[[Phase Roadmap|Phase X: Roadmap]]

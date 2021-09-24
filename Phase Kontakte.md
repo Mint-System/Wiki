@@ -41,6 +41,7 @@ Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 - Datenimport Kontakte prüfen
 
 ## Bankkonten einrichten
+
 **Bankverzeichnis und Bankkonten**
 - Ist das vorhandenen *Bankverzeichnis* ausreichend? Falls nein: Welche gibt es zusätzlich?
 - Sind die vorhandenen *Bankkonten* ausreichend? Falls nein: Welche gibt es zusätzlich?
