@@ -5,6 +5,8 @@ Tätigkeiten:
 * Die Lieferanten Preislisten importieren
 * Lead-Times festlegen
 * Mindestbestandsregeln einrichten
+* Die Lieferantenbewertung einrichten
+* Spezifische Eingangsprüfungen parametrisieren (z.B. gemäss Norm EN 9100)
 
 Ergebnis: Alle Daten zum Einkaufen der Produkte sind bereit.
 

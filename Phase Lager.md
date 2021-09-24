@@ -7,6 +7,9 @@ Tätigkeiten:
 * Die Lager beschriften
 * Den Verpackungs-Vorgang einrichten
 * Das Barcode Scanning aktivieren
+* Vorgang zur Identifikation und Dokumentation von Gefahrenstoffen definieren
+* Spezielle Lagerbedingungen umsetzen
+* Die Prüfmittelüberwachung implementieren
 
 Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 

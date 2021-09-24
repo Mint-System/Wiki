@@ -6,6 +6,7 @@ Tätigkeiten:
 * Die Verträge erfassen und zuweisen
 * Die Abzüge der Arbeitgeber/Arbeitnehmer in den Stammdaten eintragen
 * Die Konfiguration der Lohnarten vornehmen
+* Die datev-Schnittstelle einrichten
 
 Ergebnis: Lohnabrechnung mit Odoo.
 

@@ -6,6 +6,8 @@ Tätigkeiten:
 * Die Fertigungs-Routen definieren
 * Arbeitspläne erfassen
 * Notwendige Qualitätsschritte einfügen
+* Relationen auf verwendetes Equipment sicherstellen
+* Die Strategie zur Verwendung von Varianten festlegen
 
 Ergebnis: Alle Daten zum Fertigen der Produkte sind bereit.
   

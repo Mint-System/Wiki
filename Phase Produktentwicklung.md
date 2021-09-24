@@ -4,6 +4,9 @@ Tätigkeiten:
 
 * Alle Produkte importieren
 * Stücklisten definieren
+* Die Zuordnung von Produktzeichnungen einrichten
+* Die Rückverfolgbarkeit des Ursprungslands einstellen
+* Die Erfassung der Zolltarifnummer definieren
 
 Ergebnis: Alle Produkte sind definiert.
 

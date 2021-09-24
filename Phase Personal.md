@@ -5,11 +5,13 @@ Tätigkeiten:
 * Adressen des Personal erfassen
 * Arbeitsverträge einrichten
 * Organisation und Genehmigungsprozess abbilden
-- Abteilungen erfassen inklusive der Hierarchie
-- Die Adressen des Personals importieren
-- Mitarbeiter erfassen und mit Odoo-Benutzer verknüpfen
-- Rollen und Berechtigungen erteilen
-- Arbeitszeiten festlegen
+* Abteilungen erfassen inklusive der Hierarchie
+* Die Adressen des Personals importieren
+* Mitarbeiter erfassen und mit Odoo-Benutzer verknüpfen
+* Rollen und Berechtigungen erteilen
+* Arbeitszeiten festlegen
+* Die Funktions- und Kompetenzmatrix einrichten
+* Die Schulungsplanung und -Überwachung definieren
 
 Ergebnis: Die Personaldaten der Mitarbeiter sind erfasst.
 
