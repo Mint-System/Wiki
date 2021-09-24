@@ -10,13 +10,13 @@ Ein Angebot hat diese Struktur:
 
 * Beschreibung: Einleitungstext
 * Auftragszeilen:
-	* 	Abschnitt: Projektarbeit (Abrechnung nach Aufwand)
-	* 	Abschnitt: Zusätzliche Lizenzkosten
-	* 	Abschnitt: Monatliche Kosten
+	* Abschnitt: Projektarbeit (Abrechnung nach Aufwand)
+	* Abschnitt: Zusätzliche Lizenzkosten
+	* Abschnitt: Monatliche Kosten
 		* Produkt mit Notiz *Details zum Produkt: HTTPS_LINK*
-* 	Optionen:
-	* 	Produkt mit Notiz *Details zum Produkt: HTTPS_LINK*
-* 	Bedingungen und Konditionen 	
+* Optionen:
+	* Produkt mit Notiz *Details zum Produkt: HTTPS_LINK*
+* Bedingungen und Konditionen 	
 
 ## Textbausteine
 
@@ -95,14 +95,17 @@ Hervorgehende Rechte und Pflichten aus dem Projektvertrag können nach Erbringun
 Lizenzierung:  
 Der entwickelte Softwarecode untersteht der [[GNU GPLv3 Lizenz]].
 
+### Kündigung
+
+Kündigung:  
+Unter einhalt der Kündigungsfrist von einem Monat kann der Hosting-Vertrag auf Ende der Verrechnungsperiode gekündigt werden.
+
 ### Abrechnung
 
 Abrechnung Fixpreis:  
 Die Abrechnung der offerierten Leistungen erfolgt einmalig.
 
-### Abrechnung
-
-Kostendach:
+Kostendach:  
 Der Kostendachpreis ist der maximale Preis, den der Kunde für die im Angebot vereinbarte Leistung bezahlen muss. Es versteht sich, dass das Kostendach bei Projektänderungen angepasst werden muss.
 
 ### Spesen
@@ -116,5 +119,5 @@ Reisezeit und Kilometer werden pauschal zu CHF verrechnet.
 Keine Spesen:  
 Für die Projektarbeit und Reiszeit werden keine Spesen verrechnet.
 
-Reisepesen Pauschal:
+Reisepesen Pauschal:  
 Für die Reisezeit und -kosten (Altdorf - Zürch) verrechnen wir Pauschal je Ereignis CHF 250.00. Weitere Spesen werden nach Aufwand verrechnet.
