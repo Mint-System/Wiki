@@ -27,4 +27,5 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Pan      | Server Light Wing AG               | pan.mint-system.com      | Hosttech  |
 | Artemis  | Server Trimada AG                  | artemis.mint-system.com  | Hetzner   |
 | Hyperion | Server Digital Cluster Uri         | hyperion.mint-system.com | ExoScale  |
-| poseidon | Server Basis75                     | poseidon.mint-system.com | ExoScale  |
+| Poseidon | Server Basis75                     | poseidon.mint-system.com | ExoScale  |
+| Sanjose  | Server HFMTS                       |                          | Hosttech  |

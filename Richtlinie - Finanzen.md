@@ -9,6 +9,7 @@ Beim Ausgleichen von Bank-Buchungen, die folgenden Punkte beachten:
 * **Bankspesen**: Auf Konto *6910 Bankspesen* buchen
 * **Lohnbuchungen**: Ignorieren und auf 0 setzen
 * **Währungsdifferenzen**: Auf *4906 Währungsdifferenzen* buchen
+* **Doppelt bezahlt**: Zahlung auf *2000 Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)* buchen und für Gutschrift die Buchung wieder auswählen
 
 ## Zahlungen
 
