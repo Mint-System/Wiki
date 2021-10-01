@@ -9,3 +9,7 @@ Tätigkeiten:
 * Globale Formatvorlagen erfassen
 
 Ergebnis: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
+
+## Titel definieren
+**Nummerierung**
+- Wird der Odoo-Standard verwendet?
