@@ -8,10 +8,6 @@ Domains owned by Mint System:
 | nextcloud.build        | None                   | Main     |
 | odoo.build             | Odoo Development       | Main     |
 | odoo-wiki.ch           | Odoo Handbuch          | Main     |
-| cluster-uri.ch         | digital-cluster-uri.ch | Redirect |
-| digital-uri.ch         | digital-cluster-uri.ch | Redirect |
-| uri-digital.ch         | digital-cluster-uri.ch | Redirect |
-| digital-cluster-uri.ch | None                   | Main     |
 | openerp.ch             | Website Mint System    | Redirect |
 | odoo-erp.ch            | Website Mint System    | Redirect |
 | mintsys.org            | Website Mint System    | Redirect |
@@ -25,7 +21,11 @@ Domains owned by Mint System:
 
 Domains managed by Mint System:
 
-| Domain            | Target                 | Type |
-| ----------------- | ---------------------- | ---- |
-| lightwing.ch      | Website Light Wing     | Main |
-| schule-sisikon.ch | Website Schule Sisikon | Main |
+| Domain                 | Target                      | Type     |
+| ---------------------- | --------------------------- | -------- |
+| lightwing.ch           | Website Light Wing          | Main     |
+| schule-sisikon.ch      | Website Schule Sisikon      | Main     |
+| cluster-uri.ch         | digital-cluster-uri.ch      | Redirect |
+| digital-uri.ch         | digital-cluster-uri.ch      | Redirect |
+| uri-digital.ch         | digital-cluster-uri.ch      | Redirect |
+| digital-cluster-uri.ch | Website Digital Cluster Uri | Main     |

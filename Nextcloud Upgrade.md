@@ -7,20 +7,20 @@ Description of the Nextcloud upgrade process.
 Define config.
 
 ```
-export NEXTCLOUD_CONTAINER=nextcloud02
-export DATABASE_CONTER=postgres07
+export NEXTCLOUD_CONTAINER=nextcloud03
+export DATABASE_CONTER=postgres11
 ```
 
 Backup volumes and database.
 
 ```
-docker-volume-backup -c $CONTAINER -a
+docker-volume-backup -c $NEXTCLOUD_CONTAINER -a
 docker-postgres-backup -c $DATABASE_CONTER -a
 ```
 
 Update Nextcloud image tag and deploy.
 
-`nextcloud_image: nextcloud:22.1.0-apache`
+`nextcloud_image: nextcloud:21.1.0-apache`
 
 Tail the log while the upgrade is performed
 
