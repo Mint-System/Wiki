@@ -173,7 +173,7 @@ Odoo is a framework for developing business applications [^3].
 **Certificate Planner**
 
 Repo: <https://github.com/Mint-System/Certificate-Planner>\
-Manual: <https://odoo-wiki.ch/certificate-planner.html>
+Manual: <https://www.odoo-wiki.org/certificate-planner.html>
 
 ---
 ### Demo

@@ -201,7 +201,7 @@ Odoo Open Source Community
 
 * https://www.odoo.com
 * https://github.com/odoo
-* https://odoo-wiki.ch
+* https://www.odoo-wiki.org
 * https://wiki.mint-system.ch
 * https://www.odoo.com/pricing
 

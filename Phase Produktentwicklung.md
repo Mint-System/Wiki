@@ -13,7 +13,7 @@ Ergebnis: Alle Produkte sind definiert.
 ## Produkte einrichten (Stufe 1)
 In einer ersten Stufe werden die wichtigsten Daten erfasst. Nach einer Phase der Validierung erfolgt in der zweiten Stufe die finale Definition und Import.
 
-Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die Daten aus dem [Prozess Produktentwicklung](https://odoo-wiki.ch/prozess-produktentwicklung.html) sind deshalb die Grundlage zur Definition der Produkte auf Stufe 1.
+Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die Daten aus dem [Prozess Produktentwicklung](https://www.odoo-wiki.org/prozess-produktentwicklung.html) sind deshalb die Grundlage zur Definition der Produkte auf Stufe 1.
 
 **Produktname und Interne Referenz**
 
@@ -25,20 +25,20 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 **Verkaufsartikel/Einkaufsartikel**
 
- [Beschreibung im Handbuch](https://odoo-wiki.ch/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
+ [Beschreibung im Handbuch](https://www.odoo-wiki.org/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
 
 - Welche Produkte können verkauft werden?
 - Welche Produkte können eingekauft werden?
 
 **Produktart**
 
-[Beschreibung im Handbuch](https://odoo-wiki.ch/fertigung-stammdaten.html#produktart)
+[Beschreibung im Handbuch](https://www.odoo-wiki.org/fertigung-stammdaten.html#produktart)
 
 - Wie werden die Produkte in der Lagerverwaltung berücksichtigt?
 
 **Strichcode**
 
-[Beschreibung im Handbuch](https://odoo-wiki.ch/strichcode.html#strichcode)
+[Beschreibung im Handbuch](https://www.odoo-wiki.org/strichcode.html#strichcode)
 
 - Werden die Produkte mit einem Strichcode bezeichnet? ⭐
 - Wie setzt sich der Strichcode zusammen? ⭐
