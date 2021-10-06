@@ -45,10 +45,10 @@ Die Sequenz in Odoo 14 wird über *Finanzen > Kunden > Rechungen* festgelegt. Da
 Arbeitsschritte:
 * Kontennamen übersetzen
 
-Name | Übersetzung
--|-
-Outstanding Receipts | Ausstehende Belege
-Outstanding Payments | Ausstehende Zahlungen
+| Name                 | Übersetzung           |
+| -------------------- | --------------------- |
+| Outstanding Receipts | Ausstehende Belege    |
+| Outstanding Payments | Ausstehende Zahlungen |
 
 ### Steuern festlegen
 

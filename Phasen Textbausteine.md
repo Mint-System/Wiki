@@ -12,6 +12,8 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 [[Phase Odoo Initialisierung|Phase X: Odoo Initialisierung]]
 
+[[Phase Inbetriebnahme Hardware|Phase X: Inbetriebnahme Hardware]]
+
 [[Phase Kontakte|Phase X: Kontakte]]
 
 [[Phase Website|Phase X: Website]]
