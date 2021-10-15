@@ -1,8 +1,9 @@
 # Ansible Playbooks
-Collection of ansible playbooks and roles. 
+The Mint System collection of Ansible playbooks and roles.
 
-Page: https://github.com/Mint-System/Ansible-Playbooks
+Website: <https://ansible.build>\
+Repository: <https://github.com/mint-system/ansible-playbooks>
 
 ## Inventories
 
-The Ansible inventory of Mint System is stored secretly in https://gitlab.com/mint-system/ansible-inventories.
+The Ansible inventory of Mint System is stored secured in <https://gitlab.com/mint-system/ansible-inventories>.

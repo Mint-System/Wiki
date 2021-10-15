@@ -6,6 +6,7 @@ Domains owned by Mint System:
 | ------------------ | ------------------- | -------- |
 | odoo-wiki.org      | Odoo Handbuch       | Main     |
 | nextcloud.build    | None                | Main     |
+| ansible.build      | Ansible Playbooks   | Main     |
 | odoo.build         | Odoo Development    | Main     |
 | odoo-wiki.ch       | Odoo Handbuch       | Redirect |
 | openerp.ch         | Website Mint System | Redirect |

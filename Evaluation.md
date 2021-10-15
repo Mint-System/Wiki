@@ -1,5 +1,7 @@
 # Evaluation
 
+Evaluation einer Softwarelösung.
+
 ## Kriterien
 
 Kriterien zur Evaluation einer Lösung.
@@ -9,6 +11,8 @@ Kriterien zur Evaluation einer Lösung.
 * Randbedingungen
 
 ## Evaluationen
+
+Erledigte Evaluationen:
 
 [[Evaluation IaaS]]  
 [[Evaluation Odoo Report]]  

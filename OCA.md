@@ -1,4 +1,4 @@
-# Odoo OCA
+# OCA
 [[Odoo Community Association]]
 
 Details of the OCA modules

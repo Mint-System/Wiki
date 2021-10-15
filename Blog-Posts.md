@@ -6,6 +6,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 [[Odoo Experience 2021]]\
 [[Neuerungen in Odoo 15]]\
+[[Odoo 15 und die Odoo Partner Days]]
 
 ## Veröffentlicht
 

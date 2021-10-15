@@ -1,4 +1,0 @@
-# Management Handbuch
-
-## Kundenanfrage
-

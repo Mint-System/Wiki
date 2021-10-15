@@ -4,7 +4,7 @@ Geschäftsbeziehungen der Mint System.
 ## Odoo Partner
 
 [[Odoo S.A.]]\
-[[Odoo OCA]]\
+[[OCA]]\
 [[giordano.ch ag]]\
 [[Equitania Software GmbH]]\
 [[Syscoon GmbH]]

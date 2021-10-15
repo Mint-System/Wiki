@@ -87,7 +87,3 @@ Das Projektteam ist zur Unterstützung der Mitarbeitenden verfügbar und hilft z
 ### Referenzen
 
 Siehe [[Mint System Referenzen]].
-
-### Projektmanagement
-
-Siehe [[Projektmanagement#Vorlage Konzept]].
