@@ -2,6 +2,9 @@
 module.exports = {
     title: 'Wiki Mint System',
     description: 'Wiki Mint System',
+    head: [
+        ['link', { rel: "icon", type: "image/png", href: "icon.png"}],
+    ],
     themeConfig: {
         sidebar: 'auto',
         nav: [
