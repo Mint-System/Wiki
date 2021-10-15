@@ -1,4 +1,3 @@
-
 module.exports = {
     title: 'Wiki Mint System',
     description: 'Wiki Mint System',
