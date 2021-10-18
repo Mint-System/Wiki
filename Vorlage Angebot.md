@@ -2,9 +2,8 @@
 tags:
 - Vorlagen
 ---
-Übersetzung: [[Vorlage Angebot.en]]
-
 # Vorlage Angebot
+Übersetzung: [[Vorlage Angebot.en]]
 
 Ein Angebot hat diese Struktur:
 

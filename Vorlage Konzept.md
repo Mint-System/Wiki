@@ -2,7 +2,6 @@
 tags:
 - Vorlagen
 ---
-
 # Vorlage Konzept
 Übersetzung: [[Vorlage Konzept.en]]
 

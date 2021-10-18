@@ -24,7 +24,7 @@ cd ../..
 
 Depends on [[#Web Action Conditionable]].
 
-### Web Action Conditionable
+~~### Web Action Conditionable~~
 
 Repo: <https://github.com/OCA/web/tree/13.0/web_action_conditionable>
 
