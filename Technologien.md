@@ -14,3 +14,7 @@ Datenbanksystem:
 Identity and Access Management:
 
 * [[Keycloak]]
+
+VPN:
+
+* [[Wireguard]]
