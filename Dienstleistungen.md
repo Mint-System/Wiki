@@ -74,4 +74,4 @@ Preis: 160 CHF pro Stunde
 
 Abrechnung gemäss Arbeitsrapport.
 
-Preis: 90 CHF pro Stunde
+Preis: 100 CHF pro Stunde

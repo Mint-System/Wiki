@@ -5,14 +5,14 @@ Description of the [[Odoo Enterprise Edition]] upgrade process. For [[Odoo Commu
 ## Setup upgrade environment
 
 Create new Odoo instance:
-* Create new Odoo host `$ALIAS-14` by copying the folder
+* Create new Odoo host `$ALIAS-NN` by copying the inventory folder
 * Remove database and backup config
 * Update Odoo config with Odoo 14 revision
 * Bump instance number and change port
 * Register in `hosts.yml` and deploy
 
 Prepare for test upgrade:
-* Remove erp-dev database
+* Remove `erp-dev` database
 * Enable proxy redirect to new instance
 
 ## Upgrade from 13.0 to 14.0
@@ -38,8 +38,7 @@ alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 * Start local development environment
 
 ```bash
-task start db
-task start src
+task start db,native
 ```
 
 * Clear the local filestore and database
@@ -52,11 +51,11 @@ task clear-filestore erp
 * Export remote database to local folder and restore it
 
 ```bash
-odoo-backup ...
-odoo-restore ...
+odoo-backup -d $DATABASE ...
+odoo-restore -f ...
 ```
 
-* Run the upgrade script
+* Run the upgrade script, optionas are `test` and `production`
 
 ```bash
 odoo-upgrade test -d $DATABASE -t 14.0
@@ -68,10 +67,34 @@ It should automatically restore the database.
 
 ```bash
 task checkout 14.0
+task start db,native
 ```
 
-* Test and export database
+* Test and remove unsupported modules
+
+```bash
+export DATABASE="${DATABASE}_backup_2021_10_20_11_11"
+task remove-module $DATABASE web_diagram
+task remove-module $DATABASE auth_oauth_multi_token
+```
+
+* Check custom modules
+
+```
+task odoo-cloc $DATABASE
+```
+
+* Export database
+
+```
+odoo-backup -d $DATABASE -o tmp/.../erp-dev.zip
+```
+
 * Upload database to test environment
+
+```
+odoo-restore -d erp-dev -f tmp/.../erp-dev.zip**0**0**0**1**0l********** ...
+```
 
 **Production**
 
