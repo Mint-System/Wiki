@@ -10,6 +10,10 @@ Tätigkeiten:
 
 Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 
+##  Bankverzeichnis einrichten
+** Banken**
+- Welche Banken werden angelegt?
+
 ## Konten einrichten
 
 **Kontenplan**

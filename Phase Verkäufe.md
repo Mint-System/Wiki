@@ -11,7 +11,9 @@ Ergebnis: Alle Daten zum Verkaufen sind bereit.
 
 **Verkaufspreis**
 
-- Welche Verkaufsregeln sind hinterlegt?
+- Welche Preislisten sind angelegt?
+- Welche Preisberechnungen sind hinterlegt?
+- Welches ist die Standard Preisliste auf den Kontakten?
 
 **Steuern (Verkauf)**
 

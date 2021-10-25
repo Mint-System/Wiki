@@ -1,10 +1,8 @@
 # Grafana
 Dashboard for Promethus metrics.
 
-Website: https://grafana.com
+Website: <https://grafana.com>
 
-Dashboard: https://grafana.com/grafana/dashboards/13052
+## Our Dashboards
 
-## HowTos
-
-[[]]
+Dashboard: <https://grafana.com/grafana/dashboards/13052>

@@ -18,3 +18,11 @@ Identity and Access Management:
 VPN:
 
 * [[Wireguard]]
+
+Druckserver:
+
+* [[CUPS]]
+
+Mintoring:
+
+* [[Grafana]]

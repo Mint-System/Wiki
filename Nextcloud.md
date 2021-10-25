@@ -10,7 +10,9 @@ Website: <https://nextcloud.com/>
 [[Nextcloud Troubleshooting]]\
 [[Nextcloud Handbuch]]\
 [[Nextcloud Painpoints]]\
-[[Nextcloud Apps]]
+[[Nextcloud Apps]]\
+[[Nextcloud Enterprise]]\
+[[Nextcloud Partner]]
 
 ## Usage
  
