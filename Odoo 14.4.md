@@ -2,7 +2,7 @@
 
 ## Bugs
 
-* Forecasted report for products cannot be opened.
+### Forecasted report for products cannot be opened.
 
 On upgrade:
 
@@ -21,3 +21,22 @@ __prepareAndRender@https://erp.trimada.ch/web/content/1120-959706b/web.assets_co
 ```
 
 Workaround: Rollback
+
+### Cron job exits
+
+At some point the cron jobs exits.
+
+```
+2021-10-27 16:33:31,229 1 INFO erp-dev odoo.addons.base.models.ir_cron: Job `Publisher: Update Notification` done.  
+Exception in thread odoo.service.cron.cron0:  
+Traceback (most recent call last):  
+  File "/usr/lib/python3.7/threading.py", line 917, in _bootstrap_inner  
+    self.run()  
+  File "/usr/lib/python3.7/threading.py", line 865, in run  
+    self._target(*self._args, **self._kwargs)  
+  File "/usr/lib/python3/dist-packages/odoo/service/server.py", line 431, in target  
+    self.cron_thread(i)  
+  File "/usr/lib/python3/dist-packages/odoo/service/server.py", line 407, in cron_thread  
+    for db_name, registry in registries.d.items():  
+RuntimeError: OrderedDict mutated during iteration
+```
