@@ -3,14 +3,17 @@ Wie können Dritte und Mitarbeiter der [[Mint System GmbH]] diese Wissensdatenba
 
 ## Verwendung
 
+Technische Konfigurationen damit sie an der Wissensdatenbank mitarbeiten können.
+
 ### Initialisierung
 
 1. Erstellen sie einen Account auf <https://github.com/>
-2. Werden sie Mitgleid bei <https://github.com/Mint-System/>
+2. Werden sie Mitgleid bei <https://github.com/Mint-System/> (optional)
 3. Installieren sie <https://obsidian.md/>
 4. Installieren sie <https://git-scm.com/>
 5. Erstellen sie ein SSH-Schlüsselpaar <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
-6. Klonen sie das *Wiki Mint System* Repository
+6. Forken sie das *Wiki Mint System* Repository (optional)
+7. Klonen sie das *Wiki Mint System* Repository
 
 ```bash
 git clone git@github.com:Mint-System/Wiki.git
@@ -30,7 +33,7 @@ Aktualisieren sie das lokale Git Repository.
 
 **Push**
 
-Ihre Änderungen werden gespeichert und auf <https://github.com/Mint-System/Wiki> hochgeladen.
+Ihre Änderungen werden gespeichert und auf <https://github.com/Mint-System/Wiki> mitgeteilt.
 * <kbd>ctrl + p</kbd> drücken
 * Befehl `Obisdian Git: Create backup` ausführen
 
