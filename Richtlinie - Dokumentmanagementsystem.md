@@ -28,6 +28,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Mitgliedschaften/[Name]       | Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen                                              |
 | News                          | Neuigkeiten aus Medien                                                                                             |
 | Newsletter                    | Dokumente zum Newsletter Mint System                                                                               |
+| Nextcloud                     | Nextcloud Dokumente                                                                                                |
 | Odoo                          | Odoo Dokumente                                                                                                     |
 | Odoo Handbuch                 | Das Odoo Handbuch ist eine Referenzdokumentation der Odoo-Prozesse und bietet eine umfangreiche Benutzeranleitung. |
 | Partner                       | Dokumente zu unseren Partner                                                                                       |

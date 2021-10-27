@@ -1,4 +1,4 @@
-## Präsentation
+## Odoo and Nextcloud
 Dokumente verwalten mit Odoo und/oder Nextcloud.
 
 ---
@@ -44,18 +44,16 @@ Bekannte Herausforderungen im Umgang mit Dokumenten.
 	* Notizbuch
 	* Signatur
 ---
-### WebDav [^1]
+### WebDav
 
-Der neue (alte) Standard zur Bereitstellung von Dateien übers Internet (HTTP).
+Der neue (alte) Standard zur Bereitstellung von Dateien übers Internet (HTTP).[^1]
 
 ![[Map WebDav Folder.png]]
 
 ---
-### WebDav [^2]
-
 * Offener Standard für Dateiaustausch
 * Versionierung
-* UUID (Universal Unique Identifier) für Dokumente
+* UUID (Universal Unique Identifier) für Dokumente[^2]
 * Prüfsumme
 
 ---
@@ -119,12 +117,12 @@ Nextcloud kann überall installiert werden.
 ### Demo
 
 Nextcloud:
-* https://nextcloud.mintsys.ch
+* <https://nextcloud.mintsys.ch>
 * Username **demo**  
 * Password **12demo34**  
 * WebDav: `davs://nextcloud.mintsys.ch/remote.php/dav/files/demo/`
 Odoo Documents:
-* https://runbot.odoo.com/
+* <https://runbot.odoo.com/>
 * Username **admin**  
 * Password **admin**  
 ---
@@ -139,10 +137,10 @@ Odoo Documents:
 ---
 ### Referenzen
 
-* Nextcloud
-	* https://nextcloud.com/industries/engineering/
-* Odoo
-	* https://www.odoo.com/de_DE/customers
+* **Nextcloud**
+	* <https://nextcloud.com/industries/engineering/>
+* **Odoo**
+	* <https://www.odoo.com/de_DE/customers>
 
 ---
 ### Quellen
