@@ -35,15 +35,9 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Topics]]
 * [[Technologien]]
 
-## Darstellung
-
-Die Wissensdatenbank wird mit [[Vuepress]] visualisiert.
-
-## Bearbeitung
+## Mitarbeit
 
 Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
-
-Zur lokalen Bearbeitung erstellt man einen Klon des Git Repo `git clone git@github.com:Mint-System/Wiki.git` und öffnet den Ordner als Obsidian-Vault.
 
 Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]]. 
 
