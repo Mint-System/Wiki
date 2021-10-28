@@ -1,9 +1,9 @@
-## Odoo and Nextcloud
+## Odoo Documents / Nextcloud
 Dokumente verwalten mit Odoo und/oder Nextcloud.
 
 ---
 ### Agenda
-* Herausforderungen Dokumentverwaltung
+* Herausforderungen Dokumentenverwaltung
 * WebDav
 * Nextcloud
 * Odoo Documents
@@ -12,7 +12,7 @@ Dokumente verwalten mit Odoo und/oder Nextcloud.
 * Community vs. Enterprise
 * Diskussion
 ---
-### Herasuforderungen Dokumentverwaltung
+### Herausforderungen Dokumentenverwaltung
 
 Bekannte Herausforderungen im Umgang mit Dokumenten.
 
@@ -46,7 +46,7 @@ Bekannte Herausforderungen im Umgang mit Dokumenten.
 ---
 ### WebDav
 
-Der neue (alte) Standard zur Bereitstellung von Dateien übers Internet (HTTP).[^1]
+Der neue (alte) Standard zur Bereitstellung von Dateien über das Internet (HTTP).[^1]
 
 ![[Map WebDav Folder.png]]
 
@@ -116,15 +116,16 @@ Nextcloud kann überall installiert werden.
 ---
 ### Demo
 
-Nextcloud:
+**Nextcloud**
 * <https://nextcloud.mintsys.ch>
-* Username **demo**  
-* Password **12demo34**  
-* WebDav: `davs://nextcloud.mintsys.ch/remote.php/dav/files/demo/`
-Odoo Documents:
+* Username **demo**
+* Password **12demo34**
+
+**Odoo Documents**
 * <https://runbot.odoo.com/>
-* Username **admin**  
-* Password **admin**  
+* Username **admin**
+* Password **admin**
+
 ---
 ### Diskussion
 
@@ -139,6 +140,7 @@ Odoo Documents:
 
 * **Nextcloud**
 	* <https://nextcloud.com/industries/engineering/>
+
 * **Odoo**
 	* <https://www.odoo.com/de_DE/customers>
 
