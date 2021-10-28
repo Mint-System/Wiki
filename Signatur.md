@@ -1,4 +1,7 @@
 # Signatur
+
+Janik von Rotz
+
 ```
 ___
 
@@ -12,10 +15,11 @@ Mail: janik.vonrotz@mint-system.ch
 Tel: 041 541 78 92
 ```
 
+Marco Roeleven
+
 ```
 ___
 
-Marco Roeleven
 CSO
 Mint System GmbH
 Seedorferstrasse 29

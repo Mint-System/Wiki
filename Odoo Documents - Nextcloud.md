@@ -130,9 +130,8 @@ Nextcloud kann überall installiert werden.
 ### Diskussion
 
 * Dreiecksbeziehung Mint System GmbH, Odoo S.A., Nextcloud GmbH
-* Integration mit Services
-* Integrationsmöglichkeiten WebDav
-* Hosting Nextcloud/Odoo
+* Integration mit Services via WebDav
+* Hosting Nextcloud / Odoo
 * Dokumente signieren [^4]
 
 ---
