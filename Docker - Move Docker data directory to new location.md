@@ -14,14 +14,14 @@ Create a config file **/etc/docker/daemon.json**
 
 ```json
 { 
-   "data-root": "/path/to/your/docker" 
+   "data-root": "/mnt/server-disk2/docker" 
 }
 ```
 
 Copy the current directory to the new directory.
 
 ```bash
-sudo cp -rp /var/lib/docker /path/to/your/docker
+sudo cp -rp /var/lib/docker /mnt/server-disk2/docker
 ```
 
 Rename the old directory.

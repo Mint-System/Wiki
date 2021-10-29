@@ -36,7 +36,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Produkte                      | Dokumente zu den Mint System Produkten                                                                             |
 | Projekte/[Name]               | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.                                          |
 | Public Relations              | Zeitungsartikel und allgemeine PR                                                                                  |
-| Rechnungen/([YYYY]/[MM],[MM]) | Rechnung von Lieferanten                                                                                           |
+| Rechnungen/([YYYY]/[MM],[MM]) | Rechnung von Lieferanten gruppiert nach Rechnungsdatum                                                             |
 | Secrets                       | Schlüssel und Passwörter                                                                                           |
 | Steuern/[Jahr]                | Dokumente Unternehmens- und Mehrwertssteuer                                                                        |
 | Spesen/([YYYY]/[MM],[MM])     | Ablage Spesenbelege für Lohnabrechnung                                                                             |

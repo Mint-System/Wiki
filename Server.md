@@ -28,4 +28,4 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Artemis  | Server Trimada AG                  | artemis.mint-system.com  | Hetzner   |
 | Hyperion | Server Digital Cluster Uri         | hyperion.mint-system.com | ExoScale  |
 | Poseidon | Server Basis75                     | poseidon.mint-system.com | ExoScale  |
-| Sanjose  | Server HFMTS                       |                          | Hosttech  |
+| Athena   | Server HFMTS                       | athena.mint-system.com   | Hosttech  |

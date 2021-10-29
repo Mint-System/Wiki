@@ -2,7 +2,9 @@
 
 Odoo Revsions sind Snapshots der Entwicklungshistory zu einem bestimmten Zeitpunkt. Mit einem [[Git]]- und [[Docker]]-Hash wird der Snapshot festghealten.
 
-## Odoo 13.0
+## Odoo 13
+
+### Odoo 13.0
 
 State: Outdated\
 Version: 13.0\
@@ -30,7 +32,7 @@ docker pull odoo@sha256:27098953285743cdf4152b0c6f3678d573327b7d9acb61a2dffeb322
 docker tag b073a2f2d68c odoo:b073a2f2d68c
 ```
 
-## Odoo 13.1
+### Odoo 13.1
 
 State: Outdated\
 Version: 13.0\
@@ -58,7 +60,7 @@ docker pull odoo@sha256:bfc01dbb6a49576ac88aca664bf59fe2afc0a1bba94743699c49a11a
 docker tag f20ab9613812 odoo:f20ab9613812
 ```
 
-## Odoo 13.2
+### Odoo 13.2
 
 State: Active\
 Version: 13.0\
@@ -86,7 +88,7 @@ docker pull odoo@sha256:578a20a0b50c5f146fc395d53ab9d205ade1f2dadfe675648e097007
 docker tag e13c9ce400b0 odoo:e13c9ce400b0
 ```
 
-## Odoo 14.0
+### Odoo 14.0
 
 State: Outdated\
 Version: 14.0\
@@ -114,7 +116,9 @@ docker pull odoo@sha256:ed98410e34aa509a9ac15e0b3b70e72f20af71cddcf9da8b72aa2777
 docker tag 6640ab6622b9 odoo:6640ab6622b9
 ```
 
-## Odoo 14.1
+## Odoo 14
+
+### Odoo 14.1
 
 State: Outdated\
 Version: 14.0\
@@ -136,7 +140,7 @@ docker pull odoo@sha256:335d31e83074a79e1ad8be65587558d24a1ea90c0d2b3b7e65cc91b9
 docker tag 70de954aa8a5 odoo:70de954aa8a5
 ```
 
-## Odoo 14.2
+### Odoo 14.2
 
 State: Outdated\
 Version: 14.0\
@@ -164,7 +168,7 @@ docker pull odoo@sha256:ac884a5f7166600a3cecf7fd95aa6ffbacd989e98a0483ff59f0e542
 docker tag 8363e01420b1 odoo:8363e01420b1
 ```
 
-## Odoo 14.3
+### Odoo 14.3
 
 State: Outdated\
 Version: 14.0\
@@ -192,7 +196,7 @@ docker pull odoo@sha256:23ccd7deac2664336b94543e3f2653631f0c8e2a562ffa15812805c7
 docker tag 3863e3e905e5 odoo:3863e3e905e5
 ```
 
-##  [[Odoo 14.4]]
+###  [[Odoo 14.4]]
 
 State: Active\
 Version: 14.0\
@@ -220,7 +224,7 @@ docker pull odoo@sha256:26479e1c9294862e5efc226b116cccab437da0b895c94a84b0165f7a
 docker tag c4370cddec27 odoo:c4370cddec27
 ```
 
-##  [[Odoo 14.5]]
+###  [[Odoo 14.5]]
 
 State: Active\
 Version: 14.0\
@@ -248,7 +252,7 @@ docker pull odoo@sha256:542e36dfc7ad121ea51813e8f6526b5417983cbf490c6702512d5ffc
 docker tag 5ca003a231ac odoo:5ca003a231ac
 ```
 
-##  Odoo 14.6
+###  Odoo 14.6
 
 State: Active\
 Version: 14.0\
@@ -284,3 +288,5 @@ docker pull odoo@sha256:3533f9075153f8c31d716eb79ac291a20bd6ba612ee90a7511a994c6
 # Tag the docker image
 docker tag 423b0096eedd odoo:423b0096eedd
 ```
+
+## Odoo 15
