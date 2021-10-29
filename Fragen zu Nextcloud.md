@@ -25,3 +25,9 @@ Antwort:
 Frage: Wie können verschiedene Dokumentversionen anhand einer ID identifiziert und gebündelt werden?
 
 Antwort: 
+
+### Finanzdokumente nachweislich nicht veränderbar
+
+Frage: Finanzlegungsstandard erfordern, dass Finanzdokumente nachweislich nicht verändert oder gelöscht wurden (audit-proof). Gibt es eine solchen Mechanismus in Nextcloud?
+
+Antwort: 
