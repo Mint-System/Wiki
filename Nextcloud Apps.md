@@ -2,3 +2,4 @@
 
 * [[Nextcloud Mail]]
 * [[Nextcloud Social Login]]
+* [[Nextcloud Circles]]

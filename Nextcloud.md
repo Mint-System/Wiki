@@ -12,9 +12,10 @@ Website: <https://nextcloud.com/>
 [[Nextcloud Painpoints]]\
 [[Nextcloud Apps]]\
 [[Nextcloud Enterprise]]\
-[[Nextcloud Partner]]
+[[Nextcloud Partner]]\
+[[Fragen zu Nextcloud]]
 
-## Usage
+## HowTos
  
  [[Nextcloud - OwnCloud Console]]\
  [[Nextcloud - Transfer ownership]]\

@@ -1,4 +1,4 @@
-# Odoo Offene Fragen
+# Fragen zu Odoo
 
 Offene Fragen rund um Odoo.
 
@@ -58,14 +58,3 @@ Antwort:
 Frage: Verwalten von öffentlichen Feiertagen und berücksichtigung in Abwesenheitszeiten.
 
 Antwort: 
-
-# Einkauf
-
-## Streuanfragen verwalten
-
-## ABC-Kategorien
-
-# Lager
-
-## Serienummer-Range auf Lieferschein
-
