@@ -10,7 +10,6 @@ Arbeitsschritte:
 * App Zeiterfassung  öffnen
 * Einträge auf den letzten Tag im Monat validieren
 
-
 ## Zeitrapport erstellen
 
 Mit der Rechnung wird immer der dazugehörige Arbeitsrapport verschickt.
