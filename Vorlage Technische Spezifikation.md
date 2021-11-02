@@ -4,7 +4,7 @@ Die Entwicklung von Odoo Apps erfordert eine exakte Spezifikation.
 
 * **Neue Felder**: Spezifikation für neue Felder auf Odoo Ansichten
 * **Bestehende Felder**: Spezifikation für bestehende Odoo Ansichten
-* **Neue Aktion**: Spezifikation für eine neue Odoo Aktion
+* **Neue Aktionen**: Spezifikation für eine neue Odoo Aktion
 
 ## Neue Felder
 
@@ -41,7 +41,7 @@ Der Zustand des Rahmenauftrags soll auf vier Stufen umgesetzt werden:
 
 Der Zustand *Angebot gesendet* verwendet die Aktion *Angebot versenden*.
 
-## Neue Aktion
+## Neue Aktionen
 
 | Name                 | Technischer Name    | Modell             | Beschreibung                         |
 | -------------------- | ------------------- | ------------------ | ------------------------------------ |
