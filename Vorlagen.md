@@ -8,6 +8,7 @@ tags:
 * [[Vorlage Angebot]]
 * [[Vorlage Konzept]]
 * [[Vorlage Anforderungsanalyse]]
+* [[Vorlage Technische Spezifikation]]
 * [[Vorlage Aufwandsschätzung]]
 * [[Vorlage Phase]]
 * [[Vorlage Troubleshooting]]

@@ -11,3 +11,4 @@ Methodisches Vorgehen.
 * [[Projektmanagement]]
 * [[Akquise]]
 * [[Prozessdokumentation]]
+* [[Datenverarbeitung]]
