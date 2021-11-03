@@ -18,7 +18,7 @@ Abhängigkeit: <https://www.odoo-wiki.org/sale-blanket-order.html>
 
 **Aktion: Verkaufsauftrag Erstellen**
 
-Wird die Aktion *Verkaufsauftrag Erstellen* ausgewählt, wird die Rechnungsadresse an den Verkaufsauftrag übertragen.
+Wird die Aktion *Verkaufsauftrag Erstellen* ausgewählt, wird die Rechnungsadresse an den Verkaufsauftrag auf das Feld `partner_invoice_id` übertragen.
 
 ## Bestehende Felder
 
@@ -26,7 +26,6 @@ Wird die Aktion *Verkaufsauftrag Erstellen* ausgewählt, wird die Rechnungsadres
 | ------- | ---------------- | ------------------ | ------------------------------- |
 | Zustand | `state`          | sale.blanket.order | Bestehende Stufen überschreiben |
 |         |                  |                    |                                 |
-
 
 ### Zustand
 Abhängigkeit: <https://www.odoo-wiki.org/sale-blanket-order.html>
