@@ -18,11 +18,11 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Hades    | Demoumgebung                       | `hades.mint-system.com`    | Hetzner   |
 | Apollo   | Dienste Janik Vonrotz              | `apollo.janikv.com`        | Hetzner   |
 | Kronos   | Backupserver                       | `kronos.mint-system.com`   | Hetzner   |
-| Hera     | BigBlueButton                      | `hera.mint-system.com`     | Hetzner   |
+| Hera     | BigBlueButton Mint System GmbH     | `hera.mint-system.com`     | Hetzner   |
 | Atlas    | Monitoring                         | `atlas.mint-system.com`    | Hetzner   |
 | Helios   | Server Aersolution Interior AG     | `helios.mint-system.com`   | Hetzner   |
 | Hermes   | Odoo Demoumgebung                  | `hermes.mint-system.com`   | Hetzner   |
-| Themis   | BigBlueButton                      | `themis.mint-system.com`   | ExoScale  |
+| Themis   | BigBlueButton KMSU                 | `themis.mint-system.com`   | ExoScale  |
 | Iris     | Server Kleinbrauerei Stiär Biär AG | `iris.mint-system.com`     | Hetzner   |
 | Pan      | Server Light Wing AG               | `pan.mint-system.com`      | Hosttech  |
 | Artemis  | Server Trimada AG                  | `artemis.mint-system.com`  | Hetzner   |

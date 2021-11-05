@@ -14,6 +14,7 @@ Die folgenden Hauptaufgaben sind definiert.
 * **System-Engineering (SN)** - Konfiguration Betriebssystem und Applikationen [[Emoji#🔴]]
 * **Projektphase (PN)** - Name der Projektphase und Nummer anstelle von N [[Emoji#🟣]]
 * **Geschäftsanalyse (GA)** - Abwicklung von Beratungsprojekten [[Emoji#🔴]]
+* **Technischer Support (TS)** - Support und ad-hoc Instruktionen [[Emoji#🔴]]
 
 ### Nicht verrechenbar
 
