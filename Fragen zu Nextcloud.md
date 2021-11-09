@@ -4,13 +4,13 @@
 
 ### Komplexe Workflows abbilden
 
-Frage: Wie können mehrstufe Genehmigungsworkflows in Nextcloud abgebildet werden?
+Frage: Wie können mehrstufige Genehmigungsworkflows in Nextcloud abgebildet werden?
 
 Anwort: 
 
 ### Dokumente anhand Metadaten suchen
 
-Frage: Mit einer App können WebDav-Metadaten erfasst werden, 
+Frage: Mit einer App können WebDav-Metadaten erfasst werden. Können diese auch durchsucht werden?
 
 Anwort:
 

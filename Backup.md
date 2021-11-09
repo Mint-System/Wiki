@@ -20,8 +20,6 @@ Damit die Backups auch bei einem Ausfall des Backup Servers zur Verfügung stehe
 
 ## Architektur
 
-atlas.mint-system.com 100 GB
-
 ![[Backup Architektur.png]]
 
 ## Anwendung
