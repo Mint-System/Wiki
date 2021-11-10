@@ -51,6 +51,7 @@ Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Handbuch]].
 * [[Odoo Update]]
 * [[Odoo Entwicklung]]
 * [[Odoo Maintenance]]
+* [[Odoo Berichtsvorlagen entwickeln]]
 
 ## Meta
 
