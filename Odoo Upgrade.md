@@ -55,10 +55,10 @@ odoo-backup -d $DATABASE ...
 odoo-restore -f ...
 ```
 
-* Run the upgrade script, optionas are `test` and `production`
+* Run the upgrade script, options are `test` and `production`
 
 ```bash
-odoo-upgrade test -d $DATABASE -t 14.0
+odoo-upgrade production -d $DATABASE -t 14.0
 ```
 
 It should automatically restore the database.
@@ -70,10 +70,11 @@ task checkout 14.0
 task start db,native
 ```
 
+* lOpen <http://localhost:8069/web/database/manager> to get the new db name
 * Test and remove unsupported modules
 
 ```bash
-export DATABASE="${DATABASE}_backup_2021_10_20_11_11"
+export DATABASE=erp_backup_2021_11_10_18_16
 task remove-module $DATABASE web_diagram
 task remove-module $DATABASE auth_oauth_multi_token
 ```
@@ -87,13 +88,13 @@ task odoo-cloc $DATABASE
 * Export database
 
 ```
-odoo-backup -d $DATABASE -o tmp/.../erp-dev.zip
+odoo-backup -d $DATABASE -o tmp/.../erp-14.0.zip
 ```
 
 * Upload database to test environment
 
 ```
-odoo-restore -d erp-dev -f tmp/.../erp-dev.zip**0**0**0**1**0l********** ...
+odoo-restore -d erp-dev -f tmp/.../erp-14.0.zip -r -h https://erp-dev...
 ```
 
 **Production**
@@ -107,7 +108,30 @@ Execute the same steps as for *Tests* except for these changes:
 In addition you must:
 * Reconnect the [[Odoo Subscription]]
 
+## Test after upgrade
+
+Check the following Odoo features:
+* Accounting QR-Code
+* Dashboards
+* Accounting Reconciliation
+
+If necessary update all modules: `docker-odoo-update -c odooN -d $DATABASE`
+
+Make at least sure to upgrade localization apps such as `l10n_ch`.
+
 ## Troubleshooting
+
+### Assets not loaded
+
+After the upgrade the filestore assets are not available.
+
+```bash
+FileNotFoundError: [Errno 2] No such file or directory: '/var/lib/odoo/filestore/erp/93/93132f7c7b7174981e27eeea893a1b5f860df9de'
+```
+
+**Resolution**
+
+Check filestore `root@server:/mnt/server-disk2/docker/volumes/odooN/_data/filestore`
 
 ### Modules missing
 
@@ -150,3 +174,11 @@ Der Bericht Prognostizierter Bestand ist nicht aktuell.
 **Resolution**
 
 Install `stock_enterprise`.
+
+### Filters are missing
+
+After an upgrade Odoo-Filters are missing.
+
+**Resolution**
+
+Check *Dev Tool > Manage Filters* and remove the *My filters* filter. See if the filter still exists. If yes, create a new filter and copy the *Domain* value.
