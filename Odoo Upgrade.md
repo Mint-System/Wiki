@@ -114,6 +114,7 @@ Check the following Odoo features:
 * Accounting QR-Code
 * Dashboards
 * Accounting Reconciliation
+* Project Invoicing
 
 If necessary update all modules: `docker-odoo-update -c odooN -d $DATABASE`
 
@@ -182,3 +183,29 @@ After an upgrade Odoo-Filters are missing.
 **Resolution**
 
 Check *Dev Tool > Manage Filters* and remove the *My filters* filter. See if the filter still exists. If yes, create a new filter and copy the *Domain* value.
+
+### Project overview error
+
+The profability overivew of a project cannot be opened as the following error occurs:
+
+```
+KeyError: 'expense_amount_untaxed_to_invoice'
+
+Error to render compiling AST
+KeyError: 'expense_amount_untaxed_to_invoice'
+Template: unknown
+Path: /qweb/div/div/div/div/div[1]/div[3]/div[2]/div/table/tbody/tr[7]
+Node: <tr t-if="display_cost &amp; (dashboard['profit']['expense_amount_untaxed_to_invoice'] != 0)">
+                                                    <td class="o_timesheet_plan_dashboard_cell">
+                                                        <t t-esc="dashboard['profit']['expense_amount_untaxed_to_invoice']" t-options="{&quot;widget&quot;: &quot;monetary&quot;, &quot;display_currency&quot;: currency}"/>
+                                                    </td>
+                                                    <td title="Costs from expenses that still need to be reinvoiced to your customer (provided that the Analytic Account of the Project was set on the Expense).">
+                                                        To re-invoice costs
+                                                    </td>
+                                                </tr>
+                                                
+```
+
+**Resolution**
+
+Update the `sale_timesheet` module.
