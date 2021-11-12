@@ -1,5 +1,5 @@
 # Unternehmensentwicklung
-Type: [[Bereich]]
+Typ: [[Bereich]]
 
 Themen:
 * [[AHV und EO]]

@@ -1,3 +1,3 @@
 # Open Source
 
-[[Open Source Software]]
+Verwenden wir synonym zu [[Open Source Software]].
