@@ -20,7 +20,7 @@ docker-postgres-backup -c $DATABASE_CONTER -a
 
 Update Nextcloud image tag and deploy.
 
-`nextcloud_image: nextcloud:21.1.0-apache`
+`nextcloud_image: nextcloud:21.0.5-apache`
 
 Tail the log while the upgrade is performed
 

@@ -4,12 +4,13 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
+[[Open Source Software = Sicherheit]]
 [[Odoo Experience 2021]]\
-[[Neuerungen in Odoo 15]]\
-[[Odoo 15 und die Odoo Partner Days]]
+[[Neuerungen in Odoo 15]]
 
 ## Veröffentlicht
 
+[[Odoo 15 und die Odoo Partner Days]]\
 [[Applikation mit Odoo entwickeln]]\
 [[System-Überwachung mit Prometheus und Grafana]]\
 [[Success Story Kleinbrauerei Stiärbiär AG]]\
