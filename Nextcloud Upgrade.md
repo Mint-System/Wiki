@@ -7,8 +7,8 @@ Description of the Nextcloud upgrade process.
 Define config.
 
 ```
-export NEXTCLOUD_CONTAINER=nextcloud03
-export DATABASE_CONTER=postgres11
+export NEXTCLOUD_CONTAINER=nextcloud01
+export DATABASE_CONTER=postgres02
 ```
 
 Backup volumes and database.
