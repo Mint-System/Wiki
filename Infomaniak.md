@@ -6,6 +6,8 @@ Die Mail-Postfächer der Mint-System werden von Infomaniak verwaltet.
 
 [[Infomaniak Handbuch]]
 
+[[Mail-Accounts]]
+
 ## Troubleshooting
 
 ### Mail Account gesperrt

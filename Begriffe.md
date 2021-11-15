@@ -1,7 +1,5 @@
 # Begriffe
 
-
-
 **ERP-System**: Die Abkürzung ERP steht für Enterprise Ressource Planning. Ein ERP-System unterstützt sämtliche Geschäftsprozesse in einer Unternehmung und ermöglicht so die effiziente Planung, Steuerung und Abwicklung der betrieblichen Ressourcen. [^1]
 
 **Headless CMS**: In einem klassischen Content Management System (CMS) wird der Inhalt über eine Oberfläche im Backend-System eingespeist und in Datenbanken organisiert. Das Backend-System stellt die Inhalte als Website dar und übernimmt so die Inhaltsverwaltung sowie deren Darstellung [^2]. Im Gegensatz dazu erledigt ein Headless CMS ausschliesslich die Inhaltsverwaltung und publiziert die Daten über Schnittstellen (API).
