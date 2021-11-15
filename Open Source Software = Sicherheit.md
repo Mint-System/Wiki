@@ -1,4 +1,4 @@
-# Open Source Software ist sicherer
+# Open Source Software = Sicherheit
 
 Warum ist Open Source Software sicherer als Closed Source Software?
 

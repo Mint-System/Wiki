@@ -3,6 +3,8 @@
 Website: <https://odoo.build>\
 Repository: <https://github.com/Mint-System/Odoo-Development>
 
+[[Odoo Order Positions]]
+
 ## Troubleshooting
 
 ### ERROR: relation "ir_module_module" does not exist
