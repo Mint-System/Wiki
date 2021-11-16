@@ -14,6 +14,7 @@ Auswahl:
 	* Accounting Reports `account_reports`
 * Lieferanten-Rechnung: Freigegeben zu zahlen `account_3way_match`
 *  Management der Zahlungserinnerungen `account_followup`
+*  Online Bank Statement Synchronization `account_online_synchronization`
 
 ### Optionen aktivieren
 Navigation nach *Einstellungen > Finanzen* und Auswahl:

@@ -6,6 +6,12 @@ Notizen zum Update von Odoo.
 
 Im Grunde ist die Aktualisierung von Odoo in den Minor Versions trivial. Einfach Docker Image und Git Repository aktualisieren.
 
-## Clear Assets
+Je nach dem wieviel in den Modulen geändert wurden, müssen diese aktualisiert werden oder der Assets-Cache geleehrt werden.
 
-Meistens gibt es nach einem Upgrade Probleme mit der Assets Table. Odoo Cached CSS/JS in der Assets Table. Diese wird nach einem Update nicht zurückgesetzt. Das muss jeweils manuell gemacht werden. Siehe dazu [[Odoo Scripts]].
+### Module aktualisieren
+
+Mit dem Befehl `docker-odoo-update` müssen Odoo-Module aktualisiert werden.
+
+### Clear Assets
+
+Meistens gibt es nach einem Upgrade Probleme mit der Assets Table. Odoo Cached CSS/JS in der Assets-Tabelle. Diese wird nach einem Update nicht zurückgesetzt. Das muss jeweils manuell gemacht werden. Siehe dazu [[Odoo Scripts]].

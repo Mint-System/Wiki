@@ -88,6 +88,8 @@ docker pull odoo@sha256:578a20a0b50c5f146fc395d53ab9d205ade1f2dadfe675648e097007
 docker tag e13c9ce400b0 odoo:e13c9ce400b0
 ```
 
+## Odoo 14
+
 ### Odoo 14.0
 
 State: Outdated\
@@ -115,8 +117,6 @@ docker pull odoo@sha256:ed98410e34aa509a9ac15e0b3b70e72f20af71cddcf9da8b72aa2777
 # Tag the docker image
 docker tag 6640ab6622b9 odoo:6640ab6622b9
 ```
-
-## Odoo 14
 
 ### Odoo 14.1
 
@@ -198,7 +198,7 @@ docker tag 3863e3e905e5 odoo:3863e3e905e5
 
 ###  [[Odoo 14.4]]
 
-State: Active\
+State: Outdated\
 Version: 14.0\
 Revision: 14.0.2021.0510
 
@@ -226,7 +226,7 @@ docker tag c4370cddec27 odoo:c4370cddec27
 
 ###  [[Odoo 14.5]]
 
-State: Active\
+State: Outdated\
 Version: 14.0\
 Revision: 14.0.2021.0524
 
@@ -252,7 +252,7 @@ docker pull odoo@sha256:542e36dfc7ad121ea51813e8f6526b5417983cbf490c6702512d5ffc
 docker tag 5ca003a231ac odoo:5ca003a231ac
 ```
 
-###  Odoo 14.6
+###  [[Odoo 14.6]]
 
 State: Active\
 Version: 14.0\
@@ -286,7 +286,44 @@ git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 docker pull odoo@sha256:3533f9075153f8c31d716eb79ac291a20bd6ba612ee90a7511a994c618c7e70e
 
 # Tag the docker image
-docker tag 423b0096eedd odoo:423b0096eedd
+docker tag 423b0096eedd odoo:$ODOO_REVISION
+```
+
+###  Odoo 14.7
+
+State: Active\
+Version: 14.0\
+Revision: 14.0.2021.1108
+
+```bash
+ODOO_REVISION=14.7
+
+# Checkout enterprise repo
+cd enterprise && git checkout 7a12fcefeb70d69eca60850f636398cb8773714a
+
+# Create tag on the enterprise repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Checkout odoo repo
+cd odoo && git checkout 2ebb1b854905cde04060301deb0394221429d421
+
+# Create tag on the odoo repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Checkout theme repo
+cd themes && git checkout d90399677b0ea52eec3ceed63760af79529ef62a
+
+# Create tag on the odoo repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Pull docker image
+docker pull odoo@sha256:61d6f63d4f5e0037e0ddf0cf505bea4c0c916da7e98a78aedf99e61f2f2a269f
+
+# Tag the docker image
+docker tag 30ee4d265b81 odoo:$ODOO_REVISION
 ```
 
 ## Odoo 15
