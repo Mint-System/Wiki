@@ -22,7 +22,7 @@ Ein Angebot hat diese Struktur:
 ### Bedingungen und Konditionen
 
 Auftragserteilung:  
-In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder durch Annahme der Offerte oder durch eine Bestellung.
+In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder durch Annahme des Angebots oder durch eine Bestellung.
 
 ### Zusammenarbeit
 
@@ -81,9 +81,11 @@ Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt na
 Allgemeine Bestimmungen:  
 Es gelten die Mint System [[AGBs Entwicklungsprojekt|AGBs]] Version 1.18, welche in einem separaten PDF angehängt werden.
 
-Änderungen:  
-Lang: Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostentotalabgedeckt sind, wird der Kunde seitens Auftragnehmerfrühzeitig informiert.
-Kurz: Zeichnen sich im Laufe der Projektarbeit Änderungen ab welche nicht Bestandteil des Angebots sind, wird der Kunde von Mint System zeitnah informiert.
+Änderungen:
+Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostentotalabgedeckt sind, wird der Kunde seitens Auftragnehmerfrühzeitig informiert.
+
+Änderungen:
+Zeichnen sich im Laufe der Projektarbeit Änderungen ab welche nicht Bestandteil des Angebots sind, wird der Kunde von Mint System zeitnah informiert.
 
 Vertraulichkeit:  
 Informationenwie Firmen-und Personendaten, die vom Kunden zur Erbringung der Leistungen zur Verfügung gestellt werden, werden vom Auftragnehmer absolut vertraulich behandelt.
