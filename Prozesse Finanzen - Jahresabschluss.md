@@ -15,4 +15,8 @@ Arbeitsschritte zum Erstellen des Jahresabschlusses.
 ## Transitorische Passiven und Aktiven buchen
 
 * Jahresprämie in transitorischen Aktiven buchen
-* 
+* geschuldeter MWST-Betrag vom aktuellen Jahr. Der für das aktuelle geschuldete MWST-Betrag kann eerfolgt auch erst im Folgejahrrst im Folgejahr berechnet und erstellt werden. Die Zahlung erfolgt auch erst im Folgejahr.
+
+::: tip
+Mobiliar Prämien für das folglende Jahr wird jeweils im November versendet. 
+:::

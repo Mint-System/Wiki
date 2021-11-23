@@ -5,6 +5,8 @@ Finanzen sind in Odoo über verschiedene Module abgebildet.
 
 [[Odoo Finanzen Setup]]  
 
+[[Odoo Zahlungsanbieter]]
+
 ## Rechnungsdigitalisierung
 
 Mit Odoo Finanzen können Rechnung einfach analysiert und importiert werden.
