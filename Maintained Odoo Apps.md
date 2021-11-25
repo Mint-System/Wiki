@@ -16,10 +16,10 @@ Repo: <https://github.com/OCA/sale-workflow/tree/13.0/sale_blanket_order>
 
 Nicht für Odoo 14 verfügbar. PR für Migration ist erstellt.
 
-```
-cd oca/sale-workflow
+```bash
+z oca/sale-workflow
 gh pr checkout 1608
-cd ../..
+../..
 ```
 
 Depends on [[#Web Action Conditionable]].
@@ -30,8 +30,8 @@ Repo: <https://github.com/OCA/web/tree/13.0/web_action_conditionable>
 
 Nicht für Odoo 14 verfügbar. PR für Migration ist erstellt.
 
-```
-cd oca/web
+```bash
+z oca/web
 gh pr checkout 1947
-cd ../..
+../..
 ```

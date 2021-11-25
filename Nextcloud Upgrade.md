@@ -8,14 +8,14 @@ Define config.
 
 ```
 export NEXTCLOUD_CONTAINER=nextcloud01
-export DATABASE_CONTER=postgres02
+export DATABASE_CONTAINER=postgres02
 ```
 
 Backup volumes and database.
 
 ```
-docker-volume-backup -c $NEXTCLOUD_CONTAINER -a
-docker-postgres-backup -c $DATABASE_CONTER -a
+docker-volume-backup -a -c $NEXTCLOUD_CONTAINER
+docker-postgres-backup -a -c $DATABASE_CONTAINER
 ```
 
 Update Nextcloud image tag and deploy.

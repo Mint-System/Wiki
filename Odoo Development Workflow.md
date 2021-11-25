@@ -4,7 +4,7 @@ Workflow for [[Odoo Development]].
 
 ## Requirements
 
-In order to develope Odoo modules you must run `task install-src`.
+In order to develope Odoo modules you must run `task install`.
 
 ## Troubleshooting
 

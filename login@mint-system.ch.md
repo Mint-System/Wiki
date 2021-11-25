@@ -1,6 +1,6 @@
 # Admint
-Der temporäre Administrations-Benutzer. Die Admint kann kein Email empfangen.
+Der Mint System Administrations-Benutzer. Der Admint kann Email empfangen.
 
-Anzeigename: Administrator Mint System  
-Email: login@mint-system.ch  
-Username: admint  
+**Anzeigename**: Administrator Mint System  
+**Email**: login@mint-system.ch  
+**Username**: admint  

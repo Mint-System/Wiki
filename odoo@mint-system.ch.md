@@ -2,8 +2,8 @@
 
 Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für Test- und produktiven Umgebungen.
 
-Email: odoo@mint-system.ch  
-Benutzername: odoo  
+**Email**: odoo@mint-system.ch  
+**Benutzername**: odoo  
 
 Other mail:
 * catchall@mint-system.ch
