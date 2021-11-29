@@ -1,7 +1,7 @@
 # docker
 
 Enter docker container.\
-`docker exec -it C$ONTAINER_NAME bash`
+`docker exec -it $CONTAINER_NAME bash`
 
 Remove docker running containers and images.\
 ```bash
