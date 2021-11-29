@@ -25,4 +25,6 @@ Delete unused images.\
 `docker image prune -a`
 
 List containers with name and description labels.\
-`docker ps --format 'table {{.Names}}\t{{(.Label "description")}}'`
+```
+docker ps --format 'table {{.Names}}\t{{(.Label "description")}}'
+```
