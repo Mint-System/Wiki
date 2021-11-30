@@ -16,8 +16,9 @@ Ergebnis: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
 
 - Welche Farben hat das Corporate Design?
 - Wo soll das Logo positioniert werden?
-- Was ist die Standardschriftart
+- Was ist die Standardschriftart?
 - Wie sieht der Header und Footer von Dokumenten aus?
+- Welches Standardlayout passt am besten?
 
 **Berichtsvorlagen**
 
