@@ -10,7 +10,7 @@ Tätigkeiten:
 
 Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 
-##  Bankverzeichnis einrichten
+## Bankverzeichnis einrichten
 
 **Banken**
 - Welche Banken werden angelegt?
@@ -69,11 +69,15 @@ Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 
 ## Abrechnung konfigurieren
 
-**Bankdaten**
+**Bankkonten**
 
+* Welche Abrechnungsmethoden wurden bisher verwendet?
 * Wie lautet die QR-IBAN?
 * Wie lautet die `ISR Client Identification Number` und `CHF ISR Subscription Number`?
 
-**Buchhaltung**
+**Versand**
 
-- Wie werdendie Rechnungen nummeriert?
+* Welchen Kommuniikationsweg (E-Mail, Brief) wird zum Versand der Rechnungen verwendet?
+* Wie werden die Rechnungen nummeriert?
+* An welchem Datum versenden sie Rechnung?
+* Wie sieht der Prozess der Rechnugnsprüfung aus?
