@@ -4,12 +4,12 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
-[[Open Source Software = Sicherheit]]
-[[Odoo Experience 2021]]\
+[[Open Source Software = Sicherheit]]\
 [[Neuerungen in Odoo 15]]
 
 ## Veröffentlicht
 
+[[Odoo Experience 2021]]\
 [[Odoo 15 und die Odoo Partner Days]]\
 [[Applikation mit Odoo entwickeln]]\
 [[System-Überwachung mit Prometheus und Grafana]]\

@@ -4,7 +4,7 @@ Warum ist Open Source Software sicherer als Closed Source Software?
 
 Immer wieder sind wir mit dem Argument konfrontiert, dass Open Source Software nicht sicher sein kann, weil es gratis ist. oft fällt auch das "there is no free lunch"-Idiom. Warum dieses Argument falsch ist, wollen wir hier erläutern.
 
-Ersteinmal muss man wissen, dass Software Code nicht vergeleichbar mit handfesten Produkten ist. Software Code hat ein besonderes Mermkal - Es kann ohne erheblichen Aufwand vervielfältigt werden. Das ist beispielsweise mit einem Auto eher schwierig. Möchte man Software also verkaufen, geht das nur über Lizenzen. Man verkauft sozusagen das geistige Eigentum, aber nicht die Programmzeilen.
+Ersteinmal muss man wissen, dass Software Code nicht vergeleichbar mit handfesten Produkten ist. Software Code hat ein besonderes Merkmal - Es kann ohne erheblichen Aufwand vervielfältigt werden. Das ist beispielsweise mit einem Auto eher schwierig. Möchte man Software also verkaufen, geht das nur über Lizenzen. Man verkauft sozusagen das geistige Eigentum, aber nicht die Programmzeilen.
 
 > Software Code hat eine Besonderheit - Er kann ohne Aufwand vervielfältigt werden.
 

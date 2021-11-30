@@ -1,5 +1,6 @@
 {
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }

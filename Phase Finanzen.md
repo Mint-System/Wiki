@@ -11,7 +11,8 @@ Tätigkeiten:
 Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 
 ##  Bankverzeichnis einrichten
-** Banken**
+
+**Banken**
 - Welche Banken werden angelegt?
 
 ## Konten einrichten
@@ -56,8 +57,6 @@ Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 -  Welche Mehrwertsteuersätze sind im Einkauf im Einsatz?
 -  Werden Produkte im Ausland eingekauft?
 
-
-
 ## Eröffungsbuchung erstellen
 
 **Datenübername und Eröffnung der Fibu**
@@ -67,3 +66,14 @@ Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 - Sind Maschinen/Anlagen/Lager vorhanden, die in der Bilanz eröffnet werden müssen?
 - Wird eine Anlagenbuchhaltung benötigt?
 - Müssen offene Rechnungen migriert werden?
+
+## Abrechnung konfigurieren
+
+**Bankdaten**
+
+* Wie lautet die QR-IBAN?
+* Wie lautet die `ISR Client Identification Number` und `CHF ISR Subscription Number`?
+
+**Buchhaltung**
+
+- Wie werdendie Rechnungen nummeriert?
