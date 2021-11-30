@@ -10,6 +10,20 @@ Tätigkeiten:
 
 Ergebnis: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
 
-## Titel definieren
-**Nummerierung**
-- Wird der Odoo-Standard verwendet?
+## Berichtsvorlage definieren
+
+**Dokumenten-Layout**
+
+- Welche Farben hat das Corporate Design?
+- Was ist die Standardschriftart
+- Wie sieht der Header und Footer von Dokumenten aus?
+
+**Berichtsvorlagen**
+
+- Haben sie eine Vorlage zu einem Dokumenttyp:
+	- Packvorgang
+	- Lieferschein
+	- Rechnung
+	- Verkaufsauftrag
+	- Fertigungsauftrag
+- Welche Anpassungen sind entscheidend (nicht nur nice-to-have)?
