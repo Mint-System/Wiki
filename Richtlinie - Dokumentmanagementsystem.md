@@ -9,6 +9,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Ordner                        | Beschreibung                                                                                                       |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Angebot                       | Angebote der Mint System                                                                                           |
+| Ausbildung                    | Unterlagen zur selbständigen Weiterbildung                                                                         |
 | Archiviert                    | Ablage zur Archivierung                                                                                            |
 | Bilder                        | Fotoalben                                                                                                          |
 | Corporate Design              | Format- und Dokumentvorlagen, Bilder zur Publikation                                                               |
