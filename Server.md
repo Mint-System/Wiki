@@ -30,3 +30,4 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Poseidon | Server Basis75                     | `poseidon.mint-system.com` | ExoScale  |
 | Athena   | Server HFMTS                       | `athena.mint-system.com`   | Hosttech  |
 | Leto     | Server SATHOM SARL                 | `leto.mint-system.com`     | Klixa     |
+| Cratos   | Elasticsearch und Coturn           | `cratos.mint-system.com`   | Hetzer    |
