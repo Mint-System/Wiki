@@ -11,3 +11,4 @@ Arbeitschritte:
 	* **Interne Notizen**: Link auf Produkt in Lieferanten-Webshop
 	* **Verkaufs Beschreibung**: Erfassen Beschreibung gemäss Lieferant
 	* **Erlöskonto**: 3200 Handelserlöse
+* Ein Bild hinzufügen
