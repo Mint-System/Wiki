@@ -1,9 +1,36 @@
 # Odoo Marketing
 
-## Beschreibung
-> Odoo, das kostengünstigstes All-In-One ERP-System.
+Marketinginhalte für Odoo.
 
-Odoo ist die weltweit erfolgreiche All-in-one Management Software. Dank moderner Technologien bietet Odoo weit mehr als herkömmliche ERP-Systeme:
+## Website
+
+> Die weltweit erfolgreiche All-in-one Management Software.  
+Dank modernster Technik so individuell wie ihre Firma.
+
+1700 Mitarbeitende, 7 Millionen Benutzer in 110 Ländern, Übersetzungen in 32 Sprachen.
+
+Die Unternehmung Odoo S.A. mit Sitz in in Belgien hat seit der Gründung im Jahr 2005 ein aussergewöhnliches Wachstum hingelegt. Die All-in-one Management-Software "Odoo" wurde mit diversen Preisen ausgezeichnet und erfreut sich ungebrochen wachsender Beliebtheit.  
+
+Die Mint System GmbH ist offizieller Partner von Odoo. Wir sind ausgewiesene Fachleute und ein zuverlässiger Partner für die erfolgreiche Implementierung von Odoo in Ihrer Unternehmung.
+
+### All-In-One
+
+![[odoo all in one.jpeg]]
+
+![[Odoo all-in-one software solution.png]]
+
+### Pakete
+
+[[Odoo Pakete]]
+
+### Apps
+
+* [[Odoo Anwesenheitszeiten]]
+* [[Odoo Abwesenheitszeiten]]
+
+## Das Wichtigste
+
+Dank moderner Technologien bietet Odoo weit mehr als herkömmliche ERP-Systeme:
 
 **Universell Verfügbar**
 
@@ -21,17 +48,6 @@ Odoo ist eine moderne Webandwendung. Mit dem richtigen Hosting, macht man den Zu
 
 Als Odoo-Partner hat man Zugriff auf den gesamten Quellcode von Odoo. Das ist einzigartig für ein ERP-System. Anpassungen in Odoo Anwendung können so kostengünstig umgesetzt werden und das Beste: Als Odoo-Kunde ist man nicht vom Lieferanten abhängig.
 
-## All-In-One
+## Flyer
 
-![[odoo all in one.jpeg]]
-
-![[Odoo all-in-one software solution.png]]
-
-## Pakete
-
-[[Odoo Pakete]]
-
-## Apps
-
-* [[Odoo Anwesenheitszeiten]]
-* [[Odoo Abwesenheitszeiten]]
+Odoo, das kostengünstigstes All-In-One ERP-System.
