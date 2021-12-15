@@ -23,6 +23,10 @@ Druckserver:
 
 * [[CUPS]]
 
-Mintoring:
+Monitoring:
 
 * [[Grafana]]
+
+Qualitätsmanagent:
+
+* [[SBOM]]
