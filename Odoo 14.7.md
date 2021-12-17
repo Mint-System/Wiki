@@ -21,7 +21,9 @@ _poll/<@https://erp.mint-system.ch/web/content/8841-40c7a6f/web.assets_backend.j
 
 **Solution**
 
--   open tab and navigate to about:config
--   accept warning
--   search for dom.storage.default_quota
--   increase its value (by default its 5120, check for example with 51200)
+In Firefox do:
+
+* Open tab and navigate to about:config
+* Accept warning
+* Search for `dom.storage.default_quota`
+* Increase its value (by default its 5120, check for example with 51200)
