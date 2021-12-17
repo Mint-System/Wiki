@@ -289,7 +289,7 @@ docker pull odoo@sha256:3533f9075153f8c31d716eb79ac291a20bd6ba612ee90a7511a994c6
 docker tag 423b0096eedd odoo:$ODOO_REVISION
 ```
 
-###  Odoo 14.7
+###  [[Odoo 14.7]]
 
 State: Active\
 Version: 14.0\

@@ -10,6 +10,10 @@ Geschäftsbeziehungen der Mint System.
 * [[Syscoon GmbH]]
 * [[nivels GmbH]]
 
+## Odoo Treuhänder
+
+* [[Gaapex]]
+
 ## [[Nextcloud Partner]]
 
 * [[Nextcloud GmbH]]

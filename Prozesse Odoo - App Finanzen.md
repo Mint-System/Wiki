@@ -46,10 +46,10 @@ Die Sequenz in Odoo 14 wird über *Finanzen > Kunden > Rechungen* festgelegt. Da
 Arbeitsschritte:
 * Kontennamen übersetzen
 
-| Name                 | Übersetzung           |
-| -------------------- | --------------------- |
-| Outstanding Receipts | Ausstehende Belege    |
-| Outstanding Payments | Ausstehende Zahlungen |
+| Name                 | Übersetzung              |
+| -------------------- | ------------------------ |
+| Outstanding Receipts | Ausstehende Einzahlungen |
+| Outstanding Payments | Ausstehende Auszahlungen |
 
 ### Steuern festlegen
 
@@ -59,6 +59,7 @@ Arbeitsschritte:
 * Taxgrid deaktiveren
 
 ### Eröffnungsbuchungen erstellen
+
 Voraussetzungen:
 * Buchhaltung in bisherigen `alten` System ist abgeschlossen
 * Kontenplan in Odoo steht zur Verfügung
@@ -68,6 +69,7 @@ Arbeitsschritte:
 * Die Bestände der Konten 1000 Kassa, 1020 Bank, 1200 Vorrat Material, 1530 Fahrzeuge etc werden über das Konto 2990 Durchlaufkonto Eröffnungsbilanz erfasst
 
 ### Transitorische Buchungen erstellen
+
 Wurden im vorjahr in der bisherigen Buchhaltung bereits Zahlungen getätigt oder es bestehen offene Zahlungen `Debitoren oder Kreditoren` so werden diese per 31.12. in die neue buchhaltung übernommen
 * z.B. wurde der Aufwand für die Versicherung bereits im November bezahlt: 
 	6220 Versicherungen / Gegenkonto 1300 mit Buchungstext Transitorische Aktiven 
