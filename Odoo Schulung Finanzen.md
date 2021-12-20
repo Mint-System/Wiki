@@ -137,6 +137,7 @@ Betrachten sie die Buchungszeilen der Zahlung.
 
 * Berichte für Revisionsstelle
 * Lieferantenrechnungen digitalisieren
+* Ausblenden Rechnungen
 
 ## Weiterführende Inhalte
 
