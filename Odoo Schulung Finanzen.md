@@ -131,7 +131,7 @@ Importieren sie die Datei mit den Kontoauszügen.
 
 Gleichen sie die Zahlung der Lieferantenrechnung ab.
 
-Betrachten sie die
+Betrachten sie die Buchungszeilen der Zahlung.
 
 ## Diskussion
 
