@@ -2,13 +2,22 @@
 
 ## Volume erstellen
 
-Arbeitsschritte
+Arbeitsschritte:
 * In Hetzner Cloud Console den Server anzeigen
 * Im Register *Volumes* ein neus Volume erstellen
 * Bennen nach schema `$ALIAS-disk$N`, beispielsweise `zeus-disk2`
 * Aktion *Volume Anhängen* ausführen
 * Das Volume mit Ansible mounten
 * Mit [[Docker - Move Docker data directory to new location]] weiterfahren.
+
+## Volume erweitern
+
+Arbeitsschritte:
+* In Hetzner Cloud Console den Server anzeigen
+* Unter Volumes das bestehende Volume bearbeiten und Speicherplatz hinzufügen
+* `lsblk` auf Server ausführen um die Disk anzuzeigen
+* Das entsprechende Volume erweitern mit `resize2fs /dev/sdb`
+* Mit `df -h` den neuen Speicherplatz anzeigen
 
 ## Troubleshooting
 
