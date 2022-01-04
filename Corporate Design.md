@@ -9,11 +9,9 @@ Corporate Design der Mint System.
 
 ## Colors
 
-<div style="background-color: #0B9FA3;">#0B9FA3;</div>
-
-<div style="background-color: #14d6c4;">#14d6c4;</div>
-
-<div style="background-color: #b5e7d6;">#b5e7d6;</div>
+<div style="background-color: #0B9FA3;"><p>#0B9FA3;</p></div>
+<div style="background-color: #14d6c4;"><p>#14d6c4;</p></div>
+<div style="background-color: #b5e7d6;"><p>#b5e7d6;</p></div>
 
 Text Website:
 
