@@ -2,5 +2,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

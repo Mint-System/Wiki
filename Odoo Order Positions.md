@@ -26,7 +26,7 @@ task install-snippet $ODOO_ENV snippets/purchase.report_purchasequotation_docume
 task install-snippet $ODOO_ENV snippets/stock.report_delivery_document.get_position.xml  
 task install-snippet $ODOO_ENV snippets/stock.report_picking.get_position.xml
 task install-snippet $ODOO_ENV snippets/stock.stock_report_delivery_aggregated_move_lines.get_position.xml
-task install-snippet $ODOO_ENV  snippets/stock.report_delivery_document.sort_by_position.xml
+task install-snippet $ODOO_ENV snippets/stock.report_delivery_document.sort_by_position.xml
 
 task install-snippet $ODOO_ENV snippets/account.report_invoice_document.get_position.xml
 ```

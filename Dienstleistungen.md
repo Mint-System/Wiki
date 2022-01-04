@@ -1,12 +1,13 @@
 # Dienstleistungen
 
-Dienstleistungen der Mint System GmbH und die dazugehörigen
+Dienstleistungen der Mint System GmbH und die dazugehörigen Leistungen.
 
 ## Projektleitung
 
 ![[odoo_icon_project.png]]
 
-Projektleitung gemäss Mint System [[Vorgehensmodell]].
+Umfasst diese Leistungen:
+* Projektleitung gemäss [[Vorgehensmodell]]
 
 Preis: 180 CHF pro Stunde
 
@@ -14,7 +15,9 @@ Preis: 180 CHF pro Stunde
 
 ![[odoo_icon_people.png]] 
 
-Methodische Umsetzung des Beratungsprojekts. Erstellen Dokumentation zur Projektabwicklung.
+Umfasst diese Leistungen:
+* Methodische Umsetzung des Beratungsprojekts
+* Erstellen Dokumentation zur Projektabwicklung
 
 Preis: 160 CHF pro Stunde
 
@@ -22,7 +25,7 @@ Preis: 160 CHF pro Stunde
 
 ![[odoo_icon_project.png]]
 
-Umfasst folgende Dienstleistungen:
+Umfasst diese Leistungen:
 - Aufbereitung und Normalisierung von Daten 
 - Entwicklung ERM
 - Implementation Transformationsprozesse für Daten
@@ -33,10 +36,10 @@ Preis: 160 CHF pro Stunde
 
 ![[odoo_icon_tool.png]]
 
-Umfasst folgende Dienstleistungen:
+Umfasst diese Leistungen:
 - Requirements Engineering
 - Iterative Entwicklung gemäss Anforderungen
-- Bereitstellung und Inbetriebnahme der Software-Lösung
+- Bereitstellung und Inbetriebnahme der Softwarelösung
 
 Preis: 160 CHF pro Stunde
 
@@ -44,12 +47,12 @@ Preis: 160 CHF pro Stunde
 
 ![[odoo_icon_tool.png]]
 
-Umfasst folgende Dienstleistungen:
+Umfasst diese Leistungen (Odoo):
 - Odoo Customizing
 - Technische Integration in kundenspezifische Umgebung
 - Odoo Modulkonfigurationen
 
-Umfasst folgende Dienstleistungen:
+Umfasst diese Leistungen (Hosting):
 - Installation und Konfiguration Managed Server
 - Bereitstellung Hosting
 - Technische Integration
@@ -60,7 +63,7 @@ Preis: 160 CHF pro Stunde
 
 ![[odoo_icon_tool.png]]
 
-Umfasst Dienstleistungen:
+Umfasst diese Leistungen:
 - Interview mit Stakeholder
 - Erstellen Systemabgrenzung
 - Erfassen und kategorisieren von Anforderungen
@@ -72,6 +75,9 @@ Preis: 160 CHF pro Stunde
 
 ![[icon support.png]]
 
-Abrechnung gemäss Arbeitsrapport.
+Umfasst diese Leistungen:
+* Schulung von Anwendern
+* Unterstützung bei Ausfällen
+* Beanwortung fachliche Fragestellungen
 
 Preis: 100 CHF pro Stunde
