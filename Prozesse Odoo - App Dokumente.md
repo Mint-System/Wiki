@@ -1,7 +1,8 @@
 # Prozess App Dokumente
 Installation Modul CRM `documents`
 
-## 1 Installation
+## Installation
+
 Workspace Module:
 * Documents - Accounting `documents_account`
 * Documents - Fleet `documents_fleet`

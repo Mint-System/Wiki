@@ -1,6 +1,7 @@
 # Prozess App Kontakte
 Installation Modul Kontakte `contacts`.
 
-## 1 Installation
+## Installation
+
 Auswahl:
 * Kontakte Unternehmen `contacts_enterprise`

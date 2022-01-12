@@ -1,7 +1,8 @@
 # Prozess App Qualität
 Installation Modul Qualität `quality_control`.
 
-## 1 Installation
+## Installation
+
 MRP Erweiterungen nach Bedarf installieren.
 
 Auswahl:

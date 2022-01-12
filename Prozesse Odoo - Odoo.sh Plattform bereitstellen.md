@@ -1,6 +1,6 @@
 # Odoo.sh Plattform bereitstellen
 
-## 1 Initialisierung
+## Initialisierung
 
 ### Bestehendes Projekt übernehmen
 

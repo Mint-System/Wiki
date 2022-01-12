@@ -2,7 +2,7 @@
 
 Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung muss immer verfügbar und gesichert sein.
 
-## 1 Initialisierung
+## Initialisierung
 
 Arbeitsschritte:
 * Bereistellen Umgebung gemäss Bestellung
@@ -17,7 +17,7 @@ Arbeitsschritte:
 * Währung festlegen
 * Globale Übersetzungen importieren
 
-## 3 Implementation
+## Implementation
 
 Abhäingig von der Konfiguration der Umgebung können diese Teilschritte ausgeführt werden.
 

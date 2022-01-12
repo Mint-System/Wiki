@@ -2,7 +2,7 @@
 
 Installation von APPNAME.
 
-## 1 Installation
+## Installation
 
 Vorgehen zur Installation der Erweiterung.
 
@@ -10,7 +10,7 @@ Vorgehen zur Installation der Erweiterung.
 
 Die Optionen aus den Erweiterungen aktivieren.
 
-## 2 Initialisierung
+## Initialisierung
 
 Arbeitschritte damit die App funktionsfähig ist.
 
@@ -18,7 +18,7 @@ Arbeitschritte damit die App funktionsfähig ist.
 
 Arbeitsschritte zur Ausführung der Unteraufgabe.
 
-## 3 Implementation
+## Implementation
 
 Kundenspezifische Anpassungen umsetzen.
 

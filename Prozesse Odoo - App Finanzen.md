@@ -1,7 +1,7 @@
 # Prozess App Finanzen
 Installation Modul Finanzen `account_accountant`.
 
-## 1 Installation
+## Installation
 
 Auswahl:
 * Import CAMT Bank Statement `account_bank_statement_import_camt`
@@ -17,6 +17,7 @@ Auswahl:
 *  Online Bank Statement Synchronization `account_online_synchronization`
 
 ### Optionen aktivieren
+
 Navigation nach *Einstellungen > Finanzen* und Auswahl:
 * Print Swiss QR Code #Odoo13 
 * QR Codes #Odoo14
@@ -24,7 +25,7 @@ Navigation nach *Einstellungen > Finanzen* und Auswahl:
 * Kostenrechnung
 * Kostenstellen-Tags
 
-## 2 Initialisierung
+## Initialisierung
 
 Arbeitsschritte:
 *  Unternehmensdaten eintragen
@@ -34,7 +35,8 @@ Arbeitsschritte:
 *  Buchungsperiode eröffnen
 *  Kontenplan übernehmen
 
-## 3 Implementation
+## Implementation
+
 Auswahl:
 * Journale und Sequenzen festlegen `siehe Odoo Handbuch`
 

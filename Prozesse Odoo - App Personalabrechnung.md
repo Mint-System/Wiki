@@ -1,17 +1,20 @@
 # Prozess App Personalabrechnung
 Installation Modul Personalabrechnung `hr_payroll`.
 
-## 1 Installation
+## Installation
+
 Auswahl:
 * Lohnbuchhaltung `hr_payroll_account`
 * SEPA-Zahlungen für Gehaltsabrechnungen `hr_payroll_account_sepa`
 * HR Payroll Share `gio_payroll_custom`
 
 ### Optionen aktivieren
+
 Auswahl:
 *  Payroll SEPA
 
-## 2 Initialsierung
+## Initialsierung
+
 Arbeitsscrhitte:
 * HR-Stammdaten vorbereiten.
 * Erfassen Standardarbeitsvertrag
@@ -19,12 +22,13 @@ Arbeitsscrhitte:
 * [[Lohnarten]] importieren
 
 ### Lohnmodul konfigurieren
+
 Arbeitsschritte:
 * Archivieren der Standardlohnarten BASIC, GROSS und NET
 * Import `hr.salary.rule.basis.csv`
 * Festlegen Lohnjournal
 
-## 3 Implementation
+## Implementation
 
 ### Daten importieren
 Arbeitsschritte:
