@@ -6,7 +6,7 @@ Odoo Revsions sind Snapshots der Entwicklungshistory zu einem bestimmten Zeitpun
 
 ### Odoo 13.0
 
-State: Outdated\
+State: Inactive\
 Version: 13.0\
 Revision: 13.0.2020.0629
 
@@ -34,7 +34,7 @@ docker tag b073a2f2d68c odoo:b073a2f2d68c
 
 ### Odoo 13.1
 
-State: Outdated\
+State: Inactive\
 Version: 13.0\
 Revision: 13.0.2020.1123
 
@@ -92,7 +92,7 @@ docker tag e13c9ce400b0 odoo:e13c9ce400b0
 
 ### Odoo 14.0
 
-State: Outdated\
+State: Inactive\
 Version: 14.0\
 Revision: 14.0.2020.1019
 
@@ -120,7 +120,7 @@ docker tag 6640ab6622b9 odoo:6640ab6622b9
 
 ### Odoo 14.1
 
-State: Outdated\
+State: Inactive\
 Version: 14.0\
 Revision: 14.0.2020.1026
 
@@ -142,7 +142,7 @@ docker tag 70de954aa8a5 odoo:70de954aa8a5
 
 ### Odoo 14.2
 
-State: Outdated\
+State: Inactive\
 Version: 14.0\
 Revision: 14.0.2020.1123
 
@@ -170,7 +170,7 @@ docker tag 8363e01420b1 odoo:8363e01420b1
 
 ### Odoo 14.3
 
-State: Outdated\
+State: Inactive\
 Version: 14.0\
 Revision: 14.0.2021.0111
 
@@ -198,7 +198,7 @@ docker tag 3863e3e905e5 odoo:3863e3e905e5
 
 ###  [[Odoo 14.4]]
 
-State: Outdated\
+State: Inactive\
 Version: 14.0\
 Revision: 14.0.2021.0510
 
@@ -226,7 +226,7 @@ docker tag c4370cddec27 odoo:c4370cddec27
 
 ###  [[Odoo 14.5]]
 
-State: Outdated\
+State: Inactive\
 Version: 14.0\
 Revision: 14.0.2021.0524
 
@@ -254,7 +254,7 @@ docker tag 5ca003a231ac odoo:5ca003a231ac
 
 ###  [[Odoo 14.6]]
 
-State: Active\
+State: Inactive\
 Version: 14.0\
 Revision: 14.0.2021.0817
 
@@ -324,6 +324,43 @@ docker pull odoo@sha256:61d6f63d4f5e0037e0ddf0cf505bea4c0c916da7e98a78aedf99e61f
 
 # Tag the docker image
 docker tag 30ee4d265b81 odoo:$ODOO_REVISION
+```
+
+## [[Odoo 14.8]]
+
+State: Active\
+Version: 14.0\
+Revision: 14.0.2022.0110
+
+```bash
+ODOO_REVISION=14.8
+
+# Checkout enterprise repo
+cd enterprise && git checkout 4c32c8b7e5206b2106aace6987222c0458ddc86f
+
+# Create tag on the enterprise repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Checkout odoo repo
+cd odoo && git checkout 1ff58be8f19becb3436348ed6b44fe69247cd057
+
+# Create tag on the odoo repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Checkout theme repo
+cd themes && git checkout 26a4dad4d22bb18854efcebf52cb8eceb2153871
+
+# Create tag on the odoo repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Pull docker image
+docker pull odoo@sha256:d576569741c92cadceeac55631fb1c0d5809eb12c7b9e45753c40916270ce91d
+
+# Tag the docker image
+docker tag 89152df6e5b4 odoo:$ODOO_REVISION
 ```
 
 ## Odoo 15
