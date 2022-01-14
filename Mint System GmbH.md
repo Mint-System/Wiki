@@ -10,3 +10,7 @@ Internes Kürzel: ms
 * [[Janik von Rotz]]
 * [[Kurt Gisler]]
 * [[Marco Roeleven]]
+
+## Zahlungsinformationen
+
+CHF ISR Subscription Number: 01-013066-4

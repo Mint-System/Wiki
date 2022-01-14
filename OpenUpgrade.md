@@ -86,6 +86,7 @@ task start db,native
 # or native
 task remove-module $DATABASE web_diagram
 task remove-module $DATABASE auth_oauth_multi_token
+task remove-module $DATABASE account_edi_facturx
 ```
 
 * Remove unsupported views
@@ -102,7 +103,7 @@ See [[Odoo Shell Scripts]] for details
 # WIP: with docker
 
 # or native
-task updte-module $DATABASE all
+task update-module $DATABASE all
 ```
 
 * Backup the new database
