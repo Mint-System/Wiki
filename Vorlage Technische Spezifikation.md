@@ -12,7 +12,6 @@ Die Entwicklung von Odoo Apps erfordert eine exakte Spezifikation.
 | Name             | Technischer Name     | Modell             | Beschreibung                        |
 | ---------------- | -------------------- | ------------------ | ----------------------------------- |
 | Rechnungsadresse | `partner_invoice_id` | sale.blanket.order | Rechnungsadresse für Rahmenaufträge |
-|                  |                      |                    |                                     |
 
 ### Rechnungsadresse
 Abhängigkeit: <https://www.odoo-wiki.org/sale-blanket-order.html>
