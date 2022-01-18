@@ -4,6 +4,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
+[[Website mit Odoo erstellen]]\
 [[Neuerungen in Odoo 15]]
 
 ## Veröffentlicht

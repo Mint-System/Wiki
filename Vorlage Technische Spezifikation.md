@@ -5,6 +5,7 @@ Die Entwicklung von Odoo Apps erfordert eine exakte Spezifikation.
 * **Neue Felder**: Spezifikation für neue Felder auf Odoo Ansichten
 * **Bestehende Felder**: Spezifikation für bestehende Odoo Ansichten
 * **Neue Aktionen**: Spezifikation für eine neue Odoo Aktion
+* **Neue Filter**: Spezifikation für neue Filter auf Odoo Ansichten.
 
 ## Neue Felder
 
@@ -25,7 +26,6 @@ Wird die Aktion *Verkaufsauftrag Erstellen* ausgewählt, wird die Rechnungsadres
 | Name    | Technischer Name | Modell             | Beschreibung                    |
 | ------- | ---------------- | ------------------ | ------------------------------- |
 | Zustand | `state`          | sale.blanket.order | Bestehende Stufen überschreiben |
-|         |                  |                    |                                 |
 
 ### Zustand
 Abhängigkeit: <https://www.odoo-wiki.org/sale-blanket-order.html>
@@ -45,7 +45,6 @@ Der Zustand *Angebot gesendet* verwendet die Aktion *Angebot versenden*.
 | Name                 | Technischer Name    | Modell             | Beschreibung                         |
 | -------------------- | ------------------- | ------------------ | ------------------------------------ |
 | Per E-Mail Versenden | `action_order_send` | sale.blanket.order | Rahmenauftrag als Angebot versenden. |
-|                      |                     |                    |                                      |
 
 ### Per E-Mail Versenden
 Abhängigkeit: <https://www.odoo-wiki.org/sale-blanket-order.html>
@@ -53,3 +52,9 @@ Abhängigkeit: <https://www.odoo-wiki.org/sale-blanket-order.html>
 **Definition**
 
 Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
+
+## Neue Suchfelder und Filter
+
+| Name             | Ansicht                    | Beschreibung                      |
+| ---------------- | -------------------------- | --------------------------------- |
+| Rechnungsadresse | `sale.view_quotation_tree` | Feld steht in Suche zur Verfügung |

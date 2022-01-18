@@ -156,6 +156,10 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
         // get backlinks
         let backLinks = links.filter(link => link.target === fileName)
 
+        // remove duplicates
+        let backLinkSet = new Set(backLinks)
+        backLinks = [...backLinkSet]
+        
         content = content + [
             '\n',
             '\n',
