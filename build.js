@@ -157,9 +157,8 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
         let backLinks = links.filter(link => link.target === fileName)
 
         // remove duplicates
-        let backLinkSet = new Set(backLinks)
-        backLinks = [...backLinkSet]
-        
+        backLinks = Array.from(new Set(backLinks.map(o => JSON.stringify(o)))).map(s => JSON.parse(s))
+
         content = content + [
             '\n',
             '\n',
