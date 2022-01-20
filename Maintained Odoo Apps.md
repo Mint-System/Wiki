@@ -29,9 +29,9 @@ Repo: <https://github.com/OCA/sale-workflow/tree/13.0/sale_blanket_order>
 Nicht für Odoo 14 verfügbar. PR für Migration ist erstellt.
 
 ```bash
-cd oca/sale-workflow
-gh pr checkout 1608
-../..
+git remote set-url origin git@github.com:Mint-System/sale-workflow.git
+git fetch origin
+git switch 14.0-mig-sale_blanket_order
 ```
 
 Depends on [[#Web Action Conditionable]].
