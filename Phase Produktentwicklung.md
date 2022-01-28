@@ -25,20 +25,20 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 **Verkaufsartikel/Einkaufsartikel**
 
- [Beschreibung im Handbuch](https://www.odoo-wiki.org/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
+ [Beschreibung im Wiki](https://www.odoo-wiki.org/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
 
 - Welche Produkte können verkauft werden?
 - Welche Produkte können eingekauft werden?
 
 **Produktart**
 
-[Beschreibung im Handbuch](https://www.odoo-wiki.org/fertigung-stammdaten.html#produktart)
+[Beschreibung im Wiki](https://www.odoo-wiki.org/fertigung-stammdaten.html#produktart)
 
 - Wie werden die Produkte in der Lagerverwaltung berücksichtigt?
 
 **Strichcode**
 
-[Beschreibung im Handbuch](https://www.odoo-wiki.org/strichcode.html#strichcode)
+[Beschreibung im Wiki](https://www.odoo-wiki.org/strichcode.html#strichcode)
 
 - Werden die Produkte mit einem Strichcode bezeichnet? ⭐
 - Wie setzt sich der Strichcode zusammen? ⭐

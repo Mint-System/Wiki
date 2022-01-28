@@ -7,7 +7,7 @@ Methodisches Vorgehen.
 * [[Design Decisions]]
 * [[Marktsondierung]]
 * [[Pendenzen]]
-* [[Arbeitsplanung]]
+* [[Aufgabenplanung]]
 * [[Projektmanagement]]
 * [[Akquise]]
 * [[Prozessdokumentation]]

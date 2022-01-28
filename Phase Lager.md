@@ -65,7 +65,7 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 **Anzahl Schritte für Wareneingang**
 
-[Erklärung im Handbuch](https://www.odoo-wiki.org/best-practice-lager-konfigurieren.html#standard-routen-fur-lieferungen)
+[Erklärung im Wiki](https://www.odoo-wiki.org/best-practice-lager-konfigurieren.html#standard-routen-fur-lieferungen)
 
 - In wievielen Schritten wird der Wareneingang abgehandelt?
 
@@ -76,7 +76,7 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
  
  **Anzahl Schritte für ausgehende Lieferungen**
  
- [Erklärung im Handbuch](https://www.odoo-wiki.org/best-practice-lager-konfigurieren.html#standard-routen-fur-lieferungen)
+ [Erklärung im Wiki](https://www.odoo-wiki.org/best-practice-lager-konfigurieren.html#standard-routen-fur-lieferungen)
 
 - In wievielen Schritten werden ausgehende Lieferungen abgehandelt?
 

@@ -17,7 +17,7 @@ Ergebnis: Alle Daten zum Verkaufen sind bereit.
 
 **Steuern (Verkauf)**
 
-[Beschreibung im Handbuch](https://www.odoo-wiki.org/theorie-mehrwertsteuer.html#steuersatze)
+[Beschreibung im Wiki](https://www.odoo-wiki.org/theorie-mehrwertsteuer.html#steuersatze)
 
 - Welche Steuern werden für den Verkauf des Produkts festgelegt?
 

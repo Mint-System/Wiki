@@ -38,7 +38,7 @@ Arbeitsschritte:
 ## Implementation
 
 Auswahl:
-* Journale und Sequenzen festlegen `siehe Odoo Handbuch`
+* Journale und Sequenzen festlegen (siehe Odoo Wiki)
 
 #Odoo14  
 Die Sequenz in Odoo 14 wird über *Finanzen > Kunden > Rechungen* festgelegt. Dazu erstellen Sie eine erste Proformarechnung und wählen diese links zum Bearbeiten aus. Über das Menü *Aktion > Resequence* kann der nächste Wert `Rechnungsnummer` festgelegt werden. Dasselbe gilt auch für Eingangsrechnungen *Finanzen > Lieferanten > Rechnungen*
@@ -69,12 +69,3 @@ Voraussetzungen:
 Arbeitsschritte:
 * Festelegen Datum der Übernahme, üblich ist der 31.12. gemäss Statuten der Gesellschaft `Geschäftsjahr`
 * Die Bestände der Konten 1000 Kassa, 1020 Bank, 1200 Vorrat Material, 1530 Fahrzeuge etc werden über das Konto 2990 Durchlaufkonto Eröffnungsbilanz erfasst
-
-### Transitorische Buchungen erstellen
-
-Wurden im vorjahr in der bisherigen Buchhaltung bereits Zahlungen getätigt oder es bestehen offene Zahlungen `Debitoren oder Kreditoren` so werden diese per 31.12. in die neue buchhaltung übernommen
-* z.B. wurde der Aufwand für die Versicherung bereits im November bezahlt: 
-	6220 Versicherungen / Gegenkonto 1300 mit Buchungstext Transitorische Aktiven 
-
-Auflösen von Transitorischen Buchungen
-Dem Kunden wurde zum Beispiel im Dezember für einen Verkauf die Rechnug zugestellt, diese ist jedoch erst im Januar bezahlt. In der alten Buchhaltung wird der Ertrag verbucht, statt dem Konto 1020 Bank das transitorische Konto. Bei Zahlungseingang erfolgen Buchungen zur Auflösung der Transitorischen Einträge. Das Konto sollte danach ausgeglichen `Saldo CHF 0.00` sein. 

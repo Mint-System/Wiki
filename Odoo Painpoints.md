@@ -42,7 +42,7 @@ Lösung: Wurde mit Odoo 14 korrigiert.
 
 Für Timesheet Enträge kann der Abrechnungstyp nicht geändert werden.
 
-Lösungs: Im Handbuch wurde dokumentiert wie das zu lösen ist.
+Lösungs: Im Wiki wurde dokumentiert wie das zu lösen ist.
 
 ### Lieferungen bewerten
 
@@ -54,7 +54,7 @@ Lösung: Lieferantenbewertung ist ab Odo 14 möglich.
 
 Den RFQs können keine Portal-Anhänge mitgeschickt werden.
 
-Lösung: Mit Odoo14 geht das, für Odoo 13 kann gemäss Handbuch ein Feld hinzugefügt werden.
+Lösung: Mit Odoo14 geht das, für Odoo 13 kann gemäss Wiki ein Feld hinzugefügt werden.
 
 ### Soll-/Haben-Konten vertauscht
 

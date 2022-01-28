@@ -1,4 +1,4 @@
-# Arbeitsplanung
+# Aufgabenplanung
 
 Mitarbeiter der Mint System GmbH planen ihre Aufgaben mit Odoo.
 

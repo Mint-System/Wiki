@@ -30,4 +30,4 @@ eingangsrechnungen@
 * Lohn: Sonstiges mit Kurzzeichen LHN
 * Wechselkursdifferenzen: Sonstiges mit Kurzzeichen EXCH
 
-Jedem Journal wird eine Definition für die Kurzzeiten hinterlegt. Bei Verkäufe und Einkauf wird das Kurzzeichnen in der Rechnungsreferenz verwendet. Weitere Informationen sind im Oddo Handbuch zu finden.
+Jedem Journal wird eine Definition für die Kurzzeiten hinterlegt. Bei Verkäufe und Einkauf wird das Kurzzeichnen in der Rechnungsreferenz verwendet. Weitere Informationen sind im Oddo Wiki zu finden.

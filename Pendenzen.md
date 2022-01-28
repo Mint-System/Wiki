@@ -18,7 +18,7 @@ Kann eine Diskussionsaufgabe nicht ad-hoch erledigt werden, erstellt man daraus 
 
 ## Aktivitäten
 
-Mit Odoo können auf allen Objekten Aktivitäten geplant werden. Dieser sind ein Bestandteil, der [[Arbeitsplanung]].
+Mit Odoo können auf allen Objekten Aktivitäten geplant werden. Dieser sind ein Bestandteil, der [[Aufgabenplanung]].
 
 Aufgaben mit einer Deadline werden als Aktivitäten erfasst und direkt zugewiesen.
 
