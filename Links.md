@@ -6,7 +6,7 @@ Die wichtigsten Links der Mint System.
 
 [ERP Mint System](https://erp.mint-system.ch)
 
-[BigBlueButton](https://bbb.mint-system.ch/b)
+[BigBlueButton](https://meet.mint-system.ch/b)
 
 [BigBlueButton-Raum Mint System](https://bbb.mint-system.ch/b/adm-nki-iay-t5m)
 

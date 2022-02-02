@@ -2,7 +2,7 @@
 
 ## Dokument erstellen
 Arbeitsschritte:
-* Erarbeiten Technische und Qualtiative Anforderungen
+* Erarbeiten Technische und Qualitative Anforderungen
 * Erstellen Dokument von [[Vorlage Technische Spezifikation]]
 * Validierung mit Kunde
 * Freigabe für Entwicklung
