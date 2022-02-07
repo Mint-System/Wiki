@@ -2,10 +2,11 @@
 
 Die Entwicklung von Odoo Apps erfordert eine exakte Spezifikation.
 
-* **Neue Felder**: Spezifikation für neue Felder auf Odoo Ansichten
-* **Bestehende Felder**: Spezifikation für bestehende Odoo Ansichten
-* **Neue Aktionen**: Spezifikation für eine neue Odoo Aktion
-* **Neue Filter**: Spezifikation für neue Filter auf Odoo Ansichten.
+* **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
+* **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
+* **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
+* **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
+* **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
 
 ## Neue Felder
 
@@ -57,3 +58,13 @@ Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenau
 | Name             | Ansicht                    | Beschreibung                      |
 | ---------------- | -------------------------- | --------------------------------- |
 | Rechnungsadresse | `sale.view_quotation_tree` | Feld steht in Suche zur Verfügung |
+
+## Neue Konfiguration
+
+| Name         | Beschrebung                             |
+| ------------ | --------------------------------------- |
+| Skonto-Konto | Standardkonto für Skonto-Buchungszeile. |
+
+### Skonto-Konto
+
+Dieses Feld wird in den Einstellungen *Finanzen > Zahlungen des Lieferanten* unterhalb von *Kontrollen* angezeigt. Die Einstellung ist automatisch aktiviert.
