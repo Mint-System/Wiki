@@ -67,4 +67,4 @@ Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenau
 
 ### Skonto-Konto
 
-Dieses Feld wird in den Einstellungen *Finanzen > Zahlungen des Lieferanten* unterhalb von *Kontrollen* angezeigt. Die Einstellung ist automatisch aktiviert.
+Dieses Feld wird in den produ *Finanzen > Zahlungen des Lieferanten* unterhalb von *Kontrollen* angezeigt. Die Einstellung ist automatisch aktiviert.
