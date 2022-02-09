@@ -92,7 +92,13 @@ env.cr.commit()
 ```
 
 Get sale order info.
-```
+```python
 sale_order = self.env['sale.order'].browse(60)
 sale_order.procurement_group_id.stock_move_ids.created_production_id.procurement_group_id.mrp_production_ids
+```
+
+List all defaults
+```python
+defaults = self.env['ir.default'].search([('invoice_cash_rounding_id')], limit=1)
+[print(default.json_value, default.field_id.name) for default in defaults]
 ```
