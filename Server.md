@@ -29,6 +29,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Kronos   | Backupserver                       | `kronos.mint-system.com`   | Hetzner  |
 | Leto     | Server SATHOM SARL                 | `leto.mint-system.com`     | Klixa    |
 | Pan      | Server Light Wing AG               | `pan.mint-system.com`      | Hosttech |
-| Poseidon | Server Basis75                     | `poseidon.mint-system.com` | ExoScale |
+| Poseidon | Server Basis57                     | `poseidon.mint-system.com` | ExoScale |
 | Themis   | BigBlueButton KMSU                 | `themis.mint-system.com`   | ExoScale |
 | Zeus     | Dienste Mint System GmbH           | `zeus.mint-system.com`     | Hetzner  |
