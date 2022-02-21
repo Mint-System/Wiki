@@ -22,4 +22,3 @@ Odoo hat bewiesen, dass es in jeder Branche Fuss fassen kann. Die Basis von Odoo
 
 Bei Basis57 sind die folgenden Apps im Einsatz:
 * 
-
