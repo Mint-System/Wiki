@@ -8,7 +8,6 @@ Um diese Funktion einzurichten müssen folgende Einstellung gemacht werden:
 * Konfiguration eingehender E-Mail Server in Odoo
 * MX-DNS-Eintrag für die Mail-Domäne
 
-
 ## Relay Server konfigurieren
 
 Odoo verwendet den SMTP-Server als Relay. Das heisst Odoo kann unter verschiedenen Adressen E-Mails verwschicken.
@@ -17,4 +16,4 @@ Odoo verwendet den SMTP-Server als Relay. Das heisst Odoo kann unter verschieden
 
 ## Verbindung testen
 
-Zum testen stehen verschiedene [[SMTP-Skripte]] zur Verfügung.
+Zum testen stehen verschiedene [[SMTP-Skripte]] und eine Übersicht der [[SMTP-Fehler]] zur Verfügung.

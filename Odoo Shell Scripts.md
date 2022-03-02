@@ -22,6 +22,13 @@ Execute sql quer.
 self._cr.execute("SELECT * FROM account_move WHERE id = 16")
 ```
 
+Generate password.
+```python
+from passlib.context import CryptContext
+setpw = CryptContext(schemes=['pbkdf2_sha512'])
+setpw.encrypt('YourNewPassword')
+```
+
 ## Commands
 
 Log into Docker Container.  

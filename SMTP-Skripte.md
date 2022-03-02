@@ -22,14 +22,14 @@ $SMTPClient.Send($SMTPMessage)
 
 ## Bash
 
+Installation von [Swaks](https://jetmore.org/john/code/swaks/).
+
 ```bash
-#!/bin/bash
+brew install swaks
 
-# Swaks - Swiss Army Knife for SMTP
+sudo apt-get install swaks
 
-# brew install swaks
-# sudo apt-get install swaks
-# sudo dnf install swaks
+sudo dnf install swaks
 ```
 
 **SMTP Test mit Authentifzierung**
