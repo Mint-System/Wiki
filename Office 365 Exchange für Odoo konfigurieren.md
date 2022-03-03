@@ -55,6 +55,7 @@ Odoo kann unter anderen Adressen Mails versenden und Empfangen. Dazu braucht es 
 Für den Empfang von Exchange-Mails das folgende IMAP-Postfach konfigureiren:
 
 Servername: `outlook.office365.com`\
+Servertyp: IMAP Server\
 Port: `993`\
 SSL/TLS: `[x]`\
 Login information: Bentzername und Passwort des Odoo Postfach
@@ -75,6 +76,6 @@ dig example.ch MX +short
 Beschreibung: `Office365 Outgoing`\
 Postausgang-Server: `example-ch.mail.protection.outlook.com`\
 SMTP-Port: `25`\
-Verbindungssicherheit: `TLS (STARTTLS)`
+Verbindungssicherheit: `Keine`
 
 * Die Verbindung testen und den Vorgang abschliessen
