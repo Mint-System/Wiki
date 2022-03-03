@@ -4,9 +4,9 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
-[[Bauteile mit Odoo zertifizieren]]\
 [[Eine Sache des guten Geschmacks]]\
 [[Website mit Odoo erstellen]]\
+[[Bauteile mit Odoo zertifizieren]]\
 [[Neuerungen in Odoo 15]]
 
 ## Veröffentlicht
