@@ -4,5 +4,9 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "de"
+  ]
 }
