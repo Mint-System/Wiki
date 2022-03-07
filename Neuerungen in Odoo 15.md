@@ -4,9 +4,9 @@ publish: false
 
 # Neuerungen in Odoo 15
 
-<https://www.giordano.ch/produkte/odoo/odooversionen/odoo-15-version-v15>
+Passender Blog-Post: <https://www.giordano.ch/produkte/odoo/odooversionen/odoo-15-version-v15>
 
-<https://runbot.odoo.com>
+Testen mit Runbot: <https://runbot.odoo.com>
 
 ## eCommerce
 Der Webshop hat neue Designs erhalten. Auch kann der Artikel im Shop einfach überandere Medien wie zum Beispiel Twitter oder Facebook geteilt werden.

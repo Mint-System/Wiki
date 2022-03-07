@@ -1,2 +1,2 @@
 # Bereich
-Ist ein Meta-Typ.
+Ist ein Meta-Typ im Wiki.

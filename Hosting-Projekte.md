@@ -2,7 +2,7 @@
 
 ## [[Phasen]]
 
-Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
+Zur Umsetzung eines Hosting-Projekt können diese Phase angewendet werden:
 
 * [[Phase Hosting Initialisierung]]
 * [[Phase Wordpress Hosting]]

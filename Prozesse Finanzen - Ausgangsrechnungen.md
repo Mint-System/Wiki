@@ -25,7 +25,7 @@ Verantwortlich: [[Rollen#Projektleiter]]
 
 Arbeitsschritte:
 * Projekt-Übersich öffnen und Rechnung erzeugen
-* Konten, [[Mehrwertssteuersatz]] und Kostenstelle prüfen
+* Konten, Mehrwertssteuersatz und Kostenstelle prüfen
 * Verlinken Zeitrapport
 * Rechnung als Entwurf bereitstellen.
 

@@ -1,3 +1,3 @@
 # Wissensdomäne
 
-Oder Wissensbereich eines Mitarbeitenden.
+Wissensbereich eines Mitarbeitenden.

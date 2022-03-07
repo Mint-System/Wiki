@@ -1,5 +1,5 @@
 # BigBlueButton
-BigBlueButton ist eine zuverlässige und umfangreiche Konferenzlösung.
+BigBlueButton ist eine zuverlässige und umfangreiche Videokonferenzlösung.
 
 ## Guide
 

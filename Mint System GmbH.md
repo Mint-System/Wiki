@@ -5,7 +5,7 @@ Internes Kürzel: ms
 
 [[Mitgliedschaften]]
 
-## Mitarbeiter
+## Mitarbeitende
 
 * [[Janik von Rotz]]
 * [[Kurt Gisler]]

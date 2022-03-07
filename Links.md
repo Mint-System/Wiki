@@ -8,8 +8,6 @@ Die wichtigsten Links der Mint System.
 
 [BigBlueButton](https://meet.mint-system.ch/b)
 
-[BigBlueButton-Raum Mint System](https://bbb.mint-system.ch/b/adm-nki-iay-t5m)
-
 [Odoo Website Mint System](https://www.mint-system.ch)
 
 [Wiki Mint System](https://wiki.mint-system.ch)

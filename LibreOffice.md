@@ -1,6 +1,6 @@
 # LibreOffice
 
-[[LibeOffice Handbuch]]
+[[LibreOffice Handbuch]]
 
 Produkte:
 * [[LibreOffice Impress]]

@@ -4,4 +4,3 @@
 | --------------------- | ------------ | ------- |
 | Tägliches Backup      | Ja           | Ja      |
 | Kontrolle Customizing | Ja           | Nein    |
-|                       |              |         |
