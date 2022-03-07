@@ -25,6 +25,8 @@ Wie ist das Problem entstanden?
 
 Wie sie die Lösung aus?
 
+Quelle: <http://example.com>
+
 ## Gelöst
 
 Issues mit Status *Gelöst*.
