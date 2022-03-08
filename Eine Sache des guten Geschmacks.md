@@ -10,31 +10,31 @@ Aufgrund des Bau der Eisenbahn-Alpentransversale (NEAT) entspringt in Erstfeld (
 
 #### Realisierung
 
-Was einst Vision war, ist heute Realität. Die Basis 57 verarbeitet bereits mehrere Hundert Kilogramm Fisch pro Woche und wird dabei tatkräftig von Odoo unterstützt.
+Was Vision war, ist heute Realität. Die Basis 57 verarbeitet bereits mehrere Hundert Kilogramm Fisch pro Woche und wird dabei in entscheidenden Vorgängen von Odoo unterstützt.
 
 #### Treiber des Projekts
 
-Mit dem Aufbau des Verkaufs und des Vertriebes musste ein zuverlässiges und flexibles Management-System beschafft werden. Aufgrund des zeitlichen Drucks und der regionalen Nähe, hat die Mint System den Zuspruch für die Inbetriebnahme von Odoo erhalten.
+Mit dem Aufbau des Verkaufs und des Vertriebes musste ein zuverlässiges und flexibles Management-System beschafft werden. Aufgrund des zeitlichen Drucks und der regionalen Nähe, hat die Mint System den Zuschlag für die Inbetriebnahme von Odoo erhalten.
 
 #### Hohe Anforderungen
 
-Eine hoher Grad an Automation war einer der kritischen Anforderungen beim Projektstart. Denn die Produktion und Vertrieb von Lebensmitteln unterliegt strengen Bedingungen. Der Spielraum für Fehler in diesem Prozess ist kleiner als in anderen Branchen. Für Basis 57 ist es essenziell, dass ihre hochwertigen Produkte mit einem zuverlässigen System verarbeitet und geliefert werden.
+Eine hoher Grad an Automatisierung wurde als kritische Anforderungen beim Projektstart genannt. Die Produktion und Vertrieb von Lebensmitteln unterliegt strengen Bedingungen. Entsprechend klein ist der Spielraum für Fehler. Für Basis 57 ist es essenziell, dass ihre hochwertigen Produkte mit einem zuverlässigen System verarbeitet und geliefert werden.
 
 #### Direktes Drucken
 
-Eine besondere Herausforderung war das direkte Drucken aus der Verkaufs-App von Odoo. Beim Bestätigen eines Verkaufsauftrag druckt Odoo den dazugehörigen Rüstschein im Raum wo die Fische verarbeitet werden. Mittels Barcode-Scanner und Etiketten-Drucker kann die Bereitstellung der Lieferung gleich vor Ort abgewickelt werden.
+Eine besondere Herausforderung war das direkte Drucken aus der Verkaufs-App von Odoo. Beim Bestätigen eines Verkaufsauftrag druckt Odoo den dazugehörigen Rüstschein im Raum wo die Fische verarbeitet werden. Mittels Barcode-Scanner und Etiketten-Drucker kann die Bereitstellung der Lieferung gleich vor Ort vorbereitet werden.
 
 #### Buchhaltung und Inventar
 
-Genauso schnell wie geliefert wird, wird auch verrechnet. Die erledigten Mengen können direkt fakturiert werden. Mit einer Inventarliste weiss die Kommissionierung bei welchem Kunden wieviel Verpackungsmaterial vorhanden ist. Die einfache Bewirtschaftung der Transportkisten ist ein schöner Nebeneffekt.
+Genauso schnell wie geliefert wird, wird auch verrechnet. Die erledigten Mengen aus Lieferungen können direkt fakturiert werden. Kunden können natülich mit dem neuen QR-Code bezahlen. Mit einer Inventarliste weiss die Kommissionierung immer bei welchen Kunden wieviele Transportksiten vorhanden sind. 
 
 #### Eine Basis für alles
 
-Obwohl Odoo für keine spezifische Branche entwickelt wurde, besteht es den Anforderungen aus der Lebensmittelbranche. Die Basis von Odoo kann für verschiedenste Szenarien angepasst und erweitert werden, ohne das die Kosten dafür in die Höhe schiessen.
+Odoo ist ein Managementsystem, das für keine spezifische Branche entwickelt wurde. Die hohe Flexibilität erlaubt es selbst den hohen Anforderungen der Lebensmittelbranche gerecht zu werden. Die Basis von Odoo kann für verschiedenste Anwendungsfälle angepasst und erweitert werden, und dies bei geringen Implementationskosten.
 
 #### Fazit
 
-Wir sind der Basis 57 sehr dankbar für die zielorientierte Zusammenarbeit. Die Startup-Mentalität mit langfristigem Denken hat bei uns Eindruck hinterlassen und wir freuen uns auf die weiteren interessanten Teilprojekte.
+Wir sind der Basis 57 sehr dankbar für die zielorientierte Zusammenarbeit. Das Fachwissen über die Aquakulturen und die Erfahrung zum Vertrieb der Produkte hat bei uns Eindruck hinterlassen. Wir freuen uns auf viele weiteren Herausforderungen.
 
 #### Apps
 

@@ -22,7 +22,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Gaia     | BigBlueButton Mint System GmbH     | `gaia.mint-system.com`     | Hetzner  |
 | Hades    | Demoumgebung                       | `hades.mint-system.com`    | Hetzner  |
 | Helios   | Server Aersolution Interior AG     | `helios.mint-system.com`   | Hetzner  |
-| Hera     | BigBlueButton Mint System GmbH     | `hera.mint-system.com`     | Hetzner  |
 | Hermes   | Odoo Demoumgebung                  | `hermes.mint-system.com`   | Hetzner  |
 | Hyperion | Server Digital Cluster Uri         | `hyperion.mint-system.com` | ExoScale |
 | Iris     | Server Kleinbrauerei Stiär Biär AG | `iris.mint-system.com`     | Hetzner  |
