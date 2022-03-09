@@ -12,6 +12,7 @@ Die Entwicklung von Odoo Apps erfordert eine exakte Spezifikation.
 * **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
 * **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
 * **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
+* **[[#Bestehende Klassen]]**: Vererbung und Eweiterung von Odoo Modellen
 * **[[#User Stories]]**: Handlungen aus Sicht des Benutzers
 * **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
 
@@ -76,6 +77,12 @@ Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenau
 ### Skonto-Produkt
 
 Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
+
+## Bestehende Klassen
+
+| Klasse                 | Funktionsname | Beschreibung                                               |
+| ---------------------- | ------------- | ---------------------------------------------------------- |
+| StockBarcodeController | main_menu     | Die Funktion soll auch den Arbeitsauftrag anzeigen können. |
 
 ## User Stories
 
