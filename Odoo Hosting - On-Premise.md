@@ -22,14 +22,14 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 
 **DNS**: Der Server soll unter einem Hostname, beispielsweise `odoo.example.com`, erreichbar sein.  
 **Extern**: Wenn der Server und die Odoo Webapplikation nicht vom Kunden verwaltet werden, muss der Server von extern erreichbar sein.  
-**SSH**: Der Remote-Zugriff erfolgt über SSH. Der entsprechende Port muss freigeschaltet sein.  
+**SSH**: Der Remote-Zugriff erfolgt über SSH. Der entsprechende Port (22) muss freigeschaltet sein.  
 **Repositories**: Zur Installation von Software kann der Server auf externe Repositories der jeweiligen Linux-Distribution zugreifen.  
 
 ### Integration
 
 **Login**: Wenn Benutzer sich über [LDAP](https://www.odoo.com/documentation/user/14.0/general/auth/ldap.html) oder [[OAuth]] in Odoo einloggen, müssen die entsprechenden Authentisierungs-Endpunkte erreichbar sein.  
 **E-Mail**: Odoo verschickt Mails zur Benachrichtigungen. Dazu ist eine SMTP-Verbindung zu einem Mail-Account der Organisation notwendig.  
-**HTTPS**: Die Odoo Webapplikation soll unter HTTPS erreichbar sein. Wenn der Server nur intern erreichbar ist, müssen die notwendigen Zertifikate bereitgestellt werden.
+**HTTPS**: Die Odoo Webapplikation soll unter HTTPS ( Port 443) erreichbar sein. Dazu müssen die notwendigen Zertifikate bereitgestellt werden.
 
 ## Best Practice
 
