@@ -34,7 +34,7 @@ Odoo ist ein Managementsystem, das für keine spezifische Branche entwickelt wur
 
 #### Fazit
 
-Wir sind der Basis 57 sehr dankbar für die zielorientierte Zusammenarbeit. Das Fachwissen über die Aquakulturen und die Erfahrung zum Vertrieb der Produkte hat bei uns Eindruck hinterlassen. Wir freuen uns auf viele weiteren Herausforderungen.
+Wir sind der Basis 57 sehr dankbar für die zielorientierte Zusammenarbeit. Das Fachwissen über die Aquakulturen und die Erfahrung zum Vertrieb der Produkte hat bei uns Eindruck hinterlassen. 
 
 #### Apps
 
