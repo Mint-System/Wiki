@@ -4,13 +4,13 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
-[[Eine Sache des guten Geschmacks]]\
-[[Website mit Odoo erstellen]]\
 [[Bauteile mit Odoo zertifizieren]]\
 [[Neuerungen in Odoo 15]]
 
 ## Veröffentlicht
 
+[[Eine Sache des guten Geschmacks]]\
+[[Websites mit Odoo erstellen]]\
 [[Open Source Software = Sicherheit]]\
 [[Odoo Experience 2021]]\
 [[Odoo 15 und die Odoo Partner Days]]\

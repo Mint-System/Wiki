@@ -1,6 +1,7 @@
 ![](https://www.erpopen.nl/web/image/4184/Odoo%20website%20builder.png)
 
-# Website mit Odoo erstellen
+# Websites mit Odoo erstellen
+> Der Website-Builder von Odoo im Detail.
 
 Odoo ist nicht nur ein sehr leistungsfähiges Management-System, sondern auch ein ausgezeichneter Website-Builder. Mit der Odoo Website-App können sie ganz natürlich ihre Unternehmenswebsite gestalten. Viele Features wie Blogs oder Webshops sind "out-of-the-box" enthalten. In diesem Beitrag möchten wir zeigen, was alles mit der Odoo Website-App möglich ist.
 

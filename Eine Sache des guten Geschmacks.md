@@ -1,12 +1,13 @@
 ![](https://www.basis57.ch/wp-content/uploads/2019/09/Bild_2-1024x576.jpg)
 
 # Eine Sache des guten Geschmacks
+> Odoo funktioniert auch in der Fischzucht.
 
 Die Mint System GmbH durfte die [Basis 57 nachhaltige Wassernutzung AG](https://www.basis57.ch/) (Basis 57) bei der Inbetriebnahme von Odoo unterstützen. Wer die Basis 57 ist und wie dort Odoo zum Einsatz kommt, wird in diesem Beitrag erläutert.
 
 #### Basis 57
 
-Aufgrund des Bau der Eisenbahn-Alpentransversale (NEAT) entspringt in Erstfeld (UR) reinstes Bergwasser. Eine handvoll Visionäre kamen zusammen und haben Vorschläge für die wirtschaftliche Nutzung des Bergwassers eingebracht. Das Rennen machte die Basis 57 mit der Idee das Wasser zur Zucht des einzigartigen [Gotthard-Zanders](https://gotthard-zander.ch/) zu verwenden.
+Aufgrund des Bau der Eisenbahn-Alpentransversale (NEAT) entspringt in Erstfeld (UR) reinstes Bergwasser. Eine handvoll Visionäre kamen zusammen und hatten Vorschläge für die wirtschaftliche Nutzung des Bergwassers eingebracht. Das Rennen machte die Basis 57 mit der Idee das Wasser zur Zucht des einzigartigen [Gotthard-Zanders](https://gotthard-zander.ch/) zu verwenden.
 
 #### Realisierung
 
