@@ -5,8 +5,8 @@ Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung muss imm
 ## Initialisierung
 
 Arbeitsschritte:
-* Bereistellen Umgebung gemäss Bestellung
-* Installation initale Apps
+* Bereitstellen Umgebung gemäss Bestellung
+* Installation initiale Apps
 * Konfiguration der Mail-Dienste
 * Einladen Benutzer und Vergabe Berechtigungen
 
@@ -19,7 +19,7 @@ Arbeitsschritte:
 
 ## Implementation
 
-Abhäingig von der Konfiguration der Umgebung können diese Teilschritte ausgeführt werden.
+Abhängig von der Konfiguration der Umgebung können diese Teilschritte ausgeführt werden.
 
 ### Zugriff Mint System bereitstellen
 

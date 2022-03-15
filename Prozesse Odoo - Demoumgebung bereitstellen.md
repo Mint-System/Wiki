@@ -16,8 +16,8 @@ Arbeitsschritte:
 ## Installation
 
 Auswahl:
-* Odoo Cloud Notification Client (OCN) (ocn_client) #Odoo13
-* Web-Enterprise (web_enterprise) #Odoo13-14
+* Odoo Cloud Notification Client (OCN) (`ocn_client`) #Odoo13
+* Web-Enterprise (`web_enterprise`) #Odoo13-14
 
 ### Login Mint System
 
