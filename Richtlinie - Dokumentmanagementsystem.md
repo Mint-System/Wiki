@@ -22,6 +22,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Gründung                                  | Gründungsdokumente                                                                                                 |
 | Infrastruktur                             | Dokumentation der Mint System Infrastruktur                                                                        |
 | Lieferanten/[Name]                        | Lieferantenbeziehungen werden hier abgebildet                                                                      |
+| Kunden/[Name]                        | Kundenbeziehungen werden hier abgebildet                                                                      |
 | Management Handbuch                       | Dokumentation zu Methoden und Vorgehensmodellen                                                                    |
 | Marketing                                 | Dokumente zu Marketing-Kampagnen                                                                                   |
 | Meeting                                   | Meeting Protokolle der Mint System                                                                                 |

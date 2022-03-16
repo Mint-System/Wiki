@@ -6,3 +6,4 @@ Hilfestellung für Kommandozeilenbefehle.
 * [[man sql]]
 * [[man git]]
 * [[man docker]]
+* [[man gpg]]
