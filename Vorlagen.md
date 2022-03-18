@@ -21,3 +21,4 @@ tags:
 * [[Vorlage Minor Improvements]]
 * [[Vorlage Bugs]]
 * [[Vorlage Prozesse Odoo]]
+* [[Vorlage Metriken der Odoo Anpassungen.en]]

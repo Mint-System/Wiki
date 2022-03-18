@@ -14,6 +14,7 @@ graph LR;
 
 * [[Prozesse Akquise - Angebot erstellen]]
 * [[Prozesse Akquise - Anforderungsanalyse]]
+* [[Prozesse Akquise - Analyse Odoo Customization]]
 * [[Prozesse Akquise - Kontaktaufnahme]]
 * [[Prozesse Akquise - Odoo Demoumgebung erstellen]]
 * [[Prozesse Akquise - Präsentation]]
