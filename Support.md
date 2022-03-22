@@ -1,7 +1,7 @@
 # Support
 
-Die Mint System bietet einen Support.
+Die Mint System bietet ein [[Technischer Support]].
 
 ## Kontakt
 
-Der support per Mail unter <support@mint-system.ch> erreichbar.
+Der Support ist per Mail unter <support@mint-system.ch> erreichbar.

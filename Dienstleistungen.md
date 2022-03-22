@@ -71,7 +71,7 @@ Umfasst diese Leistungen:
 
 Preis: 160 CHF pro Stunde
 
-## Technischer Support
+## [[Technischer Support]]
 
 ![[icon support.png]]
 
