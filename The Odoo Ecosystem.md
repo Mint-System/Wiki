@@ -178,7 +178,10 @@ Manual: <https://www.odoo-wiki.org/certificate-planner.html>
 ---
 ### Demo
 
-<https://binaryone.mintsys.ch>
+<https://runbot.odoo.com/>
+
+Benutzername: `admin`\
+Passwort: `admin`
 
 Script: [[Tutorial - Extend the Odoo product model]]
 
