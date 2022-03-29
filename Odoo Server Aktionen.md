@@ -17,7 +17,7 @@ Create server action:
 
 Reports stock movements with problematic definitions.
 
-```py
+```python
 quants = env['stock.quant'].search([])
 move_line_ids = []
 
@@ -93,7 +93,7 @@ Fixes problematic stock movement by resetting the reserved quantity.
 
 Must be run as superuser.
 
-```py
+```python
 quants = env['stock.quant'].search([])
 move_line_ids = []
 warning = ''
