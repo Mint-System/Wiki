@@ -1,27 +1,25 @@
 # Angebot
 Das Angebot der Mint System.
 
-## Beratung
-* [[Workshops]]
-
-## Software
-* [[LibreOffice]]  
-* [[Odoo]]  
-* [[Moodle]]  
-* [[Nextcloud]]  
-* [[BigBlueButton]]  
-* [[Linux Server Patching]]  
-* [[OpenEduca]]  
+## Software Know-How
+* [[LibreOffice]]
+* [[Odoo]]
+* [[Moodle]]
+* [[Nextcloud]]
+* [[BigBlueButton]]
+* [[Linux Server Patching]]
+* [[OpenEduca]]
 * [[Odoo Zeiterfassung]]
 * [[ERPNext]]
 
-## Dienstleistungen
-* [[Hosting]]  
+## [[Dienstleistungen]]
+
+* [[Workshops]]
 * [[Technischer Support]]
 * [[Software Engineering]]
 * [[Security Audit]]
 
-## Hosting
+## [[Hosting]]
 * [[Nextcloud Hosting]]  
 * [[Odoo Hosting]]  
 * [[Managed Server]]
@@ -30,6 +28,6 @@ Das Angebot der Mint System.
 * [[Moodle Hosting]]
 * [[Wordpress Hosting]]
 
-## [[Produkte]]
+## Produkte
 * [[Terminal Zeiterfassung]]
 * [[Odoo Maintenance]]

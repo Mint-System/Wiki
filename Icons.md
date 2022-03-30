@@ -1,12 +1,4 @@
-# Produkte
-
-Produktdefinition der Mint System.
-
-## Diensleitstungen
-
-Siehe [[Dienstleistungen]].
-
-## Icon
+# Icons
 
 Zu Generierung von Icons wird <https://spilymp.github.io/ibo/> verwendet.
 
@@ -30,4 +22,3 @@ Bootrap Icons:
 | bi bi-people         | ![[odoo_icon_people.png]]  |
 | bi bi-plug           | ![[odoo_icon_plug.png]]    |
 | bi bi-circle         | ![[odoo_icon_circle.png]]  |
-|                      |                            |
