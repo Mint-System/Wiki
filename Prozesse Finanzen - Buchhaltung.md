@@ -34,14 +34,14 @@ Sollkonto: 6910 Bankspesen
 
 Kunde: VISECA\
 Konto: 4410 Hostingaufwand\
-MWST: MwSt. 0,0%  
+MWST: 0.0%  
 
 #### Rechnung UVG
 
 ![[Pasted image 20220322150318.png]]
 
 Konto: 2271 UVG (Mobiliar)\
-MWST: 0.0 %
+MWST: 0.0%
 
 #### Rechnung korrigieren
 
@@ -77,22 +77,23 @@ Habenkonto: 1022 Kontokorrent\
 Sollkonto: 2160 Darlehen\
 Betrag: 1234.53 CHF
 
-#### Einbehaltene Lohnauszahlungen
-
-Habenkonto: 1091 Lohndurchlaufkonto\
-Sollkonto: 2330 Kurzfristige Rückstellungen  
-
 #### Lohnabrechung
 
-Die Lohnbuchhaltung ist [[Prozesse Finanzen - Personalabrechnung#Buchhaltung]]|hier]] beschrieben.
+Die Lohnbuchhaltung ist [[Prozesse Finanzen - Personalabrechnung#Buchhaltung|hier]] beschrieben.
 
 #### Rückzahlung
+
+Einzahlung und Gutschrift auf das gleiche Konto buchen.
 
 Konto: 1092 Zahlungsdifferenzen
 
 #### Reisespesen
 
 Konto: 6640 Reisespesen
+
+#### Sollzins Bank
+
+Konto: 6900 Zinsaufwand
 
 ## Mehrwersteuer abrechnen
 

@@ -2,14 +2,14 @@
 
 Dienstleistungen der Mint System GmbH und die dazugehörigen Leistungen.
 
+Zur Aufstellung gehört die Übersicht der [[Abos und Preise]].
+
 ## Projektleitung
 
 ![[odoo_icon_project.png]]
 
 Umfasst diese Leistungen:
 * Projektleitung gemäss [[Vorgehensmodell]]
-
-Preis: 180 CHF pro Stunde
 
 ## Geschäftsanalyse
 
@@ -80,4 +80,4 @@ Umfasst diese Leistungen:
 * Unterstützung bei Ausfällen
 * Beanwortung fachliche Fragestellungen
 
-Preis: 100 CHF pro Stunde
+Preis: 120 CHF pro Stunde

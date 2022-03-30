@@ -1,0 +1,23 @@
+# Abo und Preise
+
+Unsere Leistungen werden pro Stunde gemäss untenstehender Preisliste verrechnet. Mit einem Supportabo `MINT` sichern Sie sich Rabatte auf all unsere Stundensätze. Wählen Sie das Abo, welches Ihre Bedürfnisse am besten deckt und die Folgekosten für Sie tief hält.
+
+## Supportabo
+
+| Abovariante | Preis pro Jahr |
+| ----------- | --------------:|
+| Ohne Abo    |          0 CHF |
+| MINT        |        500 CHF |
+| MINT+       |       2500 CHF |
+
+Ein Upgrade ist jederzeit auf Anfrage und Anfang eines neuen Monats möglich.
+
+## Preisliste
+
+| Leistungen                           | Ohne Abo |    Mint |   MINT+ |
+| ------------------------------------ | --------:| -------:| -------:|
+| Projektleitung                       |  180 CHF | 160 CHF | 150 CHF |
+| Software-Entwicklung und Engineering |  160 CHF | 150 CHF | 140 CHF |
+| Support                              |  120 CHF | 100 CHF |  90 CHF |
+
+Die angegebenen Kosten verstehen sich pro Stunde, exkl. MWST. Geschätzte Zeitaufwände der auszuführenden Arbeiten werden dem Kunden vorgängig gemeldet. Mint System stellt dem Kunden jährlich eine Rechnung im Voraus über die gebuchte Abovarianten, beginnend ab Vertragsbeginn. Kosten der genutzten Leistungen werden monatlich nach Aufwand verrechnet. Die Kündigungsfrist beträgt 6 Monate.
