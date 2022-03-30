@@ -14,7 +14,7 @@ Ein Upgrade ist jederzeit auf Anfrage und Anfang eines neuen Monats möglich.
 
 ## Preisliste
 
-| Leistungen                           | Ohne Abo |    Mint |   MINT+ |
+| Leistungen                           | Ohne Abo |    MINT |   MINT+ |
 | ------------------------------------ | --------:| -------:| -------:|
 | Projektleitung                       |  180 CHF | 160 CHF | 150 CHF |
 | Software-Entwicklung und Engineering |  160 CHF | 150 CHF | 140 CHF |
