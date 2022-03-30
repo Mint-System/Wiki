@@ -9,7 +9,7 @@ Diese Tabelle kann als Excel erstellt werden:
 Erläuterung der Attribute:
 
 * **ID**: Projektkürzel mit ID der Aufgabe
-* **Phase**: Referenz auf die Pojektphase
+* **Phase**: Referenz auf die Projektphase
 * **Titel**: Kurzer Titel
 * **Beschreibung**: Ausführliche Beschreibung der Anforderung
 * **Kriterium**: Muss oder Kann
