@@ -3,7 +3,7 @@
 # Abo und Preise
 Version: 2021-03-21
 
-Unsere Leistungen werden pro Stunde gemäss untenstehender Preisliste verrechnet. Mit einem Supportabo `MINT` sichern Sie sich Rabatte auf all unsere Stundensätze. Wählen Sie das Abo, welches Ihre Bedürfnisse am besten deckt und die Folgekosten für Sie tief hält.
+Unsere Leistungen werden pro Stunde gemäss untenstehender Preisliste verrechnet. Mit einem Supportabo **MINT** sichern Sie sich Rabatte auf all unsere Stundensätze. Wählen Sie das Abo, welches Ihre Bedürfnisse am besten deckt und die Folgekosten für Sie tief hält.
 
 ## Supportabo
 
