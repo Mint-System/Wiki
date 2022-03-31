@@ -6,7 +6,7 @@ Korrenzprodukte zu Odoo. Dazu der [Competitors Quick Guide](https://docs.google.
 
 ### Bexio
 
-Bexio ist eine Schweizer Management-Software und die grösste Konkurrenz. Sie sind erfolgreich und führen Schweizweit Werbekampagnen durch. Zudem hat sie eine Partnerschaft mit Swiss Life.
+Bexio ist eine Schweizer Management-Software und die grösste Konkurrenz. Sie sind erfolgreich und führen Schweizweit Werbekampagnen durch. Zudem hat Sie eine Partnerschaft mit Swiss Life.
 
 Seit 2018 gehört Bexio der Versicherungsgesellschaft "die Mobilar". 
 

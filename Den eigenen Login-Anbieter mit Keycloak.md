@@ -2,13 +2,13 @@
 
 Welche Software heutzutage für Login-Dienste zum Einsatz kommt.
 
-Vielleicht ist ihnen auch schon aufgefallen, dass wenn sie auf einer Webmail-Seite wie Outlook oder im eBanking-Portal wie bei Raiffeisen einloggen wollen, werden sie immer zuerst umgeleitet.
+Vielleicht ist ihnen auch schon aufgefallen, dass wenn Sie auf einer Webmail-Seite wie Outlook oder im eBanking-Portal wie bei Raiffeisen einloggen wollen, werden Sie immer zuerst umgeleitet.
 
 Ruft man zum Beispiel <https://outlook.live.com> auf und klickt auf *Sign in*, dann landet man bei <https://login.live.com>. Man ist genau genommen nicht mehr bei Outlook, sondern auf einer separaten Login-Seite.
 
 **SP und IdP**
 
-Man unterscheidet hier zwischen Service-Provider (SP) und Identity-Provider (IdP). Der SP erlaubt die Nutzung eines Dienstes wie Mail oder eBanking, kümmert sich aber nicht darum wie sie authentifiziert werden. Der IdP regelt die Authentifizierung und stellt ihre Identität sicher.
+Man unterscheidet hier zwischen Service-Provider (SP) und Identity-Provider (IdP). Der SP erlaubt die Nutzung eines Dienstes wie Mail oder eBanking, kümmert sich aber nicht darum wie Sie authentifiziert werden. Der IdP regelt die Authentifizierung und stellt ihre Identität sicher.
 
 **Der Vorteil**
 
@@ -26,7 +26,7 @@ Ein solcher IdP ist [Keycloak](https://www.keycloak.org/). Diese Software wird v
 
 **Kein ActiveDirectroy**
 
-Vielleicht haben sie schon von ActiveDirectory gehört. Das ist sozusagen der IdP in Windows-Netzwerken. Im ActiveDirectory werden ebenfalls Benutzer, Gruppen, Berechtigungen und Richtlinien verwaltet.
+Vielleicht haben Sie schon von ActiveDirectory gehört. Das ist sozusagen der IdP in Windows-Netzwerken. Im ActiveDirectory werden ebenfalls Benutzer, Gruppen, Berechtigungen und Richtlinien verwaltet.
 
 In naher Zukunft wird es ActiveDirectory nicht mehr geben. Da fast alle Anwendungen im Browser funktionieren und somit das lokale Login auf dem Windows-Computer im Unternehmensnetzwerk überflüssig wird, braucht es auch keine Authentifizierungsschicht für lokale Unternehmensnetze.
 

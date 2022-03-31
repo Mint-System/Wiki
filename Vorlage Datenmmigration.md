@@ -28,7 +28,7 @@ Wie müssen die Input-Daten transformiert werden? Wie heissen die transformierte
 
 ## Output
 
-Welches sie die Output-Daten aus dem Transformationsprozess? Wie heissen die Output-Dateien?
+Welches Sie die Output-Daten aus dem Transformationsprozess? Wie heissen die Output-Dateien?
 
 * partner.output.csv
 

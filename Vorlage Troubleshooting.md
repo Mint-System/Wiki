@@ -24,7 +24,7 @@ Wie ist das Problem entstanden?
 
 **Lösung**
 
-Wie sie die Lösung aus?
+Wie Sie die Lösung aus?
 
 Quelle: <http://example.com>
 

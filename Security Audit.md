@@ -6,4 +6,4 @@ Die Mint System führt auf ihren Server, Applikationen und Container gängige Si
 
 ### SBOM
 
-Wir helfen ihnen eine [[SBOM]] von einem Applikationsserver oder Container zu generieren. Damit können sie validieren welche Software effektiv im Rechenzentrum im Einsatz ist.
+Wir helfen ihnen eine [[SBOM]] von einem Applikationsserver oder Container zu generieren. Damit können Sie validieren welche Software effektiv im Rechenzentrum im Einsatz ist.

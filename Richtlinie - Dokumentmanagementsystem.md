@@ -90,7 +90,7 @@ Temporäre Dateien können hier abgelegt werden.
 
 ## Review-Workflow
 
-Dokumente zur Review werden mit im Chat mit `@Person Review` getagged. Hat die Person das Dokument angeschaut und Kommentar hinterlassen, meldet sie das über den Chat zurück.
+Dokumente zur Review werden mit im Chat mit `@Person Review` getagged. Hat die Person das Dokument angeschaut und Kommentar hinterlassen, meldet Sie das über den Chat zurück.
 
 ## Tags
 

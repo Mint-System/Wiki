@@ -56,7 +56,7 @@ Sollen die Versandkosten abgestuft nach Einkaufswert oder nach Gewicht berechnet
 Die Versandmethoden werden nach dem Erstellen als einzelne Produkte unter *Verkauf > Produkte* angezeigt.
 
 ## Varianten im Warenkorb
-Automatischisches Produktzubehör oder vorgeschlagene Produkte und Alternativen, um den Kunden mehr Artikel zu zeigen, die sie vielleicht mögen, ist möglich.
+Automatischisches Produktzubehör oder vorgeschlagene Produkte und Alternativen, um den Kunden mehr Artikel zu zeigen, die Sie vielleicht mögen, ist möglich.
 
 ## Allgemeine Geschäftsbedingungen
 In der Regel wird eine separate Website mit dem Inhalt Geschäftsbedingungen dafür zur Verfügug gestellt. Der Link zur Seite kann im Header oder im Footer angelegt werden.

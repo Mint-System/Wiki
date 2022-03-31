@@ -22,7 +22,7 @@ Ergebnis: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
 
 **Berichtsvorlagen**
 
-- Haben sie eine Vorlage zu einem Dokumenttyp:
+- Haben Sie eine Vorlage zu einem Dokumenttyp:
 	- Packvorgang
 	- Lieferschein
 	- Rechnung

@@ -20,5 +20,5 @@ Ergebnis: Der Bewerbungsprozess
 
 **Konfiguration**
 
-- Haben sie einen Fragekatalog für die Interviews?  ⭐
+- Haben Sie einen Fragekatalog für die Interviews?  ⭐
 - Über wie viele Stufen erfolgt der Bewertungsprozess?  ⭐

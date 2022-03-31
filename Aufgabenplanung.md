@@ -8,4 +8,4 @@ Jede Woche gibt es ein Meeting die laufende Projekte besprochen und deren Arbeit
 
 ## Odoo Aufgaben nutzen
 
-Die Odoo Aufgaben sind der integrale Teil der Arbeitsplanung. Mit diesen planen Mitarbeiter an welchem Tag sie eine Aufgabe erledigen möchten und erinnern sich an bestimmte Aktivitäten.
+Die Odoo Aufgaben sind der integrale Teil der Arbeitsplanung. Mit diesen planen Mitarbeiter an welchem Tag Sie eine Aufgabe erledigen möchten und erinnern sich an bestimmte Aktivitäten.

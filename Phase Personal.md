@@ -36,7 +36,7 @@ Ergebnis: Die Personaldaten der Mitarbeiter sind erfasst.
 **Prozess**
 
 - Ist eine Onboarding-Checklisten definiert?  ⭐
-- Halten sie Probezeitgespräche fest?
+- Halten Sie Probezeitgespräche fest?
 
 **Konfiguration**
 
@@ -61,7 +61,7 @@ Ergebnis: Die Personaldaten der Mitarbeiter sind erfasst.
 **Planung, Durchführung, Nachweise**
 
 - Gibt es Weiterbildungsprogramme für Mitarbeitende?  ⭐
-- Führen sie interne Schlungen durch?
+- Führen Sie interne Schlungen durch?
 - Werden Schulungsnachweise erstellt und abgelegt?
 
 

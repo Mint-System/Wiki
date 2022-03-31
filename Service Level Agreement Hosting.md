@@ -31,11 +31,11 @@ Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten die folgenden
 * Der Code zum Aufbau der Infrastruktur und Konfigurationen der Hosting-Dienstleistungen ist Open Source.
 * Sie können auf Ende des aktuellen Monat ihr Hosting-Vertrag kündigen und zu einem anderen Anbieter wechseln.
 * Daten können jederzeit vollumfänglich als Datenbank- und/oder Datei-Dump exportiert werden.
-* Auf Wunsch erhalten sie SSH-Zugriff auf den Server mit den Hosting-Dienstleistungen.
+* Auf Wunsch erhalten Sie SSH-Zugriff auf den Server mit den Hosting-Dienstleistungen.
 
 ## Sicherheit
 
-Die Sicherheit Ihrer Daten ist uns sehr wichtig und wir haben unsere Systeme und Verfahren so gestaltet, dass sie dies gewährleisten. Hier sind einige Highlights:
+Die Sicherheit Ihrer Daten ist uns sehr wichtig und wir haben unsere Systeme und Verfahren so gestaltet, dass Sie dies gewährleisten. Hier sind einige Highlights:
 
 * **SSL** - Alle Webverbindungen zu Client-Instanzen sind mit 256-Bit-SSL-Verschlüsselung (HTTPS mit einem 2048-Bit-Modul-SSL-Zertifikat) geschützt und laufen hinter SSL-Stacks der Klasse A. Alle unsere Zertifikatsketten verwenden bereits SHA-2.
 * **Zuverlässige Plattform** - Server mit voller Hardware-Garantie, redundanter Datenspeicherung, Netzwerk und Stromversorgung.

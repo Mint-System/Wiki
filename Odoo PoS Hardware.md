@@ -4,7 +4,7 @@ Auf der Odoo-Website <https://www.odoo.com/de_DE/app/point-of-sale-hardware> wir
 
 ## Ohne IoT Box
 
-Zum Drucker der Belege aus dem Odoo Point of sale (PoS) benötigen sie ein Tablet (iOS oder Android) und einen Bluetooth- oder NFC-fähigen Belegdrucker. Auf dem Tablet wird die Odoo App und Druck-Assistent-App des jeweiligen Herstellers installiert. Zur Abwicklung der Zahlung braucht es eine ständige Internetverbindung.
+Zum Drucker der Belege aus dem Odoo Point of sale (PoS) benötigen Sie ein Tablet (iOS oder Android) und einen Bluetooth- oder NFC-fähigen Belegdrucker. Auf dem Tablet wird die Odoo App und Druck-Assistent-App des jeweiligen Herstellers installiert. Zur Abwicklung der Zahlung braucht es eine ständige Internetverbindung.
 
 **Epson TM Print Assistant App**
 

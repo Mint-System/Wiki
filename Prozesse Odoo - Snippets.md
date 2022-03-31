@@ -13,10 +13,10 @@ Arbeitsschritte:
 ## Snippet publizieren
 
 Arbeitsschritte:
-* Stellen sie sicher, dass sie auf dem korrekten Git-Branch sind (git checkout)
-* Synchronisieren sie das lokale Repository (git pull)
-* Stagen sie ihr Odoo Snippet (git add)
-* Erstellen sie den Commit mit einer Nachricht (git commit -m)
-* Laden sie Änderungen hoch (git push)
+* Stellen Sie sicher, dass Sie auf dem korrekten Git-Branch sind (git checkout)
+* Synchronisieren Sie das lokale Repository (git pull)
+* Stagen Sie ihr Odoo Snippet (git add)
+* Erstellen Sie den Commit mit einer Nachricht (git commit -m)
+* Laden Sie Änderungen hoch (git push)
 
 ![[Odoo Snippet publizieren.gif]]

@@ -6,7 +6,7 @@ Odoo-Module werden laufend weiterentwickelt und müssen immer auf dem neusten St
 
 ## Enterprise
 
-Odoo S.A. stellt sicher, dass alle Enterprise-lizenzierten Modulen bei einem [[Upgrade]] oder [[Update]] funktionieren. Die monatlichen Kosten der Enterprise-Module sind sehr gering, weil sie sehr oft installiert und lizenziert werden. Doch wie sieht es mit Community-Modulen aus, die nicht lizenziert werden?
+Odoo S.A. stellt sicher, dass alle Enterprise-lizenzierten Modulen bei einem [[Upgrade]] oder [[Update]] funktionieren. Die monatlichen Kosten der Enterprise-Module sind sehr gering, weil Sie sehr oft installiert und lizenziert werden. Doch wie sieht es mit Community-Modulen aus, die nicht lizenziert werden?
 
 ## Community
 

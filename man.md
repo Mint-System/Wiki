@@ -7,3 +7,4 @@ Hilfestellung für Kommandozeilenbefehle.
 * [[man git]]
 * [[man docker]]
 * [[man gpg]]
+* [[man ripgrep]]

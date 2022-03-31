@@ -3,9 +3,9 @@
 ## Odoo Demoumgebung erstellen
 
 Arbeitsschritte:
-* Definieren sie einen Datenbanknamen
-* Rufen sie die Url <https://$DATENBANKNAMEN.14.odoo.buil> auf
-* Installieren sie die Odoo-Datenbank
+* Definieren Sie einen Datenbanknamen
+* Rufen Sie die Url <https://$DATENBANKNAMEN.14.odoo.buil> auf
+* Installieren Sie die Odoo-Datenbank
 	* Master Password: siehe [[Passwortmanager]]
 	* Database Name: `$DATENBANKNAMEN`
 	* Email: Persönliche Email

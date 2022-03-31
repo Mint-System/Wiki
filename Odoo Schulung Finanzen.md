@@ -45,7 +45,7 @@ Ausführen des Assistenen.
 
 ![[Kontenplan beurteilen.png]]
 
-Passen sie den Kontenplan, die Steuersätze und Perioden an.
+Passen Sie den Kontenplan, die Steuersätze und Perioden an.
 
 <https://www.odoo-wiki.org/finanzen-buchhaltung.html#kontenplan-einrichten>
 
@@ -65,7 +65,7 @@ Konfigurieren die das Bankkonto.
 
 ### Eröffnung
 
-Passen sie die Eröffnungsbuchung an.
+Passen Sie die Eröffnungsbuchung an.
 
 <https://www.odoo-wiki.org/finanzen-buchhaltung.html#eroffnungsbuchung-anpassen>
 
@@ -75,29 +75,29 @@ Ausführen des Assistenen.
 
 ![[Die erste Rechnung.png]]
 
-Erstellen sie eine Ausgangsrechnung und betrachten sie die Buchungszeilen.
+Erstellen Sie eine Ausgangsrechnung und betrachten Sie die Buchungszeilen.
 
 <https://www.odoo-wiki.org/abrechnung.html#ausgangsrechnung-erfassen>
 
 ### Eingangsrechnung
 
-Fügen sie ein Lieferanenkonto hinzu.
+Fügen Sie ein Lieferanenkonto hinzu.
 
 <https://www.odoo-wiki.org/abrechnung.html#lieferantenkonto-konfigurieren>
 
-Erstellen sie eine Eingangsrechnung und betrachten sie die Buchungszeilen.
+Erstellen Sie eine Eingangsrechnung und betrachten Sie die Buchungszeilen.
 
 <https://www.odoo-wiki.org/abrechnung.html#eingangsrechnung-erfassen>
 
 ### Buchungssatz
 
-Fügen sie einen manuellen Buchungssatz hinzu.
+Fügen Sie einen manuellen Buchungssatz hinzu.
 
 <https://www.odoo-wiki.org/finanzen-buchhaltung.html#buchungsatz-erstellen>
 
 ### Bilanz und Erfolgsrechnung
 
-Zeigen sie die Bilanz und Erfolgsrechnung an.
+Zeigen Sie die Bilanz und Erfolgsrechnung an.
 
 <https://www.odoo-wiki.org/finanzen-berichte.html#bilanz-anzeigen>
 
@@ -109,29 +109,29 @@ SEPA-Zahlung aktivieren.
 
 <https://www.odoo-wiki.org/finanzen-zahlungen.html#sepa-zahlung-aktivieren>
 
-Erfassen sie eine SEPA-Zahlung.
+Erfassen Sie eine SEPA-Zahlung.
 
 <https://www.odoo-wiki.org/finanzen-zahlungen.html#sepa-zahlung-erstellen>
 
-Betrachten sie die Buchungszeilen.
+Betrachten Sie die Buchungszeilen.
 
 <https://www.odoo-wiki.org/finanzen-zahlungen.html#zahlung-anzeigen>
 
-Erstellen sie eine Stapelzahlung.
+Erstellen Sie eine Stapelzahlung.
 
 <https://www.odoo-wiki.org/finanzen-zahlungen.html#stapelzahlung-anlegen>
 
-Betrachten sie den Status der Rechnung.
+Betrachten Sie den Status der Rechnung.
 
 ### Abgleichen
 
-Importieren sie die Datei mit den Kontoauszügen.
+Importieren Sie die Datei mit den Kontoauszügen.
 
 <https://www.odoo-wiki.org/finanzen-buchhaltung.html#kontoauszug-importieren>
 
-Gleichen sie die Zahlung der Lieferantenrechnung ab.
+Gleichen Sie die Zahlung der Lieferantenrechnung ab.
 
-Betrachten sie die Buchungszeilen der Zahlung.
+Betrachten Sie die Buchungszeilen der Zahlung.
 
 ## Diskussion
 

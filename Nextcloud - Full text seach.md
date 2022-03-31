@@ -68,6 +68,6 @@ Memory: 68 MB
 
 ## Suchen
 
-In Nextcloud bindet sie Suche nun die Ergebisse aus dem Index ein.
+In Nextcloud bindet Sie Suche nun die Ergebisse aus dem Index ein.
 
 ![[Nextcloud Full text seach.png]]

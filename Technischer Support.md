@@ -4,8 +4,8 @@ Als Kunde der Mint System braucht man nicht nur einen zuverlässigen Partner. Ma
 
 ### Stundenpaket
 
-Der technische Support von Mint System bietet genau das. Sie kaufen ein halbjährliches Stundenpaket und wir reservieren diese Stunden für Sie. Einmal gebucht, können Sie uns bedenkenlos kontaktieren und ihr Problem schildern. Entstehen Aufwände, die nicht im Rahmen des Supportpakets abgewickelt werden können, informieren wir sie darüber.
+Der technische Support von Mint System bietet genau das. Sie kaufen ein halbjährliches Stundenpaket und wir reservieren diese Stunden für Sie. Einmal gebucht, können Sie uns bedenkenlos kontaktieren und ihr Problem schildern. Entstehen Aufwände, die nicht im Rahmen des Supportpakets abgewickelt werden können, informieren wir Sie darüber.
 
 ### Reduzierter Stundenansatz
 
-Weil die unverbrauchten Stunden, nicht übertragen werden könne, haben Supportstunden einen tieferen Satz. Eine Übersicht erhalten sie unter [[Dienstleistungen]].
+Weil die unverbrauchten Stunden, nicht übertragen werden könne, haben Supportstunden einen tieferen Satz. Eine Übersicht erhalten Sie unter [[Dienstleistungen]].

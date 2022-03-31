@@ -14,7 +14,7 @@ Ergebnis: Vorgang für Datenexport ist bekannt und Strategie Datenmigration ist 
 
 **Abgrenzung**
 
-- Möchten sie Transkationsdaten und/oder Stammdaten migrieren ⭐
+- Möchten Sie Transkationsdaten und/oder Stammdaten migrieren ⭐
 - Welche Attribute und Objekte sollen migriert werden? ⭐
 
 **Quellen**

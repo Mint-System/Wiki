@@ -83,5 +83,5 @@ Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 
 * Welchen Kommuniikationsweg (E-Mail, Brief) wird zum Versand der Rechnungen verwendet?
 * Wie werden die Rechnungen nummeriert?
-* An welchem Datum versenden sie Rechnung?
+* An welchem Datum versenden Sie Rechnung?
 * Wie sieht der Prozess der Rechnugnsprüfung aus?

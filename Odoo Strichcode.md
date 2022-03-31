@@ -28,7 +28,7 @@ Als Scanner haben sich Produkte der Datalogic bewährt. So zum Beispiel der Gryp
 
 **Ventor App**
 
-Die App und Geräte von Ventor funktionieren autonom. Das heisst sie stellen eine direkte Verbindung mit der Odoo-Schnittstelle her und kommunizieren die Barcode-Scans darüber.
+Die App und Geräte von Ventor funktionieren autonom. Das heisst Sie stellen eine direkte Verbindung mit der Odoo-Schnittstelle her und kommunizieren die Barcode-Scans darüber.
 
 Website: https://ventor.app/  
 Anleitung: https://ventor.tech/warehouse-management/how-to-connect-a-barcode-scanner-with-odoo/  

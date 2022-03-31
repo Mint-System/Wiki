@@ -64,7 +64,7 @@ Kann der Geschäftswagen vom Mitarbeitenden gekauft werden, bildet eine allfäll
 
 # Verpflegungskosten
 
-Treten Mitarbeitende eine Geschäftsreise an oder sind sie aus anderen Gründen gezwun­gen, sich ausserhalb ihres sonstigen Arbeitsplatzes zu verpflegen, haben sie Anspruch auf Vergütung der effektiven Kosten. Die folgenden Richtwerte sollen nicht überschritten werden.
+Treten Mitarbeitende eine Geschäftsreise an oder sind Sie aus anderen Gründen gezwun­gen, sich ausserhalb ihres sonstigen Arbeitsplatzes zu verpflegen, haben Sie Anspruch auf Vergütung der effektiven Kosten. Die folgenden Richtwerte sollen nicht überschritten werden.
 
 Frühstück (bei Abreise vor 07.30 Uhr bzw. bei vorangehender Übernachtung, sofern das Frühstück in den Hotelkostennicht inbegriffen ist): CHF 15
 
@@ -127,7 +127,7 @@ Dieses Spesenreglement wurde von der Steuerverwaltung des Kantons Uri am …….
 
 Aufgrund der Genehmigung verzichtet Mint System GmbH auf die betragsmässige Bescheinigung der nach tatsächlichem Aufwand abgerechneten Spesen in den Lohnausweisen.
 
-Jede Änderung dieses Spesenreglementes oder dessen Ersatz wird der Steuerverwaltung des Kantons Uri vorgängig zur Genehmigung unterbreitet. Ebenso wird sie infor­miert, wenn das Reglement ersatzlos aufgehoben wird.
+Jede Änderung dieses Spesenreglementes oder dessen Ersatz wird der Steuerverwaltung des Kantons Uri vorgängig zur Genehmigung unterbreitet. Ebenso wird Sie infor­miert, wenn das Reglement ersatzlos aufgehoben wird.
 
 # Inkrafttreten
 

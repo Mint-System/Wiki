@@ -2,7 +2,7 @@
 
 ## Autoresponder einschalten
 
-Öffnen sie die Mail-App und machen sie einen Rechtsklick auf ihr Mail-Konto.
+Öffnen Sie die Mail-App und machen Sie einen Rechtsklick auf ihr Mail-Konto.
 
 ![[Infomaniak Autoresponder einschalten.png]]
 

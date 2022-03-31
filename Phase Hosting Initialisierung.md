@@ -16,7 +16,7 @@ Ergebnis: Die Hosting-Lösungen sind initialisiert.
 **Domain und DNS**
 
 - Wo werden die Domains und DNS-Einträge verwaltet?⭐
-- Können sie den Zugriff auf den entsprechenden Account teilen?
+- Können Sie den Zugriff auf den entsprechenden Account teilen?
 
 ### Todos
 

@@ -4,15 +4,15 @@ Damit die Mint System effizien Berichtsanpassungen implementieren kann, haben wi
 
 Im folgenden wird erläutert wie der Kunde eine Berichtsanpassungen spezifizieren kann.
 
-* Laden sie die Software [[Inkscape]] herunter
-* Exportieren sie einen Odoo-Bericht
+* Laden Sie die Software [[Inkscape]] herunter
+* Exportieren Sie einen Odoo-Bericht
 
 ![[Angebot Drucken.png]]
 
-* Öffnen sie den Bericht mit Inkscape
+* Öffnen Sie den Bericht mit Inkscape
 
 ![[Open with Inkscape.png]]
 
-* Übernehmen sie die Standardeinstellungen im Dialog "PDF Import Settings"
-* Nun können sie das PDF bearbeiten und kommentieren
-* Speichern die das bearbeitet PDF ab und teilen sie die Änderungen mit
+* Übernehmen Sie die Standardeinstellungen im Dialog "PDF Import Settings"
+* Nun können Sie das PDF bearbeiten und kommentieren
+* Speichern die das bearbeitet PDF ab und teilen Sie die Änderungen mit

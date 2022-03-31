@@ -57,7 +57,7 @@ Nun muss nur noch das Odoo-Backup vom Backup-Server wiederhergestellt werden. De
 
 `restic restore 70c0071d --target /`
 
-Steht die Datei zur Verfügung kann sie mit `docker-odoo-restore` wiederhergestellt werden. Aber zuerst muss die Odoo-Datenbank installiert werden, damit der Filestore zur Verfügung steht.
+Steht die Datei zur Verfügung kann Sie mit `docker-odoo-restore` wiederhergestellt werden. Aber zuerst muss die Odoo-Datenbank installiert werden, damit der Filestore zur Verfügung steht.
 
 `docker-odoo-install 0c odoo09`
 

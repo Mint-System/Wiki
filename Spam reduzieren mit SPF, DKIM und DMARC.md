@@ -54,7 +54,7 @@ DMARC steht für Domain-based Message Authentication, Reporting & Conformance. E
 
 **Implementation**
 
-Als Administrator des Mail-Systems bestimmen sie Richtlinien und eine Berichts-Mail-Adresse und publizieren diese Informationen als DNS-Eintrag. Die Richtlinien erklären dem Empfänger wie er die Mail prüfen soll und wie er im Falle eines Spamverdachts verfahren soll.
+Als Administrator des Mail-Systems bestimmen Sie Richtlinien und eine Berichts-Mail-Adresse und publizieren diese Informationen als DNS-Eintrag. Die Richtlinien erklären dem Empfänger wie er die Mail prüfen soll und wie er im Falle eines Spamverdachts verfahren soll.
 
 ## Fazit
 

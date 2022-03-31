@@ -21,7 +21,7 @@ graph LR
 * Als Name *Odoo Connector* eintragen
 * Option *IP-Adresse* auswählen und die Adresse des Odoo Server eintragen
 
-Die IP-Adresse des Odoo Server können sie mit diesem Befehl anzeigen:
+Die IP-Adresse des Odoo Server können Sie mit diesem Befehl anzeigen:
 
 ```bash
 nslookup erp.example.com

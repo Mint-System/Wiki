@@ -38,7 +38,7 @@ Odoo ist nicht nur auf dem Desktop verfügbar, sondern auch auf dem Smartphone, 
 
 **Diskussionen mit Kontext**
 
-Die interne Chat-Funktion von Odoo löst nicht nur bestehende Chat-Apps ab, sondern verbessert auch die kontextbasierte Kommunikation. Egal ob Rechnung, Dokument oder Fertigungsauftrag, mit dem internen Chat können sie alle Geschäftsobjekte in einer Diskussion miteinbeziehen.
+Die interne Chat-Funktion von Odoo löst nicht nur bestehende Chat-Apps ab, sondern verbessert auch die kontextbasierte Kommunikation. Egal ob Rechnung, Dokument oder Fertigungsauftrag, mit dem internen Chat können Sie alle Geschäftsobjekte in einer Diskussion miteinbeziehen.
 
 **Im Web zu Hause**
 

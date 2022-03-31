@@ -12,7 +12,7 @@ Als lokale Komplettlösung bietet Nextcloud Hub die Vorteile der Online-Zusammen
 
 ### All-In-One
 
-Nextcloud ist die einzige Cloud, die Sie brauchen. Hier speichern sie alle ihre Dokumente, Bilder, Videos ab und greifen von überall darauf zu.
+Nextcloud ist die einzige Cloud, die Sie brauchen. Hier speichern Sie alle ihre Dokumente, Bilder, Videos ab und greifen von überall darauf zu.
 
 Wie helfen ihnen Nextcloud mit anderen Anwendungen zu integrieren.
 

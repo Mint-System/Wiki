@@ -26,7 +26,7 @@ Wichtige Daten werden täglich gesichert.
 
 **Isolierung der Anwendung**
 
-Die Anwendung werden als Linux Container betrieben. Somit sind sie voneinander getrennt.
+Die Anwendung werden als Linux Container betrieben. Somit sind Sie voneinander getrennt.
 
 **SSH-Zugriff**
 

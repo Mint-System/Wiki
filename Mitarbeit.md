@@ -3,23 +3,23 @@ Wie können Dritte und Mitarbeiter der [[Mint System GmbH]] diese Wissensdatenba
 
 ## Verwendung
 
-Technische Konfigurationen damit sie an der Wissensdatenbank mitarbeiten können.
+Technische Konfigurationen damit Sie an der Wissensdatenbank mitarbeiten können.
 
 ### Initialisierung
 
-1. Erstellen sie einen Account auf <https://github.com/>
-2. Werden sie Mitgleid bei <https://github.com/Mint-System/> (optional)
-3. Installieren sie <https://obsidian.md/>
-4. Installieren sie <https://git-scm.com/>
-5. Erstellen sie ein SSH-Schlüsselpaar <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
-6. Forken sie das *Wiki Mint System* Repository (optional)
-7. Klonen sie das *Wiki Mint System* Repository
+1. Erstellen Sie einen Account auf <https://github.com/>
+2. Werden Sie Mitgleid bei <https://github.com/Mint-System/> (optional)
+3. Installieren Sie <https://obsidian.md/>
+4. Installieren Sie <https://git-scm.com/>
+5. Erstellen Sie ein SSH-Schlüsselpaar <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
+6. Forken Sie das *Wiki Mint System* Repository (optional)
+7. Klonen Sie das *Wiki Mint System* Repository
 
 ```bash
 git clone git@github.com:Mint-System/Wiki.git
 ```
 
-8. Öffnen sie den Ordner mit Obsidian
+8. Öffnen Sie den Ordner mit Obsidian
 
 ### Synchronisierung
 

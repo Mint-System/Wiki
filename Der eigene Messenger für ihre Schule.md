@@ -83,7 +83,7 @@ Der Matrix-Server läuft stabil und ist einfach zu warten. Neue Accounts können
 
 #### Pädagogisch Sinnvoll
 
-Intuitiv und einfach soll Software an Schulen sein. Mit Element haben sie eine Messenger-Lösung, die jeder versteht.
+Intuitiv und einfach soll Software an Schulen sein. Mit Element haben Sie eine Messenger-Lösung, die jeder versteht.
 
 #### Eigener Account
 

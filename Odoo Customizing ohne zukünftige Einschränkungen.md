@@ -19,7 +19,7 @@ Odoo veröffentlicht alle paar Tage eine neue Version der Software. Damit kommen
 
 ![[001-reuse.png]]
 
-Bei einer neuen Anforderung für eine Anpassungen, die Odoo out-of-the-box nicht liefert, prüfen wir bei der Odoo Community und bei Partnern, ob eine ähnliche Anpassung bereits umgesetzt wurde. Eine Entwicklung hat mehr Bedeutung, wenn sie von weiteren Odoo-Installationen verwendet wird.
+Bei einer neuen Anforderung für eine Anpassungen, die Odoo out-of-the-box nicht liefert, prüfen wir bei der Odoo Community und bei Partnern, ob eine ähnliche Anpassung bereits umgesetzt wurde. Eine Entwicklung hat mehr Bedeutung, wenn Sie von weiteren Odoo-Installationen verwendet wird.
 
 ### So wenig wie möglich verändern
 
@@ -31,13 +31,13 @@ Bei jeder Anpassung wollen wir wissen, ob das Kosten-Nutzen-Verhältnis stimmt. 
 
 ![[002-ux.png]]
 
-Anpassungen der Benutzeroberfläche sind günstiger in der Wartung, weil sie weiter weg vom Kern des System sind. Visuelle Änderungen beziehen sich im Normalfall auf die bestehende Datenstruktur und haben dadurch eine geringe Integrationstiefe.
+Anpassungen der Benutzeroberfläche sind günstiger in der Wartung, weil Sie weiter weg vom Kern des System sind. Visuelle Änderungen beziehen sich im Normalfall auf die bestehende Datenstruktur und haben dadurch eine geringe Integrationstiefe.
 
 ### Verberbungssystem nutzen
 
 ![[007-shapes.png]]
 
-Odoo verfügt über ein ausgeklügeltes Vererbungssystem. Das heisst jede Anpassung einer Ansicht oder einem Geschäftsobjekt kann so formuliert werden, dass sie sich immer auf eine bestehende Ansicht oder Objekt bezieht. Man überschreibt also nie den bestehenden Code, sondern erweitert diesen um die neue Funktion.
+Odoo verfügt über ein ausgeklügeltes Vererbungssystem. Das heisst jede Anpassung einer Ansicht oder einem Geschäftsobjekt kann so formuliert werden, dass Sie sich immer auf eine bestehende Ansicht oder Objekt bezieht. Man überschreibt also nie den bestehenden Code, sondern erweitert diesen um die neue Funktion.
 
 ### Änderungen am System dokumentieren
 

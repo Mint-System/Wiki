@@ -13,6 +13,6 @@ Ergebnis: Geräte und Wartungsprozess ist eingerichtet
 **Prüfmittel**
 
 - In welchen Abständen werden die Werkzeuge geprüft? ⭐
-- Verwalten sie Ablaufdatum pro Werkzeug?
+- Verwalten Sie Ablaufdatum pro Werkzeug?
 - Wird erfasst wie oft ein Prüfmittel verwendet wird?
 - Gebt ihr die Kalibirierung extern?

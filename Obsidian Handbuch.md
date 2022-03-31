@@ -4,7 +4,7 @@
 
 ## Inhaltsverzeichnis anzeigen
 
-Navigieren sie nach **Settings > Core plugin** und aktivieren sie die Option **Outline**.
+Navigieren Sie nach **Settings > Core plugin** und aktivieren Sie die Option **Outline**.
 
 ## Markdown lernen
 

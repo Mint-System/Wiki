@@ -6,7 +6,7 @@ Das vorliegende Vorgehensmodell für ERP Projekte beschreibt die Systematik zur 
 
 ## Rollen
 
-In der Projektarbeit sind auf Seite Mint System und Kunde unterschiedliche Rollen zu besetzen. Im folgenden Kapitel werden sie beschrieben.
+In der Projektarbeit sind auf Seite Mint System und Kunde unterschiedliche Rollen zu besetzen. Im folgenden Kapitel werden Sie beschrieben.
 
 ### Projektleiter (Mint System)
 
@@ -46,7 +46,7 @@ Für speziell komplexe Anwendungen (Finanzen, Lager, Marketing, Fertigung, Websi
 
 Sie haben ein tiefes funktionales Wissen in branchenspezifischen Odoo Funktionen und solides Erfahrungswissen.
 
-Die App-Experten sind nicht Teil des Projekts. Sie arbeiten in verschiedenen Projekten gleichzeitig. In der Regel werden sie für die [[ROI-Analyse]] hinzugezogen.
+Die App-Experten sind nicht Teil des Projekts. Sie arbeiten in verschiedenen Projekten gleichzeitig. In der Regel werden Sie für die [[ROI-Analyse]] hinzugezogen.
 
 ### Entwickler (Mint System)
 
@@ -148,7 +148,7 @@ Sobald die Anwendungen konfiguriert sind, involviert der Projektleiter den SPoC 
 
 **Datenimport**
 
-Je nach Umfang und Komplexität der Daten werden sie durch den Projektleiter oder den Entwickler importiert. Basierend auf Anweisungen durch den Projektleiter sammeln der SPoC und die Super-User die Daten und bereiten die Files für den Import vor.
+Je nach Umfang und Komplexität der Daten werden Sie durch den Projektleiter oder den Entwickler importiert. Basierend auf Anweisungen durch den Projektleiter sammeln der SPoC und die Super-User die Daten und bereiten die Files für den Import vor.
 
 Die Datenmigration vom alten zum neuen System kann zu Verzögerungen führen. Es ist wichtig, die richtigen Entscheidungen zu treffen. Folgende Punkte sind zu beachten:
 
@@ -163,7 +163,7 @@ In dieser Phase genehmigt der Projektleiter, was entwickelt werden sollte. Norma
 Der Projektleiter schreibt die Spezifikationen einschliesslich der Szenarien die getestet werden sollen. Der SPoC bescheinigt die Konformität mit den Geschäftsanforderungen.
 Anschliessend übernimmt der Entwickler und realisiert die Anforderungen.
 
-Der Projektleiter testet die neuen Funktionen und integriert sie im System. Sobald die Entwicklung validiert ist erfolgt die Schulung des SPoC und der Super-User.
+Der Projektleiter testet die neuen Funktionen und integriert Sie im System. Sobald die Entwicklung validiert ist erfolgt die Schulung des SPoC und der Super-User.
 Der SPoC trägt die Verantwortung für die Freigabe der Entwicklung.
 
 Falls Probleme festgestellt werden informiert er den Projektleiter. Dieser wiederum setzt sich mit dem Entwickler in Verbindung um die Fehler zu beheben und die notwendigen Änderungen vorzunehmen.
@@ -178,15 +178,15 @@ Gleichzeitig ist der Kunde dafür verantwortlich das Benutzerhandbuch zu schreib
 
 ### Go-Live
 
-Wenn es an der Zeit ist den Schalter umzulegen, könnten unerwartete Probleme auftauchen. Oft sind sie auf zwei Ursachen zurückzuführen:
+Wenn es an der Zeit ist den Schalter umzulegen, könnten unerwartete Probleme auftauchen. Oft sind Sie auf zwei Ursachen zurückzuführen:
 
 * Die Datenbank ist nicht vollständig getestet  
     Es muss sichergestellt sein, dass die Super-User alle Prozesse getestet haben
 * Die Anwender sind nicht gut geschult:  
-    Wenn die Schulung vor Monaten durchgeführt wurden, ist inzwischen vielleicht Vieles vergessen worden. Wenn sie nicht selbst geübt haben, haben sie möglicherweise kritische Schritte verpasst.
+    Wenn die Schulung vor Monaten durchgeführt wurden, ist inzwischen vielleicht Vieles vergessen worden. Wenn Sie nicht selbst geübt haben, haben Sie möglicherweise kritische Schritte verpasst.
 
 ### Second Deployment
 
-Einen Monat nach dem Initial Deployment überprüft der Projektleiter die Liste der verbleibende Entwicklungen die in Phase 1 nicht gestartet wurden (d.h. Entwicklung die auf später verschoben wurden weil sie nicht unbedingt notwendig sondern "nice-to-have" sind.)
+Einen Monat nach dem Initial Deployment überprüft der Projektleiter die Liste der verbleibende Entwicklungen die in Phase 1 nicht gestartet wurden (d.h. Entwicklung die auf später verschoben wurden weil Sie nicht unbedingt notwendig sondern "nice-to-have" sind.)
 
 Mit dem Feedback der Benutzer wird die Priorisierung der spezifischen Entwicklungen neu beurteilt (typischerweise stellt sich heraus, dass 50% der Entwicklungen nicht notwendig waren und inzwischen neue Entwicklungen beantragt wurden).

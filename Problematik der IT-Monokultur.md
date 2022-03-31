@@ -2,9 +2,9 @@
 
 ## Keine Wahl
 
-Es kommt vor, dass Parlamente Verpflichtungskredite für Software-Lizenzen bewilligen müssen. Richtig, sie müssen. Weil sie keine Wahl haben.
+Es kommt vor, dass Parlamente Verpflichtungskredite für Software-Lizenzen bewilligen müssen. Richtig, Sie müssen. Weil Sie keine Wahl haben.
 
-Oft besteht zum Lieferanten Microsoft ein Abhängigkeitsverhältnis, das nicht zu knacken ist. Und es wird immer extremer. Mit der Erweiterung der Produktpalette auf Office365 begibt man sich in die Arme der Datenkrake Microsoft-Cloud. Damit sind dann auch unsere Daten nur noch teilweise unser Eigentum. (Wir wissen ja schliesslich nicht genau wo sie sind.)
+Oft besteht zum Lieferanten Microsoft ein Abhängigkeitsverhältnis, das nicht zu knacken ist. Und es wird immer extremer. Mit der Erweiterung der Produktpalette auf Office365 begibt man sich in die Arme der Datenkrake Microsoft-Cloud. Damit sind dann auch unsere Daten nur noch teilweise unser Eigentum. (Wir wissen ja schliesslich nicht genau wo Sie sind.)
 Nebeneffekte sind unter anderem die schwer beherrschbaren Sicherheitsrisiken und steigende Lizenzkosten.
 
 ## Wir reden alle von Digitalisierung. Aber ...
@@ -18,7 +18,7 @@ Die Produktpalette von Microsoft zu installieren hat nichts mit Innovation zu tu
 
 Die Verwaltungen auf Stufe Bund oder Kanton sind für viele Organisationen ein Vorbild. Zum Beispiel für Schulen oder Gemeindeverwaltungen. Wenn dort innovative Lösungen entwickelt werden, dann hat das Strahlkraft. 
 
-Von einer Verwaltung darf man Innovation erwarten. Es sind unsere Steuergelder die investiert werden. Diese Investitionen sollen unter anderem zu technischem Fortschritt führen, damit sie der Gesellschaft einen nachhaltigen Nutzen bringen.
+Von einer Verwaltung darf man Innovation erwarten. Es sind unsere Steuergelder die investiert werden. Diese Investitionen sollen unter anderem zu technischem Fortschritt führen, damit Sie der Gesellschaft einen nachhaltigen Nutzen bringen.
 
 Wir dürfen von Verwaltungen auf auf Stufe Bund und Kanton erwarten, dass
 * durch den Einsatz von alternativen Produkten die Abhängigkeit von Microsoft reduziert wird.

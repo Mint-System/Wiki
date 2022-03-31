@@ -73,7 +73,7 @@ Mint System stellt den Kunden von jeglicher Haftung für die Verletzung von sch
 ### Art.11
 
 1. Mint System kann zur Abwehr von Drittansprüchen nach seiner Wahl dem Kunden das Recht zur Fortsetzung der Nutzung der Software verschaffen oder die Software ohne eine Verschlechterung der im Pflichtenheft vereinbarten Funktionen austauschen oder ändern.
-2. Sollte Mint System keine dieser Massnahmen möglich sein, ist sie berechtigt, vom Projektvertrag zurückzutreten.
+2. Sollte Mint System keine dieser Massnahmen möglich sein, ist Sie berechtigt, vom Projektvertrag zurückzutreten.
 
 ### Art.12
 

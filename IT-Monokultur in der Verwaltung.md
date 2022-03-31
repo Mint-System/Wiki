@@ -5,11 +5,11 @@ Der Druck auf die Arbeitsmethodik in öffentlichen Verwaltungen und Institutione
 
 ### Alle sind betroffen
 
-Was das BAG erlebt hat, erwartet nun die öffentliche Verwaltung auf allen Ebenen. Egal ob Kommunal, Kantonal oder eben auf Bundesebene, sie alle müssen innovativ und *digital natives* sein. Es werden hohe Anforderungen gestellt und wer diesen gerecht werden möchte, braucht nicht nur gut bezahlte Fachkräfte, sondern auch die richtige IT-Landschaft. Die IT-Landschaft ist die Summe der eingesetzten IT-Systeme und Technologien. Und hier darf man durchaus einen direkten Vergleich mit der Landwirtschaft machen.
+Was das BAG erlebt hat, erwartet nun die öffentliche Verwaltung auf allen Ebenen. Egal ob Kommunal, Kantonal oder eben auf Bundesebene, Sie alle müssen innovativ und *digital natives* sein. Es werden hohe Anforderungen gestellt und wer diesen gerecht werden möchte, braucht nicht nur gut bezahlte Fachkräfte, sondern auch die richtige IT-Landschaft. Die IT-Landschaft ist die Summe der eingesetzten IT-Systeme und Technologien. Und hier darf man durchaus einen direkten Vergleich mit der Landwirtschaft machen.
 
 ### Das Spannungsfeld
 
-Wie in der Landwirtschaft Monokulturen ein Problem darstellen, tun sie das auch in IT-Landschaft. Was beim Bauer die Maisplantage von Monsanto ist, sind in der öffentlichen Verwaltung die Produkte von Microsoft. Eine souveräne IT-Strategie, die nicht von den Microsoft-Produkten diktiert ist, haben wir noch nicht gesehen. Und das ist ein Problem. Denn Monokulturen hemmen die Innovationsfähigkeit.
+Wie in der Landwirtschaft Monokulturen ein Problem darstellen, tun Sie das auch in IT-Landschaft. Was beim Bauer die Maisplantage von Monsanto ist, sind in der öffentlichen Verwaltung die Produkte von Microsoft. Eine souveräne IT-Strategie, die nicht von den Microsoft-Produkten diktiert ist, haben wir noch nicht gesehen. Und das ist ein Problem. Denn Monokulturen hemmen die Innovationsfähigkeit.
 
 Die Gestaltung der IT ist im Spannungsfeld von **Effizienz**, **Innovationsfähigkeit** und **Souveränität**. Die Produkte von Microsoft erlauben ein effizientes und flexibles Arbeiten, doch man entwickelt sich nur soweit wie es die Produkte und somit Microsoft erlauben. Wie soll man da übers Ziel hinausschiessen?
 
