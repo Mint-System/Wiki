@@ -1,5 +1,7 @@
 # Prozess Server bestellen
-Bestellen eines [[Server]] bei Infrastruktur.
+Server bei [[Team Infrastruktur]] bestellen.
+
+## Managed Server bestellen
 
 Arbeitsschritte:
 * Informationen von Kunden zusammenstellen:

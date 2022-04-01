@@ -1,11 +1,10 @@
 # Prozess Server bereitstellen
 Bereitstellung eines neuen Server.
 
+## Server mit Ansible bereitstellen
+
 Arbeitsschritte:
-* Konfiguration im Setup Inventory
-	* Setup
-	* Monitoring
-	* Backup
+* Konfiguration im *setup* Inventory erfassen
 * Festlegen Zugriffsberechtigungen
-* Bereitstellung mit Setup Playbook
-* Sicherheitsregeln für Ports festlegen - [Guide](https://docs.bigbluebutton.org/2.2/configure-firewall.html#configure-your-firewall)
+* Bereitstellung mit `play-setup` Playbook
+* Sicherheitsregeln für Ports prüfen
