@@ -13,8 +13,12 @@ tags:
 	* [[Begriffe]]
 * Mint System
 	* Partner
+* Analyse
+	* Daten
 * Lösungsvorschlag
 	* Abgrenzung
+	* Organisation
+	* Architektur
 * Anforderungen
 	* Systeme im Einsatz
 	* Systemkontext
