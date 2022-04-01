@@ -13,7 +13,7 @@ Bootrap Icons:
 
 | Name                 | Icon                       |
 | -------------------- | -------------------------- |
-| bi bi-box            | ![[icon box.png]]          |
+| bi bi-box            | ![[icon-box.png]]          |
 | bi bi-life-preserver | ![[icon support.png]]      |
 | bi bi-tools          | ![[odoo_icon_tool.png]]    |
 | bi bi-kanban         | ![[odoo_icon_project.png]] |

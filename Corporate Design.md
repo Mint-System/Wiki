@@ -44,3 +44,7 @@ Die Signaturen sind in einem [[Signatur|Dokument]] festgehalten.
 ## Icons
 
 Siehe [[Icons]].
+
+## Assets
+
+Siehe [[Assets]].
