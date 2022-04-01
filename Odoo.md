@@ -40,6 +40,7 @@ Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Wiki]].
 * [[Odoo Assets]]
 * [[Odoo Printing]]
 * [[Odoo Connector]]
+* [[Odoo Datenmodell]]
 
 ## Customization
 

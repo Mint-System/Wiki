@@ -31,4 +31,4 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Poseidon | Server Basis57                     | `poseidon.mint-system.com` | ExoScale |
 | Themis   | BigBlueButton KMSU                 | `themis.mint-system.com`   | ExoScale |
 | Zeus     | Dienste Mint System GmbH           | `zeus.mint-system.com`     | Hetzner  |
-| Nyx      | Server microsTECH AG               | `nyx.mint-system.com`      | Hetzner  |
+| Nyx      | Binary Business                    | `nyx.mint-system.com`      | Hetzner  |
