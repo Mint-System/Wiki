@@ -12,3 +12,12 @@ Arbeitschritte:
 	* **Verkaufs Beschreibung**: Erfassen Beschreibung gemäss Lieferant
 	* **Erlöskonto**: 3200 Handelserlöse
 * Ein Bild hinzufügen
+
+## Produkt Odoo Kommissionen erstellen
+
+Arbeitsschritte:
+* Neues Produkt erstellen *Kommission Odoo Lizenzen*
+* Als Erlöskonto 3200 Handelserlöse angeben.
+* Unter *Verkäufe > Produkte > Preislisten* eine Preisliste *Euro Preisliste* erstellen
+* Dem Produkt die Preisliste hinzufügen
+* Odoo Rechnungsadresse mit VAT erfassen

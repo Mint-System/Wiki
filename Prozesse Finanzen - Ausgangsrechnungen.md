@@ -29,14 +29,7 @@ Arbeitsschritte:
 * Verlinken Zeitrapport
 * Rechnung als Entwurf bereitstellen.
 
-## Odoo Lizenzkostenertrag verrechnen
-
-Vorbereitung:
-* Neues Produkt erstellen *Kommission Odoo Lizenzen*
-* Als Erlöskonto 3200 Handelserlöse angeben.
-* Unter *Verkäufe > Produkte > Preislisten* eine Preisliste *Euro Preisliste* erstellen
-* Dem Produkt die Preisliste hinzufügen
-* Odoo Rechnungsadresse mit VAT erfassen
+## Odoo Kommissionen verrechnen
 
 Arbeitsschritte:
 * Bestellungen im Odoo Portal herunterladen unter [Portal - Bestellungen](https://www.odoo.com/de_DE/my/purchase)
