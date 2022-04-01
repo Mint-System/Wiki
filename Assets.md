@@ -1,10 +1,10 @@
 # Assets
 
-url: <>
+url: <https://raw.githubusercontent.com/Mint-System/Wiki/master/assets/icon-box.png>
 
 ![[icon-box.png]]
 
 
-url: <>
+url: <https://raw.githubusercontent.com/Mint-System/Wiki/master/assets/mint-system-logo.png>
 
 ![[mint-system-logo.png]]
