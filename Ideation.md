@@ -2,6 +2,18 @@
 
 Kreativprozess für Produktentwicklung. Sammlung von Ideen für neue Produkte.
 
+## Odoo Dashboard mit Grafana
+
+KPIs gemäss Odoo Digest definieren.
+
+Odoo-Erweiterung rendert die KPIs unter /metrics.
+
+Mit API-Key bzw. Basic-Auth kann Prometheus die Schnittstelle abrufen.
+
+Die KPIs sind bereits gespeichert.
+
+Sammlung verschiedener Metriken.
+
 ## Sitzungsprotokoll mit Odoo
 
 Odoo App zum planen, durchführen und nachbearbeiten von Sitzungen.
