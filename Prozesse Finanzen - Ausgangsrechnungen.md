@@ -36,6 +36,7 @@ Arbeitsschritte:
 * Neue Rechnung erstellen *Finanzen > Ausgangsrechnungen > Neue Rechnung* und als Kunde die Rechnungsadresse von Odoo S.A. mit Mail 	
 commissions@odoo.com auswählen
 * Produkt *Odoo Lizenzen* mit Bestellnummer als Buchungstext erfassen
+* Den *Purchase Order* als Anhang hinzufügenh
 * In der Rechnungsnotiz die Zahlungsinformationen speichern
 
 ```
