@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gisler;Kurt;;;
+FN:Kurt Gisler
+ORG: Mint System GmbH
+TITLE:Chief Executive Officer
+EMAIL:kurt.gisler@mint-system.ch
+ADR;type=work:;;Seedorferstrasse 29;Altdorf;;6460;Schweiz
+TEL;TYPE=cell:+41415417864
+URL:https://www.mint-system.ch
+END:VCARD

@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:von Rotz;Janik;;;
+FN:Janik von Rotz
+ORG: Mint System GmbH
+TITLE:Chief Technical Officer
+EMAIL:janik.vonrotz@mint-system.ch
+ADR;type=work:;;Seedorferstrasse 29;Altdorf;;6460;Schweiz
+TEL;TYPE=cell:+41 41 541 78 92
+URL:https://www.mint-system.ch
+END:VCARD
