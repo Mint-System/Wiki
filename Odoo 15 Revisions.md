@@ -1,6 +1,6 @@
 # Odoo 15 Revisions
 
-### Odoo 15.0
+## Odoo 15.0
 
 State: Active\
 Version: 15.0\

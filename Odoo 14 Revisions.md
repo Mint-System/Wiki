@@ -1,6 +1,6 @@
 # Odoo 14 Revisions
 
-### Odoo 14.0
+## Odoo 14.0
 
 State: Inactive\
 Version: 14.0\
@@ -28,7 +28,7 @@ docker pull odoo@sha256:ed98410e34aa509a9ac15e0b3b70e72f20af71cddcf9da8b72aa2777
 docker tag 6640ab6622b9 odoo:6640ab6622b9
 ```
 
-### Odoo 14.1
+## Odoo 14.1
 
 State: Inactive\
 Version: 14.0\
@@ -50,7 +50,7 @@ docker pull odoo@sha256:335d31e83074a79e1ad8be65587558d24a1ea90c0d2b3b7e65cc91b9
 docker tag 70de954aa8a5 odoo:70de954aa8a5
 ```
 
-### Odoo 14.2
+## Odoo 14.2
 
 State: Inactive\
 Version: 14.0\
@@ -78,7 +78,7 @@ docker pull odoo@sha256:ac884a5f7166600a3cecf7fd95aa6ffbacd989e98a0483ff59f0e542
 docker tag 8363e01420b1 odoo:8363e01420b1
 ```
 
-### Odoo 14.3
+## Odoo 14.3
 
 State: Inactive\
 Version: 14.0\
@@ -106,7 +106,7 @@ docker pull odoo@sha256:23ccd7deac2664336b94543e3f2653631f0c8e2a562ffa15812805c7
 docker tag 3863e3e905e5 odoo:3863e3e905e5
 ```
 
-###  [[Odoo 14.4]]
+##  [[Odoo 14.4]]
 
 State: Inactive\
 Version: 14.0\
@@ -134,7 +134,7 @@ docker pull odoo@sha256:26479e1c9294862e5efc226b116cccab437da0b895c94a84b0165f7a
 docker tag c4370cddec27 odoo:c4370cddec27
 ```
 
-###  [[Odoo 14.5]]
+##  [[Odoo 14.5]]
 
 State: Inactive\
 Version: 14.0\
@@ -162,7 +162,7 @@ docker pull odoo@sha256:542e36dfc7ad121ea51813e8f6526b5417983cbf490c6702512d5ffc
 docker tag 5ca003a231ac odoo:5ca003a231ac
 ```
 
-###  [[Odoo 14.6]]
+##  [[Odoo 14.6]]
 
 State: Inactive\
 Version: 14.0\
@@ -199,7 +199,7 @@ docker pull odoo@sha256:3533f9075153f8c31d716eb79ac291a20bd6ba612ee90a7511a994c6
 docker tag 423b0096eedd odoo:$ODOO_REVISION
 ```
 
-###  [[Odoo 14.7]]
+##  [[Odoo 14.7]]
 
 State: Active\
 Version: 14.0\
@@ -236,7 +236,7 @@ docker pull odoo@sha256:61d6f63d4f5e0037e0ddf0cf505bea4c0c916da7e98a78aedf99e61f
 docker tag 30ee4d265b81 odoo:$ODOO_REVISION
 ```
 
-### [[Odoo 14.8]]
+## [[Odoo 14.8]]
 
 State: Active\
 Version: 14.0\
@@ -273,7 +273,7 @@ docker pull odoo@sha256:d576569741c92cadceeac55631fb1c0d5809eb12c7b9e45753c40916
 docker tag 89152df6e5b4 odoo:$ODOO_REVISION
 ```
 
-### [[Odoo 14.9]]
+## [[Odoo 14.9]]
 
 State: Active\
 Version: 14.0\

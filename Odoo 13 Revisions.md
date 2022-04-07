@@ -1,6 +1,6 @@
 # Odoo 13 Revisions
 
-### Odoo 13.0
+## Odoo 13.0
 
 State: Inactive\
 Version: 13.0\
@@ -28,7 +28,7 @@ docker pull odoo@sha256:27098953285743cdf4152b0c6f3678d573327b7d9acb61a2dffeb322
 docker tag b073a2f2d68c odoo:b073a2f2d68c
 ```
 
-### Odoo 13.1
+## Odoo 13.1
 
 State: Inactive\
 Version: 13.0\
@@ -56,7 +56,7 @@ docker pull odoo@sha256:bfc01dbb6a49576ac88aca664bf59fe2afc0a1bba94743699c49a11a
 docker tag f20ab9613812 odoo:f20ab9613812
 ```
 
-### Odoo 13.2
+## Odoo 13.2
 
 State: Active\
 Version: 13.0\
@@ -84,7 +84,7 @@ docker pull odoo@sha256:578a20a0b50c5f146fc395d53ab9d205ade1f2dadfe675648e097007
 docker tag e13c9ce400b0 odoo:e13c9ce400b0
 ```
 
-### Odoo 13.3
+## Odoo 13.3
 
 State: Active\
 Version: 13.0\
