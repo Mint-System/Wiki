@@ -4,9 +4,15 @@ Kontostand eBanking mit Odoo abgleichen.
 ## Kontoauszug importieren und abgelichen
 
 Arbeitsschritte:
-* Im eBanking einloggen
+* Im eBanking einloggen und Kontodaten-Download starten
+
+![[Raiffeisen Kontoauszug herunterladen.png]]
+
 * Unter Datentransfer die Kontodaten als camt.053 XML-Datei mit Details herunterladen
-* Die Datei unter *Finanzen > Datentransfer* ablegen
+
+![[camt.053 XML-Datei mit Details.png]] 
+
+* Die Datei im ORdner *Finanzen Datentransfer > NN Monat* ablegen
 * Datei importieren *Finanzen > Übersicht > Journal Bank > Import*
 * Die einzelnen Transaktionen mit Rechnungen abgleichen und dabei [[Richtlinie - Finanzen#Ausgleich Bank-Buchungen]] beachten
 
