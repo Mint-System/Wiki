@@ -77,7 +77,7 @@ Habenkonto: 1022 Kontokorrent\
 Sollkonto: 2160 Darlehen\
 Betrag: 1234.53 CHF
 
-#### Lohnabrechung
+#### Lohnabrechnung
 
 Die Lohnbuchhaltung ist [[Prozesse Finanzen - Personalabrechnung#Buchhaltung|hier]] beschrieben.
 
