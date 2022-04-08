@@ -27,9 +27,9 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Iris     | Server Kleinbrauerei Stiär Biär AG     | `iris.mint-system.com`     | Hetzner     |
 | Kronos   | Backup Server                          | `kronos.mint-system.com`   | Hetzner     |
 | Leto     | Server SATHOM SARL                     | `leto.mint-system.com`     | Klixa       |
+| Nyx      | [[BINARY business]]                    | `nyx.mint-system.com`      | Hetzner     |
 | Pan      | Server Light Wing AG                   | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                         | `poseidon.mint-system.com` | ExoScale    |
 | Themis   | [[BigBlueButton]] KMSU                 | `themis.mint-system.com`   | ExoScale    |
-| Zeus     | Dienste [[Mint System GmbH]]           | `zeus.mint-system.com`     | Hetzner     |
-| Nyx      | [[BINARY business]]                    | `nyx.mint-system.com`      | Hetzner     |
 | Triton   | Server andeer.net                      | `triton.mint-system.com`   | Off-premise |
+| Zeus     | Dienste [[Mint System GmbH]]           | `zeus.mint-system.com`     | Hetzner     |
