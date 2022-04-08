@@ -1,7 +1,7 @@
 # Prozess Ausgleich
 Kontostand eBanking mit Odoo abgleichen.
 
-## Kontoauszug importieren und abgelichen
+## Kontoauszug importieren und abgleichen
 
 Arbeitsschritte:
 * Im eBanking einloggen und Kontodaten-Download starten
