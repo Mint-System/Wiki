@@ -43,7 +43,7 @@ Odoo Community Association[^4]
 ---
 ### Odoo Overview
 
-![[Odoo Projekt.svg]]
+![[Odoo OCA Licensing.png]]
 
 ---
 

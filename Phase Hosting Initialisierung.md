@@ -10,7 +10,6 @@ Tätigkeiten:
 
 Ergebnis: Die Hosting-Lösungen sind initialisiert.
 
-
 ## Server bereitstellen
 
 **Domain und DNS**

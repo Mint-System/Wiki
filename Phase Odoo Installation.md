@@ -51,7 +51,7 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 
 - Wie ist ist die E-mail Signatur definiert?
 
-**Sprachen
+**Sprachen**
 
 - Welche Sprachen werden installiert?
 

@@ -77,6 +77,18 @@ Bezüglich der Lizenzierung von Odoo steht der Kunde direkt mit Odoo S.A. in Ver
 
 Das Vorgehen orientiert sich am Mint System [Vorgehensmodell für Odoo Projekte](https://wiki.mint-system.ch/vorgehensmodell-odoo-projekte.html). Die einzelnen Projektphasen sind im folgenden Abschnitt erläutert. Daraus leitet sich die Aufwandsschätzung ab.
 
+**ROI-Analyse**
+
+Die ROI-Analyse klärt Unsicherheiten, definiert Anforderungen für notwendige Entwicklungen und liefert ein Proof of Concept der wichtigsten Geschäftsabläufe. Auf Basis dieser Ergebnisse wird ein detaillierter Projektplan erstellt und das Budget konkretisiert.
+
+**Kick-Off**
+
+Im Kick-Off wird das Projektteam mit dem Vorgehensmodell, der Projektmethodik und dem Projektplan vertraut gemacht. Odoo wird vorgestellt und die wichtigsten Funktionalitäten erklärt.
+
+**Implementierung**
+
+Die Projektabwicklung erfolgt in Phasen. Abhängig von den Ergebnissen der ROI-Analysen kann es bei den geplanten Phasen zu Änderungen kommen. Dies betrifft insbesondere den Fall von Eigentwicklungen.
+
 Siehe [[Phasen Textbausteine]].
 
 **Go-Live**

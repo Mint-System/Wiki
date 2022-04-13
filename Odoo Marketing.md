@@ -2,6 +2,8 @@
 
 Marketinginhalte für Odoo.
 
+[[Explaining Odoo]]
+
 ## Website
 
 > Die weltweit erfolgreiche All-in-one Management Software.  
