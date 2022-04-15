@@ -4,7 +4,22 @@ Marketinginhalte für Odoo.
 
 [[Explaining Odoo]]
 
-## Website
+## SEO
+
+`/`
+
+Titel: Mint System | Wirkungsvolles Management
+mit moderner Software
+
+Beschreibung: Wir sind ein Team von Spezialisten für Management-Software. Auf Basis von Führungserfahrung in der Industrie und Fachkenntnis im Software-Engineering kennen wir Lösungen die funktionieren.
+
+`/odoo`
+
+Titel: Ihr Partner für Odoo | Schweizer Odoo Partner
+
+Beschreibung: Erhalten Sie Unterstützung für Odoo von einem kompetenten Schweizer Partner. Dank modernster Technik schaffen wir den entscheidenden Vorsprung für Ihr Unternehmen.
+
+## Texte
 
 > Die weltweit erfolgreiche All-in-one Management Software.  
 Dank modernster Technik so individuell wie ihre Firma.
