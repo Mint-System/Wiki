@@ -51,10 +51,22 @@ odoo-upgrade test -d $DATABASE -t 15.0
 ```bash
 task checkout 15.0
 task start db,native
+NEW_DATABASE=erp_test_15.0_2022_04_18_09_20
 ```
 
 * Open <http://localhost:8069/web/database/manager> to access new db
 * Test and remove unsupported modules
+* Install new modules
+
+```bash
+task install-module $NEW_DATABASE mrp_account_enterprise
+```
+
+* Export the database
+
+```
+odoo-backup -d $NEW_DATABASE -o ...
+```
 
 ## Troubleshooting
 
