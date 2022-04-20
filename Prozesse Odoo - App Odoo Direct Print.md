@@ -11,7 +11,7 @@ Arbeitsschritte:
 ## Implementation
 
 Arbeitsschritte:
-- API-Schlüssel generieren
-- Client auf Computer mit Drucker installieren
+- API-Schlüssel auf PrintNode generieren
+- PrintNode-Client auf Computer mit Drucker installieren
 - Druck-Szenario definieren und einrichten
 - Direkter Druckvorgang testen
