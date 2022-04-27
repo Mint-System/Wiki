@@ -8,7 +8,7 @@ Die Entwicklung von Odoo Apps erfordert eine exakte Spezifikation.
 
 * **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
 * **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
-* **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion\
+* **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
 * **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
 * **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
 * **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
@@ -17,7 +17,6 @@ Die Entwicklung von Odoo Apps erfordert eine exakte Spezifikation.
 * **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
 
 ## Neue Felder
-
 
 | Name             | Technischer Name     | Modell             | Beschreibung                        |
 | ---------------- | -------------------- | ------------------ | ----------------------------------- |

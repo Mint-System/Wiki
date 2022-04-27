@@ -1,8 +1,8 @@
 # Odoo Upgrade from 14.0 to 15.0
 
-## Test
+## Native Test
 
-Steps to upgrade a databse for testing purposes.
+Steps to upgrade a database for testing purposes from dev machine.
 
 * Checkout 14.0 environment
 
@@ -67,6 +67,53 @@ task install-module $NEW_DATABASE mrp_account_enterprise
 ```
 odoo-backup -d $NEW_DATABASE -o ...
 ```
+
+## Docker Productive 🚧
+
+Steps to make productive upgrade from Docker container.
+
+* Create a backup
+
+```bash
+sudo su
+run-cron-job -n "Backup job docker odoo backup erp"
+```
+
+* Set env vars
+
+```bash
+export PGHOST=$(docker exec odoo09 bin/bash -c "echo \$HOST")
+export PGUSER=$(docker exec odoo09 bin/bash -c "echo \$USER")
+export PGPASSWORD=$(docker exec odoo09 bin/bash -c "echo \$PASSWORD")
+export DATABASE=erp
+alias python=python3
+alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
+```
+
+* Log into container and set env vars
+
+```bash
+docker exec -it odoo09 bash
+cd
+
+export PGHOST="$HOST"
+export PGUSER="$USER"
+export PGPASSWORD="$PASSWORD"
+export DATABASE=erp
+alias python=python3
+alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
+```
+
+* Run the upgrade script with option `production`.
+
+```bash
+odoo-upgrade production -d $DATABASE -t 15.0
+```
+
+* Deploy Odoo container
+* Setup proxy
+* Update cron jobs
+* Test and remove unsupported modules
 
 ## Troubleshooting
 
