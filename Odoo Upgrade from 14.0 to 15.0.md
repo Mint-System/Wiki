@@ -13,6 +13,7 @@ task checkout 14.0
 * Set env vars
 
 ```bash
+export MODE=test
 export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
@@ -43,7 +44,7 @@ odoo-restore -f ...
 * Run the upgrade script with option `test`.
 
 ```bash
-odoo-upgrade test -d $DATABASE -t 15.0
+odoo-upgrade $MODE -d $DATABASE -t 15.0
 ```
 
 * Switch local development environment to targeted version
@@ -65,10 +66,16 @@ task install-module $NEW_DATABASE mrp_account_enterprise
 * Export the database
 
 ```
-odoo-backup -d $NEW_DATABASE -o ...
+odoo-backup -d $NEW_DATABASE -o tmp/$DATABASE_$MODE.zip
 ```
 
-## Docker Productive 🚧
+## Native Production
+
+It is the same procedure as with [[#Native Test]], but instead of using the `test` option for the upgrade command, use `production`.
+
+## Docker Production 🚧
+
+#FIXME 
 
 Steps to make productive upgrade from Docker container.
 

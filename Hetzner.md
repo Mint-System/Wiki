@@ -6,6 +6,7 @@ Website: https://www.hetzner.com/
 ## HowTos
 
 [[Hetzner - Festplattenspeicher erweitern]]
+[[Hetzner - Server zu neuem Standort migrieren]]
 
 ## Hetzner Cloud cli
 
