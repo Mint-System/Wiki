@@ -4,6 +4,18 @@ Das sind Odoo Apps für die ein [[Odoo Maintenance]]-Vertrag erstellt werden mus
 
 ## Apps
 
+### l10n_ch_qr_bill_scan
+
+Repo: <https://github.com/OCA/l10n-switzerland/pull/649>
+
+Nicht für Odoo 14 verfügbar. PR für Migration ist erstellt.
+
+```bash
+cd oca/l10n-switzerland
+gh pr checkout 649
+../..
+```
+
 ### hr_holidays_public
 
 Repo: <https://github.com/OCA/hr-holidays/pull/38>
