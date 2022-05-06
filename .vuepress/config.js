@@ -10,7 +10,8 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Topics', link: '/topics' },
-            { text: 'Glossary', link: '/glossary' }
+            { text: 'Glossary', link: '/glossary' },
+            { text: 'Mint System', link: 'https://www.mint-system.ch' }
         ]
     },
     plugins: [
