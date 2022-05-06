@@ -5,7 +5,7 @@ module.exports = {
         ['link', { rel: "icon", type: "image/png", href: "icon.png"}],
     ],
     themeConfig: {
-        logo: 'icon.png',
+        logo: '/icon.png',
         sidebar: 'auto',
         nav: [
             { text: 'Home', link: '/' },
