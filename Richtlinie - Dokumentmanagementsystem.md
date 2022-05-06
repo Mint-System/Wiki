@@ -19,6 +19,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Finanzen Datentransfer                    | Alle camt.53 und pain.001 Dateien werden hier abgelegt                                                             |
 | Förderbeiträge                            | Dokumente Sponsoring Mint System                                                                                   |
 | Geschäftsführung                          | Strategische Informationen                                                                                         |
+| Generalversammlung/Geschäftsjahr-[YYYY]   | Unterlagen GV.                                                                                                     |
 | Gründung                                  | Gründungsdokumente                                                                                                 |
 | Infrastruktur                             | Dokumentation der Mint System Infrastruktur                                                                        |
 | Lieferanten/[Name]                        | Lieferantenbeziehungen werden hier abgebildet                                                                      |
@@ -38,7 +39,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Produkte                                  | Dokumente zu den Mint System Produkten                                                                             |
 | Projekte/[Name]                           | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.                                          |
 | Public Relations                          | Zeitungsartikel und allgemeine PR                                                                                  |
-| Recuriting/[YYYY]-[MM] [Name]             | Berwebungsunterlagen soritert nach Jahr und Monat.                                                                 |
+| Recruiting/[YYYY]-[MM] [Name]             | Berwebungsunterlagen soritert nach Jahr und Monat.                                                                 |
 | Rechnungen/([YYYY]/[MM MONAT],[MM MONAT]) | Rechnung von Lieferanten gruppiert nach Rechnungsdatum                                                             |
 | Secrets                                   | Schlüssel und Passwörter                                                                                           |
 | Steuern/[Jahr]                            | Dokumente Unternehmens- und Mehrwertssteuer                                                                        |
