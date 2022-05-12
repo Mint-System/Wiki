@@ -22,3 +22,5 @@ Bootrap Icons:
 | bi bi-people         | ![[odoo_icon_people.png]]  |
 | bi bi-plug           | ![[odoo_icon_plug.png]]    |
 | bi bi-circle         | ![[odoo_icon_circle.png]]  |
+| fas fa-truck         | ![[odoo_icon_truck.png]]   |
+| fa-usd                     |     ![[odoo_icon_dollar.png]]                       |

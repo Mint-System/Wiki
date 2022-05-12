@@ -75,7 +75,7 @@ It is the same procedure as with [[#Native Test]], but instead of using the `tes
 
 ## Docker Production 🚧
 
-#FIXME 
+#FIXME See support ticket <https://www.odoo.com/de_DE/my/task/2836411?access_token=757b30f0-da6c-461a-88d7-6a048cc62592>
 
 Steps to make productive upgrade from Docker container.
 

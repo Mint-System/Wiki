@@ -4,6 +4,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
+[[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
 [[Neuerungen in Odoo 15]]
 
