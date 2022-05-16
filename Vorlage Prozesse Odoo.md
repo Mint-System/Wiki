@@ -25,3 +25,7 @@ Kundenspezifische Anpassungen umsetzen.
 ### Unteraufgaben
 
 Areitsschritte zur Ausführung der Unteraufgabe.
+
+## Administration
+
+Arbeitsschritte zur Verwaltung der App.

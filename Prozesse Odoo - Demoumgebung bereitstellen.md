@@ -1,6 +1,6 @@
 # Prozess Demoumgebung bereitstellen
 
-## Initialisierung
+## Demoumgebung installieren
 
 Arbeitsschritte:
 * Definieren Domain  `$NAME.14.odoo.build`
@@ -13,13 +13,12 @@ Arbeitsschritte:
 * Corporate Design umsetzen
 * Aktualisieren [[Demoumgebungen#Odoo]]
 
-## Installation
+### Module installieren
 
-Auswahl:
 * Odoo Cloud Notification Client (OCN) (`ocn_client`) #Odoo13
 * Web-Enterprise (`web_enterprise`) #Odoo13-14
 
-### Login Mint System
+### Login Mint System konfigurieren
 
 Integration in [[Login Mint System]].
 
@@ -28,7 +27,7 @@ Arbeitsschritte:
 * Benutzer mit Rolle `access` austatten
 * Zugriff testen
 
-### Entfernen Demoumgebung
+## Demoumgebung entfernen
 
 Arbeitsschritte:
 * Einträge aus Ansible Inventar löschen
