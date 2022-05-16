@@ -3,11 +3,11 @@
 Arbeitsschritte zum Export und Import von Daten müssen detailliert und nachvollziehbar festgehalten werden. Für jedes Geschäftsobjekt, das migriert wird, wird eine Dokumentation angelegt.
 
 Prozess der Datenmigraton:
-1. **Export**: Beschreibt wie die Daten aus dem Quellsystem exportiert werden.
+1. **Export**: Beschreibt wie die Daten aus dem Quellsystem exportiert werden
 2. **Input**: Benennt die Input-Daten
 3. **Process**: Verarbeitungsschritte der Input-Daten
 4. **Output**: Benennt die Output-Daten
-5. **Import**: Beschreibt wie die Output-Daten ins Zielsystem importiert werden.
+5. **Import**: Beschreibt wie die Output-Daten ins Zielsystem importiert werden
 
 ## Export
 
