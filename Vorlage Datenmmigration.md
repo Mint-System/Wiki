@@ -19,7 +19,7 @@ Welche Input-Daten stehen zur Verfügung und wie heissen die Dateien?
 
 * Lieferanten.xlsx
 
-## Prozess
+## Process
 
 Wie müssen die Input-Daten transformiert werden? Wie heissen die transformierten Dateien?
 
