@@ -8,6 +8,7 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - Produktionsumgebung bereitstellen]]
 * [[Prozesse Odoo - Odoo.sh Plattform bereitstellen]]
 * [[Prozesse Odoo - Snippets]]
+* [[Prozesse Odoo - Datenmigration]]
 
 ## Prozesse Odoo Apps
 
