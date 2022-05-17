@@ -1,7 +1,7 @@
 # Angebot
 Das Angebot der Mint System.
 
-## Software Know-How
+## Software Know-how
 * [[LibreOffice]]
 * [[Odoo]]
 * [[Moodle]]

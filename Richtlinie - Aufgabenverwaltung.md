@@ -18,7 +18,6 @@ Die folgenden Hauptaufgaben sind definiert.
 
 ### Nicht verrechenbar
 
-* **Anforderungsanalyse (AA)** - Anforderungen definieren [[Emoji#🟢]]
 * **Projektadministration (PA)** - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts [[Emoji#🟢]]
 * **Know-how (KH)** - Erarbeiten Basiswissen zur Beratung von Kunden [[Emoji#🔵]]
 * **Reisezeit (RZ)** - Fahrzeit zum Kunden [[Emoji#🟡]]
