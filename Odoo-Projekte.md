@@ -31,6 +31,8 @@ Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 * [[Phase Wartung]]
 * [[Phase Personalbeschaffung]]
 * [[Phase Planung]]
+* [[Phase Odoo Upgrade]]
+* [[Phase Newsletter]]
 
 ## [[Prozesse]]
 
