@@ -99,6 +99,8 @@ Das Projektteam ist zur Unterstützung der Mitarbeitenden verfügbar und hilft z
 
 **Second Deployment**
 
+Das Second Deployment setzt voraus, dass Odoo implementiert wurde und in Betrieb ist. Man baut auf den Erfahrungen aus der Implementierung und Go-Live auf.
+
 ### Referenzen
 
 Siehe [[Mint System Referenzen]].

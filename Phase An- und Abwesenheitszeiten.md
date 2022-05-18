@@ -6,6 +6,7 @@ Tätigkeiten:
 * Importieren Feiertagskalender
 * Prüfung des Genehmigungsprozess
 * PIN-Code und Kartennummer hinterlegen
+* Installation Terminal Zeiterfassung
 
 Ergebnis: Mitarbeiter können ihre An- und Abwesenheitszeiten registrieren.
 

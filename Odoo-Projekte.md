@@ -33,6 +33,7 @@ Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 * [[Phase Planung]]
 * [[Phase Odoo Upgrade]]
 * [[Phase Newsletter]]
+* [[Phase Finanzen Erweitert]]
 
 ## [[Prozesse]]
 
