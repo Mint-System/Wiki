@@ -189,4 +189,4 @@ Wenn es an der Zeit ist den Schalter umzulegen, könnten unerwartete Probleme au
 
 Einen Monat nach dem Initial Deployment überprüft der Projektleiter die Liste der verbleibende Entwicklungen die in Phase 1 nicht gestartet wurden (d.h. Entwicklung die auf später verschoben wurden weil Sie nicht unbedingt notwendig sondern "nice-to-have" sind.)
 
-Mit dem Feedback der Benutzer wird die Priorisierung der spezifischen Entwicklungen neu beurteilt (typischerweise stellt sich heraus, dass 50% der Entwicklungen nicht notwendig waren und inzwischen neue Entwicklungen beantragt wurden).
+Mit dem Feedback der Benutzer wird die Priorisierung der spezifischen Entwicklungen neu beurteilt. (Typischerweise stellt sich heraus, dass 50% der Entwicklungen nicht notwendig waren und inzwischen neue Entwicklungen beantragt wurden.)

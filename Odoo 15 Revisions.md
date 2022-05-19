@@ -37,7 +37,7 @@ docker pull odoo@sha256:b0f192017179f7ddcba260f0a47bf146b509c4b561c551ef23c4f1ea
 docker tag 0e10f87fbc34 odoo:$ODOO_REVISION
 ```
 
-## Odoo 15.1
+## [[Odoo 15.1]]
 
 State: Active\
 Version: 15.0\

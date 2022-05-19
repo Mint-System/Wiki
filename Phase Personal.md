@@ -2,7 +2,7 @@
 
 Tätigkeiten:
 
-* Adressen des Personal erfassen
+* Adressen des Personals erfassen
 * Arbeitsverträge einrichten
 * Organisation und Genehmigungsprozess abbilden
 * Abteilungen erfassen inklusive der Hierarchie
@@ -13,7 +13,7 @@ Tätigkeiten:
 * Die Funktions- und Kompetenzmatrix einrichten
 * Die Schulungsplanung und -Überwachung definieren
 
-Ergebnis: Die Personaldaten der Mitarbeiter sind erfasst.
+Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 
 ## Rollen, Stellen, Kompetenzen
 

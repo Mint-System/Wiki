@@ -4,11 +4,11 @@ Tätigkeiten:
 
 * Abwesenheitstypen festlegen
 * Importieren Feiertagskalender
-* Prüfung des Genehmigungsprozess
+* Prüfung des Genehmigungsprozesses
 * PIN-Code und Kartennummer hinterlegen
 * Installation Terminal Zeiterfassung
 
-Ergebnis: Mitarbeiter können ihre An- und Abwesenheitszeiten registrieren.
+Ergebnis: Mitarbeitende können ihre An- und Abwesenheitszeiten registrieren.
 
 ## Anwesenheitszeiten planen
 

@@ -3,7 +3,7 @@
 Tätigkeiten:
 
 * Erstellen technische Spezifikation
-* Kick-Off mit externen Odoo Entwickler
+* Kick-Off mit externen Odoo Entwicklern
 * Kontinuierliche Integration und Testen der Lösung
 
 Ergebnis: Odoo Entwicklung validiert.
