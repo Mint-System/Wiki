@@ -5,3 +5,7 @@
 ## Lifecycle
 
 <https://endoflife.date/centos>
+
+## HowTos
+
+[[CentOS Upgrade from 7 to 8]]
