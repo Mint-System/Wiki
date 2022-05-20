@@ -34,6 +34,8 @@ Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 * [[Phase Odoo Upgrade]]
 * [[Phase Newsletter]]
 * [[Phase Finanzen Erweitert]]
+* [[Phase Inventur]]
+* [[Phase Finanzen Vermögensverwaltung]]
 
 ## [[Prozesse]]
 
