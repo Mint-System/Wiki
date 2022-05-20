@@ -12,7 +12,7 @@ tags:
 * [[Vorlage Aufwandsschätzung]]
 * [[Vorlage Phase]]
 * [[Vorlage Troubleshooting]]
-* [[Vorlage Datenmmigration]]
+* [[Vorlage Datenmigration]]
 * [[Vorlage Meeting]]
 * [[Vorlage Test Cases]]
 * [[Vorlage Worklog]]
