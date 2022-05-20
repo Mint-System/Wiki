@@ -6,4 +6,4 @@ Tätigkeiten:
 * Migration und Bereitstellung der Odoo Apps von Dritten
 * Erstellen neue Odoo-Umgebung und Upgrade der Datenbank
 
-Ergebnis: Odoo Upgrade auf einer neue Major-Version ist verfügbar.
+Ergebnis: Odoo Upgrade auf eine neue Major-Version ist verfügbar.

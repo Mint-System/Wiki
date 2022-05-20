@@ -99,7 +99,7 @@ Das Projektteam ist zur Unterstützung der Mitarbeitenden verfügbar und hilft z
 
 **Second Deployment**
 
-Das Second Deployment setzt voraus, dass Odoo implementiert wurde und in Betrieb ist. Man baut auf den Erfahrungen aus der Implementierung und Go-Live auf.
+Das Second Deployment setzt voraus, dass Odoo implementiert wurde und in Betrieb ist. Statt die Aufgaben in Projektphasen abzubilden, werden diese in Pakete gebündelt und gemäss Angaben des Kunden priorisiert.
 
 ### Referenzen
 
