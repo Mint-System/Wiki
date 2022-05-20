@@ -22,6 +22,7 @@ Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
 * [[Phase Verkäufe]]
 * [[Phase Versand]]
 * [[Phase Odoo Entwicklung]]
+* [[Phase Odoo Entwicklung Extern]]
 * [[Phase Personal]]
 * [[Phase An- und Abwesenheitszeiten]]
 * [[Phase Projekt]]

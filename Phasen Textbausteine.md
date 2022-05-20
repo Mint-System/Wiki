@@ -42,7 +42,7 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 [[Phase Versand|Phase X: Versand]]
 
-[[Phase Odoo Entwicklung|Phase X: Odoo Entwicklung]]
+[[Phase Odoo Entwicklung Extern|Phase X: Odoo Entwicklung]]
 
 [[Phase Odoo Berichte|Phase X: Odoo Bericht]]
 
