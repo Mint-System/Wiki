@@ -82,13 +82,13 @@ Allgemeine Bestimmungen:
 Es gelten die Mint System [[AGBs Entwicklungsprojekt|AGBs]] Version 1.18, welche in einem separaten PDF angehängt werden.
 
 Änderungen:
-Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostentotalabgedeckt sind, wird der Kunde seitens Auftragnehmerfrühzeitig informiert.
+Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostentotal abgedeckt sind, wird der Kunde seitens Auftragnehmer frühzeitig informiert.
 
 Änderungen:
 Zeichnen sich im Laufe der Projektarbeit Änderungen ab welche nicht Bestandteil des Angebots sind, wird der Kunde von Mint System zeitnah informiert.
 
 Vertraulichkeit:  
-Informationenwie Firmen-und Personendaten, die vom Kunden zur Erbringung der Leistungen zur Verfügung gestellt werden, werden vom Auftragnehmer absolut vertraulich behandelt.
+Informationen wie Firmen-und Personendaten, die vom Kunden zur Erbringung der Leistungen zur Verfügung gestellt werden, werden vom Auftragnehmer absolut vertraulich behandelt.
 
 Weiterentwicklung:  
 Hervorgehende Rechte und Pflichten aus dem Projektvertrag können nach Erbringung der Leistungen ohne schriftliche Zustimmung an Dritte abgetreten oder übertragen werden.
@@ -118,7 +118,7 @@ Spesen Pauschal:
 Reisezeit und Kilometer werden pauschal zu CHF verrechnet.
 
 Keine Spesen:  
-Für die Projektarbeit und Reiszeit werden keine Spesen verrechnet.
+Für die Projektarbeit und Reisezeit werden keine Spesen verrechnet.
 
 Reisepesen Pauschal:  
-Für die Reisezeit und -kosten (Altdorf - Zürch) verrechnen wir Pauschal je Ereignis CHF 250.00. Weitere Spesen werden nach Aufwand verrechnet.
+Für die Reisezeit und -kosten (Altdorf - Zürich) verrechnen wir Pauschal je Ereignis CHF 250.00. Weitere Spesen werden nach Aufwand verrechnet.
