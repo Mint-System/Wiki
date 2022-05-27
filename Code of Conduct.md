@@ -1,6 +1,5 @@
 # Code of Conduct
 
-
 **Abhängigkeiten werden vermieden**
 
 Es liegt im Interesse der Mint System, dass keine kundenspezifischen Entwicklungen gemacht werden, die den Kunden in eine Abhängigkeit bewegen. Bei jeder Abweichung vom Odoo-Standardmodell wird überpfüft, ob die Anpassung gerechtfertigt ist.
