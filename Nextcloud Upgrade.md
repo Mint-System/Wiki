@@ -4,27 +4,31 @@ Description of the Nextcloud upgrade process.
 
 ## Upgrade major release
 
-Define config.
+* Define config.
 
-```
-export NEXTCLOUD_CONTAINER=nextcloud01
-export DATABASE_CONTAINER=postgres02
+```bash
+export NEXTCLOUD_CONTAINER=nextcloud02
+export DATABASE_CONTAINER=postgres07
 ```
 
-Backup volumes and database.
+* Backup volumes and database.
 
-```
+```bash
 docker-volume-backup -a -c $NEXTCLOUD_CONTAINER
 docker-postgres-backup -a -c $DATABASE_CONTAINER
 ```
 
-Update Nextcloud image tag and deploy.
+* Update Nextcloud image tag.
 
-`nextcloud_image: nextcloud:21.0.5-apache`
-
-Tail the log while the upgrade is performed
-
+```yml
+nextcloud_image: nextcloud:21.0.5-apache
 ```
+
+* Deploy the new container
+
+* Tail the log while the upgrade is performed
+
+```bash
 docker logs -f $NEXTCLOUD_CONTAINER
 ```
 
@@ -36,7 +40,7 @@ docker logs -f $NEXTCLOUD_CONTAINER
 
 While upgrading this error occurs.
 
-```
+```bash
 Configuring Redis as session handler
 Initializing nextcloud 22.1.0.1 ...
 Upgrading nextcloud from 20.0.8.1 ...
