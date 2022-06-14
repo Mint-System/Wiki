@@ -16,7 +16,6 @@ Ergebnis: Alle Daten zum Starten und Überwachen der Projekte sind bereit.
 
 - Genügen die Standard-Funktionen für die Beauftragung von Projektarbeiten? ⭐
 
-
 **Status der Arbeiten**
 
 - Genügen die Standard-Funktionen für die Darstellung der Auftragsstati? ⭐
@@ -24,7 +23,6 @@ Ergebnis: Alle Daten zum Starten und Überwachen der Projekte sind bereit.
 **Ressourcen**
 
 - Wie erfolgt die Ressourcenplanung?
-
 
 **Reporting**
 

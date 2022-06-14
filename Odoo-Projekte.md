@@ -2,7 +2,7 @@
 
 ## [[Phasen]]
 
-Zur Umsetzung eines Odoo-Projekt können diese Phase angewendet werden:
+Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 
 * [[Phase Odoo Installation]]
 * [[Phase Odoo Initialisierung]]

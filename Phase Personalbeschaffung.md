@@ -2,23 +2,33 @@
 
 Tätigkeiten:
 
-* Stellenausschreibungen definieren 
-* Bewerbungsformular festhalten
+* Stellenausschreibungen definieren
+* Qualifizierungsstufen festlegen 
+* Bewerbungsformular erweitern
 * Bewerbungsprozess abwickeln
 
-Ergebnis: Der Bewerbungsprozess
+Ergebnis: Der Bewerbungsprozess wird mit Odoo umgesetzt.
 
 ## Stellenausschreibungen definieren 
 
-**Konfiguration**
+**Stellenbeschreibung**
 
-- Wie sehen aktuelle Stellenausschreibungen aus?  ⭐
+- Wie sehen aktuelle Stellenausschreibungen aus? ⭐
 - Wie werden Bewerbungsdokumente empfangen und verarbeitet?
-
+- Für welche Dokumente bestehen Vorlagen?
 
 ## Interviewprozess konfigurieren
 
-**Konfiguration**
+**Bewertung**
 
-- Haben Sie einen Fragekatalog für die Interviews?  ⭐
-- Über wie viele Stufen erfolgt der Bewertungsprozess?  ⭐
+- Haben Sie einen Fragekatalog für die Interviews? ⭐
+- Über wie viele Stufen erfolgt der Bewertungsprozess? ⭐
+- Wie werden Bewerbende informiert?
+
+**Absage**
+
+* Wie wird eine Absage kommuniziert?
+
+**Zusage**
+
+* Wie erfolgt Zusage an den Bewerbenden?
