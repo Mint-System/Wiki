@@ -4,7 +4,7 @@ Kreativprozess für Produktentwicklung. Sammlung von Ideen für neue Produkte.
 
 ## draw.io Integration für Odoo
 
-Beispiele für iframe integrationen: <https://github.com/jgraph/drawio-integration>
+Beispiele für Iframe-Integrationen: <https://github.com/jgraph/drawio-integration>
 
 Beispiel für Odoo-Widget: <https://apps.odoo.com/apps/modules/14.0/web_widget_flow_chart/>
 
