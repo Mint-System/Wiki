@@ -39,10 +39,10 @@ Bei der Durchführt der Sitzung können folgende Elemente erfasst werden:
 
 Eine Aufgabe ist an ein Projekt gekoppelt. Das Protokoll wird einem Projekt zugeordnet.
 
-Ein Situngsprotokoll hat folgende Attribute:
+Ein Sitzungsprotokoll hat folgende Attribute:
 
-* Name*
-* Projekt* -> Projekt
+* Name
+* Projekt -> Projekt
 * Teilnehmer -> Kontakte
 * Stufe:
 	* Geplant
