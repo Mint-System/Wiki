@@ -1,7 +1,3 @@
----
-publish: false
----
-
 # Neuerungen in Odoo 15
 
 Passender Blog-Post: <https://www.giordano.ch/produkte/odoo/odooversionen/odoo-15-version-v15>
