@@ -99,7 +99,7 @@ Der entwickelte Softwarecode untersteht der [[GNU GPLv3 Lizenz]].
 ### Kündigung
 
 Kündigung:  
-Unter einhalt der Kündigungsfrist von einem Monat kann der Hosting-Vertrag auf Ende der Verrechnungsperiode gekündigt werden.
+Unter Einhalt der Kündigungsfrist von einem Monat kann der Hosting-Vertrag auf Ende der Verrechnungsperiode gekündigt werden.
 
 ### Abrechnung
 
