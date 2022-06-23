@@ -6,7 +6,7 @@ Statt Visitenkarten haben wir QR-Codes.
 
 Die Kontaktangaben werden in der Textdatei [[janik.vcf]] gespeichert.
 
-```text
+```txt
 BEGIN:VCARD
 VERSION:3.0
 N:von Rotz;Janik;;;
@@ -28,7 +28,7 @@ Mit dem Befehl `cat janik.vcf | qrencode -o "janik.vcf.png"` konvertiert man den
 
 Die Kontaktangaben werden in der Textdatei [[kurt.vcf]] gespeichert.
 
-```text
+```txt
 BEGIN:VCARD
 VERSION:3.0
 N:Gisler;Kurt;;;
