@@ -62,6 +62,6 @@ Wenn Sie einen Ordner einem Benutzer oder einer Gruppe freigeben, können Sie de
 
 ## Gruppenadministrator definieren
 
-Über die Benutzerverwaltung *Benutzer > Aktive Benutzer* können Sie einen Benutzer zum Gruppenadministrator für eine Benutzergruppe ernennen. Fügen Sie dazu in der Spalte *Gruppenadministrator für* ganz einfach die entsprechenden Gruppen hinzu
+Über die Benutzerverwaltung *Benutzer > Aktive Benutzer* können Sie einen Benutzer zum Gruppenadministrator für eine Benutzergruppe ernennen. Fügen Sie dazu in der Spalte *Gruppenadministrator für* ganz einfach die entsprechenden Gruppen hinzu:
 
 ![[Nextcloud Gruppenadministrator.png]]
