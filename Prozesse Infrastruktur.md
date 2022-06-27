@@ -3,14 +3,22 @@ Dokumentation der Infrastruktur Prozesse.
 
 Verantwortlich: [[Janik von Rotz]]
 
+## Bestellung
+
+* [[Prozesse Infrastruktur - Server bestellen]]
+* [[Prozesse Infrastruktur - Odoo bestellen]]
+* [[Prozesse Infrastruktur - Nextcloud bestellen]]
+
+## Bereitstellung
+
+* [[Prozesse Infrastruktur - Server bereitstellen]]
 * [[Prozesse Infrastruktur - Installation BigBlueButton]]
 * [[Prozesse Infrastruktur - Installation Moodle]]
 * [[Prozesse Infrastruktur - Installation Odoo]]
 * [[Prozesse Infrastruktur - Installation Nextcloud]]
-* [[Prozesse Infrastruktur - Odoo bestellen]]
-* [[Prozesse Infrastruktur - Nextcloud bestellen]]
-* [[Prozesse Infrastruktur - Server bereitstellen]]
-* [[Prozesse Infrastruktur - Server bestellen]]
+
+## Verwaltung
+
 * [[Prozesse Infrastruktur - Server Monitoring]]
 * [[Prozesse Infrastruktur - DNS-Verwaltung]]
 * [[Prozesse Infrastruktur - Server-Zugriff verwalten]]

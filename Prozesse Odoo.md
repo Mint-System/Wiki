@@ -3,14 +3,19 @@ Technische Dokumentation der Odoo Prozesse. Baisieren auf der [[Vorlage Prozesse
 
 Verantwortlich: [[Janik von Rotz]]
 
+## Bereitstellung
+
 * [[Prozesse Odoo - Demoumgebung bereitstellen]]
 * [[Prozesse Odoo - Testumgebung bereitstellen]]
 * [[Prozesse Odoo - Produktionsumgebung bereitstellen]]
 * [[Prozesse Odoo - Odoo.sh Plattform bereitstellen]]
+
+## Verwaltung
+
 * [[Prozesse Odoo - Snippets]]
 * [[Prozesse Odoo - Datenmigration]]
 
-## Prozesse Odoo Apps
+## Odoo Apps
 
 * [[Prozesse Odoo - App Abonnements]]
 * [[Prozesse Odoo - App Aussendienst]]

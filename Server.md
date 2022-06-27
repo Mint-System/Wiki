@@ -14,6 +14,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 
 | Name     | Funktion                               | DNS                        | Hoster      |
 | -------- | -------------------------------------- | -------------------------- | ----------- |
+| Aeolus   | Server Aerolite AG                     | `aerolus.mint-system.com`  | Off-Premise |
 | Apollo   | Dienste [[Janik von Rotz]]             | `apollo.janikv.com`        | Hetzner     |
 | Artemis  | Server Trimada AG                      | `artemis.mint-system.com`  | Hetzner     |
 | Athena   | Server HFMTS                           | `athena.mint-system.com`   | Hosttech    |
@@ -31,5 +32,5 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Pan      | Server Light Wing AG                   | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                         | `poseidon.mint-system.com` | ExoScale    |
 | Themis   | [[BigBlueButton]] KMSU                 | `themis.mint-system.com`   | ExoScale    |
-| Triton   | Server andeer.net                      | `triton.mint-system.com`   | Off-premise |
+| Triton   | Server andeer.net                      | `triton.mint-system.com`   | Off-Premise |
 | Zeus     | Dienste [[Mint System GmbH]]           | `zeus.mint-system.com`     | Hetzner     |
