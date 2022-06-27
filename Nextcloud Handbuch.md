@@ -53,3 +53,9 @@ Der Empfänger teilt den Ordner oder Datei wie gewohnt, jedoch wählt er den zwe
 ![[Nextcloud Federated Sharing.png]]
 
 Der Empfänger erhält in Nextcloud eine Nachricht mit der Aufforderung den geteilten Ordner oder Datei zu bestätigen.
+
+## Weiterteilen erlauben
+
+Wenn Sie einen Ordner einem Benutzer oder einer Gruppe freigeben, können Sie den Berechtigten das *Weiterteilen* erlauben.
+
+![[Nextcloud Weiterteilen erlauben.png]]
