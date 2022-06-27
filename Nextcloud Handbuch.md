@@ -59,3 +59,9 @@ Der Empfänger erhält in Nextcloud eine Nachricht mit der Aufforderung den gete
 Wenn Sie einen Ordner einem Benutzer oder einer Gruppe freigeben, können Sie den Berechtigten das *Weiterteilen* erlauben.
 
 ![[Nextcloud Weiterteilen erlauben.png]]
+
+## Gruppenadministrator definieren
+
+Über die Benutzerverwaltung *Benutzer > Aktive Benutzer* können Sie einen Benutzer zum Gruppenadministrator für eine Benutzergruppe ernennen. Fügen Sie dazu in der Spalte *Gruppenadministrator für* ganz einfach die entsprechenden Gruppen hinzu
+
+![[Nextcloud Gruppenadministrator.png]]
