@@ -5,8 +5,8 @@ Verantwortlich: [[Marco Roeleven]]
 
 ```mermaid
 graph LR;
-    A[Kontakaufnahme]-->B[Präsentation];
-    B-->G[Qualifikation];
+    A[Kontakaufnahme]-->B[Qualifikation];
+    B-->G[Präsentation];
     G-->C[Anforderungsanalyse];
     C-->D[Odoo Demoumgebung bestellen];
     D-->E[Angebot erstellen]
@@ -14,10 +14,10 @@ graph LR;
 ```
 
 * [[Prozesse Akquise - Kontaktaufnahme]]
-* [[Prozesse Akquise - Präsentation]]
 * [[Prozesse Akquise - Qualifikation]]
+* [[Prozesse Akquise - Präsentation]]
 * [[Prozesse Akquise - Anforderungsanalyse]]
 * [[Prozesse Akquise - Analyse Odoo Customization]]
-* [[Prozesse Akquise - Odoo Demoumgebung erstellen]]
+* [[Prozesse Akquise - Odoo Testumgebung erstellen]]
 * [[Prozesse Akquise - Angebot erstellen]]
 * [[Prozesse Akquise - Konzept erstellen]]

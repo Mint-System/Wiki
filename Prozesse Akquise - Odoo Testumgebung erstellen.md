@@ -1,6 +1,6 @@
-# Prozess Odoo Demoumgebung erstellen
+# Prozess Odoo Testumgebung erstellen
 
-## Odoo Demoumgebung erstellen
+## Odoo Testumgebung erstellen
 
 Arbeitsschritte:
 * Definieren Sie einen Datenbanknamen
@@ -20,7 +20,7 @@ Arbeitsschritte:
 * Weitere Odoo Apps nach Bedarf installieren
 * Benutzer einladen
 
-## Odoo Demoumgebung bestellen
+## Odoo Testumgebung bestellen
 
 Arbeitsschritte:
 * Aufgabe *Odoo Demoumgebung* in Projekt Akquise erstellen

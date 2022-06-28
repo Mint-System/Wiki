@@ -43,7 +43,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 Zur Umsetzung eines Odoo-Projekt werden die folgenden Prozesse angwendet:
 
 * [[Prozesse Akquise - Kontaktaufnahme]]
-* [[Prozesse Akquise - Odoo Demoumgebung erstellen]]
+* [[Prozesse Akquise - Odoo Testumgebung erstellen]]
 * [[Prozesse Akquise - Präsentation]]
 * [[Prozesse Akquise - Anforderungsanalyse]]
 * [[Prozesse Projektmanagement - Konzept]]
