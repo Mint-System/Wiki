@@ -2,6 +2,7 @@
 Bereitstellung Odoo-Umgebung.
 
 ## Odoo-Umgebung bereitstellen
+
 Arbeitsschritte:
 * Odoo-Konfiguration in [[Ansible Inventory]] erstellen
 * Odoo-Umgebung deployen
@@ -9,6 +10,7 @@ Arbeitsschritte:
 * Installation über den Databasemanager
 
 ## Odoo-Installation initialisieren
+
 Arbeitsschritte:
 * App Odoo referral program (`odoo_referral`) entfernen
 * Installation Mint System Apps:
@@ -20,6 +22,7 @@ Arbeitsschritte:
 * Benutzer `admint` archivieren 
 
 ## Odoo Master Password erstellen
+
 Für jeden Kunden muss ein [[Odoo Master Password]] erstellt werden.
 
 Arbeitsschritte:

@@ -2,13 +2,33 @@
 
 Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung muss immer verfügbar und gesichert sein.
 
+## Installation
+
+Auswahl:
+* Odoo Cloud Notification Client (OCN) `ocn_client` #Odoo13
+* Web-Enterprise `web_enterprise` #Odoo13-14
+* Web Responsive  `web_responsive`
+* Microsoft Outlook `microsoft_outlook` #Odoo15 
+* Fetchmail Outlook  `fetchmail_outlook` #Odoo15 
+
 ## Initialisierung
 
 Arbeitsschritte:
 * Bereitstellen Umgebung gemäss Bestellung
+* Konfiguration "Administrator Mint System"
 * Installation initiale Apps
-* Konfiguration der Mail-Dienste
+* Konfiguration Mail-Server
 * Einladen Benutzer und Vergabe Berechtigungen
+
+### Unternehmensdaten eintragen
+
+Arbeitsschritte:
+* Unternehmensdaten festlegen: Adresse, Mehrwertsteuer-ID, UID, etc.
+* Benutzer erfassen: Personal muss nicht zwingend Benutzer sein
+* Sprachpakete installieren
+* Geschäftsunterlagen: Papierformat
+* Diskussion: Externe E-Mail-Server
+* Integration Kalender: Google, Outlook
 
 ### Lokalisierung festlegen
 

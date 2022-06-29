@@ -5,18 +5,12 @@
 Arbeitsschritte:
 * Definieren Domain  `$NAME.14.odoo.build`
 * Installation Odoo mit [[Ansible Playbooks]]
-* Laden Datenbankvorlage
-* Mail-Domäne gemäss Domain festlegen
+* Konfiguration Mail-Server
 * Unternehmensdaten eintragen
 * Ausgewählte Module installieren und konfigurieren
 * Benutzer registrieren
 * Corporate Design umsetzen
 * Aktualisieren [[Demoumgebungen#Odoo]]
-
-### Module installieren
-
-* Odoo Cloud Notification Client (OCN) (`ocn_client`) #Odoo13
-* Web-Enterprise (`web_enterprise`) #Odoo13-14
 
 ### Login Mint System konfigurieren
 
