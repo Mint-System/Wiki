@@ -8,10 +8,11 @@ Arbeitsschritte:
 * Drehbuch für Demoprozess erstellen
 * Handout mit Kontakt- und Logindaten drucken
 * Kontakt Sale von Odoo S.A. für Zuschaltung bei Besprechung Pricing
+* Weiteres Vorgehen definieren
 
 ## Demoumgebung vorbereiten
 
 Arbeitsschritte:
-* Erstellen neue Datenbank
+* Erstellen Demo-Umgebung
 * Definieren Demoprozess
-* Datenbank personalisieren
+* Umgebung personalisieren

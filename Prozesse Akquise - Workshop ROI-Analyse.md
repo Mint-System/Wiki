@@ -1,4 +1,4 @@
-# Prozess Workshop ROI-Analyse durchführen
+# Prozess Workshop ROI-Analyse
 
 ## Workshop vorbereiten
 

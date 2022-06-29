@@ -21,3 +21,4 @@ graph LR;
 * [[Prozesse Akquise - Odoo Testumgebung erstellen]]
 * [[Prozesse Akquise - Angebot erstellen]]
 * [[Prozesse Akquise - Konzept erstellen]]
+* [[Prozesse Akquise - Workshop ROI-Analyse]]

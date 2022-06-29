@@ -11,3 +11,4 @@ Arbeitsschritte:
 	* Stakeholder
 	* Wichtigkeit
 	* Machbarkeit
+	* Budget
