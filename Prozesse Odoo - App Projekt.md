@@ -8,6 +8,8 @@ Auswahl:
 * Timesheet and Planning  `project_timesheet_forecast`
 * Compare timesheets and forecast for your projects `project_timesheet_forecast_sale`
 * Projekt Unternehmen `project_enterprise` 
+* Timer `timer` 
+
 
 ### Optionen aktivieren
 

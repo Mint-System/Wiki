@@ -4,6 +4,42 @@ Das sind Odoo Apps für die ein [[Odoo Maintenance]]-Vertrag erstellt werden mus
 
 ## Apps
 
+### # web_ir_actions_act_view_reload
+
+Repo: <https://github.com/OCA/web/pull/2240>
+
+Nicht für Odoo 15 verfügbar. PR für Migration ist erstellt.
+
+```bash
+cd oca/web
+gh pr checkout 2240
+../..
+```
+
+### hr_timesheet_task_stage
+
+Repo: <https://github.com/OCA/timesheet/pull/500>
+
+Nicht für Odoo 15 verfügbar. PR für Migration ist erstellt.
+
+```bash
+cd oca/timesheet
+gh pr checkout 500
+../..
+```
+
+### project_timesheet_time_control
+
+Repo: <https://github.com/OCA/project/pull/939>
+
+Nicht für Odoo 15 verfügbar. PR für Migration ist erstellt.
+
+```bash
+cd oca/project
+gh pr checkout 939
+../..
+```
+
 ### l10n_ch_qr_bill_scan
 
 Repo: <https://github.com/OCA/l10n-switzerland/pull/649>
