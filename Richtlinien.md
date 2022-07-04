@@ -15,3 +15,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Calc Dokumente]]
 * [[Richtlinie - Aufgabenverwaltung]]
 * [[Richtlinie - Finanzen]]
+* [[Richtlinie - Snippet]]
