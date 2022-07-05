@@ -16,6 +16,7 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Infrastruktur - Installation Moodle]]
 * [[Prozesse Infrastruktur - Installation Odoo]]
 * [[Prozesse Infrastruktur - Installation Nextcloud]]
+* [[Prozesse Infrastruktur - Innernet bereitstellen]]
 
 ## Verwaltung
 
