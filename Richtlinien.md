@@ -16,3 +16,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Aufgabenverwaltung]]
 * [[Richtlinie - Finanzen]]
 * [[Richtlinie - Snippet]]
+* [[Richtlinie - Obsidian]]
