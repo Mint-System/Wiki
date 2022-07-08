@@ -17,4 +17,4 @@ Beispielsweise existieren für das Projekt *ERP Velomanufaktur AG* diese Ordner:
 
 **Gruppenberechtigungen**
 
-Die externen Benutzer sind mitgleider einer Gruppe deren Name gleich dem Projekt ist. In diesem Fall wäre es `ERP Velomanufaktur AG`. Die Freigabe des `Shared`-Ordners erfolgt mittels dieser Gruppe.
+Die externen Benutzer sind Mitglieder einer Gruppe deren Name gleich dem Projekt ist. In diesem Fall wäre es `ERP Velomanufaktur AG`. Die Freigabe des `Shared`-Ordners erfolgt mittels dieser Gruppe.
