@@ -34,3 +34,7 @@
 **Lebensmittel**
 
 * [Basis57](https://www.basis57.ch/), Herr Thomas Gisler
+
+**Fertigung**
+
+* [Tissa AG](https://www.tissa.ch/), Frau Silke Schmid

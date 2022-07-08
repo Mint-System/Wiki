@@ -2,4 +2,4 @@
 
 ## IDE
 
-Als Integrated Development Environment (IDE) verwenden wir [[Visual Studio Code]].
+Als Integrated Development Environment (IDE) verwenden wir [[VSCodium]].
