@@ -6,10 +6,13 @@ all
 index
 convert
 assets
+sitemap
 */
 
 // settings
 const ignoreFiles = ['_navbar.md', '_sidbar.md']
+const scheme = 'https://'
+const hostname = 'wiki.mint-system.ch'
 const basePath = '/'
 const basePathAssets = './'
 const uriSuffix = '.html'
@@ -33,6 +36,10 @@ function sanitizeAssetname(file) {
         .replace(/ö/g, 'o')
         .replace(/ü/g, 'u')
         .replace(/ä/g, 'a')
+}
+
+function loopMdFiles() {
+    return fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0))
 }
 
 const groupBy = key => array =>
@@ -111,7 +118,7 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
     console.log('Build title index ...')
 
     // loop all markdown files
-    fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
+    loopMdFiles().forEach((file) => {
 
         // get markdown content
         var content = fs.readFileSync(file, 'utf8')
@@ -139,7 +146,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
     console.log('Convert files ...')
 
     // process all markdown files
-    fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0)).forEach((file) => {
+    loopMdFiles().forEach((file) => {
 
         // get markdown content
         let content = fs.readFileSync(file, 'utf8')
@@ -245,4 +252,22 @@ if (!firstArg || ['all', 'assets'].indexOf(firstArg) > 0) {
 
     // log
     console.log('Moving assets finished.')
+}
+
+if (!firstArg || ['all', 'sitemap'].indexOf(firstArg) > 0) {
+    
+    // log
+    console.log('Build sitemap ...')
+
+    content = []
+    loopMdFiles().forEach((file) => {
+        href = sanitizeName(file.replace('\.md', ''))
+        content.push(`${scheme}${hostname}${basePath}${href}${uriSuffix}\n`)
+    })
+    
+    // write content to index file
+    fs.writeFileSync('.vuepress/public/sitemap.txt', content.join(''), 'utf8')
+
+    // log
+    console.log('Building sitemap finished.')
 }

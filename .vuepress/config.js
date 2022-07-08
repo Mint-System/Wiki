@@ -1,34 +1,26 @@
+const { defaultTheme } = require('vuepress')
+const { searchPlugin } = require('@vuepress/plugin-search')
+const { plausiblePlugin } = require('./plausible')
+
 module.exports = {
+    lang: 'de-CH',
     title: 'Wiki Mint System',
-    description: 'Wiki Mint System',
-    head: [
-        ['link', { rel: "icon", type: "image/png", href: "icon.png"}],
-    ],
-    themeConfig: {
+    description: 'Strukturierte Wissensdatenbank der Mint System GmbH. ',
+    theme: defaultTheme({
         logo: '/icon.png',
-        sidebar: 'auto',
-        nav: [
+        repo: 'mint-system/wiki',
+        docsBranch: '14.0',
+        editLink: false,
+        navbar: [
             { text: 'Home', link: '/' },
-            { text: 'Topics', link: '/topics' },
             { text: 'Glossary', link: '/glossary' },
             { text: 'Mint System', link: 'https://www.mint-system.ch' }
         ]
-    },
+    }),
     plugins: [
-        'fulltext-search',
-        '@vuepress/active-header-links',
-        '@vuepress/medium-zoom',
-        'vuepress-plugin-mermaidjs',
-        'plausible-analytics',
-        '@vuepress/back-to-top',
-        [
-            'vuepress-plugin-sitemap',
-            {
-                hostname: 'https://wiki.mint-system.ch/'
-            }
-        ]
+        searchPlugin(),
+        plausiblePlugin({
+            'domain': 'wiki.mint-system.ch'
+        })
     ],
-    extendMarkdown: (md) => {
-        md.use(require('markdown-it-include'))
-    }
 }
