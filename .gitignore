@@ -5,3 +5,5 @@ node_modules
 .vercel
 .obsidian/workspace
 .obsidian/graph.json
+.temp
+.cache

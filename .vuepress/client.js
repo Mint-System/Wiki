@@ -10,6 +10,6 @@ export default defineClientConfig({
 			script.dataset.domain = domain
 			script.src = "https://plausible.io/js/script.js"
 			document.getElementsByTagName('head')[0].appendChild(script)
-		}
+		}	
 	}
 })
