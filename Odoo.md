@@ -4,7 +4,7 @@ tags:
 ---
 # Odoo
 
-Odoo ist eine Management-Software. Es ist Teil des [[Angebot|Angebots]] der [[Mint System]]. Odoo wird mit verschiedenen [[Hosting-Modelle|Hosting-Modellen]] angeboten. Mehr dazu zu unter [[Odoo Marketing]].
+Odoo ist eine Management-Software. Es ist Teil des [[Angebot|Angebots]] der [[Mint System]]. Odoo wird mit verschiedenen [[Hosting-Modelle|Hosting-Modellen]] angeboten.
 
 Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Wiki]].
 
@@ -68,3 +68,5 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Zertifizierung]]
 * [[Odoo Tutorials]]
 * [[Odoo Brand Assets]]
+* [[Odoo Marketing]]
+* [[Odoo Dienstleistungen]]
