@@ -30,9 +30,16 @@ Die Unternehmung Odoo S.A. mit Sitz in in Belgien hat seit der Gründung im Jahr
 
 Die Mint System GmbH ist offizieller Partner von Odoo. Wir sind ausgewiesene Fachleute und ein zuverlässiger Partner für die erfolgreiche Implementierung von Odoo in Ihrer Unternehmung.
 
+### Eine Plattform
+
+Odoo ist Plattform für Geschäftsapplikationen. Für jedes Bedürfnis gibt es eine passende App.  
+Wir installieren, nur was Sie brauchen. Dazu eine Auswahl der wichtigsten Apps:
+
 ### All-In-One
 
 ![[odoo all in one.jpeg]]
+
+Brauchen Sie dennoch eine Verbindung zu einem System? Dank den offenen Schnittstellen von Odoo ist eine direkte Integration kein Problem.
 
 ![[Odoo all-in-one software solution.png]]
 

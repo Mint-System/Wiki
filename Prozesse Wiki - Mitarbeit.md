@@ -9,7 +9,7 @@ Arbeitsschritte:
 2. Werden Sie Mitglied bei <https://github.com/Mint-System/> (optional)
 3. Installieren Sie <https://obsidian.md/>
 4. Installieren Sie <https://git-scm.com/>
-5. Erstellen Sie ein SSH-Schlüsselpaar <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
+5. Verwenden Sie ihren bestehenden SSH-Schlüssel oder erstellen Sie ein neues SSH-Schlüsselpaar <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
 6. Forken Sie das *Wiki Mint System* Repository (optional)
 7. Klonen Sie das *Wiki Mint System* Repository
 

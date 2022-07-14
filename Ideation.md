@@ -2,6 +2,15 @@
 
 Kreativprozess für Produktentwicklung. Sammlung von Ideen für neue Produkte.
 
+## Branchlösung Odoo
+
+[[Aerodoo]] die Branchenlösung für  Luftfahrtbetriebe.
+
+Traceability.
+EASA Part 21.
+EASA Form 1.
+Qualitätsprüfung.
+
 ## draw.io Integration für Odoo
 
 Beispiele für Iframe-Integrationen: <https://github.com/jgraph/drawio-integration>

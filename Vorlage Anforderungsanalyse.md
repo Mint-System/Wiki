@@ -13,7 +13,6 @@ Ein [[Anforderungsanalyse]] hat die folgende Struktur:
 	* Rollen: Rollenbeschreibungen
 	* Datenmodell: Visualisierung des Datenmodells
 * [[Anforderungen]]
-	* Technische Anforderungen
 	* Funktionale Anforderungen
 	* Qualitätsanforderungen
 	* Randbedingungen
