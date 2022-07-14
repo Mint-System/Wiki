@@ -1,5 +1,17 @@
 # Prozess Git-Repository
 
+## Profil einrichten
+
+Arbeitsschritte:
+* [[VSCodium]] oder [[VSCode]] öffnen
+* *Terminal > New Terminal* wählen
+* Befehl eingeben:
+
+```console
+git config --global user.name "Kurt Gisler"
+git config --global user.email kurt.gisler@mint-system.ch
+```
+
 ## Git-Repository erstellen
 
 Arbeitsschritte:
