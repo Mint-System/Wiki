@@ -38,8 +38,9 @@ Tables:
 --table--border: #5C5C5C
 ```
 
-## Signatur
-Die Signaturen sind in einem [[Signatur|Dokument]] festgehalten.
+## Fonts
+
+Siehe [[Fonts]].
 
 ## Icons
 
