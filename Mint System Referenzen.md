@@ -8,7 +8,7 @@
 
 * [Aersolution Interior AG](https://www.aersolution.com/), Herr Roger Bünter
 * [Trimada AG](https://www.trimada.ch/), Herr Daniel Koepfli
-* [PAVIC d.o.o](https://www.pavicdoo.rs/ "https://www.pavicdoo.rs/"), Herr Stefan Folini
+* [PAVIC d.o.o](https://www.pavicdoo.rs/ "https://www.pavicdoo.rs/"), Herr Stefan Folini (Gelso AG)
 
 **Webauftritte und Webshops**
 
@@ -16,16 +16,17 @@
 
 **Odoo Entwicklungen**
 
-* [Certification Planner](https://github.com/Mint-System/Certificate-Planner), Herr Christian Zenker
+* [Certificate Planner](https://github.com/Mint-System/Certificate-Planner), Herr Christian Zenker (Aerolite AG)
 
 **Handel**
 
 * [Gelso AG](https://www.gelso.ch), Herr Stefan Folini
 
-**HRM**
+**HR & Projektmanagement**
 
 * [Aerolite AG](https://aerolite.ch/), Herr Hansruedi Christen
 * [Light Wing AG](https://www.lightwing.ch/), Herr Marco Trüssel
+* [AirWork & Heliseilerei GmbH](https://www.air-work.com/), Herr Martin Schnopp
 
 **Vereine**
 
@@ -33,8 +34,12 @@
 
 **Lebensmittel**
 
-* [Basis57](https://www.basis57.ch/), Herr Thomas Gisler
+* [Basis 57 nachhaltige Wassernutzung AG](https://www.basis57.ch/), Herr Thomas Gisler
 
 **Fertigung**
 
 * [Tissa AG](https://www.tissa.ch/), Frau Silke Schmid
+
+**Arbeitsgemeinschaften**
+
+* [BINARY business](https://www.binary-business.ch/), Herr Thomas Tresch
