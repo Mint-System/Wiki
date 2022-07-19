@@ -12,7 +12,7 @@ Seedorferstrasse 29
 
 Web: https://www.mint-system.ch
 Mail: janik.vonrotz@mint-system.ch
-Tel: 041 541 78 92
+Tel: +41 41 541 78 92
 ```
 
 Marco Roeleven
@@ -25,9 +25,22 @@ Mint System GmbH
 Seedorferstrasse 29
 6460 Altdorf
 
- 
-
 Web: https://www.mint-system.ch
 Mail: marco.roeleven@mint-system.ch
-Tel: 041 541 78 67
+Tel: +41 41 541 78 67
+```
+
+Kurt Gisler
+
+```
+___
+
+CEO
+Mint System GmbH
+Seedorferstrasse 29
+6460 Altdorf
+
+Web: https://www.mint-system.ch
+Mail: kurt.gisler@mint-system.ch
+Tel: +41 41 541 78 64
 ```
