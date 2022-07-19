@@ -18,3 +18,4 @@ Arbeitsschritte:
 	* `200`: Umsatz Kundenrechnungen aus Periode
 	* `322`: Leistungen nach Steuersatz
 	* `332`: Leistungen nach Steuersatz
+* Ersten Sie die MWST-Abrechnung und erfassen Sie die generierte Rechnung
