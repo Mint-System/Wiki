@@ -4,7 +4,6 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
-[[Server und Applikationen mit Ansible bereitstellen]]\
 [[Arbeitsplatz am Bahnhofplatz 1]]\
 [[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
@@ -12,6 +11,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Veröffentlicht
 
+[[Server und Applikationen mit Ansible bereitstellen]]\
 [[Eine Sache des guten Geschmacks]]\
 [[Websites mit Odoo erstellen]]\
 [[Open Source Software = Sicherheit]]\

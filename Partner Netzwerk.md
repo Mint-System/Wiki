@@ -14,6 +14,10 @@ Geschäftsbeziehungen der Mint System.
 
 * [[Gaapex]]
 
+## Management Luftfahrt
+
+* [[dbpConcepts GmbH]]
+
 ## [[Nextcloud Partner]]
 
 * [[Nextcloud GmbH]]
@@ -21,3 +25,7 @@ Geschäftsbeziehungen der Mint System.
 ## Open Source Partner
 
 * [[Cybrosys]]
+
+## Softwareentwicklung
+
+* [[BINARY one GmbH]]
