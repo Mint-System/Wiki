@@ -4,13 +4,13 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
-[[Arbeitsplatz am Bahnhofplatz 1]]\
 [[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
 [[Neuerungen in Odoo 15]]
 
 ## Veröffentlicht
 
+[[Arbeitsplatz am Bahnhofplatz 1]]\
 [[Server und Applikationen mit Ansible bereitstellen]]\
 [[Eine Sache des guten Geschmacks]]\
 [[Websites mit Odoo erstellen]]\
