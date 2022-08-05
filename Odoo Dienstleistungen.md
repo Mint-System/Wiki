@@ -6,7 +6,7 @@ Haben Sie eine Frage zu Odoo oder brauchen Sie Unterstützung bei der Konfigurat
 
 ## Entwicklung
 
-Wir passen Odoo Ihren Bedürfnissen und Anforderungen an. Dabei bauen wir auf Anpassungen und Entwicklungen aus vergangen Projekten auf.
+Wir passen Odoo Ihren Anforderungen und Prozessen an. Dabei bauen wir auf Erfahrungen und Entwicklungen aus vergangenen Projekten auf.
 
 ## Hosting
 

@@ -15,7 +15,7 @@ ORG: Mint System GmbH
 TITLE:Chief Technical Officer
 EMAIL:janik.vonrotz@mint-system.ch
 ADR;type=work:;;Seedorferstrasse 29;Altdorf;;6460;Schweiz
-TEL;TYPE=cell:+41 44 244 7222
+TEL;TYPE=cell:+41 44 244 72 22
 URL:https://www.mint-system.ch
 END:VCARD
 ```
@@ -37,7 +37,7 @@ ORG: Mint System GmbH
 TITLE:Chief Executive Officer
 EMAIL:kurt.gisler@mint-system.ch
 ADR;type=work:;;Seedorferstrasse 29;Altdorf;;6460;Schweiz
-TEL;TYPE=cell:+41 44 244 7221
+TEL;TYPE=cell:+41 44 244 72 21
 URL:https://www.mint-system.ch
 END:VCARD
 ```
