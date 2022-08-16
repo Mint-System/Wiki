@@ -35,3 +35,21 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Themis   | [[BigBlueButton]] KMSU                 | `themis.mint-system.com`   | ExoScale    |
 | Triton   | Server andeer.net                      | `triton.mint-system.com`   | Off-Premise |
 | Zeus     | Dienste [[Mint System GmbH]]           | `zeus.mint-system.com`     | Hetzner     |
+| Eos      | Server Aersolution Interior AG         | `odoo.aersolution.com`      | Off-Premise            |
+
+### Liste freie Namen
+
+Die folgenden Namen stehen zur Auswahl bereit:
+
+* Ares
+* Krios
+* Dione
+* Eos
+* Bia
+* Eris
+* Eros
+* Janus
+* Moros
+* Zelus
+* Tyche
+* Enyo
