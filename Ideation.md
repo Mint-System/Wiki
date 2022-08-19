@@ -63,7 +63,7 @@ Ein Sitzungsprotokoll hat folgende Attribute:
 	
 Das Protokoll kann gedruckt oder als HTML-Report geteilt werden. Darauf sind auch verlinkte Elemente abgedruckt.
 
-## ISO 27001 Management System mit Odoo
+## Information Security Management mit Odoo
 
 Input: <https://github.com/OCA/management-system/tree/14.0>
 
