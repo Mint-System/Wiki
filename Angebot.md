@@ -11,6 +11,7 @@ Das Angebot der Mint System.
 * [[OpenEduca]]
 * [[Odoo Zeiterfassung]]
 * [[ERPNext]]
+* [[Gitea]]
 
 ## [[Dienstleistungen]]
 

@@ -1,4 +1,4 @@
-# Set default locale and language
+# Nextcloud: Set default locale and language
 
 Set default language.  
 `docker exec -u www-data nextcloud01 php occ config:system:set default_language --value="de_CH"`

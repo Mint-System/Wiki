@@ -1,4 +1,4 @@
-# Configure ignored files
+# Nextcloud: Configure ignored files
 
 Open the nextcloud client window and click on *Edit ignored files* of a selected sync configuration.
 
