@@ -31,10 +31,15 @@ Arbeitsschritte:
 ## Lohnabrechnung erstellen
 
 Arbeitsschritte:
-* Navigieren nach *Personalabrechnung  > Work Entries > Work Entries*
+* Navigieren nach *Personalabrechnung  > Arbeitseinträge > Arbeitseinträge*
 * Lohnabrechnung erzeugen
-* Navigieren nach *Abrechnung Mitarbeitervergütung > Zu Bezahlen* und Payslip auswählen
-* Lohnstruktur auswählen
-* Klick auf *Create Draft Entry*
+* Navigieren mit Smart-Link *X Payslips* und einzelnPayslip auswählen
+	* Lohnstruktur anpassen
+	* Spesen eintragen
+* In Batch auf *Create Draft Entry* drücken
+* Zahlungsdatei mit *Erfasse Zahlung* generieren
+
+## Lohnabrechnung verbuchen
+
 * Review Buchhalungssätze *Tab Buchungsinformationen > Buchung*
 * Buchung bestätigen
