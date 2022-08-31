@@ -20,22 +20,21 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Athena   | Server HFMTS                           | `athena.mint-system.com`   | Hosttech    |
 | Atlas    | [[Monitoring]]                         | `atlas.mint-system.com`    | Hetzner     |
 | Cratos   | Elasticsearch und Coturn               | `cratos.mint-system.com`   | Hetzner     |
+| Eos      | Server Aersolution Interior AG         | `odoo.aersolution.com`     | Off-Premise |
 | Gaia     | [[BigBlueButton]] [[Mint System GmbH]] | `gaia.mint-system.com`     | Hetzner     |
 | Hades    | Demoumgebung                           | `hades.mint-system.com`    | Hetzner     |
-| Helios   | Server Aersolution Interior AG         | `helios.mint-system.com`   | Hetzner     |
 | Hermes   | [[Odoo]] Demoumgebung                  | `hermes.mint-system.com`   | Hetzner     |
 | Hyperion | Server [[Digital Cluster Uri]]         | `hyperion.mint-system.com` | ExoScale    |
 | Iris     | Server Kleinbrauerei Stiär Biär AG     | `iris.mint-system.com`     | Hetzner     |
 | Kronos   | Backup Server                          | `kronos.mint-system.com`   | Hetzner     |
 | Leto     | Server SATHOM SARL                     | `leto.mint-system.com`     | Klixa       |
-| Nyx      | [[BINARY business]]                    | `nyx.mint-system.com`      | Hetzner     |
 | Metis    | AirWork & Heliseilerei GmbH            | `metis.mint-system.com`    | Hetzner     |
+| Nyx      | [[BINARY business]]                    | `nyx.mint-system.com`      | Hetzner     |
 | Pan      | Server Light Wing AG                   | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                         | `poseidon.mint-system.com` | ExoScale    |
 | Themis   | [[BigBlueButton]] KMSU                 | `themis.mint-system.com`   | ExoScale    |
 | Triton   | Server andeer.net                      | `triton.mint-system.com`   | Off-Premise |
 | Zeus     | Dienste [[Mint System GmbH]]           | `zeus.mint-system.com`     | Hetzner     |
-| Eos      | Server Aersolution Interior AG         | `odoo.aersolution.com`      | Off-Premise            |
 
 ### Liste freie Namen
 

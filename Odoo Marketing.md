@@ -6,16 +6,15 @@ Marketinginhalte für Odoo.
 
 ## SEO
 
-`/`
+Url: <https://www.mint-system.ch/>
 
-Titel: Mint System | Wirkungsvolles Management
-mit moderner Software
+Titel: Wirkungsvolles Management mit moderner Software - Mint System GmbH
 
 Beschreibung: Wir sind ein Team von Spezialisten für Management-Software. Auf Basis von Führungserfahrung in der Industrie und Fachkenntnis im Software-Engineering kennen wir Lösungen die funktionieren.
 
-`/odoo`
+Url: <https://www.mint-system.ch/odoo>
 
-Titel: Ihr Partner für Odoo | Schweizer Odoo Partner
+Titel: Ihr Schweizer Partner für Odoo - Mint System GmbH
 
 Beschreibung: Erhalten Sie Unterstützung für Odoo von einem kompetenten Schweizer Partner. Dank modernster Technik schaffen wir den entscheidenden Vorsprung für Ihr Unternehmen.
 
