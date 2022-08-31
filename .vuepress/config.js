@@ -18,7 +18,9 @@ module.exports = {
         ]
     }),
     plugins: [
-        searchPlugin(),
+        searchPlugin({
+            maxSuggestions: 10
+        }),
         plausiblePlugin({
             'domain': 'wiki.mint-system.ch'
         })
