@@ -12,11 +12,16 @@ Ergebnis: Mitarbeitende können ihre An- und Abwesenheitszeiten registrieren.
 
 ## Anwesenheitszeiten planen
 
+**Arbeitszeitmodelle**
 
+* Welche Arbeitszeitmodelle haben Sie im Einsatz?
+
+**Urlaub**
+
+* Wie werden Feiertage anteilsmässig verrechnet?
 
 ## Abwesenheitszeiten überwachen
 
-
-**Regelverstösse*
+**Regelverstösse**
 
 - Müssen Regelverstösse überwacht weden (z.B. Einhaltung von 30 Minuten Mittagspause)?
