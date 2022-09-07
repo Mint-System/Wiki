@@ -27,12 +27,14 @@ function sanitizeName(file) {
     return file.toLocaleLowerCase()
         .replace(/\s+/g, '-')
         .replace('---', '-')
+        .replace('--', '-')
 }
 
 function sanitizeAssetname(file) {
     return file.toLocaleLowerCase()
         .replace(/\s+/g, '-')
         .replace('---', '-')
+        .replace('--', '-')
         .replace(/ö/g, 'o')
         .replace(/ü/g, 'u')
         .replace(/ä/g, 'a')
