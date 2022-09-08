@@ -6,4 +6,4 @@ Tätigkeiten:
 - Wiederkehrende Produkte konfigurieren
 - Einrichten Abonnements in Produktsets
 
-Ergebnis: Wiederkehrende Dienstleistungen erzäugen beim Verkauf ein Abonnement.
+Ergebnis: Wiederkehrende Dienstleistungen erzeugen beim Verkauf ein Abonnement.
