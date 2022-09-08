@@ -2,8 +2,9 @@
 
 Tätigkeiten:
 
-* Formalien definieren
+* Angebotsvorlagen und Produktsets erstellen
 * Lieferbedingungen festlegen
+* Festlegen lieferbare Produkte und Dienstleistungen
 
 Ergebnis: Alle Daten zum Verkaufen sind bereit.
 

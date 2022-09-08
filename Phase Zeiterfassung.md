@@ -2,16 +2,17 @@
 
 Tätigkeiten:
 
-* Alle persönlichen Verträge einrichten
-* Den Freigabe-Workflow konfigurieren
-* Den anwendbaren Feiertagskalender importieren
-* Das Berichtswesen konfigurieren
+* Stundensätze für interne Kosten festlegen
+* Validierungs-Prozess definieren
+* Formular für Zeiterfassung erweitern
+* Projekte und Dienstleistungen konfigurieren
 
-Ergebnis: Die Kalender und Verträge sind für Arbeitszeit-Rapportierung bereit.
+Ergebnis: Dienstleistungen und Projekte sind für Arbeitszeit-Rapportierung bereit.
 
 ## Arbeitsrapport erstellen
 
 **Inhalt**
+
 - Sollen gefahrene km rapportiert werden?
 - Sollen die eigene Ausgaben rapportiert werden?
 - Soll verwendetes Material rapportiert werden?
@@ -20,4 +21,3 @@ Ergebnis: Die Kalender und Verträge sind für Arbeitszeit-Rapportierung bereit.
 ## Strategie für die Zeiterfassung festlegen
 
 **Unterscheidung Anwesenheit- und Projektzeit**
-- 

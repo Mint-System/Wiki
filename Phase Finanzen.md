@@ -7,6 +7,7 @@ Tätigkeiten:
 * Die Journale einrichten
 * Die Bankenverbindung zum Ebanking einrichten
 * Debitoren und Kreditoren einrichten
+* Abgleich mit Bankkonto durchführen
 
 Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 

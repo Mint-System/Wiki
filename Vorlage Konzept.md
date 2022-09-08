@@ -37,7 +37,7 @@ tags:
 **Einleitung**
 
 Mit dem vorliegenden Dokument erläutern wir unser Angebot S00037 zur
-Implementierung des ERP-Systems Odoo bei der KUNDE.
+Implementierung des Management-Systems Odoo bei der KUNDE.
 
 Odoo ist aktuell das modernste voll-integrierte Open Source ERP-System zu einem
 ausgezeichneten Preis-Leistungsverhältnis. Wir sind überzeugt, die Muss-
@@ -63,8 +63,8 @@ Mint System GmbH Seedorfstrasse 29
  6460 Altdorf
 
 Standort: Altdorf UR  
- Gründungsjahr: 2020  
- Mitarbeiter: 3
+Gründungsjahr: 2020  
+Mitarbeiter: 3
 
 **Dreiecksbeziehung "Kunde - Odoo - Mint System"**
 

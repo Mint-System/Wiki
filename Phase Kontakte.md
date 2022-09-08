@@ -5,9 +5,9 @@ Tätigkeiten:
 * Die Adressen der Lieferanten importieren
 * Die Adressen der Kunden importieren
 * Die Bankkonten erfassen und konfigurieren
+* Unterkontakte und deren Kontakttypen festlegen
 * Attribute für die Risikobeurteilung hinterlegen
 * Die Unterscheidung von speziellen Lieferanten (z.B. “Luftfahrtlieferant”) definieren
-* Das Dokumentlayout festlegen und umsetzen
 
 Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 

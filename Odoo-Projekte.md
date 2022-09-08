@@ -4,6 +4,7 @@
 
 Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 
+* [[Phase Server bereitstellen]]
 * [[Phase Odoo Installation]]
 * [[Phase Odoo Initialisierung]]
 * [[Phase Inbetriebnahme Hardware]]
@@ -37,6 +38,10 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Finanzen Erweitert]]
 * [[Phase Inventur]]
 * [[Phase Finanzen Vermögensverwaltung]]
+* [[Phase Abonnements]]
+* [[Phase Abrechnung]]
+* [[Phase Auslagen]]
+* [[Phase Aussendienst]]
 
 ## [[Prozesse]]
 

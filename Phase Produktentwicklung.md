@@ -3,7 +3,7 @@
 Tätigkeiten:
 
 * Alle Produkte importieren
-* Stücklisten definieren
+* Stücklisten, Kits und Sets definieren
 * Die Zuordnung von Produktzeichnungen einrichten
 * Die Rückverfolgbarkeit des Ursprungslands einstellen
 * Die Erfassung der Zolltarifnummer definieren
