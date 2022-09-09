@@ -3,7 +3,7 @@
 Tätigkeiten:
 
 * Den SPOC bestimmen
-* Projektplanung präsentieren
+* Projektplanung und Vorgehen präsentieren
 * Einrichten Zugriff auf Projektunterlagen
 * Weiteres Vorgehen definieren
 
