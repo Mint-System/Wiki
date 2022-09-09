@@ -42,6 +42,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Abrechnung]]
 * [[Phase Auslagen]]
 * [[Phase Aussendienst]]
+* [[Phase Kick-Off]]
 
 ## [[Prozesse]]
 
