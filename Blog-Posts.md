@@ -6,7 +6,8 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 [[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
-[[Neuerungen in Odoo 15]]
+[[Neuerungen in Odoo 15]]\
+[[Odoo Monitoring mit Prometheus und Grafana]]
 
 ## Veröffentlicht
 
