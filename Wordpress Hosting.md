@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Wordpress Hosting
 
 ## Leistungsbeschreibung

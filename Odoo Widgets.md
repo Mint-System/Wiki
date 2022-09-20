@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Widgets
 List of useful widgets for Odoo.
 

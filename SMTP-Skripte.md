@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # SMTP-Skripte
 
 Skripte zum Testen der SMTP-Verbindung von Odoo zum Mail-Server.

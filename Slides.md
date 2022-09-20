@@ -1,3 +1,7 @@
+---
+tags:
+- Slide
+---
 # Slides
 Mit [[Obsidian]] können auch Präsentationen erstellt werden.
 

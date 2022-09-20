@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Datenbankvorlage
 Die Odoo Datenbankvorlage ist auf der [[Cloud Mint System]] verfügbar.
 

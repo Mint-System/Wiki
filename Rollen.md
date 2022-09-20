@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Rollen
 
 Allgemein gültige Rollendefinitionen für interne Organisation und Projektorganisation.

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Scripts
 
 Eine Sammlung von Skripten zur Verwaltung von Odoo Container, Datenbanken und  Benutzer.

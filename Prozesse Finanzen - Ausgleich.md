@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Ausgleich
 Kontostand eBanking mit Odoo abgleichen.
 

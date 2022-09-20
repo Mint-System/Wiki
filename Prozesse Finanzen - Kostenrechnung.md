@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Kostenrechnung
 
 Arbeitsschritte zum Erstellen der Kostenrechnung.

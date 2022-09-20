@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Mitarbeit
 
 > Wie können Dritte und Mitarbeiter der [[Mint System GmbH]] diese Wissensdatenbank bearbeiten?

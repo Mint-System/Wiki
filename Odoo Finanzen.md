@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Finanzen
 
 Finanzen sind in Odoo über verschiedene Module abgebildet.

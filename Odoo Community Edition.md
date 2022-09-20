@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Community Edition
 Open Source ERP-System.
 

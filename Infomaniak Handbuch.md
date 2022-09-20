@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Infomaniak Handbuch
 
 ## Autoresponder einschalten

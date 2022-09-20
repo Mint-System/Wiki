@@ -1,3 +1,7 @@
+---
+tags:
+- Vorlagen
+---
 # Vorlage Datenmigration
 
 Arbeitsschritte zum Export und Import von Daten müssen detailliert und nachvollziehbar festgehalten werden. Für jedes Geschäftsobjekt, das migriert wird, wird eine Dokumentation angelegt.

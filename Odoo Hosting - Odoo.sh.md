@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo Hosting - Odoo.sh
 Ist eine kommerzielle PaaS-Lösung.
 

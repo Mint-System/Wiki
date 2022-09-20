@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # man ripgrep
 
 Text in allen Dateien ersetzen.\

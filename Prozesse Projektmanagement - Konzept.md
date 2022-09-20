@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Konzept
 
 Ein Konzept besteht aus einem Management Summary und einer Projekplanung mit Phasen.

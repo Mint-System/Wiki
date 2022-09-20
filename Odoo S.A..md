@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo S.A.
 
 Odoo S.A. ist ein Unternehmen in Belgien, das für den Vertrieb und Weiterentwicklung von Odoo Enterprise zuständig ist. Die Mint System ist Partner von Odoo S.A.

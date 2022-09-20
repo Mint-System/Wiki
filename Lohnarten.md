@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Lohnarten
 Eine Liste von wichtigen Lohnarten:
 

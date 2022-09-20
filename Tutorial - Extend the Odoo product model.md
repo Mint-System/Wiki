@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Tutorial: Extend the Odoo product model
 
 Let's add a new field to the product model step by step.

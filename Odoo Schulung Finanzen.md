@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Schulung Finanzen
 
 Das sind einfache Schlungsunterlagen für die Odoo Finanzen-App.

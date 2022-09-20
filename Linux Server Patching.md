@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Linux Server Patching
 Eine flexible Lösung um ihre [[Linux]] Server aktuell zu halten.
 

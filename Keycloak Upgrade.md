@@ -1,4 +1,8 @@
-## Keycloak
+---
+tags:
+- HowTo
+---
+## Keycloak Upgrade
 
 Upgrading Keycloak is not so difficult as supports automatically migrating the database to a new version.
 

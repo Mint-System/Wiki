@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Github: Download binary files
 
 First, to get a list of the assets for the latest release:

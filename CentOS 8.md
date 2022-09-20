@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # CentOS 8
 
 ## Troubleshooting

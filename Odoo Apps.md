@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Apps
 Die Funktionalität von Odoo kann mit Apps erweitert werden.
 

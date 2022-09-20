@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Terminal Zeiterfassung
 Das "Terminal Zeiterfassung" ist ein Produkt der [[Mint System GmbH]].
 

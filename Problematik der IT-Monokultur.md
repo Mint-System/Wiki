@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Problematik der IT-Monokultur
 
 ## Keine Wahl

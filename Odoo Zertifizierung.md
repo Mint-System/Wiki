@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Zertifizierung
 
 Für jede Odoo-Version werden Zertifizierungen angeboten.

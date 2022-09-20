@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Mail-Integration
 Mailing-Dienste bereitstellen oder integrieren.
 

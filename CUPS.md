@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # CUPS
 
 The standards-based, open source printing system developed by Apple.

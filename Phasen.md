@@ -1,3 +1,7 @@
+---
+tags:
+- Phasen
+---
 # Phasen
 
 Phasen regeln das **Was**. Die Phasen basieren auf der [[Vorlage Phase]].

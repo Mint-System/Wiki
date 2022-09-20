@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Replenishment
  
  ## Video Tutorials

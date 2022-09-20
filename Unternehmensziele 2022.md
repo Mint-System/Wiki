@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Unternehmensziele 2022
 
  * Büro in Altdorf

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Syscoon GmbH
 
 Website: <https://syscoon.com/>

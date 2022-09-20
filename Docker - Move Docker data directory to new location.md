@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Docker: Move Docker data directory to new location
 
 The standard data directory used for docker is `/var/lib/docker`, and since this directory will store all your images, volumes, etc. it can become quite large.

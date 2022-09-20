@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Janik von Rotz
 Verantwortlich: [[Infrastruktur]], [[Development]]  
 Benutzername: `janikvonrotz`  

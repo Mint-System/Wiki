@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Vorgehensmodell Odoo Projekte
 
 ## Einleitung

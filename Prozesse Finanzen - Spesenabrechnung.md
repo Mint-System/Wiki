@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Spesenabrechnung
 Prozesse zur Spesenabrechnung der Mint System.
 

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Nextcloud Enterprise
 
 The enterprise-ready Content Collaboration Platform.

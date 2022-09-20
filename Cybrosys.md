@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Cybrosis
 
 Website: <https://www.cybrosys.com/>

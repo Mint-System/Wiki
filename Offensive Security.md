@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Offensive Security
 
 ## Fail2ban

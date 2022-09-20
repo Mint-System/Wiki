@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Workplace Software
 
 Eine Liste von nützlichen Tools:

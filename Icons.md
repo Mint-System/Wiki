@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Icons
 
 Zu Generierung von Icons wird <https://spilymp.github.io/ibo/> verwendet.

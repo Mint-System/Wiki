@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 ![](https://www.basis57.ch/wp-content/uploads/2019/09/Bild_2-1024x576.jpg)
 
 # Eine Sache des guten Geschmacks

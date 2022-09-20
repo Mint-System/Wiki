@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Arbeitsplatz am Bahnhofplatz 1
 Nach langer Zeit im Home Office haben wir ein tolles Büro gefunden.
 

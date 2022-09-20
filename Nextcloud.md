@@ -1,6 +1,6 @@
 ---
 tags:
-- Nextcloud
+- HowTo
 ---
 
 # Nextcloud

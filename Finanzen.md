@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Finanzen
 Typ: [[Bereich]]
 

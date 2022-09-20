@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Nextcloud: Transfer ownership
 Transfer owernship of a folder from one user to another:
 

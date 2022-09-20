@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Vorgehensmodell Beratungsprojekte
 
 Beschreibt wie die Mint System GmbH Beratungsprojekte abwickelt.

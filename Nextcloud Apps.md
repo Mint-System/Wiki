@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Nextcloud Apps
 
 * [[Nextcloud Mail]]

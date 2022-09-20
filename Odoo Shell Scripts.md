@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Odoo Shell
 
 ## Basics

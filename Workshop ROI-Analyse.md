@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Workshop ROI-Analyse
 
 Orientiert sich sich an der [[ROI-Analyse]].

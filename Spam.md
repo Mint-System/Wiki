@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Spam
 
 Receiving malicious emails is an alltime problem for users.

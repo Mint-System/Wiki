@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Paradigmenwechsel im Umgang mit Daten
 Wem gehören denn jetzt meine Daten?
 

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Twint
 
 Mit Twint können Zahlungen mittels QR-Code erledigt werden.

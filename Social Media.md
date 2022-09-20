@@ -1,4 +1,8 @@
-	# Social Media
+---
+tags:
+- Definition
+---
+# Social Media
 
 Mint System ist auf diesen Plattformen vertreten:
 

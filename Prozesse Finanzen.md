@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozesse Finanzen
 Dokumentation der Finanz-Prozesse.
 

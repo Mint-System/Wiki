@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # man gpg
 
 QR-Code von public gpg key generieren.\

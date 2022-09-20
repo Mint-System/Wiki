@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Planung
 Odoo Planung ist eng mit der Projekt-App verknüpft.
 

@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Installation Moodle
 Inbetriebnahme einer Moodle-Installation.
 

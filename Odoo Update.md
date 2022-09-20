@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Update
 
 Notizen zum Update von Odoo.

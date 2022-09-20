@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Lohnpgoramm CH-d
 
 Website: <https://www.giordano.ch/produkte/odoo/odoo-l%C3%B6sungen/lohnprogramm-ch-d>

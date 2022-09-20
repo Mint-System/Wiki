@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Ausgangsrechnungen
 Rechnungen erstellen und versenden.
 

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Lohnabrechnung
 Jeder Mitarbeiter hat einen Arbeitsvertrag. Im Arbeitsvertrag wird festgehalten, welcher Lohn ausbezahlt wird. Dem Arbeitsvertrag ist eine Lohnstrukturtyp zugewiesen. Der Lohnstrukturtyp umfasst mehrere Lohnstrukturen. In einer Lohnstruktur wird festgehalten wie sich der ausbezahlte Lohn aus Abzügen und Ergänzungen zusammensetzt.
 

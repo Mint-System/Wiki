@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Fonts
 
 Auf der Website verwenden wir [[New Rubrik Edge]].

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo 14 Revisions
 
 ## Odoo 14.0

@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Spesenreglement
 
 Bei Tätgikeiten der Mitarbeiter können Spesen anfallen. Als Spesen im Sinne dieses Reglementes gelten die Auslagen, die Mitarbeitenden im Interesse des Arbeitgebers angefallen sind. Im Spesenreglement sind die Auslagen, den Ablauf und deren Vergütung geregelt. 

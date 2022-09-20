@@ -1,6 +1,6 @@
 ---
 tags:
-- Prozesse
+- Prozess
 ---
 
 # Prozesse

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Mail Hosting
 
 ## Leistungsbeschreibung

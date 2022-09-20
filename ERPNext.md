@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # ERPNext
 
 ERP-System basierend auf [[Frappe]].

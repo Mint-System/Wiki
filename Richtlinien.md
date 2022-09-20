@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinien
 Richtlinien der Mint System.
 

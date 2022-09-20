@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Nextcloud Troubleshooting
 
 ## On upgrade singleton not found

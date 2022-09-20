@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Installation Nextcloud
 Bereistellung Nextcloud-Umgebung.
 

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Firefox
 
 Website: <https://www.mozilla.org/de/firefox/>

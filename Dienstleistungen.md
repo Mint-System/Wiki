@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Dienstleistungen
 
 Dienstleistungen der Mint System GmbH und die dazugehörigen Leistungen.

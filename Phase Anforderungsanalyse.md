@@ -1,3 +1,7 @@
+---
+tags:
+- Phasen
+---
 # Phase Anforderungsanalyse
 
 Tätigkeiten:

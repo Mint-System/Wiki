@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Obsidian
 
 Obsidian is a powerful knowledge base that works on top of

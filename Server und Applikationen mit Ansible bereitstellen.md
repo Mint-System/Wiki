@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Server und Applikationen mit Ansible bereitstellen
 
 > Mit Ansible haben wir die Flexibilität unsere Open Source Systeme überall zu installieren. Egal ob es ein kommerzieller Cloud-Anbieter ist, das Rechenzentrum von Dritten oder Server des Unternehmens ist. 

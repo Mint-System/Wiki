@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Kollaboration
 
 Regelt die Zusammenarbeit mit externen Kunden und internen Mitarbeiter.

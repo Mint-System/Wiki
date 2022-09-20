@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo Mint System
 
 Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für Test- und produktiven Umgebungen.

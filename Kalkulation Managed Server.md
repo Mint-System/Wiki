@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Kalkulation Managed Server
 
 Genaueres zur Kalkulation des Angebot *Manage Server*.

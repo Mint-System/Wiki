@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Wireguard
 
 Website: <https://www.wireguard.com/>

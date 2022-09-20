@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Odoo bestellen
 Bestellung einer Odoo-Installation.
 

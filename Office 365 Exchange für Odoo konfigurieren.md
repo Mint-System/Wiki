@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Office 365 Exchange für Odoo konfigurieren
 
 Damit Odoo E-Mail mit einem Office 365 Postfach versenden kann, müssen bestimmte Vorbereitungen getroffen werden.

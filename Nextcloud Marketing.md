@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Nextcloud Marketing
 
 Marketinginhalte für Nextcloud.

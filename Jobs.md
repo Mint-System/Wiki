@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Jobs
 
 Stellen werden hier ausgeschrieben:

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Community Association
 Nonprofit Organization zur Weiterentwicklung und Unterstützung der [[Odoo Community Edition]].
 

@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Gitea: Backup and Restore
 
 ## Dump wiederherstellen

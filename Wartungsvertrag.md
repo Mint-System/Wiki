@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Wartungsvertrag
 
 Für Betrieb, Wartung und Pflege der Software muss ein Wartungsvertrag abgeschlossen werden. Dieser Wartungsvertrag umfasst die Service Level Agreements bezüglich der Reaktionszeiten bei Support- und Störungsfällen. Die Kosten für einen möglichen Wartungsvertrag belaufen sich auf CHF 200.- pro Monat exkl. MWST.

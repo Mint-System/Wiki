@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Odoo Development HowTos
 
 [[Update custom Odoo module]]\

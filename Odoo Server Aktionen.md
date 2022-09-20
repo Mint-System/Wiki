@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Odoo Server Aktionen
 
 Create server action:

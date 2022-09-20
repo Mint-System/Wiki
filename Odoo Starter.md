@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Starter
 
 Angebot zur Bereitstellung von Odoo.

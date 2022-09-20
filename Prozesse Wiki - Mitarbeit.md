@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Mitarbeit
 
 Technische Konfigurationen damit Sie an der Wissensdatenbank mitarbeiten können.

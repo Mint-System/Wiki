@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Basiswissen Requirements Engineering
 
 Die Anforderungen werden in folgende Kategorien unterteilt:

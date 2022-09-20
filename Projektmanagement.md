@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Projektmanagent
 
 Eine Zusammenfassung wie bei Mint System das Projektmanagement erfolgt.

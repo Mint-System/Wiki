@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Maintained Odoo Apps
 
 Das sind Odoo Apps für die ein [[Odoo Maintenance]]-Vertrag erstellt werden muss.

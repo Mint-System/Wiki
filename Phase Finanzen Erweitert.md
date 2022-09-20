@@ -1,3 +1,7 @@
+---
+tags:
+- Phasen
+---
 # Phase Finanzen Erweitert
 
 Tätigkeiten:

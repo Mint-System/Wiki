@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozesse Projektmanagement
 Dokumentation der Projektmanagement Prozesse.
 

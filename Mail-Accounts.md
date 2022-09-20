@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Mail-Accounts
 
 Die Mint System verwaltet Mail-Accounts für verschiedene Organisation.

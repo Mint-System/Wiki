@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Telefonie
 
 Aktuell ist [[peoplefone]] für die Telefonie im Einsatz.

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Nextcloud Hosting
 Die Nextcloud-Anwendung kann auf einem bliebigen Server installiert werden.
 

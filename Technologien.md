@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Technologien
 
 Technologien im Einsatz der Mint System.

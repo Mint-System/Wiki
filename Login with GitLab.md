@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Login with GitLab
 
 Install `auth_oidc` module.

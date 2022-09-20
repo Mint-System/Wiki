@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Google Ads
 
 Die Mint System verwendet Google Ads zur Vermarktung von Odoo.

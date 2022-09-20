@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Nextcloud bestellen
 Bestellung einer Odoo-Installation.
 

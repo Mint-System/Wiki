@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # CentOS Upgrade from 7 to 8
 
 #FIXME 

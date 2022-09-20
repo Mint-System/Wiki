@@ -1,3 +1,7 @@
+---
+tags:
+- Vorlagen
+---
 # Issues
 
 Document problems of the project phase.

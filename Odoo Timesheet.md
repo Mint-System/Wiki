@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Timesheet
 
 ## Awesome Timesheet

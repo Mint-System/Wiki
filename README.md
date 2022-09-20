@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 ![[Mint System Logo.png]]
 
 # Wiki Mint System

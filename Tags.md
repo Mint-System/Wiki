@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Tags
 Mit [[Obsidian]] können Artikel getagged `#tagname` werden. Tags werden jedoch von [[Vuepress]] nicht unterstützt. Daher werden die Tags nur zur Verwaltung der Artikel verwendet. Folgende Tags stehen zur verfügung:
 

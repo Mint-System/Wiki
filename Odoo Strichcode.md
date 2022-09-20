@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Strichcode
 
 Einführung zu Odoo Strichcode: https://www.youtube.com/watch?v=OTfss3WF0jI

@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Analyse Odoo Customization
 
 Zustand eines Odoo Projekts bewerten.

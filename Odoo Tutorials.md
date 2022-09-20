@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Odoo Tutorials
 
 * [[Tutorial - Install Odoo Studio]]

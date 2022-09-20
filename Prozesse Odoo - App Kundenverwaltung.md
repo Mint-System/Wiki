@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess App Kundenverwaltung
 Installation Modul Kundenverwaltung `crm`.
 

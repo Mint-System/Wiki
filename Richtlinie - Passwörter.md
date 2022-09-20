@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Passwörter
 Passwörter und Zugangsdaten zu Accounts der Mint System werden zentral gespeichert.
 

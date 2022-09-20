@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Service-Accounts
 Es existieren die folgenden Service-Accounts:
 * [[login@mint-system.ch]]

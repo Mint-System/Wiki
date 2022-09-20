@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess App Fertigung
 Installation Modul Fertigung `mrp`
 

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Disaster Recovery Plan
 
 Im Disaster Recover Plan (DRP) werden Ausfallszenarios und das Vorgehen zur Wiederherstellung eines Dienstes beschrieben.

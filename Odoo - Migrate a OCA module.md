@@ -1,6 +1,6 @@
 ---
 tags:
-- HowTos
+- HowTo
 ---
 
 # Odoo - Migrate an OCA module

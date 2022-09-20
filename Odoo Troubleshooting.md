@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Odoo Troubleshooting
 
 ## Odoo-Client-Fehler

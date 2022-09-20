@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo 13 Revisions
 
 ## Odoo 13.0

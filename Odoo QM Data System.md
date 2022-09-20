@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo QM Data System
 
 ## Entity Relationship Model

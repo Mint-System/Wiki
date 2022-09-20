@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Printing
 
 Direkt aus Odoo drucken.

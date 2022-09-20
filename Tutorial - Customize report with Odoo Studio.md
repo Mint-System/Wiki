@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Tutorial - Customize report with Odoo Studio
 
 ## Steps

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Connector
 
 Website: <https://odoo-connector.com/>

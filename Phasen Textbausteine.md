@@ -1,3 +1,7 @@
+---
+tags:
+- Phasen
+---
 # Phasen Textbausteine
 
 Jede hier verlinkte Phase enthält eine Zusammenfassung der wichtigsten Punkte und eines bestimmten Zieles.

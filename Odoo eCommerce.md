@@ -1,4 +1,8 @@
-## Link zu Odoo
+---
+tags:
+- Definition
+---
+# Odoo eCommerce
 Odoo nennt den OnlineShop "eCommerce". 
 
 Link von Odoo zu den Features:

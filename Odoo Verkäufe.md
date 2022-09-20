@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Verkäufe
 
 ## Verkaufsgruppen und Baugruppen

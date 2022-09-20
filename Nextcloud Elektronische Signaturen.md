@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Nextcloud Elektronische Signaturen
 
 Nextcloud bietet eine App für elektronische Signaturen: <https://apps.nextcloud.com/apps/electronicsignatures>

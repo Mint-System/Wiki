@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess App Abwesenheitszeiten
 Installation Modul Abwesenheitszeiten (hr_holidays).
 

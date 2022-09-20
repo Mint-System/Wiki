@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Nextcloud Painpoints
 
 ## Draw.io not working for shares

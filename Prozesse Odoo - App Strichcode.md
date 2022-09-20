@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess App Strichcode
 Installation Module Strichcode `stock_barcode`
 

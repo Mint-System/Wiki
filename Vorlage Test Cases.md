@@ -1,3 +1,7 @@
+---
+tags:
+- Vorlagen
+---
 # Test Cases
 
 Test the MODULENAME.

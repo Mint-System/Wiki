@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # LibreOffice Presentation
 ## Update slide master
 To select the slide master for modification:

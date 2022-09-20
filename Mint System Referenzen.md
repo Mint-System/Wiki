@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Mint System Referenzen
 
 [[Mint Sytem Referenzen Beschreibungen]]

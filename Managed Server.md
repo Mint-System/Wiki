@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 ![[Banner Managed Server.jpg]]
 
 # Managed Server

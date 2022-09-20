@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Aufgabenverwaltung
 
 Jede Aufgabe ist verrechenbar oder nicht verrechenbar und wird einer Hauptaufgabe zugeordnet.

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Equitania Software GmbH
 
 Website: <https://www.equitania.de>

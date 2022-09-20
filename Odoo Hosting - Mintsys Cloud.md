@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 ![[Banner Odoo Hosting Mintsys Cloud.jpg]]
 
 # Odoo Hosting - Mintsys Cloud

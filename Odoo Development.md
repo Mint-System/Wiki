@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Development
 
 Website: <https://odoo.build>\

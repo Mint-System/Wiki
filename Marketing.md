@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Marketing
 
 [[Odoo Marketing]]\

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Gitea
 
 Website: <https://gitea.io>

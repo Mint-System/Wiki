@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Bot Digital Cluster Uri
 Der Digital Cluster Uri Service-Benutzer.
 

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Den eigenen Login-Anbieter mit Keycloak betreiben
 
 Welche Software heutzutage für Login-Dienste zum Einsatz kommt.

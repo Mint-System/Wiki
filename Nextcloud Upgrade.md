@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Nextcloud Upgrade
 
 Description of the Nextcloud upgrade process.

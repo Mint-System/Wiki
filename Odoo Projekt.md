@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Projekt
 Odoo Projekt verbindet Projektmanagement mit Verkauf, Einkauf, Plannung und Finanzen.
 

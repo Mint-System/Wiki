@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess  Installation Raspberry Pi
 Bereitstellung Raspberry Pi.
 

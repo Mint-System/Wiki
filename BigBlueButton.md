@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # BigBlueButton
 BigBlueButton ist eine zuverlässige und umfangreiche Videokonferenzlösung.
 

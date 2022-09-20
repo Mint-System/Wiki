@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 ![](https://www.erpopen.nl/web/image/4184/Odoo%20website%20builder.png)
 
 # Websites mit Odoo erstellen

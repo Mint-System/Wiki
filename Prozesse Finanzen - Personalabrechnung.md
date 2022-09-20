@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Personalabrechnung
 Prozesse zur Personalabrechung der Mint System.
 

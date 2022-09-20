@@ -1,3 +1,7 @@
+---
+tags:
+- Vorlagen
+---
 # Vorlage Technische Spezifikation
 
 Version: 2022-03-07

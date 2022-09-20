@@ -1,3 +1,7 @@
+---
+tags:
+- Templates
+---
 # Title
 Date: YYYY-MM-DD\
 Author: [[Janik von Rotz]]

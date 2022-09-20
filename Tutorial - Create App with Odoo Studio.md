@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Tutorial: Create App with Odoo Studio
 
 ## Steps

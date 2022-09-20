@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Odoo SQL Scripts
 
 Disable online signature for quotes.

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Evaluation
 
 Evaluation einer Softwarelösung.

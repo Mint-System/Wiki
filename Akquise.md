@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Akquise
 
 Empfehlungen für die Akquise von Projekten.

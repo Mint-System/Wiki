@@ -18,7 +18,7 @@ tags:
 * [[Vorlage Worklog]]
 * [[Vorlage Issues]]
 * [[Vorlage Anforderungen]]
-* [[Vorlage Minor Improvements]]
+* [[Vorlage Minor Improvements.en]]
 * [[Vorlage Bugs]]
 * [[Vorlage Prozesse Odoo]]
 * [[Vorlage Metriken der Odoo Anpassungen.en]]

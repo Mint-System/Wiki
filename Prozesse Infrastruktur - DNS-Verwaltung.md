@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess DNS-Verwaltung
 
 ## Externe DNS-Einträge erstellen

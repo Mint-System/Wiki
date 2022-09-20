@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Ansible Playbooks
 The Mint System collection of Ansible playbooks and roles.
 

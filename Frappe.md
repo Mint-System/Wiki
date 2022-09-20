@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Frappe
 
 Low code web framework.

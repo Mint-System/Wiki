@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Frappe Hosting
 
 ## Leistungsbeschreibung

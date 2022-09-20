@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Notizen Lohnprogramm CH-d
 
 Notizen aus Interive mit Mitarbeiter von [[giordano.ch ag]].

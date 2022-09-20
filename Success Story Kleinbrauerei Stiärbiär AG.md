@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Success Story Kleinbrauerei Stiärbiär AG
 
 ![[Kleinbrauerei Stiärbiär AG Logo.png]]

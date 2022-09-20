@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Login mit Odoo.com
 
 *Login mit Odoo.com* ist ein Login-Anbieter von Odoo.com, der unter https://accounts.odoo.com/oauth2/auth erreichbar ist.

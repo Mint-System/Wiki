@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Spesenreglement
 
 Für Grundlagen siehe [[Spesenreglement]]

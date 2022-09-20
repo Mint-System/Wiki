@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Entwicklungsumgebung
 
 Mint System hat zur Entwicklung von Odoo eine Entwicklungsumgebung: [[Odoo Development]].

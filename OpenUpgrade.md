@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # OpenUpgrade
 
 Website: <https://oca.github.io/OpenUpgrade/>

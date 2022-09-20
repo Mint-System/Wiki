@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Buchhaltung
 Führung der Buchhaltung der Mint System.
 

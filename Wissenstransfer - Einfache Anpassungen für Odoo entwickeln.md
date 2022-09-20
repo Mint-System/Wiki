@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Wissenstransfer: Einfache Anpassungen für Odoo entwickeln
 
 Ziele:

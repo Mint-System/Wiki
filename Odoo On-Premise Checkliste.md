@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Odoo On-Premise Checkliste
 Checkliste für On-Premise Installation.
 

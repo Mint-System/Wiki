@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Moodle Hosting
 
 ## Leistungsbeschreibung

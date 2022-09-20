@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Assets
 
 url: <https://raw.githubusercontent.com/Mint-System/Wiki/master/assets/icon-box.png>

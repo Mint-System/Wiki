@@ -1,5 +1,9 @@
+---
+tags:
+- Asset
+---
 # Produktentwicklung
 
-Mint System Produkte.
+Mint System Produktentwicklung.
 
-[[Ideation]]
+Siehe [[Ideation]].

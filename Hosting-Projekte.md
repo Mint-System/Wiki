@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Hosting-Projekte
 
 ## [[Phasen]]

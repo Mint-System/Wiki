@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Methodik
 
 Methodisches Vorgehen.

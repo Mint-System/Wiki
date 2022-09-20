@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Forum
 
 Website: <https://www.odoo.com/forum/hilfe-1>

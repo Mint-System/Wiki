@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # PostgreSQL Upgrade
 
 These instructions are based on [docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade).

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo 15 und die Odoo Partner Days
 Wir waren bei Odoo vor Ort und haben ein innovatives Unternehmen kennen gelernt.
 

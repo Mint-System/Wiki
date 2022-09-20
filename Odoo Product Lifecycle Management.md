@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Product Lifecycle Management
 Das Unternehmen [[OmniaSolutions]] entwickelt die Odoo App [Product Lifecycle Managment](https://apps.odoo.com/apps/modules/15.0/plm/).
 

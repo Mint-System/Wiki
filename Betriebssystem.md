@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Betriebssystem
 
 Auf unseren Server unterstützen wir:

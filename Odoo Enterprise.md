@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Enterprise
 Odoo Enterprise ist eine Sammlung von lizenzpflichtigen Open Source [[Odoo Apps]].
 

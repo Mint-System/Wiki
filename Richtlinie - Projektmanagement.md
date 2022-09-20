@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Projektmanagement
 Übersetzung: [[Richtlinie - Projektmanagement.en]]
 

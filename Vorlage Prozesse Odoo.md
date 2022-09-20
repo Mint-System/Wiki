@@ -1,3 +1,7 @@
+---
+tags:
+- Vorlagen
+---
 # Prozesse Odoo - App APPNAME
 
 Installation von APPNAME.

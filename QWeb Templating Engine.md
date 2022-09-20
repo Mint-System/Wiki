@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # QWeb Templating Engine
 
 QWeb ist die XML-basierte Templating Engine von Odoo.

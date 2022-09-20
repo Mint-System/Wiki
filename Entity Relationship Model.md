@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Entity Relationship Model
 
 Synomym zu [[Entity Relationship Diagram]] (ERD).

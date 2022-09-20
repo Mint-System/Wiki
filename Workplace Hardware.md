@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Workplace Hardware
 
 ## Lieferant

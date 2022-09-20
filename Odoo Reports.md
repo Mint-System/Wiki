@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Reports
 
 Alles zu Odoo Reporting.

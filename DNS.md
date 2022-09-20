@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # DNS
 
 Dokumentation zur DNS-Konfiguration der Mint System Dienste.

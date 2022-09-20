@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Passwortmanager
 
 Zur Verwaltung und Speicherung von Passwörter setzt Mint System auf [[KeePassXC]].

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Dokumentmanagementsystem
 
 Definiert den Lebenszyklus von Dokumenten.

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Web Application Firewall
 Webapplikationen der Mint System werden mit einer Web Application Firewall (WAF) geschützt. Dazu gehören interne Dienste sowie Odoo Installation von Kunden.
 

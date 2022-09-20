@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # ID TimeControl
 Ist ein Produkt der [[Equitania Software GmbH]].
 

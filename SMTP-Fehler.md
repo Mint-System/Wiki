@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # SMTP-Fehler
 
 SMTP-Fehlermeldungen im Zusammenhang mit der [[Odoo Email Konfiguration]].

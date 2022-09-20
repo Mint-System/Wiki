@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess App Finanzen
 Installation Modul Finanzen `account_accountant`.
 

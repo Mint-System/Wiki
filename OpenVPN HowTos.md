@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # OpenVPN HowTos
 
 ## Store username and passwword

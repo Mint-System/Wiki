@@ -1,1 +1,5 @@
+---
+tags:
+- Definition
+---
 # Odoo Entwicklermodus

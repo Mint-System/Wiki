@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Policy - Project Management
 
 ## Project folders

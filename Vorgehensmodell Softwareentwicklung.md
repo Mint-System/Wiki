@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Vorgehensmodell Softwareentwicklung
 
 Hier beschreibt die [[Mint System GmbH]] ihr Vorgehensmodell zum Softwareentwicklungsprozess.

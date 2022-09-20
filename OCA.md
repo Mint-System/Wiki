@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # OCA
 [[Odoo Community Association]]
 

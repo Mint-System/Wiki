@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Installation Odoo
 Bereitstellung Odoo-Umgebung.
 

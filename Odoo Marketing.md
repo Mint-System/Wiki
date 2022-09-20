@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Marketing
 
 Marketinginhalte für Odoo.

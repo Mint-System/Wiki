@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # giordano.ch ag
 
 Website: <https://www.giordano.ch/>

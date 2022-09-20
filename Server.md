@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Server
 
 ## Hosting Provider

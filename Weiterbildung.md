@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Weiterbildung
 
 Mitarbeitende bilden sich laufen "on-the-job" weiter.

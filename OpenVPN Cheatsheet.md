@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # OpenVPN Cheatsheet
 
 Requirement:

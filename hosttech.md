@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # hosttech
 Schweizer Hosting-Anbieter.
 

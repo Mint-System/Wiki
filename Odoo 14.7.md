@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo 14.7
 
 ## Troubleshooting

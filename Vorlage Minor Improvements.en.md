@@ -1,3 +1,7 @@
+---
+tags:
+- Templates
+---
 # Minor Improvements
 
 ## Open

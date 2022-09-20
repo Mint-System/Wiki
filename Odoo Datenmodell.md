@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Datenmodell
 
 Dokumentation der wichtigsten Beziehungen im Odoo Datenmodell.

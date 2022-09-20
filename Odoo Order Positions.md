@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Order Positions
 
 Eine Sammlung von mehreren Modulen und Snippets.

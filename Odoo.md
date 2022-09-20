@@ -1,6 +1,6 @@
 ---
 tags:
-- Odoo
+- Definition
 ---
 # Odoo
 

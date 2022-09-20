@@ -1,6 +1,6 @@
 ---
 tags:
-- HowTos
+- HowTo
 ---
 
 # Odoo: Import data from csv

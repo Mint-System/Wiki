@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Pendenzen
 
 Mitarbeiter der Mint System GmbH verwalten ihre Aufgaben ausschliesslich mit Odoo. Wir unterscheiden zwischen verschiedenen Aufgabentypen.

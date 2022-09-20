@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Migrating docker postgres databases with pg_dump
 
 ## Secure way

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 Mint System GmbH - AGB Entwicklungsprojekt
 =====================================
 

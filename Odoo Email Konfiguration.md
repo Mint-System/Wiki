@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Odoo Email Konfiguration
 Um diese Funktion einzurichten müssen folgende Einstellung gemacht werden:
 

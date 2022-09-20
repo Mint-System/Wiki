@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Keycloak Troubleshooting
 
 ## Resolved

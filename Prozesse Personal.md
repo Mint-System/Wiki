@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozesse Personal
 
 Dokumentation der Personal-Prozesse.

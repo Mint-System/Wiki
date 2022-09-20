@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Softwareentwicklungsprojekte
 
 ## [[Phasen]]

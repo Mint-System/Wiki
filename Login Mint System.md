@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Login Mint System
 Login Mint System ist ein Identitäts-Anbieter, der unter https://login.mint-system.ch verfügbar ist. Für eine Odoo Integration müssen die folgenden Informationen verfügbar sein:
 

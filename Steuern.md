@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Steuern
 
 Die Steuern setzen sich zusammen aus 

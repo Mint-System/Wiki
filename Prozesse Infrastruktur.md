@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozesse Infrastruktur
 Dokumentation der Infrastruktur Prozesse.
 

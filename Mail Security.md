@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Mail Security
 
 Sicheres Mailen erfordert verschiedene Massnahmen.

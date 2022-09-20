@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo 13
 
 ## Bugs

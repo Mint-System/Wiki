@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Domain
 
 Domains owned by Mint System:

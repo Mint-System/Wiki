@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Odoo Berichtsvorlagen entwickeln
 
 Damit die Mint System effizien Berichtsanpassungen implementieren kann, haben wir ein Vorgehen für die Zusammenarbeit mit dem Kunden definiert.

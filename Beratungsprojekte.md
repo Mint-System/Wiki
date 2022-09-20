@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Beratungsprojekte
 
 ## [[Phasen]]

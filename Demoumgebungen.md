@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Demoumgebungen
 Demoumgebungen der Mint System.
 

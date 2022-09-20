@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Finanzen Setup
 
 Das Finanzmodul wird in folgenden Schritten konfiguriert:

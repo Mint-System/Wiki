@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # SBOM
 
 Die *Software Bill of Materials (SBOM)* ist eine Liste von Softwarekomponenten.

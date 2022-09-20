@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Produktionsumgebung bereitstellen
 
 Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung muss immer verfügbar und gesichert sein.

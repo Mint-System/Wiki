@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Visual Studio Code
 
 Website: <https://code.visualstudio.com/>

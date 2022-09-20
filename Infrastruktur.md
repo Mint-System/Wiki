@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Infrastruktur
 Typ: [[Bereich]]
 

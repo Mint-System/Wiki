@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Nextcloud Social Login
 
 Integration Login-Anbieter mit OpenID Connect.

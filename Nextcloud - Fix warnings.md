@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Nextcloud: Fix warnings
 
 Some warnings need to be fixed manually

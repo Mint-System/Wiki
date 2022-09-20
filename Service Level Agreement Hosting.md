@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 ![[Banner Hosting SLA.png]]
 
 # Service Level Agreement Hosting

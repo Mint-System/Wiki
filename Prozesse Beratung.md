@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozesse Beratung
 Dokumentation der Beratungsprozesse.
 

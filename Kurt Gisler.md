@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Kurt Gisler
 Verantwortlich: [[Unternehmensentwicklung]]  
 Benutzername: `kurtgisler`  

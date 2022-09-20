@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Angebot erstellen
 
 ## Odoo-Lizenz-Angebot erstellen

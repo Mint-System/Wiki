@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Blog-Posts
 
 Hier entstehen Entwürfe für neue Blog-Posts:

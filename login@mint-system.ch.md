@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Admint
 Der Mint System Administrations-Benutzer. Der Admint kann Email empfangen.
 

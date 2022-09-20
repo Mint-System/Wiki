@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Kontakt
 Die Kontaktverwaltung von Odoo.
 

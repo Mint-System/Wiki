@@ -1,3 +1,7 @@
+---
+tags:
+- Slide
+---
 ## Presentation - The Odoo Ecosystem
 
 A short introduction into the ecosystem of Odoo, its communities and how it is developed.

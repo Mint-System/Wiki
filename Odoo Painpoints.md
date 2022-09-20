@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo Painpoints
 Eine Liste von Design-Entscheiden und Funktionen, die mangelhaft umgesetzt oder schwer nachvollziehbar sind.
 

@@ -1,7 +1,7 @@
 ---
-publish: true
+tags:
+- Asset
 ---
-
 # Open Source IntegratorIn
 
 ## Wer wir sind

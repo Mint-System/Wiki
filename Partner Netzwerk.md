@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Partner Netzwerk
 Geschäftsbeziehungen der Mint System.
 

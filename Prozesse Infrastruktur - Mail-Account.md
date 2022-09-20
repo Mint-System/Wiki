@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Mail-Account
 Mail-Accounts werden von [[Infomaniak]] gehostet.
 

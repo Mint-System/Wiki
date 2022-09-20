@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Jahresabschluss
 
 Arbeitsschritte zum Erstellen des Jahresabschlusses.

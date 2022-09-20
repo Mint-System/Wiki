@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Ansible Vault
 Mit Ansible Vault werden Infrastruktur-Passwörter und -Keys sicher verwaltet. 
 

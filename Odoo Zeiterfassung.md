@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo Zeiterfassung
 Die ''Odoo Zeiterfassung" ist ein [[Angebot]] der [[Mint System GmbH]].
 

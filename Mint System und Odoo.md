@@ -1,3 +1,7 @@
+---
+tags:
+- Slide
+---
 ![[logo.svg]]
 
 ## Präsentation Mint System und Odoo

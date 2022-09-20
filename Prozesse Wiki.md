@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozesse Wiki
 
 Dokumentation der Wiki-Prozesse.

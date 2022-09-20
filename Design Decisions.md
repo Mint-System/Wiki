@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Design Decisions
 Technische und komplexe Fragestellungen werden hier systematisch bewertet und beantwortet.
 

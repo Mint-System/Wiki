@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Nextcloud: OwnCloud Console
 
 This is the nextcloud command line tool.

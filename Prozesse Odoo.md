@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozesse Odoo
 Technische Dokumentation der Odoo Prozesse. Baisieren auf der [[Vorlage Prozesse Odoo]].
 

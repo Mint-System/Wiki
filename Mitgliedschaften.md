@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Mitgliedschaften
 
 Die Mint System ist Mitglied bei:

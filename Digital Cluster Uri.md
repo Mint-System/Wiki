@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Digital Cluster Uri
 
 Website: <https://digital-cluster-uri.ch/>\

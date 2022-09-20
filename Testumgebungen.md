@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Testumgebungen
 Siblings: [[Produktive Umgebungen]], [[Demoumgebungen]]
 

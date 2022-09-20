@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Explaining Odoo
 
 We tell customers that out-of-the-box Odoo (including EE) is similar to a raw construction building. Livable, but misses critical business features (for your industry).

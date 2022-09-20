@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # CVE
 
 Common Vulnerabilities and Exposures

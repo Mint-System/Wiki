@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Keycloak Assessment
 
 Tech questions:

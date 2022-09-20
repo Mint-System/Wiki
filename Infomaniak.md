@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Infomaniak
 
 Website: <https://www.infomaniak.com/>

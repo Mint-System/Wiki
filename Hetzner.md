@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Hetzner
 Deutscher Hosting-Anbieter.
 

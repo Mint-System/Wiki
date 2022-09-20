@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozesse Marketing
 Dokumentation der Marketing Prozesse.
 

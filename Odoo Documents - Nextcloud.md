@@ -1,3 +1,7 @@
+---
+tags:
+- Slide
+---
 ## Odoo Documents / Nextcloud
 Dokumente verwalten mit Odoo und/oder Nextcloud.
 

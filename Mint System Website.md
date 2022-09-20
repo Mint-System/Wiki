@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Mint System Website
 
 Inhalte von unserer Website.

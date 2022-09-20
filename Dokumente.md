@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Dokumente
 [[Signaturen]]  
 [[AGBs Entwicklungsprojekt]]  

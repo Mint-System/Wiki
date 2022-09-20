@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Fragen zu Odoo
 
 Offene Fragen rund um Odoo.

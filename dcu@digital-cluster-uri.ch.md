@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Bot Digital Cluster Uri
 
 Service-Account für [[Digital Cluster Uri]].

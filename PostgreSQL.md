@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # PostgreSQL
 
 > The World's Most Advanced [[Open Source]] Relational Database.

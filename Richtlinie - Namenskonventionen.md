@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Namenskonventionen
 
 ## [[Cloud Mint System]]

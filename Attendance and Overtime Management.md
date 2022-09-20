@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Attendance and Overtime Management
 
 Odoo App von [[Syscoon GmbH]] zur Kalkulation von Überzeiten.

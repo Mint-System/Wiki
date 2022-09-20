@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Evaluation Nextcloud Office
 
 Which one is better [[Collabora]] or [[OnlyOffice]]?

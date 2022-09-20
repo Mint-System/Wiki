@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # ROI-Analyse
 
 Je nach Grösse des Projekts kann Sie zwischen 3 und 50 Tagen dauern. Bei sehr kleinen Projekten ist die ROI-Analyse keine eigene Phase, sondern wird während der Kick-Off-Phase durchgeführt.

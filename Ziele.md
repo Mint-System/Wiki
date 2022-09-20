@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Ziele
 
 Jahresziele der Mint System.

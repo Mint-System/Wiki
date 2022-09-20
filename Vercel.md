@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Vercel
 Mit Vercel verwaltet Mint System die DNS-Einträge, Domains und statische Websites.
 

@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Marksondierung
 
 Markanalyse und Differenzierungsstrategien.

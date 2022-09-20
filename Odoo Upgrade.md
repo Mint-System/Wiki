@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Upgrade
 
 Description of the [[Odoo Enterprise Edition]] upgrade process. For [[Odoo Community Edition]] there is the [[OpenUpgrade]] project.

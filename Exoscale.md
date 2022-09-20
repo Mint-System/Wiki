@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Exoscale
 Schweizer Hosting-Anbieter.
 

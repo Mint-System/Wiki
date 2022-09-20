@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Tutorial: Install Odoo Studio
 
 Install and customize a view with Odoo Studio.

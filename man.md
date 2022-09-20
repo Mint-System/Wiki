@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # man
 
 Hilfestellung für Kommandozeilenbefehle.

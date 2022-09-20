@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # KPI
 
 ## Monatlicher Umsatz

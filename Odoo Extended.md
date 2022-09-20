@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo Extended
 
 Angebot zur Bereitstellung von Odoo.

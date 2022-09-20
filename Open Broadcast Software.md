@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Open Broadcast Software
 OBS is broadcast software for professional presentations.
 

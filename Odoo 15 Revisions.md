@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo 15 Revisions
 
 ## Odoo 15.0

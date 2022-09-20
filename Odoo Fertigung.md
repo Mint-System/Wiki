@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Fertigung
 Eine der Stärken von Odoo ist die Fertigung.
 

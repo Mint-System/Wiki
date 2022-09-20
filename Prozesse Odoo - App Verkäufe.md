@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess App Verkäufe
 Installation Modul Verkäufe `sale_management`.
 

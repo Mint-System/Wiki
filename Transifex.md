@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Transifex
 
 Website: <https://www.transifex.com/>

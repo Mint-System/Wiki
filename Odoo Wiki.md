@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Odoo Wiki
 
 Website: <https://www.odoo-wiki.org>

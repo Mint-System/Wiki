@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Calc Dokumente
 
 Die inhaltiche von Excel- oder Calc Dokumenten muss explizit festgelegt werden.

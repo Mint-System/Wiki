@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Kostendach
 
 Im Rahmen eines Arbeitsauftrages kann statt einem fixen Betrag ein Kostendach definiert werden. Das Kostendach legt eine Preis-Obergrenze fest. Wird die Grenze im Verlauf der Auftragserfüllung erreicht, wird mit dem Kunde entschieden, ob man das Kostendach erhöhen möchte oder den Auftrag bestehen lässt.

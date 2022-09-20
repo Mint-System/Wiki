@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Links
 
 Die wichtigsten Links der Mint System.

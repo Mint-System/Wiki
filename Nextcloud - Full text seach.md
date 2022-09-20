@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 
 # Nextcloud: Volltextsuche
 

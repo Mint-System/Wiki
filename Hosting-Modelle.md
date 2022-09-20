@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Hosting-Modelle
 Wir unterscheiden zwischen den foglenden Hosting-Modellen:
 

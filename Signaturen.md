@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Signaturen
 
 Janik von Rotz

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Angebot
 Das Angebot der Mint System.
 

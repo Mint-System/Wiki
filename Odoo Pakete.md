@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Pakete
 
 Odoo Pakete sind Angebote zur Implementation von Odoo.

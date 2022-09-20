@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Mint Sytem Referenzen Beschreibungen
 
 Unterteilt in eine Firmenbeschreibung und Details zur Odoo-Implementierung.

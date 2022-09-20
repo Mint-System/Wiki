@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Dokumentmanagementsystem
 
 Dokumentation zur Dokumentablage der Mint System.

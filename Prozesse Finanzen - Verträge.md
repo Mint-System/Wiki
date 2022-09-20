@@ -1,3 +1,7 @@
+---
+tags:
+- Prozess
+---
 # Prozess Verträge
 Prozesse zur Verwaltung von Verträgen mit Rechnungen.
 

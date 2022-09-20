@@ -1,3 +1,7 @@
+---
+tags:
+- Richtlinien
+---
 # Richtlinie - Obsidian
 
 ## Obsidian Einstellungen

@@ -1,3 +1,7 @@
+---
+tags:
+- Asset
+---
 # Spesenreglement
 
 Mint System GmbH\

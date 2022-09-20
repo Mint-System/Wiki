@@ -1,3 +1,7 @@
+---
+tags:
+- Definition
+---
 # Odoo Zahlungsanbieter
 
 Es gibt verschiedene Zahlungsanbieter für Odoo.

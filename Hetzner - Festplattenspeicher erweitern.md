@@ -1,3 +1,7 @@
+---
+tags:
+- HowTo
+---
 # Hetzner - Festplattenspeicher erweitern
 
 ## Volume erstellen
