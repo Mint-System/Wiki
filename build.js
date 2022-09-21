@@ -28,6 +28,8 @@ function sanitizeName(file) {
         .replace(/\s+/g, '-')
         .replace('---', '-')
         .replace('--', '-')
+        .replace("'", '-')
+        
 }
 
 function sanitizeAssetname(file) {
@@ -35,6 +37,7 @@ function sanitizeAssetname(file) {
         .replace(/\s+/g, '-')
         .replace('---', '-')
         .replace('--', '-')
+        .replace("'", '-')
         .replace(/ö/g, 'o')
         .replace(/ü/g, 'u')
         .replace(/ä/g, 'a')

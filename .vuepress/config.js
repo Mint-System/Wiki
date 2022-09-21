@@ -1,6 +1,8 @@
 const { defaultTheme } = require('vuepress')
 const { searchPlugin } = require('@vuepress/plugin-search')
 const { plausiblePlugin } = require('./plausible')
+// const { path } = require('@vuepress/utils')
+// const { registerComponentsPlugin } = require('@vuepress/plugin-register-components')
 
 module.exports = {
     lang: 'de-CH',
@@ -23,7 +25,10 @@ module.exports = {
         }),
         plausiblePlugin({
             'domain': 'wiki.mint-system.ch'
-        })
+        }),
+        // registerComponentsPlugin({
+        //     componentsDir: path.resolve(__dirname, './components')
+        // }),
     ],
     extendsMarkdown: (md) => {
         md.use(require('markdown-it-include'))
