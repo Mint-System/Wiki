@@ -11,3 +11,5 @@ Odoo Revsions sind Snapshots der Entwicklungshistory zu einem bestimmten Zeitpun
 ## [[Odoo 14 Revisions]]
 
 ## [[Odoo 15 Revisions]]
+
+## [[Odoo 16 Revisions]]
