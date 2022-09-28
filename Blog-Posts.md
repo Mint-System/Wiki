@@ -8,9 +8,9 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
+[[Besser als Alternativ]]\
 [[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
-[[Neuerungen in Odoo 15]]\
 [[Odoo Monitoring mit Prometheus und Grafana]]
 
 ## Veröffentlicht
@@ -32,3 +32,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Der eigene Messenger für ihre Schule]]\
 [[Odoo Customizing ohne zukünftige Einschränkungen]]\
 [[Spam reduzieren mit SPF, DKIM und DMARC]]\
+
+## Trash
+
+[[Neuerungen in Odoo 15]]\

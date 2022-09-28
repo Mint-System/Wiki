@@ -6,6 +6,11 @@ tags:
 
 Kreativprozess für Produktentwicklung. Sammlung von Ideen für neue Produkte.
 
+
+## Open Source Business Intelligence Plattform
+
+Siehe [[Apache Superset]].
+
 ## Branchlösung Odoo
 
 [[Aerodoo]] die Branchenlösung für  Luftfahrtbetriebe.
