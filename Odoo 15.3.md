@@ -2,35 +2,34 @@
 tags:
 - Asset
 ---
-# Odoo 14.6
+# Odoo 15.3
 
 ```bash
-ODOO_REVISION=14.6 
+ODOO_REVISION=15.3
 
 # Checkout enterprise repo
-cd enterprise && git checkout 7a5c7d84e8d2f12a45269f1c5aba5e1598e2f809
+cd enterprise && git checkout b21475610f4cb81c901eb1ae6d6a1e8d0e271cbd
 
 # Create tag on the enterprise repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Checkout odoo repo
-cd odoo && git checkout d470f2b4fbc7440d19d07268980394909c47ee22
+cd odoo && git checkout 6c8008b2e9ba0e58b940d8f0e6ad7b13d6b8c9bd
 
 # Create tag on the odoo repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Checkout theme repo
-cd themes && git checkout 4f8139719e8d1aac58894d23bf4a0e4e16640997
+cd themes && git checkout cf5300f70793ef2796d86fac456c7ecacaaf2ff0
 
 # Create tag on the odoo repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Pull docker image
-docker pull odoo@sha256:3533f9075153f8c31d716eb79ac291a20bd6ba612ee90a7511a994c618c7e70e
+docker pull odoo@sha256:40b49d7cad11ff5b765352db6572d62120ea2d007e76cb76ad9b12966f0f198e
 
 # Tag the docker image
-docker tag 423b0096eedd odoo:$ODOO_REVISION
-```
+docker tag ade1ded6b4c8 odoo:$ODOO_REVISION

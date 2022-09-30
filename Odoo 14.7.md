@@ -4,6 +4,37 @@ tags:
 ---
 # Odoo 14.7
 
+```bash
+ODOO_REVISION=14.7
+
+# Checkout enterprise repo
+cd enterprise && git checkout 7a12fcefeb70d69eca60850f636398cb8773714a
+
+# Create tag on the enterprise repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Checkout odoo repo
+cd odoo && git checkout 2ebb1b854905cde04060301deb0394221429d421
+
+# Create tag on the odoo repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Checkout theme repo
+cd themes && git checkout d90399677b0ea52eec3ceed63760af79529ef62a
+
+# Create tag on the odoo repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
+# Pull docker image
+docker pull odoo@sha256:61d6f63d4f5e0037e0ddf0cf505bea4c0c916da7e98a78aedf99e61f2f2a269f
+
+# Tag the docker image
+docker tag 30ee4d265b81 odoo:$ODOO_REVISION
+```
+
 ## Troubleshooting
 
 ### The quota has been exceeded

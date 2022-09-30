@@ -4,6 +4,28 @@ tags:
 ---
 # Odoo 14.4
 
+```bash
+# Checkout enterprise repo
+cd enterprise && git checkout 4df76691f8bb742caae39298f19e808581beae07
+
+# Create tag on the enterprise repo
+git tag -a 14.4 -m "14.4"
+..
+
+# Checkout odoo repo
+cd odoo && git checkout 811f429707c75b84d7f1da9611dac3c355e828f1
+
+# Create tag on the odoo repo
+git tag -a 14.4 -m "14.4"
+..
+
+# Pull docker image
+docker pull odoo@sha256:26479e1c9294862e5efc226b116cccab437da0b895c94a84b0165f7a6c892a55
+
+# Tag the docker image
+docker tag c4370cddec27 odoo:c4370cddec27
+```
+
 ## Bugs
 
 ### Forecasted report for products cannot be opened.

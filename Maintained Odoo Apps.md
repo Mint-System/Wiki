@@ -8,7 +8,20 @@ Das sind Odoo Apps für die ein [[Odoo Maintenance]]-Vertrag erstellt werden mus
 
 ## Apps
 
-### # web_ir_actions_act_view_reload
+### # project_type
+
+Target: Odoo 15\
+Status: PR open\
+Repo: https://github.com/OCA/project/pull/950\
+
+
+```bash
+cd oca/project
+gh pr checkout 950
+../..
+```
+
+### web_ir_actions_act_view_reload
 
 Repo: <https://github.com/OCA/web/pull/2240>
 
