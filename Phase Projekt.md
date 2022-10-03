@@ -6,11 +6,11 @@ tags:
 
 Tätigkeiten:
 
-* Projekt-Berichte konfigurieren
 * Die Hauptaufgaben - Unteraufgaben Struktur definieren
-* Die Zeiterfassung von Projektaufgaben einrichten
+* Die Zeiterfassung von Projektaufgaben definieren
 * Projekt-Templates einrichten
-* Die Relation von Projektaufgaben zu Fertigungsaufträgen einrichten
+* Verknüpfung der Kostenstelle definieren
+* Die Relation von Projektaufgaben zu anderen Geschäftsobjekten einrichten
 
 Ergebnis: Alle Daten zum Starten und Überwachen der Projekte sind bereit.
 
