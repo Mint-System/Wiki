@@ -8,7 +8,7 @@ Tätigkeiten:
 
 * Die Hauptaufgaben - Unteraufgaben Struktur definieren
 * Die Zeiterfassung von Projektaufgaben definieren
-* Projekt-Templates einrichten
+* Projekt-Templates und Aufgabenphasen einrichten
 * Verknüpfung der Kostenstelle definieren
 * Die Relation von Projektaufgaben zu anderen Geschäftsobjekten einrichten
 
