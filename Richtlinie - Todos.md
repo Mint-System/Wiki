@@ -10,10 +10,10 @@ Eine Aufgabe kann mehrere Todos enthalten und richten Sie sich an den Bearbeiter
 
 Erläuterungen zum Todo erscheinen auf einer nicht-eingeruckten Zeile:
 
-Richtig [[Emoji#✅]]:
+Richtig ✅:
 
 ![[Richtlinie Todos Richtig.png]]
 
-Falsch [[Emoji#❌]]:
+Falsch ❌:
 
 ![[Richtlinie Todos Falsch.png]]
