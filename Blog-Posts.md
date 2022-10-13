@@ -11,7 +11,8 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Besser als Alternativ]]\
 [[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
-[[Odoo Monitoring mit Prometheus und Grafana]]
+[[Odoo Monitoring mit Prometheus und Grafana]]\
+[[Odoo 16 - Ein Meilenstein ]]
 
 ## Veröffentlicht
 
