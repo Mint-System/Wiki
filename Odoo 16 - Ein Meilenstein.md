@@ -14,7 +14,7 @@ Jeder Klick auf der Benutzeroberfläche führt direkt zum Ergebnis.
 
 Zum Einstieg der Keynote hat Fabien einmal in SAP und anschliessend in Odoo eine Rechnung erstellt.
 
-Der Unterschied war immens. In SAP dauerte der Vorgang 10x solange
+Der Unterschied war immens. In SAP dauerte der Vorgang 10x solange.
 
 **Benutzeroberfläche**
 
@@ -22,7 +22,7 @@ Die Formularansicht der Geschäftsobjekte wird jetzt immer im Bearbeitungsmodus 
 
 Odoo-Benutzer, die lieber in der Nacht arbeiten haben jetzt den Darkmode.
 
-Der Wechsel zwischen Backend und Website gelingt natlos.
+Der Wechsel zwischen Backend und Website gelingt nahtlos.
 
 Die wichtigste Tastenkombination: Ctrl + k
 
@@ -30,7 +30,7 @@ Die wichtigste Tastenkombination: Ctrl + k
 
 Elemente können im Grid-Layout positioniert werden.
 
-Was uns besonders freut, der Analytic-Service Plausibe ist jetzt direkt integriert.
+Was uns besonders freut, der Analytic-Service Plausible ist jetzt direkt integriert.
 
 **Knowledge**
 
@@ -40,7 +40,7 @@ Sowie der Chatter auf der Formularansicht verfübar ist, kann man die mit einem 
 
 **Fertigung**
 
-Mit dem Manfucature Forcaste wird für eine bestimmte Stückliste die Lieferfristen und Verfügbarkeit des BoMs dargestellt.
+Mit dem Manfucature Forcast wird für eine bestimmte Stückliste die Lieferfristen und Verfügbarkeit des BoMs dargestellt.
 
 Tablet-Ansicht wurde überarbeitet. Login mittels Pin.
 
