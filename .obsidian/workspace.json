@@ -11,15 +11,36 @@
             "id": "b787daef27e0464d",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b67231d6016f38f6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Odoo 16 - Ein Meilenstein.md",
+                "file": "Richtlinie - Kollaboration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff474e307a0405bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OnlyOffice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo 16 - Ein Meilenstein.md",
+                "file": "OnlyOffice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Odoo 16 - Ein Meilenstein.md"
+                "file": "OnlyOffice.md"
               }
             }
           },
@@ -126,17 +147,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b787daef27e0464d",
+  "active": "ff474e307a0405bd",
   "lastOpenFiles": [
+    "Richtlinie - Kollaboration.md",
+    "OnlyOffice.md",
+    "Blog-Posts.md",
+    "Odoo 16 - Ein Meilenstein.md",
     "Vorlage Meeting.md",
     "Vorlagen.md",
-    "Odoo 16 - Ein Meilenstein.md",
-    "Blog-Posts.md",
     "Angebot.md",
     "assets/UVG Mobiliar.png",
     "assets/Odoo Website Builder.png",
-    "Websites mit Odoo erstellen.md",
-    "Odoo ist kein ERP-System.md",
-    "Odoo Monitoring mit Prometheus und Grafana.md"
+    "Websites mit Odoo erstellen.md"
   ]
 }
