@@ -2,7 +2,7 @@
 tags:
 - Vorlagen
 ---
-# Title
+# YYYY-MM-DD Title
 Übersetzung: [[Vorlage Worklog.en]]
 
 Datum: YYYY-MM-DD\
