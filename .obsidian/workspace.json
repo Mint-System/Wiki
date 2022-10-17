@@ -11,12 +11,8 @@
             "id": "ff474e307a0405bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OnlyOffice.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OnlyOffice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OnlyOffice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,15 +121,15 @@
   },
   "active": "ff474e307a0405bd",
   "lastOpenFiles": [
-    "Richtlinie - Kollaboration.md",
+    "Topics.md",
+    "README.md",
     "OnlyOffice.md",
+    "Richtlinie - Kollaboration.md",
     "Blog-Posts.md",
     "Odoo 16 - Ein Meilenstein.md",
     "Vorlage Meeting.md",
     "Vorlagen.md",
     "Angebot.md",
-    "assets/UVG Mobiliar.png",
-    "assets/Odoo Website Builder.png",
-    "Websites mit Odoo erstellen.md"
+    "assets/UVG Mobiliar.png"
   ]
 }

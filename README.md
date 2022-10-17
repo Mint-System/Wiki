@@ -30,7 +30,6 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Philosophie]]
 * [[Marketing]]
 * [[Unternehmensentwicklung]]
-* [[Topics]]
 * [[Technologien]]
 
 ## Struktur
