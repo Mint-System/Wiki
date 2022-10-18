@@ -42,4 +42,4 @@ Jede Projektaufgabe durchläuft die folgenden Stufen:
 * **In Arbeit 🧑‍💻** Die Aufgabe befindet sich in Bearbeitung.
 * **Zur Verifizierung 🔍** Der Abschluss der Aufgabe wird durch eine zweite Person verifiziert.
 * **Erledigt ✅** Die Aufgabe ist erledigt und kann archiviert werden.
-* **Permanent ♻️** Die Aufgabe steht Permanent zur Zeiterfassung zur Verfügung.
+* **Postlog ♻️** Die Aufgabe steht permanent zur Zeiterfassung zur Verfügung.

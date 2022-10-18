@@ -7,30 +7,30 @@ tags:
 ```bash
 ODOO_REVISION=16.0
 
-# Checkout enterprise repo
-cd enterprise && git checkout 790bfea68d370b77dca3a628503e197cc5db6511
-
-# Create tag on the enterprise repo
-git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
-..
-
 # Checkout odoo repo
-cd odoo && git checkout e0b26496196bd4ee39fa06e1a3274982d2c7fb12
+cd odoo && git checkout 4218428bd03e4427aa17cefc4724d46d9079c6df
 
 # Create tag on the odoo repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
+# Checkout enterprise repo
+cd enterprise && git checkout 5e55219e4a97f9c5a8a953e54422daefb9cfc385
+
+# Create tag on the enterprise repo
+git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
+..
+
 # Checkout theme repo
-cd themes && git checkout 16bff642598cd595f386d3fb58d08a616c0db8f9
+cd themes && git checkout 7d193e0560a71b200409e1b71c58b3af84dc3aff
 
 # Create tag on the odoo repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Pull docker image
-docker pull odoo@sha256:b0f192017179f7ddcba260f0a47bf146b509c4b561c551ef23c4f1ea9206f294
+docker pull odoo@sha256:b0eb4010bef8bfab2e430755f62504c4f4b1d97da377411a5dfc07a276737aa5
 
 # Tag the docker image
-docker tag 0e10f87fbc34 odoo:$ODOO_REVISION
+docker tag b8138ed2d218 odoo:$ODOO_REVISION
 ```

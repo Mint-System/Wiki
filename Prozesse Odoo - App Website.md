@@ -9,6 +9,8 @@ Installation Module Website `website`.
 
 Auswahl:
 * eCommerce `website_sale`
+* Digitale Produkte `website_sale_digital`
+* eCommerce Subscription `website_sale_subscription`
 
 ### Optionen aktivieren
 Navigieren nach *Einstellungen > Allgemeine Einstellungen > Integration* und Auswahl:

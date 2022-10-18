@@ -8,7 +8,7 @@ Das sind Odoo Apps für die ein [[Odoo Maintenance]]-Vertrag erstellt werden mus
 
 ## Apps
 
-### # project_type
+### ~~project_type~~
 
 Target: Odoo 15\
 Status: PR open\
@@ -21,7 +21,7 @@ gh pr checkout 950
 ../..
 ```
 
-### web_ir_actions_act_view_reload
+### ~~web_ir_actions_act_view_reload~~
 
 Repo: <https://github.com/OCA/web/pull/2240>
 
@@ -33,7 +33,7 @@ gh pr checkout 2240
 ../..
 ```
 
-### hr_timesheet_task_stage
+### ~~hr_timesheet_task_stage~~
 
 Repo: <https://github.com/OCA/timesheet/pull/500>
 
@@ -45,7 +45,7 @@ gh pr checkout 500
 ../..
 ```
 
-### project_timesheet_time_control
+### ~~project_timesheet_time_control~~
 
 Repo: <https://github.com/OCA/project/pull/939>
 
@@ -57,7 +57,7 @@ gh pr checkout 939
 ../..
 ```
 
-### l10n_ch_qr_bill_scan
+### ~~l10n_ch_qr_bill_scan~~
 
 Repo: <https://github.com/OCA/l10n-switzerland/pull/649>
 
@@ -69,7 +69,7 @@ gh pr checkout 649
 ../..
 ```
 
-### hr_holidays_public
+### ~~hr_holidays_public~~
 
 Repo: <https://github.com/OCA/hr-holidays/pull/38>
 

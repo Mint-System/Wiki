@@ -17,5 +17,6 @@
   },
   "userIgnoreFilters": [
     "node_modules/"
-  ]
+  ],
+  "showInlineTitle": false
 }
