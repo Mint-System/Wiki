@@ -3,7 +3,7 @@ default.vim
 .now
 node_modules
 .vercel
-.obsidian/workspace
+.obsidian/workspace.json
 .obsidian/graph.json
 .temp
 .cache

@@ -42,7 +42,7 @@ MWST: 0.0%
 
 #### Rechnung UVG
 
-![[Pasted image 20220322150318.png]]
+![[UVG Mobiliar.png]]
 
 Konto: 2271 UVG (Mobiliar)\
 MWST: 0.0%
