@@ -1,8 +1,8 @@
-# Metrics on Customization
+# Metrics on Odoo Customization
 Author: [[Janik von Rotz]]\
 Date: YYYY-MM-DD
 
-The report is based on the Odoo.sh project <https://example.com.
+The report is for the Odoo project <https://example.com.
 
 ## Metrics
 
