@@ -9,6 +9,6 @@ Zustand eines Odoo Projekts bewerten.
 ## Bericht erstellen
 
 Arbeitsschritte:
-* Administratoren-Zugang zum Projekt verlagen
+* Administratoren-Zugang zur Odoo-Instanz und zum Server einfordern
 * Berichtsvorlage [[Vorlage Metriken der Odoo Anpassungen.en]] kopieren
 * Metriken gemäss Bericht auswerten
