@@ -2,7 +2,7 @@
 Author: [[Janik von Rotz]]\
 Date: YYYY-MM-DD
 
-The report is for the Odoo project <https://example.com.
+The report is for the Odoo project <https://example.com>.
 
 ## Metrics
 
