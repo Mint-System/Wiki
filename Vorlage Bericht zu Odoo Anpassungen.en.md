@@ -1,4 +1,4 @@
-# Metrics on Odoo Customization
+# Template Report on Odoo Customization
 Author: [[Janik von Rotz]]\
 Date: YYYY-MM-DD
 

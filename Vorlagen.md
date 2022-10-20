@@ -21,5 +21,5 @@ tags:
 * [[Vorlage Minor Improvements.en]]
 * [[Vorlage Bugs]]
 * [[Vorlage Prozesse Odoo]]
-* [[Vorlage Metriken der Odoo Anpassungen.en]]
+* [[Vorlage Bericht zu Odoo Anpassungen.en]]
 * [[Vorlage Use Cases]]
