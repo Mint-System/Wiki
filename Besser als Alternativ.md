@@ -8,7 +8,7 @@ Open Source Software ist keine Alternative, sie ist einfach besser.
 
 In Zusammenhang mit Open Source Software spricht man immer noch von Alternativen. Dies obwohl fast alle Software-Systeme der Welt mit Open Source Software funktionieren. Wir finden dass "Alternativ" der Sache nicht gerecht wird. Viele Open Source Produkte und Anbieter bieten einen besseren Service als die kommerziellen Alternativen. Es ist unsere Aufgabe diese Produkte und Anbieter bekannt zu machen.
 
-Im folgenden eine nicht abschliessende Liste  von Produkten und Anbieter, dies es besser können:
+Im folgenden eine nicht abschliessende Liste  von Produkten und Anbieter, dies es besser als ihre p können:
 
 * [Hetzner](https://www.hetzner.com/): Preiswertes Hosting
 * [Infomaniak](https://www.infomaniak.com): Mail und Hosting
