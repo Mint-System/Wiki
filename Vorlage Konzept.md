@@ -13,7 +13,7 @@ tags:
 	* [[Begriffe]]
 * Mint System
 	* Partner
-* Analyse
+* Analysebakcup
 	* Daten
 * Lösungsvorschlag
 	* Abgrenzung
@@ -59,8 +59,9 @@ Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und "baue
 
 Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und unterstützen Kunden bei der Inbetriebnahme und Implementation von Geschäftssoftware. Wir sind fähig die Prozesse des AfU zu verstehen und wissen wie diese mit Software optimiert werden können. Ergänzt mit dem Know-how aus erfolgreichen ERP-Projekten mit KMUs sind wir ein kompetenter Partner für die Abwicklung von Beratungsprojekten.
 
-Mint System GmbH Seedorfstrasse 29  
- 6460 Altdorf
+Mint System GmbH  
+Seedorfstrasse 29  
+6460 Altdorf
 
 Standort: Altdorf UR  
 Gründungsjahr: 2020  
