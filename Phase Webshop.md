@@ -13,7 +13,7 @@ Tätigkeiten:
 * Den Warenkorb einrichten
 * Die Zahlungsmittel einrichten
 
-Ergebnis: Es sind Produkte der Stiär Biär im Webshop bestellbar.
+Ergebnis: Es sind Produkte im Webshop bestellbar.
 
 ## Webshop migrieren
 
