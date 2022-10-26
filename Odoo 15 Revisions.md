@@ -27,4 +27,9 @@ Revision: 15.0.2022.0509
 State: Active\
 Version: 15.0\
 Revision: 15.0.2022.0620
-```
+
+## [[Odoo 15.4]]
+
+State: Active\
+Version: 15.0\
+Revision: 15.0.2022.1024
