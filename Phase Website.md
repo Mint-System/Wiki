@@ -4,7 +4,7 @@ tags:
 ---
 # Phase Website
 
-Zusmmenfassung:
+Tätigkeiten:
 
 * Die Portal-Benutzer importieren
 * Aufbau Berechtigungsstruktur

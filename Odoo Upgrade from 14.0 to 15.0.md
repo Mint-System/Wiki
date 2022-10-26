@@ -75,7 +75,7 @@ odoo-backup -d $NEW_DATABASE -o tmp/$DATABASE_$MODE.zip
 
 ## Native Production
 
-It is the same procedure as with [[#Native Test]], but instead of using the `test` option for the upgrade command, use `production`.
+It is the same procedure as with [[#Native Test]], but instead of using the `test` option for the upgrade mode, use `export MODE=production`.
 
 ## Docker Production 🚧
 

@@ -11,7 +11,7 @@ Tätigkeiten:
 * Einrichten Zugriff auf Projektunterlagen
 * Weiteres Vorgehen definieren
 
-Ergebnis: Das Projekt ist offiziel gestartet.
+Ergebnis: Das Projekt ist offiziell gestartet.
 
 
 ## Kommunikation definieren

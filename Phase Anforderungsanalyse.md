@@ -8,7 +8,9 @@ Tätigkeiten:
 
 * Bereitstellen Struktur für Anforderungsanalyse
 * Beschreibung Systemkontext, Stakeholder und Rollen
+* Interview mit Stakeholder
 * Festhalten und Kategorisierung der Anforderungen
+* Definieren Entwicklungsaufwand für Erweiterungen
 * Dokumentieren mit Entity Relationship Modell (ERM)
 * Dokumentieren mit Business Process Model and Notation (BPMN)
 

@@ -8,6 +8,7 @@ tags:
 
 Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 
+* [[Phase Projektmanagement]]
 * [[Phase Server bereitstellen]]
 * [[Phase Odoo Installation]]
 * [[Phase Odoo Initialisierung]]
@@ -47,6 +48,9 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Auslagen]]
 * [[Phase Aussendienst]]
 * [[Phase Kick-Off]]
+* [[Phase Website]]
+* [[Phase PoS]]
+* [[Phase Go-Live]]
 
 ## [[Prozesse]]
 
