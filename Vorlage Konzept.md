@@ -5,7 +5,12 @@ tags:
 # Vorlage Konzept
 Übersetzung: [[Vorlage Konzept.en]]
 
-Überschriften:
+## Konzept $TITEL
+
+Datum: DD.MM.YYYY\
+Author: Janik von Rotz
+
+Inhaltsverzeichnis:
 
 * Einleitung
 	* Ausgangslage
