@@ -50,8 +50,11 @@ Es entstehen beim Workshop keine weiteren Kosten Dritter.
 
 ### Subunternehmen
 
-Subunternehmen:
-Die UNTERNEHMENSNAME agiert bei der Auftragsabwicklung als Subunternehmer. Sie unterstützen die Mint System GmbH bei der Erbrinung der offerierten Leistungen. Die Verrechnung der erbrachten Leistungen erfolgt ausschliesslich durch die Mint System GmbH.
+Subunternehmer:
+Die UNTERNEHMENSNAME agiert bei der Auftragsabwicklung als Subunternehmer. Sie unterstützen die Mint System GmbH bei der Erbringung der offerierten Leistungen. Die Verrechnung der erbrachten Leistungen erfolgt ausschliesslich durch die Mint System GmbH.
+
+Mint System als Subunternehmen:
+Die Mint System GmbH tritt als Subunternehmen für die UNTERNEHMENSNAME auf. Die angefallen Leistungen werden zu einem definierten Stundensatz and UNTERNEHMENSNAME verrechnet. 
 
 ### Fakturierungen
 
