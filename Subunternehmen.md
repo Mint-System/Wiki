@@ -3,7 +3,7 @@ tags:
 - Asset
 ---
 
-# Subunternehmer
+# Subunternehmen
 
 In diesem Artikel werden verschiedene Formen der Zusammenarbeit betrachtet.
 

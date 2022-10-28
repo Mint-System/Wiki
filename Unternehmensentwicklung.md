@@ -14,4 +14,4 @@ Themen:
 * [[Produktentwicklung]]
 * [[Ziele]]
 * [[KPI]]
-* [[Subunternehmer]]
+* [[Subunternehmen]]
