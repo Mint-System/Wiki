@@ -45,4 +45,4 @@ Die Mint System erfasst eigenständig Arbeitsrapporte.
 
 **Verrechnung**
 
-Die Mint System GmbH stellt ihnen eine Rechnung für die geleisteten Stunden.
+Die Mint System GmbH stellt ihnen eine Rechnung für die geleisteten Stunden gemäss vereinbarten Konditionen.
