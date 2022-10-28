@@ -13,3 +13,11 @@ Leitet und und korrdiniert ein oder mehrere Projekte.
 ## Controller
 
 Überwacht Projektabwicklung und Finanzen.
+
+## Entwickler
+
+## Integrator
+
+## Stakeholder
+
+Kunden, Mitarbeitende und Extern der Projektorganisation.
