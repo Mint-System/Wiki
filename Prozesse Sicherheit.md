@@ -7,4 +7,4 @@ Dokumentation der Sicherheit-Prozesse.
 
 Verantwortlich: [[Janik von Rotz]]
 
-* [[Prozesse Sicherheit - Assessment]]
+* [[Prozess Sicherheit - Assessment]]

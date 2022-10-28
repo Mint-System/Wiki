@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Nextcloud bestellen
+# Prozesse Infrastruktur: Nextcloud bestellen
 Bestellung einer Odoo-Installation.
 
 ## Nextcloud-Instanz bestellen

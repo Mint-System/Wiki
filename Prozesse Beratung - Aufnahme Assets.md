@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Aufnahme Assets
+# Prozesse Beratung: Aufnahme Assets
 
 ## Quelldokumente aufnehmen
 

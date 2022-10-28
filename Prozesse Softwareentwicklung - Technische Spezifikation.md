@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Technische Spezifikation
+# Prozesse Softwareentwicklung: Technische Spezifikation
 
 ## Dokument erstellen
 Arbeitsschritte:

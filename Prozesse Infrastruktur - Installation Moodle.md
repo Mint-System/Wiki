@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Installation Moodle
+# Prozesse Infrastruktur: Installation Moodle
 Inbetriebnahme einer Moodle-Installation.
 
 ## Initialisierung

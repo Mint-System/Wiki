@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Abwesenheitszeiten
+# Prozesse Odoo: App Abwesenheitszeiten
 Installation Modul Abwesenheitszeiten (hr_holidays).
 
 ## Initialisierung

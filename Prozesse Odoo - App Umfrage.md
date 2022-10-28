@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Umfrage
+# Prozesse Odoo: App Umfrage
 Installation Modul Umfrage `survey`
 
 ## Installation

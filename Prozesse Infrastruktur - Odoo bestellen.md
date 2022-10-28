@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Odoo bestellen
+# Prozesse Infrastruktur: Odoo bestellen
 Bestellung einer Odoo-Installation.
 
 ## Odoo-Instanz bestellen

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Projektdefinition
+# Prozesse Projektmanagement: Projektdefinition
 Ein Projekt definieren.
 
 ## Projekt definieren

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Lager
+# Prozesse Odoo: App Lager
 Installation Modul Lager `stock`.
 
 ## Installation

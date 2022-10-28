@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Finanzen
+# Prozesse Odoo: App Finanzen
 Installation Modul Finanzen `account_accountant`.
 
 ## Installation

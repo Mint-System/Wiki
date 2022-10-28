@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Ausgleich
+# Prozesse Finanzen: Ausgleich
 Kontostand eBanking mit Odoo abgleichen.
 
 ## Kontoauszug importieren und abgleichen

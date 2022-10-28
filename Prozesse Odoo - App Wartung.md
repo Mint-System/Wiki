@@ -2,5 +2,5 @@
 tags:
 - Prozess
 ---
-# Prozess App Wartung
+# Prozesse Odoo: App Wartung
 Installation Modul Wartung `maintenance`.

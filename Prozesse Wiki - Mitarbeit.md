@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Mitarbeit
+# Prozesse Wiki: Mitarbeit
 
 Technische Konfigurationen damit Sie an der Wissensdatenbank mitarbeiten können.
 

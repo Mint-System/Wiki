@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Kundenverwaltung
+# Prozesse Odoo: App Kundenverwaltung
 Installation Modul Kundenverwaltung `crm`.
 
 ## Installation

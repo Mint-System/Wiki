@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Konzept erstellen
+# Prozesse Akquise: Konzept erstellen
 
 Arbeitsschritte:
 * In Nextcloud die Dokumentvorlage *Konzept.docx* in den Projektordner kopieren

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Verträge
+# Prozesse Finanzen: Verträge
 Prozesse zur Verwaltung von Verträgen mit Rechnungen.
 
 ## Hosting-Vertrag anlegen

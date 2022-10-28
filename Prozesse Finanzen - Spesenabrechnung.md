@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Spesenabrechnung
+# Prozesse Finanzen: Spesenabrechnung
 Prozesse zur Spesenabrechnung der Mint System.
 
 ## Spesen zur Abrechnung erfassen

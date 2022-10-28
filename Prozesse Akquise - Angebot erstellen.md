@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Angebot erstellen
+# Prozesse Akquise: Angebot erstellen
 
 ## Odoo-Lizenz-Angebot erstellen
 Kontakt mit Odoo-Partner.

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Präsentation
+# Prozesse Akquise: Präsentation
 Vorbereitung für eine Präsentation beim Kunden.
 
 ## Unternehmen

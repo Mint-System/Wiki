@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Buchhaltung
+# Prozesse Finanzen: Buchhaltung
 Führung der Buchhaltung der Mint System.
 
 ## Darlehenskonto einrichten

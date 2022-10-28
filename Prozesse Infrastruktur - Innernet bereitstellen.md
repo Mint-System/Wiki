@@ -2,5 +2,5 @@
 tags:
 - Prozess
 ---
-# Prozess Innernet bereitstellen
+# Prozesse Infrastruktur: Innernet bereitstellen
 Bereistellung Innernet-Umgebung.

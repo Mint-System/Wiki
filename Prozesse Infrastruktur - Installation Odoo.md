@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Installation Odoo
+# Prozesse Infrastruktur: Installation Odoo
 Bereitstellung Odoo-Umgebung.
 
 ## Odoo-Umgebung bereitstellen

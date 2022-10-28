@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Personal
+# Prozesse Odoo: App Personal
 Installation Modul Odoo Personal `hr`.
 
 ## Implementation

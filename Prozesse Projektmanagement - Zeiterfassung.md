@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess Zeiterfassung
+# Prozesse Projektmanagement: Zeiterfassung
 Stundenrapport auf externe und interne Projekte.
 
 ## Aufwand verrechnen

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Verkäufe
+# Prozesse Odoo: App Verkäufe
 Installation Modul Verkäufe `sale_management`.
 
 ## Installation

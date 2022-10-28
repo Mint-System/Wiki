@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Projekt
+# Prozesse Odoo: App Projekt
 Installation Modul Projekt `project`
 
 ## Installation

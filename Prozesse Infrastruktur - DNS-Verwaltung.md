@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess DNS-Verwaltung
+# Prozesse Infrastruktur: DNS-Verwaltung
 
 ## Externe DNS-Einträge erstellen
 

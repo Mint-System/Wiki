@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App eLearning
+# Prozesse Odoo: App eLearning
 Installation Modul eLearning `website_slides`
 
 ## Installation

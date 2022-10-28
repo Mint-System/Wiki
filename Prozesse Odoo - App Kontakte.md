@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess App Kontakte
+# Prozesse Odoo: App Kontakte
 Installation Modul Kontakte `contacts`.
 
 ## Installation

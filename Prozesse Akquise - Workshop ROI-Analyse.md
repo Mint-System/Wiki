@@ -2,11 +2,7 @@
 tags:
 - Prozess
 ---
----
-tags:
-- Prozess
----
-# Prozess Workshop ROI-Analyse
+# Prozesse Akquise: Workshop ROI-Analyse
 
 ## Workshop vorbereiten
 

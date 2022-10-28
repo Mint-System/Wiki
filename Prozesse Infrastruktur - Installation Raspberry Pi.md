@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozess  Installation Raspberry Pi
+# Prozesse Infrastruktur:  Installation Raspberry Pi
 Bereitstellung Raspberry Pi.
 
 ## Gerät registrieren
