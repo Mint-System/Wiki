@@ -6,7 +6,7 @@ tags:
 
 [[Update custom Odoo module]]\
 [[Odoo - Import data from csv]]\
-[[Odoo - Migrate a OCA module]]
+[[Odoo - Migrate an OCA module]]
 
 ## Write xpath selectors
 
