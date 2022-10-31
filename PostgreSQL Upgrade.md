@@ -6,8 +6,7 @@ tags:
 
 These instructions are based on [docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade).
 
-For PostgreSQL upgrade with `pg_dump` see [[Migrating docker postgres databases with pg_dump]]
-.
+For PostgreSQL upgrade with `pg_dump` see [[Migrate docker postgres databases with pg_dump]].
 
 ## Scenario
 

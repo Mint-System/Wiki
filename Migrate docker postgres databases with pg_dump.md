@@ -2,9 +2,9 @@
 tags:
 - HowTo
 ---
-# Migrating docker postgres databases with pg_dump
+# Migrate docker postgres databases with pg_dump
 
-## Secure way
+## The secure way
 
 Step by step tutorial to migrate database from postgres 10 to 12 using docker.
 
@@ -59,27 +59,27 @@ docker restart $APP_CONTAINER
 ```
 
 
-## Risky way
+## The insecure way
 
 Start by setting env vars.
 
 ```bash
-APP_CONTAINER=moodle01
-DB_CONTAINER=postgres05
-DB_USER=moodle
-HOST=hades
+APP_CONTAINER=login01
+DB_CONTAINER=postgres06
+DB_USER=keycloak
+HOST=zeus
 ```
 
 Stop app container.
 
-```
+```bash
 docker stop $APP_CONTAINER
 ```
 
 Dump all databases.
 
 ```
-docker exec $DB_CONTAINER pg_dumpall --username=$DB_USER > /var/tmp/dump.sql
+docker exec $DB_CONTAINER pg_dumpall --username=$DB_USER > /var/tmp/$DB_CONTAINER/dump.sql
 ```
 
 Update the image tag and rename volume if necessary.
@@ -88,16 +88,16 @@ Update the image tag and rename volume if necessary.
 postgres_image: postgres:12-alpine
 ```
 
-Deploy database container with version 12.
+Deploy database container with the new version.
 
 ```bash
-aplaybook -i inventories/setup all.yml -l $HOST -t postgres --skip-tags depends
+aplaybook -i inventories/setup play-all.yml -l $HOST -t postgres --skip-tags depends
 ```
 
 Restore the data.
 
 ```bash
-cat /var/tmp/dump.sql | docker exec -i $DB_CONTAINER psql -U $DB_USER
+cat /var/tmp/$DB_CONTAINER/dump.sql | docker exec -i $DB_CONTAINER psql -U $DB_USER
 ```
 
 Start app container.

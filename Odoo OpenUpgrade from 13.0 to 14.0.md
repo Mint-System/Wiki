@@ -57,7 +57,7 @@ task checkout $TARGET
 git clone git@github.com:OCA/OpenUpgrade.git tmp/openupgrade
 cd tmp/openupgrade && git checkout $TARGET && git pull && ../..
 
-echo "\ntmp/openupgrade" >> config/addons_path && task update-config
+sed -i -r 's/(addons_path.*)/\1,tmp\/openupgrade/' config/odoo-native.conf
 ```
 
 * Run the upgrade scripts
@@ -150,7 +150,7 @@ This error occured while compiling the bundle 'web.assets_backend' containing:
 
 Make sure the same version of `web_responsive` is deployed as locally.
 
-### footer canot be located in parent view
+### Footer canot be located in parent view
 
 **Problem**
 
