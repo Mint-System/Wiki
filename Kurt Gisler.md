@@ -6,10 +6,8 @@ tags:
 Verantwortlich: [[Unternehmensentwicklung]]  
 Benutzername: `kurtgisler`  
 Alias: `kgi`
+Other mail: info@mint-system.ch
 
-Other mail:
-* info@mint-system.ch
-
-## Textbausteine
+## CV
 
 Projektleiter Kurt Gisler ist ausgebildeter Elektroingenieur mit Praxiserfahrung aus der Branche Entwicklung und Produktion von Elektro-Mechanischen Systemen.

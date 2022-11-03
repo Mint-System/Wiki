@@ -3,7 +3,7 @@ tags:
 - Prozess
 ---
 # Prozesse Odoo: App Aufwand
-Installation Modul Aufwand `hr_expense`****
+Installation Modul Aufwand `hr_expense`
 
 ## Installation
 

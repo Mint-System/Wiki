@@ -3,7 +3,7 @@
 Datum: YYYY-MM-DD\
 Teilnehmer: 
 
-## Themen
+## Input
 
 Folgende Themen werden besprochen:
 
@@ -12,14 +12,10 @@ Folgende Themen werden besprochen:
 
 ## Notizen
 
-Notizen zu den Themen.
+Notizen zum Meeting.
 
-## Entscheidungen
+## Aufgaben
 
-Zusammenfassung der Entscheide.
+Aufgaben für die Nachbearbeitung
 
-## Todos
-
-Neue Aktivitäten an Personen zuweisen.
-
-- Entscheid fällen @Person
+- [ ] Zu erledigen @Person/Org
