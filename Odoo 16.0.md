@@ -1,9 +1,10 @@
-
 ---
 tags:
 - Asset
 ---
+
 # Odoo 16.0
+
 ```bash
 ODOO_REVISION=16.0
 
