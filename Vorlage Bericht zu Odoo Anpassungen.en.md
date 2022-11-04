@@ -18,7 +18,7 @@ Running `odoo-bin cloc` on the shell.
 
 ### Managed Modules
 
-Check if the custom modules follow some good practice.
+Check if the custom modules follow some good practice and if the version is tracked.
 
 **Result**
 
