@@ -10,4 +10,4 @@ Tätigkeiten:
 - Erfassen Vorlagen für Aufnahme Inventur
 - Anpassen Kalkulationsmethoden für Lagerwert 
 
-Ergebnis: Mobilien sind mit Odoo Lager erfasst.
+Ergebnis: Bestand ist Odoo Lager erfasst und bewertet.

@@ -9,9 +9,10 @@ Tätigkeiten:
 * Den Kontenplan einrichten
 * Die Mehrwertsteuersätze einrichten
 * Die Journale einrichten
-* Die Bankenverbindung zum Ebanking einrichten
+* Die Bankenverbindung zum eBanking einrichten
 * Debitoren und Kreditoren einrichten
 * Abgleich mit Bankkonto durchführen
+* Zahlungslauf SEPA ausführen
 
 Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 

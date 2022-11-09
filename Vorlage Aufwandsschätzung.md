@@ -17,3 +17,5 @@ Der Aufwand für die Projektphasen wurde wie folgt geschätzt:
 | **Phase 50: Odoo Entwicklung**      | 2                       |
 | Odoo Implementation und Entwicklung | 8                       |
 | **Projektleitung**                  | 3.2                     |
+
+Siehe [[Prozesse Projektmanagement - Aufwandsschätzung]].

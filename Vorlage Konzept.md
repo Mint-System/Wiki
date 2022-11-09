@@ -10,15 +10,13 @@ tags:
 Datum: DD.MM.YYYY\
 Author: Janik von Rotz
 
-Inhaltsverzeichnis:
+**Inhaltsverzeichnis**
 
 * Einleitung
 	* Ausgangslage
 	* Systeme im Einsatz
 	* [[Begriffe]]
-* Mint System
-	* Partner
-* Analysebakcup
+* Analyse
 	* Daten
 * Lösungsvorschlag
 	* Abgrenzung
@@ -39,7 +37,7 @@ Inhaltsverzeichnis:
 
 ## Textbausteine
 
-**Einleitung**
+### Einleitung
 
 Mit dem vorliegenden Dokument erläutern wir unser Angebot S00037 zur
 Implementierung des Management-Systems Odoo bei der KUNDE.

@@ -16,6 +16,7 @@ graph LR;
 ```
 
 * [[Prozesse Projektmanagement - Konzept]]
+* [[Prozesse Projektmanagement - Aufwandsschätzung]]
 * [[Prozesse Projektmanagement - Projektdefinition]]
 * [[Prozesse Projektmanagement - Odoo Projekt erstellen]]
 * [[Prozesse Projektmanagement - Zeiterfassung]]
