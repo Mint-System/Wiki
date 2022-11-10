@@ -15,7 +15,7 @@ Unsere Leistungen werden pro Stunde gemäss untenstehender Preisliste verrechnet
 | ----------- | --------------:|
 | Ohne Abo    |          0 CHF |
 | MINT        |        500 CHF |
-| MINT+       |       2'500 CHF |
+| MINT+       |      2'500 CHF |
 
 Ein Upgrade ist jederzeit auf Anfrage und Anfang eines neuen Monats möglich.
 

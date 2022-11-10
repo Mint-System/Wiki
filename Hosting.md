@@ -32,7 +32,8 @@ Die Webanwendungen der Mint System werden von einer [[Web Application Firewall]]
 
 Unser Ticketsystem und Forum steht Ihnen zu Verfügung. Bei dringenden Notfällen können Sie uns telefonisch kontaktieren.
 
-[[Wartungsvertrag]]
+[[Wartungsvertrag]]\
+[[Supportvertrag]]
 
 ### Service Level Agreement
 
