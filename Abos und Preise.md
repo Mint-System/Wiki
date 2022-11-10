@@ -25,7 +25,7 @@ Ein Upgrade ist jederzeit auf Anfrage und Anfang eines neuen Monats möglich.
 | ------------------------------------ | --------:| -------:| -------:|
 | Projektleitung                       |  180 CHF | 160 CHF | 150 CHF |
 | Software-Entwicklung und Engineering |  160 CHF | 140 CHF | 130 CHF |
-| Support                              |  120 CHF | 90 CHF |  80 CHF |
+| Support                              |  140 CHF | 120 CHF |  110 CHF |
 
 Die angegebenen Kosten verstehen sich pro Stunde, exkl. MWST. Geschätzte Zeitaufwände der auszuführenden Arbeiten werden dem Kunden vorgängig gemeldet. Mint System stellt dem Kunden jährlich eine Rechnung im Voraus über die gebuchte Abovarianten, beginnend ab Vertragsbeginn. Kosten der genutzten Leistungen werden monatlich nach Aufwand verrechnet. Die Kündigungsfrist beträgt 6 Monate.
 
@@ -37,6 +37,6 @@ Damit die Wahl der Abovariante einfacher fällt, haben wir die Anzahl Projektstu
 | ------------------------------------ | ----:| -----:|
 | Projektleitung                       |  25h |   83h |
 | Software-Entwicklung und Engineering |  25h |   83h |
-| Support                              |  16h |   52h |
+| Support                              |  25h |   83h |
 
 Die Formel zu Berechnung der Schwelle ist `Anzahl Stunden = Abo Preis pro Jahr / (Stundensatz ohne Abo - Stundensatz mit Abo)`. Die Stundenzahl wurde abgerundet.

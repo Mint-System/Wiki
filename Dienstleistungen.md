@@ -84,4 +84,4 @@ Umfasst diese Leistungen:
 * Unterstützung bei Ausfällen
 * Beanwortung fachliche Fragestellungen
 
-Preis: 120 CHF pro Stunde
+Preis: 140 CHF pro Stunde
