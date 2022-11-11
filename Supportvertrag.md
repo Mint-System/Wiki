@@ -7,7 +7,7 @@ tags:
 
 # Supportvertrag
 
-## Basis
+## BasisChecChecChec
 
 Der Basisvertrag ist in unseren Hosting-Angeboten enthalten.
 

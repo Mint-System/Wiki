@@ -9,8 +9,8 @@ Installation Modul Verkäufe `sale_management`.
 
 Auswahl:
 * Verkauf Enterprise `sale_enterprise`
-* Verkaufs- und Lagerverwaltung `sale_stock` #Odoo13-14 
-* Vertriebs-Zeiterfassung: Raster-Unterstützung `sale_timesheet_enterprise`
+* Verkaufs- und Lagerverwaltung `sale_stock`
+* Sales Timesheet: Invoicing `sale_timesheet_enterprise`
 * Chance zu Angebot  `sale_crm`
 
 ### Optionen aktivieren
