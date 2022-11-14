@@ -113,7 +113,7 @@ odoo-backup -d $DATABASE -o tmp/$DATABASE-$TARGET.zip
 ```
 
 * Deploy the Odoo 14 instance
-* Drop the current database, restore the new dabase and tail the server log
+* Drop the current database, restore the new database and tail the server log
 
 ```bash
 odoo-drop -d $DATABASE ...
