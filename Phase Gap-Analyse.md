@@ -2,11 +2,11 @@
 tags:
 - Phasen
 ---
-# Phase ROI-Analyse
+# Phase Gap-Analyse
 
 Tätigkeiten:
 
-* Festhalten Kernrpozesse
+* Festhalten Kernrprozesse
 * Interview mit Stakeholder
 * Fragen aus Phasen beantworten
 * Dokumentieren der Antworten

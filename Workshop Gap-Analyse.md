@@ -2,15 +2,16 @@
 tags:
 - Prozess
 ---
-# Workshop ROI-Analyse
+# Workshop Gap-Analyse
 
-Orientiert sich sich an der [[ROI-Analyse]].
+Orientiert sich sich an der [[Gap-Analyse]].
 
 ## Inhalt
 **Begriff**
 
 *ROI* steht für *Return on Investment*.
-Das ist eine betriebswirtschaftliche Kennzahl zur Messung der Rendite einer unternehmerischen Tätigkeit, gemessen am Erfolg im Verhältnis zum eingesetzten Kapital. (Quelle: Wikipedia)
+
+> Das ist eine betriebswirtschaftliche Kennzahl zur Messung der Rendite einer unternehmerischen Tätigkeit, gemessen am Erfolg im Verhältnis zum eingesetzten Kapital. (Quelle: Wikipedia)
 
 Für das vorliegende Projekt bedeutet das die Beantwortung der folgenden Frage: Welche Kundenanfoderungen sind umzusetzen und welcher Aufwand ist dafür zu leisten?
 
@@ -26,7 +27,7 @@ Aus dem Workshop erwarten wir die Grundlagen um:
 
 ## Vorgehen
 
-![[Workshop ROI-Analyse.svg]]
+![[Workshop Gap-Analyse.svg]]
 
 **Erwartungen des Kunden**
 

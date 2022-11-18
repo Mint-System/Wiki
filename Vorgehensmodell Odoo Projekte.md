@@ -50,7 +50,7 @@ Für speziell komplexe Anwendungen (Finanzen, Lager, Marketing, Fertigung, Websi
 
 Sie haben ein tiefes funktionales Wissen in branchenspezifischen Odoo Funktionen und solides Erfahrungswissen.
 
-Die App-Experten sind nicht Teil des Projekts. Sie arbeiten in verschiedenen Projekten gleichzeitig. In der Regel werden Sie für die [[ROI-Analyse]] hinzugezogen.
+Die App-Experten sind nicht Teil des Projekts. Sie arbeiten in verschiedenen Projekten gleichzeitig. In der Regel werden Sie für die [[Gap-Analyse]] hinzugezogen.
 
 ### Entwickler (Mint System)
 
@@ -99,7 +99,7 @@ Die folgende Tabelle zeigt die Projektphasen und deren relativen Zeitbedarf.
 
 | Phase             | Relativer Zeitbedarf | Inhalt                                                                                   |
 | ----------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| ROI-Analyse       | 10%                  | Geschäftsanalyse, ROI-Analyse, Projektphasen & Budget                                    |
+| Gap-Analyse       | 10%                  | Geschäftsanalyse, ROI-Analyse, Projektphasen & Budget                                    |
 | Kick-Off          | 5%                   | Beteiligte mit Vorgehensmodell vertraut machen und Grundlagen schulen                    |
 | Implementierung   | 80%                  | Iterative Implementierungsschritte: Analyse, Umsetzung, Validierung, Super-User-Schulung |
 | Go-Live           | 5%                   | Benutzerschulung, Verbesserungen                                                         |
@@ -107,7 +107,7 @@ Die folgende Tabelle zeigt die Projektphasen und deren relativen Zeitbedarf.
 
 ![[Classic Project Journey.svg]]
 
-### ROI-Analyse
+### Gap-Analyse
 
 _Geschäftsanalyse, ROI-Analyse, Projektphasen & Budget_
 
@@ -127,7 +127,7 @@ Vertreter von Mint System treffen sich mit dem potentiellen Kunden und diskutier
 * Mapping zwischen Geschäftsanforderungen und Produktmerkmalen
 * Projektplan Makro
 * Budget
-* Proof-of-Concept (POC): Demo der wichtigsten Geschäftsabläufe
+* [[Proof of Concept]] (POC): Demo der wichtigsten Geschäftsabläufe
 
 ### Kick-Off
 
@@ -136,7 +136,7 @@ _Beteiligte mit Vorgehensmodell vertraut machen und Grundlagen schulen_
 **Ziele**
 
 * Der SPoC ist mit der Methodik vertraut und identifiziert sich mit den Projekt-Visionen
-* ROI-Analyse mit Machbarkeitsbeurteilung (falls noch nicht vorhanden)
+* Gap-Analyse mit Machbarkeitsbeurteilung (falls noch nicht vorhanden)
 * Projektplan Makro
 * Der SPoC ist motiviert und bereit, Zeit in das Erlernen von Odoo zu investieren
 

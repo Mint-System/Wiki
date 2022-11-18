@@ -2,11 +2,11 @@
 tags:
 - Prozess
 ---
-# Prozesse Akquise: Workshop ROI-Analyse
+# Prozesse Akquise: Workshop Gap-Analyse
 
 ## Workshop vorbereiten
 
-* Artikel [[Workshop ROI-Analyse]] lesen und aktualisieren.
+* Artikel [[Workshop Gap-Analyse]] lesen und aktualisieren.
 * Prozessdokumentation des Kunden einfordern.
 * Agenda für den Workshop definieren und dem Kunden zustellen.
 

@@ -1,4 +1,4 @@
-Chec---
+---
 tags:
 - Phasen
 ---
@@ -13,7 +13,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Projektmanagement]]
 * [[Phase Kick-Off]]
 * [[Phase Go-Live]]
-* [[Phase ROI-Analyse]]
+* [[Phase Gap-Analyse]]
 
 **Odoo-Umgebung**
 
