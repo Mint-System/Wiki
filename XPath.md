@@ -8,4 +8,4 @@ Documentation: <https://docs.python.org/3/library/xml.etree.elementtree.html#sup
 
 ## Tools
 
-Zum Testen der XPath-Selektoren: <xpather.com/>
+Zum Testen der XPath-Selektoren: <http://xpather.com>
