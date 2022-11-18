@@ -14,18 +14,22 @@ Issues with status *open*.
 
 Description of issue.
 
-**Problem**
+#### Problem
 
 What is the problem?
 
-**Cause**
+#### Cause
 
 What might cause the problem?
 
-**Solution**
+#### Solution
 
 How can it be resolved?
 
 Source: <http://example.com>
 
-## REsolved
+## Resolved
+
+Issues with status *resolved*.
+
+### Title of issue

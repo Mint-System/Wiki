@@ -14,15 +14,15 @@ Issues mit Status *Offen*.
 
 Beschreibung des Issues.
 
-**Problem**
+#### Problem
 
 Was ist das Problem?
 
-**Ursache**
+#### Ursache
 
 Wie ist das Problem entstanden?
 
-**Lösung**
+#### Lösung
 
 Wie Sie die Lösung aus?
 

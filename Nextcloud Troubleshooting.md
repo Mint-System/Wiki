@@ -4,10 +4,12 @@ tags:
 ---
 # Nextcloud Troubleshooting
 
-## On upgrade singleton not found
+## Troubleshooting
+
+### On upgrade singleton not found
 #Nextcloud20 
 
-**Problem**
+#### Problem
 
 During an update from Nextcloud 19 to 20 the following issue has been thrown.
 
@@ -16,7 +18,7 @@ Error: Class 'OCA\Mail\AppInfo\BootstrapSingleton' not found in /var/www/nextclo
 Stack trace:
 ```
 
-**Solution**
+#### Solution
 
 Manually repeate the upgrade and disable maintenance mode
 
@@ -28,11 +30,11 @@ docker exec --user www-data nextcloud02 php occ maintenance:mode --off
 ## Cannot install collabora server
 #Nextcloud20
 
-**Problem**
+#### Problem
 
 Installation from app store failed.
 
-**Solution**
+#### Solution
 
 Run a manual installation.
 
@@ -43,10 +45,24 @@ docker exec --user www-data nextcloud02 php -d memory_limit=512M occ app:remove 
 
 ### Sync client not autostarting
 
-**Problem**
+#### Problem
 
 On the Nextcloud sync client is not started automatically.
 
-**Solution**
+#### Solution
 
 Install *GNOME Tweaks* and add Nextcloud to the *Startup Applications*.
+
+### Cannot open document in OnlyOffice
+
+#### Problem
+
+This error occurs:
+
+```
+cURL error 3: (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for /hosting/discovery
+```
+
+#### Solution
+
+Remove "Office Online Integration" app.
