@@ -11,4 +11,4 @@ Tätigkeiten:
 * Erstellen neue Odoo-Umgebung und Upgrade der Datenbank
 * Ausführen von Testupgrades und prüfen Upgrade-Bericht
 
-Ergebnis: Odoo Upgrade auf eine neue Major-Version ist verfügbar.
+Ergebnis: Odoo ist auf einer neuen Major-Version verfügbar.

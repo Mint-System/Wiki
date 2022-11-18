@@ -2,7 +2,7 @@
 tags:
 - Definition
 ---
-# Odoo Entwicklung
+# Odoo Eigenentwicklung
 
 Odoo dient auch als Entwicklungsframework für Geschäftsapplikationen.
 

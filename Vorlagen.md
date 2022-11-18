@@ -23,3 +23,4 @@ tags:
 * [[Vorlage Prozesse Odoo]]
 * [[Vorlage Bericht zu Odoo Anpassungen.en]]
 * [[Vorlage Use Cases]]
+* [[Vorlage Odoo Upgrade Modules]]
