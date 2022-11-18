@@ -28,3 +28,7 @@ Bootrap Icons:
 | bi bi-circle         | ![[odoo_icon_circle.png]]  |
 | fas fa-truck         | ![[odoo_icon_truck.png]]   |
 | fa-usd                     |     ![[odoo_icon_dollar.png]]                       |
+
+## Other
+
+![[icon ean barcode.png]]
