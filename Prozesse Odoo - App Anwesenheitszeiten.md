@@ -10,3 +10,4 @@ Installation Modul Anwesenheitszeiten (hr_attendance)
 Auswahl:
 * Theoretical vs Attended Time Analysis `hr_attendance_report_theoretical_time`
 * HR Holidays Public `hr_holidays_public`
+* Zeitnachweise / Anwesenheitszeiten `hr_timesheet_attendance`
