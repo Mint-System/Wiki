@@ -44,7 +44,7 @@ docker exec -it $CONTAINER bin/bash
 Start Odoo Shell.  
 ```bash
 DATABASE=odoo14
-odoo shell -d $DATABASE --db_host $HOST -r $USER -w $PASSWORD
+odoo shell -d $DATABASE --db_host $HOST -r $USER -w $PASSWORD  --no-http
 ```
 
 Clear assets.  
@@ -59,6 +59,12 @@ Uninstall app.
 env['ir.module.module'].search([('name', '=', 'certificate_planer')]).button_immediate_uninstall()
 ```
 
+List all users.
+```python
+users=self.env['res.users'].search([])
+[print(user.name, user.login) for user in users]
+```
+
 List all inactive users.
 ```python
 users=self.env['res.users'].search([('active', '=', False)])
@@ -70,6 +76,13 @@ Enable user.
 ```python
 user = self.env['res.users'].search([('active', '=', False),('login', '=', 'janik.vonrotz@mint-system.ch')])
 user.active = True
+self.env.cr.commit()
+```
+
+Reset passwort for user.
+```python
+user = self.env['res.users'].search([('login', '=', 'admin')], limit=1)
+user.write({'new_password': 'admin'})
 self.env.cr.commit()
 ```
 

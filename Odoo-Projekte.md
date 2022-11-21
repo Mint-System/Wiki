@@ -25,7 +25,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Odoo Upgrade]]
 * [[Phase Terminal Zeiterfassung]]
 * [[Phase Odoo Berichte]]
-* [[Phase Odoo Migration]]
+* [[Phase Odoo Transfer]]
 
 **Odoo Apps**
 

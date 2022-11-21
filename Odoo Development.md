@@ -54,9 +54,9 @@ Navigate to `/usr/lib/python3/dist-packages/odoo/addons/` and edit source files.
 
 Navigate to *Settings > Technical > System Parameters* and update the expiration date for the database.
 
-### Odoo Migration
+### Odoo Transfer
 
-See the [[Odoo Migration - Worklog]]
+See the [[Odoo Transfer - Worklog]]
 
 ### Datenbankmanager deaktivieren
 
