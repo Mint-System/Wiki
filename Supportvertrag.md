@@ -43,7 +43,7 @@ Mit dem *MINT+* Supportvertrag erhalten Sie:
 * eine Antwort innerhalb von 4h
 
 Ihre Kontaktmöglichkeiten:
-* Bestehende Möglichkeiten aus Basis- und Mintvertrag
+* Bestehende Möglichkeiten aus Basis- und MINT-Vertrag
 * Anruf auf Nummer des Betreuers
 
 Supportguthaben pro Monat: 4h
