@@ -23,4 +23,4 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Terminal verpacken
 * Anleitung zum Einrichten beilegen
-* Paket mit Tracking versenden 
+* Paket mit Tracking versenden
