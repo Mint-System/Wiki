@@ -27,8 +27,8 @@ Mit dem *MINT* Supportvertrag erhalten Sie:
 * eine Antwort innerhalb von 24h
 
 Ihre Kontaktmöglichkeiten:
-* Bestehende Möglichkeiten aus Basisvertrag
 * Anruf auf Supportnummer [+41 44 244 72 24](tel:+41442447224)
+* Bestehende Möglichkeiten aus Basisvertrag
 
 Supportguthaben pro Monat: 2h
 
@@ -43,8 +43,8 @@ Mit dem *MINT+* Supportvertrag erhalten Sie:
 * eine Antwort innerhalb von 4h
 
 Ihre Kontaktmöglichkeiten:
-* Bestehende Möglichkeiten aus Basis- und MINT-Vertrag
 * Anruf auf Nummer des Betreuers
+* Bestehende Möglichkeiten aus Basis- und MINT-Vertrag
 
 Supportguthaben pro Monat: 4h
 
