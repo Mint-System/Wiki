@@ -26,6 +26,7 @@ Die folgenden Hauptaufgaben sind definiert.
 * **Know-how (KH)** - Erarbeiten Basiswissen zur Beratung von Kunden [[Emoji#🔵]]
 * **Reisezeit (RZ)** - Fahrzeit zum Kunden [[Emoji#🟡]]
 * **Arbeitspkaket (APN)** - Aufgabenbündel mit Nummer N [[Emoji#🟡]]
+* **Support (SP)** - Aufgabe für Aufwände gemäss Supportvertrag [[Emoji#🟢]]
 
 ### Organisatorisch
 
