@@ -7,6 +7,8 @@ tags:
 
 # Supportvertrag
 
+Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt für Fragen und Probleme zu Odoo. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Odoo Expertenwissen.
+
 ## Basis
 
 Der Basisvertrag ist in unseren Hosting-Angeboten enthalten.
@@ -19,7 +21,7 @@ Kosten pro Jahr: 0 CHF
 
 ## Mint
 
-Mit dem Mint-Supportvertrag erhalten Sie:
+Mit dem *Mint* Supportvertrag erhalten Sie:
 * Zugriff auf die Supportnummer
 * ein monatliches Guthaben
 * eine Antwort innerhalb von 24h
@@ -35,7 +37,7 @@ Kosten pro Jahr: 720 CHF
 
 ## Mint+
 
-Mit dem Mint-Supportvertrag erhalten Sie:
+Mit dem *Mint+* Supportvertrag erhalten Sie:
 * Zugriff auf die direkten Nummer ihres Betreuers
 * ein monatliches Guthaben
 * eine Antwort innerhalb von 4h
