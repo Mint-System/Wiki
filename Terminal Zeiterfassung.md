@@ -15,7 +15,7 @@ Wir setzen auf Open Source Hardware.  Heisst alle Komponenten des Terminals werd
 
 Die Mint System übernimmt die Montage vor Ort und unterstützt den Kunden bei der Konfiguration oder allfälligen Problemen. 
 
-## Hardware
+## Stückliste
 
 Als Terminal verwenden wir einen [[Raspberry Pi]] mit einem RFID-Scanner.
 
