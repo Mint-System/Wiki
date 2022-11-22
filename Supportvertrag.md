@@ -19,9 +19,9 @@ Ihre Kontaktmöglichkeiten:
 
 Kosten pro Jahr: 0 CHF
 
-## Mint
+## MINT
 
-Mit dem *Mint* Supportvertrag erhalten Sie:
+Mit dem *MINT* Supportvertrag erhalten Sie:
 * Zugriff auf die Supportnummer
 * ein monatliches Guthaben
 * eine Antwort innerhalb von 24h
@@ -35,9 +35,9 @@ Supportguthaben pro Monat: 2h
 Kosten pro Jahr: 720 CHF  
 *Kosten pro Monat: 60 CHF*
 
-## Mint+
+## MINT+
 
-Mit dem *Mint+* Supportvertrag erhalten Sie:
+Mit dem *MINT+* Supportvertrag erhalten Sie:
 * Zugriff auf die direkten Nummer ihres Betreuers
 * ein monatliches Guthaben
 * eine Antwort innerhalb von 4h
