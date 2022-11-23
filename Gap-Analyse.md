@@ -22,11 +22,11 @@ Der Projektleiter liefert:
 
 Die Gap-Analyse gliedert sich in die folgenden Phasen:
 
-1.  Treffen mit den Beteiligten, Definition der Ziele, Motivationen und Risiken
-2.  Treffen mit den Key-Usern pro Abteilung
+1. Treffen mit den Beteiligten, Definition der Ziele, Motivationen und Risiken
+2. Treffen mit den Key-Usern pro Abteilung
     - Kennenlernen der aktuellen Situation
     - Erkennen von möglichen Zeiteinsparungen und Schwierigkeiten
     - Definition des Handlungsbedarf
-3.  Dokumentation der Gap-Analyse & Phaseneinteilung
-4.  Peer-Review durch Odoo-Experten und Entwickler zur Beurteilung der vorgeschlagenen Lösungen
-5.  Präsentation der Ergebnisse gegenüber dem Kunden
+3. Dokumentation der Gap-Analyse & Phaseneinteilung
+4. Peer-Review durch Odoo-Experten und Entwickler zur Beurteilung der vorgeschlagenen Lösungen
+5. Präsentation der Ergebnisse gegenüber dem Kunden
