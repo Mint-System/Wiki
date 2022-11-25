@@ -24,7 +24,7 @@ Kosten pro Jahr: 0 CHF
 Mit dem MINT Supportvertrag erhalten Sie:
 * Zugriff auf die Supportnummer
 * eine Antwort innerhalb von 24h
-* Verrechnung zu reduziertem Tarif
+* Supportleistungen zu reduziertem Tarif
 
 Ihre Kontaktmöglichkeiten:
 * Anruf auf Supportnummer [+41 44 244 72 24](tel:+41442447224)
@@ -39,6 +39,7 @@ Mit dem MINT+ Supportvertrag erhalten Sie:
 * Zugriff auf die direkte Nummer des Betreuers
 * ein monatliches Guthaben von 1h
 * eine Antwort innerhalb von 4h
+* Supportleistungen zu reduziertem Tarif
 
 Ihre Kontaktmöglichkeiten:
 * Anruf auf Nummer des Betreuers
