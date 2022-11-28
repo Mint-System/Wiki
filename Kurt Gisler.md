@@ -3,9 +3,11 @@ tags:
 - Definition
 ---
 # Kurt Gisler
-Verantwortlich: [[Unternehmensentwicklung]]  
-Benutzername: `kurtgisler`  
-Alias: `kgi`
+
+Verantwortlich: [[Unternehmensentwicklung]]
+
+Benutzername: `kurtgisler`\
+Alias: `kgi`\
 Other mail: info@mint-system.ch
 
 ## CV
