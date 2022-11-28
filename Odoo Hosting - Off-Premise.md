@@ -26,10 +26,10 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 
 ### Zugriff
 
-**DNS**: Der Server soll unter einem Hostname, beispielsweise `odoo.example.com`, erreichbar sein.  
-**Extern**: Der muss muss von Extern erreichbar sein.  
-**SSH**: Der Remote-Zugriff erfolgt über SSH. Der entsprechende Port (Standard 22) muss freigeschaltet sein. Mehr dazu unter [[SSH-Zugriff]].
-**Repositories**: Zur Installation von Software kann der Server auf externe Repositories der jeweiligen Linux-Distribution zugreifen.  
+**DNS**: Der Server soll unter einem Hostname, beispielsweise `odoo.example.com`, erreichbar sein.\
+**Extern**: Der muss muss von Extern erreichbar sein.\
+**SSH**: Der Remote-Zugriff erfolgt über SSH. Der entsprechende Port (Standard ist 22) muss freigeschaltet sein. Mehr dazu unter [[SSH-Zugriff]].\
+**Repositories**: Zur Installation von Software kann der Server auf externe Repositories der jeweiligen Linux-Distribution zugreifen.
 
 ### Integration
 
