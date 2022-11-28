@@ -14,10 +14,10 @@ In Prosa wird die Sicht des Kunden formuliert. Als erstes wird die IST-Situation
 
 Verantwortlich: [[Rollen#Projektleiter]]
 
-Die Spezifikation enthält Anweisung zur Reproduktion des Problems. Dazu ein Beispiel:
+Die Spezifikation enthält Anweisung zur Reproduktion des Problems oder Ausführung der neuen Funktion. Dazu ein Beispiel:
 
 ```
-Reproduktion:
+Arbeitsschritte:
 
 1. Zweistufige Fertigung auf Lagerort einschalten
 2. Produkt "A" (Storable Product) mit Strückliste anlegen
