@@ -29,7 +29,7 @@ Mit dem MINT Supportvertrag erhalten Sie zusätzlich:
 
 Ihre Kontaktmöglichkeiten:
 * Anruf auf Supportnummer [+41 44 244 72 24](tel:+41442447224)
-* E-Mail an <mailto:projektname@mint-system.ch>
+* E-Mail an [projektname@mint-system.ch](mailto:projektname@mint-system.ch)
 * Bestehende Möglichkeiten aus Basisvertrag
 
 Kosten pro Jahr: 960 CHF \
