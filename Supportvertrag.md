@@ -21,13 +21,15 @@ Kosten pro Jahr: 0 CHF
 
 ## MINT
 
-Mit dem MINT Supportvertrag erhalten Sie:
+Mit dem MINT Supportvertrag erhalten Sie zusätzlich:
 * Zugriff auf die Supportnummer
+* eine exklusive E-Mail-Adresse für ihr Projekt
 * eine Antwort innerhalb von 24h
 * Supportleistungen zu reduziertem Tarif
 
 Ihre Kontaktmöglichkeiten:
 * Anruf auf Supportnummer [+41 44 244 72 24](tel:+41442447224)
+* E-Mail an <mailto:projektname@mint-system.ch>
 * Bestehende Möglichkeiten aus Basisvertrag
 
 Kosten pro Jahr: 960 CHF \
@@ -35,11 +37,10 @@ Kosten pro Jahr: 960 CHF \
 
 ## MINT+
 
-Mit dem MINT+ Supportvertrag erhalten Sie:
+Mit dem MINT+ Supportvertrag erhalten Sie zusätzlich:
 * Zugriff auf die direkte Nummer des Betreuers
 * ein monatliches Guthaben von 1h
 * eine Antwort innerhalb von 4h
-* Supportleistungen zu reduziertem Tarif
 
 Ihre Kontaktmöglichkeiten:
 * Anruf auf Nummer des Betreuers

@@ -109,6 +109,9 @@ Unter Einhalt der Kündigungsfrist von einem Monat kann der Hosting-Vertrag auf 
 Abrechnung Fixpreis:  
 Die Abrechnung der offerierten Leistungen erfolgt einmalig.
 
+Abrechnung Periode:  
+Die Abrechnung der offerierten Leistungen erfolgt im Voraus gemäss Periode.
+
 Kostendach:  
 Der Kostendachpreis ist der maximale Preis, den der Kunde für die im Angebot vereinbarte Leistung bezahlen muss. Es versteht sich, dass das Kostendach bei Projektänderungen angepasst werden muss.
 
