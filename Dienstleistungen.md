@@ -82,6 +82,6 @@ Preis: 160 CHF pro Stunde
 Umfasst diese Leistungen:
 * Schulung von Anwendern
 * Unterstützung bei Ausfällen
-* Beanwortung fachliche Fragestellungen
+* Beantwortung fachliche Fragestellungen
 
 Preis: 140 CHF pro Stunde
