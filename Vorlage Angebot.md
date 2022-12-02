@@ -85,7 +85,7 @@ Allgemeine Bestimmungen:
 Es gelten die Mint System [[AGBs Entwicklungsprojekt|AGBs]] Version 1.18, welche in einem separaten PDF angehängt werden.
 
 Änderungen:
-Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostentotal abgedeckt sind, wird der Kunde seitens Auftragnehmer frühzeitig informiert.
+Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostendach abgedeckt sind, wird der Kunde seitens Auftragnehmer frühzeitig informiert.
 
 Änderungen:
 Zeichnen sich im Laufe der Projektarbeit Änderungen ab welche nicht Bestandteil des Angebots sind, wird der Kunde von Mint System zeitnah informiert.
@@ -109,7 +109,7 @@ Unter Einhalt der Kündigungsfrist von einem Monat kann der Hosting-Vertrag auf 
 Abrechnung Fixpreis:  
 Die Abrechnung der offerierten Leistungen erfolgt einmalig.
 
-Abrechnung Periode:  
+Abrechnung nach Periode:  
 Die Abrechnung der offerierten Leistungen erfolgt im Voraus gemäss Periode.
 
 Kostendach:  
@@ -126,5 +126,5 @@ Reisezeit und Kilometer werden pauschal zu CHF verrechnet.
 Keine Spesen:  
 Für die Projektarbeit und Reisezeit werden keine Spesen verrechnet.
 
-Reisepesen Pauschal:  
+Reisespesen Pauschal:  
 Für die Reisezeit und -kosten (Altdorf - Zürich) verrechnen wir Pauschal je Ereignis CHF 250.00. Weitere Spesen werden nach Aufwand verrechnet.
