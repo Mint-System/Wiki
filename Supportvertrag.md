@@ -43,7 +43,7 @@ Ihre Kontaktmöglichkeiten:
 * Anruf auf Supportnummer [+41 44 244 72 24](tel:+41442447224)
 * Bestehende Möglichkeiten aus Basisvertrag
 
-Kosten pro Jahr: 960 CHF \
+Kosten pro Jahr: 960 CHF\
 *Kosten pro Monat: 80 CHF*
 
 ## MINT+
@@ -59,3 +59,11 @@ Ihre Kontaktmöglichkeiten:
 
 Kosten pro Jahr: 1920 CHF\
 *Kosten pro Monat: 160 CHF*
+
+## Allgemeine Geschäftsbedingungen
+
+Es gelten diese allgemeinen Geschäftsbedingungen:
+* Die Vertragslaufzeit beträgt standardmässig 1 Jahr.
+* Der Supportvertrag kann auf Ende Monat gekündet werden.
+* Bei Kündigung des Supportvertrags werden die Kosten anteilsmässig zurückerstattet.
+* Das monatliche Guthaben für Supportstunden kann nicht kumuliert werden.
