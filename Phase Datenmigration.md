@@ -27,11 +27,6 @@ Ergebnis: Vorgang für Datenexport ist bekannt und Strategie Datenmigration ist 
 - Haben die Objekte eine externe ID?
 - In welchem Format können die Daten exportiert werden?
 
-### Todos
-
-- Beispiel-Export einfordern
-- Übersicht Stamm- und Transaktionsdaten erstellen
-
 ## Strategie Datenmigration definieren
 
 **Prozess**
@@ -39,8 +34,3 @@ Ergebnis: Vorgang für Datenexport ist bekannt und Strategie Datenmigration ist 
 - Müssen Datensätze zusammengeführt werden?
 - Wie hoch ist die Datenqualität?
 - Muss eine externe ID generiert werden?
-
-### Todos
-
-- Vorlage Datenmigration definieren
-- Vorgehen für Datenmigration festhalten

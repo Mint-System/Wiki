@@ -42,8 +42,3 @@ Ergebnis: Alle Daten zum Verkaufen sind bereit.
 
 - Wird die Funktion *Online Signature* verwendet?
 - Soll ein automatisches Bestätigungs-eMail ausgelöst werden?
-
-### Todos
-
-- Preisregeln progammieren
-- Steuern konfigurieren

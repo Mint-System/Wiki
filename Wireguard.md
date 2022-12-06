@@ -6,4 +6,5 @@ tags:
 
 Website: <https://www.wireguard.com/>
 
-[[innernet]] basiert auf Wireguard.
+Unser [[Innernet]] basiert auf Wireguard.
+

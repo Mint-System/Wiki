@@ -56,14 +56,6 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 - Welches ist die Referenzenheit pro Produkt?
 
-### Todos
-
--  Produkte konfigurieren
--  Produktfelder programmieren
--  Produkte importieren
--  Produktimport prüfen
-
-
 ## Produkte einrichten (Stufe 2)
 
 **Produktkategorie**

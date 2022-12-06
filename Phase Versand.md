@@ -28,8 +28,3 @@ Ergebnis: Die Schnittstelle zu den Lieferfirmen ist etabliert
 
 - Ist die Zuordnung einer Zolltarifnummer gefordert?
 - Muss beim Warenausgang ein expliziter Hinweis zur Prüfung der Zolltarifnummer erscheinen?
-
-### Todos
-
-- Projektaufgabe *Versand konfigurieren*
-- Projektaufgabe *App product_logistics_uom installieren* (Set config product_default_length_uom_id = 10)

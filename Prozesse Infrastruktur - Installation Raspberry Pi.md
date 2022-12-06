@@ -5,7 +5,25 @@ tags:
 # Prozesse Infrastruktur:  Installation Raspberry Pi
 Bereitstellung Raspberry Pi.
 
-## Gerät registrieren
+## SSH-Zugriff einrichten
+
+Arbeitsschritte:
+* Auf Raspberry Pi einloggen
+* Den SSH-Dienst start `sudo systemctl enable ssh`
+* Die aktuelle IP-Adresse anzeigen`ifconfig`
+* Mit SSH zugreifen `ssh admin@ip-address`
+
+## Gerät mit Tailscale einrichten
+
+Arbeitsschritte:
+* Tailscale installieren `sudo apt-get install tailscale`
+* Backend starten `sudo systemctl status tailscaled`
+* In Backend einloggen `sudo tailscale login`
+* Den Einladungs-Link im Browser öffnen
+* Mit GitHub-Account einloggen
+* Beim Zugriff unbedingt die Orgnisation *Mint System* verwenden
+
+## Gerät mit JFrog Connect verbinden
 
 Arbeitsschritte:
 * Auf Raspberry Pi das Terminal öffnen

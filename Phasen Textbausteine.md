@@ -52,7 +52,7 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 [[Phase Personal|Phase X: Personal]]
 
-[[Phase An- und Abwesenheitszeiten|Phase X: An- und Abwesenheitszeiten]]
+[[Phase Abwesenheit|Phase X: An- und Abwesenheitszeiten]]
 
 [[Phase Terminal Zeiterfassung|Phase X: Terminal Zeiterfassung]]
 

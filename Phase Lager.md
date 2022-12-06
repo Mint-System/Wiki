@@ -24,12 +24,6 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 - Gibt es mehrere Lager? ⭐
 - Wie heissen die Lager?
 
-### Todos
-
-**Konfiguration**
-
-- Lager konfigurieren
-
 ## Lagerorte einrichten
 
 **Einrichtungs-Schema**
@@ -59,12 +53,6 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 - An welchen Lagerort wird Ausschuss transferiert?
 
-### Todos
-
-**Konfiguration**
-
-- Lagerorte einrichten
-
 ## Lager-Routen definieren
 
 **Anzahl Schritte für Wareneingang**
@@ -77,7 +65,6 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 - Wie wird Material für den Produktionsprozess bereitgestellt?
 
- 
  **Anzahl Schritte für ausgehende Lieferungen**
  
  [Erklärung im Wiki](https://www.odoo-wiki.org/best-practice-lager-konfigurieren.html#standard-routen-fur-lieferungen)
@@ -119,30 +106,9 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 - Müssen Gefahrenstoffe auf einer spezfischen Lagerliste sichtbar sein?
 
-
-### Todos
-
-**Konfiguration**
-
-- Lager-Routen konfigurieren
-
-**Testen**
-
-- [[Prozesse Odoo - App Lager#Lager-Routen testen]]
-
-**Validierung**
-
-- [[Prozesse Odoo - App Lager#Lager-Routen validieren]]
-
 ## Mobile-Apps in Betrieb nehmen
 
 - Welche App wird eingesetzt?
-
-### Todos
-
-**Konfiguration**
-
-- Mobile-App konfigurieren
 
 ## Material mit Ablaufdatum definieren
 

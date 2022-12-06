@@ -25,7 +25,6 @@ Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 
 - Wird eine Funktionsmatrix geführt? ⭐
 
-
 **Kompetenzen**
 
 - Wird eine Kompetenzmatrix erstellt?
@@ -33,7 +32,6 @@ Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 **Autorisierung**
 
 - Werden Ausweise für die persönliche Ermächtigung erstellt?
-
 
 ## Onboarding definieren
 
@@ -45,7 +43,6 @@ Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 **Konfiguration**
 
 - Wie ist die Struktur der Arbeitsverträge?
-
 
 ## Personalentwicklung
 
@@ -59,7 +56,6 @@ Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 - Wie werden Mitarbeitergespräche festgehalten?
 - Wie werden Ziele für die Mitarbeitenden festgehalten?
 
-
 ## Weiterbildung planen und dokumentieren
 
 **Planung, Durchführung, Nachweise**
@@ -67,7 +63,6 @@ Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 - Gibt es Weiterbildungsprogramme für Mitarbeitende?  ⭐
 - Führen Sie interne Schlungen durch?
 - Werden Schulungsnachweise erstellt und abgelegt?
-
 
 ## Wiederholungskurse planen
 

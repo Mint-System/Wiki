@@ -41,7 +41,6 @@ Ergebnis: Alle Daten zum Einkaufen der Produkte sind bereit.
 - Gilt für Lieferanten ein spezielles Freigabeverfahren (zum Beispiel Lieferanten für Luftfahrtprodukte)? ⭐
 - Müssen Lieferanten gesperrt werden können? ⭐
 
-
 **Messgrössen**
 
 - Werden neben der On Time Delivery weitere Messgrössen gefordert? ⭐
@@ -52,11 +51,7 @@ Ergebnis: Alle Daten zum Einkaufen der Produkte sind bereit.
 
 
 ## Eingangsprüfung definieren
+
 **Qualitätssicherung**
 
 - Werden bestimmte Arten von Prüfungen unterschieden? ⭐
-
-
-### Todos
-
-- Lieferanten-Preisliste importieren

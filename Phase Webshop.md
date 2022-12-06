@@ -23,7 +23,7 @@ Ergebnis: Es sind Produkte im Webshop bestellbar.
 
 **Existierende Logins**
 
--  Sollen bestehende Kunden-Registration übernommen werden?
+-  Sollen bestehende Kunden-Registration übernommen werden? ⭐
 
 ## Webshop gliedern
 
@@ -34,7 +34,7 @@ Ergebnis: Es sind Produkte im Webshop bestellbar.
 
 **Weiterleitung**
 
-- Wie ist die Weiterleitung von der aktuellen Website auf den neuen Webshop?
+- Wie ist die Weiterleitung von der aktuellen Website auf den neuen Webshop? ⭐
 
 **Produkte anzeigen**
 
@@ -43,7 +43,7 @@ Ergebnis: Es sind Produkte im Webshop bestellbar.
 **Aktionen**
 
 - Wie und wo werden Aktionen dargestellt? Mit einem Banner?
-- Wie werden Promotion angezeigt
+- Wie werden Promotion angezeigt?
 
 **Footer**
 
@@ -54,3 +54,11 @@ Ergebnis: Es sind Produkte im Webshop bestellbar.
 **Abschluss**
 
 Was soll für ein Bild/Page nach der Bestellung angezeigt werden? Zum Beispiel das Team mit einem Dankeschön?
+
+## Bestellung bezahlen
+
+**Zahlungssysteme**
+
+* Mit welchen Zahlungsmittel können Kunden die Bestellung bezahlen?
+* Werden Bestellungen als bezahlt markiert?
+* Welchen Zahlungs-Provider verwenden Sie? ⭐

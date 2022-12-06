@@ -12,6 +12,7 @@ Beispiel: [[Phase Webshop]]
 Eine Phase ist wie folgt gegliedert:
 
 * Überschrift 1: PHASENNAME
+	* Tätigkeiten mit Resulat
 	* Überschrift 2: AUFGABENNAME
 		* **Abschnitt**
 		* Frage

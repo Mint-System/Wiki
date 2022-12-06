@@ -29,10 +29,6 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen Sie fr
 
 - Wie sind die Arbeitsplätze codiert?
 
-### Todos
-
-- Projektaufgabe *Arbeitsplätze importieren*
-
 ## Stücklisten einrichten
 
 **Schema für Stücklisten**
@@ -76,32 +72,14 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen Sie fr
 
 - Welche Option wird für Flexible Consumption verwendet?
 
-### Todos
-
-- Stücklisten konfigurieren
-- Vorgänge importieren
-
 ## Fertigungsaufträge einrichten
 
 **Sequenzen**
 
--   Gibt es für die Bezeichnung der Sequenzen spezielle Anforderungen?
-
-### Todos
-
-- Fertigungsaufträge konfigurieren
+- Gibt es für die Bezeichnung der Sequenzen spezielle Anforderungen?
 
 ## Fertigungs-Routen einrichten
 
 **Manufacture**
 
 - In welchen Schritten wird produziert? ⭐
-
-
-### Todos
-
-- Doku-Mmgt von Mint System installieren
-- Doku-Mmgt von Mint System testen
-
-
-

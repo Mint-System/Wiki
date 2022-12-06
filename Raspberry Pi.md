@@ -8,6 +8,8 @@ tags:
 
 Der Raspeberry Pi kann mit [[dataplicity]] verwaltet werden.
 
+Oder mit [[Wireguard]] verbunden werden.
+
 ## Hardware
 
 ### 7" Touchscreen
