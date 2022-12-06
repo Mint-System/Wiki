@@ -17,7 +17,7 @@ Ergebnis: Mitarbeitende können ihr Anwesenheit erfassen.
 
 **Arbeitszeitmodelle**
 
-* Welche Arbeitszeitmodelle haben Sie im Einsatz?
+* Welche Arbeitszeitmodelle haben Sie im Einsatz? ⭐
 * Haben Sie Mitarbeitende im Stundenlohn?
 
 ## Berichte anzeigen

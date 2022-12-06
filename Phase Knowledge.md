@@ -13,6 +13,27 @@ Tätigkeiten:
 
 Ergebnis: Mitarbeitende können Wissensartikel erfassen.
 
-## Arbeitsbereiche definieren
+## Arbeitsweise definieren
 
+**Organisation**
+
+* Wie organisieren Sie strukturiertes und unstrukturiertes Wissen im Unternehmen?
+* Wie erfolgt der Wissenstransfer zwischen Mitarbeitenden?
+
+**Anleitungen**
+
+* Erstellen Sie zu ihren Produkte Anleitungen? ⭐
+* Wie dokumentieren Sie die Lösung zu Problemfällen? 
+
+**Prozesse**
+
+* Wie werden Prozesse im Unternehmen dokumentiert?
+
+**Wiki**
+
+* Haben Sie eine Wiki-Plattform im Einsatz? ⭐
+
+**Suche**
+
+* Können Mitarbeitende eine Wissensdatenbank durchsuchen?
 
