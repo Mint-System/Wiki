@@ -6,10 +6,13 @@ tags:
 
 Tätigkeiten:
 
-* Abwesenheitstypen festlegen
-* Importieren Feiertagskalender
-* Prüfung des Genehmigungsprozesses
-* PIN-Code und Kartennummer hinterlegen
-* Installation Terminal Zeiterfassung
+* Ordnerstruktur für Artikel erstellen
+* Initiale Artikel festlegen
+* Nachrichten-Vorlagen bereitstellen
+* Zugriff auf Arbeitsbereiche konfigurieren
 
-Ergebnis: Mitarbeitende können ihre An- und Abwesenheitszeiten registrieren.
+Ergebnis: Mitarbeitende können Wissensartikel erfassen.
+
+## Arbeitsbereiche definieren
+
+
