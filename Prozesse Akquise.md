@@ -23,6 +23,6 @@ graph LR;
 * [[Prozesse Akquise - Anforderungsanalyse]]
 * [[Prozesse Akquise - Analyse Odoo Customization]]
 * [[Prozesse Akquise - Odoo Testumgebung erstellen]]
+* [[Prozesse Akquise - Workshop Gap-Analyse]]
 * [[Prozesse Akquise - Angebot erstellen]]
 * [[Prozesse Akquise - Konzept erstellen]]
-* [[Prozesse Akquise - Workshop Gap-Analyse]]
