@@ -5,7 +5,11 @@ tags:
 # Vorlage Konzept
 Übersetzung: [[Vorlage Konzept.en]]
 
-## Konzept $TITEL
+<img src="https://www.mint-system.ch/theme_mint_system/static/img/logo.svg" width="200" />
+
+## Konzept Unternehmensname
+
+> Untertitel
 
 Datum: DD.MM.YYYY\
 Author: Janik von Rotz

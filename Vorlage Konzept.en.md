@@ -5,6 +5,10 @@ tags:
 
 # Template Concept
 
+<img src="https://www.mint-system.ch/theme_mint_system/static/img/logo.svg" width="200" />
+
+# Concept $TITLE
+
 Headings:
 
 * Introduction
