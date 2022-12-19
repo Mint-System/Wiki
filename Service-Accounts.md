@@ -9,3 +9,4 @@ Es existieren die folgenden Service-Accounts:
 * [[odoo@mint-system.ch]]
 * [[bot@digital-cluster-uri.ch]]
 * [[bot@lightwing.ch]]
+* [[test@mint-system.ch]]

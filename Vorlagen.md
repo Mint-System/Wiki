@@ -25,3 +25,4 @@ tags:
 * [[Vorlage Use Cases]]
 * [[Vorlage Odoo Upgrade Modules]]
 * [[Vorlage Gap-Analyse]]
+* [[Vorlage Cashflow]]

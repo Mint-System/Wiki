@@ -24,8 +24,9 @@ Author: Janik von Rotz
 	* Aktivitäten
 * Ergebnisse
 	* IST-Situation
-		* Risiken
-		* Kosten
+		* System-kritische Punkte
+		* Unternehmerische Risken
+		* Administrationsaufwand
 	* SOLL-Situation
 		* Chancen
 	* Prozesse

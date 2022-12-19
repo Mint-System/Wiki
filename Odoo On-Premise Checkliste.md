@@ -96,8 +96,6 @@ Der eingehende Email-Server ist konfiguriert
 3 Email  
 Für den Email Account sind die nötigen Aliase konfiguriert
 
-[Infomaniak odoo@mint-system.ch](https://manager.infomaniak.com/v3/317103/mailbox-settings/469398/alias?mailbox=odoo&orig=hm)
-
 4 Localization  
 Es ist nur eine System-Sprache konfiguriert
 
