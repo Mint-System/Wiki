@@ -24,3 +24,13 @@ Arbeitsschritte:
 * Terminal verpacken
 * Anleitung zum Einrichten beilegen
 * Paket mit Tracking versenden
+
+Username: pi
+Password: raspberry
+
+
+![[Pasted image 20221219214423.png]]
+
+![[Pasted image 20221219214638.png]]
+
+![[Pasted image 20221219214756.png]]
