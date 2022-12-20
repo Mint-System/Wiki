@@ -45,6 +45,12 @@ odoo-backup -d $DATABASE ...
 odoo-restore -f ...
 ```
 
+* Remove unsupported modules
+
+```
+task remove-module ...
+```
+
 * Run the upgrade script with option `test`.
 
 ```bash
@@ -56,11 +62,10 @@ odoo-upgrade $MODE -d $DATABASE -t 15.0
 ```bash
 task checkout 15.0
 task start db,native
-NEW_DATABASE=erp_test_15.0_2022_04_18_09_20
+NEW_DATABASE=erp_test_15.0_YYYY_MM_DD_HH_SS
 ```
 
 * Open <http://localhost:8069/web/database/manager> to access new db
-* Test and remove unsupported modules
 * Install new modules
 
 ```bash

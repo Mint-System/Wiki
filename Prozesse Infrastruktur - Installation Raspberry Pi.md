@@ -5,13 +5,24 @@ tags:
 # Prozesse Infrastruktur:  Installation Raspberry Pi
 Bereitstellung Raspberry Pi.
 
-## SSH-Zugriff einrichten
+### SSH-Zugriff via GUI einrichten
+
+Arbeitsschritte:
+* Auf Rraspberry Pi einloggen
+* "Raspberry Pi Confiugration" starten
+* Im Tab *Interfaces* die Option *SSH* aktivieren
+* Mit *Ok* den Vorgang bestätigen
+* Terminal starten und `ifconfig` eingeben
+* Mit SSH zugreifen `ssh pi@ip-address`
+
+## SSH-Zugriff via Terminal einrichten
 
 Arbeitsschritte:
 * Auf Raspberry Pi einloggen
-* Den SSH-Dienst start `sudo systemctl enable ssh`
-* Die aktuelle IP-Adresse anzeigen`ifconfig`
-* Mit SSH zugreifen `ssh admin@ip-address`
+* Terminal starten
+* Den SSH-Dienst starten `sudo systemctl enable ssh`
+* Die aktuelle IP-Adresse anzeigen `ifconfig`
+* Mit SSH zugreifen `ssh pi@ip-address`
 
 ## Gerät mit Tailscale einrichten
 
