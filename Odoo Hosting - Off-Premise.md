@@ -36,7 +36,7 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 **Login**: Wenn Benutzer sich über [LDAP](https://www.odoo.com/documentation/user/14.0/general/auth/ldap.html) oder [[OAuth]] in Odoo einloggen, müssen die entsprechenden Authentisierungs-Endpunkte erreichbar sein.  
 **E-Mail**: Odoo verschickt Mails zur Benachrichtigungen. Dazu ist eine SMTP-Verbindung (Port 587) und eine IMAP-Verbindung (Port 993) zu einem Mail-Account der Organisation notwendig.  
 **HTTPS**: Die Odoo Webapplikation soll unter HTTPS (Port 443) erreichbar sein. Dazu müssen die notwendigen Zertifikate bereitgestellt werden.
-**HTTP**: Falls die Zertifkate mit [[Let's Encrypt]] erstellt werden, muss der Server mit HTTP (Port 80) erreichbar sein.
+**HTTP**: Falls die Zertifkate mit [[Let's Encrypt]] erstellt werden, muss der Server mit [HTTP (Port 80) erreichbar](https://letsencrypt.org/docs/allow-port-80/) sein.
 
 ## Best Practice
 
