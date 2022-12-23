@@ -5,24 +5,27 @@ tags:
 
 # Vorlagen
 
-* [[Vorlage Angebot]]
-* [[Vorlage Konzept]]
-* [[Vorlage Anforderungsanalyse]]
-* [[Vorlage Technische Spezifikation]]
-* [[Vorlage Aufwandsschätzung]]
-* [[Vorlage Phase]]
-* [[Vorlage Troubleshooting]]
-* [[Vorlage Datenmigration]]
-* [[Vorlage Meeting]]
-* [[Vorlage Test Cases]]
-* [[Vorlage Worklog]]
-* [[Vorlage Issues]]
-* [[Vorlage Anforderungen]]
-* [[Vorlage Minor Improvements.en]]
-* [[Vorlage Bugs]]
-* [[Vorlage Prozesse Odoo]]
-* [[Vorlage Bericht zu Odoo Anpassungen.en]]
-* [[Vorlage Use Cases]]
-* [[Vorlage Odoo Upgrade Modules]]
-* [[Vorlage Gap-Analyse]]
-* [[Vorlage Cashflow]]
+| Name                                       |
+| ------------------------------------------ |
+| [[Vorlage Anforderungen]]                  |
+| [[Vorlage Anforderungsanalyse]]            |
+| [[Vorlage Angebot]]                        |
+| [[Vorlage Aufwandsschätzung]]              |
+| [[Vorlage Bericht zu Odoo Anpassungen.en]] |
+| [[Vorlage Bugs]]                           |
+| [[Vorlage Cashflow]]                       |
+| [[Vorlage Datenmigration]]                 |
+| [[Vorlage Gap-Analyse]]                    |
+| [[Vorlage Issues]]                         |
+| [[Vorlage Konzept]]                        |
+| [[Vorlage Meeting]]                        |
+| [[Vorlage Minor Improvements.en]]          |
+| [[Vorlage Odoo Upgrade Modules]]           |
+| [[Vorlage Odoo Upgrade]]                   |
+| [[Vorlage Phase]]                          |
+| [[Vorlage Prozesse Odoo]]                  |
+| [[Vorlage Technische Spezifikation]]       |
+| [[Vorlage Test Cases]]                     |
+| [[Vorlage Troubleshooting]]                |
+| [[Vorlage Use Cases]]                      |
+| [[Vorlage Worklog]]                        |
