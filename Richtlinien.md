@@ -16,6 +16,7 @@ Richtlinien der Mint System.
 * [[Richtlinie - Projektmanagement]]
 * [[Richtlinie - Kollaboration]]
 * [[Richtlinie - Softwareentwicklung]]
+* [[Richtlinie - Odoo Modulentwicklung]]
 * [[Richtlinie - Calc Dokumente]]
 * [[Richtlinie - Aufgabenverwaltung]]
 * [[Richtlinie - Todos]]
