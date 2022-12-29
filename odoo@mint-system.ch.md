@@ -4,7 +4,7 @@ tags:
 ---
 # Odoo Mint System
 
-Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für Test- und produktiven Umgebungen.
+Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für produktive Umgebungen.
 
 **Email**: odoo@mint-system.ch  
 **Benutzername**: odoo  

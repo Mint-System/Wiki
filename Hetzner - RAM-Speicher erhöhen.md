@@ -15,31 +15,4 @@ Führen diese Schritte aus:
 * Server ausschalten
 * Neuer Servertyp auswählen (Beispielsweise von CX11 auf CX21)
 * Mit *Rescale* betätigen
-* Server starten￼## Bereiche
-
-| Bereich                                                 | Beschreibung                           |
-| ------------------------------------------------------- | -------------------------------------- |
-| [Handscanner Zebra DS22](Handscanner%20Zebra%20DS22.md) | Handscanner für Odoo.                  |
-| [Handscanner Zebra TC21](Handscanner%20Zebra%20TC21.md) | Handscanner für Odoo.                  |
-| [Lager Aktionen](Lager%20Aktionen.md)                   | Arbeitsflüsse im Lager automatisieren. |
-￼## Bereiche
-
-| Bereich                                                 | Beschreibung                           |
-| ------------------------------------------------------- | -------------------------------------- |
-| [Handscanner Zebra DS22](Handscanner%20Zebra%20DS22.md) | Handscanner für Odoo.                  |
-| [Handscanner Zebra TC21](Handscanner%20Zebra%20TC21.md) | Handscanner für Odoo.                  |
-| [Lager Aktionen](Lager%20Aktionen.md)                   | Arbeitsflüsse im Lager automatisieren. |
-￼## Bereiche
-
-| Bereich                                                 | Beschreibung                           |
-| ------------------------------------------------------- | -------------------------------------- |
-| [Handscanner Zebra DS22](Handscanner%20Zebra%20DS22.md) | Handscanner für Odoo.                  |
-| [Handscanner Zebra TC21](Handscanner%20Zebra%20TC21.md) | Handscanner für Odoo.                  |
-| [Lager Aktionen](Lager%20Aktionen.md)                   | Arbeitsflüsse im Lager automatisieren. |
-￼## Bereiche
-
-| Bereich                                                 | Beschreibung                           |
-| ------------------------------------------------------- | -------------------------------------- |
-| [Handscanner Zebra DS22](Handscanner%20Zebra%20DS22.md) | Handscanner für Odoo.                  |
-| [Handscanner Zebra TC21](Handscanner%20Zebra%20TC21.md) | Handscanner für Odoo.                  |
-| [Lager Aktionen](Lager%20Aktionen.md)                   | Arbeitsflüsse im Lager automatisieren. |
+* Server starten
