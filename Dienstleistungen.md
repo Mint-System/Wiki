@@ -15,6 +15,8 @@ Zur Aufstellung gehört die Übersicht der [[Abos und Preise]].
 Umfasst diese Leistungen:
 * Projektleitung gemäss [[Vorgehensmodell]]
 
+Preis: 180 CHF pro Stunde
+
 ## Geschäftsanalyse
 
 ![[odoo_icon_people.png]] 
