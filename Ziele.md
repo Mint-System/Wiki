@@ -8,3 +8,4 @@ Jahresziele der Mint System.
 
 [[Unternehmensziele 2022]]
 
+[[Unternehmensziele 2023]]

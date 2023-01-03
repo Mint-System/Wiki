@@ -13,7 +13,7 @@ vCard: [[vCard#Janik von Rotz]]
 
 ## SSH
 
-Public SSH-Key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIHarIdS0WP5IaFDhboz2583ednlz4zEZkJkemAusAVO login@janikvonrotz.ch\
+Public SSH-Key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIHarIdS0WP5IaFDhboz2583ednlz4zEZkJkemAusAVO login@janikvonrotz.ch`
 
 ## CV
 
