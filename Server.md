@@ -20,10 +20,12 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | -------- | -------------------------------------- | -------------------------- | ----------- |
 | Aeolus   | Server Aerolite AG                     | `aerolus.mint-system.com`  | Off-Premise |
 | Apollo   | Dienste [[Janik von Rotz]]             | `apollo.janikv.com`        | Hetzner     |
+| Ares     | Server Pure ICT GmbH                   | `ares.mint-system.com`     | Off-Premise |
 | Artemis  | Server Trimada AG                      | `artemis.mint-system.com`  | Hetzner     |
 | Athena   | Server HFMTS                           | `athena.mint-system.com`   | Hosttech    |
 | Atlas    | [[Monitoring]]                         | `atlas.mint-system.com`    | Hetzner     |
 | Cratos   | Elasticsearch und Coturn               | `cratos.mint-system.com`   | Hetzner     |
+| Enyo     | Server webkeeper GmbH                  | `enyo.mint-system.com`     | Off-Premise |
 | Eos      | Server Aersolution Interior AG         | `odoo.aersolution.com`     | Off-Premise |
 | Gaia     | [[BigBlueButton]] [[Mint System GmbH]] | `gaia.mint-system.com`     | Hetzner     |
 | Hades    | Demoumgebung                           | `hades.mint-system.com`    | Hetzner     |
@@ -38,9 +40,8 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Poseidon | Server Basis57                         | `poseidon.mint-system.com` | ExoScale    |
 | Themis   | [[BigBlueButton]] KMSU                 | `themis.mint-system.com`   | ExoScale    |
 | Triton   | Server andeer.net                      | `triton.mint-system.com`   | Off-Premise |
+| Tyche    | Server Carbo-Link AG                   | `tyche.mint-system.com`    | Off-Premise |
 | Zeus     | Dienste [[Mint System GmbH]]           | `zeus.mint-system.com`     | Hetzner     |
-| Ares     | Server Pure ICT GmbH                   | `ares.mint-system.com`     | Off-Premise |
-| Tyche    | Server Carbo-Link AG                   | `tyche.mint-system.com`    |  Off-Premise           |
 
 ### Liste freie Namen
 
@@ -54,5 +55,4 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Janus
 * Moros
 * Zelus
-* Tyche
-* Enyo
+* Helios
