@@ -5,7 +5,24 @@ tags:
 # Prozesse Infrastruktur:  Installation Raspberry Pi
 Bereitstellung Raspberry Pi.
 
-### SSH-Zugriff via GUI einrichten
+## Raspberry Pi Image ausführen
+
+* Laden Sie den *Raspberry Pi Imager* herunter <https://www.raspberrypi.com/software/>
+* Installieren Sie die Software
+* Starten Sie den Imager und wählen Sie als Betriebssystem *Raspberry OS* aus
+* Stecken Sie die SD Karten in den Computer und wählen Sie das Medium
+
+![[Raspberry Pi Imager.png]]
+
+* Klicken Sie auf erweiterten Optionen
+* Aktivieren Sie diese Optionen und geben Sie die entsprechenden Werte ein:
+	* Enable SSH
+	* Set username and password
+	* Configure wireless LAN
+	* Set locale settings
+* Starten Sie den Vorgang mit *Write
+
+## SSH-Zugriff via GUI einrichten
 
 Arbeitsschritte:
 * Auf Rraspberry Pi einloggen
