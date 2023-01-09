@@ -2,11 +2,11 @@
 tags:
 - Phasen
 ---
-# Phase Auslagen
+# Phase Ausgaben
 
 Tätigkeiten:
 
-- Auslagenprodukte definieren
-- E-Mail-Adresse für Auslagen konfigurieren 
+- Ausgaben-Produkte definieren
+- E-Mail-Adresse für Ausgaben konfigurieren 
 
-Ergebnis: Mitarbeitende können ihre Auslagen erfassen und abrechnen lassen.
+Ergebnis: Mitarbeitende können ihre Ausgaben erfassen und abrechnen lassen.
