@@ -33,7 +33,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Abrechnung]]
 * [[Phase Abwesenheit]]
 * [[Phase Anwesenheit]]
-* [[Phase Auslagen]]
+* [[Phase Aufwand]]
 * [[Phase Aussendienst]]
 * [[Phase Diskussion]]
 * [[Phase Einkauf]]
