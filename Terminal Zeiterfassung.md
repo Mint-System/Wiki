@@ -50,15 +50,16 @@ Liest RFID-Chips aus.
 
 [Yarongtech](https://www.yarongtech.com/collections/rfid-reader/products/mifare-classic-card-reader-hf-rfid-usb-13-56mhz-iso14443a-ic-reader) CHF 12.90
 
+**RFID Tag**
+
+Sendet den RFID-Code an den Leser. Gibt es in unterschiedlichen Ausführungen. ISO 14443-A.
+
+[Mouser](https://www.mouser.ch/ProductDetail/Mikroe/MIKROE-1475/?qs=Jl8P5Tpu6m3JMLFFxNymZw%3D%3D) - CHF 1.83
+
+### Nicht kompatibel
+
 **NFC Card Reader**
 
 List NFC-Chips aus.
 
 [BerryBase](https://www.berrybase.de/acs-acr122u-usb-nfc-card-reader)
-
-**RFID Chip**
-
-Sendet den RFID-Code an den Leser. Gibt es in unterschiedlichen Ausführungen.
-Getestet wurden System "Glutz" und "Zaugg".
-
-[Mouser](https://www.mouser.ch/ProductDetail/Mikroe/MIKROE-1475/?qs=Jl8P5Tpu6m3JMLFFxNymZw%3D%3D) - CHF 1.83
