@@ -25,7 +25,7 @@ Im folgenden werden die Anforderungen zur Inbetriebnahme der Zahlungslösung von
 
 **Worldline**
 
-- [ ] Registrieren Sie sich auf der Website von Worldline [[https://onboarding.six-payment-services.com/onboarding/register?referral=productpage&productCategory=classic&product=classic_c&applicationContext=SALES_REVOLUTION&language=de&country=CH|Onboarding-Link]]
+- [ ] Registrieren Sie sich auf der Website von Worldline [Onboarding-Link](https://onboarding.six-payment-services.com/onboarding/register?referral=productpage&productCategory=classic&product=classic_c&applicationContext=SALES_REVOLUTION&language=de&country=CH)
 
 ### Setup
 
