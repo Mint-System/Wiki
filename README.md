@@ -31,6 +31,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Marketing]]
 * [[Unternehmensentwicklung]]
 * [[Technologien]]
+* [[Kunden]]
 
 ## Struktur
 

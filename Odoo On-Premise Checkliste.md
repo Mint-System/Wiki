@@ -17,15 +17,15 @@ Struktur:
 Checkliste zur Auditierung einer Hosting-Umgebung.
 
 1 Disk  
-Das Host-System stellt ausreichend Speicherplatz zur Verfügung
+- [ ] Das Host-System stellt ausreichend Speicherplatz zur Verfügung
 
 2 Sicherheit  
-Der Zugriff auf das Host-System ist  nur bestimmten Benutzern erlaubt
+- [ ] Der Zugriff auf das Host-System ist  nur bestimmten Benutzern erlaubt
 
 [Mint-System/Ansible-Playbooks/IAM](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/iam/tasks/users.yml#L9)
 
 3 Sicherheit  
-Ein Root-Zugriff auf das Host-System ist nicht möglich
+- [ ] Ein Root-Zugriff auf das Host-System ist nicht möglich
 
 [Mint-System/Ansible-Playbooks/IAM](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/iam/tasks/groups.yml#L15)
 
@@ -34,52 +34,52 @@ Ein Root-Zugriff auf das Host-System ist nicht möglich
 Checkliste zur Auditierung einer Odoo-Docker-Umgebung.
 
 1 Container  
-Docker Daten werden Container-unabhängig persistiert
+- [ ] Docker Daten werden Container-unabhängig persistiert
 
 [Mint-System/Ansible-Playbooks/Postgres](https://github.com/Mint-System/Ansible-Playbooks/blob/0a03c2939b035bbe95915614f72000d67ef8e113/roles/postgres/tasks/install.yml#L17)
 
 2 Container  
-Es werden Docker Volumes verwendet
+- [ ] Es werden Docker Volumes verwendet
 
 [Mint-System/Ansible-Playbooks/Postgres](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/postgres/tasks/install.yml#L1)
 
 3 Container  
-Konfiguration der Container erfolgt über Umgebungsvariablen
+- [ ] Konfiguration der Container erfolgt über Umgebungsvariablen
 
 [Mint-System/Ansible-Playbooks/Postgres](https://github.com/Mint-System/Ansible-Playbooks/blob/0a03c2939b035bbe95915614f72000d67ef8e113/roles/postgres/tasks/install.yml#L12)
 
 4 Odoo  
-Für den Odoo Datenbankmanager ist ein Master-Passwort gesetzt
+- [ ] Für den Odoo Datenbankmanager ist ein Master-Passwort gesetzt
 
 [Mint-System/Ansible-Playbooks/Odoo](https://github.com/Mint-System/Ansible-Playbooks/blob/0a03c2939b035bbe95915614f72000d67ef8e113/roles/odoo/templates/odoo.conf#L4)
 
 5 Odoo  
-Der Odoo Addon-Ordner ist korrekt eingebunden
+- [ ] Der Odoo Addon-Ordner ist korrekt eingebunden
 
 [Mint-System/Ansible-Playbooks/Odoo](https://github.com/Mint-System/Ansible-Playbooks/blob/0a03c2939b035bbe95915614f72000d67ef8e113/roles/odoo/tasks/install.yml#L34)
 
 6 Odoo  
-Der Datenbankfilter macht ein Mapping des Hostnamen
+- [ ] Der Datenbankfilter macht ein Mapping des Hostnamen
 
  [Odoo Development](https://odoo-development.readthedocs.io/en/latest/admin/dbfilter.html#database-names-equal-to-subdomain)
 
 7 Container  
-Die Container Konfiguration wird bsp. mit Docker-Compose gemanaged
+- [ ] Die Container Konfiguration wird bsp. mit Docker-Compose gemanaged
 
 [Mint-System/Ansible-Playbooks](https://github.com/Mint-System/Ansible-Playbooks)
 
 8 Sicherheit  
-Die Datenbank-Passwörter sind sicher aufbewahrt
+- [ ] Die Datenbank-Passwörter sind sicher aufbewahrt
 
 [Mint-System/Ansible-Playbooks#setup](https://github.com/Mint-System/Ansible-Playbooks#setup)
 
 9 Container  
-Die Container werden nach einem System-Neustart gestartet
+- [ ] Die Container werden nach einem System-Neustart gestartet
 
 [Mint-System/Ansible-Playbooks/Postgres](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/postgres/tasks/install.yml#L10)
 
 10 Sicherheit  
-Die Container kommunizieren über eine eigenes Netzwerk und nicht über exposed Ports
+- [ ] Die Container kommunizieren über eine eigenes Netzwerk und nicht über exposed Ports
 
 [Mint-System/Ansible-Playbooks/Postgres](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/postgres/tasks/install.yml#L20)
 
@@ -88,34 +88,34 @@ Die Container kommunizieren über eine eigenes Netzwerk und nicht über exposed 
 Checkliste zur Auditierung einer Odoo-Installation.
 
 1 Email  
-Die Email-Domäne und der ausgehende Server ist konfiguriert
+- [ ] Die Email-Domäne und der ausgehende Server ist konfiguriert
 
 2 Email  
-Der eingehende Email-Server ist konfiguriert
+- [ ] Der eingehende Email-Server ist konfiguriert
 
 3 Email  
-Für den Email Account sind die nötigen Aliase konfiguriert
+- [ ] Für den Email Account sind die nötigen Aliase konfiguriert
 
 4 Localization  
-Es ist nur eine System-Sprache konfiguriert
+- [ ] Es ist nur eine System-Sprache konfiguriert
 
 5 Localization  
-Begriffe wie die "payment terms" sind übersetzt
+- [ ] Begriffe wie die "payment terms" sind übersetzt
 
 6 Administration  
-Ein Benutzer hat Adminstratoren-Rechte und kennt sich mit dem Debug-Modus von Odoo aus
+- [ ] Ein Benutzer hat Adminstratoren-Rechte und kennt sich mit dem Debug-Modus von Odoo aus
 
 7 Sicherheit  
-Benutzer verwenden sichere Passwörter und speichern diese in einem Passwortmanager
+- [ ] Benutzer verwenden sichere Passwörter und speichern diese in einem Passwortmanager
 
 8 Sicherheit  
-Die Standard-Zugriffsberechtigungen sind definiert
+- [ ] Die Standard-Zugriffsberechtigungen sind definiert
 
 9 Integrität  
-Es sind nur Apps installiert, die auch verwendet werden
+- [ ] Es sind nur Apps installiert, die auch verwendet werden
 
 10 Localization  
-Grundeinstellungen zur Währung und Informationen zum Unternehmen wurden gemacht
+- [ ] Grundeinstellungen zur Währung und Informationen zum Unternehmen wurden gemacht
 
 ### Optionale Apps
 
@@ -132,22 +132,22 @@ Für die jeweiligen Odoo Editionen werden die folgenden Apps zur Installation em
 Checkliste zur Auditierung des Backups einer Odoo-Umgebung.
 
 1 Odoo  
-Es wird regelmässig ein Odoo Export über den Datenbankmanager erstellt
+- [ ] Es wird regelmässig ein Odoo Export über den Datenbankmanager erstellt
 
 [Mint-System/Ansible-Playbooks/restic-client](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/restic-client/tasks/install.yml#L84)
 
 2 Dump  
-Von der Odoo Datenbank wird regelmässig ein Dump erstellt
+- [ ] Von der Odoo Datenbank wird regelmässig ein Dump erstellt
 
 [Mint-System/Ansible-Playbooks/restic-client](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/restic-client/tasks/install.yml#L107)
 
 3 Sicherheit  
-Die Backup-Daten werden auf einem externen System gespeichert
+- [ ] Backup-Daten werden auf einem externen System gespeichert
 
 [Mint-System/Ansible-Playbooks/restic-server](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/restic-server/tasks/install.yml#L12)
 
 4 Versionierung  
-Es existiert ein Backup Rotation-Mechanismus
+- [ ] Es existiert ein Backup Rotation-Mechanismus
 
 [Mint-System/Ansible-Playbooks/restic-client](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/restic-client/tasks/install.yml#L118)
 
@@ -156,23 +156,23 @@ Es existiert ein Backup Rotation-Mechanismus
 Checkliste zur Auditierung eines Forward-Proxys für eine Odoo-Installation.
 
 1 Domain  
-Die Odoo-Installation ist öffentlich unter einer Subdomain erreichbar
+- [ ] Die Odoo-Installation ist öffentlich unter einer Subdomain erreichbar
 
 2 Sicherheit  
-Die Verbindung ist verschlüsselt und mit einem Zeritifikat von LetsEncrypt verifiziert
+- [ ] Die Verbindung ist verschlüsselt und mit einem Zeritifikat von LetsEncrypt verifiziert
 
 3 Sicherheit  
-Die LetsEncrypt-Zertifikate werden automatisch erneuert
+- [ ] Die LetsEncrypt-Zertifikate werden automatisch erneuert
 
 [Mint-System/Ansible-Playbooks/Nginx](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/nginx/tasks/install-certbot.yml#L68)
 
 4 Odoo  
-Der Proxy-Modus von Odoo ist aktiviert
+- [ ] Der Proxy-Modus von Odoo ist aktiviert
 
 [Mint-System/Ansible-Playbooks/Odoo](https://github.com/Mint-System/Ansible-Playbooks/blob/380533b0623cfa6bd2879c79033be17f0b342094/roles/odoo/templates/odoo.conf#L5)
 
 5 Sicherheit  
-Die Upload-Grösse von Dateien ist eingeschränkt
+- [ ] Die Upload-Grösse von Dateien ist eingeschränkt
 
 ## Optionale Audits
 
