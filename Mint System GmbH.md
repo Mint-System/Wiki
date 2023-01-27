@@ -7,6 +7,8 @@ Website: [https://www.mint-system.ch](https://www.mint-system.ch)
 
 Internes Kürzel: ms
 
+UID: CHE-150.248.608
+
 [[Mitgliedschaften]]
 
 ## Mitarbeitende

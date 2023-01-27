@@ -4,6 +4,7 @@ tags:
 ---
 # Odoo PoS
 
-[[Odoo PoS Hardware]]
+Kassentsystem von Odoo.
 
-[[Odoo PoS Checkliste]]
+* [[Odoo PoS Hardware]]
+* [[Odoo PoS Checkliste]]

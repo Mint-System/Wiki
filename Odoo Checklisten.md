@@ -9,3 +9,4 @@ Zum Betrieb von Odoo gibt es für Kunden ausgewählte Checklisten.
 
 * [[Odoo PoS Checkliste]]
 * [[Odoo On-Premise Checkliste]]
+* [[Odoo eCommerce Saferpay Checkliste]]
