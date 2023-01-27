@@ -3,9 +3,9 @@ tags:
 - Prozess
 ---
 
-# Odoo eCommerce Saferpay Checkliste
+# Odoo Webshop Saferpay Checkliste
 
-Diese Checkliste richtet sich an Kunden, welche die Zahlungslösung [[Saferpay]] für [[Odoo eCommerce]] in Betrieb nehmen wollen.
+Diese Checkliste richtet sich an Kunden, welche die Zahlungslösung [[Saferpay]] für den [[Odoo Webshop]] in Betrieb nehmen wollen.
 
 ## Saferpay
 
