@@ -31,7 +31,7 @@ Im folgenden werden die Anforderungen zur Inbetriebnahme der Zahlungslösung von
 
 **Odoo**
 
-- [ ] Odoo Enterprise mit Odoo PoS ist verfügbar
+- [ ] Odoo Enterprise mit Odoo PoS ist gegeben
 
 **Hadware**
 
