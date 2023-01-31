@@ -22,6 +22,7 @@ export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
 export DATABASE=erp
+export COMPANY=mint-system
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 ```
 
@@ -41,13 +42,13 @@ task start db,native
 * Export remote database to local folder and restore it
 
 ```bash
-odoo-backup -d $DATABASE ...
-odoo-restore -f ...
+odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
+odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
 
 * Remove unsupported modules
 
-```
+```bash
 task remove-module ...
 ```
 
@@ -74,8 +75,8 @@ task install-module $NEW_DATABASE mrp_account_enterprise
 
 * Export the database
 
-```
-odoo-backup -d $NEW_DATABASE -o tmp/$DATABASE_$MODE.zip
+```bash
+odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 ```
 
 ## Native Production
