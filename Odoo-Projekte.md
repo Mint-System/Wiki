@@ -14,6 +14,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Kick-Off]]
 * [[Phase Go-Live]]
 * [[Phase Gap-Analyse]]
+* [[Phase Odoo Proof of Concept]]
 
 **Odoo-Umgebung**
 

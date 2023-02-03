@@ -17,7 +17,7 @@ Der Projektleiter liefert:
 - eine Analyse der Einsparungen und des Nutzens für den Kunden (Returns)
 - ein Budget und einen Implementierungsplan (Investitionen)
 - ein Mapping zwischen Geschäftsanforderungen und Produktfunktionen
-- einen Proof of Concept (PoC): Demos der wichtigsten Geschäftsabläufe
+- einen [[Proof of Concept]] (PoC): Demos der wichtigsten Geschäftsabläufe
 - eine Strategie zum Management der Veränderung
 
 Die Gap-Analyse gliedert sich in die folgenden Phasen:
