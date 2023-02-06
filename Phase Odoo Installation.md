@@ -7,8 +7,8 @@ tags:
 Tätigkeiten:
 
 * Den Odoo Mandanten aufsetzen
-* Die DNS Konfiguration vornehmen
-* Odoo Mail-Account integrieren
+* DNS-Konfiguration vornehmen
+* Odoo Mail-Account einrichten und integrieren
 * Mail-Header (DKIM, SPF) prüfen
 * Die Benutzer in Odoo bereitstellen
 * Odoo Module von Drittanbieter installieren
