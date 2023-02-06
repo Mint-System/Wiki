@@ -38,6 +38,7 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 **eMail-System**
 
 - Welches eMail-System wird verwendet?
+- Von welchem Postfach soll Odoo E-Mails Versenden und Empfangen?
 
 **Installierte Apps**
 
