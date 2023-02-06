@@ -4,6 +4,8 @@ tags:
 ---
 # Betriebssystem
 
+## Server
+
 Auf unseren Server unterstützen wir:
 
 * [[Ubuntu]]
