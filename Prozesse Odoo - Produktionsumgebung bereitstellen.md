@@ -14,6 +14,8 @@ Auswahl:
 * Web Responsive  `web_responsive`
 * Microsoft Outlook `microsoft_outlook` #Odoo15 
 * Fetchmail Outlook  `fetchmail_outlook` #Odoo15 
+* Prometheus Exporter `prometheus_exporter`
+* Mail Server Filter ``mail_server_filter``
 
 ## Initialisierung
 
