@@ -22,6 +22,7 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Infrastruktur - Installation Nextcloud]]
 * [[Prozesse Infrastruktur - Innernet bereitstellen]]
 * [[Prozesse Infrastruktur - Installation Raspberry Pi]]
+* [[Prozesse Infrasturktur - Odoo entfernen]]
 
 ## Verwaltung
 
