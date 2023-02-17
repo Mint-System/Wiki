@@ -16,7 +16,7 @@ tags:
 	* `cloud.example.com CNAME $NAME.mint-system.com`
 	* `doc.example.com CNAME $NAME.mint-system.com`
 
-### DNS-Einträge für Mail erstellen
+## DNS-Einträge für Mail erstellen
 
 Für die Mail-Domain führen Sie diese Schritte aus:
 * Erstellen Sie einen MX-Eintrag
