@@ -14,6 +14,10 @@ Arbeitsschritte:
 	* Hintergrund-Aufgaben: Cron
 	* Design: Name, Internet-Link, Slogan, Farbe
 
+### Nextcloud konfigurieren
+
+
+
 ## Nextcloud aktualisieren
 
 Arbeitsschritte:

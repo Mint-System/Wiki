@@ -4,7 +4,7 @@ tags:
 ---
 # Prozesse Infrastruktur: DNS-Verwaltung
 
-## Externe DNS-Einträge erstellen
+## Externe DNS-Einträge definieren
 
 Arbeitsschritte:
 * Zusammenstellen benötigte DNS-Einträge
@@ -22,14 +22,14 @@ Beispiel:
 * Zustellen der Liste an Kunde
 * Bei Erhalt Zugangsdaten die Einträge selber erstellen
 
-## DNS-Einträge erstellen
+## DNS-Einträge mit Ansible erstellen
 
 Arbeitsschritte:
 * Installation [[Vercel#Client]]
 * Zugriff auf das Mint System anfordern
 * DNS-Einträge mit `vercel dns` erstellen
 
-## Wildcard-Zertifikat erneuern
+## Wildcard-Zertifikat mit Ansible erneuern
 
 Arbeitsschritte:
 * Delete certificate with `docker-certbot-delete`

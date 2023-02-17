@@ -9,7 +9,13 @@ Mehr dazu unter [[Passwortmanager]].
 
 ## Anforderungen
 
+Ein Passwort muss 40 Zeichen lang sein und alphanumerische Zeichen enthalten.
+
+## Generieren
+
 Mit dem Link [Passwort generieren](https://duckduckgo.com/?t=canonical&q=pwgen+40&ia=answer) erhalten Sie ein Passwort, welches die Anforderungen an die Passwort-stärke erfüllt.
+
+Auf der Kommandozeile können Sie `pwgen -c 40` ausführen.
 
 ## Struktur
 
@@ -24,4 +30,4 @@ Jedes Passwort muss mit mindestens folgenden Attributen erfasst werden:
 * Passwort
 * URL
 
-Optional ist das Freifeld *Notiz*.
+Optional ist das Feld *Notiz*.
