@@ -35,7 +35,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Iris     | Server Kleinbrauerei Stiär Biär AG     | `iris.mint-system.com`     | Hetzner     |
 | Kronos   | Backup Server                          | `kronos.mint-system.com`   | Hetzner     |
 | Leto     | Server SATHOM SARL                     | `leto.mint-system.com`     | Klixa       |
-| Metis    | AirWork & Heliseilerei GmbH            | `metis.mint-system.com`    | Hetzner     |
+| Metis    | Zgraggen Agro GmbH                     | `metis.mint-system.com`    | Hetzner     |
 | Nyx      | [[BINARY business]]                    | `nyx.mint-system.com`      | Hetzner     |
 | Pan      | Server Light Wing AG                   | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                         | `poseidon.mint-system.com` | ExoScale    |
@@ -43,6 +43,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Triton   | Server andeer.net                      | `triton.mint-system.com`   | Off-Premise |
 | Tyche    | Server Carbo-Link AG                   | `tyche.mint-system.com`    | Off-Premise |
 | Zeus     | Dienste [[Mint System GmbH]]           | `zeus.mint-system.com`     | Hetzner     |
+| Dione    | Server ISAF2025                        | `dione.mint-system.com`    | Hetzner            |
 
 ### Liste freie Namen
 

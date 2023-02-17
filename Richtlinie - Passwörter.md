@@ -9,7 +9,7 @@ Mehr dazu unter [[Passwortmanager]].
 
 ## Anforderungen
 
-Im Dokument [[Links]] ist ein Link zu einem Passwort-Generator enthalten, der die Anforderungen an die Passwortstärke erfüllt.
+Mit dem Link [Passwort generieren](https://duckduckgo.com/?t=canonical&q=pwgen+40&ia=answer) erhalten Sie ein Passwort, welches die Anforderungen an die Passwort-stärke erfüllt.
 
 ## Struktur
 
