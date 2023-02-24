@@ -16,9 +16,9 @@ Odoo wird in zwei verschiedenen Lizenz-Typen angeboten:
 
 Odoo wird in folgenden Hosting-Modellen angeboten:
 
+* [[Odoo Hosting - Mintsys Cloud]]
 * [[Odoo Hosting - Online]]
 * [[Odoo Hosting - Odoo.sh]]
-* [[Odoo Hosting - Mintsys Cloud]]
 * [[Odoo Hosting - On-Premise]]
 * [[Odoo Hosting - Off-Premise]]
 
