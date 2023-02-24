@@ -6,6 +6,8 @@ tags:
 
 [[Odoo.sh Entwicklung]]
 
+[[Odoo.sh Projekte]]
+
 ## Painpoints
 
 **Kein Datebnankzugriff**

@@ -2,11 +2,12 @@
 tags:
 - Asset
 ---
+
 ![[Banner Odoo Hosting Mintsys Cloud.jpg]]
 
 # Odoo Hosting - Mintsys Cloud
 
-Vollständige Kontrolle über die Odoo-Installation. Ist immer kostengünstiger als [[Odoo Hosting - Odoo.sh]].
+Mint System hostet die Odoo auf dem Server eines ausgewählten [[Hosting Provider]].
 
 ## Vorteile
 
