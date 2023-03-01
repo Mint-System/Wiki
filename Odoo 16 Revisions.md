@@ -21,3 +21,10 @@ Revision: 16.0.2022.1117
 State: Active\
 Version: 16.2\
 Revision: 16.0.2022.1226
+
+## [[Odoo 16.3]]
+
+State: Active\
+Version: 16.3\
+Revision: 16.0.2023.0227
+
