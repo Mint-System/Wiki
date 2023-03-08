@@ -21,5 +21,5 @@ Richtlinien der Mint System.
 * [[Richtlinie - Aufgabenverwaltung]]
 * [[Richtlinie - Todos]]
 * [[Richtlinie - Finanzen]]
-* [[Richtlinie - Snippet]]
+* [[Richtlinie - Odoo Snippet]]
 * [[Richtlinie - Obsidian]]

@@ -2,12 +2,41 @@
 tags:
 - Richtlinien
 ---
-# Richtlinie - Snippet
+# Richtlinie - Odoo Snippet
 
 ## Reservierte Bezeichnungen
 
 * `get_position`: Hinzufügen Positionsnummer
 * `set_ids`:  Erstellen eindeutige Referenzen
+
+## Bezeichnung Beispiele
+
+Jedes Snippet wird nach dem Schema `$COMPANY.$MODULE.$XML_ID.$DESCRIPTION` benannt. Dazu empfehlungen für die *Description*:
+
+❌ font_size  
+✅ set_page_font_size
+
+-> Die Verrichtung zuerst
+
+❌ delete_table  
+✅ remove_table
+
+-> Immer *remove* verwenden
+
+❌ add_padding  
+✅ add_header_space
+
+-> Präzisierung
+
+❌ product_hs_code_and_origin  
+✅ show_product_hs_code_and_origin
+
+-> Zusätzlicher Felder immer mit *show*
+
+❌ show_x_picking_list  
+✅ x_picking_list
+
+-> Benutzerdefinierte Felder ohne Verrichtung
 
 ## Tabellenspalten eindeutig referenzieren
 
