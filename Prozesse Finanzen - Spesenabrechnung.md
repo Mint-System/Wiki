@@ -8,12 +8,14 @@ Prozesse zur Spesenabrechnung der Mint System.
 ## Spesen zur Abrechnung erfassen
 
 Arbeitsschritte:
-* Im Ordner `Spesen/[Monat]` die Quittung als Scan ablegen.
-* In der Projektaufgabe **Spesen abrechnen** die Spesen notieren und verlinken.
+* In der App *Auslagen* die Spesen erfassen
+* Ein Bild als Belegn anhängen
+* Die MwSt. entfernen
 
 ## Spesen abrechnen
 
 Arbeitsschritte:
-* Die Projektaufgabe **Spesen abrechnen** öffnen.
-* Alle Beträge in der aktuellen Lohnabrechnung als variable Lohnart Spesen eintragen.
-* Die abgerechneten Spesen entsprechend markieren.
+* In der App *Auslagen* die Spesen markieren und als Bericht erfassen
+* Bericht zur Review freigeben
+* Bericht genehmigen und verbuchen
+* Zahlungsdatei erstellen und ins eBanking
