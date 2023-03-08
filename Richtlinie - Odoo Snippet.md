@@ -13,6 +13,11 @@ tags:
 
 Jedes Snippet wird nach dem Schema `$COMPANY.$MODULE.$XML_ID.$DESCRIPTION` benannt. Dazu empfehlungen für die *Description*:
 
+❌ set_page_style.tissa  
+✅ set_page_style_tissa
+
+-> Keine Punkte erlaubt
+
 ❌ font_size  
 ✅ set_page_font_size
 
