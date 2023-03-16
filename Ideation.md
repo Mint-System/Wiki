@@ -19,6 +19,8 @@ Unter dieser Domain könnte man einen Odoo Webshop / Portal hosten, wo Kunden Od
 
 Das ganze kann auch für andere Software wie [[Nextcloud]], [[Gitea]], [[Moodle]] oder [[Mattermost]] funktionieren.
 
+Mehr dazu unter [[Mintsys SaaS]].
+
 ## Open Source Business Intelligence Plattform
 
 Siehe [[Apache Superset]].
