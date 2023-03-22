@@ -3,7 +3,7 @@ tags:
 - Definition
 ---
 
-# Odoo Saferpay Erweiterung
+# Odoo Saferpay App
 
 Damit eine Saferpay Zahlung mit einem Odoo Webshop abgewickelt werden kann, braucht es eine Erweiterung. Aktuell stehen zwei Erweiterungen zur Auswahl:
 
