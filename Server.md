@@ -45,6 +45,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Triton   | Server andeer.net                        | `triton.mint-system.com`   | Off-Premise |
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zeus     | Dienste [[Mint System GmbH]]             | `zeus.mint-system.com`     | Hetzner     |
+| Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner            |
 
 ### Liste freie Namen
 
@@ -56,4 +57,4 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Eros
 * Janus
 * Moros
-* Zelus
+* 
