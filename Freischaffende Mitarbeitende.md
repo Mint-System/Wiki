@@ -47,10 +47,10 @@ Damit freischaffende Mitarbeitende optimal die Ressourcen der Mint System nutzen
 
 Mit den Faktoren und dem externen Stundensatz wird ein Abzug für freischaffende Mitarbeitende berechnet:
 
-	Abzug = Externer Stundensatz * (Mehwertsteuer + Administration + Lizenz + Hosting)
+> Abzug = Externer Stundensatz * (Mehwertsteuer + Administration + Lizenz + Hosting)
 
 Dazu ein Beispiel:
 
-	19.26 CHF = 180 CHF * (0.077 + 0.015 + 0.01 + 0.005)
+> 19.26 CHF = 180 CHF * (0.077 + 0.015 + 0.01 + 0.005)
 
 Der daraus resultierende interne Stundensatz wird aufgerundet und wäre in diesem Fall **160 CHF** pro Stunde.
