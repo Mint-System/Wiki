@@ -16,7 +16,6 @@ Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang 
 
 Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Odoo]]
-* [[Angebot]]
 * [[Prozesse]]
 * [[Infrastruktur]]
 * [[Methodik]]
@@ -26,12 +25,11 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Corporate Design]]
 * [[Tools]]
 * [[Links]]
-* [[Tags]]
 * [[Philosophie]]
 * [[Marketing]]
 * [[Unternehmensentwicklung]]
 * [[Technologien]]
-* [[Kunden]]
+* [[Kunden
 
 ## Struktur
 
