@@ -9,7 +9,7 @@ In diesem Artikel werden verschiedene Formen der Zusammenarbeit betrachtet.
 
 ## Für Mint System arbeiten
 
-Sie sind ein eigenst
+Sie sind ein eigenständiges Unternehmen.
 
 ### Projektakquise
 
@@ -30,6 +30,10 @@ Die Mint System GmbH verrechnet die Arbeitsrapport dem Kunden.
 **Erstattung**
 
 Sie erhalten die Vergütung in Form einer Erstattung von Mint System zur reduzierten Konditionen.
+
+## [[Freischaffende Mitarbeitende]]
+
+Sie arbeiten für die Mint System, stellen aber eine Rechnung für ihre Aufwände.
 
 ## Mint System als Subunternehmen einbinden
 
