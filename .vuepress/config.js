@@ -8,6 +8,9 @@ module.exports = {
     lang: 'de-CH',
     title: 'Wiki Mint System',
     description: 'Strukturierte Wissensdatenbank der Mint System GmbH. ',
+    head: [
+        ['link', { rel: 'icon', href: '/icon.png' }]
+    ],
     theme: defaultTheme({
         logo: '/icon.png',
         repo: 'mint-system/wiki',
