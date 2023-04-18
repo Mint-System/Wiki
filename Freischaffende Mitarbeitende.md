@@ -52,6 +52,6 @@ Mit den Faktoren und dem externen Stundensatz wird eine Marge für freischaffend
 
 Dazu ein Beispiel:
 
-> 23.76 CHF = 180.00 * (0.077 + 0.02 + 0.015 + 0.01 + 0.01)
+> 23.76 = 180.00 * (0.077 + 0.02 + 0.015 + 0.01 + 0.01)
 
 Der daraus resultierende interne Stundensatz wird aufgerundet und wäre in diesem Fall **155.00 CHF** pro Stunde.
