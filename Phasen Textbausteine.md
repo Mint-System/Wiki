@@ -30,7 +30,7 @@ Die Phasen und deren Zusammenfassung kopiert man in das Konzept und nummiert die
 
 [[Phase Produktionsplanung|Phase X: Produktionsplanung]]
 
-[[Phase Lohnabrechnung|Phase X: Personalabrechnung]]
+[[Phase Personalbrechnung|Phase X: Personalabrechnung]]
 
 [[Phase Verkäufe|Phase X: Verkäufe]]
 

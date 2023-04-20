@@ -2,7 +2,7 @@
 tags:
 - Phasen
 ---
-# Phase Lohnabrechnung
+# Phase Personalbrechnung
 
 Tätigkeiten:
 
@@ -20,7 +20,7 @@ Ergebnis: Lohnabrechnung mit Odoo.
 
 * Sind Mitarbeitende im Stundenlohn angestellt?
 
-**Organisation
+**Organisation**
 
 * Werden Sie bei der Lohnabrechnung von einer TreuhänderIn unterstützt? ⭐
 

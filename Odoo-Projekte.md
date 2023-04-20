@@ -48,7 +48,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Kundenverwaltung]]
 * [[Phase Lager]]
 * [[Phase Login]]
-* [[Phase Lohnabrechnung]]
+* [[Phase Personalbrechnung]]
 * [[Phase Newsletter]]
 * [[Phase Personal]]
 * [[Phase Personalbeschaffung]]
