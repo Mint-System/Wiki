@@ -24,6 +24,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Artemis  | Server Trimada AG                        | `artemis.mint-system.com`  | Hetzner     |
 | Athena   | Server HFMTS                             | `athena.mint-system.com`   | Hosttech    |
 | Atlas    | [[Monitoring]]                           | `atlas.mint-system.com`    | Hetzner     |
+| Bia      | Server OCAD AG                           | `bia.mint-system.com`      | Hetzner     |
 | Cratos   | Elasticsearch und Coturn                 | `cratos.mint-system.com`   | Hetzner     |
 | Dione    | Nextcloud ISAF2025                       | `dione.mint-system.com`    | Hetzner     |
 | Enyo     | Server webkeeper GmbH                    | `enyo.mint-system.com`     | Off-Premise |
@@ -44,17 +45,14 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Themis   | [[BigBlueButton]] KMSU                   | `themis.mint-system.com`   | ExoScale    |
 | Triton   | Server andeer.net                        | `triton.mint-system.com`   | Off-Premise |
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
+| Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Dienste [[Mint System GmbH]]             | `zeus.mint-system.com`     | Hetzner     |
-| Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner            |
 
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
 * Krios
-* Dione
-* Bia
 * Eros
 * Janus
 * Moros
-* 
