@@ -4,7 +4,7 @@ tags:
 ---
 # Mint System Referenzen
 
-[[Mint Sytem Referenzen Beschreibungen]]
+Ausführliche Präsentation ist in [[Mint Sytem Referenzen Beschreibungen]] ersichtlich.
 
 ## Odoo
 

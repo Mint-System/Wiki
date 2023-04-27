@@ -50,7 +50,7 @@ Kosten pro Jahr: 960 CHF\
 
 Mit dem MINT+ Supportvertrag erhalten Sie zusätzlich:
 * Zugriff auf die direkte Nummer des Betreuers
-* ein monatliches Guthaben von 1 Stunde
+* ein monatliches Guthaben von 1 Stunde für Telefonsupport
 * eine Antwort innerhalb von 4 Stunden
 
 Ihre Kontaktmöglichkeiten:

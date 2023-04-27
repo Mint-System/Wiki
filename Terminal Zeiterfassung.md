@@ -52,7 +52,7 @@ Liest RFID-Chips aus.
 
 **RFID Tag**
 
-Sendet den RFID-Code an den Leser. Gibt es in unterschiedlichen Ausführungen. ISO 14443-A.
+Sendet den RFID-Code an den Leser. Es gibt in unterschiedlichen Ausführungen, wichtig ist ISO 14443-A.
 
 [Mouser](https://www.mouser.ch/ProductDetail/Mikroe/MIKROE-1475/?qs=Jl8P5Tpu6m3JMLFFxNymZw%3D%3D) - CHF 1.83
 
