@@ -70,7 +70,7 @@ Website: <https://shop.stiärbiär.ch/>
 
 ![[kreativartikel logo.png]]
 
-**Kreativartikel**.ch Artikelsuche Unsere Produkte sind ab Schweizer Lager verfügbar! Reissverschlüsse Verschlüsse Gurtbänder Bänder Aktionen / Neues Zubehör Meterware Verpackung / Verkaufsunterstützung Bastelzubehör
+Kreativartikel.ch ist ein Online-Shop, der sich auf den Verkauf von Bastelmaterial, Dekorationsartikeln und DIY-Zubehör spezialisiert hat. Das Sortiment umfasst eine Vielzahl von Produkten, wie beispielsweise Stoffe, Wolle, Perlen, Farben, Schmuckzubehör und vieles mehr. Die Webseite ist übersichtlich gestaltet und bietet eine schnelle und einfache Navigation durch das Sortiment. Kunden können bequem von zu Hause aus bestellen und erhalten ihre Waren schnell und zuverlässig geliefert. Zudem bietet der Shop regelmäßig Rabatte und Sonderaktionen an. Insgesamt ist kreativartikel.ch ein interessanter Onlineshop für alle Bastelfans und DIY-Enthusiasten.
 
 Website: <https://kreativartikel.ch/>
 
@@ -136,6 +136,7 @@ Website: <https://www.trimada.ch/>
 ## webkeeper GmbH
 
 ![[webkeeper logo.png]]
-webkeeper ist eine Schweizer Webhosting Firma die Dienstleistungen rund um Hosting und Domains bietet. Dies zu attraktiven Preisen mit einem guten Support.
+
+Webkeeper.ch ist ein Schweizer Webhosting-Unternehmen, das seit 1998 besteht und sich auf die Bereitstellung von zuverlässigen und sicheren Webhosting-Lösungen für Unternehmen und Privatkunden spezialisiert hat. Das Angebot umfasst verschiedene Hosting-Pakete, die auf die Bedürfnisse unterschiedlicher Kunden zugeschnitten sind, sowie Domainregistrierung und -verwaltung, SSL-Zertifikate und E-Mail-Dienste. Die Webseite ist benutzerfreundlich gestaltet und bietet eine einfache Navigation durch das Angebot. Der Kundenservice ist schnell und freundlich und steht Kunden per E-Mail oder Telefon zur Verfügung. Webkeeper.ch legt großen Wert auf Datensicherheit und Datenschutz und setzt modernste Technologien ein, um die Daten seiner Kunden zu schützen. Insgesamt ist webkeeper.ch ein zuverlässiger und seriöser Partner für die Bereitstellung von Webhosting-Lösungen.
 
 Website: <https://www.webkeeper.ch>
