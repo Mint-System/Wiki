@@ -48,7 +48,7 @@ Damit freischaffende Mitarbeitende optimal die Ressourcen der Mint System nutzen
 
 Mit den Faktoren und dem externen Stundensatz wird eine Marge für freischaffende Mitarbeitende berechnet:
 
-> Marge = Externer Stundensatz * (Mehrwertsteuer +Administration + Qualitätssicherung + Lizenz + Hosting)
+> Marge = Externer Stundensatz * (Mehrwertsteuer + Administration + Qualitätssicherung + Lizenz + Hosting)
 
 Dazu ein Beispiel:
 
