@@ -6,58 +6,69 @@ tags:
 
 Author: [[Janik von Rotz]]
 
+This is an implementation of an [[Odoo Enterprise Upgrade]].
+
 ## Prepare
 
 Make preparations for the Odoo upgrade.
 
-### Remove modules
-
-Remove unsupported modules.
-
-## Upgrade
-
-Run the upgrade scripts.
-
-### Execute test upgrade
-
-HowTo: <https://wiki.mint-system.ch/odoo-upgrade-from-14.0-to-15.0.html>
+Set env vars.
 
 ```bash
 export MODE=test
 export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
-export DATABASE=odoo
+export DATABASE=erp
+export COMPANY=mint-system
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 ```
 
-### Reinstall modules
+Download the database.
 
-Reinstall specific modules.
+```bash
+odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
+```
 
-### Reset views
+## Restore
 
-Reset selected views.
+Clear filestore and restore database.
+
+Login and check Odoo log.
+
+Remove unsupported modules.
+
+Reinstall modules.
+
+## Upgrade
+
+Run the upgrade scripts.
+
+Remove unsupported Odoo Modules.
 
 ## Configure
 
-Make new Odoo configurations.
+Install new modules.
 
-### Make settings
+Reset selected views.
+
+Make new Odoo configurations.
 
 Activate options in the settings page.
 
-### Update snippets
-
 Update selected snippets.
 
-## Test
+## Verify
 
 Test the upgraded system.
 
-### Run test cases
-
 Run these test cases.
+
+## Deploy
+
+Export the database
+
+Deploy the upgraded database.
 
 ## Troubleshooting
 

@@ -24,6 +24,12 @@ export COMPANY=mint-system
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 ```
 
+Download remote database to local folder.
+
+```bash
+odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
+```
+
 Checkout 16.0 environment.
 
 ```bash
@@ -38,12 +44,6 @@ task start db,native
 
 ### Restore
 
-Download remote database to local folder.
-
-```bash
-odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
-```
-
 Clear filestore and restore database.
 
 ```bash
@@ -51,6 +51,8 @@ task drop-db $DATABASE
 task clear-filestore $DATABASE
 odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
+
+Remove unsupported modules.
 
 ### Upgrade
 
@@ -60,7 +62,20 @@ Run the upgrade script with option `test`.
 odoo-upgrade $MODE -d $DATABASE -t 16.0 -r $NEW_DATABASE
 ```
 
-### Verify
+### Configure
+
+Reinstall specific modules.
+
+Reset selected views.
+
+Make new Odoo configurations.
+
+Activate options in the settings page.
+
+Update selected snippets.
 
 ### Deploy
 
+Export the database.
+
+Deploy the upgraded database.
