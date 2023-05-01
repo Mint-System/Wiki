@@ -1,6 +1,6 @@
-# TITEL
+# {{NAME}}
 
-Datum: YYYY-MM-DD\
+Datum: {{DATE:YYYY-MM-DD}}\
 Teilnehmer: 
 
 ## Input
