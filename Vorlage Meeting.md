@@ -1,6 +1,6 @@
-# Vorlage Meeting
+# TITEL
 
-Datum: {{DATE:YYYY-MM-DD}}\
+Datum: YYYY-MM-DD\
 Teilnehmer: 
 
 ## Input
