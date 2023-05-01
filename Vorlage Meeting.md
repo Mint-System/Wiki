@@ -1,4 +1,4 @@
-# {{NAME}}
+# Vorlage Meeting
 
 Datum: {{DATE:YYYY-MM-DD}}\
 Teilnehmer: 
