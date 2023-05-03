@@ -13,27 +13,28 @@ Try to upgrade without checking out 15.0.
 Set env vars.
 
 ```bash
-export ODOO_VERSION=16.0
+export ODOO_CURRENT_VERSION=15.0
+export ODOO_TARGET_VERSION=16.0
 export MODE=test
 export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
 export DATABASE=erp
-export NEW_DATABASE=${DATABASE}_${ODOO_VERSION}
+export NEW_DATABASE=${DATABASE}_${ODOO_TARGET_VERSION}
 export COMPANY=mint-system
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 ```
 
-Download remote database to local folder.
+Download the database.
 
 ```bash
 odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
 ```
 
-Checkout 16.0 environment.
+Checkout current Odoo environment.
 
 ```bash
-task checkout $ODOO_VERSION
+task checkout $ODOO_CURRENT_VERSION
 ```
 
 Start local development environment.
@@ -52,19 +53,35 @@ task clear-filestore $DATABASE
 odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
 
+Login and check the Odoo log.
+
 Remove unsupported modules.
 
 ### Upgrade
 
-Run the upgrade script with option `test`.
+Run the upgrade scripts.
 
 ```bash
-odoo-upgrade $MODE -d $DATABASE -t 16.0 -r $NEW_DATABASE
+odoo-upgrade $MODE -d $DATABASE -t ODOO_TARGET_VERSION -r $NEW_DATABASE
 ```
+
+Checkout target Odoo environment.
+
+```bash
+task checkout $ODOO_TARGET_VERSION
+```
+
+Login and check the Odoo log.
+
+Check the Upgrade report.
 
 ### Configure
 
-Reinstall specific modules.
+Migrate custom modules.
+
+Reinstall modules.
+
+Install new modules.
 
 Reset selected views.
 
@@ -74,8 +91,22 @@ Activate options in the settings page.
 
 Update selected snippets.
 
+## Verify
+
+Test the upgraded system.
+
+Run these test cases.
+
+Note regressions.
+
 ### Deploy
 
-Export the database.
+Export the new database.
 
-Deploy the upgraded database.
+```bash
+odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
+```
+
+Copy to remote.
+
+Restore the new datbabase.

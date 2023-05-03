@@ -6,7 +6,7 @@ tags:
 
 Author: [[Janik von Rotz]]
 
-This is an implementation of an [[Odoo Enterprise Upgrade]].
+This is a template to execute an [[Odoo Enterprise Upgrade]].
 
 ## Prepare
 
@@ -30,23 +30,31 @@ Download the database.
 odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
 ```
 
+Checkout Odoo environment.
+
+Start local development environment.
+
 ## Restore
 
 Clear filestore and restore database.
 
-Login and check Odoo log.
+Login and check the Odoo log.
 
 Remove unsupported modules.
-
-Reinstall modules.
 
 ## Upgrade
 
 Run the upgrade scripts.
 
-Remove unsupported Odoo Modules.
+Checkout target Odoo environment.
+
+Login and check the Odoo log.
+
+Check the Upgrade report.
 
 ## Configure
+
+Migrate custom modules.
 
 Install new modules.
 

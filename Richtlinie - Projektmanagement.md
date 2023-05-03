@@ -53,7 +53,7 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | Bilder/           | Bilder bezüglich Daten und Produkten                             |
 | Data/             | Nutzdaten für Projekt                                            |
 | Template          | Ordner mit Markdown/Obsidian Voralgen.                           |
-| assets/           | Mediendateien werden hier gespeichert                            |
+| attachments/      | Mediendateien und Anhänge werden hier gespeichert                |
 | tmp/              | Temporäre Daten die gelöscht werden dürfen, werden hier abgelegt |
 
 ### Projektphasen
