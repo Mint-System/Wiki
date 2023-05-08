@@ -11,7 +11,7 @@ tags:
 Set env vars.
 
 ```bash
-export ODOO_CURRENT_VERSION=15.0
+export ODOO_CURRENT_VERSION=13.0
 export ODOO_TARGET_VERSION=16.0
 export MODE=test
 export PGHOST=localhost

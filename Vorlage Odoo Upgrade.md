@@ -15,6 +15,8 @@ Make preparations for the Odoo upgrade.
 Set env vars.
 
 ```bash
+export ODOO_CURRENT_VERSION=1X.0
+export ODOO_TARGET_VERSION=1X.0
 export MODE=test
 export PGHOST=localhost
 export PGUSER=odoo
