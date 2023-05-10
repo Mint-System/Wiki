@@ -48,6 +48,7 @@ Ergebnis: Umfrage ist erfasst und kann verschickt werden
 **E-Mail**
 
 * Haben Sie eine definierte Absender-Adresse und Postfach für den Versand? ⭐
+* Wie viele E-Mails werden verschickt?
 
 **Vorlagen**
 
