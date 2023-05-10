@@ -11,7 +11,7 @@ Tätigkeiten:
 * Freigabeprozess und Posting validieren
 * Präsentation auf Website konfigurieren
 
-Ergebnis: Social Media Mitteilunge könne mit Odoo erfasst und publiziert werden
+Ergebnis: Social Media Mitteilungen könne mit Odoo erfasst und publiziert werden
 
 ## Kampagne starten
 
@@ -25,7 +25,7 @@ Ergebnis: Social Media Mitteilunge könne mit Odoo erfasst und publiziert werden
 
 **Verlinkung**
 
-* Soll die Kampange zu Produktverkäufen im Webshop führen?
+* Soll die Kampagne zu Produktverkäufen im Webshop führen?
 
 ## Beiträge publizieren
 
@@ -36,3 +36,10 @@ Ergebnis: Social Media Mitteilunge könne mit Odoo erfasst und publiziert werden
 **Auswertung**
 
 * Wie werden die Zugriff auf die Beiträge ausgewertet?
+
+## Kommentare moderieren
+
+**Moderation**
+
+* Gibt es Community-Guidelines auf den Kanälen?
+* Wie werden Antworten zu Kommentaren koordiniert?
