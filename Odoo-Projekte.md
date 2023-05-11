@@ -53,7 +53,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Newsletter]]
 * [[Phase Personal]]
 * [[Phase Personalbeschaffung]]
-* [[Phase Planung]]
+* [[Phase Plannung]]
 * [[Phase PoS]]
 * [[Phase Produktentwicklung]]
 * [[Phase Produktionsplanung]]
