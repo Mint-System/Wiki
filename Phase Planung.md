@@ -7,6 +7,7 @@ tags:
 Tätigkeiten:
 
 * Arbeitsorganisation und Ressourcen erfassen
-* Kapazitätsplanung 
+* Kapazitätsplanung durchführen
 
 Ergebnis: Vorgang für Datenexport ist bekannt und Strategie Datenmigration ist definiert
+
