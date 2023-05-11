@@ -40,15 +40,15 @@ Als freischaffender Mitarbeitender profitieren Sie von der Mint System als Marke
 
 Damit freischaffende Mitarbeitende optimal die Ressourcen der Mint System nutzen können, muss dies kostendeckend im Stundensatz verrechnet werden. Dazu die wichtigsten Faktoren:
 
- * **Mehrwertsteuer**: Aufgrund der Weiterverrechnung, fällt die MwSt. doppelt an.
- * **Administration**: Verrechnung der Projektarbeit und Aufwand zur Entwicklung und Instandhaltung der Dokumentationen
- * **Qualitätssicherung**: Die Mint System prüft die Projektarbeit und übernimmt die Verantwortung der Ergebnisse
-  * **Odoo Lizenz**: Benutzer-Lizenz für Odoo Enterprise
- * **Hosting**: Server-Dienste der Mint System
+* **Mehrwertsteuer**: Aufgrund der Weiterverrechnung, fällt die MwSt. doppelt an.
+* **Administration**: Verrechnung der Projektarbeit und Aufwand zur Entwicklung und Instandhaltung der Dokumentationen
+* **Qualitätssicherung**: Die Mint System prüft die Projektarbeit und übernimmt die Verantwortung der Ergebnisse
+* **Odoo Lizenz**: Benutzer-Lizenz für Odoo Enterprise
+* **Hosting**: Server-Dienste der Mint System
 
 Mit den Faktoren und dem externen Stundensatz wird eine Marge für freischaffende Mitarbeitende berechnet:
 
-> Marge = Externer Stundensatz * (Mehrwertsteuer +Administration + Qualitätssicherung + Lizenz + Hosting)
+> Marge = Externer Stundensatz * (Mehrwertsteuer + Administration + Qualitätssicherung + Lizenz + Hosting)
 
 Dazu ein Beispiel:
 

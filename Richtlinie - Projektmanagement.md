@@ -28,7 +28,7 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | Meta/                           | Verträge, Bestellungen, NDAs zum Projekt             |
 | Notizen/                        | Ordner für Notizen der Projektmitarbeiter            |
 | Output                          | Projektergebnisse                                    |
-| Process/                        | Verarbeitung der Inputs. Ausgabe in Output.          |
+| Prozess/                        | Verarbeitung der Inputs. Ausgabe in Output.          |
 | Projektplan.ext                 | Dokument mit Zeitplan                                |
 | README.md                       | Projektbeschreibung und Orientierung für Mitarbeiter |
 | Slides/                         | Dokumente für Präsentationen                         |
@@ -53,7 +53,7 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | Bilder/           | Bilder bezüglich Daten und Produkten                             |
 | Data/             | Nutzdaten für Projekt                                            |
 | Template          | Ordner mit Markdown/Obsidian Voralgen.                           |
-| assets/           | Mediendateien werden hier gespeichert                            |
+| attachments/      | Mediendateien und Anhänge werden hier gespeichert                |
 | tmp/              | Temporäre Daten die gelöscht werden dürfen, werden hier abgelegt |
 
 ### Projektphasen

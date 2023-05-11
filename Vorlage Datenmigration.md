@@ -9,7 +9,7 @@ Arbeitsschritte zum Export und Import von Daten müssen detailliert und nachvoll
 Prozess der Datenmigraton:
 1. **Export**: Beschreibt wie die Daten aus dem Quellsystem exportiert werden
 2. **Input**: Benennt die Input-Daten
-3. **Process**: Verarbeitungsschritte der Input-Daten
+3. **Prozess**: Verarbeitungsschritte der Input-Daten
 4. **Output**: Benennt die Output-Daten
 5. **Import**: Beschreibt wie die Output-Daten ins Zielsystem importiert werden
 
@@ -23,7 +23,7 @@ Welche Input-Daten stehen zur Verfügung und wie heissen die Dateien?
 
 * Lieferanten.xlsx
 
-## Process
+## Prozess
 
 Wie müssen die Input-Daten transformiert werden? Wie heissen die transformierten Dateien?
 

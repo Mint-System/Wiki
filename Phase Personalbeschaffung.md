@@ -36,3 +36,13 @@ Ergebnis: Der Bewerbungsprozess wird mit Odoo umgesetzt.
 **Zusage**
 
 * Wie erfolgt Zusage an den Bewerbenden?
+
+## Onboarding durchführen
+
+**Aufgaben**
+
+* Wie koordinieren Sie die Onboarding-Aufgaben? ⭐
+
+**Personal**
+
+* Welche Personalinformationen werden erfasst?

@@ -8,13 +8,15 @@ tags:
 
 Steps to upgrade a database for testing purposes from dev machine.
 
-* Checkout 14.0 environment
+### Prepare
+
+Checkout 14.0 environment.
 
 ```bash
 task checkout 14.0
 ```
 
-* Set env vars
+Set env vars.
 
 ```bash
 export MODE=test
@@ -26,39 +28,48 @@ export COMPANY=mint-system
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 ```
 
-* Clear the local filestore and database
+Clear the local filestore and database.
 
 ```bash
 task drop-db $DATABASE
 task clear-filestore $DATABASE
 ```
 
-* Start local development environment
+Start local development environment.
 
 ```bash
 task start db,native
 ```
 
-* Export remote database to local folder and restore it
+### Restore
+
+Restore to local folder and restore it
 
 ```bash
-odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
-odoo-restore -f tmp/$COMPANY/$DATABASE.zip
+odoo-restore -f "tmp/$COMPANY/$DATABASE.zip"
 ```
 
-* Remove unsupported modules
+Remove unsupported modules.
 
 ```bash
 task remove-module ...
 ```
 
-* Run the upgrade script with option `test`.
+Install modules.
+
+```bash
+task install-module ...
+```
+
+### Upgrade
+
+Run the upgrade script with option `test`.
 
 ```bash
 odoo-upgrade $MODE -d $DATABASE -t 15.0
 ```
 
-* Switch local development environment to targeted version
+Switch local development environment to targeted version.
 
 ```bash
 task checkout 15.0
@@ -66,14 +77,19 @@ task start db,native
 NEW_DATABASE=erp_test_15.0_YYYY_MM_DD_HH_SS
 ```
 
-* Open <http://localhost:8069/web/database/manager> to access new db
-* Install new modules
+### Configure
+
+Open <http://localhost:8069/web/database/manager> to access new db.
+
+Install new modules.
 
 ```bash
 task install-module $NEW_DATABASE mrp_account_enterprise
 ```
 
-* Export the database
+### Deploy
+
+Export the database
 
 ```bash
 odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
