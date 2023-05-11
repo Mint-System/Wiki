@@ -48,3 +48,9 @@ Ergebnis: Die Finanzplanung und Kostenanalyse erfolgt mit Odoo Finanzen.
 **Kontenplan**
 
 * Wie werden die Konten der Finanzbuchhaltung mit den Kostenstellen in Verbindung gebracht? ⭐
+
+## Kosten verrechnen
+
+**Verkauf**
+
+* Gibt es Kostenstellen, die einem Kundenauftrag verrechnet werden?
