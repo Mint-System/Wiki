@@ -6,7 +6,7 @@ tags:
 
 Tätigkeiten:
 
-* Festhalten Kernrprozesse
+* Festhalten Kernprozesse
 * Interview mit Stakeholder
 * Fragen aus Phasen beantworten
 * Dokumentieren der Antworten

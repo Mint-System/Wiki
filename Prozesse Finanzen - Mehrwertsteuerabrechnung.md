@@ -21,6 +21,6 @@ Arbeitsschritte:
 * Starten Sie die Eingaben und verwenden Sie die Ziffern wie folgt:
 	* `200`: Gesamter Umsatz im In- und Ausland
 	* `220`: Umsatz im Ausland
-	* `322`: Leistungen gemäss Steuersatz
-	* `332`: Leistungen gemäss Steuersatz
+	* `322`: Leistungen gemäss Steuersatz 5.90%
+	* `332`: Leistungen gemäss Steuersatz 6.50%
 * Erstellen Sie die MWST-Abrechnung und erfassen Sie die generierte Rechnung

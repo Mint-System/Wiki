@@ -18,7 +18,7 @@ Arbeitsschritte:
 	* Liste der Apps gemäss [https://www.odoo.com/pricing](https://www.odoo.com/pricing)
 * Angebot von [[Odoo S.A.]] erstellen lassen
 
-## Mint Sytem Angebot erstellen
+## Mint System Angebot erstellen
 Mit dem Odoo Verkäufe-App ein Angebot erstellen.
 
 Arbeitsschritte:
