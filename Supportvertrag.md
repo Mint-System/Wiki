@@ -36,7 +36,7 @@ Kosten pro Jahr: 0 CHF
 
 Mit dem MINT Supportvertrag erhalten Sie zusätzlich:
 * Zugriff auf die Supportnummer
-* eine Antwort innerhalb von 24 Stundne
+* eine Antwort innerhalb von 24 Stunden
 * Supportleistungen zu reduziertem Tarif
 
 Ihre Kontaktmöglichkeiten:

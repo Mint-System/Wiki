@@ -8,7 +8,9 @@ Verantwortlich: [[Infrastruktur]], [[Development]]
 
 Benutzername: `janikvonrotz`\
 Alias: `jvr`\
-Other mail: login@mint-system.ch\
+Mail: janik.vonrotz@mint-sytem.ch\
+Alias: jvr@mintsys.ch, [login@mint-system.ch](mailto://login@mint-system.ch)\
+Matrix: `@janikvonrotz:mint-system.ch`\
 vCard: [[vCard#Janik von Rotz]]
 
 ## SSH

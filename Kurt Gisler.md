@@ -8,7 +8,9 @@ Verantwortlich: [[Unternehmensentwicklung]]
 
 Benutzername: `kurtgisler`\
 Alias: `kgi`\
-Other mail: info@mint-system.ch
+Mail: kurt.gisler@mint-system.ch\
+Matrix: `@kurtgisler:mint-system.ch`\
+Alias: kgi@mintsys.ch, info@mint-system.ch
 
 ## CV
 
