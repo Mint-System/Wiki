@@ -32,6 +32,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Eris     | Nextcloud  Abächerli Forstunternehmen AG | `eris.mint-system.com`     | Hetzner     |
 | Gaia     | [[BigBlueButton]] [[Mint System GmbH]]   | `gaia.mint-system.com`     | Hetzner     |
 | Hades    | Demoumgebung                             | `hades.mint-system.com`    | Hetzner     |
+| Hebe     | Server Kreativartikel GmbH               | `hebe`                     | Off-Premise |
 | Helios   | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
 | Hermes   | [[Odoo]] Demoumgebung                    | `hermes.mint-system.com`   | Hetzner     |
 | Hyperion | Server [[Digital Cluster Uri]]           | `hyperion.mint-system.com` | ExoScale    |
@@ -56,3 +57,8 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Eros
 * Janus
 * Moros
+* Hestia
+* Rhea
+* Selene
+* Hebe
+* Momus

@@ -21,4 +21,4 @@ Für jede Odoo-Version werden Zertifizierungen angeboten.
 
 ## Tipps
 
-- Paralell zum Odoo-Test eine runbot-Instanz geföffnet haben, damit man die schwierigen Fragen direkt klären kann.
+- Paralell zum Odoo-Test eine Runbot-Instanz geöffnet haben, damit man die schwierigen Fragen direkt klären kann.
