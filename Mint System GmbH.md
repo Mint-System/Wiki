@@ -11,6 +11,8 @@ UID: CHE-150.248.608
 
 [[Mitgliedschaften]]
 
+[[Organisation]]
+
 ## Mitarbeitende
 
 * [[Janik von Rotz]]
