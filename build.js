@@ -20,6 +20,7 @@ const anchorPrefix = '#'
 const assetsFolder = 'assets'
 const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
 const wikiImage = /!\[\[([^\]]+\..+)\]\]/g
+const obsidianCancas = /!\[\[([^\]]+\.canvas.+)\]\]/g
 const embededContent = /!\[\[([^\]]*)\]\]/g
 const wikiLink = /\[\[([^\]]*)\]\]/g
 
@@ -29,7 +30,6 @@ function sanitizeName(file) {
         .replace('---', '-')
         .replace('--', '-')
         .replace("'", '-')
-        
 }
 
 function sanitizeAssetname(file) {
@@ -56,16 +56,24 @@ const groupBy = key => array =>
 
 function convert(content, file) {
 
-    // convert wiki image links
-    // ![[image.png]] -> <img src="./assets/image.png"/>
-    let matches = content.match(wikiImage) || []
+    // Convert Obsidian cancas
+    // ![[S3.canvas|S3]] -> <img src="./s3.svg"/>
+    let matches = content.match(obsidianCancas) || []
+    for (i = 0; i < matches.length; i++) {
+        let match = matches[i]
+        content = content.replace(match, `<img src="./s3.svg"/>`)
+    }
+
+    // Convert wiki image links
+    // ![[image.png]] -> <img src="./image.png"/>
+    matches = content.match(wikiImage) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
         let image = sanitizeAssetname(match.match(/!\[\[([^\]]*)/)[1])
         content = content.replace(match, `![](${basePathAssets}${image})`)
     }
 
-    // convert embeded content links
+    // Convert embeded content links
     // ![[Content]] -> !!!include(content.md)!!!
     matches = content.match(embededContent) || []
     for (i = 0; i < matches.length; i++) {
@@ -74,7 +82,7 @@ function convert(content, file) {
         content = content.replace(embededContent, `!!!include(${title}.md)!!!`)
     }
 
-    // convert wiki links
+    // Convert wiki links
     // [[href#anchor|title] -> [title > anchor](href#anchor)
     matches = content.match(wikiLink) || []
     for (i = 0; i < matches.length; i++) {
