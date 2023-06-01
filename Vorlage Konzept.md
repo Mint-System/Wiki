@@ -20,7 +20,10 @@ Author: Janik von Rotz
 	* Ausgangslage
 	* Systeme im Einsatz
 	* [[Begriffe]]
-* Analyse
+* Inputs
+	* Gap-Analyse
+	* Anforderungen
+	* IT-Architektur
 	* Daten
 * Lösungsvorschlag
 	* Abgrenzung
@@ -60,7 +63,7 @@ REFERENZ.
 
 **Mint System GmbH**
 
-Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und "bauen die Brücke" zwischen Odoo S.A. und dem Kunden. Wir verstehen die Prozesse von Firmen wie die KUNDE. Ergänzt mit dem Know-auhow aus erfolgreichen Odoo-Projekten (siehe Abschnitt Referenzen) sind wir ein kompetenter Partner für die Umsetzung von ERP-Projekten bei KUNDE.
+Als Mint System GmbH sind wir ein Schweizer Unternehmen aus der Region und "bauen die Brücke" zwischen Odoo S.A. und dem Kunden. Wir verstehen die Prozesse von Firmen wie die KUNDE. Ergänzt mit dem Know-how aus erfolgreichen Odoo-Projekten (siehe Abschnitt Referenzen) sind wir ein kompetenter Partner für die Umsetzung von ERP-Projekten bei KUNDE.
 
 **Mint System GmbH**
 
@@ -78,8 +81,8 @@ Mitarbeiter: 3
 
 Bezüglich der Lizenzierung von Odoo steht der Kunde direkt mit Odoo S.A. in Verbindung. Deshalb setzt sich das Angebot aus den folgenden zwei Offerten zusammen:
 
--   Dienstleistung von Mint System GmbH zur Implementierung von Odoo (S00031)
--   Lizenzen für die einzelnen Apps inkl. Wartung und technischer Support von Odoo S.A.
+* Dienstleistung von Mint System GmbH zur Implementierung von Odoo (S00037)
+* Odoo Enterprise Lizenz und technischer Support von Odoo S.A.
 
 ### Vorgehen
 

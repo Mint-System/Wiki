@@ -48,6 +48,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Dienste [[Mint System GmbH]]             | `zeus.mint-system.com`     | Hetzner     |
+| Matrix   | [[Matrix]]-Server bei ungleich.ch            | `matrix.mint-system.com`   | Ungleich            |
 
 ### Liste freie Namen
 
