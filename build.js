@@ -4,6 +4,7 @@ var path = require('path')
 /* arguments:
 all
 index
+canvas
 convert
 assets
 sitemap
@@ -44,7 +45,7 @@ function sanitizeAssetname(file) {
 }
 
 function loopMdFiles() {
-    return fs.readdirSync(__dirname).filter(file => (file.slice(-3) === '.md') && (ignoreFiles.indexOf(file) != 0))
+    return fs.readdirSync(__dirname).filter(file => (path.extname(file) === '.md') && (ignoreFiles.indexOf(file) != 0))
 }
 
 const groupBy = key => array =>
@@ -53,6 +54,58 @@ const groupBy = key => array =>
         objectsByKeyValue[value] = (objectsByKeyValue[value] || []).concat(obj);
         return objectsByKeyValue;
     }, {});
+
+function renderRect(node) {
+    return `\t<rect x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" rx="15" stroke="black" stroke-width="5" fill="none"/>\n`
+}
+
+function renderArrow(node) {
+    return `\t<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />\n`
+}
+
+function convertCanvasToSVG(content) {
+    nodes = content['nodes']
+    edges = content['edges']
+
+    let svg = ""
+    svg += '<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n'
+    svg += '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">\n'
+    svg += '<svg viewBox="-1200 -1200 1200 1200" xmlns="http://www.w3.org/2000/svg">\n'
+
+    for (const node of nodes) {
+        svg += renderRect(node)
+    }
+
+    for (const edge of edges) {
+        fromNode = nodes.filter(node => (node['id'] === edge['fromNode']))
+        toNode = nodes.filter(node => (node['id'] === edge['toNode']))
+        let fromX, fromY, toX, toY = 0
+        
+        // Calculate x and y position for from and to point
+        if (edge['fromSide'] === 'right') {
+            fromX = fromNode['x'] + fromNode['width']
+            fromY = fromNode['y'] + fromNode['height'] / 2
+        
+        if (edge['fromSide'] === 'bottom') {
+            fromX = fromNode['x'] + fromNode['with'] / 2 
+            fromY = fromNode['y']
+        }
+        if (edge['fromSide'] === 'left') {
+            fromX = fromNode['x']
+            fromY = fromNode['y'] + fromNode['height'] / 2
+
+        }
+        if (edge['fromSide'] === 'top') {
+            fromX = fromNode['x'] + fromNode['width'] / 2
+            fromY = fromNode['y'] + fromNode['height']
+        }
+        svg += renderArrow(edge)
+    }
+
+    svg += '</svg>'
+
+    return svg
+}
 
 function convert(content, file) {
 
@@ -151,6 +204,30 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
 
     // log
     console.log('Building title index finished.')
+}
+
+
+if (!firstArg || ['all', 'canvas'].indexOf(firstArg) > 0) {
+        
+    // log
+    console.log('Convert canvas files ...')
+
+    // Loop all cavas files
+    fs.readdirSync(__dirname).filter(file => (path.extname(file) === '.canvas')).forEach((file) => {
+
+        // Get file name
+        let fileName = file.replace('\.canvas', '')
+
+        // Get content
+        let content = fs.readFileSync(file, 'utf8')
+        
+        content = convertCanvasToSVG(JSON.parse(content))
+
+        fs.writeFileSync(fileName + '.svg', content)
+    })
+
+    // log
+    console.log('Converting canvas files finished.')
 }
 
 if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
