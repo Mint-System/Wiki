@@ -12,3 +12,4 @@ Zur Umsetzung eines Hosting-Projekt können diese Phase angewendet werden:
 * [[Phase Wordpress Hosting]]
 * [[Phase Moodle Hosting]]
 * [[Phase Frappe Hosting]]
+* [[Phase Keycloak Hosting]]

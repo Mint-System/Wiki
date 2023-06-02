@@ -2,17 +2,19 @@
 tags:
 - Phasen
 ---
-# Phase Verkäufe
+# Phase Verkauf
 
 Tätigkeiten:
 
 * Angebotsvorlagen und Produktsets erstellen
-* Lieferbedingungen festlegen
+* Lieferbedingungen festlegen und auf Kontakte hinterlegen
+* Allgemeine Geschäftsbedingungen formulieren
+* Anpassen Bericht und E-Mail-Vorlagen
 * Festlegen lieferbare Produkte und Dienstleistungen
 
-Ergebnis: Alle Daten zum Verkaufen sind bereit.
+Ergebnis: Der kann mit Odoo Verkaufsverträge abschliessen
 
-## Produkte anlegen (Stufe 2)
+## Produkte anlegen
 
 **Verkaufspreis**
 
@@ -21,8 +23,6 @@ Ergebnis: Alle Daten zum Verkaufen sind bereit.
 - Welches ist die Standard Preisliste auf den Kontakten?
 
 **Steuern (Verkauf)**
-
-[Beschreibung im Wiki](https://www.odoo-wiki.org/theorie-mehrwertsteuer.html#steuersatze)
 
 - Welche Steuern werden für den Verkauf des Produkts festgelegt?
 

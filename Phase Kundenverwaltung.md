@@ -12,7 +12,7 @@ Tätigkeiten:
 * Einrichten Erfassung via Website
 * Standardaktivitäten einrichten
 
-Ergebnis: Der Verkauf kann Chancen mit der Kundenverwaltung bearbeiten
+Ergebnis: Der Verkauf kann Chancen mit der Kundenverwaltung bearbeiten.
 
 ## Pipeline-Stufen einrichten
 

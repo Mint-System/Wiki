@@ -98,9 +98,7 @@ Im Kick-Off wird das Projektteam mit dem Vorgehensmodell, der Projektmethodik un
 
 **Implementierung**
 
-Die Projektabwicklung erfolgt in Phasen. Abhängig von den Ergebnissen der Gap-Analysen kann es bei den geplanten Phasen zu Änderungen kommen. Dies betrifft insbesondere den Fall von Eigentwicklungen.
-
-Siehe [[Phasen Textbausteine]].
+Die Projektabwicklung erfolgt in Phasen. Abhängig von den Ergebnissen der Gap-Analysen kann es bei den geplanten Phasen zu Änderungen kommen. Dies betrifft insbesondere den Fall von Eigenentwicklung.
 
 **Go-Live**
 

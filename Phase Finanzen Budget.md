@@ -2,7 +2,7 @@
 tags:
 - Phasen
 ---
-# Phase Finanzen Erweitert
+# Phase Finanzen Budget
 
 Tätigkeiten:
 

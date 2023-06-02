@@ -2,15 +2,15 @@
 tags:
 - Phasen
 ---
-# Phase Produktentwicklung
+# Phase Produkte
 
 Tätigkeiten:
 
 * Alle Produkte importieren
 * Stücklisten, Kits und Sets definieren
-* Die Zuordnung von Produktzeichnungen einrichten
-* Die Rückverfolgbarkeit des Ursprungslands einstellen
-* Die Erfassung der Zolltarifnummer definieren
+* Die Zuordnung von Produktbezeichnungen einrichten
+* Beschreibungen für Verkauf und Einkauf festlegen
+* Zusätzliche Attribute wie Zolltarifnummer definieren
 
 Ergebnis: Alle Produkte sind definiert.
 

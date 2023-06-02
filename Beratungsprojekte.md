@@ -13,6 +13,7 @@ Zur Umsetzung eines Beratungsprojek können diese Phase angewendet werden:
 * [[Phase Softwareevaluation]]
 * [[Phase Projekteingabe]]
 * [[Phase Roadmap]]
+* [[Phase Coaching Odoo Entwicklung]]
 
 ## [[Prozesse]]
 

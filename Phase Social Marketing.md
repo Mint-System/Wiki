@@ -2,7 +2,7 @@
 tags:
 - Phasen
 ---
-# Phase Phase Social Marketing
+# Phase Social Marketing
 
 Tätigkeiten:
 
