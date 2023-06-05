@@ -85,7 +85,7 @@ function convertCanvasToSVG(content) {
         if (edge['fromSide'] === 'right') {
             fromX = fromNode['x'] + fromNode['width']
             fromY = fromNode['y'] + fromNode['height'] / 2
-        
+        }
         if (edge['fromSide'] === 'bottom') {
             fromX = fromNode['x'] + fromNode['with'] / 2 
             fromY = fromNode['y']
