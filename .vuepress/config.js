@@ -1,10 +1,10 @@
-const { defaultTheme } = require('vuepress')
-const { searchPlugin } = require('@vuepress/plugin-search')
-const { plausiblePlugin } = require('./plausible')
-// const { path } = require('@vuepress/utils')
-// const { registerComponentsPlugin } = require('@vuepress/plugin-register-components')
+import { defaultTheme } from 'vuepress'
+import { searchPlugin } from '@vuepress/plugin-search'
+import { plausiblePlugin } from './plausible'
+import { defineUserConfig } from 'vuepress'
 
-module.exports = {
+
+export default defineUserConfig({
     lang: 'de-CH',
     title: 'Wiki Mint System',
     description: 'Strukturierte Wissensdatenbank der Mint System GmbH. ',
@@ -29,11 +29,5 @@ module.exports = {
         plausiblePlugin({
             'domain': 'wiki.mint-system.ch'
         }),
-        // registerComponentsPlugin({
-        //     componentsDir: path.resolve(__dirname, './components')
-        // }),
     ],
-    extendsMarkdown: (md) => {
-        md.use(require('markdown-it-include'))
-    },
-}
+})
