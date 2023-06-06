@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg viewBox="-1200 -1200 1200 1200" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="-1210 -715 1580 981" xmlns="http://www.w3.org/2000/svg">
 	<rect x="-621" y="-405" width="160" height="130" rx="15" stroke="black" stroke-width="5" fill="none"/>
 	<rect x="-621" y="-570" width="160" height="130" rx="15" stroke="black" stroke-width="5" fill="none"/>
 	<rect x="-440" y="-405" width="160" height="130" rx="15" stroke="black" stroke-width="5" fill="none"/>
@@ -9,4 +9,8 @@
 	<rect x="-941" y="-144" width="400" height="400" rx="15" stroke="black" stroke-width="5" fill="none"/>
 	<rect x="-1200" y="-705" width="400" height="400" rx="15" stroke="black" stroke-width="5" fill="none"/>
 	<rect x="-440" y="-570" width="160" height="130" rx="15" stroke="black" stroke-width="5" fill="none"/>
+	<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />
+	<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />
+	<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />
+	<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />
 </svg>

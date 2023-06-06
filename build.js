@@ -69,8 +69,52 @@ function convertCanvasToSVG(content) {
 
     let svg = ""
     svg += '<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n'
-    svg += '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">\n'
-    svg += '<svg viewBox="-1200 -1200 1200 1200" xmlns="http://www.w3.org/2000/svg">\n'
+    svg += '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">\n'    
+
+    // Calculate view box size
+    let minX = 0
+    let minY = 0
+    let width = 0
+    let height = 0
+    let spacing = 10
+
+    for (const node of nodes) {
+        nodeX = node['x']
+        nodeY = node['y']
+        nodeWith = node['width']
+        nodeHeight = node['height']
+
+        if (nodeX < minX) {
+            minX = nodeX
+        }
+        if (nodeY < minY) {
+            minY = nodeY
+        }
+    }
+
+    console.log(minX, minY, width, height)
+
+    for (const node of nodes) {
+        nodeX = node['x']
+        nodeY = node['y']
+        nodeWith = node['width']
+        nodeHeight = node['height']
+
+        nodeMaxX = Math.abs(nodeX - minX) + nodeWith
+        if (width < nodeMaxX) {
+            width = nodeMaxX
+        }
+        nodeMaxY = Math.abs(nodeY - minY) + nodeHeight
+        if (height < nodeMaxY) {
+            height = nodeMaxY
+        }
+
+        console.log(nodeX, nodeY, nodeWith, nodeHeight, nodeMaxX, nodeMaxY)
+    }
+    
+
+
+    svg += `<svg viewBox="${minX-spacing} ${minY-spacing} ${width+spacing*2} ${height+spacing*2}" xmlns="http://www.w3.org/2000/svg">\n`
 
     for (const node of nodes) {
         svg += renderRect(node)
