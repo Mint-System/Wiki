@@ -4,7 +4,7 @@ tags:
 ---
 # Kalkulation Managed Server
 
-Genaueres zur Kalkulation des Angebot *Manage Server*.
+Genaueres zur Kalkulation des Angebot *Managed Server*.
 
 ## Standort
 
@@ -27,7 +27,7 @@ Die Serverstufen wurden standortübergreifend gebündelt:
 | hosttech   | **Sunny**, 2CPU, 2GB RAM, 50GB Disk, 9.90 CHF | **Foggy**, 4CPU, 4GB RAM, 100 GB, 19.90 CHF     | **Snow**, 6CPU,  8GB RAM, 200GB Disk, 39.90 CHF  | **Ice**, 8CPU, 12GB RAM, 300GB Disk, 59.90 CHF            |
 | Infomaniak | -                                             | -                                               | 4CPU, 12GB RAM, 250GB Disk, 38.41 CHF            | 8CPU, 24GB RAM, 250GB Disk, 97.99 CHF                     |
 
-Die hier genannten Preisen dienen als Orientierungspunkt. Je nach Konfiguration und Aktivität des Sever verändern sich die Kosten
+Die hier genannten Preisen dienen als Orientierungspunkt. Je nach Konfiguration und Aktivität des Sever verändern sich die Kosten.
 
 ## Speicherplatz
 
@@ -35,10 +35,10 @@ Die Kosten für zusätzlichen Speicherplatz sind vom ausgewählten Anbieter abh�
 
 ## Berechnung
 
-Der finale Preis umfasst nicht nur die Kosten des Anbieters, sondern auch die damit betriebnen Hosting-Lösungen und Konfiguration des Servers.
+Der finale Preis umfasst nicht nur die Kosten des Anbieters, sondern auch die damit betriebenen Hosting-Lösungen und Konfiguration des Servers.
 
 + Service Managed: 20 CHF
-+ Zuschlag Standort Schweiz 20 CHF
++ Zuschlag Standort Schweiz: 20 CHF
 + Zuschlag Speicherplatz
 + Zuschlag Typ
 	+ Tiny: 0 CHF
