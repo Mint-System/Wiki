@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg viewBox="-1210 -715 1580 981" xmlns="http://www.w3.org/2000/svg">
-	<rect x="-621" y="-405" width="160" height="130" rx="15" stroke="black" stroke-width="5" fill="none"/>
-	<rect x="-621" y="-570" width="160" height="130" rx="15" stroke="black" stroke-width="5" fill="none"/>
-	<rect x="-440" y="-405" width="160" height="130" rx="15" stroke="black" stroke-width="5" fill="none"/>
-	<rect x="-40" y="-344" width="400" height="400" rx="15" stroke="black" stroke-width="5" fill="none"/>
-	<rect x="-480" y="-144" width="400" height="400" rx="15" stroke="black" stroke-width="5" fill="none"/>
-	<rect x="-941" y="-144" width="400" height="400" rx="15" stroke="black" stroke-width="5" fill="none"/>
-	<rect x="-1200" y="-705" width="400" height="400" rx="15" stroke="black" stroke-width="5" fill="none"/>
-	<rect x="-440" y="-570" width="160" height="130" rx="15" stroke="black" stroke-width="5" fill="none"/>
-	<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />
-	<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />
-	<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />
-	<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />
-</svg>
+<svg viewBox="-1210 -750 1620 1016" xmlns="http://www.w3.org/2000/svg">
+
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="0" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z"/>
+    </marker>
+    	<line x1="-275" y1="-505" x2="-20" y2="-344" stroke="#7e7e7e" stroke-width="7" marker-end="url(#triangle-#7e7e7e)" />
+
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="0" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z"/>
+    </marker>
+    	<line x1="-360" y1="-270" x2="-280" y2="-164" stroke="#7e7e7e" stroke-width="7" marker-end="url(#triangle-#7e7e7e)" />
+
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="0" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z"/>
+    </marker>
+    	<line x1="-626" y1="-340" x2="-741" y2="-164" stroke="#7e7e7e" stroke-width="7" marker-end="url(#triangle-#7e7e7e)" />
+
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#aba960" viewBox="0 0 10 10" refX="0" refY="5" fill="#aba960" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z"/>
+    </marker>
+    	<line x1="-626" y1="-505" x2="-780" y2="-505" stroke="#aba960" stroke-width="7" marker-end="url(#triangle-#aba960)" />
+
+    
+    	<rect x="-621" y="-405" width="160" height="130" rx="15" stroke="#795fac" stroke-width="7" fill="none"/>
+
+    		<text x="-606" y="-375" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Aerodoo</text>
+    
+    	<rect x="-621" y="-570" width="160" height="130" rx="15" stroke="#7e7e7e" stroke-width="7" fill="none"/>
+
+    		<text x="-606" y="-540" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Caluma</text>
+    
+    	<rect x="-440" y="-405" width="160" height="130" rx="15" stroke="#6e1151" stroke-width="7" fill="none"/>
+
+    		<text x="-425" y="-375" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Odoo</text>
+    
+    	<rect x="-480" y="-144" width="400" height="400" rx="15" stroke="#7e7e7e" stroke-width="7" fill="none"/>
+
+    		<text x="-450" y="-99" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/odoo.html">Odoo</a></text>
+    
+    	<rect x="-941" y="-144" width="400" height="400" rx="15" stroke="#7e7e7e" stroke-width="7" fill="none"/>
+
+    		<text x="-911" y="-99" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/aerodoo.html">Aerodoo</a></text>
+    
+    	<rect x="-1200" y="-705" width="400" height="400" rx="15" stroke="#7e7e7e" stroke-width="7" fill="none"/>
+
+    		<text x="-1170" y="-660" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/caluma.html">Caluma</a></text>
+    
+    	<rect x="-440" y="-570" width="160" height="130" rx="15" stroke="#249391" stroke-width="7" fill="none"/>
+
+    		<text x="-425" y="-540" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Infrastruktur</text>
+    
+    	<rect x="-120" y="-740" width="400" height="143" rx="15" stroke="#7e7e7e" stroke-width="7" fill="none"/>
+
+    	<image href="https://github.com/Mint-System/Knowledge/blob/master/assets/subscription banner.jpg?raw=true" x="-120" y="-740" width="400" height="143" clip-path="inset(0% round 15px)" />
+    
+    	<rect x="0" y="-544" width="400" height="400" rx="15" stroke="#7e7e7e" stroke-width="7" fill="none"/>
+
+    		<text x="30" y="-499" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/infrastruktur.html">Infrastruktur</a></text>
+    </svg>

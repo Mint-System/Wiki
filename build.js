@@ -55,15 +55,78 @@ const groupBy = key => array =>
         return objectsByKeyValue;
     }, {});
 
-function renderRect(node) {
-    return `\t<rect x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" rx="15" stroke="black" stroke-width="5" fill="none"/>\n`
+function mapColor(color) {
+    colors = {
+        0: '#7e7e7e',
+        1: '#aa363d',
+        2: '#a56c3a',
+        3: '#aba960',
+        4: '#199e5c',
+        5: '#249391',
+        6: '#795fac'
+    }
+    let appliedColor = colors[0]
+    
+    if (color && (0 < color.length < 2)) {
+        appliedColor = colors[color]
+    }
+    if (color && (1 < color.length)) {
+        appliedColor = color
+    }
+    return appliedColor
 }
 
-function renderArrow(node) {
-    return `\t<line x1="10" y1="10" x2="90" y2="90" stroke="black" marker-end="url(#arrow)" />\n`
+function renderRect(node) {
+    const strockWidth = 7
+    const fontWeight = 'bold'
+
+    let textOffsetX = 15
+    let textOffsetY = 30
+    let fontColor = '#2c2d2c'
+    let text = node['text']
+    let fontSize = 18
+
+    // Link markdown file
+
+    if (node['file'] && node['file'].endsWith('.md')) {
+        title = node['file'].replace('.md', '')
+        text = `<a href="/${title.toLowerCase()}.html">${title}</a>`
+        fontColor = '#9a7fee'
+        fontSize = 28
+        textOffsetX = 30
+        textOffsetY = 45
+    }
+
+    content = `\t<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="Arial" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
+    
+    // If file is not markdown file render as image
+
+    if (node['file'] && !node['file'].endsWith('.md')) {
+        filePath = node['file']
+        content = `<image href="${gitUrl + filePath}?raw=true" x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" clip-path="inset(0% round 15px)" />`
+        fontColor = '#9a7fee'
+    }
+
+    return `
+    \t<rect x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" rx="15" stroke="${mapColor(node['color'])}" stroke-width="${strockWidth}" fill="none"/>\n
+    \t${content}
+    `
+}
+
+function renderArrow(edge) {
+    const strockWidth = 7
+    const color = mapColor(edge['color'])
+    
+    return `
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-${color}" viewBox="0 0 10 10" refX="0" refY="5" fill="${color}" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z"/>
+    </marker>
+    \t<line x1="${edge['fromX']}" y1="${edge['fromY']}" x2="${edge['toX']}" y2="${edge['toY']}" stroke="${color}" stroke-width="${strockWidth}" marker-end="url(#triangle-${color})" />\n
+    `
 }
 
 function convertCanvasToSVG(content) {
+
     nodes = content['nodes']
     edges = content['edges']
 
@@ -71,12 +134,10 @@ function convertCanvasToSVG(content) {
     svg += '<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n'
     svg += '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">\n'    
 
-    // Calculate view box size
+    // Calculate view box position
+
     let minX = 0
     let minY = 0
-    let width = 0
-    let height = 0
-    let spacing = 10
 
     for (const node of nodes) {
         nodeX = node['x']
@@ -92,7 +153,10 @@ function convertCanvasToSVG(content) {
         }
     }
 
-    console.log(minX, minY, width, height)
+    // Caclulate view box size
+
+    let width = 0
+    let height = 0
 
     for (const node of nodes) {
         nodeX = node['x']
@@ -108,42 +172,80 @@ function convertCanvasToSVG(content) {
         if (height < nodeMaxY) {
             height = nodeMaxY
         }
-
-        console.log(nodeX, nodeY, nodeWith, nodeHeight, nodeMaxX, nodeMaxY)
     }
+
+    // Add view box
+
+    const spacing = 10
     
-
-
     svg += `<svg viewBox="${minX-spacing} ${minY-spacing} ${width+spacing*2} ${height+spacing*2}" xmlns="http://www.w3.org/2000/svg">\n`
 
-    for (const node of nodes) {
-        svg += renderRect(node)
-    }
+    // Render edges as lines
 
     for (const edge of edges) {
-        fromNode = nodes.filter(node => (node['id'] === edge['fromNode']))
-        toNode = nodes.filter(node => (node['id'] === edge['toNode']))
-        let fromX, fromY, toX, toY = 0
+        const fromOffset = 5
+        const toOffset = 20
+
+        // Get start and target nodes
+
+        fromNode = nodes.filter(node => (node['id'] === edge['fromNode']))[0]
+        toNode = nodes.filter(node => (node['id'] === edge['toNode']))[0]
+        let fromX = 0
+        let fromY = 0
+        let toX = 0
+        let toY = 0
         
-        // Calculate x and y position for from and to point
+        // Calculate x and y position of arrow start
+
         if (edge['fromSide'] === 'right') {
-            fromX = fromNode['x'] + fromNode['width']
+            fromX = fromNode['x'] + fromNode['width'] + fromOffset
             fromY = fromNode['y'] + fromNode['height'] / 2
         }
         if (edge['fromSide'] === 'bottom') {
-            fromX = fromNode['x'] + fromNode['with'] / 2 
-            fromY = fromNode['y']
+            fromX = fromNode['x'] + fromNode['width'] / 2 
+            fromY = fromNode['y'] + fromNode['height'] + fromOffset
         }
         if (edge['fromSide'] === 'left') {
-            fromX = fromNode['x']
+            fromX = fromNode['x'] - fromOffset
             fromY = fromNode['y'] + fromNode['height'] / 2
-
         }
         if (edge['fromSide'] === 'top') {
             fromX = fromNode['x'] + fromNode['width'] / 2
-            fromY = fromNode['y'] + fromNode['height']
+            fromY = fromNode['y'] - fromOffset
         }
+        edge['fromX'] = fromX
+        edge['fromY'] = fromY
+
+        // Calculate x and y position of arrow target        
+
+        if (edge['toSide'] === 'right') {
+            toX = toNode['x'] + toNode['width'] + toOffset
+            toY = toNode['y'] + toNode['height'] / 2
+        }
+        if (edge['toSide'] === 'bottom') {
+            toX = toNode['x'] + toNode['width'] / 2 
+            toY = toNode['y'] + toNode['height'] + toOffset
+        }
+        if (edge['toSide'] === 'left') {
+            toX = toNode['x'] - toOffset
+            toY = toNode['y'] + toNode['height'] / 2
+        }
+        if (edge['toSide'] === 'top') {
+            toX = toNode['x'] + toNode['width'] / 2
+            toY = toNode['y'] - toOffset
+        }
+        edge['toX'] = toX
+        edge['toY'] = toY
+
+        console.log(edge)
+
         svg += renderArrow(edge)
+    }
+
+    // Render nodes as rect
+
+    for (const node of nodes) {
+        svg += renderRect(node)
     }
 
     svg += '</svg>'
