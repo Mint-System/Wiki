@@ -76,7 +76,7 @@ function mapColor(color) {
     return appliedColor
 }
 
-function renderRect(node) {
+function renderNode(node) {
     const strockWidth = 7
     const fontWeight = 'bold'
 
@@ -97,7 +97,7 @@ function renderRect(node) {
         textOffsetY = 45
     }
 
-    content = `\t<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="Arial" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
+    content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="Arial" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
     
     // If file is not markdown file render as image
 
@@ -108,12 +108,28 @@ function renderRect(node) {
     }
 
     return `
-    \t<rect x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" rx="15" stroke="${mapColor(node['color'])}" stroke-width="${strockWidth}" fill="none"/>\n
-    \t${content}
+    <rect x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" rx="15" stroke="${mapColor(node['color'])}" stroke-width="${strockWidth}" fill="none"/>
+    ${content}
     `
 }
 
-function renderArrow(edge) {
+function renderGroup(group) {
+    const strockWidth = 7
+    const fontWeight = 'bold'
+
+    let textOffsetX = 15
+    let textOffsetY = -15
+    let fontColor = '#2c2d2c'
+    let text = group['label']
+    let fontSize = 24
+
+    return `
+    <rect x="${group['x']}" y="${group['y']}" width="${group['width']}" height="${group['height']}" rx="15" stroke="${mapColor(group['color'])}" stroke-width="${strockWidth}" fill="none"/>
+    <text x="${group['x'] + textOffsetX}" y="${group['y'] + textOffsetY}" font-family="Arial" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>
+    `
+}
+
+function renderEdge(edge) {
     const strockWidth = 7
     const color = mapColor(edge['color'])
     
@@ -121,7 +137,7 @@ function renderArrow(edge) {
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-${color}" viewBox="0 0 10 10" refX="0" refY="5" fill="${color}" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
         <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
-    \t<line x1="${edge['fromX']}" y1="${edge['fromY']}" x2="${edge['toX']}" y2="${edge['toY']}" stroke="${color}" stroke-width="${strockWidth}" marker-end="url(#triangle-${color})" />\n
+    <line x1="${edge['fromX']}" y1="${edge['fromY']}" x2="${edge['toX']}" y2="${edge['toY']}" stroke="${color}" stroke-width="${strockWidth}" marker-end="url(#triangle-${color})" />
     `
 }
 
@@ -176,14 +192,14 @@ function convertCanvasToSVG(content) {
 
     // Add view box
 
-    const spacing = 10
+    const spacing = 50
     
     svg += `<svg viewBox="${minX-spacing} ${minY-spacing} ${width+spacing*2} ${height+spacing*2}" xmlns="http://www.w3.org/2000/svg">\n`
 
     // Render edges as lines
 
     for (const edge of edges) {
-        const fromOffset = 5
+        const fromOffset = 3
         const toOffset = 20
 
         // Get start and target nodes
@@ -237,14 +253,21 @@ function convertCanvasToSVG(content) {
         edge['toX'] = toX
         edge['toY'] = toY
 
-        svg += renderArrow(edge)
+        svg += renderEdge(edge)
     }
 
     // Render nodes as rect
 
-    for (const node of nodes) {
-        svg += renderRect(node)
+    for (const node of nodes.filter(node => (['text', 'file'].includes(node['type'])))) {
+        svg += renderNode(node)
     }
+
+    // Render group as rect
+
+    for (const group of nodes.filter(node => (node['type'] === 'group'))) {
+        svg += renderGroup(group)
+    }
+
 
     svg += '</svg>'
 
