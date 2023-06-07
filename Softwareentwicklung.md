@@ -12,6 +12,10 @@ Wir verwenden [[Zsh]] als Shell.
 
 Als Integrated Development Environment (IDE) verwenden wir [[VSCodium]].
 
+## Continuous Delivery
+
+Mehr dazu unter [[Continuous Delivery]].
+
 ## Troubleshooting
 
 [[Softwareentwicklung Troubleshooting]]

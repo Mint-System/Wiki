@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"group","id":"d69a7390c4e831cd","x":-180,"y":-260,"width":290,"height":260,"label":"Server Environment"},
+		{"type":"text","text":"Staging (int)","id":"750c9f8b67bccb0f","x":-160,"y":-160,"width":250,"height":60},
+		{"type":"text","text":"Development (dev)","id":"6ace56e7f65f66ed","x":-160,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"Production (main)","id":"8d24fb19cc0a5f90","x":-160,"y":-240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ee100a4f2eb8a355","fromNode":"6ace56e7f65f66ed","fromSide":"top","toNode":"750c9f8b67bccb0f","toSide":"bottom"},
+		{"id":"075d76caf3328551","fromNode":"6ace56e7f65f66ed","fromSide":"top","toNode":"750c9f8b67bccb0f","toSide":"bottom"},
+		{"id":"0f8d3bca95afe73f","fromNode":"750c9f8b67bccb0f","fromSide":"top","toNode":"8d24fb19cc0a5f90","toSide":"bottom"}
+	]
+}

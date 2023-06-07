@@ -6,6 +6,7 @@ tags:
 Das Angebot der Mint System.
 
 ## Software Know-how
+
 * [[LibreOffice]]
 * [[Odoo]]
 * [[Moodle]]
@@ -35,5 +36,6 @@ Das Angebot der Mint System.
 * [[Wordpress Hosting]]
 
 ## Produkte
+
 * [[Terminal Zeiterfassung]]
 * [[Odoo Maintenance]]
