@@ -237,8 +237,6 @@ function convertCanvasToSVG(content) {
         edge['toX'] = toX
         edge['toY'] = toY
 
-        console.log(edge)
-
         svg += renderArrow(edge)
     }
 
@@ -255,12 +253,13 @@ function convertCanvasToSVG(content) {
 
 function convert(content, file) {
 
-    // Convert Obsidian cancas
+    // Convert Obsidian canvas
     // ![[S3.canvas|S3]] -> <img src="./s3.svg"/>
     let matches = content.match(obsidianCancas) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
-        content = content.replace(match, `<img src="./s3.svg"/>`)
+        let image = match.replace('.canvas', '.svg')
+        content = content.replace(match, `![](${basePathAssets}${image})`)
     }
 
     // Convert wiki image links
