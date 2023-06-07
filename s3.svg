@@ -23,29 +23,29 @@
     <line x1="-624" y1="-505" x2="-805" y2="-535.5" stroke="#aba960" stroke-width="5" marker-end="url(#triangle-#aba960)" />
     
     <rect x="-621" y="-405" width="160" height="130" rx="15" stroke="#795fac" stroke-width="4" fill="none"/>
-    <text x="-606" y="-375" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Aerodoo</text>
+    <text x="-606" y="-375" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Aerodoo</text>
     
     <rect x="-621" y="-570" width="160" height="130" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-606" y="-540" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Caluma</text>
+    <text x="-606" y="-540" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Caluma</text>
     
     <rect x="-440" y="-405" width="160" height="130" rx="15" stroke="#6e1151" stroke-width="4" fill="none"/>
-    <text x="-425" y="-375" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Odoo</text>
+    <text x="-425" y="-375" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Odoo</text>
     
     <rect x="-941" y="-144" width="301" height="86" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-911" y="-99" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/aerodoo.html">Aerodoo</a></text>
+    <text x="-911" y="-99" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/aerodoo.html">Aerodoo</a></text>
     
     <rect x="-440" y="-570" width="160" height="130" rx="15" stroke="#249391" stroke-width="4" fill="none"/>
-    <text x="-425" y="-540" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Infrastruktur</text>
+    <text x="-425" y="-540" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Infrastruktur</text>
     
     <rect x="-640" y="-800" width="400" height="143" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
     <image href="https://github.com/Mint-System/Knowledge/blob/master/assets/subscription banner.jpg?raw=true" x="-640" y="-800" width="400" height="143" clip-path="inset(0% round 15px)" />
     
     <rect x="-140" y="-557" width="300" height="104" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-110" y="-512" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/infrastruktur.html">Infrastruktur</a></text>
+    <text x="-110" y="-512" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/infrastruktur.html">Infrastruktur</a></text>
     
     <rect x="-380" y="-100" width="240" height="84" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-350" y="-55" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/odoo.html">Odoo</a></text>
+    <text x="-350" y="-55" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/odoo.html">Odoo</a></text>
     
     <rect x="-1200" y="-618" width="380" height="165" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-1170" y="-573" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/caluma.html">Caluma</a></text>
+    <text x="-1170" y="-573" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/caluma.html">Caluma</a></text>
     </svg>

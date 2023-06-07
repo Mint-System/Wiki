@@ -85,7 +85,8 @@ function renderNode(node) {
     let fontColor = '#2c2d2c'
     let text = node['text']
     let fontSize = 18
-
+    let fontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif'
+    
     // Process multiline text
 
     if (text && text.split('\n').length > 1) {
@@ -108,7 +109,7 @@ function renderNode(node) {
         textOffsetY = 45
     }
 
-    content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="Arial" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
+    content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
     
     // If file is not markdown file render as image
 
