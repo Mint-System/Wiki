@@ -281,7 +281,7 @@ function convert(content, file) {
     let matches = content.match(obsidianCancas) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
-        let title = match.match(/\|(.*)\]\]/)[1]
+        let title = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
         content = content.replace(match, `![](${basePathAssets}${title}.svg)`)
     }
 
@@ -384,7 +384,7 @@ if (!firstArg || ['all', 'canvas'].indexOf(firstArg) > 0) {
     fs.readdirSync(__dirname).filter(file => (path.extname(file) === '.canvas')).forEach((file) => {
 
         // Get file name
-        let fileName = file.replace('\.canvas', '')
+        let fileName = sanitizeAssetname(file.replace('\.canvas', ''))
 
         // Get content
         let content = fs.readFileSync(file, 'utf8')
