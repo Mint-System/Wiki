@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c2b83b58ff104957","x":-150,"y":-200,"width":250,"height":60,"color":"1","type":"text","text":"Create canvas in Obsidian"},
+		{"id":"28b7d169be420aea","x":-200,"y":-80,"width":350,"height":240,"color":"#803dd1","type":"file","file":"Obsidian.md"},
+		{"type":"text","text":"Export as SVG","id":"3bbb4a8b9a8a726b","x":240,"y":10,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"9a41a93da6186142","fromNode":"c2b83b58ff104957","fromSide":"bottom","toNode":"28b7d169be420aea","toSide":"top"},
+		{"id":"14fcc8b5466e0f72","fromNode":"28b7d169be420aea","fromSide":"right","toNode":"3bbb4a8b9a8a726b","toSide":"left"}
+	]
+}

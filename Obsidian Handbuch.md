@@ -14,6 +14,10 @@ Navigieren Sie nach **Settings > Core plugin** und aktivieren Sie die Option **O
 
 Obsidian bietet eine umfangreiche Hilfestellung. Ein Tutorial um Markdown zu lernen gibt es [[Markdown Tutorial|hier]].
 
+## Canvas erstellen
+
+Mit Obidisan können Sie einen Canvas erstellen: [[Canvas.canvas|Canvas]]
+
 ## Plugins
 
 ### QuickAdd
