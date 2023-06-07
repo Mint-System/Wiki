@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="-210 -210 710 380" xmlns="http://www.w3.org/2000/svg">
+
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="0" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z"/>
+    </marker>
+    	<line x1="-25" y1="-135" x2="-25" y2="-100" stroke="#7e7e7e" stroke-width="7" marker-end="url(#triangle-#7e7e7e)" />
+
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="0" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z"/>
+    </marker>
+    	<line x1="155" y1="40" x2="220" y2="40" stroke="#7e7e7e" stroke-width="7" marker-end="url(#triangle-#7e7e7e)" />
+
+    
+    	<rect x="-150" y="-200" width="250" height="60" rx="15" stroke="#aa363d" stroke-width="7" fill="none"/>
+
+    		<text x="-135" y="-170" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Create canvas in Obsidian</text>
+    
+    	<rect x="-200" y="-80" width="350" height="240" rx="15" stroke="#803dd1" stroke-width="7" fill="none"/>
+
+    		<text x="-170" y="-35" font-family="Arial" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/obsidian.html">Obsidian</a></text>
+    
+    	<rect x="240" y="10" width="250" height="60" rx="15" stroke="#249391" stroke-width="7" fill="none"/>
+
+    		<text x="255" y="40" font-family="Arial" font-size="18" font-weight="bold" fill="#2c2d2c">Export as SVG</text>
+    </svg>
