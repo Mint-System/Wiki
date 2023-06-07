@@ -31,3 +31,7 @@ Die Odoo-Module sind in einem Git-Repository eingecheckt.
 * Lädt eine leere Datenbank mit Demodaten
 * Es werden Tests ausgeführt
 * E-Mails werden  nicht versendet
+
+## Serverumgebung
+
+![[Serverumgebung.canvas|Serverumgebung]]

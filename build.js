@@ -77,7 +77,7 @@ function mapColor(color) {
 }
 
 function renderNode(node) {
-    const strockWidth = 7
+    const strockWidth = 4
     const fontWeight = 'bold'
 
     let textOffsetX = 15
@@ -85,6 +85,17 @@ function renderNode(node) {
     let fontColor = '#2c2d2c'
     let text = node['text']
     let fontSize = 18
+
+    // Process multiline text
+
+    if (text && text.split('\n').length > 1) {
+        let spans = ''
+        for (const line of text.split('\n')) {
+            spans += `<tspan x="${node['x'] + textOffsetX}" dy="${fontSize + 3}">${line}</tspan>`
+        }
+        text = spans
+        textOffsetY = 10
+    }
 
     // Link markdown file
 
@@ -114,7 +125,7 @@ function renderNode(node) {
 }
 
 function renderGroup(group) {
-    const strockWidth = 7
+    const strockWidth = 4
     const fontWeight = 'bold'
 
     let textOffsetX = 15
@@ -124,17 +135,17 @@ function renderGroup(group) {
     let fontSize = 24
 
     return `
-    <rect x="${group['x']}" y="${group['y']}" width="${group['width']}" height="${group['height']}" rx="15" stroke="${mapColor(group['color'])}" stroke-width="${strockWidth}" fill="none"/>
+    <rect x="${group['x']}" y="${group['y']}" width="${group['width']}" height="${group['height']}" rx="30" stroke="${mapColor(group['color'])}" stroke-width="${strockWidth}" fill="none"/>
     <text x="${group['x'] + textOffsetX}" y="${group['y'] + textOffsetY}" font-family="Arial" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>
     `
 }
 
 function renderEdge(edge) {
-    const strockWidth = 7
+    const strockWidth = 5
     const color = mapColor(edge['color'])
     
     return `
-    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-${color}" viewBox="0 0 10 10" refX="0" refY="5" fill="${color}" markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto">
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-${color}" viewBox="0 0 10 10" refX="1" refY="5" fill="${color}" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
         <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
     <line x1="${edge['fromX']}" y1="${edge['fromY']}" x2="${edge['toX']}" y2="${edge['toY']}" stroke="${color}" stroke-width="${strockWidth}" marker-end="url(#triangle-${color})" />
@@ -200,7 +211,7 @@ function convertCanvasToSVG(content) {
 
     for (const edge of edges) {
         const fromOffset = 3
-        const toOffset = 20
+        const toOffset = 15
 
         // Get start and target nodes
 
