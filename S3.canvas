@@ -7,7 +7,7 @@
 		{"type":"file","file":"Aerodoo.md","id":"54dc923653f9f4f0","x":-941,"y":-144,"width":400,"height":400},
 		{"type":"file","file":"Caluma.md","id":"7042e7f32a7c0879","x":-1200,"y":-705,"width":400,"height":400},
 		{"type":"text","text":"Infrastruktur","id":"9a46d9935effc7c2","x":-440,"y":-570,"width":160,"height":130,"color":"5"},
-		{"id":"f9d466a5a057c6cd","x":-120,"y":-740,"width":400,"height":143,"type":"file","file":"assets/subscription banner.jpg"},
+		{"type":"file","file":"assets/subscription banner.jpg","id":"f9d466a5a057c6cd","x":-120,"y":-740,"width":400,"height":143},
 		{"type":"file","file":"Infrastruktur.md","id":"4cc1803dded0a676","x":0,"y":-544,"width":400,"height":400}
 	],
 	"edges":[

@@ -258,12 +258,12 @@ function convert(content, file) {
     let matches = content.match(obsidianCancas) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
-        let image = match.replace('.canvas', '.svg')
-        content = content.replace(match, `![](${basePathAssets}${image})`)
+        let title = match.match(/\|(.*)\]\]/)[1]
+        content = content.replace(match, `![](${basePathAssets}${title}.svg)`)
     }
 
     // Convert wiki image links
-    // ![[image.png]] -> <img src="./image.png"/>
+    // ![[image.png]] -> ![](./image.png)"/>
     matches = content.match(wikiImage) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
