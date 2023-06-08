@@ -28,6 +28,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Odoo Berichte]]
 * [[Phase Odoo Transfer]]
 * [[Phase Social Login]]
+* [[Phase Microsoft Login]]
 * [[Phase Login]]
 
 **Odoo Apps**

@@ -12,26 +12,33 @@ Die Odoo-Module sind in einem Git-Repository eingecheckt.
 
 ![[Odoo Continuous Delivery.canvas|Odoo Continuous Delivery]]
 
-### Production (main)
+### Development (dev)
 
-* Initiale Datenbank ist ohne Demodaten
-* Umgebung kann nicht neu gebaut werden
-* Es können keine Tests ausgeführt werden
-* E-Mails werden versendet
+Mit den Odoo Demodaten wird auf dieser Ebene ein initiales Odoo Modul entwickelt. 
+
+* Datenbank mit Odoo Demodaten
+* Ausführung von Tests in Build-Prozess
+* Ausgehende E-Mails werden abgefangen 
 
 ###  Integration (int)
 
-* Kopiert die produktive Datenbank
-* Neutralisiert bestimmte Konfiguration
-* Es werden Tests ausgeführt
-* E-Mails werden nicht versendet
+Das Odoo Modul wird in der Datenbank des Kunden bereitgestellt.
 
-### Development (dev)
+* Kopie der produktiven Datenbank
+* Produktive Konfigurationen werden neutralisiert
+* Optionale Ausführung von Tests in Build-Prozess
+* Ausgehende E-Mails werden abgefangen
 
-* Lädt eine leere Datenbank mit Demodaten
-* Es werden Tests ausgeführt
-* E-Mails werden  nicht versendet
+### Production (main)
 
-## Serverumgebung
+Funktioniert das Modul korrekt, kann es promoted und so in der produktiven Umgebung bereitgestellt werden.
+
+* Produktive Datenbank
+* Es werden keine Tests ausgeführt
+* Ausgehende E-Mails werden versendet 
+
+## Build-Umgebung
+
+Die Integrations-Ebenen sind mit einem entsprechenden Branch im Git-Repository, mit einer CI/CD-Pipeline und mit einer Odoo Instanz gekoppelt. Damit ist es möglich Odoo Module von der Entwicklung bis zum produktiven Betrieb automatisiert zu testen und zu deployen. 
 
 ![[Serverumgebung.canvas|Serverumgebung]]
