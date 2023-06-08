@@ -11,7 +11,7 @@ Tätigkeiten:
 * Einrichten Webformular für Tickets
 * Konfiguration Verbindung mit Support-Projekt
 
-Ergebnis: Supportanfragen können empfangen und bearbeitet werden?
+Ergebnis: Supportanfragen können empfangen und bearbeitet werden.
 
 ## Supportkanäle definieren
 

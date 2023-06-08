@@ -8,7 +8,7 @@ Tätigkeiten:
 
 * Bereitstellen CI/CD-Plattform
 * Einrichten Git-Repositories
-* Integration Deployment-Tool
+* Konfiguration Publish-Funktion
 * Festlegen Umgebungsvariablen
 
 Ergebnis: Die Build-Umgebung steht zur Konfiguration bereit.

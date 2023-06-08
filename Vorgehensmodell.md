@@ -6,10 +6,10 @@ tags:
 
 Implementierte Vorgehensmodelle:
 
-[[Vorgehensmodell Softwareentwicklung]] zur Abwicklung von [[Softwareentwicklungsprojekte]]n.
+[[Vorgehensmodell Softwareentwicklung]] zur Abwicklung von [[Softwareentwicklungsprojekte]].
 
-[[Vorgehensmodell Beratungsprojekte]] zur Abwicklung von [[Beratungsprojekte]]n.
+[[Vorgehensmodell Beratungsprojekte]] zur Abwicklung von [[Beratungsprojekte]].
 
-[[Vorgehensmodell Odoo Projekte]] zur Abwicklung von [[Odoo-Projekte]]n.
+[[Vorgehensmodell Odoo Projekte]] zur Abwicklung von [[Odoo-Projekte]].
 
-[[Vorgehensmodell Hosting Projekte]] zur Abwicklung von [[Hosting-Projekte]]n.
+[[Vorgehensmodell Hosting]] zur Abwicklung von [[Hosting-Projekte]].

@@ -7,7 +7,8 @@ tags:
 Tätigkeiten:
 
 * Konfiguration der Build-Pipelines und -Steps
-* Bereitstellen Mockup-App und testen der Build-Prozesse
-* Testen Deployment der produktiven Apps
+* Bereitstellen Mockup-App
+* Testen des Build-Prozess und Publish-Funktion
+* Ausführen Deployment in Integrations-Umgebung
 
 Ergebnis: Apps können automatisiert entwickelt, getestet und integriert werden.

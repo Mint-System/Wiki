@@ -14,7 +14,7 @@ Die Odoo-Module sind in einem Git-Repository eingecheckt.
 
 ### Development (dev)
 
-Mit den Odoo Demodaten wird auf dieser Ebene ein initiales Odoo Modul entwickelt. 
+Mit Demodaten wird auf dieser Ebene ein initiales Odoo Modul entwickelt. 
 
 * Datenbank mit Odoo Demodaten
 * Ausführung von Tests in Build-Prozess
@@ -31,7 +31,7 @@ Das Odoo Modul wird in der Datenbank des Kunden bereitgestellt.
 
 ### Production (main)
 
-Funktioniert das Modul korrekt, kann es promoted und so in der produktiven Umgebung bereitgestellt werden.
+Funktioniert das Modul korrekt, wird es promoted und in der produktiven Umgebung bereitgestellt.
 
 * Produktive Datenbank
 * Es werden keine Tests ausgeführt

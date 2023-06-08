@@ -9,13 +9,21 @@ tags:
 
 Der Aufwand für die Projektphasen wurde wie folgt geschätzt:
 
-| Phase                               | Aufwand Mint System [h] |
-| ----------------------------------- | ----------------------- |
-| Phase 1: Server bereitstellen       | 2                       |
-| Phase 2: Odoo installieren          | 4                       |
-| **Odoo Implementation**             | 6                       |
-| **Phase 50: Odoo Entwicklung**      | 2                       |
-| Odoo Implementation und Entwicklung | 8                       |
-| **Projektleitung**                  | 3.2                     |
+| Phase                              | Aufwand Mint System [h] | Total |
+| ---------------------------------- | -----------------------:| -----:|
+| Phase Server bereitstellen         |                       2 |       |
+| Phase Odoo installieren            |                       4 |       |
+| **Initalisierierung**              |                         |     6 |
+| Phase Kontakte        |                       2 |       |
+| Phase Verkauf            |                       8 |       |
+| **Verkauf**                 |                         |     10 |
+|                                    |                         |       |
+| **Odoo Implementation**            |                         |     16 |
+|                                    |                         |       |
+| Odoo  Entwicklung                  |                       8 |       |
+| **Entwicklung**                    |                         |     8 |
+|                                    |                         |       |
+| **Implementation und Entwicklung** |                         |    24 |
+| **Projektleitung**                 |                         |     10 |
 
 Siehe [[Prozesse Projektmanagement - Aufwandsschätzung]].

@@ -27,7 +27,7 @@ In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder du
 ### Zusammenarbeit
 
 Pflichten des Kunden:
-Der Kunde unterstützt den Auftragnehmer bei der Erbringung der vereinbarten Leistungen, im Wesentlichen durch Einhaltung der festgesetzten Termine, durch Zurverfügungstellung aller erforderlichen Informationen sowie Festlegung einer Single-Point-of-Contatct (SPoC).
+Der Kunde unterstützt den Auftragnehmer bei der Erbringung der vereinbarten Leistungen, im Wesentlichen durch Einhaltung der festgesetzten Termine, durch Zurverfügungstellung aller erforderlichen Informationen sowie Festlegung einer Single-Point-of-Contact (SPoC).
 
 ### Wartung und Support
 

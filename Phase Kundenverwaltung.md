@@ -8,8 +8,8 @@ tags:
 Tätigkeiten:
 
 * Stufen für Chancen festlegen
-* Empfang per E-Mail konfigurieren
-* Einrichten Erfassung via Website
+* Empfang Anfragen per E-Mail konfigurieren
+* Einrichten Erfassung Interessenten auf Website
 * Standardaktivitäten einrichten
 
 Ergebnis: Der Verkauf kann Chancen mit der Kundenverwaltung bearbeiten.

@@ -9,6 +9,7 @@ Tätigkeiten:
 * Implementation des Newsletter-Design
 * Anlegen von Mailing-Listen
 * Konfiguration Mail-Provider für Massenversand
+* Übernahme Daten (Blacklists, Vorlagen, Mailing-Listen) aus bestehendem Newsletter-Tool
 
 Ergebnis: Newsletter kann verschickt werden.
 
