@@ -13,11 +13,11 @@
     <line x1="153" y1="40" x2="225" y2="40" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <rect x="-150" y="-200" width="250" height="60" rx="15" stroke="#aa363d" stroke-width="4" fill="none"/>
-    <text x="-135" y="-170" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Create canvas in Obsidian</text>
+    <text x="-135" y="-170" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Create canvas in Obsidian</text>
     
     <rect x="-200" y="-80" width="350" height="240" rx="15" stroke="#803dd1" stroke-width="4" fill="none"/>
-    <text x="-170" y="-35" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/obsidian.html">Obsidian</a></text>
+    <text x="-170" y="-35" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="28" font-weight="bold" fill="#9a7fee"><a href="/obsidian.html">Obsidian</a></text>
     
     <rect x="240" y="10" width="250" height="60" rx="15" stroke="#249391" stroke-width="4" fill="none"/>
-    <text x="255" y="40" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Export as SVG</text>
+    <text x="255" y="40" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Export as SVG</text>
     </svg>

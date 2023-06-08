@@ -63,44 +63,44 @@
     <line x1="-17" y1="-45" x2="65" y2="-45" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <rect x="80" y="-260" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="95" y="-230" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">odoo01</text>
+    <text x="95" y="-230" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">odoo01</text>
     
     <rect x="-160" y="-260" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-145" y="-230" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">main pipeline</text>
+    <text x="-145" y="-230" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">main pipeline</text>
     
     <rect x="-400" y="-260" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-385" y="-230" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">main branch</text>
+    <text x="-385" y="-230" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">main branch</text>
     
     <rect x="-400" y="-170" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-385" y="-140" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">int branch</text>
+    <text x="-385" y="-140" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">int branch</text>
     
     <rect x="-400" y="-70" width="140" height="50" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-385" y="-40" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">dev branch</text>
+    <text x="-385" y="-40" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">dev branch</text>
     
     <rect x="-160" y="-75" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-145" y="-45" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">dev pipeline</text>
+    <text x="-145" y="-45" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">dev pipeline</text>
     
     <rect x="-160" y="-170" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-145" y="-140" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">int pipeline</text>
+    <text x="-145" y="-140" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">int pipeline</text>
     
     <rect x="80" y="20" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="95" y="50" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">mailhog01</text>
+    <text x="95" y="50" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">mailhog01</text>
     
     <rect x="80" y="-75" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="95" y="-45" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">odoo03</text>
+    <text x="95" y="-45" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">odoo03</text>
     
     <rect x="80" y="-170" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="95" y="-140" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">odoo02</text>
+    <text x="95" y="-140" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">odoo02</text>
     
     <rect x="360" y="-195" width="220" height="180" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="375" y="-185" font-family="-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c"><tspan x="375" dy="21">nginx01</tspan><tspan x="375" dy="21">- odoo.example.com</tspan><tspan x="375" dy="21">- int.example.com</tspan><tspan x="375" dy="21">- dev.example.com</tspan><tspan x="375" dy="21">- mail.example.com</tspan><tspan x="375" dy="21">- drone.example.com</tspan></text>
+    <text x="375" y="-185" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c"><tspan x="375" dy="21">nginx01</tspan><tspan x="375" dy="21">- odoo.example.com</tspan><tspan x="375" dy="21">- int.example.com</tspan><tspan x="375" dy="21">- dev.example.com</tspan><tspan x="375" dy="21">- mail.example.com</tspan><tspan x="375" dy="21">- drone.example.com</tspan></text>
     
     <rect x="60" y="-280" width="560" height="380" rx="30" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="75" y="-295" font-family="Arial" font-size="24" font-weight="bold" fill="#2c2d2c">Odoo Environment</text>
+    <text x="75" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">Odoo Environment</text>
     
     <rect x="-180" y="-280" width="180" height="290" rx="30" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-165" y="-295" font-family="Arial" font-size="24" font-weight="bold" fill="#2c2d2c">Drone</text>
+    <text x="-165" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">Drone</text>
     
     <rect x="-420" y="-280" width="180" height="290" rx="30" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-405" y="-295" font-family="Arial" font-size="24" font-weight="bold" fill="#2c2d2c">GitHub Repo</text>
+    <text x="-405" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">GitHub Repo</text>
     </svg>

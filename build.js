@@ -85,7 +85,7 @@ function renderNode(node) {
     let fontColor = '#2c2d2c'
     let text = node['text']
     let fontSize = 18
-    let fontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif'
+    let fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
     
     // Process multiline text
 
@@ -134,10 +134,11 @@ function renderGroup(group) {
     let fontColor = '#2c2d2c'
     let text = group['label']
     let fontSize = 24
+    let fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
 
     return `
     <rect x="${group['x']}" y="${group['y']}" width="${group['width']}" height="${group['height']}" rx="30" stroke="${mapColor(group['color'])}" stroke-width="${strockWidth}" fill="none"/>
-    <text x="${group['x'] + textOffsetX}" y="${group['y'] + textOffsetY}" font-family="Arial" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>
+    <text x="${group['x'] + textOffsetX}" y="${group['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>
     `
 }
 
