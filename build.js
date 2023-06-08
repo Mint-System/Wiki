@@ -21,7 +21,7 @@ const anchorPrefix = '#'
 const assetsFolder = 'assets'
 const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
 const wikiImage = /!\[\[([^\]]+\..+)\]\]/g
-const obsidianCancas = /!\[\[([^\]]+\.canvas.+)\]\]/g
+const obsidianCanvas = /\[\[([^\]]+\.canvas.+)\]\]/g
 const embededContent = /!\[\[([^\]]*)\]\]/g
 const wikiLink = /\[\[([^\]]*)\]\]/g
 
@@ -290,12 +290,18 @@ function convertCanvasToSVG(content) {
 function convert(content, file) {
 
     // Convert Obsidian canvas
-    // ![[S3.canvas|S3]] -> <img src="./s3.svg"/>
-    let matches = content.match(obsidianCancas) || []
+    // [[S3.canvas|S3]] -> [](./s3.svg)
+    let matches = content.match(obsidianCanvas) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
         let title = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
-        content = content.replace(match, `![](${basePathAssets}${title}.svg)`)
+        let href = title
+        // Set title and href
+        if (match.indexOf('|') > 0) {
+            href = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
+            title = match.match(/\|(.*)\]\]/)[1]
+        }
+        content = content.replace(match, `[${title}](${basePathAssets}${href}.svg)`)
     }
 
     // Convert wiki image links
@@ -326,24 +332,24 @@ function convert(content, file) {
         let title = match.match(/\[\[([^\]|#]*)/)[1]
         let anchor = null
 
-        // set anchor
+        // Set anchor
         if (match.indexOf('#') > 0) {
             anchor = match.match(/#([^\||\]]*)/)[1]
 
-            // combine title and href text
+            // Combine title and href text
             title = `${title} > ${anchor}`
 
-            // sanitize anchor link
+            // Sanitize anchor link
             anchor = sanitizeName(anchor)
         }
 
-        // set title and href
+        // Set title and href
         if (match.indexOf('|') > 0) {
             href = match.match(/\[\[([^\||#]*)/)[1]
             title = match.match(/\|(.*)\]\]/)[1]
         }
         
-        // sanitize href
+        // Sanitize href
         href = sanitizeName(href ? href : file.replace('\.md', ''))
 
         let mdLink = `[${title}](${basePath}${href}${uriSuffix}${anchor ? (anchorPrefix + anchor) : ''})`
