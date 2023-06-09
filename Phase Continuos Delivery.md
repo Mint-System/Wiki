@@ -2,7 +2,7 @@
 tags:
 - Phasen
 ---
-# Phase Continuos Delivery
+# Phase Continuous Delivery
 
 Tätigkeiten:
 
