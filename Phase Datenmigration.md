@@ -12,7 +12,7 @@ Tätigkeiten:
 * Erstellen Listen von Quelldaten und deren Formaten
 * Strategie zur Datenverarbeitung und -Import erstellen
 
-Ergebnis: Vorgang für Datenexport ist bekannt und Strategie Datenmigration ist definiert
+Ergebnis: Vorgang für Datenexport ist bekannt und Strategie Datenmigration ist definiert.
 
 ## Vorgang Datenexport festhalten
 
