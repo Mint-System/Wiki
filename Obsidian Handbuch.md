@@ -16,7 +16,9 @@ Obsidian bietet eine umfangreiche Hilfestellung. Ein Tutorial um Markdown zu ler
 
 ## Canvas erstellen
 
-Mit Obidisan können Sie einen Canvas erstellen: [[Canvas.canvas|Canvas]]
+Mit Obidisan können Sie einen Canvas erstellen: 
+
+![[Canvas.canvas|Canvas]]
 
 ## Plugins
 

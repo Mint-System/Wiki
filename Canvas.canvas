@@ -1,8 +1,10 @@
 {
 	"nodes":[
-		{"id":"c2b83b58ff104957","x":-150,"y":-200,"width":250,"height":60,"color":"1","type":"text","text":"Create canvas in Obsidian"},
-		{"id":"28b7d169be420aea","x":-200,"y":-80,"width":350,"height":240,"color":"#803dd1","type":"file","file":"Obsidian.md"},
-		{"type":"text","text":"Export as SVG","id":"3bbb4a8b9a8a726b","x":240,"y":10,"width":250,"height":60,"color":"5"}
+		{"type":"group","id":"8e6dea18b13a7c01","x":-220,"y":-220,"width":660,"height":400,"label":"Ein Beispiel"},
+		{"type":"text","text":"Canvas in Obsidian erstellen","id":"c2b83b58ff104957","x":-150,"y":-200,"width":250,"height":60,"color":"1"},
+		{"type":"file","file":"Obsidian.md","id":"28b7d169be420aea","x":-200,"y":-80,"width":350,"height":240,"color":"#803dd1"},
+		{"type":"file","file":"assets/Obsidian Logo.png","id":"ed56385840d5772e","x":250,"y":-200,"width":160,"height":160},
+		{"type":"text","text":"Export als SVG","id":"3bbb4a8b9a8a726b","x":240,"y":10,"width":170,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"9a41a93da6186142","fromNode":"c2b83b58ff104957","fromSide":"bottom","toNode":"28b7d169be420aea","toSide":"top"},
