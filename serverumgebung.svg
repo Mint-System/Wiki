@@ -2,65 +2,74 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg viewBox="-470 -330 1140 480" xmlns="http://www.w3.org/2000/svg">
 
-    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
-    </marker>
-    <line x1="-257" y1="-230" x2="-175" y2="-230" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <rect x="60" y="-280" width="560" height="380" rx="30" stroke="#7e7e7e" stroke-width="4" fill="#fbfbfb"/>
+    <text x="75" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">Odoo Environment</text>
+    
+    <rect x="-180" y="-280" width="180" height="290" rx="30" stroke="#7e7e7e" stroke-width="4" fill="#fbfbfb"/>
+    <text x="-165" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">Drone</text>
+    
+    <rect x="-420" y="-280" width="180" height="290" rx="30" stroke="#7e7e7e" stroke-width="4" fill="#fbfbfb"/>
+    <text x="-405" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">GitHub Repo</text>
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-257" y1="-140" x2="-175" y2="-140" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-259" y1="-230" x2="-172" y2="-230" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-257" y1="-45" x2="-175" y2="-45" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-259" y1="-140" x2="-172" y2="-140" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="357" y1="-105" x2="235" y2="-230" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-259" y1="-45" x2="-172" y2="-45" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="357" y1="-105" x2="235" y2="-140" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="359" y1="-105" x2="232" y2="-230" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="357" y1="-105" x2="235" y2="-45" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="359" y1="-105" x2="232" y2="-140" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="357" y1="-105" x2="235" y2="50" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="359" y1="-105" x2="232" y2="-45" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-90" y1="-78" x2="-90" y2="-95" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="359" y1="-105" x2="232" y2="50" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-90" y1="-173" x2="-90" y2="-185" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-90" y1="-76" x2="-90" y2="-98" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-17" y1="-230" x2="65" y2="-230" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-90" y1="-171" x2="-90" y2="-188" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-17" y1="-140" x2="65" y2="-140" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-19" y1="-230" x2="68" y2="-230" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-17" y1="-45" x2="65" y2="-45" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-19" y1="-140" x2="68" y2="-140" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <line x1="-19" y1="-45" x2="68" y2="-45" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <rect x="80" y="-260" width="140" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
     <text x="95" y="-230" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">odoo01</text>
@@ -94,13 +103,4 @@
     
     <rect x="360" y="-195" width="220" height="180" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
     <text x="375" y="-185" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c"><tspan x="375" dy="21">nginx01</tspan><tspan x="375" dy="21">- odoo.example.com</tspan><tspan x="375" dy="21">- int.example.com</tspan><tspan x="375" dy="21">- dev.example.com</tspan><tspan x="375" dy="21">- mail.example.com</tspan><tspan x="375" dy="21">- drone.example.com</tspan></text>
-    
-    <rect x="60" y="-280" width="560" height="380" rx="30" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="75" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">Odoo Environment</text>
-    
-    <rect x="-180" y="-280" width="180" height="290" rx="30" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-165" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">Drone</text>
-    
-    <rect x="-420" y="-280" width="180" height="290" rx="30" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-405" y="-295" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">GitHub Repo</text>
     </svg>

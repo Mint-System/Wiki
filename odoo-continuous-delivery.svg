@@ -2,20 +2,23 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg viewBox="-230 -310 390 400" xmlns="http://www.w3.org/2000/svg">
 
-    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
-    </marker>
-    <line x1="-35" y1="-43" x2="-35" y2="-65" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <rect x="-180" y="-260" width="290" height="300" rx="30" stroke="#7e7e7e" stroke-width="4" fill="#fbfbfb"/>
+    <text x="-165" y="-275" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">Server Environment</text>
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-35" y1="-43" x2="-35" y2="-65" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-35" y1="-41" x2="-35" y2="-68" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
-        <path d="M 0 0 L 10 5 L 0 10 z"/>
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="-35" y1="-143" x2="-35" y2="-165" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    <line x1="-35" y1="-41" x2="-35" y2="-68" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-#7e7e7e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <line x1="-35" y1="-141" x2="-35" y2="-168" stroke="#7e7e7e" stroke-width="5" marker-end="url(#triangle-#7e7e7e)" />
     
     <rect x="-160" y="-240" width="250" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
     <text x="-145" y="-210" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Production (main)</text>
@@ -25,7 +28,4 @@
     
     <rect x="-160" y="-40" width="250" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
     <text x="-145" y="-10" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="18" font-weight="bold" fill="#2c2d2c">Development (dev)</text>
-    
-    <rect x="-180" y="-260" width="290" height="300" rx="30" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-165" y="-275" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="24" font-weight="bold" fill="#2c2d2c">Server Environment</text>
     </svg>

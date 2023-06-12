@@ -8,7 +8,7 @@ Zur Entwicklung von Odoo-Modulen und Bereitstellung in der Serverumgebung verwen
 
 ## Branches
 
-Die Odoo-Module sind in einem Git-Repository eingecheckt.
+Die Odoo Module sind in einem Git-Repository als Submodule eingecheckt. Im Build-Prozess wird das Repository geklont, ein ausgewählter Branch ausgecheckt und anschliessend werden die Submodule geklont und anhand der gespeicherten Referenz ausgecheckt.  
 
 ![[Odoo Continuous Delivery.canvas|Odoo Continuous Delivery]]
 
