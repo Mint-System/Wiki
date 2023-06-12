@@ -84,7 +84,7 @@ function renderNode(node) {
     let textOffsetY = 30
     let fontColor = '#2c2d2c'
     let text = node['text']
-    let fontSize = 18
+    let fontSize = 16
     let fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
     
     // Process multiline text
