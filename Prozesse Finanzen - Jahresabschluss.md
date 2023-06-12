@@ -9,7 +9,7 @@ Arbeitsschritte zum Erstellen des Jahresabschlusses.
 ## Rechnungen erfassen
 
 * Prämienrechnungen einscannen und auf BVG-Konto buchen
-* Steuerrechnung auf auf Kapitalsteuerkonto buchen
+* Steuerrechnung auf Kapitalsteuerkonto buchen
 
 ## Bankkonto prüfen
 
