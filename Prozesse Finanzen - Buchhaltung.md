@@ -71,7 +71,7 @@ Betrag: 1234.53 CHF
 
 Die Lohnbuchhaltung ist [[Prozesse Finanzen - Personalabrechnung#Buchhaltung|hier]] beschrieben.
 
-#### Rückzahlung
+#### Rückzahlung / Rückleitung
 
 Einzahlung und Gutschrift auf das gleiche Konto buchen.
 
