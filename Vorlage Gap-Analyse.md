@@ -4,6 +4,7 @@ tags:
 ---
 # Vorlage Gap-Analyse
 
+
 <img src="https://www.mint-system.ch/theme_mint_system/static/img/logo.svg" width="200" />
 
 ## Gap-Analyse Unternehmensname
@@ -11,7 +12,7 @@ tags:
 > Untertitel
 
 Datum: DD.MM.YYYY\
-Author: Janik von Rotz
+Author: Vorname Nachname
 
 **Inhaltsverzeichnis**
 
@@ -23,17 +24,15 @@ Author: Janik von Rotz
 	* Interviews
 	* Aktivitäten
 * Ergebnisse
-	* IST-Situation
-		* System-kritische Punkte
-		* Unternehmerische Risken
-		* Administrationsaufwand
-	* SOLL-Situation
-		* Chancen
+	* [[Vorlage Interviews Gap-Analyse]]
+	* System-kritische Punkte
+	* Unternehmerische Risken
+	* Administrationsaufwand
 	* Prozesse
-	* Gap
-		* Beschreibung
+* Gaps
+	* Titel
 * Vorgehen
-	* Phase N: Beschreibung
-	* Phase N: Beschreibung
-	* Phase N: Beschreibung
+	* Phase Titel
+	* Phase Titel
+	* Phase Titel
 * Anhang
