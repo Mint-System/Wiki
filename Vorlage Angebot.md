@@ -5,6 +5,8 @@ tags:
 # Vorlage Angebot
 Übersetzung: [[Vorlage Angebot.en]]
 
+## Struktur
+
 Ein Angebot hat diese Struktur:
 
 * Beschreibung: Einleitungstext

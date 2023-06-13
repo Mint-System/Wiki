@@ -4,7 +4,9 @@ tags:
 ---
 
 # Template Quote
+
 ## Textblocks
+
 ### Terms and Conditions
 
 Changes:\
