@@ -148,14 +148,60 @@ function renderGroup(group) {
 }
 
 function renderEdge(edge) {
+    const id = edge['id']
     const strockWidth = 5
     const color = mapColor(edge['color'])
+    const fromSide = edge['fromSide']
+    const toSide = edge['toSide']
+    let marker = `marker-end="url(#arrow-end-${id})"`
+    let fromOffset = 1
+    let toOffset = 11
+    let fromX = edge['fromX'] 
+    let fromY = edge['fromY']
+    let toX = edge['toX']
+    let toY = edge['toY']
     
+    if(edge['fromEnd'] === 'arrow') {
+        marker = `marker-end="url(#arrow-end-${id})" marker-start="url(#arrow-start-${id})"`
+        fromOffset = 11
+    }
+    if(edge['toEnd'] === 'none') {
+        marker = ''
+        toOffset = 1
+    }
+    if (fromSide === 'right') {
+        fromX += fromOffset
+    }
+    if (fromSide === 'bottom') {
+        fromY += fromOffset
+    }
+    if (fromSide === 'left') {
+        fromX -= fromOffset
+    }
+    if (fromSide === 'top') {
+        fromY -= fromOffset
+    }
+    if (toSide === 'right') {
+        toX += toOffset
+    }
+    if (toSide === 'bottom') {
+        toY += toOffset
+    }
+    if (toSide === 'left') {
+        toX -= toOffset
+    }
+    if (toSide === 'top') {
+        toY -= toOffset
+    }
+
     return `
-    <marker xmlns="http://www.w3.org/2000/svg" id="triangle-${color}" viewBox="0 0 10 10" refX="1" refY="5" fill="${color}" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-${id}" viewBox="0 0 10 10" refX="1" refY="5" fill="${color}" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
         <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <line x1="${edge['fromX']}" y1="${edge['fromY']}" x2="${edge['toX']}" y2="${edge['toY']}" stroke="${color}" stroke-width="${strockWidth}" marker-end="url(#triangle-${color})" />
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-${id}" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="${color}" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="${fromX}" y1="${fromY}" x2="${toX}" y2="${toY}" stroke="${color}" stroke-width="${strockWidth}" ${marker} />
     `
 }
 
@@ -223,56 +269,56 @@ function convertCanvasToSVG(content) {
     // Render edges as lines
 
     for (const edge of edges) {
-        const fromOffset = 1
-        const toOffset = 12
+        const fromSide = edge['fromSide']
+        const toSide = edge['toSide']
+        let fromX = 0
+        let fromY = 0
+        let toX = 0
+        let toY = 0
 
         // Get start and target nodes
 
         fromNode = nodes.filter(node => (node['id'] === edge['fromNode']))[0]
         toNode = nodes.filter(node => (node['id'] === edge['toNode']))[0]
-        let fromX = 0
-        let fromY = 0
-        let toX = 0
-        let toY = 0
-        
+
         // Calculate x and y position of arrow start
 
-        if (edge['fromSide'] === 'right') {
-            fromX = fromNode['x'] + fromNode['width'] + fromOffset
+        if (fromSide === 'right') {
+            fromX = fromNode['x'] + fromNode['width']
             fromY = fromNode['y'] + fromNode['height'] / 2
         }
-        if (edge['fromSide'] === 'bottom') {
+        if (fromSide === 'bottom') {
             fromX = fromNode['x'] + fromNode['width'] / 2 
-            fromY = fromNode['y'] + fromNode['height'] + fromOffset
+            fromY = fromNode['y'] + fromNode['height']
         }
-        if (edge['fromSide'] === 'left') {
-            fromX = fromNode['x'] - fromOffset
+        if (fromSide === 'left') {
+            fromX = fromNode['x']
             fromY = fromNode['y'] + fromNode['height'] / 2
         }
-        if (edge['fromSide'] === 'top') {
+        if (fromSide === 'top') {
             fromX = fromNode['x'] + fromNode['width'] / 2
-            fromY = fromNode['y'] - fromOffset
+            fromY = fromNode['y']
         }
         edge['fromX'] = fromX
         edge['fromY'] = fromY
 
         // Calculate x and y position of arrow target        
 
-        if (edge['toSide'] === 'right') {
-            toX = toNode['x'] + toNode['width'] + toOffset
+        if (toSide === 'right') {
+            toX = toNode['x'] + toNode['width']
             toY = toNode['y'] + toNode['height'] / 2
         }
-        if (edge['toSide'] === 'bottom') {
+        if (toSide === 'bottom') {
             toX = toNode['x'] + toNode['width'] / 2 
-            toY = toNode['y'] + toNode['height'] + toOffset
+            toY = toNode['y'] + toNode['height']
         }
-        if (edge['toSide'] === 'left') {
-            toX = toNode['x'] - toOffset
+        if (toSide === 'left') {
+            toX = toNode['x']
             toY = toNode['y'] + toNode['height'] / 2
         }
-        if (edge['toSide'] === 'top') {
+        if (toSide === 'top') {
             toX = toNode['x'] + toNode['width'] / 2
-            toY = toNode['y'] - toOffset
+            toY = toNode['y']
         }
         edge['toX'] = toX
         edge['toY'] = toY

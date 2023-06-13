@@ -8,6 +8,7 @@
 	],
 	"edges":[
 		{"id":"9a41a93da6186142","fromNode":"c2b83b58ff104957","fromSide":"bottom","toNode":"28b7d169be420aea","toSide":"top"},
-		{"id":"14fcc8b5466e0f72","fromNode":"28b7d169be420aea","fromSide":"right","toNode":"3bbb4a8b9a8a726b","toSide":"left"}
+		{"id":"14fcc8b5466e0f72","fromNode":"28b7d169be420aea","fromSide":"right","toNode":"3bbb4a8b9a8a726b","toSide":"left","fromEnd":"arrow"},
+		{"id":"463862bca48e0eae","fromNode":"ed56385840d5772e","fromSide":"left","toNode":"c2b83b58ff104957","toSide":"right","toEnd":"none","color":"2"}
 	]
 }
