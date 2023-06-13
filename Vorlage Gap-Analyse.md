@@ -24,7 +24,7 @@ Author: Vorname Nachname
 	* Interviews
 	* Aktivitäten
 * Ergebnisse
-	* [[Vorlage Interviews Gap-Analyse]]
+	* Zusammenfassung Interviews
 	* System-kritische Punkte
 	* Unternehmerische Risken
 	* Administrationsaufwand
@@ -36,3 +36,7 @@ Author: Vorname Nachname
 	* Phase Titel
 	* Phase Titel
 * Anhang
+
+
+
+
