@@ -4,9 +4,9 @@ tags:
 ---
 # Odoo Continuous Delivery
 
-Zur Entwicklung von Odoo-Modulen und Bereitstellung in der Serverumgebung verwendet mit Mint System Continuous Delivery Platform [[Drone]].
+Zur Entwicklung von Odoo-Modulen und Bereitstellung in der Serverumgebung verwendet mit Mint System Continuous Delivery Platform [[Jenkins]].
 
-## Branches
+## Multibranch
 
 Die Odoo Module sind in einem Git-Repository als Submodule eingecheckt. Im Build-Prozess wird das Repository geklont, ein ausgewählter Branch ausgecheckt und anschliessend werden die Submodule geklont und anhand der gespeicherten Referenz ausgecheckt.  
 
@@ -41,4 +41,8 @@ Funktioniert das Modul korrekt, wird es promoted und in der produktiven Umgebung
 
 Die Integrations-Ebenen sind mit einem entsprechenden Branch im Git-Repository, mit einer CI/CD-Pipeline und mit einer Odoo Instanz gekoppelt. Damit ist es möglich Odoo Module von der Entwicklung bis zum produktiven Betrieb automatisiert zu testen und zu deployen. 
 
-![[Serverumgebung.canvas|Serverumgebung]]
+![[Build-Umgebung.canvas|Serverumgebung]]
+
+## Pipeline
+
+![[Odoo CD Pipeline.canvas|Odoo CD Pipeline]]

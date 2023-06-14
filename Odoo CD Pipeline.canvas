@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c5808484b7d4182d","x":-320,"y":-140,"width":160,"height":60,"type":"text","text":"Clone Github-Repo"},
+		{"id":"abe03ff7339903cf","x":-120,"y":-140,"width":180,"height":60,"type":"text","text":"Clone Submodules"},
+		{"id":"c6f62538a31d858f","x":100,"y":-140,"width":250,"height":60,"type":"text","text":"Start containers: Odoo and Postgres"},
+		{"type":"text","text":"Init Odoo database","id":"982f84b024968f5b","x":-320,"y":0,"width":180,"height":60},
+		{"id":"be6695397abfc8cf","x":-100,"y":0,"width":214,"height":60,"type":"text","text":"Run Odoo module tests"},
+		{"id":"e8f53a37319df23a","x":153,"y":0,"width":197,"height":60,"type":"text","text":"Deploy to environment"}
+	],
+	"edges":[
+		{"id":"451d4cdd05a37287","fromNode":"c5808484b7d4182d","fromSide":"right","toNode":"abe03ff7339903cf","toSide":"left"},
+		{"id":"58c65ad7c53457e6","fromNode":"abe03ff7339903cf","fromSide":"right","toNode":"c6f62538a31d858f","toSide":"left"},
+		{"id":"ac75a566ce37eb2c","fromNode":"c6f62538a31d858f","fromSide":"bottom","toNode":"982f84b024968f5b","toSide":"top"},
+		{"id":"562f0db526e9881b","fromNode":"982f84b024968f5b","fromSide":"right","toNode":"be6695397abfc8cf","toSide":"left"},
+		{"id":"e2cb416078541d4d","fromNode":"be6695397abfc8cf","fromSide":"right","toNode":"e8f53a37319df23a","toSide":"left"}
+	]
+}

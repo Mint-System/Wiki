@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"group","id":"1132a63cdeab6d88","x":60,"y":-280,"width":560,"height":380,"label":"Odoo Environment"},
-		{"type":"group","id":"dc8435c18e2747e3","x":-180,"y":-280,"width":180,"height":290,"label":"Drone"},
+		{"type":"group","id":"dc8435c18e2747e3","x":-180,"y":-280,"width":180,"height":290,"label":"Jenkins"},
 		{"type":"group","id":"bfce7c81ebdd06a6","x":-420,"y":-280,"width":180,"height":290,"label":"GitHub Repo"},
 		{"type":"text","text":"odoo01","id":"37875053b83406f6","x":80,"y":-260,"width":140,"height":60},
 		{"type":"text","text":"main pipeline","id":"067586fab30ab8eb","x":-160,"y":-260,"width":140,"height":60},
