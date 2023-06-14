@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1fa81fd89c6de237","x":-380,"y":-190,"width":540,"height":270,"color":"1","type":"group","label":"Docker Host"},
+		{"type":"text","text":"Docker-in-Docker Container\ndocker:dind","id":"c2d1c62825b6138c","x":-90,"y":-170,"width":230,"height":90,"color":"6"},
+		{"type":"text","text":"Jenkins Agent\njenkins:agent","id":"4fb299b75e9bba66","x":-90,"y":-40,"width":230,"height":100,"color":"6"},
+		{"id":"35f1fbbd96262a78","x":-360,"y":-170,"width":220,"height":90,"color":"6","type":"text","text":"Jenkins Container\njenkins:jenkins"}
+	],
+	"edges":[
+		{"id":"2942d4445600f290","fromNode":"35f1fbbd96262a78","fromSide":"right","toNode":"c2d1c62825b6138c","toSide":"left"},
+		{"id":"02864d4d5ef134e6","fromNode":"35f1fbbd96262a78","fromSide":"bottom","toNode":"4fb299b75e9bba66","toSide":"left","color":"3","label":"build odoo:odoo"},
+		{"id":"cad12ed8c9f45c25","fromNode":"c2d1c62825b6138c","fromSide":"bottom","toNode":"4fb299b75e9bba66","toSide":"top"}
+	]
+}

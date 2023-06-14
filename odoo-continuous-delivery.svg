@@ -30,11 +30,44 @@
     <line x1="-35" y1="-141" x2="-35" y2="-169" stroke="#7e7e7e" stroke-width="5" marker-end="url(#arrow-end-0f8d3bca95afe73f)" />
     
     <rect x="-160" y="-240" width="250" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-145" y="-210" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="16" font-weight="bold" fill="#2c2d2c">Production (main)</text>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-145" y="-240" width="220" height="60">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="8d24fb19cc0a5f90">Production (main)</p>
+        </foreignObject>
+        
     
     <rect x="-160" y="-140" width="250" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-145" y="-110" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="16" font-weight="bold" fill="#2c2d2c">Staging (int)</text>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-145" y="-140" width="220" height="60">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="750c9f8b67bccb0f">Staging (int)</p>
+        </foreignObject>
+        
     
     <rect x="-160" y="-40" width="250" height="60" rx="15" stroke="#7e7e7e" stroke-width="4" fill="none"/>
-    <text x="-145" y="-10" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" font-size="16" font-weight="bold" fill="#2c2d2c">Development (dev)</text>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-145" y="-40" width="220" height="60">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="6ace56e7f65f66ed">Development (dev)</p>
+        </foreignObject>
+        
     </svg>

@@ -6,4 +6,10 @@ tags:
 
 Website: <https://www.jenkins.io/>
 
-[[Jenkins Handbuch]]
+Weiterführende Links:
+
+* [[Jenkins Handbuch]]
+
+## Docker Umgebung
+
+![[Jenkins Docker Umgebung.canvas|Jenkins Docker Umgebung]]

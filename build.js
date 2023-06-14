@@ -81,24 +81,41 @@ function renderNode(node) {
     const fontWeight = 'bold'
 
     let textOffsetX = 15
-    let textOffsetY = 30
+    let textOffsetY = 0
     let fontColor = '#2c2d2c'
-    let text = node['text']
-    let fontSize = 16
+    let fontSize = 15
     let fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
-    
-    // Process multiline text
+    let content = ''
 
-    if (text && text.split('\n').length > 1) {
-        let spans = ''
-        for (const line of text.split('\n')) {
-            spans += `<tspan x="${node['x'] + textOffsetX}" dy="${fontSize + 3}">${line}</tspan>`
-        }
-        text = spans
-        textOffsetY = 10
+    // Render default text
+
+    if (node['text']) {
+        content = `
+        <style>
+            p {
+                font-family: ${fontFamily};
+                font-size: ${fontSize}px;
+                color: ${fontColor};
+            }
+        </style>
+        <foreignObject x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" width="${node['width'] - textOffsetX*2}" height="${node['height'] - textOffsetY*2}">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="${node['id']}">${node['text']}</p>
+        </foreignObject>
+        `
     }
 
-    // Link markdown file
+    // Render multiline text
+
+    if (node['text'] && node['text'].split('\n').length > 1) {
+        let spans = ''
+        for (const line of node['text'].split('\n')) {
+            spans += `<tspan x="${node['x'] + textOffsetX}" dy="${fontSize + 3}">${line}</tspan>`
+        }
+        textOffsetY = 10
+        content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" fill="${fontColor}">${spans}</text>`
+    }
+
+    // Render linked markdown file
 
     if (node['file'] && node['file'].endsWith('.md')) {
         title = node['file'].replace('.md', '')
@@ -107,11 +124,10 @@ function renderNode(node) {
         fontSize = 28
         textOffsetX = 30
         textOffsetY = 45
+        content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
     }
-
-    content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
     
-    // If file is not markdown render as image
+    // Render image
 
     if (node['file'] && !node['file'].endsWith('.md')) {
         filePath = node['file']
