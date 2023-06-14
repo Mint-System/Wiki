@@ -41,7 +41,7 @@ Funktioniert das Modul korrekt, wird es promoted und in der produktiven Umgebung
 
 Die Integrations-Ebenen sind mit einem entsprechenden Branch im Git-Repository, mit einer CI/CD-Pipeline und mit einer Odoo Instanz gekoppelt. Damit ist es möglich Odoo Module von der Entwicklung bis zum produktiven Betrieb automatisiert zu testen und zu deployen. 
 
-![[Build-Umgebung.canvas|Serverumgebung]]
+![[Build-Umgebung.canvas|Build-Umgebung]]
 
 ## Pipeline
 
