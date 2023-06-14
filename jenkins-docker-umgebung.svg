@@ -13,6 +13,7 @@
     </marker>
     <line x1="-139" y1="-125" x2="-101" y2="-125" stroke="#7e7e7e" stroke-width="5" marker-end="url(#arrow-end-2942d4445600f290)" />
     
+    
     <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-02864d4d5ef134e6" viewBox="0 0 10 10" refX="1" refY="5" fill="#aba960" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
         <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
@@ -20,6 +21,7 @@
         <path d="M 0 0 L -7 -5 L -0 -10 z"/>
     </marker>
     <line x1="-250" y1="-79" x2="-101" y2="10" stroke="#aba960" stroke-width="5" marker-end="url(#arrow-end-02864d4d5ef134e6)" />
+    <text x="-235.5" y="-34.5" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" fill="#2c2d2c">build odoo:odoo</text>
     
     <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-cad12ed8c9f45c25" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
         <path d="M 0 0 L 7 5 L 0 10 z"/>
@@ -28,6 +30,7 @@
         <path d="M 0 0 L -7 -5 L -0 -10 z"/>
     </marker>
     <line x1="25" y1="-79" x2="25" y2="-51" stroke="#7e7e7e" stroke-width="5" marker-end="url(#arrow-end-cad12ed8c9f45c25)" />
+    
     
     <rect x="-90" y="-170" width="230" height="90" rx="15" stroke="#795fac" stroke-width="4" fill="none"/>
     <text x="-75" y="-160" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif" fill="#2c2d2c"><tspan x="-75" dy="18">Docker-in-Docker Container</tspan><tspan x="-75" dy="18">docker:dind</tspan></text>
