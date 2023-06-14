@@ -39,7 +39,9 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Iris     | Server Kleinbrauerei Stiär Biär AG       | `iris.mint-system.com`     | Hetzner     |
 | Kronos   | Backup Server                            | `kronos.mint-system.com`   | Hetzner     |
 | Leto     | Server SATHOM SARL                       | `leto.mint-system.com`     | Klixa       |
+| Matrix   | [[Matrix]]-Server bei ungleich.ch        | `matrix.mint-system.com`   | Ungleich    |
 | Metis    | Zgraggen Agro GmbH                       | `metis.mint-system.com`    | Hetzner     |
+| Momus    | Server Swissfragrance GmbH               | `momus.mint-system.com`    | Hetzner     |
 | Nyx      | [[BINARY business]]                      | `nyx.mint-system.com`      | Hetzner     |
 | Pan      | Server Light Wing AG                     | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
@@ -48,7 +50,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Dienste [[Mint System GmbH]]             | `zeus.mint-system.com`     | Hetzner     |
-| Matrix   | [[Matrix]]-Server bei ungleich.ch            | `matrix.mint-system.com`   | Ungleich            |
 
 ### Liste freie Namen
 
