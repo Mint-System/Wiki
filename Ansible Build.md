@@ -2,11 +2,11 @@
 tags:
 - Definition
 ---
-# Ansible Playbooks
+# Ansible Build
 The Mint System collection of Ansible playbooks and roles.
 
 Website: <https://ansible.build>\
-Repository: <https://github.com/mint-system/ansible-playbooks>
+Repository: <https://github.com/mint-system/ansible-build>
 
 ## Inventories
 

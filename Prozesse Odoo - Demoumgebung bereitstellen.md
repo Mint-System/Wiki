@@ -8,7 +8,7 @@ tags:
 
 Arbeitsschritte:
 * Definieren Domain  `$NAME.14.odoo.build`
-* Installation Odoo mit [[Ansible Playbooks]]
+* Installation Odoo mit [[Ansible Build]]
 * Konfiguration Mail-Server
 * Unternehmensdaten eintragen
 * Ausgewählte Module installieren und konfigurieren
