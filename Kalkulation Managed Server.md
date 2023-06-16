@@ -10,13 +10,17 @@ Genaueres zur Kalkulation des Angebot *Managed Server*.
 
 Wir setzen Anbieter an verschiedenen Standorten.
 
-Deutschland:  
-[[Hetzner]]: <https://www.hetzner.com/cloud>
+Deutschland:
 
-Schweiz:  
-[[Exoscale]]: <https://www.exoscale.com/pricing/>  
-[[hosttech]]: <https://www.hosttech.ch/vserver/cloudserver/>
-[[Infomaniak]]: <https://www.infomaniak.com/de/hosting/vps-cloud>
+**[[Hetzner]]**: <https://www.hetzner.com/cloud>
+
+Schweiz:
+
+**[[Exoscale]]**: <https://www.exoscale.com/pricing/>
+
+**[[hosttech]]**: <https://www.hosttech.ch/vserver/cloudserver/>
+
+**[[Infomaniak]]**: <https://www.infomaniak.com/de/hosting/vps-cloud>
 
 Die Serverstufen wurden standortübergreifend gebündelt:
 
