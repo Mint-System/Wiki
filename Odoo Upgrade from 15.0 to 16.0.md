@@ -60,7 +60,7 @@ Remove unsupported modules.
 Run the upgrade scripts.
 
 ```bash
-odoo-upgrade $MODE -d $DATABASE -t ODOO_TARGET_VERSION -r $NEW_DATABASE
+odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
 ```
 
 Checkout target Odoo environment.

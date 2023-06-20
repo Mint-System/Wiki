@@ -108,3 +108,52 @@ odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 Copy to remote.
 
 Restore the new datbabase.
+
+
+## Troubleshooting
+
+### Missing attribute get_deals_offers
+
+**Problem**
+
+```
+Error while render the template
+AttributeError: 'website' object has no attribute 'get_deals_offers'
+Template: 422
+Path: /t/t/div[2]/section[1]/t[2]
+Node: <t t-foreach="website_offers" t-as="offers"/>
+```
+
+**Lösung**
+
+Vorlage zurücksetzen auf Ausgangsversion.
+
+### Missing website_search_box_input
+
+**Problem**
+
+```
+Error while render the template
+AttributeError: 'Request' object has no attribute '_context'
+Template: website.website_search_box_input
+Path: /t/form/t[1]/div/div/input[1]
+Node: <input type="hidden" id="search_start_limit" name="start_limit" t-att-value="elastic_set_id.get(\'start_limit\')" data-oe-model="ir.ui.view" data-oe-id="1671" data-oe-field="arch" data-oe-xpath="/data/xpath/div/input[1]"/>
+```
+
+**Lösung**
+
+Vorlage zurücksetzen auf Ausgangsversion.
+
+### viewFieldsInfo is undefined
+
+**Problem**
+
+```
+Uncaught Promise > viewFieldsInfo is undefined
+```
+
+**Lösung**
+
+```
+docker-odoo-clear-assets -c odoo33 -d odoo4
+```
