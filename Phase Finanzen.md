@@ -91,3 +91,10 @@ Ergebnis: Interne Buchhaltung erfolgt mittels Odoo.
 * Wie werden die Rechnungen nummeriert?
 * An welchem Datum versenden Sie Rechnung?
 * Wie sieht der Prozess der Rechnugnsprüfung aus?
+
+## Journale
+
+**Kreditkarten**
+
+* Welchen Kreditkarten-Anbieter verwenden Sie?
+* Gibt es ein Portal wo die Transaktionsdaten heruntergeladen werden können?

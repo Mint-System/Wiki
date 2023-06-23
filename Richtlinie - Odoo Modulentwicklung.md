@@ -19,5 +19,6 @@ Beispiel für Parameter zum Kopieren eines Feldes im Einkaufsvertrag: `purchase_
 Wenn Funktion überschrieben wird muss eine Kommentar in diesem Format hinzugefügt werden:
 
 ```python
+"""OVERWRITE: Funktionsbeschreibung"""
 #OVERWRITE:
 ```
