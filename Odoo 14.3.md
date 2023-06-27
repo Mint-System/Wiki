@@ -4,6 +4,9 @@ tags:
 ---
 # Odoo 14.3
 
+Version: 14.0\
+Revision: 14.0.2021.0111
+
 ```bash
 # Checkout enterprise repo
 cd enterprise && git checkout 2bf86b6e66635abb957ba471700f9d3ea271ff05

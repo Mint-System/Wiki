@@ -6,25 +6,22 @@ tags:
 
 ## [[Odoo 16.0]]
 
-State: 🔴\
-Version: 16.0\
-Revision: 16.0.2022.1017
+State: 🔴
 
 ## [[Odoo 16.1]]
 
-State: 🔴\
-Version: 16.1\
-Revision: 16.0.2022.1117
+State: 🔴
 
 ## [[Odoo 16.2]]
 
-State: 🟢\
-Version: 16.2\
-Revision: 16.0.2022.1226
+State: 🟢
 
 ## [[Odoo 16.3]]
 
-State: 🟢\
-Version: 16.3\
-Revision: 16.0.2023.0227
+State: 🟢
+
+## [[Odoo 16.4]]
+
+State: 🟢
+
 

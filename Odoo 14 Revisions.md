@@ -6,73 +6,53 @@ tags:
 
 ## [[Odoo 14.0]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2020.1019
+State: 🔴
 
 ## [[Odoo 14.1]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2020.1026
+State: 🔴
 
 ## [[Odoo 14.2]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2020.1123
+State: 🔴
 
 ## [[Odoo 14.3]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2021.0111
+State: 🔴
 
 ##  [[Odoo 14.4]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2021.0510
+State: 🔴
 
 ##  [[Odoo 14.5]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2021.0524
+State: 🔴
 
 ##  [[Odoo 14.6]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2021.0817
+State: 🔴
 
 ##  [[Odoo 14.7]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2021.1108
+State: 🔴
 
 ## [[Odoo 14.8]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2022.0110
+State: 🔴
 
 ## [[Odoo 14.9]]
 
-State: 🔴\
-Version: 14.0\
-Revision: 14.0.2022.0404
+State: 🔴
 
 ## [[Odoo 14.10]]
 
-State: 🟢\
-Version: 14.0\
-Revision: 14.0.2022.0912
+State: 🟢
 
 ## [[Odoo 14.11]]
 
-State: 🟢\
-Version: 14.0\
-Revision: 14.0.2023.0327
+State: 🟢
+
+## [[Odoo 14.12]]
+
+State: 🟢
 

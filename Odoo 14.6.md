@@ -4,6 +4,9 @@ tags:
 ---
 # Odoo 14.6
 
+Version: 14.0\
+Revision: 14.0.2021.0817
+
 ```bash
 ODOO_REVISION=14.6 
 
