@@ -41,10 +41,11 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Leto     | Server SATHOM SARL                       | `leto.mint-system.com`     | Klixa       |
 | Matrix   | [[Matrix]]-Server bei ungleich.ch        | `matrix.mint-system.com`   | Ungleich    |
 | Metis    | Zgraggen Agro GmbH                       | `metis.mint-system.com`    | Hetzner     |
-| Momus    | Server Swiss Fragrance GmbH               | `momus.mint-system.com`    | Hetzner     |
+| Momus    | Server Swiss Fragrance GmbH              | `momus.mint-system.com`    | Hetzner     |
 | Nyx      | [[BINARY business]]                      | `nyx.mint-system.com`      | Hetzner     |
 | Pan      | Server Light Wing AG                     | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
+| Selene   | Server sozialinfo.ch                     | `selene.mint-system.ch`    | Infomaniak  |
 | Themis   | [[BigBlueButton]] KMSU                   | `themis.mint-system.com`   | ExoScale    |
 | Triton   | Server andeer.net                        | `triton.mint-system.com`   | Off-Premise |
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
@@ -62,5 +63,3 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Hestia
 * Rhea
 * Selene
-* Hebe
-* Momus

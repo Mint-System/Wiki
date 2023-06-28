@@ -2,11 +2,11 @@
 tags:
 - Phasen
 ---
-# Phase Newsletter
+# Phase E-Mail-Marketing
 
 Tätigkeiten:
 
-* Implementation des Newsletter-Design
+* Implementation von Newsletter-Design
 * Anlegen von Mailing-Listen
 * Konfiguration Mail-Provider für Massenversand
 * Übernahme Daten (Blacklists, Vorlagen, Mailing-Listen) aus bestehendem Newsletter-Tool
