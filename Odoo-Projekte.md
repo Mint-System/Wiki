@@ -18,7 +18,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 
 **Odoo-Umgebung**
 
-* [[Phase Server bereitstellen]]
+* [[Phase Server Bereitstellung]]
 * [[Phase Odoo Installation]]
 * [[Phase Odoo Initialisierung]]
 * [[Phase Inbetriebnahme Hardware]]

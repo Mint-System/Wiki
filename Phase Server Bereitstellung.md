@@ -2,7 +2,7 @@
 tags:
 - Phasen
 ---
-# Phase Server bereitstellen
+# Phase Server Bereitstellung
 
 Tätigkeiten:
 
