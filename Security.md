@@ -5,6 +5,7 @@ tags:
 # Security
 
 Themen:
+
 * [[Web Application Firewall]]  
 * [[Zugriffskontrolle]]  
 * [[Passwortmanager]]  
@@ -12,3 +13,5 @@ Themen:
 * [[Offensive Security]]
 * [[Mail Security]]
 * [[CVE]]
+* [[Odoo Security]]
+* [[SSH-Zugriff]]
