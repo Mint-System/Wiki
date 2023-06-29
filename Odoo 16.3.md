@@ -38,3 +38,13 @@ docker pull odoo@sha256:971c643000e012ad8aca71ab2d903f527bdcb13a23a2c5f1c4d9e5a6
 # Tag the docker image
 docker tag e4d47774edee odoo:$ODOO_REVISION
 ```
+
+## Issues
+
+### Liste in form overflow
+
+List f.g. sale order lines in the sale order form overflows the window.
+
+### Cannot edit tax on vendor invoice
+
+When editing the tax field on total section of an vendor invoice a client error is thrown.
