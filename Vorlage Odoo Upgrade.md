@@ -10,8 +10,6 @@ This is a template to execute an [[Odoo Enterprise Upgrade]].
 
 ## Prepare
 
-Make preparations for the Odoo upgrade.
-
 Set env vars.
 
 ```bash
@@ -34,21 +32,47 @@ odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
 
 Checkout Odoo environment.
 
+```bash
+task checkout $ODOO_CURRENT_VERSION
+```
+
+Install python packages.
+
 Start local development environment.
+
+```bash
+task start db,native
+```
 
 ## Restore
 
 Clear filestore and restore database.
 
+```bash
+task clear-filestore $DATABASE
+odoo-restore -f tmp/$COMPANY/$DATABASE.zip
+```
+
 Login and check the Odoo log.
 
-Remove unsupported modules.
+Remove [[Unsupported Modules]].
 
 ## Upgrade
 
 Run the upgrade scripts.
 
 Checkout target Odoo environment.
+
+```bash
+task checkout $ODOO_TARGET_VERSION
+```
+
+Clear the assets and start the server.
+
+```bash
+task clear-assets $DATABASE
+task start native
+```
 
 Login and check the Odoo log.
 
@@ -74,9 +98,15 @@ Test the upgraded system.
 
 Run these test cases.
 
+Note regressions.
+
 ## Deploy
 
-Export the database
+Export the new database.
+
+```bash
+odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
+```
 
 Deploy the upgraded database.
 

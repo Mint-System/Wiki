@@ -53,7 +53,7 @@ odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 
 Login and check the Odoo log.
 
-Remove unsupported modules.
+Remove [[Unsupported Modules]].
 
 ### Upgrade
 

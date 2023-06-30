@@ -1,87 +1,121 @@
-# Odoo Upgrade from 14.0 to 15.0
+# Odoo OpenUpgrade from 14.0 to 15.0
 
 ## Prepare
 
-Start a native Odoo instance with the [[Odoo Development]] environment.
-
-* Define settings
+Set env vars.
 
 ```bash
-DATABASE=odoo
-FROM=14.0
-TARGET=15.0
+export DATABASE=odoo
+export COMPANY=mint-system
+export ODOO_CURRENT_VERSION=14.0
+export ODOO_TARGET_VERSION=15.0
 ```
 
-* Start local development environment
+Download the database.
 
 ```bash
-task checkout $TARGET
+odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
+```
+
+Checkout Odoo environment.
+
+Start local development environment.
+
+```bash
+task checkout $ODOO_CURRENT_VERSION
 task start db,native
 ```
 
-* Clear the local filestore and database
+## Restore
+
+Clear filestore and restore database.
 
 ```bash
 task drop-db $DATABASE
 task clear-filestore $DATABASE
+odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
 
-* Remove [[Incompatible Modules]] from remote
+Login and check the Odoo log.
 
-* Backup remote database to local folder and restore it
-
-```bash
-odoo-backup -d $DATABASE -o tmp/$DATABASE.zip ...
-odoo-restore -r -f tmp/$DATABASE.zip
-```
+Remove [[Unsupported Modules]].
 
 ## Upgrade
 
-* Stop the server, checkout target and clone the openupgrade scripts
+Checkout target Odoo environment.
+
+```bash
+task checkout $ODOO_TARGET_VERSION
+```
+
+Clone the OpenUpgrade scripts.
 
 ```bash
 git clone git@github.com:OCA/OpenUpgrade.git tmp/openupgrade
-cd tmp/openupgrade && git checkout $TARGET && git pull && ../..
+cd tmp/openupgrade && git checkout $ODOO_TARGET_VERSION && git pull && ../..
 sed -i -r 's/(addons_path.*)/\1,tmp\/openupgrade/' config/odoo-native.conf
 ```
 
-* Run the upgrade scripts
+Run the upgrade scripts.
 
 ```bash
 source task source
 ./odoo/odoo-bin -d $DATABASE --config config/odoo-native.conf --update=all --stop-after-init --load=base,web,openupgrade_framework
 ```
 
-* Clear the assets, run the server and check the log
+Clear the assets and start the server.
 
 ```bash
-docker-odoo-clear-assets -c db -d $DATABASE
+task clear-assets $DATABASE
 task start db,native
 ```
 
-* If required migrate modules
+Login and check the Odoo log.
 
-* Update all modules
+Update all modules.
 
 ```
 task update-module $DATABASE all
 ```
 
+## Configure
+
+Migrate custom modules.
+
+## Verify
+
+Test the upgraded system.
+
 ## Deploy
 
-* Backup the new database
+Export the database.
 
 ```bash
-odoo-backup -d $DATABASE -o tmp/$DATABASE-$TARGET.zip
+odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE-$ODOO_TARGET_VERSION.zip
 ```
 
-* Deploy the Odoo 15 instance
-
-* Drop the current database, restore the new database and tail the server log
+Deploy the upgraded database.
 
 ```bash
-odoo-drop -d $DATABASE ...
-odoo-restore -f tmp/$DATABASE-$TARGET.zip -r -d $DATABASE ...
+odoo-restore -f tmp/$COMPANY/$DATABASE-$ODOO_TARGET_VERSION.zip -d $DATABASE -r ...
 ```
 
-* If required deploy new modules
+## Troubleshooting
+
+### UndefinedColumn
+
+**Problem**
+
+When starting the Odoo database the following error is thrown:
+
+```bash
+UndefinedColumn: column res_company.scss_modif_timestamp does not exist 
+```
+
+**Solution**
+
+Update *Web Company Color*.
+
+```bash
+task install-module $DATABASE web_company_color
+```

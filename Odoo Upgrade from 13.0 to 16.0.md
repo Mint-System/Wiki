@@ -4,9 +4,7 @@ tags:
 ---
 # Odoo Upgrade from 13.0 to 16.0
 
-## Native Test 🚧
-
-### Prepare
+## Prepare
 
 Set env vars.
 
@@ -35,32 +33,33 @@ Checkout current Odoo environment.
 task checkout $ODOO_CURRENT_VERSION
 ```
 
+Install python packages.
+
 Start local development environment.
 
 ```bash
 task start db,native
 ```
 
-### Restore
+## Restore
 
 Clear filestore and restore database.
 
 ```bash
-task drop-db $DATABASE
 task clear-filestore $DATABASE
 odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
 
 Login and check the Odoo log.
 
-Remove unsupported modules.
+Remove [[Unsupported Modules]].
 
-### Upgrade
+## Upgrade
 
 Run the upgrade scripts.
 
 ```bash
-odoo-upgrade $MODE -d $DATABASE -t ODOO_TARGET_VERSION -r $NEW_DATABASE
+odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
 ```
 
 Checkout target Odoo environment.
@@ -69,11 +68,18 @@ Checkout target Odoo environment.
 task checkout $ODOO_TARGET_VERSION
 ```
 
+Clear the assets and start the server.
+
+```bash
+task clear-assets $DATABASE
+task start native
+```
+
 Login and check the Odoo log.
 
 Check the Upgrade report.
 
-### Configure
+## Configure
 
 Migrate custom modules.
 
@@ -97,7 +103,7 @@ Run these test cases.
 
 Note regressions.
 
-### Deploy
+## Deploy
 
 Export the new database.
 
@@ -109,6 +115,7 @@ Copy to remote.
 
 Restore the new datbabase.
 
+Copy filestore from backup.
 
 ## Troubleshooting
 

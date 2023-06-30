@@ -49,7 +49,7 @@ Restore to local folder and restore it
 odoo-restore -f "tmp/$COMPANY/$DATABASE.zip"
 ```
 
-Remove unsupported modules.
+Remove [[Unsupported Modules]].
 
 ```bash
 task remove-module ...
