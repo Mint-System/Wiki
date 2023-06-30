@@ -112,4 +112,4 @@ Deploy the upgraded database.
 
 ## Troubleshooting
 
-Document problems and solutions.
+See [[Vorlage Troubleshooting.en]].
