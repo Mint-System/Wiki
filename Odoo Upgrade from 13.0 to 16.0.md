@@ -111,9 +111,7 @@ Export the new database.
 odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 ```
 
-Copy to remote.
-
-Restore the new datbabase.
+Deploy the upgraded database.
 
 Copy filestore from backup.
 

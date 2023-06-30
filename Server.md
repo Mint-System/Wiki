@@ -42,7 +42,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Matrix   | [[Matrix]]-Server bei ungleich.ch        | `matrix.mint-system.com`   | Ungleich    |
 | Metis    | Zgraggen Agro GmbH                       | `metis.mint-system.com`    | Hetzner     |
 | Momus    | Server Swiss Fragrance GmbH              | `momus.mint-system.com`    | Hetzner     |
-| Nyx      | [[BINARY business]]                      | `nyx.mint-system.com`      | Hetzner     |
 | Pan      | Server Light Wing AG                     | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
 | Selene   | Server sozialinfo.ch                     | `selene.mint-system.ch`    | Infomaniak  |
@@ -63,3 +62,4 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Hestia
 * Rhea
 * Selene
+* Nyx
