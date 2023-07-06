@@ -15,13 +15,12 @@ Auswahl:
 * Microsoft Outlook `microsoft_outlook` #Odoo15 
 * Fetchmail Outlook  `fetchmail_outlook` #Odoo15 
 * Prometheus Exporter `prometheus_exporter`
-* Mail Server Filter ``mail_server_filter``
+* Mail Server Filter `mail_server_filter`
 
 ## Initialisierung
 
 Arbeitsschritte:
 * Bereitstellen Umgebung gemäss Bestellung
-* Konfiguration "Administrator Mint System"
 * Installation initiale Apps
 * Konfiguration Mail-Server
 * Einladen Benutzer und Vergabe Berechtigungen

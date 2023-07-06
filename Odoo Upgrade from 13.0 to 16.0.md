@@ -71,7 +71,7 @@ task checkout $ODOO_TARGET_VERSION
 Clear the assets and start the server.
 
 ```bash
-task clear-assets $DATABASE
+task clear-assets $NEW_DATABASE
 task start native
 ```
 

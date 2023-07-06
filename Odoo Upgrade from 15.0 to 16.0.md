@@ -4,9 +4,7 @@ tags:
 ---
 # Odoo Upgrade from 15.0 to 16.0
 
-## Native Test 🚧
-
-### Prepare
+## Prepare
 
 Set env vars.
 
@@ -41,7 +39,7 @@ Start local development environment.
 task start db,native
 ```
 
-### Restore
+## Restore
 
 Clear filestore and restore database.
 
@@ -55,7 +53,7 @@ Login and check the Odoo log.
 
 Remove [[Unsupported Modules]].
 
-### Upgrade
+## Upgrade
 
 Run the upgrade scripts.
 
@@ -73,7 +71,7 @@ Login and check the Odoo log.
 
 Check the Upgrade report.
 
-### Configure
+## Configure
 
 Migrate custom modules.
 
@@ -97,7 +95,7 @@ Run these test cases.
 
 Note regressions.
 
-### Deploy
+## Deploy
 
 Export the new database.
 

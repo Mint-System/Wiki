@@ -20,6 +20,7 @@ export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
 export DATABASE=erp
+export NEW_DATABASE=${DATABASE}_${ODOO_TARGET_VERSION}
 export COMPANY=mint-system
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 ```
@@ -57,9 +58,19 @@ Login and check the Odoo log.
 
 Remove [[Unsupported Modules]].
 
+```bash
+task remove-module $DATABASE ...
+```
+
+Update modules.
+
 ## Upgrade
 
 Run the upgrade scripts.
+
+```bash
+odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
+```
 
 Checkout target Odoo environment.
 
@@ -70,7 +81,7 @@ task checkout $ODOO_TARGET_VERSION
 Clear the assets and start the server.
 
 ```bash
-task clear-assets $DATABASE
+task clear-assets $NEW_DATABASE
 task start native
 ```
 
@@ -83,6 +94,10 @@ Check the Upgrade report.
 Migrate custom modules.
 
 Install new modules.
+
+```bash
+task install-module $NEW_DATABASE ...
+```
 
 Reset selected views.
 
