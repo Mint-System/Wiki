@@ -105,4 +105,3 @@ In Nextcloud existieren diese Tags:
 | Tag     | Kommentar       |
 | ------- | --------------- |
 | Meeting | Meeting Notizen |
-|         |                 |
