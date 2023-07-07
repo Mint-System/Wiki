@@ -46,10 +46,10 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
 | Selene   | Server sozialinfo.ch                     | `selene.mint-system.ch`    | Infomaniak  |
 | Themis   | [[BigBlueButton]] KMSU                   | `themis.mint-system.com`   | ExoScale    |
-| Triton   | Server andeer.net                        | `triton.mint-system.com`   | Off-Premise |
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Dienste [[Mint System GmbH]]             | `zeus.mint-system.com`     | Hetzner     |
+| Nyx      | Server Arnold Umzüge AG                  | `nyx.mint-system.com`      | Hetzner            |
 
 ### Liste freie Namen
 
@@ -63,3 +63,4 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Rhea
 * Selene
 * Nyx
+* Triton

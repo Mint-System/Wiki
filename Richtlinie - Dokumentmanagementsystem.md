@@ -12,6 +12,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 
 | Ordner                                    | Beschreibung                                                                                                       |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Akquise/[Name]                          | Ablage für Akquise                                                                                                                   |
 | Angebot                                   | Angebote der Mint System                                                                                           |
 | Ausbildung                                | Unterlagen zur selbständigen Weiterbildung                                                                         |
 | Archiviert                                | Ablage zur Archivierung                                                                                            |
