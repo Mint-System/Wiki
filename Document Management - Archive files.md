@@ -2,7 +2,7 @@
 tags:
 - HowTo
 ---
-# Nextcloud: Archive files
+# Document Management - Archive files
 
 Open the root folder in your terminal.
 
