@@ -4,7 +4,15 @@ tags:
 ---
 # Richtlinie - Odoo Modulentwicklung
 
-## Namenskonvention
+## Namenskonventionen
+
+### Ansichten
+
+Ansichten werden gemäss diesem Schema benannt:
+
+> Technischer Modullname + "." + Modellname + "\_" + Ansichtstyp
+
+Bespiel: `job_portal_base.joboffer_form`
 
 ### Systemparameter
 
