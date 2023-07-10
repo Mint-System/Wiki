@@ -5,7 +5,7 @@
 		{"type":"text","text":"Odoo","id":"86e8832c295bce23","x":-440,"y":-405,"width":160,"height":130,"color":"#6e1151"},
 		{"type":"file","file":"Aerodoo.md","id":"54dc923653f9f4f0","x":-941,"y":-144,"width":301,"height":86},
 		{"type":"text","text":"Infrastruktur","id":"9a46d9935effc7c2","x":-440,"y":-570,"width":160,"height":130,"color":"5"},
-		{"type":"file","file":"assets/subscription banner.jpg","id":"f9d466a5a057c6cd","x":-640,"y":-800,"width":400,"height":143},
+		{"type":"file","file":"attachments/subscription banner.jpg","id":"f9d466a5a057c6cd","x":-640,"y":-800,"width":400,"height":143},
 		{"type":"file","file":"Infrastruktur.md","id":"4cc1803dded0a676","x":-140,"y":-557,"width":300,"height":104},
 		{"type":"file","file":"Odoo.md","id":"c95d72e067051590","x":-380,"y":-100,"width":240,"height":84},
 		{"type":"file","file":"Caluma.md","id":"7042e7f32a7c0879","x":-1200,"y":-618,"width":380,"height":165}

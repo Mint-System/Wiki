@@ -6,7 +6,7 @@ all
 index
 canvas
 convert
-assets
+attachments
 sitemap
 */
 
@@ -15,10 +15,10 @@ const ignoreFiles = ['_navbar.md', '_sidbar.md']
 const scheme = 'https://'
 const hostname = 'wiki.mint-system.ch'
 const basePath = '/'
-const basePathAssets = './'
+const basePathAttachments = './'
 const uriSuffix = '.html'
 const anchorPrefix = '#'
-const assetsFolder = 'assets'
+const attachmentsFolder = 'attachments'
 const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
 const wikiImage = /!\[\[([^\]]+\..+)\]\]/g
 const obsidianCanvas = /\[\[([^\]]+\.canvas.+)\]\]/g
@@ -403,7 +403,7 @@ function convert(content, file) {
             href = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
             title = match.match(/\|(.*)\]\]/)[1]
         }
-        content = content.replace(match, `[${title}](${basePathAssets}${href}.svg)`)
+        content = content.replace(match, `[${title}](${basePathAttachments}${href}.svg)`)
     }
 
     // Convert wiki image links
@@ -412,7 +412,7 @@ function convert(content, file) {
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
         let image = sanitizeAssetname(match.match(/!\[\[([^\]]*)/)[1])
-        content = content.replace(match, `![](${basePathAssets}${image})`)
+        content = content.replace(match, `![](${basePathAttachments}${image})`)
     }
 
     // Convert embeded content links
@@ -614,23 +614,23 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
     console.log('Building glossary finished.')
 }
 
-if (!firstArg || ['all', 'assets'].indexOf(firstArg) > 0) {
+if (!firstArg || ['all', 'attachments'].indexOf(firstArg) > 0) {
     
     // log
-    console.log('Move assets ...')
+    console.log('Move attachments ...')
 
     // Loop all asset files
-    fs.readdirSync(path.join(__dirname, assetsFolder)).forEach((file) => {
+    fs.readdirSync(path.join(__dirname, attachmentsFolder)).forEach((file) => {
 
         // set new file name
         newfile = sanitizeAssetname(file)
 
         // move asset file
-        fs.renameSync(path.join(__dirname, assetsFolder, file), path.join(__dirname, newfile))
+        fs.renameSync(path.join(__dirname, attachmentsFolder, file), path.join(__dirname, newfile))
     })
 
     // log
-    console.log('Moving assets finished.')
+    console.log('Moving attachments finished.')
 }
 
 if (!firstArg || ['all', 'sitemap'].indexOf(firstArg) > 0) {
