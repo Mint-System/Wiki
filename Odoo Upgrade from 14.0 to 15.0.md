@@ -65,6 +65,8 @@ Update modules.
 Run the upgrade scripts.
 
 ```bash
+task drop-db $NEW_DATABASE
+task clear-filestore $NEW_DATABASE
 odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
 ```
 
