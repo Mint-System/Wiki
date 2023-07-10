@@ -15,17 +15,18 @@ Create a script file with this definition:
 set -e
 
 # Settings
+maxdepth=5
 archive_folder_name="Archiviert"
 timestamp=$(date -u +"%Y-%m-%dT%H-%M-%S")
 archive_name="$timestamp-archive.tar.gz"
 
 # Run archive task
-find . -name "$archive_folder_name" -type d | awk '{print length($0), $0}' | sort -nr |  cut -d" " -f2- | while read folder
+find . -maxdepth $maxdepth -name "$archive_folder_name" -type d | awk '{print length($0), $0}' | sort -nr |  cut -d" " -f2- | while read folder
 do
     pushd . > /dev/null
     echo "Check if files exists for archiving in $folder"
     cd "$folder"
-    files=$(find ./ ! -name '*-archive.tar.gz')    
+    files=$(find ./ -not -name "*-archive.tar.gz")    
     if [ "$files" != "./" ]; then
     	echo "Step into parent folder of $folder"
         cd ..
@@ -35,7 +36,7 @@ do
         popd > /dev/null
         pushd . > /dev/null
         cd "$folder"
-        find . ! -name '*-archive.tar.gz' -delete
+        find . -not -name "*-archive.tar.gz" -delete
         echo "Move archive into folder"
         mv ../$archive_name ./
     fi
