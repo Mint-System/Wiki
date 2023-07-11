@@ -42,6 +42,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Matrix   | [[Matrix]]-Server bei ungleich.ch        | `matrix.mint-system.com`   | Ungleich    |
 | Metis    | Zgraggen Agro GmbH                       | `metis.mint-system.com`    | Hetzner     |
 | Momus    | Server Swiss Fragrance GmbH              | `momus.mint-system.com`    | Hetzner     |
+| Nyx      | Server Arnold Umzüge AG                  | `nyx.mint-system.com`      | Hetzner     |
 | Pan      | Server Light Wing AG                     | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
 | Selene   | Server sozialinfo.ch                     | `selene.mint-system.ch`    | Infomaniak  |
@@ -49,7 +50,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Dienste [[Mint System GmbH]]             | `zeus.mint-system.com`     | Hetzner     |
-| Nyx      | Server Arnold Umzüge AG                  | `nyx.mint-system.com`      | Hetzner            |
 
 ### Liste freie Namen
 
@@ -61,6 +61,4 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Moros
 * Hestia
 * Rhea
-* Selene
-* Nyx
 * Triton
