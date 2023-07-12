@@ -4,4 +4,4 @@ tags:
 ---
 # Odoo Development Workflow
 
-Workflow for [[Odoo Development]].
+Workflow for [[Odoo Build]].
