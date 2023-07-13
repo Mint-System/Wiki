@@ -2,7 +2,7 @@
 tags:
 - Phasen
 ---
-### Phase Software-Entwicklung
+### Phase Softwareentwicklung
 
 Tätigkeiten:
 

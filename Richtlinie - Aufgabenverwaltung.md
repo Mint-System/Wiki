@@ -14,8 +14,8 @@ Die folgenden Hauptaufgaben sind definiert.
 
 * **Odoo Implementierung (OI)** - Implementation von Odoo-Funktionen [[Emoji#🔴]]
 * **Projektleitung (PL)** - Allgemeine Projektleitung [[Emoji#🔴]]
-* **Software-Entwicklung (SE)** - Implementation von Geschäftsapplikationen [[Emoji#🔴]]
-* **System-Engineering (SN)** - Konfiguration Betriebssystem und Applikationen [[Emoji#🔴]]
+* **Softwareentwicklung (SE)** - Implementation von Geschäftsapplikationen [[Emoji#🔴]]
+* **System Engineering (SN)** - Konfiguration Betriebssystem und Applikationen [[Emoji#🔴]]
 * **Projektphase (PN)** - Name der Projektphase und Nummer anstelle von N [[Emoji#🟣]]
 * **Geschäftsanalyse (GA)** - Abwicklung von Beratungsprojekten [[Emoji#🔴]]
 * **Technischer Support (TS)** - Support und ad-hoc Instruktionen [[Emoji#🔴]]

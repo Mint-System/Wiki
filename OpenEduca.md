@@ -23,4 +23,4 @@ Das Webportal openeduca.ch ist ein Angebot der Mint System GmbH. Wir bieten Info
 ## Vision
 
 Unsere Vision:  
-Wir tragen als Firma dazu bei, unsere Gesellschaft in Richtung mehr Offenheit, Transparenz und Kooperation zu bewegen. Mit unserer Arbeit beweisen wir, dass der Open Source Ansatz in der Software-Entwicklung der richtige Weg ist um die Mündigkeit der Menschheit im Umgang mit der digitalisierten Welt sicherzustellen. 
+Wir tragen als Firma dazu bei, unsere Gesellschaft in Richtung mehr Offenheit, Transparenz und Kooperation zu bewegen. Mit unserer Arbeit beweisen wir, dass der Open Source Ansatz in der Softwareentwicklung der richtige Weg ist um die Mündigkeit der Menschheit im Umgang mit der digitalisierten Welt sicherzustellen. 

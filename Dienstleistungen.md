@@ -38,7 +38,7 @@ Umfasst diese Leistungen:
 
 Preis: 160 CHF pro Stunde
 
-## Software-Entwicklung
+## Softwareentwicklung
 
 ![[odoo_icon_tool.png]]
 

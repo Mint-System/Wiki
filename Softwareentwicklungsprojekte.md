@@ -20,7 +20,7 @@ Zur Umsetzung eines Softwareentwicklungsprojekt können diese Phase angewendet w
 
 **Implementation**
 
-* [[Phase Software-Entwicklung]]
+* [[Phase Softwareentwicklung]]
 * [[Phase Continuos Delivery]]
 
 **Betrieb**
