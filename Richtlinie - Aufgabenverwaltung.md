@@ -6,9 +6,9 @@ tags:
 
 Jede Aufgabe ist verrechenbar oder nicht verrechenbar und wird einer Hauptaufgabe zugeordnet.
 
-## Vorlage Hauptaufgaben
+## Projektphasen
 
-Die folgenden Hauptaufgaben sind definiert.
+Die folgenden Projektphasen sind definiert.
 
 ### Verrechenbar
 
@@ -16,7 +16,6 @@ Die folgenden Hauptaufgaben sind definiert.
 * **Projektleitung (PL)** - Allgemeine Projektleitung [[Emoji#🔴]]
 * **Softwareentwicklung (SE)** - Implementation von Geschäftsapplikationen [[Emoji#🔴]]
 * **System Engineering (SN)** - Konfiguration Betriebssystem und Applikationen [[Emoji#🔴]]
-* **Projektphase (PN)** - Name der Projektphase und Nummer anstelle von N [[Emoji#🟣]]
 * **Geschäftsanalyse (GA)** - Abwicklung von Beratungsprojekten [[Emoji#🔴]]
 * **Technischer Support (TS)** - Support und ad-hoc Instruktionen [[Emoji#🔴]]
 * **Odoo Entwicklung (OE)** - Entwicklungvon Odoo Apps [[Emoji#🔴]]
@@ -31,6 +30,7 @@ Die folgenden Hauptaufgaben sind definiert.
 ## Aufgabenstatus festlegen
 
 Jede Projektaufgabe durchläuft die folgenden Stufen:
+
 * **Backlog [[Emoji#🎒|🎒]]** Hier werden neue Aufgaben erstellt und Ideen gesammelt.
 * **Bereit 🏁** Die Aufgabe ist bereit und hat alle Informationen zur Bearbeitung hinterlegt.
 * **In Arbeit 🧑‍💻** Die Aufgabe befindet sich in Bearbeitung.
