@@ -2,7 +2,7 @@
 tags:
 - Phasen
 ---
-# Phase Odoo Verbinden
+# Phase Odoo Integration
 
 Tätigkeiten:
 
