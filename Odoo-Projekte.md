@@ -30,6 +30,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Social Login]]
 * [[Phase Microsoft Login]]
 * [[Phase Login]]
+* [[Phase Odoo Verbinden]]
 
 **Odoo Apps**
 
