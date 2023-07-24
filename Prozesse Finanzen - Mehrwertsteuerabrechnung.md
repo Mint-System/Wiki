@@ -16,7 +16,7 @@ Arbeitsschritte:
 
 ## MWST abrechnen
 
-* Registrieren Sie sich auf <https://mwsteasy.estv.admin.ch/>
+* Registrieren Sie sich auf <https://mwstabrechnen.estv.admin.ch/>
 * Kopieren Sie den Abrechnungscode aus dem [[Passwortmanager]]
 * Starten Sie die Eingaben und verwenden Sie die Ziffern wie folgt:
 	* `200`: Gesamter Umsatz im In- und Ausland
