@@ -17,6 +17,18 @@ Umfasst diese Leistungen:
 
 Preis: 180 CHF pro Stunde
 
+## Anforderungsanalyse
+
+![[odoo_icon_tool.png]]
+
+Umfasst diese Leistungen:
+- Interview mit Stakeholder
+- Erstellen Systemabgrenzung
+- Erfassen und kategorisieren von Anforderungen
+- Erstellen Dokument Anforderungen
+
+Preis: 180 CHF pro Stunde
+
 ## Geschäftsanalyse
 
 ![[odoo_icon_people.png]] 
@@ -62,18 +74,6 @@ Umfasst diese Leistungen (Hosting):
 - Installation und Konfiguration Managed Server
 - Bereitstellung Hosting
 - Technische Integration
-
-Preis: 160 CHF pro Stunde
-
-## Anforderungsanalyse
-
-![[odoo_icon_tool.png]]
-
-Umfasst diese Leistungen:
-- Interview mit Stakeholder
-- Erstellen Systemabgrenzung
-- Erfassen und kategorisieren von Anforderungen
-- Erstellen Dokument Anforderungen
 
 Preis: 160 CHF pro Stunde
 

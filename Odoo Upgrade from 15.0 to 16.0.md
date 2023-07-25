@@ -33,6 +33,8 @@ Checkout current Odoo environment.
 task checkout $ODOO_CURRENT_VERSION
 ```
 
+Install python packages.
+
 Start local development environment.
 
 ```bash
@@ -53,6 +55,12 @@ Login and check the Odoo log.
 
 Remove [[Unsupported Modules]].
 
+```bash
+task remove-module $DATABASE ...
+```
+
+Update modules.
+
 ## Upgrade
 
 Run the upgrade scripts.
@@ -67,6 +75,13 @@ Checkout target Odoo environment.
 task checkout $ODOO_TARGET_VERSION
 ```
 
+Clear the assets and start the server.
+
+```bash
+task clear-assets $NEW_DATABASE
+task start native
+```
+
 Login and check the Odoo log.
 
 Check the Upgrade report.
@@ -75,9 +90,11 @@ Check the Upgrade report.
 
 Migrate custom modules.
 
-Reinstall modules.
-
 Install new modules.
+
+```bash
+task install-module $NEW_DATABASE ...
+```
 
 Reset selected views.
 
@@ -103,6 +120,4 @@ Export the new database.
 odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 ```
 
-Copy to remote.
-
-Restore the new datbabase.
+Deploy the upgraded database.
