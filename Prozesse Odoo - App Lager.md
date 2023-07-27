@@ -6,6 +6,7 @@ tags:
 Installation Modul Lager `stock`.
 
 ## Installation
+
 Auswahl:
 * Stock enterprise `stock_enterprise`
 * Produkt-Ablaufdatum `product_expiry`

@@ -6,6 +6,7 @@ tags:
 Typ: [[Bereich]]
 
 Themen:
+
 * [[AHV und EO]]
 * [[Steuern]]
 * [[Weiterbildung]]
@@ -15,3 +16,4 @@ Themen:
 * [[Ziele]]
 * [[KPI]]
 * [[Subunternehmen]]
+* [[Strategie]]
