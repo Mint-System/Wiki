@@ -5,7 +5,7 @@ tags:
 
 # Freischaffende Mitarbeitende
 
-Ein Anstellungsverhältnis für Mitarbeitende der Mint System GmbH.
+Sie arbeiten im Namen Mint System und stellen eine Rechnung für ihre Aufwände.
 
 ## Infrastruktur
 
