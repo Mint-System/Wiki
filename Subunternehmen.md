@@ -13,8 +13,8 @@ Sie sind ein eigenständiges Unternehmen und arbeiten mit Mint System an einem P
 
 ## [[Freischaffende Mitarbeitende]]
 
-Sie arbeiten im Namen Mint System und stellen eine Rechnung für ihre Aufwände.
+Sie arbeiten im Namen von Mint System und stellen uns ihre Aufwände in Rechnung.
 
 ## [[Mint System als Subunternehmen]]
 
-Die Mint System arbeitet als Subunternehmen für Sie bzw. ihr Projekt.
+Die Mint System arbeitet als Subunternehmen für Sie oder ihr Projekt.
