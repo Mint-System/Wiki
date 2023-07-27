@@ -4,4 +4,4 @@ tags:
 ---
 # Datenverarbeitung
 
-Für den [[ETL-Prozess]] setzen wir [[Talend Open Studio]] ein.
+Für den [[ETL-Prozess]] setzen wir [[Jupyter]] ~~[[Talend Open Studio]]~~ ein.

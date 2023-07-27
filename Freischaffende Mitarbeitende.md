@@ -34,7 +34,7 @@ Als freischaffender Mitarbeitender profitieren Sie von der Mint System als Marke
 
 * Die Mint System hat sich als Software-Unternehmen in der Region etabliert.
 * Die Mint System ist ein etablierter Odoo Partner und konnte sich nicht zuletzt mit dem [[Odoo Wiki]] im Markt differenzieren.
-* Die Mint System bewegt sich einem starken [[Partner Netzwerk]] und wird als offenes und vertrauenswürdiges Unternehmen wahrgenommen.
+* Die Mint System bewegt sich einem starken [[Partner]] und wird als offenes und vertrauenswürdiges Unternehmen wahrgenommen.
 
 ## Berechnung Stundensatz
 

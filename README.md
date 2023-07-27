@@ -21,7 +21,7 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Methodik]]
 * [[Richtlinien]]
 * [[Dokumente]]
-* [[Partner Netzwerk]]
+* [[Partner]]
 * [[Corporate Design]]
 * [[Tools]]
 * [[Links]]

@@ -21,4 +21,4 @@ Die Mint System GmbH stellt ihnen eine Rechnung für die geleisteten Stunden gem
 
 ## Berechnung Stundensatz
 
-Die Provision für für Sie beträgt 10%.
+Die Provision für Sie beträgt 10%.

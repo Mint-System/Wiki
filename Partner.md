@@ -2,7 +2,8 @@
 tags:
 - Asset
 ---
-# Partner Netzwerk
+# Partner
+
 Geschäftsbeziehungen der Mint System.
 
 ## Odoo Partner
