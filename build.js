@@ -92,7 +92,6 @@ function renderNode(node) {
     if (node['text']) {
 
         // Compare text length to node length
-        console.log(node['text'], node['text'].length / node['width'])
         if ((node['text'].length / node['width']) >= 0.14) {
             textOffsetY = 0
         }
