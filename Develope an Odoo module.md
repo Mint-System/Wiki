@@ -5,9 +5,15 @@ tags:
 
 # Develope an Odoo module
 
-When developing an Odoo module the best way to get started is by adopting the [[OCA]] best practices.
+When developing an Odoo module the best way to get started is by adopting the [[OCA]] and [[Odoo S.A.]] best practices.
 
 In this guide we give an overview of the practices.
+
+## Guidelines
+
+Odoo S.A. provides a coding guideline <https://www.odoo.com/documentation/16.0/de/contributing/development/coding_guidelines.html>. The guide provides answers on how to almost every aspect of dveloping an Odoo module.
+
+However, this guide is superseded by the OCA guidelines <https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst>.
 
 ## Repositories
 
