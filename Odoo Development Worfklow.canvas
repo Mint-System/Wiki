@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"f5069d7b0eb7ddb9","x":-340,"y":-260,"width":250,"height":60,"color":"4","type":"text","text":"Interview customer"},
+		{"id":"1164a4aa72f1d2cc","x":-360,"y":-280,"width":290,"height":880,"type":"group","label":"Business Analyst"},
+		{"id":"dd72dbec02ae2463","x":60,"y":-80,"width":290,"height":560,"type":"group","label":"Odoo Developer"},
+		{"type":"text","text":"Interview customer","id":"f5069d7b0eb7ddb9","x":-340,"y":-260,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Create business requirement","id":"20058e5cafd7883f","x":-340,"y":-160,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Write technical specification","id":"31fa69e10f5ed5a7","x":-340,"y":-60,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Validate technical specification","id":"840fa52aa9e0f997","x":80,"y":-60,"width":250,"height":60,"color":"6"},
