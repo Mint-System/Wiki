@@ -5,8 +5,6 @@ tags:
 # Prozesse Akquise
 Dokumentation der Akquise Prozesse.
 
-Verantwortlich: [[Marco Roeleven]]
-
 ```mermaid
 graph LR;
     A[Kontakaufnahme]-->B[Qualifikation];

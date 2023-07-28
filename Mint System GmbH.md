@@ -17,7 +17,6 @@ UID: CHE-150.248.608
 
 * [[Janik von Rotz]]
 * [[Kurt Gisler]]
-* [[Marco Roeleven]]
 
 ## Zahlungsinformationen
 
