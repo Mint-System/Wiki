@@ -82,7 +82,7 @@ function renderNode(node) {
     const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
 
     let textOffsetX = 15
-    let textOffsetY = 0
+    let textOffsetY = 7
     let fontColor = '#2c2d2c'
     let fontSize = 15
     let content = ''
@@ -90,6 +90,13 @@ function renderNode(node) {
     // Render default text
 
     if (node['text']) {
+
+        // Compare text length to node length
+        console.log(node['text'], node['text'].length / node['width'])
+        if ((node['text'].length / node['width']) >= 0.14) {
+            textOffsetY = 0
+        }
+
         content = `
         <style>
             p {
@@ -171,7 +178,6 @@ function renderEdge(edge) {
     const toSide = edge['toSide']
     const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
     const fontColor = '#2c2d2c'
-    const fontSize = 15
 
     let marker = `marker-end="url(#arrow-end-${id})"`
     let fromOffset = 1
