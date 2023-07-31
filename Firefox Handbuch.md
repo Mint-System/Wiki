@@ -13,7 +13,7 @@ Um den Netzwerkzugriff aufzuzeichnen gehen Sie wie folgt vor.
 * Zeigen Sie den Tab *Netzwerkanalyse* an
 * Starten Sie die Aufzeichnung mit der entsprechenden Aktion
 * Arbeiten Sie ganz normal mit der Webanwendung
-* Nach einer bestimmten Zeit oder eintreten eines Ereignisses speichern sie die Aufzeichnung mit der Atkion *Alles als HAR speichern*
+* Nach einer bestimmten Zeit oder Eintreten eines Ereignisses, speichern sie die Aufzeichnung mit der Aktion *Alles als HAR speichern*
 
 ![[Firefox Handbuch HAR.png]]
 
