@@ -36,7 +36,7 @@ setpw.encrypt('YourNewPassword')
 ## Commands
 
 Log into Docker Container.  
-```
+```bash
 CONTAINER=odoo04
 docker exec -it $CONTAINER bin/bash
 ```
@@ -44,7 +44,7 @@ docker exec -it $CONTAINER bin/bash
 Start Odoo Shell.  
 ```bash
 DATABASE=odoo14
-odoo shell -d $DATABASE --db_host $HOST -r $USER -w $PASSWORD  --no-http
+odoo shell -d $DATABASE --db_host $HOST -r $USER -w $PASSWORD --no-http
 ```
 
 Clear assets.  

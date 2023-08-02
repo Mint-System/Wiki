@@ -5,10 +5,7 @@
   "spellcheck": true,
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "de"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

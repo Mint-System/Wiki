@@ -59,7 +59,6 @@ task remove-module $DATABASE ...
 ```
 
 Update modules.
-
 ## Upgrade
 
 Run the upgrade scripts.
@@ -80,13 +79,12 @@ Clear the assets and start the server.
 
 ```bash
 task clear-assets $NEW_DATABASE
-task start native
+task start native $NEW_DATABASE
 ```
 
 Login and check the Odoo log.
 
 Check the Upgrade report.
-
 ## Configure
 
 Migrate custom modules.
@@ -104,7 +102,6 @@ Make new Odoo configurations.
 Activate options in the settings page.
 
 Update selected snippets.
-
 ## Verify
 
 Test the upgraded system.
@@ -120,7 +117,6 @@ Export the new database.
 ```bash
 odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 ```
-
 ## Troubleshooting
 
 ### External ID not found in the system
