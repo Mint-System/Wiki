@@ -72,7 +72,7 @@ Clear the assets and start the server.
 
 ```bash
 task clear-assets $NEW_DATABASE
-task start native
+task start native $NEW_DATABASE
 ```
 
 Login and check the Odoo log.
