@@ -42,4 +42,4 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 
 Ein Off-Premise Odoo Hosting kann wie folgt aussehen:
 
-![[Odoo Hosting On-Premise.png]]
+![[Odoo Hosting On-Premise.svg]]
