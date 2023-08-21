@@ -43,6 +43,7 @@ The most important quality tools are:
 * [[isort]]
 * [[black]]
 * [[autoflake]]
+* [[prettier]]
 
 ## Testing
 

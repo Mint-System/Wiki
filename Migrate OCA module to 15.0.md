@@ -3,7 +3,7 @@ tags:
 - HowTo
 ---
 
-# Migrate OCA module from 14.0 to 15.0
+# Migrate OCA module to 15.0
 
 See [Migration to version 15.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-15.0) for details.
 
