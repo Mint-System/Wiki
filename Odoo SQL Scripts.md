@@ -39,3 +39,10 @@ ALTER TABLE ir_ui_view DISABLE TRIGGER ALL;
 DELETE FROM ir_ui_view WHERE active='f';
 ALTER TABLE ir_ui_view ENABLE TRIGGER ALL;
 ```
+
+Remove SQL constraint.
+
+```sql
+ALTER TABLE google_shop 
+  DROP google_shop_field_mapping_id_fkey;
+```

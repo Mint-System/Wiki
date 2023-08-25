@@ -45,7 +45,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Nyx      | Server Arnold Umzüge AG                  | `nyx.mint-system.com`      | Hetzner     |
 | Pan      | Server Light Wing AG                     | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
-| Selene   | Server sozialinfo.ch                     | `selene.mint-system.ch`    | Infomaniak  |
+| Selene   | Server Sozialinfo                        | `selene.mint-system.ch`    | Infomaniak  |
 | Themis   | [[BigBlueButton]] KMSU                   | `themis.mint-system.com`   | ExoScale    |
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |

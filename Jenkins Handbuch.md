@@ -14,11 +14,11 @@ Jenkins starten.
 task start cd
 ```
 
-Einloggen und Plugins *Docker* und *Docker Pipeline* via `/manage` installieren.
+Einloggen und Plugins *docker* und *Docker Pipeline* via `/manage` installieren.
 
 Via `/manage` eine Cloud *Docker* mit Option *Docker* hinzufügen. Als *Docker Host URI* `tcp://dind:2375` verwenden und die Optionen *Enabled* und *Expose DOCKER_HOST* aktivieren.
 
-Anschliessend ein *Docker Agent template* hinzufügen mit Label `docker-agent`, Name `Docker Agent` und Docker Image `jenkins/agent`.
+Anschliessend ein *Docker Agent template* hinzufügen mit Label `docker-agent`, Enabled ,Name `Docker Agent` und Docker Image `jenkins/agent`.
 
 ## SSH-Schlüssel einrichten
 
