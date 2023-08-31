@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"text","text":"User","id":"e4453b07c7efb110","x":-320,"y":-300,"width":100,"height":60,"color":"4"},
+		{"type":"text","text":"Role","id":"6f83bef240cef0a0","x":-35,"y":-300,"width":100,"height":60,"color":"4"},
+		{"type":"text","text":"Group","id":"516af98a002c6f8a","x":-320,"y":-150,"width":100,"height":60,"color":"4"},
+		{"type":"text","text":"Inherited Group","id":"a53bf8944bdb649a","x":-640,"y":-150,"width":170,"height":60,"color":"4"},
+		{"type":"text","text":"Menu","id":"d9f6873f51bb0add","x":-605,"y":30,"width":100,"height":60,"color":"3"},
+		{"type":"text","text":"Views","id":"296c822362e95946","x":-420,"y":30,"width":100,"height":60,"color":"3"},
+		{"type":"text","text":"Access Rights","id":"39e667b4bb0e6748","x":-220,"y":30,"width":170,"height":60,"color":"1"},
+		{"type":"text","text":"Model + Domain + Access Type","id":"f63c21d203fff995","x":130,"y":170,"width":175,"height":60,"color":"3"},
+		{"type":"text","text":"Model + Access Type","id":"0327dc932901ada1","x":-205,"y":170,"width":140,"height":60,"color":"3"},
+		{"type":"text","text":"Record Roles","id":"eb6e29f1e861d07c","x":130,"y":30,"width":170,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"dd8f3c35a30ff885","fromNode":"6f83bef240cef0a0","fromSide":"left","toNode":"e4453b07c7efb110","toSide":"right","label":"assign"},
+		{"id":"3fa57be1c27f1c37","fromNode":"e4453b07c7efb110","fromSide":"bottom","toNode":"516af98a002c6f8a","toSide":"top","label":"assign"},
+		{"id":"e8bcecfe6c92aa0b","fromNode":"6f83bef240cef0a0","fromSide":"bottom","toNode":"516af98a002c6f8a","toSide":"right","toEnd":"none","label":"link"},
+		{"id":"27abfa98f7847086","fromNode":"516af98a002c6f8a","fromSide":"left","toNode":"a53bf8944bdb649a","toSide":"right","label":"include"},
+		{"id":"cfee08be00958a5c","fromNode":"516af98a002c6f8a","fromSide":"bottom","toNode":"d9f6873f51bb0add","toSide":"top","label":"grant"},
+		{"id":"1dbc344b6d38d8d4","fromNode":"516af98a002c6f8a","fromSide":"bottom","toNode":"296c822362e95946","toSide":"top","label":"grant"},
+		{"id":"07ab12d0a33df69e","fromNode":"516af98a002c6f8a","fromSide":"bottom","toNode":"39e667b4bb0e6748","toSide":"top","label":"include"},
+		{"id":"c1b494761ae52b4a","fromNode":"516af98a002c6f8a","fromSide":"bottom","toNode":"eb6e29f1e861d07c","toSide":"top","label":"include"},
+		{"id":"c19956127b4edab2","fromNode":"39e667b4bb0e6748","fromSide":"top","toNode":"516af98a002c6f8a","toSide":"bottom"},
+		{"id":"5037b48eee560a2e","fromNode":"39e667b4bb0e6748","fromSide":"bottom","toNode":"0327dc932901ada1","toSide":"top","label":"grant"},
+		{"id":"0f4a0e62d9c4ef36","fromNode":"eb6e29f1e861d07c","fromSide":"bottom","toNode":"f63c21d203fff995","toSide":"top","label":"grant"},
+		{"id":"0d2daca977ce8fad","fromNode":"f63c21d203fff995","fromSide":"left","toNode":"0327dc932901ada1","toSide":"right","label":"overwrite"}
+	]
+}

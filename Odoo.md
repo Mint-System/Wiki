@@ -44,6 +44,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Connector]]
 * [[Odoo Datenmodell]]
 * [[Odoo Longpolling]]
+* [[Odoo Sicherheit]]
 
 ## Customization
 
