@@ -11,6 +11,7 @@ sitemap
 */
 
 // settings
+const debug = false
 const ignoreFiles = ['_navbar.md', '_sidbar.md']
 const scheme = 'https://'
 const hostname = 'wiki.mint-system.ch'
@@ -229,25 +230,33 @@ function renderEdge(edge) {
 
     if(edge['label']) {
         
-        // Calculate position with offset
+        // Calculate position of label
         let labelLength = edge['label'].length*4
         let labelX = fromX - labelLength
         let labelY = fromY
-
+      
+        if (toX < fromX) {            
+            labelX -= Math.abs(toX - fromX)/2
+        }
         if (toX > fromX) {
-            labelX += Math.abs((fromX-toX)/2)
-        }
-        if (toY > fromY) {
-            labelY += Math.abs((fromY-toY)/2)
-        }
-        if (toX < fromX) {
-            labelX -= Math.abs((toX-fromY)/2)
+            labelX += Math.abs(fromX - toX)/2
         }
         if (toY < fromY) {
-            labelY -= Math.abs((toY-fromY)/2)
+            labelY += Math.abs(toY - fromY)/2
+        }
+        if (toY > fromY) {
+            labelY += Math.abs(fromY - toY)/2
+        }
+        // console.log(`(${labelX}/${labelY}) toX:${toX} fromX:${fromX} toY:${toY} fromY:${fromY}`)
+
+        label_text = edge['label']
+        if (debug) {
+            label_text += ` (${labelX}/${labelY})`
         }
 
-        label = content = `<text x="${labelX}" y="${labelY}" font-family="${fontFamily}" fill="${fontColor}">${edge['label']}</text>`
+        label = `
+        <text x="${labelX}" y="${labelY}" font-family="${fontFamily}">${label_text}</text>
+        `
     }
 
     return `
@@ -257,7 +266,7 @@ function renderEdge(edge) {
     <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-${id}" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="${color}" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
         <path d="M 0 0 L -7 -5 L -0 -10 z"/>
     </marker>
-    <line x1="${fromX}" y1="${fromY}" x2="${toX}" y2="${toY}" stroke="${color}" stroke-width="${strockWidth}" ${marker} />
+    <line x1="${fromX}" y1="${fromY}" x2="${toX}" y2="${toY}" stroke="${color}" fill="white" stroke-width="${strockWidth}" ${marker} />
     ${label}
     `
 }
