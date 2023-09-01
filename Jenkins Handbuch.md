@@ -116,3 +116,13 @@ node {
 ```
 
 Source: <https://issues.jenkins.io/browse/JENKINS-49567>
+
+## Auth OIDC konfigurieren
+
+<https://www.epiclabs.io/configure-jenkins-azure-authentication-connect/>
+
+User name field name: preferred_username
+
+Full name field name: name
+
+Email field name: email
