@@ -23,46 +23,20 @@ Auswahl:
 ### Optionen aktivieren
 
 Navigation nach *Einstellungen > Finanzen* und Auswahl:
-* Print Swiss QR Code #Odoo13 
-* QR Codes #Odoo14
-* Rechnungsdigitalisierung
+* Digitalisierung Dokumente
+* Konten für Lieferantenrechnungen vorhersagen (gilt ab #Odoo16)
 * Kostenrechnung
-* Kostenstellen-Tags
+* Budgetverwaltung
 
 ## Initialisierung
 
 Arbeitsschritte:
 *  Unternehmensdaten eintragen
-*  Bankkonto erfassen, zum Beispiel
-	*  IBAN: `CH3989144871696181962`
-	*  Name: `UBS`
+*  Bankkonto erfassen
 *  Buchungsperiode eröffnen
 *  Kontenplan übernehmen
 
 ## Implementation
-
-Auswahl:
-* Journale und Sequenzen festlegen (siehe Odoo Wiki)
-
-#Odoo14  
-Die Sequenz in Odoo 14 wird über *Finanzen > Kunden > Rechungen* festgelegt. Dazu erstellen Sie eine erste Proformarechnung und wählen diese links zum Bearbeiten aus. Über das Menü *Aktion > Resequence* kann der nächste Wert `Rechnungsnummer` festgelegt werden. Dasselbe gilt auch für Eingangsrechnungen *Finanzen > Lieferanten > Rechnungen*
-
-### Kontenplan einrichten
-
-Arbeitsschritte:
-* Kontennamen übersetzen
-
-| Name                 | Übersetzung              |
-| -------------------- | ------------------------ |
-| Outstanding Receipts | Ausstehende Einzahlungen |
-| Outstanding Payments | Ausstehende Auszahlungen |
-
-### Steuern festlegen
-
-Arbeitsschritte:
-* Steuergruppen festlegen *Einstellungen > Finanzen > Steuern > configure your tax accounts*
-* Steuern deaktivieren und neue Sätze erfassen *Finanzen > Konfiguration > Steuern*
-* Taxgrid deaktiveren
 
 ### Eröffnungsbuchungen erstellen
 

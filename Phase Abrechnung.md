@@ -40,15 +40,27 @@ Ergebnis: Kunden- und Lieferantenrechnungen können erstellt werden.
 
 **Referenzen**
 
-* Verwendne Sie bestimmte Zahlungsreferenzen?
+* Verwenden Sie bestimmte Zahlungsreferenzen?
 
 ## Mehrwertsteuer abrechnen
 
 **Verrechnungsmethode**
 
-* Verrechnen Sie die Mehrwertsteuer nach Veinbart oder Vereinnahmt? ⭐
+* Verrechnen Sie die Mehrwertsteuer nach Vereinbart oder Vereinnahmt? ⭐
 * Arbeiten Sie nach der Saldomethode? ⭐
 
 **Ausland**
 
 * Müssen Sie die MWST-Buchungen nach Land aufschlüsseln?
+
+## Lieferanten bezahlen
+
+**Rechnungen erfassen**
+
+* Möchten Sie Lieferantenrechnungen per E-Mail empfangen?
+* Wollen Sei Zahlungsinformationen automatisch auslesen (OCR-Scan)?
+
+**SEPA-Zahlung**
+
+* In welchem Rhythmus führen Sie Zahlungsläufe aus?
+* Wie erfolgt die Freigabe von Rechnungen / Zahlungen?
