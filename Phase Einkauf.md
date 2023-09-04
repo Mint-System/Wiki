@@ -14,7 +14,7 @@ Tätigkeiten:
 
 Ergebnis: Alle Daten zum Einkaufen der Produkte sind bereit.
 
-## Produkte anlegen (Stufe 2)
+## Produkte anlegen
 
 **Einkauf ME**
 
@@ -48,7 +48,6 @@ Ergebnis: Alle Daten zum Einkaufen der Produkte sind bereit.
 **Eingrenzung auf attributierte Lieferanten**
 
 - Muss die Lieferantenbewertung auf spezifische attributierte Lieferanten eingegrenzt werden können? ⭐
-
 
 ## Eingangsprüfung definieren
 
