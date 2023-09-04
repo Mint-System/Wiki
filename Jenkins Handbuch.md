@@ -39,9 +39,16 @@ pipeline {
         docker { image 'node:18.16.0-alpine' }
     }
     stages {
-        stage('Test') {
+        stage('test') {
             steps {
                 sh 'node --version'
+            }
+        }
+        stage('log') {
+            steps {
+                script {
+                    currentBuild.description = """Build url: <a href="${BUILD_URL}">Link</a>"""
+                }
             }
         }
     }
