@@ -24,4 +24,6 @@ State: 🟢
 
 State: 🟢
 
+## [[Odoo 16.5]]
 
+State: 🟢
