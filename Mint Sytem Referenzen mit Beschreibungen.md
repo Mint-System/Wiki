@@ -133,6 +133,18 @@ Das ERP-System Odoo wurde bei der Trimada 2011 eingeführt. Zuerst wurde die Ver
 
 Website: <https://www.trimada.ch/>
 
+## Verein sozialinfo.ch
+
+![[sozialinfo-logo.png]]
+
+Der Verein sozialinfo.ch erbringt seit 2003 Dienstleistungen für den Sozialbereich in der Schweiz.
+
+Wir betreiben das führende Stellenportal für den Sozialbereich und begleiten Projekte und Prozesse in der Digitalisierung und in der Personalgewinnung. Zudem bereiten wir Fachinformationen zu aktuellen Themen und relevanten Entwicklung im und um den Sozialbereich auf.
+
+Mit Odoo als Kernstück haben wir 2023 unsere Unternehmensarchitektur von Grund auf modernisiert.
+
+Website: <https://sozialinfo.ch/>
+
 ## webkeeper GmbH
 
 ![[webkeeper logo.png]]
