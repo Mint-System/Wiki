@@ -135,7 +135,7 @@ Website: <https://www.trimada.ch/>
 
 ## Verein sozialinfo.ch
 
-![[sozialinfo-logo.png]]
+![[Sozialinfo_Logo_RGB.svg]]
 
 Der Verein sozialinfo.ch erbringt seit 2003 Dienstleistungen für den Sozialbereich in der Schweiz.
 

@@ -86,7 +86,7 @@ Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt na
 Allgemeine Bestimmungen:  
 Es gelten die Mint System [[AGBs Entwicklungsprojekt|AGBs]] Version 1.18, welche in einem separaten PDF angehängt werden.
 
-Änderungen:
+Änderungen mit Kostendach:
 Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostendach abgedeckt sind, wird der Kunde seitens Auftragnehmer frühzeitig informiert.
 
 Änderungen:
