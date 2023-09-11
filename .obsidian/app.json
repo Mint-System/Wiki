@@ -15,5 +15,6 @@
   "userIgnoreFilters": [
     "node_modules/"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "propertiesInDocument": "source"
 }

@@ -133,3 +133,7 @@ User name field name: preferred_username
 Full name field name: name
 
 Email field name: email
+
+## GitHub Webhook einrichten
+
+Neuer Eintrag unter <https://github.com/ORG/REPO/settings/hooks> mit Url <https://jenkins.example.com/github-webhook/> erstellen.

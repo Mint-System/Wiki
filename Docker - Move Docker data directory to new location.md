@@ -36,7 +36,7 @@ sudo mv /var/lib/docker /var/lib/docker.old
 
 Restart the Docker deamon.
 
-```
+```bash
 sudo service docker start
 ```
 
@@ -44,6 +44,6 @@ Test if all services work as expected.
 
 If everything is good, remove the old Docker directory.
 
-```
+```bash
 sudo rm -rf /var/lib/docker.old
 ```
