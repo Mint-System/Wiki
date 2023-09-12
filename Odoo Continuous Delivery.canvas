@@ -2,7 +2,7 @@
 	"nodes":[
 		{"type":"group","id":"d69a7390c4e831cd","x":-180,"y":-260,"width":290,"height":300,"label":"Server Environment"},
 		{"type":"text","text":"Production (main)","id":"8d24fb19cc0a5f90","x":-160,"y":-240,"width":250,"height":60},
-		{"type":"text","text":"Staging (int)","id":"750c9f8b67bccb0f","x":-160,"y":-140,"width":250,"height":60},
+		{"type":"text","text":"Integration (int)","id":"750c9f8b67bccb0f","x":-160,"y":-140,"width":250,"height":60},
 		{"type":"text","text":"Development (dev)","id":"6ace56e7f65f66ed","x":-160,"y":-40,"width":250,"height":60}
 	],
 	"edges":[
