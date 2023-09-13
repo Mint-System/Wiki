@@ -10,7 +10,7 @@ tags:
 
 Jenkins starten.
 
-```
+```bash
 task start cd
 ```
 
