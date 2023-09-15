@@ -23,3 +23,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Finanzen]]
 * [[Richtlinie - Odoo Snippet]]
 * [[Richtlinie - Obsidian]]
+* [[Richtlinien - Datenschutz]]
