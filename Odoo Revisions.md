@@ -4,7 +4,7 @@ tags:
 ---
 # Odoo Revisions
 
-Odoo Revsions sind Snapshots der Entwicklungshistory zu einem bestimmten Zeitpunkt. Mit einem [[Git]]- und [[Docker]]-Hash wird der Snapshot festghealten.
+Odoo Revsions sind Snapshots der Entwicklungshistory zu einem bestimmten Zeitpunkt. Mit einem [[Git]]- und [[Docker]]-Hash wird der Snapshot festgehalten.
 
 ## [[Odoo 13 Revisions]]
 
