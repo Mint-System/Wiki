@@ -47,6 +47,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
 | Selene   | Server Sozialinfo                        | `selene.mint-system.ch`    | Infomaniak  |
 | Themis   | [[BigBlueButton]] KMSU                   | `themis.mint-system.com`   | ExoScale    |
+| Triton   | Server Kreativartikel GmbH               | `triton`                   | Off-Premise |
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Dienste [[Mint System GmbH]]             | `zeus.mint-system.com`     | Hetzner     |
