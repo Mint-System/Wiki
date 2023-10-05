@@ -62,4 +62,3 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Moros
 * Hestia
 * Rhea
-* Triton
