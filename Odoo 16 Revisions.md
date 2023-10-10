@@ -14,7 +14,7 @@ State: 🔴
 
 ## [[Odoo 16.2]]
 
-State: 🟢
+State: 🔴
 
 ## [[Odoo 16.3]]
 
