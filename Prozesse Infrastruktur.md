@@ -16,6 +16,7 @@ Verantwortlich: [[Janik von Rotz]]
 ## Bereitstellung
 
 * [[Prozesse Infrastruktur - Server bereitstellen]]
+* [[Prozesse Infrastruktur - Odoo Revision]]
 * [[Prozesse Infrastruktur - DNS-Einträge erstellen]]
 * [[Prozesse Infrastruktur - Installation BigBlueButton]]
 * [[Prozesse Infrastruktur - Installation Moodle]]

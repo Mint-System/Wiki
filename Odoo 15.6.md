@@ -2,37 +2,37 @@
 tags:
 - Asset
 ---
-# Odoo 14.12
+# Odoo 15.6
 
-Version: 14.0\
-Revision: 14.0.2023.0612
+Version: 15.0\
+Revision: 15.0.2023.1012
 
 ```bash
-ODOO_REVISION=14.12
+ODOO_REVISION=15.6
 
 # Checkout odoo repo
-cd odoo && git checkout 336565eccbb80f8841ebf9a1e4b295634519a3b8
+cd odoo && git checkout 6a47980364e4ceeb5a77b4f7e2f2a9475872275e
 
 # Create tag on the odoo repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Checkout enterprise repo
-cd enterprise && git checkout 1b024643d63180ed22e2614aefff68159bdb8bdb
+cd enterprise && git checkout 5e94fb66019821e077c970670b4572d0523547f4
 
 # Create tag on the enterprise repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Checkout theme repo
-cd themes && git checkout da21189bbb3a2256171206380b7b09b2dfd7923d
+cd themes && git checkout a26fec876148133195071ed9f94961f6bbb4b5a7
 
 # Create tag on the odoo repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Pull docker image
-DIGEST=odoo@sha256:657019990b26a8c7c6db13a8667767b08e0e25f4a956bac637e55fb9faccc78f
+DIGEST=odoo@sha256:0478a0f3ee305515067afbc234b00e8602f2e990ff36ab07855da4d7bfd9955c
 docker pull "$DIGEST"
 IMAGE_ID=$(docker image inspect "$DIGEST" --format "{{ .ID }}")
 

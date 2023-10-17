@@ -32,8 +32,10 @@ git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Pull docker image
-docker pull odoo@sha256:9ea449cce3bbbb92bb8ec3568ecd501822d470ace07a264d4f68918256f4e6c3
+DIGEST=odoo@sha256:9ea449cce3bbbb92bb8ec3568ecd501822d470ace07a264d4f68918256f4e6c3
+docker pull "$DIGEST"
+IMAGE_ID=$(docker image inspect "$DIGEST" --format "{{ .ID }}")
 
 # Tag the docker image
-docker tag a957ee8392eb odoo:$ODOO_REVISION
+docker tag ${IMAGE_ID:7:12} odoo:$ODOO_REVISION
 ```
