@@ -16,4 +16,3 @@ Arbeitsschritte:
 * Anzeigen Odoo Themes <https://github.com/odoo/design-themes/commits/15.0> und kopieren SHA-Hash des letzten Commits am Datum
 * Einfügen der SHA-Hashes in Revisions-Skript
 * Ausführen Skript in Entwicklungsumgebung
-* 
