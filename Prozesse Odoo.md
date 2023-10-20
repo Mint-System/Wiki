@@ -24,8 +24,8 @@ Verantwortlich: [[Janik von Rotz]]
 ## Odoo Apps
 
 * [[Prozesse Odoo - App Abonnements]]
-* [[Prozesse Odoo - App Abwesenheitszeiten]]
-* [[Prozesse Odoo - App Anwesenheitszeiten]]
+* [[Prozesse Odoo - App Abwesenheit]]
+* [[Prozesse Odoo - App Anwesenheit]]
 * [[Prozesse Odoo - App Aufwand]]
 * [[Prozesse Odoo - App Aussendienst]]
 * [[Prozesse Odoo - App Bewertungen]]
