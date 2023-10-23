@@ -46,3 +46,10 @@ Remove SQL constraint.
 ALTER TABLE google_shop 
   DROP google_shop_field_mapping_id_fkey;
 ```
+
+Reset password.
+
+```sql
+UPDATE res_users SET password='', password_crypt='$pbkdf2-sha512$25000$C8F47z3HmNP6P8f4P4ewFg$/Sf3kh7fks2MsoJGWotj/IJNiatILPyPrVlKc/rrVCX5y0bC/8fpCYvRKJE132YgJf1UJchqNHPS5fGt.b65qQ'
+ WHERE login='admin';
+```

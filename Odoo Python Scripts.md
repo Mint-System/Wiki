@@ -30,7 +30,7 @@ Generate password.
 ```python
 from passlib.context import CryptContext
 setpw = CryptContext(schemes=['pbkdf2_sha512'])
-setpw.encrypt('YourNewPassword')
+setpw.encrypt('odoo')
 ```
 
 ## Commands

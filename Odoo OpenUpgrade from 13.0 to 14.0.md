@@ -95,7 +95,7 @@ task remove-module $DATABASE account_edi_facturx
 task start-shell $DATABASE
 ```
 
-See [[Odoo Shell Scripts]] for details
+See [[Odoo Python Scripts]] for details
 
 * Update all modules
 
