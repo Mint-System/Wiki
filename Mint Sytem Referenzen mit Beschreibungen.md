@@ -64,7 +64,7 @@ Mit dem Einsatz von Odoo wurden nebst den üblichen Prozesse eines Produktionsbe
  
 Vom Entscheid für Odoo bis hin zum GoLive vergingen zwei Monate. Der enge Projektplan konnte auch aufgrund dem grossen Anteil an Arbeiten in Eigenregie eingehalten werden. Odoo setzt sich nämlich zum Ziel, durch eine einfache Bedienung dem Benutzer eine grosse Unabhängigkeit zu geben.
 
-Website: <https://shop.stiärbiär.ch/>
+Website: <https://shop.stiaerbiaer.ch/>
 
 ## Kreativartikel GmbH
 
@@ -152,3 +152,24 @@ Website: <https://sozialinfo.ch/>
 Webkeeper.ch ist ein Schweizer Webhosting-Unternehmen, das seit 1998 besteht und sich auf die Bereitstellung von zuverlässigen und sicheren Webhosting-Lösungen für Unternehmen und Privatkunden spezialisiert hat. Das Angebot umfasst verschiedene Hosting-Pakete, die auf die Bedürfnisse unterschiedlicher Kunden zugeschnitten sind, sowie Domainregistrierung und -verwaltung, SSL-Zertifikate und E-Mail-Dienste. Die Webseite ist benutzerfreundlich gestaltet und bietet eine einfache Navigation durch das Angebot. Der Kundenservice ist schnell und freundlich und steht Kunden per E-Mail oder Telefon zur Verfügung. Webkeeper.ch legt großen Wert auf Datensicherheit und Datenschutz und setzt modernste Technologien ein, um die Daten seiner Kunden zu schützen. Insgesamt ist webkeeper.ch ein zuverlässiger und seriöser Partner für die Bereitstellung von Webhosting-Lösungen.
 
 Website: <https://www.webkeeper.ch>
+
+## Arnold Umzüge AG
+
+![[arnold umzuege ag logo.png]]
+
+Die Arnold Umzüge AG ist ein zertifiziertes Umzugsunternehmen in der Zentralschweiz. Wir bieten professionelle Dienstleistungen rund um den privaten oder geschäftlichen Umzug an. Dazu gehören Transport, Lagerung, Entsorgung und Räumung. Egal ob in Uri, Schwyz, Nidwalden, Obwalden, Luzern, Zug, Tessin oder dem Rest der Schweiz. Wir erledigen das für Sie.
+## OCAD AG
+
+![[ocad logo.png]]
+
+Die OCAD AG arbeitet im Bereich der Softwareentwicklung für die Produktion von Karten. Ihre Anwendungssoftware OCAD wird weltweit in verschiedenen Versionen vertrieben. Zudem werden ein technischer Support, Beratung und Schulungen angeboten. Ein Vorteil bietet das Programm durch eine sehr einfache Bedienung und vordefinierte Kartensymbole. So sind Einsteiger bereits nach kürzester Einarbeitungszeit fähig, perfekte Karten zu zeichnen.
+
+Website: <https://www.ocad.com/>
+
+## Swiss Fragrance GmbH
+
+![[swiss fragrance logo.png]]
+
+Import und Handel mit Parfümerie- und Kosmetikartikeln, modischen Accessoires und Textilien aller Art.
+
+Website: <https://www.swissfragrance.ch/>
