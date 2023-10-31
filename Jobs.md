@@ -12,4 +12,5 @@ Stellen werden hier ausgeschrieben:
 
 ## Stellenbeschreibung
 
-[[Open Source IntegratorIn]]
+[[Open Source IntegratorIn]]\
+[[Open Source BeraterIn]]
