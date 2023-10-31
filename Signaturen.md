@@ -4,6 +4,17 @@ tags:
 ---
 # Signaturen
 
+## Eigenwerbung
+
+We are hiring
+
+```
+---
+We are hiring: https://www.mint-system.ch/jobs
+```
+
+## Kontakt
+
 Janik von Rotz
 
 ```
