@@ -18,6 +18,8 @@ Send application to: jobs@mint-system.ch
 Janik von Rotz
 
 ```
+---
+
 We are hiring: https://www.mint-system.ch/jobs
 Send application to: jobs@mint-system.ch
 
@@ -28,6 +30,8 @@ Tel: +41 44 244 7222
 Kurt Gisler
 
 ```
+---
+
 We are hiring: https://www.mint-system.ch/jobs
 Send application to: jobs@mint-system.ch
 
