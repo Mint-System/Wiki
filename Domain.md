@@ -28,8 +28,6 @@ Domains managed by Mint System:
 
 | Domain                 | Target                      | Type     |
 | ---------------------- | --------------------------- | -------- |
-| lightwing.ch           | Website Light Wing          | Main     |
-| schule-sisikon.ch      | Website Schule Sisikon      | Main     |
 | cluster-uri.ch         | digital-cluster-uri.ch      | Redirect |
 | digital-uri.ch         | digital-cluster-uri.ch      | Redirect |
 | uri-digital.ch         | digital-cluster-uri.ch      | Redirect |

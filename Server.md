@@ -43,7 +43,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Metis    | Zgraggen Agro GmbH                       | `metis.mint-system.com`    | Hetzner     |
 | Momus    | Server Swiss Fragrance GmbH              | `momus.mint-system.com`    | Hetzner     |
 | Nyx      | Server Arnold Umzüge AG                  | `nyx.mint-system.com`      | Hetzner     |
-| Pan      | Server Light Wing AG                     | `pan.mint-system.com`      | Hosttech    |
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
 | Selene   | Server Sozialinfo                        | `selene.mint-system.ch`    | Infomaniak  |
 | Themis   | [[BigBlueButton]] KMSU                   | `themis.mint-system.com`   | ExoScale    |
@@ -62,3 +61,4 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Moros
 * Hestia
 * Rhea
+* Pan

@@ -29,8 +29,6 @@ Ausführliche Präsentation ist in [[Mint Sytem Referenzen mit Beschreibungen]] 
 **HR & Projektmanagement**
 
 * [Aerolite AG](https://aerolite.ch/), Herr Hansruedi Christen
-* [Light Wing AG](https://www.lightwing.ch/), Herr Marco Trüssel
-* [AirWork & Heliseilerei GmbH](https://www.air-work.com/), Herr Martin Schnopp
 
 **Vereine**
 
