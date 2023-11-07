@@ -12,5 +12,10 @@ Stellen werden hier ausgeschrieben:
 
 ## Stellenbeschreibung
 
-[[Open Source IntegratorIn]]\
-[[Open Source BeraterIn]]
+[[Support Engineer]]\
+[[Open Source Expert]]
+
+
+## Anforderungen, Aufgaben, Kompetenzen
+
+[[Stellenprofile]]

@@ -2,11 +2,11 @@
 tags:
 - Asset
 ---
-# Open Source IntegratorIn
+# Open Source Expert
 
 ## Wer wir sind
 
-Wir meinen es ernst mit Open Source. Unsere Produkte, unsere Laptops, unser Code - alles ist Open Source, ja sogar unser Wissen!
+Wir meinen es ernst mit Open Source. Unsere Produkte, die Systeme auf unseren Computern, unser Code ist alles Open Source - sogar unser Wissen!
 Mint System ist der Überzeugung, dass nur **Open Source Software** (OSS) den Zahn der Zeit übersteht und sich daher jede Investition in OSS auszahlt.
 Wir sind als **Remote-First** Unternehmen gestartet und begleiten heute Unternehmen bei der Integration von Software-Lösungen. Inbesondere gefällt uns das **ERP-System Odoo**. 
 Bei der Mint System arbeiten erfahrene Leute, die es kaum erwarten können die nächste Herausforderung anzupacken.
@@ -18,16 +18,15 @@ Die meisten Prozesse und Abläufe sind etabliert, aber an bestimmten Stellen mus
 
 ## Was dich erwartet
 
-Als Open Source IntegratorIn betreust du **Kunden auf Augenhöhe**. Von der konzeptionellen Anforderungsanalyse bis zur technischen Initialisierung und Konfiguration.
-Du arbeitest mit modernen Produkten wie Odoo, Nextcloud, BigBlueButton und vielen mehr. Bei uns hast du die Chance das Unternehmen aktiv **mitzugestalten**.
+Als Senior Open Source IntegratorIn akquirierst du neue Projekte, erstellst Angebote und Verträge. Dazu gehört die Anforderungs- und Gap Analyse. In deinen Händen liegt die Projektleitung zur Abarbeitung der definierten Aufgaben pro Phase. Notwendige Entwicklungen spezifizierst du selber und oft entwickelst du auch das entsprechende Modul in Eigenregie.
+Bei uns kannst du aus dem vollen Schöpfen und deinen Rucksack an Erfahrung und Kompetenz wirksam einsetzen.
 Wir bieten ein interessantes Netzwerk und spannende Kunden. Von Start-Ups bis zu Unternehmensgruppen ist bei uns alles dabei.
 
 ## Über dich
 
-Du hast einen Hintergrund in **Wirtschaftsinformatik** und traust dir technisch etwas zu? Perfekt. Mit einem GNU/Linux-Laptop zu arbeiten macht dir nichts aus und du bist auf der **Kommandozeile** gekonnt unterwegs.
+Du hast einen Hintergrund in **Wirtschaftsinformatik** oder eine vergleichbare Ausbildung. Seit einigen Jahr konntest du Erfahrungswissen in der Implementierung von Management-Software sammeln. Du hast Führungsqualitäten und KnowHow in der Geschäftsführung.
 Du kennst verschiedene Produkte und Technologien nicht nur beim Namen, sondern weisst welche **Konzepte** sich dahinter verbergen und wie Unternehmen davon profitieren.
-Bei der Mint System bist du nicht nur MitarbeiterIn, sondern **GestalterIn**. Du kannst und möchtest die Mint System GmbH mitentwickeln.
-Selbständiges Arbeiten und Lernen ist Vorraussetzung. Wir bieten zum Glück ausführliche [Dokumentationen](https://wiki.mint-system.ch).
+Bei der Mint System bist du ein Mitglied der Geschäftsleitung und hast alle Kompetenzen um die Firma aktiv zu gestalten. 
 
 ## So geht's weiter
 
@@ -41,3 +40,4 @@ Schreib eine Mail an <info@mint-system.ch> und teile uns Folgendes mit:
 Dazu gehört ein Lebenslauf, aber kein Motivationsschreiben.
 
 Wir freuen uns dich bei einem ersten Videocall kennenzulernen.
+
