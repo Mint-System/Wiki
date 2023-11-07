@@ -18,7 +18,7 @@ Die meisten Prozesse und Abläufe sind etabliert, aber an bestimmten Stellen mus
 
 ## Was dich erwartet
 
-Als Senior Open Source IntegratorIn akquirierst du neue Projekte, erstellst Angebote und Verträge. Dazu gehört die Anforderungs- und Gap Analyse. In deinen Händen liegt die Projektleitung zur Abarbeitung der definierten Aufgaben pro Phase. Notwendige Entwicklungen spezifizierst du selber und oft entwickelst du auch das entsprechende Modul in Eigenregie.
+Als Open Source Expert akquirierst du neue Projekte, erstellst Angebote und Verträge. Dazu gehört die Anforderungs- und Gap Analyse. In deinen Händen liegt die Projektleitung zur Abarbeitung der definierten Aufgaben pro Phase. Notwendige Entwicklungen spezifizierst du selber und oft entwickelst du auch das entsprechende Modul in Eigenregie.
 Bei uns kannst du aus dem vollen Schöpfen und deinen Rucksack an Erfahrung und Kompetenz wirksam einsetzen.
 Wir bieten ein interessantes Netzwerk und spannende Kunden. Von Start-Ups bis zu Unternehmensgruppen ist bei uns alles dabei.
 
@@ -30,7 +30,7 @@ Bei der Mint System bist du ein Mitglied der Geschäftsleitung und hast alle Kom
 
 ## So geht's weiter
 
-Schreib eine Mail an <info@mint-system.ch> und teile uns Folgendes mit:
+Schreib eine Mail an <iobs@mint-system.ch> und teile uns Folgendes mit:
 
 * Wo stehst du gerade beruflich und im Leben?
 * Welche Erwartungen an die Stelle hast du?
