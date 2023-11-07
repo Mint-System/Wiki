@@ -30,7 +30,7 @@ Bei der Mint System bist du ein Mitglied der Geschäftsleitung und hast alle Kom
 
 ## So geht's weiter
 
-Schreib eine Mail an <iobs@mint-system.ch> und teile uns Folgendes mit:
+Schreib eine Mail an <jobs@mint-system.ch> und teile uns Folgendes mit:
 
 * Wo stehst du gerade beruflich und im Leben?
 * Welche Erwartungen an die Stelle hast du?
