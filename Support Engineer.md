@@ -18,8 +18,8 @@ Die meisten Prozesse und Abläufe sind etabliert, aber an bestimmten Stellen mus
 
 ## Was dich erwartet
 
-Als Open Source IntegratorIn betreust du **Kunden auf Augenhöhe**. Von der konzeptionellen Anforderungsanalyse bis zur technischen Initialisierung und Konfiguration.
-Du arbeitest mit modernen Produkten wie Odoo, Nextcloud, BigBlueButton und vielen mehr. Bei uns hast du die Chance das Unternehmen aktiv **mitzugestalten**.
+Als Support Engineer betreust du **Kunden auf Augenhöhe**. Von der konzeptionellen Anforderungsanalyse bis zur technischen Initialisierung und Konfiguration.
+Du arbeitest mit modernen Produkten wie Odoo, Nextcloud, Grafana und vielen mehr. Bei uns hast du die Chance das Unternehmen aktiv **mitzugestalten**.
 Wir bieten ein interessantes Netzwerk und spannende Kunden. Von Start-Ups bis zu Unternehmensgruppen ist bei uns alles dabei.
 
 ## Über dich
@@ -31,7 +31,7 @@ Selbständiges Arbeiten und Lernen ist Voraussetzung. Wir bieten zum Glück ausf
 
 ## So geht's weiter
 
-Schreib eine Mail an <info@mint-system.ch> und teile uns Folgendes mit:
+Schreib eine Mail an <jobs@mint-system.ch> und teile uns Folgendes mit:
 
 * Wo stehst du gerade beruflich und im Leben?
 * Welche Erwartungen an die Stelle hast du?
