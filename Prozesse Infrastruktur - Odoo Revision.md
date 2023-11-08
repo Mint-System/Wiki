@@ -8,7 +8,7 @@ Bereitstellung einer Odoo Revision.
 
 Arbeitsschritte:
 * Aufrufen Docker Tag <https://hub.docker.com/_/odoo/tags> mit ausgewählter Odoo Version
-* Datum notieren und *DIGEST* kopieren
+* Datum von `ODOO_RELEASE` notieren und *DIGEST* kopieren
 * Neuer Eintrag in [[Odoo Revisions]] mit Datum von Docker Tag erstellen
 * Anpassen Revisions-Nummer
 * Anzeigen letzter Odoo Commits <https://github.com/odoo/odoo/commits/15.0> an Datum und kopieren SHA-Hash
