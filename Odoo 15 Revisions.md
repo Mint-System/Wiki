@@ -30,4 +30,4 @@ State: 🟢
 
 ## [[Odoo 15.6]]
 
-State: 🔴
+State: 🟢
