@@ -8,7 +8,7 @@ Version: 14.0\
 Revision: 14.0.2023.1106
 
 ```bash
-ODOO_REVISION=14.6
+ODOO_REVISION=14.13
 
 # Checkout odoo repo
 cd odoo && git checkout 4c8d544c8c50bbc1ff646edcc4b130c0ccf0ef91
@@ -32,7 +32,7 @@ git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Pull docker image
-DIGEST=odoo@sha256:6a10fa60b29b7a27adcd138957e0df7190345552
+DIGEST=odoo@sha256:752e68d222564d2de023f0bef75afdb553654a58450abafbe8c6b77298ac1b96
 docker pull "$DIGEST"
 IMAGE_ID=$(docker image inspect "$DIGEST" --format "{{ .ID }}")
 
