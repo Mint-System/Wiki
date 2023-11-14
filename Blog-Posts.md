@@ -14,6 +14,8 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
 [[Odoo Monitoring mit Prometheus und Grafana]]\
+[[Von Bexio nach Odoo]]\
+[[]]
 
 ## Veröffentlicht
 
