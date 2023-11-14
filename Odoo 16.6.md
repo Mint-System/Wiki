@@ -9,7 +9,7 @@ Version: 16.0\
 Revision: 16.0.2023.1106
 
 ```bash
-ODOO_REVISION=16.5
+ODOO_REVISION=16.6
 
 # Checkout odoo repo
 cd odoo && git checkout 68dfda1f2957e82a3ae3af68b789b7fe5a3a8a3f
