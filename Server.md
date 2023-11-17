@@ -35,6 +35,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Hebe     | Server Kreativartikel GmbH               | `hebe`                     | Off-Premise |
 | Helios   | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
 | Hermes   | [[Odoo]] Demoumgebung                    | `hermes.mint-system.com`   | Hetzner     |
+| Hestia   | Server Doughnut Economics Switzerland    | hestia.mint-system.com     | Hetzer      |
 | Hyperion | Server [[Digital Cluster Uri]]           | `hyperion.mint-system.com` | ExoScale    |
 | Iris     | Server Kleinbrauerei Stiär Biär AG       | `iris.mint-system.com`     | Hetzner     |
 | Kronos   | Backup Server                            | `kronos.mint-system.com`   | Hetzner     |
