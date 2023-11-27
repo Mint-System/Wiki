@@ -35,9 +35,10 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Hebe     | Server Kreativartikel GmbH               | `hebe`                     | Off-Premise |
 | Helios   | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
 | Hermes   | [[Odoo]] Demoumgebung                    | `hermes.mint-system.com`   | Hetzner     |
-| Hestia   | Server Doughnut Economics Switzerland    | hestia.mint-system.com     | Hetzer      |
+| Hestia   | Server Doughnut Economics Switzerland    | `hestia.mint-system.com`   | Hetzer      |
 | Hyperion | Server [[Digital Cluster Uri]]           | `hyperion.mint-system.com` | ExoScale    |
 | Iris     | Server Kleinbrauerei Stiär Biär AG       | `iris.mint-system.com`     | Hetzner     |
+| Janus    | Server Hygentile AG                      | `janus.mint-system.com`    | Hetzner     |
 | Kronos   | Backup Server                            | `kronos.mint-system.com`   | Hetzner     |
 | Leto     | Server SATHOM SARL                       | `leto.mint-system.com`     | Klixa       |
 | Matrix   | [[Matrix]]-Server bei ungleich.ch        | `matrix.mint-system.com`   | Ungleich    |
@@ -45,6 +46,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Momus    | Server Swiss Fragrance GmbH              | `momus.mint-system.com`    | Hetzner     |
 | Nyx      | Server Arnold Umzüge AG                  | `nyx.mint-system.com`      | Hetzner     |
 | Poseidon | Server Basis57                           | `poseidon.mint-system.com` | ExoScale    |
+| Rhea     | Server Ludoland                          | `rhea`                     | Off-Premise |
 | Selene   | Server Sozialinfo                        | `selene.mint-system.ch`    | Infomaniak  |
 | Themis   | [[BigBlueButton]] KMSU                   | `themis.mint-system.com`   | ExoScale    |
 | Triton   | Server Kreativartikel GmbH               | `triton`                   | Off-Premise |
@@ -58,8 +60,5 @@ Die folgenden Namen stehen zur Auswahl bereit:
 
 * Krios
 * Eros
-* Janus
 * Moros
-* Hestia
-* Rhea
 * Pan

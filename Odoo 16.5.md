@@ -5,7 +5,6 @@ tags:
 
 # Odoo 16.5
 
-Version: 16.0\
 Revision: 16.0.2023.0904
 
 ```bash
