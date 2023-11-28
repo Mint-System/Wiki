@@ -29,7 +29,6 @@ Einen konkreten Grund für den Wechsel will ich hier trotzdem nennen: Die Lagerv
 
 **Migration Buchhaltung:** Auf den Übertrag aller Buchungszeilen sollte verzichtet werden. Einfacher ist das Schliessen der Konti im Quellsystem und Einrichten der Konti mit je einer Eröffnungsbuchung im Zielsystem. Dieser Ansatz wurde auch hier gewählt.
 
-
 ### EDI-Anbindung
 
 Der Kunde erhält täglich viele Bestellungen. Das Generieren entsprechender Verkaufsaufträge musste über eine EDI-Schnittstelle (electronic data interchange) automatisiert werden. Die Umwandlung in Artefakte die über API (Application Programming Interface) übertragen werden, hat eine Partner-Firma entwickelt. Jetzt werden aus Bestellungen automatisch Verkaufsaufträge und die dazugehörigen Rechnungen erstellt und versendet.
