@@ -31,13 +31,13 @@ Einen konkreten Grund für den Wechsel will ich hier trotzdem nennen: Die Lagerv
 
 ### EDI-Anbindung
 
-Der Kunde erhält täglich viele Bestellungen. Das Generieren entsprechender Verkaufsaufträge musste über eine EDI-Schnittstelle (electronic data interchange) automatisiert werden. Die Umwandlung in Artefakte die über API (Application Programming Interface) übertragen werden, hat eine Partner-Firma entwickelt. Jetzt werden aus Bestellungen automatisch Verkaufsaufträge und die dazugehörigen Rechnungen erstellt und versendet.
+Eine entscheidende Anforderung war, dass Odoo in das bestehende EDI-System (electronic data interchange) integriert werden kann. Ein EDI-System ermöglicht den Austausch von Dokumenten (Bestellungen, Rechnungen usw.) zwischen Systemen mit unterschiedlichen Schnittstellen. Diese Entwicklung wurde von uns mit dem bestehenden EDI-Partner koordiniert. Mit der EDI-Anbindung wurde die Erstellung von Verkaufsaufträgen und dazugehörigen Rechnungen vollständig automatisiert.
 
 ### Lager-Routen
 
 **Lager und Lagerorte:** Die Lagerung von Komponenten und Fertigprodukten ist auf mehrere Standorte mit diversen Lagerorten aufgeteilt. Das automatische Reservieren und das Kommissionieren über Barcode-Scannen ist eine Odoo Standardfunktion.
 
-**Routen:** Über die Konfiguration von Lager-Routen konnte der kundenspezifische Prozess des Pickings an den Produktionsstandort und das Weiterreichen in die Verpackungsstelle eingerichtet werden. Das unkomplizierte Transferieren der Produkte mit Barcodes und der richtigen Hardware ist sehr wichtig für die Sicherstellung des korrekten Bestands.
+**Routen:** Über die Konfiguration von Lager-Routen konnte der kundenspezifische Prozess des Rüsten an den Produktionsstandort und das Weiterreichen an die Verpackungsstelle eingerichtet werden. Das unkomplizierte Transferieren der Produkte mit Barcodes und der richtigen Hardware ist sehr wichtig für die Sicherstellung des korrekten Bestands.
 
 ### Mehrere Mandanten
 
@@ -46,9 +46,6 @@ Der Kunde erhält täglich viele Bestellungen. Das Generieren entsprechender Ver
 **Unterschiedliche Kontenrahmen:** Die beiden Mandanten (Unternehmen) sind in der Schweiz und Deutschland lokalisiert. Entsprechend wurden zwei unterschiedliche Kontenrahmen angelegt:
 - Unternehmung in der Schweiz: Kontenrahmen 2015 (Schweiz)
 - Unternehmung in Deutschland: Deutscher Kontenplan SRK04
-(Sobald die ersten Buchungen vollzogen sind, lässt sich diese Einstellung allerdings nur sehr schwer wieder ändern.)
-
-**Steuerzuordnngen:** Auch die Steuern wurden länderspezifisch eingerichtet.
 
 ## Fazit
 
@@ -57,4 +54,9 @@ Aus unserer Sicht der wesentliche Vorteil von Odoo gegenüber anderen Systemen: 
 Die Wahrscheinlichkeit bezüglich Funktionsumfang in einer *Sackgasse* zu landen ist dadurch wesentlich kleiner.  Selbstverständlich muss immer das Mögliche vom Machbaren unterschieden werden. Der Aufwand um etwas zu bauen was dem Konzept von Odoo widerspricht kann absurd hoch werden.
 
 Das haben wir aber bis heute noch nicht erlebt.
+
+
+Der Import aus Odoo war wesentlich leichter als der Export aus Bexio.
+Durch die Zugänglichkeit auf das Odoo-System konnten wir Automatismen einrichten die vorher nicht möglich waren.
+
 
