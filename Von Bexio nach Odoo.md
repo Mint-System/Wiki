@@ -16,7 +16,7 @@ Einen konkreten Grund für den Wechsel will ich hier trotzdem nennen: Die Lagerv
 
 ### Customizing
 
-**Listen und Masken:** Der Kunde hatte sehr spezifische Anforderungen wie die Darstellung der Listen und Masken gestaltet werden soll. Mittels Snippets können in Odoo alle Ansichten kundenspezifisch geändert werden. Hierfür bedienen wir uns aus der Mint System Snippets-Library welche kontinuierlich ergänzt und auf github veröffentlicht wird.
+**Listen und Masken:** Der Kunde hatte sehr spezifische Anforderungen wie die Darstellung der Listen und Masken gestaltet werden soll. Mittels Snippets können in Odoo alle Ansichten kundenspezifisch geändert werden. Hierfür bedienen wir uns aus der Mint System Snippets-Bibliothek welche kontinuierlich ergänzt und auf GitHub veröffentlicht wird.
 
 **Business-Logik:** Unter anderem sollte der Verkäufer direkt erkennen können, ob die Rechnungen zu einem Auftrag schon bezahlt sind. Mit zusätzlichen Feldern in Verbindung mit Python-Code können komplexe Algorithmen realisiert werden. In diesem Fall hat ein Durchsuchen der mit dem Verkaufsauftrag in Verbindung stehenden Rechnungen und das Setzen eines Attributs genügt.
 
@@ -27,12 +27,12 @@ Einen konkreten Grund für den Wechsel will ich hier trotzdem nennen: Die Lagerv
 
 **Excel-Transfer:** Sehr oft ist ein Export/Import über Excel-Tabellen der einfachste Weg. Für die systematische Datenaufbereitung (Feldinhalte nach einer bestimmten Logik ändern, Spalten umbenennen usw.) verwenden wir *Jupyter Notebooks*. Wenn der Prozess stabil läuft, braucht es zum Zeitpunkt x nur ein schmales Zeitfenster für die vollständige Datenmigration zwischen den Systemen.
 
-**Migration Buchhaltung:** Auf den Übertrag aller Buchungszeilen sollte verzichtet werden. Einfacher ist das Schliessen der Konti im Quellsystems und Einrichten der Konti mit je einer Eröffnungsbuchung im Zielsystem. Dieser Ansatz wurde auch hier gewählt.
+**Migration Buchhaltung:** Auf den Übertrag aller Buchungszeilen sollte verzichtet werden. Einfacher ist das Schliessen der Konti im Quellsystem und Einrichten der Konti mit je einer Eröffnungsbuchung im Zielsystem. Dieser Ansatz wurde auch hier gewählt.
 
 
 ### EDI-Anbindung
 
-Der Kunde erhält täglich viele Bestellungen. Das Generieren entsprechender Verkaufsaufträge musste über eine EDI-Schnittstelle (electronic data interchange) automatisiert werden. Die Umwandlung in Artefakte die über API (Application Programming Interface) übertragen werden hat eine Partner-Firma entwickelt. Jetzt werden aus Bestellungen automatisch Verkaufsaufträge und die dazugehörigen Rechnungen erstellt und versendet.
+Der Kunde erhält täglich viele Bestellungen. Das Generieren entsprechender Verkaufsaufträge musste über eine EDI-Schnittstelle (electronic data interchange) automatisiert werden. Die Umwandlung in Artefakte die über API (Application Programming Interface) übertragen werden, hat eine Partner-Firma entwickelt. Jetzt werden aus Bestellungen automatisch Verkaufsaufträge und die dazugehörigen Rechnungen erstellt und versendet.
 
 ### Lager-Routen
 
@@ -50,7 +50,6 @@ Der Kunde erhält täglich viele Bestellungen. Das Generieren entsprechender Ver
 (Sobald die ersten Buchungen vollzogen sind, lässt sich diese Einstellung allerdings nur sehr schwer wieder ändern.)
 
 **Steuerzuordnngen:** Auch die Steuern wurden länderspezifisch eingerichtet.
-
 
 ## Fazit
 
