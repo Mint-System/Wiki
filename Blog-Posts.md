@@ -8,7 +8,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
-[[Zahlen zum Unternehmen]]
+[[Zahlen zum Unternehmen]]\
 [[Wir sind Odoo Silberpartner]]\
 [[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
