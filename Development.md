@@ -5,4 +5,4 @@ tags:
 # Development
 Typ: [[Bereich]]
 
-Siehe [[man]] pages für Befehle auf der Kommandzeile.
+Siehe [[man]] pages für Befehle auf der Kommandozeile.
