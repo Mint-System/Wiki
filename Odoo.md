@@ -73,3 +73,4 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Brand Assets]]
 * [[Odoo Marketing]]
 * [[Odoo Dienstleistungen]]
+* [[Odoo Devleopment Guidelines]]
