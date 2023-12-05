@@ -4,17 +4,17 @@ tags:
 ---
 # Prozesse Personal: Onboarding
 
-## Benutzer für Mitarbeitenden erstellen
+## Login Mint System erstellen
 
 Arbeitsschritte:
 * Mitarbeiter-Eintrag in Wiki erfassen
-* E-Mail-Benutzer anlegen
+* E-Mail-Account anlegen
 * Matrix-Benutzer erstellen
 * Keycloak-Benutzer anlegen
 * Zugriffsdaten schicken
 
-## Brechtigungen für Mitarbeitenden erteilen
+## Zugriff erteilen
 
-Arbeitsschrritte
-* Benutzer auf GitHub-Organisation hinzufügen
-* 
+Arbeitsschritte:
+* Benutzer auf GitHub einladen und der Organisation hinzufügen
+* Bentuzer auf GitLab einladen und der Organisation hinzufügen
