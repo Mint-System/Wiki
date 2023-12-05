@@ -10,5 +10,5 @@ Benutzername: `laszlokrajnikovszkij`\
 Alias: `lkr`\
 Mail: laszlo.krajnikovszkij@mint-system.ch\
 Matrix: `@laszlokrajnikovszkij:mint-system.ch`\
-Alias: lkr@mintsys.ch, laslzo@mint-system.ch\
+Alias: lkr, laszlo
 GitHub: https://github.com/laszlo-lk

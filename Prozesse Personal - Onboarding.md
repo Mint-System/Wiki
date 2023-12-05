@@ -4,10 +4,17 @@ tags:
 ---
 # Prozesse Personal: Onboarding
 
-## Mitarbeiter-Onboarding durchführen
+## Benutzer für Mitarbeitenden erstellen
 
 Arbeitsschritte:
 * Mitarbeiter-Eintrag in Wiki erfassen
 * E-Mail-Benutzer anlegen
 * Matrix-Benutzer erstellen
-* Zugriffs-Daten 
+* Keycloak-Benutzer anlegen
+* Zugriffsdaten schicken
+
+## Brechtigungen für Mitarbeitenden erteilen
+
+Arbeitsschrritte
+* Benutzer auf GitHub-Organisation hinzufügen
+* 
