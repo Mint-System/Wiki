@@ -17,4 +17,4 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 * Benutzer auf GitHub einladen und der Organisation hinzufügen
-* Bentuzer auf GitLab einladen und der Organisation hinzufügen
+* Benutzer auf GitLab einladen und der Organisation hinzufügen
