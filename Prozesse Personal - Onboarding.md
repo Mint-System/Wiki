@@ -25,5 +25,5 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Installation [[Nextcloud]] Desktop-Client
 * Installation [[Obsidian]]
-* Installation [[KeePassXC]] und einrichten Zugriff auf Passwörter
+* Installation [[KeePassXC]] und Einrichten Zugriff auf Passwörter
 * Installation [[Element]]
