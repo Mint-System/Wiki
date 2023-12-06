@@ -6,9 +6,9 @@ tags:
 
 Verantwortlich: [[Infrastruktur]]
 
-Benutzername: `laszlokrajnikovszkij`\
+Benutzername: `laszlokr`\
 Alias: `lkr`\
-Mail: laszlo.krajnikovszkij@mint-system.ch\
+Mail: <laszlo.krajnikovszkij@mint-system.ch>\
 Matrix: `@laszlo:mint-system.ch`\
 Alias: lkr, laszlo
 GitHub: https://github.com/laszlo-lk
