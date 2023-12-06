@@ -18,3 +18,12 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Benutzer auf GitHub einladen und der Organisation hinzufügen
 * Benutzer auf GitLab einladen und der Organisation hinzufügen
+* Benutzer auf Nextcloud einladen und Zugriff auf Mint-System Ordner geben
+
+## Arbeitsplatz einrichten
+
+Arbeitsschritte:
+* Installation [[Nextcloud]] Desktop-Client
+* Installation [[Obsidian]]
+* Installation [[KeePassXC]] und einrichten Zugriff auf Passwörter
+* Installation [[Element]]
