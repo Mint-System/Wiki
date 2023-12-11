@@ -2,15 +2,13 @@
 tags:
 - Phasen
 ---
-# Phase Moodle Hosting
+# Phase Matomo Hosting
 
 Tätigkeiten:
 
-* Bereitstellen Moodle Container
+* Bereitstellen Matomo Container
 * Konfiguration Proxy und Integration Monitoring
-* Definieren Backup-Jobs
-* Anpassungen Konfigurations-Vorlage
-* Migration von Moodle-Daten
+* Migration von Matomo-Daten
 * Erstellen Benutzer-Accounts
 
 Ergebnis: Moodle-Applikation ist verfügbar.

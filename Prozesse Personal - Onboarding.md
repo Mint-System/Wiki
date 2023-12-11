@@ -25,9 +25,10 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 * Installation [[Nextcloud]] Desktop-Client
-* Installation [[Obsidian]]
+* Installation [[Obsidian]] und Einrichten Zugriff auf Wikis
 * Installation [[KeePassXC]] und Einrichten Zugriff auf Passwörter
 * Installation [[Element]]
+* Installation [[Thunderbird]] und Einrichten Mail und Kalender
 
 ## Smartphone einrichten
 

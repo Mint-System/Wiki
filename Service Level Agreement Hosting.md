@@ -5,7 +5,7 @@ tags:
 ![[Banner Hosting SLA.png]]
 
 # Service Level Agreement Hosting
-Version: 2021-09-16
+Version: 2023-12-11
 
 Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten die folgenden Garantien:
 
@@ -46,3 +46,9 @@ Die Sicherheit Ihrer Daten ist uns sehr wichtig und wir haben unsere Systeme und
 * **Passwörter** - Kundenpasswörter sind mit SHA512-Verschlüsselung nach Industriestandard geschützt.
 * **Sichere Systeme** - Auf unseren Servern laufen aktuelle Linux-Distributionen mit aktuellen Sicherheits-Patches, mit Firewall und Massnahmen gegen Angriffe.
 * **Isolierung** - Applikationen werden in speziellen Containern ausgeführt. Keine gemeinsame Nutzung von Daten zwischen Kunden, kein Zugriff von einer Datenbank zur anderen ist möglich.
+
+## Wartung
+
+* Die Server werden regelmässig mit Sicherheitsupdates gepatcht.
+* Anwendungen und Dienste werden gemäss Releasezyklus zeitnah aktualisiert.
+* Der verfügbare Speicherplatz wird verwaltet und proaktiv erweitert.
