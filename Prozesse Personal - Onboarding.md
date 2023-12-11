@@ -16,11 +16,11 @@ Arbeitsschritte:
 ## Zugriff erteilen
 
 Arbeitsschritte:
-* Benutzer der [[GitHub#Organisation]] hinzufügen
-* Benutzer der [[GitLab#Organisation]] hinzufügen
-* Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
-* Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
-* 
+* GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
+* GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
+* Keycloak-Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
+* Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
+* Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
 
 ## Desktop einrichten
 
