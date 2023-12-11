@@ -16,22 +16,23 @@ Arbeitsschritte:
 ## Zugriff erteilen
 
 Arbeitsschritte:
-* Benutzer auf GitHub einladen und der Organisation hinzufügen
-* Benutzer auf GitLab einladen und der Organisation hinzufügen
-* Benutzer auf Nextcloud einladen und Zugriff auf Mint-System Ordner geben
-* Benutzer auf Odoo einladen und entsprechende Rollen vergeben
+* Benutzer der [[GitHub#Organisation]] hinzufügen
+* Benutzer der [[GitLab#Organisation]] hinzufügen
+* Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
+* Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
+* 
 
 ## Desktop einrichten
 
 Arbeitsschritte:
-* Installation [[Nextcloud]] Desktop-Client
+* Installation [[Nextcloud]] Desktop-Client und Einrichten Synchronisation
 * Installation [[Obsidian]] und Einrichten Zugriff auf Wikis
 * Installation [[KeePassXC]] und Einrichten Zugriff auf Passwörter
-* Installation [[Element]]
+* Installation [[Element]] und Login auf [[Matrix Server]].
 * Installation [[Thunderbird]] und Einrichten Mail und Kalender
 
 ## Smartphone einrichten
 
 Arbeitsschritte:
 * Installation Nextcloud-App
-* Einrichten Infomaniak-Kalender
+* Einrichten Mail und Kalender
