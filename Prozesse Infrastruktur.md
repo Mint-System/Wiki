@@ -11,7 +11,7 @@ Verantwortlich: [[Janik von Rotz]]
 
 * [[Prozesse Infrastruktur - Server bestellen]]
 * [[Prozesse Infrastruktur - Odoo bestellen]]
-* [[Prozesse Infrastruktur - Nextcloud bestellen]]
+* [[Prozesse Infrastruktur - Nextcloud bestellen]][]()
 
 ## Bereitstellung
 
