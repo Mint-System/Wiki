@@ -4,4 +4,4 @@ tags:
 ---
 # Ansible Inventory
 
-Website: <https://docs.ansible.com/ansible/2.3/intro_inventory.html>
+Repo: <https://gitlab.com/mint-system/ansible-inventories>

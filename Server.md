@@ -59,6 +59,5 @@ Liste aller Server im Einsatz der Mint System GmbH.
 Die folgenden Namen stehen zur Auswahl bereit:
 
 * Krios
-* Eros
 * Moros
 * Pan

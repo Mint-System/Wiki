@@ -36,3 +36,9 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Installation Nextcloud-App
 * Einrichten Mail und Kalender
+
+## Entwicklungsumgebung einrichten
+
+Arbeitsschritte:
+* Auschecken [[Ansible Build]] und [[Ansible Inventory]] Projekt
+* Auschecken [[Odoo Build]] Projekt
