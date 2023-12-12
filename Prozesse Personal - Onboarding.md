@@ -4,7 +4,13 @@ tags:
 ---
 # Prozesse Personal: Onboarding
 
-## Logins Mint System erstellen
+## Personal
+
+### Verträge mit Sozialversicherung abschliessen
+
+## Technisch
+
+### Logins Mint System erstellen
 
 Arbeitsschritte:
 * Mitarbeiter-Eintrag in Wiki erfassen
@@ -13,7 +19,7 @@ Arbeitsschritte:
 * Keycloak-Benutzer anlegen
 * Zugriffsdaten schicken
 
-## Zugriff erteilen
+### Zugriff erteilen
 
 Arbeitsschritte:
 * GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
@@ -23,7 +29,7 @@ Arbeitsschritte:
 * Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
 * Auf [[Hetzner]] den SSH-Schlüssel speichern
 
-## Desktop einrichten
+### Desktop einrichten
 
 Arbeitsschritte:
 * Installation [[Nextcloud]] Desktop-Client und Einrichten Synchronisation
@@ -32,13 +38,13 @@ Arbeitsschritte:
 * Installation [[Element]] und Login auf [[Matrix Server]].
 * Installation [[Thunderbird]] und Einrichten Mail und Kalender
 
-## Smartphone einrichten
+### Smartphone einrichten
 
 Arbeitsschritte:
 * Installation Nextcloud-App
 * Einrichten Mail und Kalender
 
-## Entwicklungsumgebung einrichten
+### Entwicklungsumgebung einrichten
 
 Arbeitsschritte:
 * Auschecken [[Ansible Build]] und [[Ansible Inventory]] Projekt
