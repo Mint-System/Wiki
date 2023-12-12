@@ -21,6 +21,7 @@ Arbeitsschritte:
 * Keycloak-Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
 * Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
 * Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
+* Auf [[Hetzner]] den SSH-Schlüssel speichern
 
 ## Desktop einrichten
 
