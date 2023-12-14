@@ -2,7 +2,6 @@
 tags:
 - HowTo
 ---
-
 # Softwareentwicklung Troubleshooting
 
 ## Inotify Watcher Limit
