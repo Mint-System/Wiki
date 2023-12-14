@@ -15,7 +15,7 @@ tags:
 | [[Vorlage Bugs]]                           |
 | [[Vorlage Cashflow]]                       |
 | [[Vorlage Datenmigration]]                 |
-| p[[Vorlage Gap-Analyse]]                    |
+| [[Vorlage Gap-Analyse]]                    |
 | [[Vorlage Issues]]                         |
 | [[Vorlage Konzept]]                        |
 | [[Vorlage Meeting]]                        |
