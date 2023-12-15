@@ -11,5 +11,4 @@ Tätigkeiten:
 * Erstellen Benutzer-Accounts oder Integration mit Login-Dienst
 * Testen Entwicklung von Backstage App
 
-
 Ergebnis: Backstage-Applikation ist verfügbar.
