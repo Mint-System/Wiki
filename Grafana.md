@@ -3,10 +3,13 @@ tags:
 - Definition
 ---
 # Grafana
+
 Dashboard for Promethus metrics.
 
 Website: <https://grafana.com>
 
-## Our Dashboards
+Siehe [[Monitoring]].
+
+## Unser Dashboard
 
 Dashboard: <https://grafana.com/grafana/dashboards/13052>

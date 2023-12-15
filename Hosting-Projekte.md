@@ -11,6 +11,7 @@ Zur Umsetzung eines Hosting-Projekt können diese Phase angewendet werden:
 
 * [[Phase Server Bereitstellung]]
 * [[Phase Entwicklung Ansible Rollen]]
+* [[Phase Migration Container]]
 * [[Phase Hosting Initialisierung]]
 
 **Applikationen**
@@ -20,3 +21,4 @@ Zur Umsetzung eines Hosting-Projekt können diese Phase angewendet werden:
 * [[Phase Frappe Hosting]]
 * [[Phase Keycloak Hosting]]
 * [[Phase Matomo Hosting]]
+* *[Phase Backstage Hosting]]

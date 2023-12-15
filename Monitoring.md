@@ -3,4 +3,7 @@ tags:
 - Definition
 ---
 # Monitoring
-[[Grafana]] and Prometheus for Server-Monitoring.
+
+Für das Monitoring der Systeme setzt Mint System [[Grafana]] and [[Prometheus]] ein.
+
+Website: <https://monitor.mint-system.ch>
