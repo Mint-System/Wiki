@@ -8,7 +8,6 @@ tags:
 Version: 2023-12-11
 
 Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten die folgenden Garantien:
-
 ## Verfügbarkeit
 
 * Wir arbeiten mit verschiedenen Hosting-Anbietern, die immer mindestens 99.9% Verfügbarkeit garantieren. Deshalb garantieren wir eine monatliche Verfügbarkeit von 99.9% für unsere Hosting-Angebote.

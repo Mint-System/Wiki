@@ -12,4 +12,4 @@ Tätigkeiten:
 * Wiederherstellen der Container-Daten
 * Testen Verfügbarkeit der Wendung
 
-Ergebnis: DEien Container-Anwendung ist auf einem neuen Server verfügbar.
+Ergebnis: Die Container-Anwendung ist auf einem neuen Server verfügbar.
