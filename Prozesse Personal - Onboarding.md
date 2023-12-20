@@ -6,7 +6,12 @@ tags:
 
 ## Personal
 
-### Verträge mit Sozialversicherung abschliessen
+1. Arbeitsvertrag erstellen
+2. Anmeldung bei der Ausgleichskasse
+3. Personalien erfassen
+5. AHV-/IV-/EO-Anmeldung
+6. Unfallversicherung / Krankentaggeldversicherung
+7. Arbeitsbewilligung (falls erforderlich)
 
 ## Technisch
 
