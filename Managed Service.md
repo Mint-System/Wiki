@@ -10,6 +10,6 @@ Ein managed Service ist eine Kombination aus Hosting-Lösungen.
 
 Die folgende Grafik gibt eine Übersicht über die Leistungen im Rahmen des [[ITIL - Service Catalogue Management]]:
 
-![[Managed Server.canvas|Managed Server]]
+![[Managed Server.canvas]]
 
-![[Service Maintenance.canvas|Managed Service]]
+![[Service Maintenance.canvas]]
