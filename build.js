@@ -77,81 +77,6 @@ function mapColor(color) {
     return appliedColor
 }
 
-function renderNode(node) {
-    const strockWidth = 4
-    const fontWeight = 'bold'
-    const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
-
-    let textOffsetX = 15
-    let textOffsetY = 7
-    let fontColor = '#2c2d2c'
-    let fontSize = 15
-    let content = ''
-
-    // Render default text
-
-    if (node['text']) {
-
-        // Compare text length to node length
-        if ((node['text'].length / node['width']) >= 0.11 && node['text'].split('\n').length == 1) {
-            textOffsetY = 0
-        }
-
-        content = `
-        <style>
-            p {
-                font-family: ${fontFamily};
-                font-size: ${fontSize}px;
-                color: ${fontColor};
-            }
-        </style>
-        <foreignObject x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" width="${node['width'] - textOffsetX*2}" height="${node['height'] - textOffsetY*2}">
-        <p xmlns="http://www.w3.org/1999/xhtml" class="${node['id']}">${node['text']}</p>
-        </foreignObject>
-        `
-    }
-
-    // Render multiline text
-
-    if (node['text'] && node['text'].split('\n').length > 1) {
-        let spans = ''
-        for (const line of node['text'].split('\n')) {
-            spans += `<tspan x="${node['x'] + textOffsetX}" dy="${fontSize + 3}">${line}</tspan>`
-        }
-        textOffsetY = 10
-        content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" fill="${fontColor}">${spans}</text>`
-    }
-
-    // Render linked markdown file
-
-    if (node['file'] && node['file'].endsWith('.md')) {
-        title = node['file'].replace('.md', '')
-        text = `<a href="/${title.toLowerCase()}.html">${title}</a>`
-        fontColor = '#9a7fee'
-        fontSize = 28
-        textOffsetX = 30
-        textOffsetY = 45
-        content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
-    }
-    
-    // Render image
-
-    if (node['file'] && !node['file'].endsWith('.md')) {
-        filePath = node['file']
-
-        const base64_content = fs.readFileSync(filePath, "base64")
-        extension = path.extname(filePath).replace('.', '')
-
-        content = `<image href="${`data:image/{extension};base64,${base64_content}`}" x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" clip-path="inset(0% round 15px)" />`
-        fontColor = '#9a7fee'
-    }
-
-    return `
-    <rect x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" rx="15" stroke="${mapColor(node['color'])}" stroke-width="${strockWidth}" fill="none"/>
-    ${content}
-    `
-}
-
 function renderEdge(edge) {
     const id = edge['id']
     const strockWidth = 5
@@ -253,6 +178,82 @@ function renderEdge(edge) {
     `
 }
 
+function renderNode(node) {
+    const strockWidth = 4
+    const fontWeight = 'bold'
+    const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
+
+    let textOffsetX = 15
+    let textOffsetY = 7
+    let fontColor = '#2c2d2c'
+    let fontSize = 15
+    let content = ''
+
+    // Render default text
+
+    if (node['text']) {
+
+        // Compare text length to node length
+        if ((node['text'].length / node['width']) >= 0.11 && node['text'].split('\n').length == 1) {
+            textOffsetY = 0
+        }
+
+        content = `
+        <style>
+            p {
+                font-family: ${fontFamily};
+                font-size: ${fontSize}px;
+                font-weight: ${fontWeight};
+                color: ${fontColor};
+            }
+        </style>
+        <foreignObject x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" width="${node['width'] - textOffsetX*2}" height="${node['height'] - textOffsetY*2}">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="${node['id']}">${node['text']}</p>
+        </foreignObject>
+        `
+    }
+
+    // Render multiline text
+
+    if (node['text'] && node['text'].split('\n').length > 1) {
+        let spans = ''
+        for (const line of node['text'].split('\n')) {
+            spans += `<tspan x="${node['x'] + textOffsetX}" dy="${fontSize + 3}">${line}</tspan>`
+        }
+        textOffsetY = 10
+        content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" fill="${fontColor}">${spans}</text>`
+    }
+
+    // Render linked markdown file
+
+    if (node['file'] && node['file'].endsWith('.md')) {
+        title = node['file'].replace('.md', '')
+        text = `<a href="/${title.toLowerCase()}.html">${title}</a>`
+        fontColor = '#9a7fee'
+        fontSize = 28
+        textOffsetX = 30
+        textOffsetY = 45
+        content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
+    }
+    
+    // Render image
+
+    if (node['file'] && !node['file'].endsWith('.md')) {
+        filePath = node['file']
+
+        const base64_content = fs.readFileSync(filePath, "base64")
+        extension = path.extname(filePath).replace('.', '')
+
+        content = `<image href="${`data:image/{extension};base64,${base64_content}`}" x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" clip-path="inset(0% round 15px)" />`
+        fontColor = '#9a7fee'
+    }
+
+    return `
+    <rect x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" rx="15" stroke="${mapColor(node['color'])}" stroke-width="${strockWidth}" fill="none"/>
+    ${content}
+    `
+}
+
 function renderGroup(group) {
     const strockWidth = 4
     const fontWeight = 'bold'
@@ -326,12 +327,6 @@ function convertCanvasToSVG(content) {
     
     svg += `<svg viewBox="${minX-spacing} ${minY-spacing} ${width+spacing*2} ${height+spacing*2}" xmlns="http://www.w3.org/2000/svg">\n`
 
-    // Render group as rect
-
-    for (const group of nodes.filter(node => (node['type'] === 'group'))) {
-        svg += renderGroup(group)
-    }
-
     // Render edges as lines
 
     for (const edge of edges) {
@@ -390,6 +385,12 @@ function convertCanvasToSVG(content) {
         edge['toY'] = toY
 
         svg += renderEdge(edge)
+    }
+
+    // Render group as rect
+
+    for (const group of nodes.filter(node => (node['type'] === 'group'))) {
+        svg += renderGroup(group)
     }
 
     // Render nodes as rect
