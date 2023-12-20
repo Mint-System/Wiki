@@ -93,7 +93,7 @@ function renderNode(node) {
     if (node['text']) {
 
         // Compare text length to node length
-        if ((node['text'].length / node['width']) >= 0.14) {
+        if ((node['text'].length / node['width']) >= 0.11 && node['text'].split('\n').length == 1) {
             textOffsetY = 0
         }
 
@@ -149,24 +149,6 @@ function renderNode(node) {
     return `
     <rect x="${node['x']}" y="${node['y']}" width="${node['width']}" height="${node['height']}" rx="15" stroke="${mapColor(node['color'])}" stroke-width="${strockWidth}" fill="none"/>
     ${content}
-    `
-}
-
-function renderGroup(group) {
-    const strockWidth = 4
-    const fontWeight = 'bold'
-    const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
-
-    let textOffsetX = 15
-    let textOffsetY = -15
-    let fontColor = '#2c2d2c'
-    let fillColor = '#fbfbfb'
-    let text = group['label']
-    let fontSize = 24
-
-    return `
-    <rect x="${group['x']}" y="${group['y']}" width="${group['width']}" height="${group['height']}" rx="30" stroke="${mapColor(group['color'])}" stroke-width="${strockWidth}" fill="${fillColor}"/>
-    <text x="${group['x'] + textOffsetX}" y="${group['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>
     `
 }
 
@@ -268,6 +250,24 @@ function renderEdge(edge) {
     </marker>
     <line x1="${fromX}" y1="${fromY}" x2="${toX}" y2="${toY}" stroke="${color}" fill="white" stroke-width="${strockWidth}" ${marker} />
     ${label}
+    `
+}
+
+function renderGroup(group) {
+    const strockWidth = 4
+    const fontWeight = 'bold'
+    const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
+
+    let textOffsetX = 15
+    let textOffsetY = -15
+    let fontColor = '#2c2d2c'
+    let fillColor = '#fbfbfb'
+    let text = group['label']
+    let fontSize = 24
+
+    return `
+    <rect x="${group['x']}" y="${group['y']}" width="${group['width']}" height="${group['height']}" rx="30" stroke="${mapColor(group['color'])}" stroke-width="${strockWidth}" fill="${fillColor}"/>
+    <text x="${group['x'] + textOffsetX}" y="${group['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>
     `
 }
 

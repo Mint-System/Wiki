@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="-725 -350 1080 630" xmlns="http://www.w3.org/2000/svg">
+
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-dd8f3c35a30ff885" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-dd8f3c35a30ff885" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="-36" y1="-270" x2="-209" y2="-270" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-dd8f3c35a30ff885)" />
+    
+        <text x="-146.5" y="-270" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">assign</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-3fa57be1c27f1c37" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-3fa57be1c27f1c37" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="-270" y1="-239" x2="-270" y2="-161" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-3fa57be1c27f1c37)" />
+    
+        <text x="-294" y="-200" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">assign</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-e8bcecfe6c92aa0b" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-e8bcecfe6c92aa0b" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="15" y1="-239" x2="-219" y2="-120" stroke="#7e7e7e" fill="white" stroke-width="5"  />
+    
+        <text x="-118" y="-179.5" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">link</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-27abfa98f7847086" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-27abfa98f7847086" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="-321" y1="-120" x2="-494" y2="-120" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-27abfa98f7847086)" />
+    
+        <text x="-435.5" y="-120" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">include</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-cfee08be00958a5c" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-cfee08be00958a5c" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="-270" y1="-89" x2="-555" y2="19" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-cfee08be00958a5c)" />
+    
+        <text x="-432.5" y="-35" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">grant</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-1dbc344b6d38d8d4" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-1dbc344b6d38d8d4" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="-270" y1="-89" x2="-370" y2="19" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-1dbc344b6d38d8d4)" />
+    
+        <text x="-340" y="-35" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">grant</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-c1b494761ae52b4a" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-c1b494761ae52b4a" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="-270" y1="-89" x2="215" y2="19" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-c1b494761ae52b4a)" />
+    
+        <text x="-55.5" y="-35" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">include</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-5037b48eee560a2e" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-5037b48eee560a2e" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="-135" y1="91" x2="-135" y2="159" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-5037b48eee560a2e)" />
+    
+        <text x="-155" y="125" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">grant</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-0f4a0e62d9c4ef36" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-0f4a0e62d9c4ef36" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="215" y1="91" x2="217.5" y2="159" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-0f4a0e62d9c4ef36)" />
+    
+        <text x="196.25" y="125" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">grant</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-0d2daca977ce8fad" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-0d2daca977ce8fad" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="129" y1="200" x2="-54" y2="200" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-0d2daca977ce8fad)" />
+    
+        <text x="1.5" y="200" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">overwrite</text>
+        
+    
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-98749a5c68e477a3" viewBox="0 0 10 10" refX="1" refY="5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L 7 5 L 0 10 z"/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-98749a5c68e477a3" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="#7e7e7e" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+        <path d="M 0 0 L -7 -5 L -0 -10 z"/>
+    </marker>
+    <line x1="-270" y1="-89" x2="-135" y2="19" stroke="#7e7e7e" fill="white" stroke-width="5" marker-end="url(#arrow-end-98749a5c68e477a3)" />
+    
+        <text x="-230.5" y="-35" font-family="Roboto, Oxygen, Ubuntu, Cantarell, sans-serif">include</text>
+        
+    
+    <rect x="-320" y="-300" width="100" height="60" rx="15" stroke="#199e5c" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-305" y="-293" width="70" height="46">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="e4453b07c7efb110">User</p>
+        </foreignObject>
+        
+    
+    <rect x="-35" y="-300" width="100" height="60" rx="15" stroke="#199e5c" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-20" y="-293" width="70" height="46">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="6f83bef240cef0a0">Role</p>
+        </foreignObject>
+        
+    
+    <rect x="-320" y="-150" width="100" height="60" rx="15" stroke="#199e5c" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-305" y="-143" width="70" height="46">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="516af98a002c6f8a">Group</p>
+        </foreignObject>
+        
+    
+    <rect x="-605" y="30" width="100" height="60" rx="15" stroke="#aba960" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-590" y="37" width="70" height="46">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="d9f6873f51bb0add">Menu</p>
+        </foreignObject>
+        
+    
+    <rect x="-420" y="30" width="100" height="60" rx="15" stroke="#aba960" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-405" y="37" width="70" height="46">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="296c822362e95946">Views</p>
+        </foreignObject>
+        
+    
+    <rect x="-220" y="30" width="170" height="60" rx="15" stroke="#aa363d" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-205" y="37" width="140" height="46">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="39e667b4bb0e6748">Access Rights</p>
+        </foreignObject>
+        
+    
+    <rect x="130" y="170" width="175" height="60" rx="15" stroke="#aba960" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="145" y="170" width="145" height="60">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="f63c21d203fff995">Model + Domain + Access Type</p>
+        </foreignObject>
+        
+    
+    <rect x="-205" y="170" width="140" height="60" rx="15" stroke="#aba960" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-190" y="170" width="110" height="60">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="0327dc932901ada1">Model + Access Type</p>
+        </foreignObject>
+        
+    
+    <rect x="130" y="30" width="170" height="60" rx="15" stroke="#aa363d" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="145" y="37" width="140" height="46">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="eb6e29f1e861d07c">Record Roles</p>
+        </foreignObject>
+        
+    
+    <rect x="-675" y="-150" width="170" height="60" rx="15" stroke="#199e5c" stroke-width="4" fill="none"/>
+    
+        <style>
+            p {
+                font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+                font-size: 15px;
+                color: #2c2d2c;
+            }
+        </style>
+        <foreignObject x="-660" y="-143" width="140" height="46">
+        <p xmlns="http://www.w3.org/1999/xhtml" class="a53bf8944bdb649a">Inherited Group</p>
+        </foreignObject>
+        
+    </svg>
