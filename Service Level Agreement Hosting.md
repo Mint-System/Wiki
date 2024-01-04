@@ -48,6 +48,10 @@ Die Sicherheit Ihrer Daten ist uns sehr wichtig und wir haben unsere Systeme und
 
 ## Wartung
 
+In der SLA ist ein Wartungsauftrag enthalten. Eine Übersicht der Leistungen:
+
 * Die Server werden regelmässig mit Sicherheitsupdates gepatcht.
 * Anwendungen und Dienste werden gemäss Releasezyklus zeitnah aktualisiert.
 * Der verfügbare Speicherplatz wird verwaltet und proaktiv erweitert.
+
+Weitere Details sind im [[Wartungsauftrag]] beschrieben.

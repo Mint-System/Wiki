@@ -6,4 +6,4 @@ tags:
 
 Ist ein Hosting-[[Angebot]] der Mint System.
 
-Siehe [[Managed Service]].
+Siehe [[Wartungsauftrag]].

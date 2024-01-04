@@ -34,7 +34,6 @@ Unser Ticketsystem und Forum steht Ihnen zu Verfügung. Bei dringenden Notfälle
 
 [[Wartungsvertrag]]\
 [[Supportvertrag]]
-
 ### Service Level Agreement
 
 Das offertiete Hosting kann als Service Level Agreement (SLA) festgehalten werden.

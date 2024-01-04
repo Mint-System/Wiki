@@ -41,4 +41,4 @@ Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösunge
 
 * [[Terminal Zeiterfassung]]
 * [[Odoo Maintenance]]
-* [[Managed Service]]
+* [[Wartungsauftrag]]
