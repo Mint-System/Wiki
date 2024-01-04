@@ -21,6 +21,6 @@ Arbeitsschritte:
 
 ## Odoo upgraden
 
-Arbeittschritte:
+Arbeitsschritte:
 * Durchführen Upgrade gemäss ausgewählter Strategie
 
