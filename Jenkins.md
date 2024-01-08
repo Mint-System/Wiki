@@ -9,6 +9,7 @@ Website: <https://www.jenkins.io/>
 Weiterführende Links:
 
 * [[Jenkins Handbuch]]
+* [[Jenkins Security]]
 
 ## Docker Umgebung
 

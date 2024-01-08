@@ -18,8 +18,7 @@ Wir erstellen für ihre Odoo Installation reguläre Backups und stellen diese na
 
 ### Monitoring
 
-Wir überwachen die gehostete Anwendung.
-
+Wir überwachen die gehostete Anwendung indem Metriken und Log-Daten gesammelt und ausgewertet werden.
 ### Updates
 
 Anwenungsupdates und Sicherheitspatches werden fortlaufend installiert.
