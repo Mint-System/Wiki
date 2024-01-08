@@ -68,6 +68,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Wartung]]
 * [[Phase Webshop]]
 * [[Phase Website]]
+* [[Phase Website Inhalte]]
 * [[Phase Website Blog]]
 * [[Phase Website Event]]
 * [[Phase Zeiterfassung]]
@@ -76,6 +77,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 
 * [[Phase Odoo Entwicklung]]
 * [[Phase Odoo Entwicklung Extern]]
+* [[Phase Entwicklung Website Theme]]
 
 ## [[Prozesse]]
 
