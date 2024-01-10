@@ -30,6 +30,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Enyo     | Server webkeeper GmbH                    | `enyo.mint-system.com`     | Off-Premise |
 | Eos      | Server Aersolution Interior AG           | `odoo.aersolution.com`     | Off-Premise |
 | Eris     | Nextcloud  Abächerli Forstunternehmen AG | `eris.mint-system.com`     | Hetzner     |
+| Eros     | Server INVITAIC Finance AG               | `eros.mint-system.com`     | Hetzner     |
 | Gaia     | [[BigBlueButton]] [[Mint System GmbH]]   | `gaia.mint-system.com`     | Hetzner     |
 | Hades    | Demoumgebung                             | `hades.mint-system.com`    | Hetzner     |
 | Helios   | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
@@ -52,7 +53,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Tyche    | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Dienste [[Mint System GmbH]]             | `zeus.mint-system.com`     | Hetzner     |
-| Eros     | Server Invitaic Finance AG               | `eros.mint-system.com`     | Hetzner            |
 
 ### Liste freie Namen
 
