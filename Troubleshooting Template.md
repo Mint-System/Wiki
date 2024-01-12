@@ -1,10 +1,9 @@
 ---
+lang: en
 tags:
 - Vorlagen
 ---
-
 # Template Troubleshooting
-Übersetzung: [[Vorlage Troubleshooting.en]]
 
 ## Open
 

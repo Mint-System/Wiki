@@ -11,7 +11,7 @@ Set env vars.
 ```bash
 export ODOO_CURRENT_VERSION=14.0
 export ODOO_TARGET_VERSION=15.0
-export MODE=test
+export MODE=test # Options: test, production
 export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
@@ -33,8 +33,6 @@ Checkout Odoo environment.
 task checkout $ODOO_CURRENT_VERSION
 ```
 
-Install python packages.
-
 Start local development environment.
 
 ```bash
@@ -46,6 +44,7 @@ task start db,native
 Clear filestore and restore database.
 
 ```bash
+task drop-db $DATABASE
 task clear-filestore $DATABASE
 odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
@@ -59,13 +58,18 @@ task remove-module $DATABASE ...
 ```
 
 Update modules.
+
+```bash
+task install-module $DATABASE ...
+```
+
+Login and check the Odoo log.
+
 ## Upgrade
 
 Run the upgrade scripts.
 
 ```bash
-task drop-db $NEW_DATABASE
-task clear-filestore $NEW_DATABASE
 odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
 ```
 
@@ -79,7 +83,7 @@ Clear the assets and start the server.
 
 ```bash
 task clear-assets $NEW_DATABASE
-task start native $NEW_DATABASE
+task start native
 ```
 
 Login and check the Odoo log.
@@ -99,16 +103,14 @@ Reset selected views.
 
 Make new Odoo configurations.
 
-Activate options in the settings page.
-
 Update selected snippets.
 ## Verify
 
 Test the upgraded system.
 
-Run these test cases.
+Run the test cases.
 
-Note regressions.
+Note any regressions.
 
 ## Deploy
 
@@ -117,6 +119,8 @@ Export the new database.
 ```bash
 odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 ```
+
+Deploy the upgraded database.
 ## Troubleshooting
 
 ### External ID not found in the system

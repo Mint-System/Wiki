@@ -3,7 +3,7 @@ tags:
 - Vorlagen
 ---
 # Vorlage Angebot
-Übersetzung: [[Vorlage Angebot.en]]
+Übersetzung: [[Offer Template]]
 
 ## Struktur
 

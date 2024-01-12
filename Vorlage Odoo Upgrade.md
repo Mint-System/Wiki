@@ -126,4 +126,4 @@ Deploy the upgraded database.
 
 ## Troubleshooting
 
-See [[Vorlage Troubleshooting.en]].
+See [[Troubleshooting Template]].

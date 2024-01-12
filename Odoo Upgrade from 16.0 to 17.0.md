@@ -11,7 +11,7 @@ Set env vars.
 ```bash
 export ODOO_CURRENT_VERSION=16.0
 export ODOO_TARGET_VERSION=17.0
-export MODE=test
+export MODE=test # Options: test, production
 export PGHOST=localhost
 export PGUSER=odoo
 export PGPASSWORD=odoo
@@ -32,8 +32,6 @@ Checkout current Odoo environment.
 ```bash
 task checkout $ODOO_CURRENT_VERSION
 ```
-
-Install python packages.
 
 Start local development environment.
 
@@ -61,6 +59,11 @@ task remove-module $DATABASE ...
 
 Update modules.
 
+```bash
+task install-module $DATABASE ...
+```
+
+Login and check the Odoo log.
 ## Upgrade
 
 Run the upgrade scripts.
@@ -100,17 +103,15 @@ Reset selected views.
 
 Make new Odoo configurations.
 
-Activate options in the settings page.
-
 Update selected snippets.
 
 ## Verify
 
 Test the upgraded system.
 
-Run these test cases.
+Run the test cases.
 
-Note regressions.
+Note any regressions.
 
 ## Deploy
 

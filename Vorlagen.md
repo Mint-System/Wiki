@@ -11,7 +11,7 @@ tags:
 | [[Vorlage Anforderungsanalyse]]            |
 | [[Vorlage Angebot]]                        |
 | [[Vorlage Aufwandsschätzung]]              |
-| [[Vorlage Bericht zu Odoo Anpassungen.en]] |
+| [[Template Report on Odoo Customization]] |
 | [[Vorlage Bugs]]                           |
 | [[Vorlage Cashflow]]                       |
 | [[Vorlage Datenmigration]]                 |
@@ -19,7 +19,7 @@ tags:
 | [[Vorlage Issues]]                         |
 | [[Vorlage Konzept]]                        |
 | [[Vorlage Meeting]]                        |
-| [[Vorlage Minor Improvements.en]]          |
+| [[Minor Improvements Template]]          |
 | [[Vorlage Odoo Upgrade Modules]]           |
 | [[Vorlage Odoo Upgrade]]                   |
 | [[Vorlage Phase]]                          |
