@@ -101,7 +101,6 @@ Reset selected views.
 Make new Odoo configurations.
 
 Update selected snippets.
-
 ## Verify
 
 Test the upgraded system.
