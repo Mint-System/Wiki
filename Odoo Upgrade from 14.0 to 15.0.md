@@ -68,6 +68,8 @@ Login and check the Odoo log.
 Run the upgrade scripts.
 
 ```bash
+task clear-filestore $NEW_DATABASE
+task drop-db  $NEW_DATABASE
 odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
 ```
 
@@ -77,16 +79,14 @@ Checkout target Odoo environment.
 task checkout $ODOO_TARGET_VERSION
 ```
 
-Clear the assets and start the server.
+Clear the browser cache and Odoo assets, then start the server.
 
 ```bash
 task clear-assets $NEW_DATABASE
 task start native
 ```
 
-Login and check the Odoo log.
-
-Check the Upgrade report.
+Login and check the Upgrade report.
 ## Configure
 
 Migrate custom modules.
