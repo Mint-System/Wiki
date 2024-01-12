@@ -25,7 +25,7 @@ Prepare repo for migration.
 ```bash
 cd ~/Odoo-Build
 task checkout $ODOO_TARGET_VERSION
-git submodule add -f -b $ODOO_CURRENT_VERSION git@github.com:OCA/$REPO.git oca/$REPO
+git submodule add -f -b $ODOO_TARGET_VERSION git@github.com:OCA/$REPO.git oca/$REPO
 ```
 
 Activate venv and navigate into the repo.
