@@ -49,8 +49,6 @@ task clear-filestore $DATABASE
 odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
 
-Login and check the Odoo log.
-
 Remove [[Unsupported Modules]].
 
 ```bash
