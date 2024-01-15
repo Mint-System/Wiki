@@ -3,6 +3,5 @@ tags:
 - Asset
 ---
 # Finanzen
-Typ: [[Bereich]]
 
-Siehe [[Prozesse Finanzen]]
+Siehe [[Prozesse Finanzen]].

@@ -3,7 +3,6 @@ tags:
 - Asset
 ---
 # Unternehmensentwicklung
-Typ: [[Bereich]]
 
 Themen:
 
@@ -18,3 +17,6 @@ Themen:
 * [[Subunternehmen]]
 * [[Strategie]]
 * [[Kollaboration]]
+* [[Personal]]
+* [[Finanzen]]
+* [[Development]]
