@@ -29,7 +29,7 @@ git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Pull docker image
-DIGEST=sha256:24d7463086e88729f4a978e622cb483048609d236ace6e2ee7e8feea31e27dbb
+DIGEST=odoo@sha256:24d7463086e88729f4a978e622cb483048609d236ace6e2ee7e8feea31e27dbb
 docker pull "$DIGEST"
 IMAGE_ID=$(docker image inspect "$DIGEST" --format "{{ .ID }}")
 
