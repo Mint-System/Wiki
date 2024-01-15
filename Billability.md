@@ -19,6 +19,6 @@ In the best case the employee can work fulltime on a project and build knowledge
 
 If the employees already has knowledge about Odoo and other systems used at Mint System, the knowledge can be sold directly. However, it is not expected that new employees have any knowledge about the systems in place.
 
-**Resource Allocation**
+**Ressource Allocation**
 
 Making a good match of the employee skills and project task is the main goal. Doing so is a challenge. We think that employees perform best if their abilities match the requirements of the task. 
