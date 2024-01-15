@@ -62,6 +62,7 @@ Kosten pro Jahr: 1920 CHF\
 ## Allgemeine Geschäftsbedingungen
 
 Es gelten diese allgemeinen Geschäftsbedingungen:
+
 * Die Vertragslaufzeit gilt für ein Kalenderjahr.
-* Falls er nicht bis im September gekündigt wird, verlängert er sich jeweils um ein Jahr.
+* Falls der Supportvertrag nicht bis September gekündigt wird, verlängert er sich jeweils um ein Jahr.
 * Das monatliche Guthaben für Supportstunden kann nicht kumuliert werden.
