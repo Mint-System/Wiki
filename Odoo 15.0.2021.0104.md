@@ -2,20 +2,20 @@
 tags:
 - Asset
 ---
-# Odoo 15.0.2024.0111
+# Odoo 15.0.2024.0104
 
 ```bash
-ODOO_REVISION=15.0.2024.0111
+ODOO_REVISION=15.0.2024.0104
 
 # Checkout odoo repo
-cd odoo && git checkout 02d5c04e85e0bc1b9c0edf66969066ba4f2d769c
+cd odoo && git checkout 8a18b82a29b73af03b1132d715dd320baa59f9c6
 
 # Create tag on the odoo repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
 ..
 
 # Checkout enterprise repo
-cd enterprise && git checkout 02d5c04e85e0bc1b9c0edf66969066ba4f2d769c
+cd enterprise && git checkout e69b23155813ecf7ce416215cf160b04f33f4d0f 
 
 # Create tag on the enterprise repo
 git tag -a $ODOO_REVISION -m "$ODOO_REVISION"
