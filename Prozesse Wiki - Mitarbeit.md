@@ -56,4 +56,4 @@ Aktuell ist die Knowledge-Base nur in Deutsch verfügbar.
 
 Erstellt man eine Übersetzung eines ganzen Artikels, so verlinkt man diesen unterhalb des Titel `Übersetzung: [[Policy Project Management]]` und fügt im übersetzten Artikel den tag `lang: en` ein.
 
-Ein Beispiel ist [[Richtlinie - Projektmanagement]].
+Ein Beispiel ist [[Richtlinie - Projektdaten]].

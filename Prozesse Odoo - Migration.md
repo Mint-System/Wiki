@@ -4,6 +4,16 @@ tags:
 ---
 # Prozesse Odoo: Migration
 
+## Odoo Submodule Branch initialisieren
+
+Arbeitsschritte:
+* Navigation in das Submodule `cd addons/$REPO`
+* Neuer Branch erstellen `git switch --orphan $BRANCH`
+* Alle Dateien ausser `README.md` entfernen
+* Alle Lint-Dateien kopieren `cp template/$BRANCH/.* addons/$REPO/`
+* Änderungen committen `git add .; git commit -m "init $BRANCH branch; git push --set-upstream origin $BRANCH"`
+* Submodule auf Odoo Build hinzufügen `git submodule add -f -b 17.0 git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO`
+* Änderungen auf Odoo Build committen
 ## Odoo Modul migrieren
 
 Arbeitsschritte:

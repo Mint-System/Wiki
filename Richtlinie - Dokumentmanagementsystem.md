@@ -42,7 +42,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Partner                                   | Dokumente zu unseren Partner                                                                                       |
 | Personal                                  | Verträge und Abrechnungen                                                                                          |
 | Produkte                                  | Dokumente zu den Mint System Produkten                                                                             |
-| Projekte/[Name]                           | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.                                          |
+| Projekte/[Name]                           | Die Projektablage ist unter [[Richtlinie - Projektdaten]] definiert.                                          |
 | Public Relations                          | Zeitungsartikel und allgemeine PR                                                                                  |
 | Recruiting/[YYYY]-[MM] [Name]             | Berwebungsunterlagen soritert nach Jahr und Monat.                                                                 |
 | Rechnungen/([YYYY]/[MM MONAT],[MM MONAT]) | Rechnung von Lieferanten gruppiert nach Rechnungsdatum                                                             |

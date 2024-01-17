@@ -12,11 +12,11 @@ Die folgenden Projektphasen sind definiert.
 
 ### Verrechenbar
 
-* **Odoo Implementierung (OI)** - Implementation von Odoo-Funktionen [[Emoji#🔴]]
 * **Projektleitung (PL)** - Allgemeine Projektleitung [[Emoji#🔴]]
+* **Geschäftsanalyse (GA)** - Abwicklung von Beratungsprojekten [[Emoji#🔴]]
+* **Odoo Implementierung (OI)** - Implementation von Odoo-Funktionen [[Emoji#🔴]]
 * **Softwareentwicklung (SE)** - Implementation von Geschäftsapplikationen [[Emoji#🔴]]
 * **System Engineering (SN)** - Konfiguration Betriebssystem und Applikationen [[Emoji#🔴]]
-* **Geschäftsanalyse (GA)** - Abwicklung von Beratungsprojekten [[Emoji#🔴]]
 * **Technischer Support (TS)** - Support und ad-hoc Instruktionen [[Emoji#🔴]]
 * **Odoo Entwicklung (OE)** - Entwicklungvon Odoo Apps [[Emoji#🔴]]
 
@@ -24,9 +24,6 @@ Die folgenden Projektphasen sind definiert.
 
 * **Projektadministration (PA)** - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts [[Emoji#🟢]]
 * **Know-how (KH)** - Erarbeiten Basiswissen zur Beratung von Kunden [[Emoji#🔵]]
-* **Arbeitspkaket (AP)** - Aufgabenbündel mit Nummer N [[Emoji#🟡]]
-* **Support (SP)** - Aufgabe für Aufwände gemäss Supportvertrag [[Emoji#🟢]]
-
 ## Aufgabenstatus festlegen
 
 Jede Projektaufgabe durchläuft die folgenden Stufen:
