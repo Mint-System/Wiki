@@ -24,3 +24,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Odoo Snippet]]
 * [[Richtlinie - Obsidian]]
 * [[Richtlinie - Datenschutz]]
+* [[Richtlinie - Arbeitszeit]]

@@ -4,19 +4,20 @@ tags:
 ---
 # Richtlinie - Softwareentwicklung
 
-## Bennenung Git Branches
+## Versionierung
 
-Das Git-Branching-Model sieht folgende Bennung vor:
+Wir orientieren uns bei der Versionierung von Software an [[Semantic Versioning]].
+## Git Commits Messages
+
+Wir orientieren uns bei der Erstellung von Commit Messages an [[Conventional Commits]].
+## Git Branches
+
+Das Git-Branching-Model sieht folgende Benennung vor:
 
 `main`: Produktiver branch\
 `int`: Integraton und Staging\
 `dev`: Entwicklung
-
-## Arbeitszeiten ungestört
-
-Softwareentwicklung erfordert hohe Konzentration. Störungen bei der Arbeit sind sehr teuer. Softwareentwicklerinnen sollen jeweils am Vormittag ungestört bleiben.
-
-## Commit Messages
+## Commit Messages Odoo
 
 Write a helpful commit message
 
