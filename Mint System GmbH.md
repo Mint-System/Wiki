@@ -17,7 +17,11 @@ UID: CHE-150.248.608
 
 * [[Janik von Rotz]]
 * [[Kurt Gisler]]
-* [[Laszlo Krajnikovszkij ]]
+* [[Laszlo Krajnikovszkij]]
+
+### Ehemalige
+
+* [[Marco Roeleven]]
 
 ## Zahlungsinformationen
 

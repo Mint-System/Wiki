@@ -4,7 +4,7 @@ tags:
 ---
 # Janik von Rotz
 
-Verantwortlich: [[Infrastruktur]], [[Development]]  
+Verantwortlich: [[Infrastruktur]], [[Development]], [[Finanzen]]
 
 Benutzername: `janikvonrotz`\
 Alias: `jvr`\
