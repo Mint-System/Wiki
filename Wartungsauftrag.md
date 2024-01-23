@@ -6,7 +6,7 @@ tags:
 
 Der Wartungsauftrag ist eine Kombination aus verschiedenen Hosting-Lösungen.
 
-## Leistung
+## Leistungen
 
 Die folgende Grafik gibt eine Übersicht über die Leistungen im Rahmen des [[ITIL - Service Catalogue Management]]:
 
@@ -14,7 +14,10 @@ Die folgende Grafik gibt eine Übersicht über die Leistungen im Rahmen des [[IT
 
 ![[Servicebeschreibung.canvas|Servicebeschreibung]]
 
+### Servicebeschreibungen
+
 Für jedes Hosting gibt es eine Servicebeschreibung:
+
 * [[Odoo Hosting#Servicebeschreibung]]
 * [[Keycloak Hosting#Servicebeschreibung]]
 * [[Moodle Hosting#Servicebeschreibung]]
