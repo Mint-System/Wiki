@@ -4,7 +4,7 @@ tags:
 ---
 # Nextcloud Hosting
 
-Die Nextcloud-Anwendung kann auf einem bliebigen Server installiert werden.
+[[Nextcloud]] ist eine Open-Source-Plattform für die Zusammenarbeit und den Dateiaustausch. Sie ermöglicht es Benutzern, ihre eigenen Cloud-Speicherdienste zu betreiben, um Dateien zu speichern, zu teilen, zu synchronisieren und auf sie zuzugreifen.
 
 ## Servicebeschreibung
 
