@@ -12,7 +12,7 @@ Die folgende Grafik gibt eine Übersicht über die Leistungen im Rahmen des [[IT
 
 ![[Managed Server.canvas|Managed Server]]
 
-![[Servicebeschreibung.canvas|Service Maintenance]]
+![[Servicebeschreibung.canvas|Servicebeschreibung]]
 
 Für jedes Hosting gibt es eine Servicebeschreibung:
 * [[Odoo Hosting#Servicebeschreibung]]
