@@ -12,8 +12,16 @@ Die folgende Grafik gibt eine Übersicht über die Leistungen im Rahmen des [[IT
 
 ![[Managed Server.canvas|Managed Server]]
 
-![[Service Maintenance.canvas|Service Maintenance]]
+![[Servicebeschreibung.canvas|Service Maintenance]]
 
+Für jedes Hosting gibt es eine Servicebeschreibung:
+* [[Odoo Hosting#Servicebeschreibung]]
+* [[Keycloak Hosting#Servicebeschreibung]]
+* [[Moodle Hosting#Servicebeschreibung]]
+* [[Matomo Hosting#Servicebeschreibung]]
+* [[Wordpress Hosting#Servicebeschreibung]]
+* [[Nextcloud Hosting#Servicebeschreibung]]
+* [[Jenkins Hosting#Servicebeschreibung]]
 ## Intervalle
 
 Die Intervalle aus dem Leistungsbeschrieb definieren sich wie folgt:

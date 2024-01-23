@@ -6,4 +6,4 @@ tags:
 
 Website: <https://moodle.org/>
 
-[[Moodle Hosting]]\
+[[Moodle Hosting]]

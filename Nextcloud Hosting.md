@@ -3,8 +3,18 @@ tags:
 - Asset
 ---
 # Nextcloud Hosting
+
 Die Nextcloud-Anwendung kann auf einem bliebigen Server installiert werden.
 
+## Servicebeschreibung
+
+Die Wartung des Services beinhaltet diese Leistungen:
+
+| Laufend                    | Geplant                    | Ungeplant                   |
+| -------------------------- | -------------------------- | --------------------------- |
+| Tägliche Backups ausführen | Docker Image aktualisieren | Sicherheitspatches anwenden |
+|                            | Datenbank upraden          |                             |
+|                            | Apps aktualisieren                           |                             |
 ## Vorteile
 
 **Updates**
