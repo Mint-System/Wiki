@@ -6,7 +6,7 @@ tags:
 
 Beschreibt die Verantwortung des Kunden und Mint System für bestimmte Aufgaben im Rahmen des [[Wartungsauftrag]].
 
-## Odoo Hosting
+## [[Odoo Hosting]]
 
 ### Docker Image aktualisieren
 
@@ -23,7 +23,7 @@ Ein Datenbank-Upgrade ist ein iterativer Prozess und erfordert eine enge Zusamme
 ## Sicherheitspatches anwenden
 
 Wenn Odoo S.A. eine Sicherheitsmeldung (Security Advisory) mit einem Patch veröffentlicht, wird dieser Patch so schnell wie möglich von Mint System angewendet. Konkret werden gepatchte Docker Images auf betroffenen Umgebungen ausserplanmässig installiert.  
-## Jenkins Hosting
+## [[Jenkins Hosting]]
 
 ### Probleme Build Pipelines lösen
 
