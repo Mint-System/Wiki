@@ -4,7 +4,7 @@ tags:
 ---
 # Maintained Odoo Apps
 
-Das sind Odoo Apps für die ein [[Odoo Maintenance]]-Vertrag erstellt werden muss.
+Das sind Odoo Apps für die ein [[Odoo Wartung]]-Vertrag erstellt werden muss.
 
 ## Apps
 

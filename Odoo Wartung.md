@@ -2,7 +2,7 @@
 tags:
 - Definition
 ---
-# Odoo Maintenance
+# Odoo Wartung
 
 Als Odoo-Hoster fallen unabhänig von der Hosting-Lösung Kosten für den Unterhalt der Odoo-Module an.
 

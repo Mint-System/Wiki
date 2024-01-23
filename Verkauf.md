@@ -1,0 +1,7 @@
+---
+tags:
+- Definition
+---
+# Verkauf
+
+[[Angebot]]

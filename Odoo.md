@@ -56,7 +56,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Enterprise Upgrade]]
 * [[Odoo Update]]
 * [[Odoo Eigenentwicklung]]
-* [[Odoo Maintenance]]
+* [[Odoo Wartung]]
 * [[Odoo Berichtsvorlagen entwickeln]]
 * [[Odoo Schulung]]
 
@@ -74,3 +74,4 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Marketing]]
 * [[Odoo Dienstleistungen]]
 * [[Odoo Devleopment Guidelines]]
+* [[Maintained Odoo Apps]]
