@@ -48,7 +48,7 @@ task drop-db $DATABASE
 task clear-filestore $DATABASE
 odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
-]
+
 Remove [[Unsupported Modules]].
 
 ```bash
@@ -118,3 +118,5 @@ odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 ```
 
 Deploy the upgraded database.
+
+## Troubleshooting
