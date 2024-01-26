@@ -5,12 +5,11 @@ tags:
 # Odoo Update
 
 Notizen zum Update von Odoo.
-
 ## Vorgang
 
 Im Grunde ist die Aktualisierung von Odoo in den Minor Versions trivial. Einfach Docker Image und Git Repository aktualisieren.
 
-Je nach dem wieviel in den Modulen geändert wurden, müssen diese aktualisiert werden oder der Assets-Cache geleehrt werden.
+Je nach dem wie viel in den Modulen geändert wurden, müssen diese aktualisiert werden oder der Assets-Cache geleert werden.
 
 ### Module aktualisieren
 

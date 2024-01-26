@@ -18,7 +18,7 @@ Mint System stellt sicher, dass Odoo Apps (Community und Enterprise) auf die Odo
 Der Kunde aktualisiert und testet Apps von Dritten in der Testumgebung und nimmt die Aktualisierung in der Produktion selbständig vor.
 ### Datenbank upgraden
 
-Ein Datenbank-Upgrade ist ein iterativer Prozess und erfordert eine enge Zusammenarbeit zwischen Kunden und Mint System. Der Upgrade-Prozess ist unter [[Odoo Enterprise Upgrade]] und [[Odoo Community Upgrade]] beschrieben.
+Ein Datenbank-Upgrade ist ein iterativer Prozess und erfordert eine enge Zusammenarbeit zwischen Kunden und Mint System. Der Upgrade-Prozess ist unter [[Odoo Upgrade]] beschrieben.
 
 ## Sicherheitspatches anwenden
 

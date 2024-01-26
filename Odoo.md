@@ -45,23 +45,20 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Longpolling]]
 * [[Odoo Sicherheit]]
 * [[Odoo Upgrade]]
+## Entwicklung
 
-## Customization
-
+* [[Odoo Enterprise Upgrade]]
+* [[Odoo Community Upgrade]]
+* [[Odoo Eigenentwicklung]]
+* [[Odoo Berichtsvorlagen entwickeln]]
 * [[Odoo Widgets]]
 * [[Odoo Reports]]
 
-## Prozesse
-
-* [[Odoo Enterprise Upgrade]]
-* [[Odoo Update]]
-* [[Odoo Eigenentwicklung]]
-* [[Odoo Wartung]]
-* [[Odoo Berichtsvorlagen entwickeln]]
-* [[Odoo Schulung]]
-
 ## Meta
 
+* [[Odoo Schulung]]
+* [[Odoo Wartung]]
+* [[Odoo Update]]
 * [[Odoo Painpoints]]
 * [[Odoo Troubleshooting]]
 * [[Fragen zu Odoo]]
