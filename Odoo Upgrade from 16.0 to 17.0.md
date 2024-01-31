@@ -97,7 +97,9 @@ task install-module $NEW_DATABASE ...
 
 Make new Odoo configurations.
 
-Update selected snippets.
+Update the language packages.
+
+Update or remove selected snippets.
 ## Verify
 
 Test the upgraded system.
