@@ -4,7 +4,6 @@ tags:
 ---
 # Odoo Troubleshooting
 
-
 ## Client
 
 ### Odoo client error
