@@ -49,15 +49,10 @@ task clear-filestore $DATABASE
 odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 ```
 
-Remove [[Unsupported Modules]].
+Remove or replace [[Unsupported Modules]].
 
 ```bash
 task remove-module $DATABASE ...
-```
-
-Update modules.
-
-```bash
 task install-module $DATABASE ...
 ```
 
@@ -78,6 +73,12 @@ Checkout target Odoo environment.
 task checkout $ODOO_TARGET_VERSION
 ```
 
+Upgrade all modules.
+
+```bash
+task update-module $NEW_DATABASE base
+```
+
 Clear the browser cache and Odoo assets, then start the server.
 
 ```bash
@@ -88,15 +89,11 @@ task start native
 Login and check the Upgrade report.
 ## Configure
 
-Migrate custom modules.
-
 Install new modules.
 
 ```bash
 task install-module $NEW_DATABASE ...
 ```
-
-Reset selected views.
 
 Make new Odoo configurations.
 
@@ -118,6 +115,8 @@ odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 ```
 
 Deploy the upgraded database.
+
+Restore the upgraded database. 
 
 ## Troubleshooting
 
