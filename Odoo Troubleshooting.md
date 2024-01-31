@@ -7,7 +7,7 @@ tags:
 
 ## Client
 
-### Odoo lcient error
+### Odoo client error
 
 **Problem**
 
