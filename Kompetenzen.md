@@ -4,7 +4,7 @@ tags:
 ---
 # Kompetenzen
 
-Kompetenzen der Mint System GmbH und die dazugehörigen Leistungen.
+Kompetenzen der Mint System GmbH und die dazugehörigen Dienstleistungen.
 
 Zur Aufstellung gehört die Übersicht der [[Abos und Preise]].
 
