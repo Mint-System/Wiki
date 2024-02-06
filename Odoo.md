@@ -73,3 +73,4 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Devleopment Guidelines]]
 * [[Maintained Odoo Apps]]
 * [[Odoo Finanzen Treuhänder]]
+* [[Odoo Perfomance]]
