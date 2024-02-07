@@ -4,7 +4,7 @@ tags:
 ---
 # Odoo Wartung
 
-Als Odoo-Hoster fallen unabhänig von der Hosting-Lösung Kosten für den Unterhalt der Odoo-Module an.
+Als Odoo-Hoster fallen unabhängig von der Hosting-Lösung Kosten für den Unterhalt der Odoo-Module an.
 
 Odoo-Module werden laufend weiterentwickelt und müssen immer auf dem neusten Stand sein. In diesem Prozess werden neue Funktionen eingebaut, aber auch ausgebaut. Es können neue Abhängigkeiten unter den Modulen entstehen und so auch verloren gehen. Die Entwicklung der Module wird von unterschiedlichen Parteien vorangetrieben. Allen Voran ist [[Odoo S.A.]] mit den Enterprise-Modulen.
 
