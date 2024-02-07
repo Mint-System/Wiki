@@ -22,4 +22,3 @@ Siehe [[Odoo Community Upgrade]], [[Odoo Enterprise Upgrade]], [[Odoo Troublesho
 | Freigabe produktives Upgrade      | Kunde               | Kunde erteilt Freigabe für produktives Upgrade.                                                        |
 | Produktives Upgrade durchführen   | Mint System         | Gemäss Kundenspezifischer Upgrade-Dokumentation das produktive Upgrade durchführen.                    |
 | Produktives Upgrade verifizieren  | Kunde                    | Produktives Upgrade verfizieren.                                                                                                       |
-
