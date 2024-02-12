@@ -12,5 +12,6 @@ Die Wartung des Services beinhaltet diese Leistungen:
 
 | Laufend | Geplant | Ungeplant |
 | ---- | ---- | ---- |
-| Tägliche Backups ausführen | Docker Image aktualisieren |  Datenbank upgraden |
-|  |  | Sicherheitspatches anwenden |
+| Tägliche Backups ausführen | Docker Image aktualisieren | Datenbank upgraden |
+|  | Wordpresss Aktualisierung ausführen | Sicherheitspatches anwenden |
+

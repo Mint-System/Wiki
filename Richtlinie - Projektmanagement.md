@@ -2,7 +2,7 @@
 tags:
 - Richtlinien
 ---
-# Richtlinie - Projektdaten
+# Richtlinie - Projektmanagement
 Übersetzung: [[Policy Project Management]]
 
 Die Umsetzung von Projekten unterliegt bestimmten Richlinien.

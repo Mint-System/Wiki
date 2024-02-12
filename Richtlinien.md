@@ -3,6 +3,7 @@ tags:
 - Richtlinien
 ---
 # Richtlinien
+
 Richtlinien der Mint System.
 
 * [[Richtlinie - Code Sharing]]  
@@ -13,7 +14,7 @@ Richtlinien der Mint System.
 * [[Richtlinie - E-Mail]]  
 * [[Richtlinie - Website]]  
 * [[Richtlinie - Spesenreglement]]  
-* [[Richtlinie - Projektdaten]]
+* [[Richtlinie - Projektmanagement]]
 * [[Richtlinie - Kollaboration]]
 * [[Richtlinie - Softwareentwicklung]]
 * [[Richtlinie - Odoo Modulentwicklung]]
