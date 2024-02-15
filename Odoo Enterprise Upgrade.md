@@ -5,7 +5,7 @@ tags:
 ---
 # Odoo Enterprise Upgrade
 
-Description of the [[Odoo Enterprise Edition]] upgrade process. For [[Odoo Community Edition]] there is the [[Odoo Community Upgrade]] project.
+Description of the [[Odoo Enterprise Edition]] upgrade process.
 
 With every major upgrade a new documentation is created: 
 ## [[Odoo Upgrade from 13.0 to 14.0]]

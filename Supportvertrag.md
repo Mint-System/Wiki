@@ -6,7 +6,7 @@ tags:
 ![[support-banner.jpg]]
 
 # Supportvertrag
-Version: 2024-01-01
+Revision: 2024-01-01
 
 Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt bei Fragen und Problemen zu Odoo. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Odoo Expertenwissen.
 

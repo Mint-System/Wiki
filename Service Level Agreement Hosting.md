@@ -5,7 +5,7 @@ tags:
 ![[Banner Hosting SLA.png]]
 
 # Service Level Agreement Hosting
-Version: 2024-01-04
+Revision: 2024-01-04
 
 Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten die folgenden Garantien:
 ## Verfügbarkeit
