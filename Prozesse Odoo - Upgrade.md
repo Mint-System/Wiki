@@ -37,8 +37,9 @@ Arbeitsschritte:
 ## Odoo.sh Upgrade durchführen
 
 Arbeitssschritte:
-* In Odoo.sh Projekt einen leeren Staging-Branch für das Upgrade erstellen
+* In Odoo.sh git Repository einen leeren Staging-Branch für das Upgrade erstellen
 	* `git switch int`
 	* `git switch -c --orphan 16.0-upgrade`
-* Branch in Odoo.sh auswählen, im Tab *Upgrade* die Zielversion wählen und das Upgrade aktivieren
+* Branch in Odoo.sh in den Staging -Bereich verschieben
+* Im Tab *Upgrade* die Zielversion wählen und das Upgrade aktivieren
 * Auf dem Branch die migrierten Odoo Module einchecken oder die entsprechenden Submodule auschecken

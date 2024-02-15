@@ -6,7 +6,7 @@ tags:
 
 Ein Odoo Upgrade ist ein iterativer Prozess. Im ersten Schritt des Upgrade-Prozess wird die Odoo-Umgebung in der Entwicklungsumgebung bereitgestellt und mit den Upgrade-Skripten von Odoo S.A. aktualisiert. Module von Dritten werden migriert, ersetzt oder entfernt. Abhängig von der Odoo Version werden Einstellungen und Anpassungen aktiviert oder deaktiviert. Die aktualisierte Odoo Datenbank wird in der Testumgebung des Kunden bereitgestellt und gemeinsam mit dem Kunden getestet. Fehler und Feedbacks werden im Upgrade-Drehbuch festgehalten und mit dem Odoo Support koordiniert. Der Upgrade-Prozess wird nach Bedarf wiederholt bis eine Freigabe erfolgt. Wurde die Testumgebung freigegeben, kann das produktive Upgrade gemäss Drehbuch per Stichtag durchgeführt werden.
 
-Siehe [[Odoo Community Upgrade]], [[Odoo Enterprise Upgrade]], [[Odoo Troubleshooting]].
+Siehe [[Odoo Community Upgrade]], [[Odoo Enterprise Upgrade]], [[Odoo.sh Upgrade]], [[Odoo Troubleshooting]]
 
 ## Prozessbeschreibung
 
