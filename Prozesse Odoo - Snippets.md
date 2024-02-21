@@ -10,7 +10,7 @@ Arbeitsschritte:
 * Parent-Ansicht aufrufen
 * Ein neuen Eintrag für eine vererbte Ansicht erstellen
 * Name mit `mint_system.` und Snippet-Dateiname ohne `.xml`-Endung einfügen
-* Als Sequence `50` eintragn
+* Als Sequence `50` eintragen
 * Unter Architektur den Snippet-Inhalt einfügen
 * Vererbte Ansicht und Parent-Ansicht speichern
 
