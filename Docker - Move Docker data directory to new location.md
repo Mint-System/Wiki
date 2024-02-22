@@ -8,7 +8,7 @@ The standard data directory used for docker is `/var/lib/docker`, and since this
 
 Follow the steps below to move the Docker data directory to a new location. This makes especially sense if you want to avoid running out of disk space on your root partition.
 
-Stop the Docker deamon.
+Stop the Docker daemon.
 
 ```bash
 sudo service docker stop
