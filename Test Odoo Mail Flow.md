@@ -37,6 +37,6 @@ This document explains how to setup the Odoo development environment to test the
 
 ## Notify
 
-* Check the subscriber list in the chatter
-* Make sure that the reply resulted in a notification sent to the subscribers
+* Check the follower list in the chatter
+* Make sure that the reply resulted in a notification sent to the followers
 * The notification message to the author of the `ping` message should result in an error
