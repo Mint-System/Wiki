@@ -11,7 +11,7 @@ This document explains how to setup the Odoo development environment to test the
 * Get access credentials to the external mailbox `test@mint-system.ch`
 * Initialize the Odoo db
 * Activate the external mail servers and set the mail domain to `mint-system.ch`
-* Configure an outgoing and an incoming mail server
+* Configure an outgoing and incoming mail server using the `test@mint-system.ch` credentials
 * Set the catchall alias to `test@mint-system.com`
 
 ## Send
