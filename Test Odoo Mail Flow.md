@@ -8,11 +8,11 @@ tags:
 This document explains how to setup the Odoo development environment to test the Odoo mail communication.
 ## Prepare
 
-* Get access credentials to the external mailbox <test@mint-system.ch>
+* Get access credentials for the external mailbox <test@mint-system.ch>
 * Initialize the Odoo db
-* Activate the external mail servers and set the mail domain to `mint-system.ch`
+* Activate the external mail servers and set mail domain to `mint-system.ch`
 * Configure an outgoing and incoming mail server using the <test@mint-system.ch> credentials
-* Set the catchall alias to `test`
+* Set catchall alias to `test`
 * Set the default sender address to <test@mint-system.ch>
 
 ## Send
@@ -38,4 +38,4 @@ This document explains how to setup the Odoo development environment to test the
 
 * Check the subscriber list in the chatter
 * Make sure that the reply of the private address resulted in a notification
-* Check if the sender of `ping` message has received a notification
+* Check if the sender of the `ping` message has received a notification
