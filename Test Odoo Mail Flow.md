@@ -20,6 +20,7 @@ This document explains how to setup the Odoo development environment to test the
 
 * Go to contacts and create an entry with a private mail address that you have access to, f.g. <contact@janikvonrotz.ch>
 * Use the send message tab to send a message with content `ping`
+* Check the follower list in the chatter
 * You should receive the message as mail in your private mail account
 
 ## Reply
