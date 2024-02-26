@@ -8,16 +8,16 @@ tags:
 This document explains how to setup the Odoo development environment to test the Odoo mail communication.
 ## Prepare
 
-* Get access credentials to the external mailbox `test@mint-system.ch`
+* Get access credentials to the external mailbox <test@mint-system.ch>
 * Initialize the Odoo db
 * Activate the external mail servers and set the mail domain to `mint-system.ch`
-* Configure an outgoing and incoming mail server using the `test@mint-system.ch` credentials
-* Set the catchall alias to `test@mint-system.com`
-* Set the default sender address to `test@mint-system.com`
+* Configure an outgoing and incoming mail server using the <test@mint-system.ch> credentials
+* Set the catchall alias to `test`
+* Set the default sender address to <test@mint-system.ch>
 
 ## Send
 
-* Go to contacts and create an entry with a private mail address that you have access to, f.g. `contact@janikvonrotz.ch`
+* Go to contacts and create an entry with a private mail address that you have access to, f.g. <contact@janikvonrotz.ch>
 * Use the send message tab to send a message with content `ping`
 * You should receive the mail to your private mail account
 
