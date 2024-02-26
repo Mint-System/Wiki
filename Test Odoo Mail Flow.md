@@ -15,7 +15,6 @@ This document explains how to setup the Odoo development environment to test the
 * Set catchall alias to `test`
 * Set the default sender address to <test@mint-system.ch>
 
-
 ## Send
 
 * Go to contacts and create an entry with a private mail address that you have access to, f.g. <contact@janikvonrotz.ch>
