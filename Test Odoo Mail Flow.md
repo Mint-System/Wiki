@@ -20,7 +20,7 @@ This document explains how to setup the Odoo development environment to test the
 
 * Go to contacts and create an entry with a private mail address that you have access to, f.g. <contact@janikvonrotz.ch>
 * Use the send message tab to send a message with content `ping`
-* You should receive the mail to your private mail account
+* You should receive the message as mail in your private mail account
 
 ## Reply
 
@@ -31,12 +31,12 @@ This document explains how to setup the Odoo development environment to test the
 ## Fetch
 
 * Go to the incoming mail server in Odoo
-* Force the fetching and processing of mails in the mailbox
+* Force the fetching and processing of mails from the mailbox
 * Open the contact with the private address
 * Check if the mail reply is in the chatter
 
 ## Notify
 
 * Check the subscriber list in the chatter
-* Make sure that the reply of the private address resulted in a notification
-* Check if the sender of the `ping` message has received a notification
+* Make sure that the reply resulted in a notification sent to the subscribers
+* The notification message to the author of the `ping` message should result in an error
