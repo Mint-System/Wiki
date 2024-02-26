@@ -9,8 +9,8 @@ Prozesse zur Personalabrechung der Mint System.
 
 Zur korrekten Abrechnung müssen die folgenden Konten vorhanden sein:
 
-|      |                           |                                |     |
-|------|---------------------------|--------------------------------|-----|
+| Code | Bezeichnung               | Typ                               | Währung    |
+| ---- | ------------------------- | ------------------------------ | --- |
 | 2270 | AHV/ALV (Ausgleichskasse) | Kurzfristige Verbindlichkeiten | CHF |
 | 2271 | UVG (Mobiliar)            | Kurzfristige Verbindlichkeiten | CHF |
 | 2272 | KTG (Mobiliar)            | Kurzfristige Verbindlichkeiten | CHF |
@@ -37,7 +37,7 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Navigieren nach *Personalabrechnung  > Arbeitseinträge > Arbeitseinträge*
 * Lohnabrechnung erzeugen
-* Navigieren mit Smart-Link *X Payslips* und einzelnPayslip auswählen
+* Navigieren mit Smart-Link *X Payslips* und einzelne Payslip auswählen
 	* Lohnstruktur anpassen
 	* Spesen eintragen
 * In Batch auf *Create Draft Entry* drücken
