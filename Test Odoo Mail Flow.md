@@ -13,6 +13,7 @@ This document explains how to setup the Odoo development environment to test the
 * Activate the external mail servers and set the mail domain to `mint-system.ch`
 * Configure an outgoing and incoming mail server using the `test@mint-system.ch` credentials
 * Set the catchall alias to `test@mint-system.com`
+* Set the default sender address to `test@mint-system.com`
 
 ## Send
 
