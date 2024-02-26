@@ -34,7 +34,7 @@ This document explains how to setup the Odoo development environment to test the
 * Open the contact with the private address
 * Check if the mail reply is in the chatter
 
-## Notification
+## Notify
 
 * Check the subscriber list in the chatter
 * Make sure that the reply of the private address resulted in a notification
