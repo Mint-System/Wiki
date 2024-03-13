@@ -12,3 +12,4 @@ Hilfestellung für Kommandozeilenbefehle.
 * [[man docker]]
 * [[man gpg]]
 * [[man ripgrep]]
+* [[man netcat]]
