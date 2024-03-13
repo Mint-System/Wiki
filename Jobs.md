@@ -15,7 +15,6 @@ Stellen werden hier ausgeschrieben:
 [[Support Engineer]]\
 [[Open Source Expert]]
 
-
 ## Anforderungen, Aufgaben, Kompetenzen
 
 [[Stellenprofile]]

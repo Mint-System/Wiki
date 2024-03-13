@@ -26,3 +26,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Obsidian]]
 * [[Richtlinie - Datenschutz]]
 * [[Richtlinie - Arbeitszeit]]
+* [[Richtlinien - Zeiterfassung]]
