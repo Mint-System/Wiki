@@ -43,6 +43,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Matrix | [[Matrix]]-Server bei ungleich.ch | `matrix.mint-system.com` | Ungleich |
 | Metis | Zgraggen Agro GmbH | `metis.mint-system.com` | Hetzner |
 | Momus | Server Swiss Fragrance GmbH | `momus.mint-system.com` | Hetzner |
+| Moros | Nextcloud Kantonale Mittelschule Uri | `46.245.147.246` | Off-Premise |
 | Nyx | Server Arnold Umzüge AG | `nyx.mint-system.com` | Hetzner |
 | Poseidon | Server Basis57 | `poseidon.mint-system.com` | ExoScale |
 | Rhea | Server Ludoland | `rhea` | Off-Premise |
