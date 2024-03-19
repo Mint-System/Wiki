@@ -30,7 +30,7 @@ We don't want to manage hardware. We use these providers:
 
 * Hetzner
 * Exoscale
-* Informaniak
+* Infomaniak
 * Ungleich
 
 And service partners.
