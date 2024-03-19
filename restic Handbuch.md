@@ -2,11 +2,11 @@
 tags:
 - HowTo
 ---
-# Restic Handbuch
+# restic Handbuch
 
 ## Repo auf Server öffnen
 
-Um ein Restic Repo auf dem Restic Server öffnen, setzen Sie diese Umgebungsvariablen.
+Um ein restic Repo auf dem restic Server öffnen, setzen Sie diese Umgebungsvariablen.
 
 ```bash
 export RESTIC_PASSWORD=

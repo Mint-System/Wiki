@@ -6,4 +6,4 @@ tags:
 
 Website: <https://restic.net/>
 
-[[Restic Handbuch]]
+[[restic Handbuch]]
