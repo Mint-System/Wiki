@@ -12,16 +12,16 @@ A short introduction into the infrastructure of Mint System.
 Early on we wanted to be able to self-host web application.
 
 ERP-Systems are operating system for companies
-* They have to be hosted reliable
+* They have to be hosted reliably
 * Companies want know where their data is
 
 Infrastructure as Code:
 * Every system / server can be rebuilt from code
 * The deployment of configuration must be automated
 
-Applications are run as Docker containers:
+Run apps with Docker containers:
 * Manage containers not apps
-* Every decent web app provides containers
+* Every decent web app provides Docker images
 
 ---
 ### Hardware
@@ -40,22 +40,20 @@ And service partners.
 
 Everything is done with Ansible.
 
-> There is a role for this: https://ansible.build/#roles
+> There is a role for that: https://ansible.build/#roles
 
-With Ansible we:
 * Install and configure the OS
 * Manage firewalls and access rights
 * Deploy Docker containers
 * Manage backups and cron jobs
 * Build wireguard networks
-* ...
 
 ---
 ### Scripts
 
 For things that cannot be automated there are scripts: https://ansible.build/scripts.html
 
-Ansible roles rely on these helper scripts. Helper scripts work independent of ansible.
+Ansible roles rely on these helper scripts. Helper scripts work independent of Ansible.
 
 ---
 ### Monitoring
@@ -96,9 +94,13 @@ It is possible to manage all Keycloak config in Ansible.
 ---
 ### Security
 
+We try to apply best practices:
+
 * Update our applications / Docker images
 * Linux server patching
 * Basics: fail2ban, ssh pubkey, named users
+
+Nginx WAF with OWASP has been tried. It was too much effort to train.
 
 ---
 ### Challenges
