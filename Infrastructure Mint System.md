@@ -38,15 +38,23 @@ And service partners.
 ---
 ### Ansible
 
-Everything is done with Ansible.
-
-> There is a role for that: https://ansible.build/#roles
+Everything is done with Ansible. There is a role for that: https://ansible.build/#roles
 
 * Install and configure the OS
 * Manage firewalls and access rights
 * Deploy Docker containers
 * Manage backups and cron jobs
-* Build wireguard networks
+* Build Wireguard networks
+
+---
+
+### Hosting
+
+We provide a managed server service.
+
+Every customer has a server. No shared environments.
+
+Every application is a hosting offer.
 
 ---
 ### Scripts
