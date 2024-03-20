@@ -31,6 +31,8 @@ In gegenseitiger Absprache erfolgt die Auftragserteilung schriftlich entweder du
 Pflichten des Kunden:
 Der Kunde unterstützt den Auftragnehmer bei der Erbringung der vereinbarten Leistungen, im Wesentlichen durch Einhaltung der festgesetzten Termine, durch Zurverfügungstellung aller erforderlichen Informationen sowie Festlegung einer Single-Point-of-Contact (SPoC).
 
+Vertraulichkeit:  
+Informationen wie Firmen-und Personendaten, die vom Kunden zur Erbringung der Leistungen zur Verfügung gestellt werden, werden vom Auftragnehmer absolut vertraulich behandelt.
 ### Wartung und Support
 
 Kosten Wartung und Support:

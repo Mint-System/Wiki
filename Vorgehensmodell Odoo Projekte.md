@@ -44,7 +44,7 @@ Seine Rolle besteht darin, die Entscheidungsträger auf dem Laufenden zu halten 
 
 Im Gegensatz zum Projektleiter arbeitet der Projektdirektor nicht Vollzeit an einem Projekt, aber er überblickt es von Anfang bis Ende. Bei kleineren Projekten wird diese Rolle in der Regel direkt vom Projektleiter übernommen.
 
-### App-Experte (Mint System)
+### Integratoren (Mint System)
 
 Für speziell komplexe Anwendungen (Finanzen, Lager, Marketing, Fertigung, Website) werden die Personen mit dem grössten Fachwissen als Odoo App-Experten einbezogen.
 

@@ -3,7 +3,8 @@ tags:
 - Asset
 ---
 Mint System GmbH - AGB Entwicklungsprojekt
-=====================================
+===
+Version: 1.18
 
 ## I. Geltung der AGB  
 
