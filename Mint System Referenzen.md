@@ -16,7 +16,7 @@ Ausführliche Präsentation ist in [[Mint Sytem Referenzen mit Beschreibungen]] 
 
 **Webauftritte und Webshops**
 
-* [Stiär Biär Onlineshop](https://shop.stiärbiär.ch/), Herr Urs Wagner
+* [Stiär Biär Onlineshop](https://shop.stiärbiär.ch/), Herr Ralph Herger
 
 **Odoo Entwicklungen**
 
