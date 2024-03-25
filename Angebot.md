@@ -3,9 +3,10 @@ tags:
 - Asset
 ---
 # Angebot
-Das Angebot der Mint System.
 
-## Software Know-how
+Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösungen und Produkte.
+
+## Know-how
 
 * [[LibreOffice]]
 * [[Odoo]]
@@ -19,7 +20,7 @@ Das Angebot der Mint System.
 * [[Gitea]]
 * [[Caluma]]
 
-## [[Dienstleistungen]]
+## [[Kompetenzen]]
 
 * [[Workshops]]
 * [[Technischer Support]]
@@ -27,15 +28,19 @@ Das Angebot der Mint System.
 * [[Security Audit]]
 
 ## [[Hosting]]
-* [[Nextcloud Hosting]]  
-* [[Odoo Hosting]]  
+
 * [[Managed Server]]
+* [[Nextcloud Hosting]]
+* [[Odoo Hosting]]
 * [[BigBlueButton Hosting]]
 * [[Mail Hosting]]
 * [[Moodle Hosting]]
 * [[Wordpress Hosting]]
+* [[Matomo Hosting]]
+* [[Keycloak Hosting]]
 
 ## Produkte
 
 * [[Terminal Zeiterfassung]]
-* [[Odoo Maintenance]]
+* [[Odoo Wartung]]
+* [[Wartungsauftrag]]

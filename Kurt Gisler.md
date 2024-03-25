@@ -4,7 +4,7 @@ tags:
 ---
 # Kurt Gisler
 
-Verantwortlich: [[Unternehmensentwicklung]]
+Verantwortlich: [[Unternehmensentwicklung]], [[Personal]], [[Strategie]]
 
 Benutzername: `kurtgisler`\
 Alias: `kgi`\

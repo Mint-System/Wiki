@@ -25,4 +25,4 @@ Die Berechtigungsstrukturen in Odoo sind sehr strikt. Auch wenn ein Unbefugte Zu
 
 **Sicherheitslücken**
 
-Die Odoo Imgebung wird regelmässig aktualisiert. Dadurch werden die grössten  [[OWASP-Sicherheitslücken]] mitigiert. Eine Ausführung dazu gibt es hier: <https://www.odoo.com/de_DE/security#owasp>
+Die Odoo Imgebung wird regelmässig aktualisiert. Dadurch werden die grössten [[OWASP-Sicherheitslücken]] mitigiert. Eine Ausführung dazu gibt es hier: <https://www.odoo.com/de_DE/security#owasp>

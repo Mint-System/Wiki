@@ -52,10 +52,8 @@ Wenn man mit Git direkt auf der Nextcloud-Ablage nutzen möchte, muss man die [[
 
 ## Artikel übersetzen
 
-Aktuell ist die Knowlege-Base nur in Deutsch verfügbar.
+Aktuell ist die Knowledge-Base nur in Deutsch verfügbar.
 
-Möchte man für bestimmte Wörter Übersetzungen anlegen, so erstellt man einen Artikel mit dem gleichen Namen und für eine englische Übersetzung `.en` an.
+Erstellt man eine Übersetzung eines ganzen Artikels, so verlinkt man diesen unterhalb des Titel `Übersetzung: [[Policy Project Management]]` und fügt im übersetzten Artikel den tag `lang: en` ein.
 
-Erstellt man eine Überersetzung eines ganzen Artikels, so fügt man unter dem Titel der Notiz die folgende Definition ein: `Übersetzung: [[Titel.en]]`.
-
-Ein Beispiel dazu ist [[Richtlinie - Projektmanagement]].
+Ein Beispiel ist [[Richtlinie - Projektmanagement]].

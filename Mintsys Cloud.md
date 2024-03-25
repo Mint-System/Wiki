@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+- Assets
 ---
-# [[Mintsys]] Cloud
-Ist ein [[Angebot]] der Mint System.
+# Mintsys Cloud
+
+Ist ein Hosting-[[Angebot]] der Mint System.
+
+Siehe [[Wartungsauftrag]].

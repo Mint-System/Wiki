@@ -11,20 +11,21 @@ Verantwortlich: [[Janik von Rotz]]
 
 * [[Prozesse Infrastruktur - Server bestellen]]
 * [[Prozesse Infrastruktur - Odoo bestellen]]
-* [[Prozesse Infrastruktur - Nextcloud bestellen]][]()
+* [[Prozesse Infrastruktur - Nextcloud bestellen]]
 
 ## Bereitstellung
 
+* [[Prozesse Infrastruktur - DNS-Einträge erstellen]]
 * [[Prozesse Infrastruktur - Server bereitstellen]]
 * [[Prozesse Infrastruktur - Odoo Revision]]
-* [[Prozesse Infrastruktur - DNS-Einträge erstellen]]
 * [[Prozesse Infrastruktur - Installation BigBlueButton]]
 * [[Prozesse Infrastruktur - Installation Moodle]]
 * [[Prozesse Infrastruktur - Installation Odoo]]
 * [[Prozesse Infrastruktur - Installation Nextcloud]]
 * [[Prozesse Infrastruktur - Innernet bereitstellen]]
 * [[Prozesse Infrastruktur - Installation Raspberry Pi]]
-* [[Prozesse Infrasturktur - Odoo entfernen]]
+* [[Prozesse Infrastruktur - Odoo entfernen]]
+* [[Process Infrastructure - Odoo Upgrade]]
 
 ## Verwaltung
 

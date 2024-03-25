@@ -8,10 +8,13 @@ Bereitstellung eines neuen Server.
 ## Server mit Ansible bereitstellen
 
 Arbeitsschritte:
-* Konfiguration im *setup* Inventory erfassen
-* Festlegen Zugriffsberechtigungen
-* Bereitstellung mit `play-setup.yml` Playbook
-* Sicherheitsregeln für Ports prüfen
+* Alias und Hostname in `setup/hosts.yml`  Inventory erfassen
+* Sicherheitsregeln für SSH-Port prüfen
+* Bereitstellung mit `play_setup.yml` Playbook
+* Erstellen Nginx-Konfiguration für Monitoring in `setup/host_vars/$ALIAS.yml`
+* Bereitstellung mit `play_proxy.yml` Playbook
+* Aktualisieren Prometheus-Konfiguration
+* Verifizieren Server erscheint in Monitoring
 
 ## Passwordless Sudo einrichten
 

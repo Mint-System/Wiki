@@ -10,7 +10,7 @@ Wir verwenden [[Zsh]] als Shell.
 
 ## IDE
 
-Als Integrated Development Environment (IDE) verwenden wir [[Emacs]] or [[VSCodium]].
+Als Integrated Development Environment (IDE) verwenden wir  [[Helix]], [[Emacs]] oder [[VSCodium]].
 
 ## Continuous Delivery
 

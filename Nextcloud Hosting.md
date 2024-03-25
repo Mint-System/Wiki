@@ -3,8 +3,18 @@ tags:
 - Asset
 ---
 # Nextcloud Hosting
-Die Nextcloud-Anwendung kann auf einem bliebigen Server installiert werden.
 
+[[Nextcloud]] ist eine Open-Source-Plattform für die Zusammenarbeit und den Dateiaustausch. Sie ermöglicht es Benutzern, ihre eigenen Cloud-Speicherdienste zu betreiben, um Dateien zu speichern, zu teilen, zu synchronisieren und auf sie zuzugreifen.
+
+## Servicebeschreibung
+
+Die Wartung des Services beinhaltet diese Leistungen:
+
+| Laufend                    | Geplant                    | Ungeplant                   |
+| -------------------------- | -------------------------- | --------------------------- |
+| Tägliche Backups ausführen | Docker Image aktualisieren | Sicherheitspatches anwenden |
+|                            | Datenbank upraden          |                             |
+|                            | Apps aktualisieren                           |                             |
 ## Vorteile
 
 **Updates**

@@ -4,7 +4,7 @@ tags:
 ---
 
 # Vorlage Troubleshooting
-Übersetzung: [[Vorlage Troubleshooting.en]]
+Übersetzung: [[Troubleshooting Template]]
 
 ## Offen
 

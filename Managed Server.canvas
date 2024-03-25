@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"f9ab671edcd9cb77","type":"group","x":-740,"y":-30,"width":385,"height":180,"color":"1","label":"Ungeplant"},
+		{"id":"21a5a999522bd963","type":"group","x":-320,"y":-40,"width":460,"height":100,"color":"4","label":"Geplant"},
+		{"id":"2bd44708f8b75227","type":"group","x":-820,"y":-260,"width":335,"height":100,"color":"3","label":"Laufend"},
+		{"id":"c82448b23df0045b","type":"text","text":"Server","x":-475,"y":-400,"width":200,"height":60,"color":"5"},
+		{"id":"d4b076bddc391eae","type":"text","text":"Managed Server","x":-475,"y":-540,"width":200,"height":60,"color":"6"},
+		{"id":"60d95148e61b4806","type":"text","text":"Capacity Management","x":-540,"y":-10,"width":160,"height":60},
+		{"id":"569a83571c073349","type":"text","text":"OS Upgrade","x":-720,"y":-10,"width":160,"height":60},
+		{"id":"bde2e96c73a49c89","type":"text","text":"Server Relocation","x":-720,"y":70,"width":160,"height":60},
+		{"id":"2cce7346ad9897c3","type":"text","text":"Monitor System","x":-805,"y":-240,"width":120,"height":60},
+		{"id":"da463637299492a8","type":"text","text":"Configuration Management","x":-660,"y":-240,"width":160,"height":60},
+		{"id":"490aa50d54b58cfc","type":"text","text":"Linux Server Patching","x":-65,"y":-20,"width":175,"height":60},
+		{"id":"ab3fe1059ea3e64d","type":"text","text":"Execute Maintenance Tasks","x":-300,"y":-20,"width":210,"height":60}
+	],
+	"edges":[
+		{"id":"9bfd158624a24965","fromNode":"2bd44708f8b75227","fromSide":"top","toNode":"c82448b23df0045b","toSide":"left","toEnd":"none"},
+		{"id":"1bf007a71fc8ef0d","fromNode":"c82448b23df0045b","fromSide":"bottom","toNode":"21a5a999522bd963","toSide":"top","toEnd":"none"},
+		{"id":"cca2022573a9e0d5","fromNode":"c82448b23df0045b","fromSide":"bottom","toNode":"f9ab671edcd9cb77","toSide":"top","toEnd":"none"},
+		{"id":"b8f5c57c111c3674","fromNode":"d4b076bddc391eae","fromSide":"bottom","toNode":"c82448b23df0045b","toSide":"top","toEnd":"none"}
+	]
+}

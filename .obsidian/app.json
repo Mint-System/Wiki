@@ -16,5 +16,6 @@
     "node_modules/"
   ],
   "showInlineTitle": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "vimMode": false
 }

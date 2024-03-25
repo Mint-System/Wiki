@@ -12,3 +12,5 @@ Guide has been updated to meet the [[Odoo Development Workflow]].
 ## [[Migrate OCA module to 15.0]]
 
 ## [[Migrate OCA module to 16.0]]
+
+## [[Migrate OCA module to 17.0]]

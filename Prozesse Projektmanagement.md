@@ -22,3 +22,4 @@ graph LR;
 * [[Prozesse Projektmanagement - Zeiterfassung]]
 * [[Prozesse Projektmanagement - Aufgaben verwalten]]
 * [[Prozesse Projektmanagement - Business Requirement verfassen]]
+* [[Prozesse Projektmanagement - Ressourcenplanung]]

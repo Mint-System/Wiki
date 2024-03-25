@@ -12,4 +12,4 @@ Der technische Support von Mint System bietet genau das. Sie kaufen ein halbjäh
 
 ### Reduzierter Stundenansatz
 
-Weil die unverbrauchten Stunden, nicht übertragen werden könne, haben Supportstunden einen tieferen Satz. Eine Übersicht erhalten Sie unter [[Dienstleistungen]].
+Weil die unverbrauchten Stunden, nicht übertragen werden könne, haben Supportstunden einen tieferen Satz. Eine Übersicht erhalten Sie unter [[Kompetenzen]].

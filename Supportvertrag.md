@@ -6,19 +6,19 @@ tags:
 ![[support-banner.jpg]]
 
 # Supportvertrag
-Version: 2022-12-16
+Revision: 2024-01-01
 
 Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt bei Fragen und Problemen zu Odoo. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Odoo Expertenwissen.
 
 | Leistung                                                 | Basis  |    MINT    |   MINT+   |
 | -------------------------------------------------------- |:------:|:----------:|:---------:|
-| Dialog über support@mint-system.ch                       |   x    |     x      |     x     |
-| Telefonanruf auf Hauptnummer  +41 44 244 72 20           |   x    |     x      |     x     |
-| Telefonanruf auf Supportnummer  +41 44 244 72 24         |   —    |     x      |     x     |
-| Direkter Dialog mit Betreuungsperson                     |   —    |     —      |     x     |
+| Dialog über support@mint-system.ch                       |   ✅   |     ✅     |     ✅     |
+| Telefonanruf auf Hauptnummer  +41 44 244 72 20           |   ✅    |     ✅      |     ✅     |
+| Telefonanruf auf Supportnummer  +41 44 244 72 24         |   ❌    |     ✅      |     ✅     |
+| Direkter Dialog mit Betreuungsperson                     |   ❌    |     ❌      |     ✅     |
 | Maximale Reaktionszeit (während den normalen Bürozeiten) | 3 Tage | 24 Stunden | 4 Stunden |
-| Supportleistungen zu reduziertem Tarif                   |   —    |     x      |     x     |
-| Monatliches Guthaben                                     |   —    |     —      | 1 Stunde  |
+| Supportleistungen zu reduziertem Tarif                   |   ❌    |     ✅      |     ✅     |
+| Monatliches Guthaben                                     |   ❌    |     ❌      | 1 Stunde  |
 | Kosten pro Monat [CHF]                                   |   0    |     80     |    160    |
 | Kosten pro Jahr [CHF]                                    |   0    |    960     |   1’920   |
 
@@ -50,7 +50,6 @@ Kosten pro Jahr: 960 CHF\
 
 Mit dem MINT+ Supportvertrag erhalten Sie zusätzlich:
 * Zugriff auf die direkte Nummer des Betreuers
-* ein monatliches Guthaben von 1 Stunde für Telefonsupport
 * eine Antwort innerhalb von 4 Stunden
 
 Ihre Kontaktmöglichkeiten:
@@ -64,5 +63,5 @@ Kosten pro Jahr: 1920 CHF\
 
 Es gelten diese allgemeinen Geschäftsbedingungen:
 * Die Vertragslaufzeit gilt für ein Kalenderjahr.
-* Falls er nicht bis im September gekündigt wird, verlängert er sich jeweils um ein Jahr.
+* Falls der Supportvertrag nicht bis September gekündigt wird, verlängert er sich jeweils um ein Jahr.
 * Das monatliche Guthaben für Supportstunden kann nicht kumuliert werden.

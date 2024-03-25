@@ -4,38 +4,20 @@ tags:
 ---
 # Richtlinie - Softwareentwicklung
 
-## Bennenung Git Branches
+## Versionierung
 
-Das Git-Branching-Model sieht folgende Bennung vor:
+Wir orientieren uns bei der Versionierung von Software an [[Semantic Versioning]].
+## Git Commits Messages
+
+Wir orientieren uns bei der Erstellung von Commit Messages an [[Conventional Commits]].
+## Git Branches
+
+Das Git-Branching-Model sieht folgende Benennung vor:
 
 `main`: Produktiver branch\
 `int`: Integraton und Staging\
 `dev`: Entwicklung
 
-## Arbeitszeiten ungestört
+## Linting
 
-Softwareentwicklung erfordert hohe Konzentration. Störungen bei der Arbeit sind sehr teuer. Softwareentwicklerinnen sollen jeweils am Vormittag ungestört bleiben.
-
-## Commit Messages
-
-Write a helpful commit message
-
-Use a _commit tag_ in **each** message. This tag should be one of:
-
--   **[IMP]**
--   **[FIX]**
--   **[REF]**
--   **[ADD]**
--   **[REM]**
-
-\[IMP]: For improvements
-
-\[FIX]: For bug fixes
-
-\[REF]: For refactoring (improvements of the source code, without changing the functionality or behavior. See [http://en.wikipedia.org/wiki/Refactoring](http://en.wikipedia.org/wiki/Refactoring) for further details)
-
-\[ADD]: For adding new resources
-
-\[REM]: For removing of resources
-
-Always put a meaningful commit message. Commit message should be self explanatory including the name of the module that has been changed. No more _"bugfix"_ or _"improvements"_ anymore! (the only single word commit message accepted is "merge")
+Wir verwenden [[pre-commit]] für das Linting.

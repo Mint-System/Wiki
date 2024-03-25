@@ -27,8 +27,10 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 * [[Links]]
 * [[Philosophie]]
 * [[Marketing]]
+* [[Verkauf]]
 * [[Unternehmensentwicklung]]
 * [[Technologien]]
+
 
 ## Struktur
 

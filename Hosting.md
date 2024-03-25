@@ -18,8 +18,13 @@ Wir erstellen für ihre Odoo Installation reguläre Backups und stellen diese na
 
 ### Monitoring
 
-Wir überwachen die gehostete Anwendung.
+Wir überwachen die gehostete Anwendung mit Metriken und Sammlung von Log-Daten. Allgemeine Metriken sind:
 
+* HTTP-Ping auf Webanwendung
+* Health-Check von Docker Container
+* Cron-Job Exit Code
+
+Dazu kommen Anwendungsspezifische Metriken.
 ### Updates
 
 Anwenungsupdates und Sicherheitspatches werden fortlaufend installiert.
@@ -34,9 +39,9 @@ Unser Ticketsystem und Forum steht Ihnen zu Verfügung. Bei dringenden Notfälle
 
 [[Wartungsvertrag]]\
 [[Supportvertrag]]
-
 ### Service Level Agreement
 
 Das offertiete Hosting kann als Service Level Agreement (SLA) festgehalten werden.
 
-[[Service Level Agreement Hosting]]
+[[Service Level Agreement Hosting]]\
+[[Datenschutzrichtlinie]]

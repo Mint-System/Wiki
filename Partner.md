@@ -6,14 +6,16 @@ tags:
 
 Geschäftsbeziehungen der Mint System.
 
-## Odoo Partner
+## Odoo
 
 * [[Odoo S.A.]]
 * [[OCA]]
+## Odoo Partner
+
+* [[nivels GmbH]]
 * [[giordano.ch ag]]
 * [[Equitania Software GmbH]]
 * [[Syscoon GmbH]]
-* [[nivels GmbH]]
 
 ## Odoo Treuhänder
 

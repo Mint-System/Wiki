@@ -3,6 +3,7 @@ tags:
 - Richtlinien
 ---
 # Richtlinien
+
 Richtlinien der Mint System.
 
 * [[Richtlinie - Code Sharing]]  
@@ -23,4 +24,6 @@ Richtlinien der Mint System.
 * [[Richtlinie - Finanzen]]
 * [[Richtlinie - Odoo Snippet]]
 * [[Richtlinie - Obsidian]]
-* [[Richtlinien - Datenschutz]]
+* [[Richtlinie - Datenschutz]]
+* [[Richtlinie - Arbeitszeit]]
+* [[Richtlinien - Zeiterfassung]]

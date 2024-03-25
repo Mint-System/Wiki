@@ -13,9 +13,10 @@ tags:
 ## DNS-Einträge für Nextcloud erstellen
 
 * Erstellen Sie einen Eintrag für Nextcloud und Services. Beispiel:
-	* `cloud.example.com CNAME $NAME.mint-system.com`
-	* `doc.example.com CNAME $NAME.mint-system.com`
-
+```
+cloud.example.com CNAME $NAME.mint-system.com
+doc.example.com CNAME $NAME.mint-system.com
+```
 ## DNS-Einträge für Mail erstellen
 
 Für die Mail-Domain führen Sie diese Schritte aus:

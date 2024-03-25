@@ -7,7 +7,6 @@ tags:
 Odoo ist eine Management-Software. Es ist Teil des [[Angebot|Angebots]] der [[Mint System]]. Odoo wird mit verschiedenen [[Hosting-Modelle|Hosting-Modellen]] angeboten.
 
 Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Wiki]].
-
 ## Odoo Projekt
 
 Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo Enterprise Edition]]. Dazu kommen die [[Odoo Community Apps]] und [[Odoo Apps]].
@@ -35,7 +34,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 ## System
 
 * [[Odoo Umgebungen]]
-* [[Odoo Email Integration]]
+* [[Odoo E-Mail Integration]]
 * [[Odoo REST API]]
 * [[Odoo QM Data System]]
 * [[Odoo Map View]]
@@ -45,23 +44,22 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Datenmodell]]
 * [[Odoo Longpolling]]
 * [[Odoo Sicherheit]]
-
-## Customization
-
-* [[Odoo Widgets]]
-* [[Odoo Reports]]
-
-## Prozesse
+* [[Odoo Upgrade]]
+## Entwicklung
 
 * [[Odoo Enterprise Upgrade]]
-* [[Odoo Update]]
+* [[Odoo Community Upgrade]]
 * [[Odoo Eigenentwicklung]]
-* [[Odoo Maintenance]]
 * [[Odoo Berichtsvorlagen entwickeln]]
-* [[Odoo Schulung]]
+* [[Odoo Widgets]]
+* [[Odoo Reports]]
+* [[Test Odoo Mail Flow]]
 
 ## Meta
 
+* [[Odoo Schulung]]
+* [[Odoo Wartung]]
+* [[Odoo Update]]
 * [[Odoo Painpoints]]
 * [[Odoo Troubleshooting]]
 * [[Fragen zu Odoo]]
@@ -74,3 +72,6 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Marketing]]
 * [[Odoo Dienstleistungen]]
 * [[Odoo Devleopment Guidelines]]
+* [[Maintained Odoo Apps]]
+* [[Odoo Finanzen Treuhänder]]
+* [[Odoo Perfomance]]

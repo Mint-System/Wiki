@@ -3,14 +3,13 @@ tags:
 - Asset
 ---
 # Unternehmensentwicklung
-Typ: [[Bereich]]
 
 Themen:
 
 * [[AHV und EO]]
 * [[Steuern]]
 * [[Weiterbildung]]
-* [[Dienstleistungen]]
+* [[Kompetenzen]]
 * [[Jobs]]
 * [[Produktentwicklung]]
 * [[Ziele]]
@@ -18,3 +17,6 @@ Themen:
 * [[Subunternehmen]]
 * [[Strategie]]
 * [[Kollaboration]]
+* [[Personal]]
+* [[Finanzen]]
+* [[Development]]

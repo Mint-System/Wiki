@@ -12,4 +12,7 @@ Weiterführende Links:
 
 ## Erweiterung
 
-[Odoo Debug](https://github.com/Droggol/OdooDebug)
+[Odoo Debug](https://github.com/Droggol/OdooDebug)\
+[Vimium](https://github.com/philc/vimium)\
+[Sidebery](https://github.com/mbnuqw/sidebery)\
+[uBlock Origin](https://ublockorigin.com/)

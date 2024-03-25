@@ -3,9 +3,9 @@ tags:
 - Asset
 ---
 # Infrastruktur
-Typ: [[Bereich]]
 
-Beinhaltet:  
+Beinhaltet:
+
 * [[Ansible]]  
 * [[Security]]  
 * [[Docker]]  

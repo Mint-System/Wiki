@@ -3,7 +3,7 @@ tags:
 - Vorlagen
 ---
 # Title
-Übersetzung: [[Vorlage Worklog.en]]
+Übersetzung: [[Worklog Template]]
 
 Datum: YYYY-MM-DD\
 Author: [[Janik von Rotz]]

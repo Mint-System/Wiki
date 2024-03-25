@@ -13,8 +13,9 @@ Website: <https://nextcloud.com/>
 [[Nextcloud Apps]]\
 [[Nextcloud Enterprise]]\
 [[Nextcloud Partner]]\
-[[Fragen zu Nextcloud]]
-[[Nextcloud Elektronische Signaturen]]
+[[Fragen zu Nextcloud]]\
+[[Nextcloud Elektronische Signaturen]]\
+[[Nextcloud Talk]]
 
 ## HowTos
  

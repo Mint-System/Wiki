@@ -15,6 +15,10 @@ Datenbanksystem:
 * [[PostgreSQL]]
 * [[pgAdmin]]
 
+Website:
+
+* [[Hugo]]
+
 Identity and Access Management:
 
 * [[Keycloak]]

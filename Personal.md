@@ -3,4 +3,9 @@ tags:
 - Asset
 ---
 # Personal
-Typ: [[Bereich]]
+
+Siehe [[Prozesse Personal]].
+
+Relevante Themen:
+
+* [[Billability]]

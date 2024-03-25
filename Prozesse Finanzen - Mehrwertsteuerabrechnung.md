@@ -16,6 +16,7 @@ Arbeitsschritte:
 
 ## MWST abrechnen
 
+Arbeitsschritte:
 * Registrieren Sie sich auf <https://mwstabrechnen.estv.admin.ch/>
 * Kopieren Sie den Abrechnungscode aus dem [[Passwortmanager]]
 * Starten Sie die Eingaben und verwenden Sie die Ziffern wie folgt:

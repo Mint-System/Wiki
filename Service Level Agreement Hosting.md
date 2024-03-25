@@ -5,10 +5,9 @@ tags:
 ![[Banner Hosting SLA.png]]
 
 # Service Level Agreement Hosting
-Version: 2023-12-11
+Revision: 2024-01-04
 
 Applikationen, die mit [[Mintsys Cloud]] gehostet werden, erhalten die folgenden Garantien:
-
 ## Verfügbarkeit
 
 * Wir arbeiten mit verschiedenen Hosting-Anbietern, die immer mindestens 99.9% Verfügbarkeit garantieren. Deshalb garantieren wir eine monatliche Verfügbarkeit von 99.9% für unsere Hosting-Angebote.
@@ -49,6 +48,10 @@ Die Sicherheit Ihrer Daten ist uns sehr wichtig und wir haben unsere Systeme und
 
 ## Wartung
 
+In der SLA ist ein Wartungsauftrag enthalten. Eine Übersicht der Leistungen:
+
 * Die Server werden regelmässig mit Sicherheitsupdates gepatcht.
 * Anwendungen und Dienste werden gemäss Releasezyklus zeitnah aktualisiert.
 * Der verfügbare Speicherplatz wird verwaltet und proaktiv erweitert.
+
+Weitere Details sind im [[Wartungsauftrag]] beschrieben.

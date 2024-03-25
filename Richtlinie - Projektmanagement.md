@@ -3,9 +3,9 @@ tags:
 - Richtlinien
 ---
 # Richtlinie - Projektmanagement
-Übersetzung: [[Richtlinie - Projektmanagement.en]]
+Übersetzung: [[Policy Project Management]]
 
-Die Umsetzung von Projekten unterliegt bestimmten Richlinien.
+Die Umsetzung von Projekten unterliegt bestimmten Richtlinien.
 
 ## Projektordner
 
