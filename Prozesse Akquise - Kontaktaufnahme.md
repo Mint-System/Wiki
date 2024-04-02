@@ -3,7 +3,7 @@ tags:
 - Prozess
 ---
 # Prozesse Akquise: Kontaktaufnahme
-Kontaufnahme mit dem Kunden.
+Kontakaufnahme mit dem Kunden.
 
 ## Kalt-Akquise
 Vorgehen Kalt-Akquise.
