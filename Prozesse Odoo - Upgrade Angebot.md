@@ -20,8 +20,8 @@ Arbeitsschritte:
 | Koordination Support    | Enterprise / Dritte     | Min: 1 Ticket x 2h<br>Max: 3 Tickets x 2h                                              |           |           |
 |                         |                         | Summe:                                                                                 |           |           |
 
-**Best Case** Aufwand: Xh x 160.00 CHf = **XX.XX CHF**
-**Worst Case** Aufwand: Xh x 160.00 CHf = **XX.XX CHF**
+Aufwand **Minimum**: Xh x 160.00 CHf = **XX.XX CHF**
+Aufwand **Maximum**: Xh x 160.00 CHf = **XX.XX CHF**
 
 * App Verkäufe öffnen und neues Angebot erstellen
 * Vorlage "Odoo Upgrade" auswählen
