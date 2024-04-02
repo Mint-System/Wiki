@@ -18,9 +18,13 @@ Verantwortlich: [[Janik von Rotz]]
 
 * [[Prozesse Odoo - Snippets]]
 * [[Prozesse Odoo - Datenmigration]]
-* [[Prozesse Odoo - Upgrade]]
 * [[Prozesse Odoo - Lizenzierung]]
 * [[Prozesse Odoo - Migration]]
+
+## Upgrade
+
+* [[Prozesse Odoo - Upgrade Angebot]]
+* [[Prozesse Odoo - Upgrade ausführen]]
 
 ## Odoo Apps
 

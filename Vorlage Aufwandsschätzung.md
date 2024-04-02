@@ -2,7 +2,6 @@
 tags:
 - Vorlagen
 ---
-
 # Vorlage Aufwandsschätzung
 
 ## Standardprojekt
