@@ -56,6 +56,13 @@ Mit der ERP-Software von Odoo sind wir für eine moderne und digitale Auftragsab
 
 Website: <https://www.gelso.ch/>
 
+### Hygentile AG
+
+![[hygentile logo.png]]
+
+As a technology-oriented solutions provider, we develop and implement innovative concepts for the oxygen-free filling and seaming of cans with fresh ideas. With in-depth knowledge, a wealth of experience and great expertise, we are among the pioneers and drivers of the industry with patent-pending solutions
+
+Website: <https://hygentile.com/en/>
 ## Kleinbrauerei Stiär Biär AG
 
 ![[kleinbrauerei logo.png]]
