@@ -37,7 +37,7 @@ Bei jeder Anpassung wollen wir wissen, ob das Kosten-Nutzen-Verhältnis stimmt. 
 
 Anpassungen der Benutzeroberfläche sind günstiger in der Wartung, weil Sie weiter weg vom Kern des System sind. Visuelle Änderungen beziehen sich im Normalfall auf die bestehende Datenstruktur und haben dadurch eine geringe Integrationstiefe.
 
-### Verberbungssystem nutzen
+### Vererbungssystem nutzen
 
 ![[007-shapes.png]]
 
