@@ -34,7 +34,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Hades    | Demoserver Nextcloud [[Mint System GmbH]]                | `hades.mint-system.com`    | Hetzner     |
 | Helios   | Server MBBMoser AG                                       | `helios.mint-system.com`   | Off-Premise |
 | Hermes   | Demoserver [[Odoo]] [[Mint System GmbH]]                 | `hermes.mint-system.com`   | Hetzner     |
-| Hestia   | Server Doughnut Economics Switzerland                    | `hestia.mint-system.com`   | Hetzer      |
+| Hestia   | Server Donut Economics Switzerland                       | `hestia.mint-system.com`   | Hetzer      |
 | Hyperion | Server [[Digital Cluster Uri]]                           | `hyperion.mint-system.com` | ExoScale    |
 | Iris     | Server Kleinbrauerei Stiär Biär AG                       | `iris.mint-system.com`     | Hetzner     |
 | Janus    | Server Hygentile AG                                      | `janus.mint-system.com`    | Hetzner     |

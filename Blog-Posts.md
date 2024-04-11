@@ -13,12 +13,12 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Odoo ist kein ERP-System]]\
 [[Bauteile mit Odoo zertifizieren]]\
 [[Odoo Monitoring mit Prometheus und Grafana]]\
-[[Von Bexio nach Odoo]]\
 [[Aufbau einer Entwicklungsumgebung für Odoo]]\
 [[Lizenzmanagement mit Odoo]]
 
 ## Veröffentlicht
 
+[[Von Bexio nach Odoo]]\
 [[Besser als Alternativ]]\
 [[Odoo 16 - Ein Meilenstein ]]\
 [[Arbeitsplatz am Bahnhofplatz 1]]\
@@ -36,7 +36,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[IT-Monokultur in der Verwaltung]]\
 [[Den eigenen Login-Anbieter mit Keycloak]]\
 [[Der eigene Messenger für ihre Schule]]\
-[[Odoo Customizing ohne zukünftige Einschränkungen]]\
+[[Odoo Customizing ohne unvorhergesehene Upgradekosten]]\
 [[Spam reduzieren mit SPF, DKIM und DMARC]]\
 
 ## Trash

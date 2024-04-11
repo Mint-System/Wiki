@@ -36,13 +36,13 @@ State: 🔴
 State: 🔴
 ## [[Odoo 14.0.2022.0912]]
 
-State: 🟢
+State: 🔴
 ## [[Odoo 14.0.2023.0327]]
 
-State: 🟢
+State: 🔴
 ## [[Odoo 14.0.2023.0612]]
 
-State: 🟢
+State: 🔴
 ## [[Odoo 14.0.2023.1106]]
 
 State: 🟢

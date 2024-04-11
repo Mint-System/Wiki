@@ -28,6 +28,14 @@ Jeder bei Aersolution Interior hergestellte oder verbaute Artikel muss eine voll
 
 Website: <https://www.aersolution.com/>
 
+## Arnold Umzüge AG
+
+![[arnold umzuege ag logo.png]]
+
+Die Arnold Umzüge AG ist ein zertifiziertes Umzugsunternehmen in der Zentralschweiz. Wir bieten professionelle Dienstleistungen rund um den privaten oder geschäftlichen Umzug an. Dazu gehören Transport, Lagerung, Entsorgung und Räumung. Egal ob in Uri, Schwyz, Nidwalden, Obwalden, Luzern, Zug, Tessin oder dem Rest der Schweiz. Wir erledigen das für Sie.
+
+Website: <https://arnoldumzuege.ch/>
+
 ## Basis 57 nachhaltige Wassernutzung AG
 
 ![[basis57 logo.png]]
@@ -56,6 +64,13 @@ Mit der ERP-Software von Odoo sind wir für eine moderne und digitale Auftragsab
 
 Website: <https://www.gelso.ch/>
 
+## Hygentile AG
+
+![[hygentile logo.png]]
+
+As a technology-oriented solutions provider, we develop and implement innovative concepts for the oxygen-free filling and seaming of cans with fresh ideas. With in-depth knowledge, a wealth of experience and great expertise, we are among the pioneers and drivers of the industry with patent-pending solutions
+
+Website: <https://hygentile.com/en/>
 ## Kleinbrauerei Stiär Biär AG
 
 ![[kleinbrauerei logo.png]]
@@ -152,12 +167,6 @@ Website: <https://sozialinfo.ch/>
 Webkeeper.ch ist ein Schweizer Webhosting-Unternehmen, das seit 1998 besteht und sich auf die Bereitstellung von zuverlässigen und sicheren Webhosting-Lösungen für Unternehmen und Privatkunden spezialisiert hat. Das Angebot umfasst verschiedene Hosting-Pakete, die auf die Bedürfnisse unterschiedlicher Kunden zugeschnitten sind, sowie Domainregistrierung und -verwaltung, SSL-Zertifikate und E-Mail-Dienste. Die Webseite ist benutzerfreundlich gestaltet und bietet eine einfache Navigation durch das Angebot. Der Kundenservice ist schnell und freundlich und steht Kunden per E-Mail oder Telefon zur Verfügung. Webkeeper.ch legt großen Wert auf Datensicherheit und Datenschutz und setzt modernste Technologien ein, um die Daten seiner Kunden zu schützen. Insgesamt ist webkeeper.ch ein zuverlässiger und seriöser Partner für die Bereitstellung von Webhosting-Lösungen.
 
 Website: <https://www.webkeeper.ch>
-
-## Arnold Umzüge AG
-
-![[arnold umzuege ag logo.png]]
-
-Die Arnold Umzüge AG ist ein zertifiziertes Umzugsunternehmen in der Zentralschweiz. Wir bieten professionelle Dienstleistungen rund um den privaten oder geschäftlichen Umzug an. Dazu gehören Transport, Lagerung, Entsorgung und Räumung. Egal ob in Uri, Schwyz, Nidwalden, Obwalden, Luzern, Zug, Tessin oder dem Rest der Schweiz. Wir erledigen das für Sie.
 ## OCAD AG
 
 ![[ocad logo.png]]
