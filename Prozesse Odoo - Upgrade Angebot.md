@@ -11,17 +11,14 @@ Arbeitsschritte:
 * In Projektordner Markdown-Dokument "Aufwandsschätzung Upgrade Odoo XX.0"
 * Aufwandsschätzung gemäss folgender Kalkulation erstellen:
 
-| Phase                   | Faktor                  | Berechnung                                                                             | Min \[h\] | Max \[h\] |
-| ----------------------- | ----------------------- | -------------------------------------------------------------------------------------- | --------- | --------- |
-| Bereitstellung Umgebung | Mintsys Cloud / Odoo.sh | Min: 2h (Managed Server)<br>Max: 3h (Unmanaged Server)                                 |           |           |
-| Modul-Migration         | Anzahl Module           | Min: 15min pro Modul<br>Max: 1h pro Modul                                              |           |           |
-| Upgrade Datenbank       | Versions-Sprünge        | Min: 2h x Version<br>Max: 4h x Version                                                 |           |           |
-| Bereinigung Anpassungen | Snippets / Studio       | Min: Anzahl Snippets x 5min (ohne Studio)<br>Max: Anzahl Snippets x 10min (mit Studio) |           |           |
-| Koordination Support    | Enterprise / Dritte     | Min: 1 Ticket x 2h<br>Max: 3 Tickets x 2h                                              |           |           |
-|                         |                         | Summe:                                                                                 |           |           |
-
-Aufwand **Minimum**: Xh x 160.00 CHf = **XX.XX CHF**
-Aufwand **Maximum**: Xh x 160.00 CHf = **XX.XX CHF**
+| Phase                   | Faktor                  | Berechnung                                                                                  | Min \[h\] | Max \[h\] | Aufwand |
+| ----------------------- | ----------------------- | ------------------------------------------------------------------------------------------- | --------- | --------- | ------- |
+| Bereitstellung Umgebung | Mintsys Cloud / Odoo.sh | Min: 2h Managed Server<br>Max: 3h Unmanaged Server                                          |           |           |         |
+| Modul-Migration         | Anzahl Module           | Min: 15min pro Modul (OCA, bereits migriert)<br>Max: 1h pro Modul (Dritte, Migration offen) |           |           |         |
+| Upgrade Datenbank       | Versions-Sprünge        | Min: 2h x Version (Odoo 12, 13, 14, 15)<br>Max: 4h x Version (Odoo 16, 17)                  |           |           |         |
+| Bereinigung Anpassungen | Snippets / Studio       | Min: Anzahl Snippets x 5min (ohne Studio)<br>Max: Anzahl Snippets x 10min (mit Studio)      |           |           |         |
+| Koordination Support    | Enterprise / Dritte     | Min: Ticket x 2h (Odoo Support)<br>Max: Tickets x 3h (Support Dritte)                       |           |           |         |
+|                         |                         |                                                                                             |           | Summe:    |         |
 
 * App Verkäufe öffnen und neues Angebot erstellen
 * Vorlage "Odoo Upgrade" auswählen
