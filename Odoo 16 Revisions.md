@@ -15,7 +15,7 @@ State: 🔴
 State: 🔴
 ## [[Odoo 16.0.2023.0227]]
 
-State: 🟢
+State: 🔴
 ## [[Odoo 16.0.2023.0612]]
 
 State: 🟢
@@ -29,5 +29,9 @@ State: 🟢
 
 State: 🟢
 ## [[Odoo 16.0.2024.0126]]
+
+State: 🟢
+
+## [[Odoo 16.0.2024.0405]]
 
 State: 🟢
