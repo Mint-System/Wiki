@@ -2,9 +2,7 @@
 tags:
   - Asset
 ---
-
 # Odoo 17.0.2024.0405
-
 
 ```bash
 ODOO_REVISION=17.0.2024.0405
