@@ -38,7 +38,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Hyperion | Server [[Digital Cluster Uri]]                           | `hyperion.mint-system.com` | ExoScale    |
 | Iris     | Server Kleinbrauerei Stiär Biär AG                       | `iris.mint-system.com`     | Hetzner     |
 | Janus    | Server Hygentile AG                                      | `janus.mint-system.com`    | Hetzner     |
-| Krios    | Support-server Sozialinfo                                | `krios.mint-system.com`    | Infomaniak  |
+| Krios    | Support-Server Sozialinfo                                | `krios.mint-system.com`    | Infomaniak  |
 | Kronos   | Backup Server Mint System GmbH                           | `kronos.mint-system.com`   | Hetzner     |
 | Leto     | Server SATHOM SARL                                       | `leto.mint-system.com`     | Klixa       |
 | Matrix   | [[Matrix]]-Server ungleich.ch                            | `matrix.mint-system.com`   | Ungleich    |
