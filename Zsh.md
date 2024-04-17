@@ -4,7 +4,9 @@ tags:
 ---
 # Zsh
 
-Website: <>
+Website: <https://www.zsh.org/>
+
+Funktioniert am besten mit [[Oh-My-Zsh]].
 
 ## Dotfiles
 

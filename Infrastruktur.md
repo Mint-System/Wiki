@@ -18,3 +18,4 @@ Beinhaltet:
 * [[Mail]]
 * [[Domain]]
 * [[Terraform]]
+* [[Kubernetes]]
