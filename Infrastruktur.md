@@ -19,3 +19,4 @@ Beinhaltet:
 * [[Domain]]
 * [[Terraform]]
 * [[Kubernetes]]
+* [[Nix]]
