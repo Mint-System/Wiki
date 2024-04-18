@@ -8,7 +8,7 @@ Quelle: [Schärer Rechtsanwälte](https://www.5001.ch/)
 
 zwischen
 
-==NAME, ADRESSE== (nachfolgend "Verantworlticher"),
+==NAME, ADRESSE== (nachfolgend "Verantwortlicher"),
 
 und
 
