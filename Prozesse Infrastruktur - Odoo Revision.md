@@ -20,6 +20,21 @@ Arbeitsschritte:
 ## Odoo Revision installieren
 
 Arbeitsschritte:
+
+* Mitteilung an Kunde via Odoo Dialog
+
+```
+Guten Tag  
+  
+Die Revision dieser Odoo Installation wird innerhalb der nächsten halben Stunde aktualisiert.  
+  
+Bei der Aktualisierung kann es zu einem kurzen Unterbruch (< 1 Min) kommen.  
+  
+Mit freundlichen Grüssen  
+  
+Das Mint System Team
+```
+
 * In Ansible-Inventar die Informationen zur Odoo Revision aktualisieren
 
 ```yml
