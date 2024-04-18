@@ -39,9 +39,7 @@ Kategorien der Betroffenen: ==XY==
 - IT-Nutzungsdaten (z.B. UserID, Passwörter und Rollen)
 - Bankdaten (z.B. Kontoverbindung und Kreditkartennummer)==
 
-Die Dauer der Auftragsverarbeitung richtet sich nach der Laufzeit des zugrundeliegen-
-den ==XY-Vertrags vom DATUM== und kann nur mit diesem zusammen ordentlich oder
-ausserordentlich gekündigt werden.
+Die Dauer der Auftragsverarbeitung richtet sich nach der Laufzeit des zugrundeliegen den ==XY-Vertrags vom DATUM== und kann nur mit diesem zusammen ordentlich oder ausserordentlich gekündigt werden.
 
 ## 2. Ort der Datenverarbeitung
 
