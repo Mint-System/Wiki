@@ -59,7 +59,7 @@ Mit dem Update wurde neuer Odoo Code bereitgestellt. Wenn dies zu Problemen und 
 Firefox: https://www.odoo-wiki.org/development.html#browser-cache-in-firefox-loschen
 Chrome: https://www.odoo-wiki.org/development.html#browser-cache-in-chrome-loschen
 
-Falls es danach immer noch Probleme bestehen, bitten wir Sie mit uns Kontakt aufzunehmen.
+Falls danach immer noch Probleme bestehen, bitten wir Sie mit uns Kontakt aufzunehmen.
 
 Mit freundlichen Grüssen
 
