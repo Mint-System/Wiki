@@ -8,7 +8,7 @@ Quelle: [Schärer Rechtsanwälte](https://www.5001.ch/)
 
 zwischen
 
-==NAME, ADRESSE== (nachfolgend Verantwortlicher),
+==NAME, ADRESSE== (nachfolgend "Verantworlticher"),
 
 und
 
@@ -98,25 +98,46 @@ Dieser Vertrag geht anderslautenden Allgemeinen Geschäftsbedingungen des Dienst
 
 Auf diesen Vertrag ist schweizerisches Recht anwendbar. Ausschliesslicher Gerichtsstand ist ==ORT== (Schweiz).
 
-Verantwortlicher: ==NAME==
-
 <br/>
 
----
+Verantwortlicher: ==NAME==
+
 Name: ==Vorname, Nachname==
 
 Funktion: ==Funktionsbezeichnung==
 
 Datum: ==TT/MM/JJJJ==
 
+<br/>
+
+---
+
+<br/>
 
 Dienstleister: ==NAME==
 
-<br/>
-
----
 Name: ==Vorname, Nachname==
 
 Funktion: ==Funktionsbezeichnung==
 
 Datum: ==TT/MM/JJJJ==
+
+<br/>
+
+---
+
+<br/>
+
+Unterauftragsverarbeiter:  ==NAME==
+
+Name: ==Vorname, Nachname==
+
+Funktion: ==Funktionsbezeichnung==
+
+Datum: ==TT/MM/JJJJ==
+
+<br/>
+
+---
+
+<br/>
