@@ -8,6 +8,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
+[[Hack4SocialGood 2024]]\
 [[Zahlen zum Unternehmen]]\
 [[Wir sind Odoo Silberpartner]]\
 [[Odoo ist kein ERP-System]]\
