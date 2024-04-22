@@ -8,7 +8,7 @@ tags:
 Die Mint System hat am Hack4SocialGood teilgenommen.
 
 
-Der [Hack4SocialGood](https://www.zhaw.ch/en/socialwork/hack4socialgood/) ist ein Hackathon, der Menschen aus dem Sozialwesen und der IT zusammenbringt um Lösungen für die Aniegen im Digitalisierungbereicht zu entwickeln. 
+Der [Hack4SocialGood](https://www.zhaw.ch/en/socialwork/hack4socialgood/) ist ein Hackathon, der Menschen aus dem Sozialwesen und der IT zusammenbringt um Lösungen für die Anliegen im Digitalisierungbereicht zu entwickeln. 
 
 Um an einem Hackathon teilzunehmen, muss man kein Softwareentwickler sein. Ziel ist es in einer interdisziplinären Gruppe Lösungen für eine konkrete Challenge zu entwickeln. Dazu hat man 24 Stunden Zeit und darf am Ende des Hackathons die Lösung pitchen.
 
