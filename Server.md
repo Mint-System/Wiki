@@ -30,6 +30,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Enyo     | Server webkeeper GmbH                                    | `enyo.mint-system.com`     | Off-Premise |
 | Eos      | Server Aersolution Interior AG                           | `odoo.aersolution.com`     | Off-Premise |
 | Eris     | Nextcloud  Abächerli Forstunternehmen AG                 | `eris.mint-system.com`     | Hetzner     |
+| Eros     | Keycloak-Server Sozialinfo                               | `eros.mint-system.com`     | Infomania   |
 | Gaia     | [[BigBlueButton]] [[Mint System GmbH]]                   | `gaia.mint-system.com`     | Hetzner     |
 | Hades    | Demoserver Nextcloud [[Mint System GmbH]]                | `hades.mint-system.com`    | Hetzner     |
 | Helios   | Server MBBMoser AG                                       | `helios.mint-system.com`   | Off-Premise |
@@ -48,7 +49,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Nyx      | Server Arnold Umzüge AG                                  | `nyx.mint-system.com`      | Hetzner     |
 | Poseidon | Server Basis57                                           | `poseidon.mint-system.com` | ExoScale    |
 | Rhea     | Server Ludoland                                          | `rhea`                     | Off-Premise |
-| Selene   | Server Sozialinfo                                        | `selene.mint-system.ch`    | Infomaniak  |
+| Selene   | Odoo-Server Sozialinfo                                   | `selene.mint-system.ch`    | Infomaniak  |
 | Themis   | [[BigBlueButton]] KMSU                                   | `themis.mint-system.com`   | ExoScale    |
 | Triton   | Server Kreativartikel GmbH                               | `triton`                   | Off-Premise |
 | Tyche    | Server Carbo-Link AG                                     | `tyche.mint-system.com`    | Off-Premise |
@@ -60,4 +61,3 @@ Die folgenden Namen stehen zur Auswahl bereit:
 
 * Pan (used)
 * Hebe (used)
-* Eros (used)

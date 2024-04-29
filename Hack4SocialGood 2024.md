@@ -5,7 +5,7 @@ tags:
 
 ![[caritas.png]]
 # Hack4SocialGood 2024
-Die Mint System hat am Hack4SocialGood teilgenommen.
+Die Mint System war am Hack4SocialGood vertreten.
 
 
 Der [Hack4SocialGood](https://www.zhaw.ch/en/socialwork/hack4socialgood/) ist ein Hackathon, der Menschen aus dem Sozialwesen und der IT zusammenbringt um Lösungen für die Anliegen im Digitalisierungbereicht zu entwickeln. 
@@ -47,4 +47,4 @@ Der Quellcode der Lösung findet man hier: <https://github.com/Caritas-Schweiz/Q
 Das Resultat ist eine Website mit Visualisierungen der Daten: <https://caritas-schweiz-reporting.vercel.app/>
 ## Fazit
 
-Mit der Teilnahme an diesem Hackthon wollten wir einen Beitrag für die Digitalisierung im Sozialwesen leisten. Als kleine Unternehmen ist es eine Herausforderung im Arbeitsalltag neue Technologien und Probleme zu entdecken. Ein Hackathon bietet die perfekten Rahmenbedigungen zur Innvoation. Man ist gefordert kreativ zu sein und muss in kurzer Zeit einen Prototyp erstellen. Das funktioniert nur wenn das Team reibungslos zusammenarbeitet und sich jeder einbringen kann. Schlichtweg ein grossartiges Erlebnis.  
+Mit der Teilnahme an diesem Hackathon wollten wir einen Beitrag für die Digitalisierung im Sozialwesen leisten. Als kleine Unternehmen ist es eine Herausforderung im Arbeitsalltag neue Technologien und Probleme zu entdecken. Ein Hackathon bietet die perfekten Rahmenbedingungen zur Innovation. Man ist gefordert kreativ zu sein und muss in kurzer Zeit einen Prototyp erstellen. Das funktioniert nur wenn das Team reibungslos zusammenarbeitet und sich jeder einbringen kann. Schlichtweg ein grossartiges Erlebnis.
