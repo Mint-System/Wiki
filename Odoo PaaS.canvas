@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"f3cfe87410d430e4","x":-360,"y":287,"width":470,"height":170,"type":"group","label":"Kubernetes Cluster"},
-		{"id":"aeb27927cc4c4bbf","type":"group","x":260,"y":260,"width":340,"height":224,"label":"Containers"},
+		{"id":"f3cfe87410d430e4","type":"group","x":-360,"y":287,"width":470,"height":170,"label":"Kubernetes Cluster"},
+		{"id":"aeb27927cc4c4bbf","type":"group","x":260,"y":260,"width":340,"height":220,"label":"Helm-Charts"},
 		{"id":"589fc72ad00d456c","type":"text","text":"Git-Repo\nOdoo-Project","x":-320,"y":20,"width":160,"height":80},
 		{"id":"791e5cbffd589313","type":"text","text":"branch: main","x":-100,"y":-30,"width":160,"height":50},
 		{"id":"c499f431091c7258","type":"text","text":"branch: int","x":-100,"y":35,"width":160,"height":50},
@@ -19,10 +19,10 @@
 		{"id":"a872a7beec6b6402","type":"text","text":"submodule ref","x":180,"y":100,"width":170,"height":50},
 		{"id":"61d1abec1ea746e4","type":"text","text":"Storage-Server","x":-340,"y":387,"width":190,"height":50},
 		{"id":"493029c88ff668cd","type":"text","text":"Longhorn","x":-315,"y":312,"width":140,"height":50},
-		{"id":"b1d101cae734bb6e","type":"text","text":"Pod-Server","x":-100,"y":387,"width":190,"height":50},
 		{"id":"eef2acef54a436a4","type":"text","text":"K3S","x":-75,"y":307,"width":140,"height":50},
-		{"id":"81ffdbdf6dcb9857","type":"text","text":"Mgmt-Server","x":-210,"y":642,"width":190,"height":50},
-		{"id":"915f785874078149","type":"text","text":"Rancher","x":-175,"y":560,"width":120,"height":52}
+		{"id":"b1d101cae734bb6e","type":"text","text":"Pod-Server","x":-100,"y":387,"width":190,"height":50},
+		{"id":"915f785874078149","type":"text","text":"Rancher","x":-180,"y":560,"width":120,"height":52},
+		{"id":"81ffdbdf6dcb9857","type":"text","text":"Mgmt-Server","x":-215,"y":642,"width":190,"height":50}
 	],
 	"edges":[
 		{"id":"3b3809969f5f290b","fromNode":"589fc72ad00d456c","fromSide":"top","toNode":"2d6205f0bc4fc588","toSide":"bottom","toEnd":"none"},
