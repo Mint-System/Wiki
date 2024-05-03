@@ -55,9 +55,9 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Tyche    | Server Carbo-Link AG                                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG                         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Server [[Mint System GmbH]]                              | `zeus.mint-system.com`     | Hetzner     |
+| Hebe     | Server Localfish AG                                      | `gebe.mint-system.com`     | Hetzer      |
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
 * Pan (used)
-* Hebe (used)
