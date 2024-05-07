@@ -14,6 +14,7 @@ Corporate Design der Mint System.
 ## Colors
 
 <div style="background-color: #0B9FA3;"><p>Dark #0B9FA3</p></div>
+`RGBA(11, 159, 163, 1)`
 <div style="background-color: #14d6c4;"><p>Normal #14d6c4</p></div>
 <div style="background-color: #b5e7d6;"><p>Light #b5e7d6</p></div>
 

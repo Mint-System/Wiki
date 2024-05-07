@@ -21,3 +21,7 @@ Vorteile
 Nachteile  
 ✘ Nur für Windows-Systeme  
 ✘ überholte, unübersichtliche Nutzeroberfläche  
+
+## Kommandozeile
+
+Mit [[Putty]] können auf Windows SSH-Verbindungen erstellt werden.
