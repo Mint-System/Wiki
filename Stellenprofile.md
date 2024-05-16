@@ -21,3 +21,5 @@ tags:
 | Akquise neue Projekte                                  |          O           |           X            |
 | *Geschäftsentwicklung*                                 |                      |                        |
 | Aufbau neue Geschäftsfelder                            |          O           |           X            
+## Open Source Expert
+
