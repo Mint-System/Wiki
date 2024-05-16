@@ -3,14 +3,10 @@
 		{"id":"b0b57a2106b6bac0","type":"text","text":"Odoo Development","x":380,"y":-160,"width":220,"height":60,"color":"4"},
 		{"id":"11178441152a429d","type":"text","text":"Python Programming","x":200,"y":-20,"width":220,"height":60,"color":"4"},
 		{"id":"88ee2d8c9c380243","type":"text","text":"Python-Packages","x":200,"y":100,"width":220,"height":60,"color":"4"},
-		{"id":"4672f6dadc4d134e","type":"text","text":"**Odoo Implementation**","x":-360,"y":-300,"width":220,"height":60,"color":"4"},
-		{"id":"059e218a32e4c155","type":"text","text":"Project Management","x":-360,"y":-160,"width":220,"height":60,"color":"4"},
-		{"id":"71899910a5a6da50","type":"text","text":"Business Processes","x":-740,"y":-160,"width":220,"height":60,"color":"4"},
 		{"id":"2c3d4782fb76b0f4","type":"text","text":"Software Deployment","x":490,"y":-20,"width":220,"height":60,"color":"4"},
 		{"id":"a5de66fd3736ff20","type":"text","text":"Containers","x":460,"y":100,"width":140,"height":60,"color":"4"},
 		{"id":"074c86aaad693189","type":"text","text":"Docker","x":460,"y":240,"width":140,"height":60,"color":"4"},
 		{"id":"f12160b16ba0b08f","type":"text","text":"GitOps","x":660,"y":100,"width":140,"height":60,"color":"4"},
-		{"id":"7ef0bd3699269234","type":"text","text":"Business Model Notation","x":-880,"y":-20,"width":250,"height":60,"color":"4"},
 		{"id":"68a20705a05cb2f6","type":"text","text":"High-Level Programming","x":-100,"y":100,"width":240,"height":60,"color":"4"},
 		{"id":"96a82b49c2af1e30","type":"text","text":"Object Relational Mapper","x":-100,"y":240,"width":240,"height":60,"color":"4"},
 		{"id":"7e2f719d97a7a6ff","type":"text","text":"Relational Database Systems","x":-130,"y":380,"width":300,"height":60,"color":"4"},
@@ -36,7 +32,16 @@
 		{"id":"5a4c385f2a18552a","type":"text","text":"Jinja Templates","x":-430,"y":380,"width":240,"height":60,"color":"4"},
 		{"id":"71f78d54c88195e5","type":"text","text":"HTML / CSS","x":-870,"y":550,"width":240,"height":60,"color":"4"},
 		{"id":"cf3dd95eff34a8d7","type":"text","text":"QWeb / XPath","x":-550,"y":550,"width":240,"height":60,"color":"4"},
-		{"id":"3f07481add7f85c6","type":"text","text":"PostgresSQL","x":-55,"y":520,"width":150,"height":60,"color":"4"}
+		{"id":"3f07481add7f85c6","type":"text","text":"PostgresSQL","x":-55,"y":520,"width":150,"height":60,"color":"4"},
+		{"id":"d2265d158377f4aa","type":"text","text":"BPMN","x":-1290,"y":120,"width":110,"height":60,"color":"4"},
+		{"id":"7213a4758333973f","type":"text","text":"Workflow Diagrams","x":-1600,"y":120,"width":220,"height":60,"color":"4"},
+		{"id":"71899910a5a6da50","type":"text","text":"Business Processes","x":-1320,"y":-140,"width":220,"height":60,"color":"4"},
+		{"id":"7ef0bd3699269234","type":"text","text":"Business Model Notation","x":-1460,"y":0,"width":250,"height":60,"color":"4"},
+		{"id":"d3186492ca129349","type":"text","text":"ERP Processes","x":-1160,"y":0,"width":170,"height":60,"color":"4"},
+		{"id":"98d8f9f5ea635f1d","type":"text","text":"Task Management","x":-410,"y":3,"width":220,"height":57,"color":"4"},
+		{"id":"4672f6dadc4d134e","type":"text","text":"**Odoo Implementation**","x":-580,"y":-277,"width":220,"height":60,"color":"4"},
+		{"id":"059e218a32e4c155","type":"text","text":"Project Management","x":-580,"y":-137,"width":220,"height":60,"color":"4"},
+		{"id":"06d111420d738f5c","type":"text","text":"Project Planning","x":-680,"y":3,"width":220,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"7eae14c8c8e3230b","fromNode":"4672f6dadc4d134e","fromSide":"left","toNode":"71899910a5a6da50","toSide":"top"},
@@ -74,6 +79,11 @@
 		{"id":"053f8d422c5b70e9","fromNode":"a4192ca0a5090941","fromSide":"bottom","toNode":"c27e98740a5adccb","toSide":"top"},
 		{"id":"d160d11bb033bdd3","fromNode":"a4192ca0a5090941","fromSide":"bottom","toNode":"5a4c385f2a18552a","toSide":"top"},
 		{"id":"98d19e19f093b3c5","fromNode":"c27e98740a5adccb","fromSide":"bottom","toNode":"71f78d54c88195e5","toSide":"top"},
-		{"id":"3f3d16009975ac09","fromNode":"c27e98740a5adccb","fromSide":"bottom","toNode":"cf3dd95eff34a8d7","toSide":"top"}
+		{"id":"3f3d16009975ac09","fromNode":"c27e98740a5adccb","fromSide":"bottom","toNode":"cf3dd95eff34a8d7","toSide":"top"},
+		{"id":"1a6803698d5adeb4","fromNode":"7ef0bd3699269234","fromSide":"bottom","toNode":"7213a4758333973f","toSide":"top"},
+		{"id":"5c8a2571764ada45","fromNode":"7ef0bd3699269234","fromSide":"bottom","toNode":"d2265d158377f4aa","toSide":"top"},
+		{"id":"b480d9d7bbc0732e","fromNode":"71899910a5a6da50","fromSide":"bottom","toNode":"d3186492ca129349","toSide":"top"},
+		{"id":"b94cb0eacfe79fa1","fromNode":"059e218a32e4c155","fromSide":"bottom","toNode":"06d111420d738f5c","toSide":"top"},
+		{"id":"57ecf6d4e125ce11","fromNode":"059e218a32e4c155","fromSide":"bottom","toNode":"98d8f9f5ea635f1d","toSide":"top"}
 	]
 }
