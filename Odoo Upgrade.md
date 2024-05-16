@@ -10,6 +10,8 @@ Siehe [[Odoo Community Upgrade]], [[Odoo Enterprise Upgrade]], [[Odoo.sh Upgrade
 
 ## Prozessbeschreibung
 
+![[Odoo Upgrade Process.canvas|Odoo Upgrade Process]]
+
 | Arbeitsschritt                    | Verantwortlich      | Beschreibung                                                                                           |
 | --------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
 | Datenbank prüfen                  | Mint System         | Liste der Module von Dritten erstellen.                                                                |
@@ -21,4 +23,4 @@ Siehe [[Odoo Community Upgrade]], [[Odoo Enterprise Upgrade]], [[Odoo.sh Upgrade
 | Feedback-Loop Test-Uprade starten | Mint System / Kunde | Technische Anpassungen in Upgrade-Prozess vornehmen. Kundenspezifischer Upgrade-Prozess dokumentieren. |
 | Freigabe produktives Upgrade      | Kunde               | Kunde erteilt Freigabe für produktives Upgrade.                                                        |
 | Produktives Upgrade durchführen   | Mint System         | Gemäss Kundenspezifischer Upgrade-Dokumentation das produktive Upgrade durchführen.                    |
-| Produktives Upgrade verifizieren  | Kunde                    | Produktives Upgrade verfizieren.                                                                                                       |
+| Produktives Upgrade verifizieren  | Kunde               | Produktives Upgrade verfizieren.                                                                       |

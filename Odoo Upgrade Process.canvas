@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"0b7c054ee52a772c","type":"text","text":"Analyse module structure","x":-580,"y":-260,"width":200,"height":60},
+		{"id":"48450c16a70353f5","x":-780,"y":-260,"width":160,"height":60,"type":"text","text":"**Sale**"},
+		{"id":"33ba5cf403400bd2","type":"text","text":"Decide on target Odoo version","x":-340,"y":-260,"width":200,"height":60},
+		{"id":"18b4e3c9dc423776","type":"text","text":"Estimate expense","x":-100,"y":-260,"width":200,"height":60},
+		{"id":"1296dc0bf11fe214","type":"text","text":"Create offer","x":140,"y":-260,"width":200,"height":60},
+		{"id":"1dc36164843b309e","type":"text","text":"Setup the upgrade environment","x":-580,"y":-160,"width":200,"height":60},
+		{"id":"74a3e17c3fb8affe","type":"text","text":"**Prepare**","x":-780,"y":-160,"width":160,"height":60},
+		{"id":"8570c437b86cab69","type":"text","text":"Deploy target Odoo version","x":-340,"y":-160,"width":200,"height":60},
+		{"id":"a67de58b8ad179a4","type":"text","text":"Backup production data","x":-100,"y":-160,"width":200,"height":60},
+		{"id":"cd4b03e98f633cec","type":"text","text":"Setup the upgrade environment","x":-580,"y":-60,"width":200,"height":60},
+		{"id":"421f4c1ddc2e8d19","type":"text","text":"**Prepare**","x":-780,"y":-60,"width":160,"height":60},
+		{"id":"fbdd7ec5b3a02a0b","type":"text","text":"Deploy target Odoo version","x":-340,"y":-60,"width":200,"height":60},
+		{"id":"7c0a30b7d1dd96f9","type":"text","text":"Backup production data","x":-100,"y":-60,"width":200,"height":60},
+		{"id":"16f37cac9116bfa5","type":"text","text":"Setup the upgrade environment","x":-580,"y":100,"width":200,"height":60},
+		{"id":"bbe761a44c5417d0","type":"text","text":"**Execute**","x":-780,"y":100,"width":160,"height":60},
+		{"id":"ab6327281b966d65","type":"text","text":"Deploy target Odoo version","x":-340,"y":100,"width":200,"height":60},
+		{"id":"20a72d71592fe389","type":"text","text":"Backup production data","x":-100,"y":100,"width":200,"height":60}
+	],
+	"edges":[
+		{"id":"b34a66d1cc5bc068","fromNode":"48450c16a70353f5","fromSide":"right","toNode":"0b7c054ee52a772c","toSide":"left"},
+		{"id":"9dadcf0ea6b1b12a","fromNode":"0b7c054ee52a772c","fromSide":"right","toNode":"33ba5cf403400bd2","toSide":"left"},
+		{"id":"43fa1cb34f3dbdcf","fromNode":"33ba5cf403400bd2","fromSide":"right","toNode":"18b4e3c9dc423776","toSide":"left"},
+		{"id":"8e070a07f49487bb","fromNode":"18b4e3c9dc423776","fromSide":"right","toNode":"1296dc0bf11fe214","toSide":"left"},
+		{"id":"c655d390ec9e39cd","fromNode":"1dc36164843b309e","fromSide":"right","toNode":"8570c437b86cab69","toSide":"left"},
+		{"id":"dc7bc5e26bdf4eae","fromNode":"74a3e17c3fb8affe","fromSide":"right","toNode":"1dc36164843b309e","toSide":"left"},
+		{"id":"f34375eca91c9208","fromNode":"8570c437b86cab69","fromSide":"right","toNode":"a67de58b8ad179a4","toSide":"left"},
+		{"id":"a98b116f2b9ba825","fromNode":"cd4b03e98f633cec","fromSide":"right","toNode":"fbdd7ec5b3a02a0b","toSide":"left"},
+		{"id":"03497028cf1f1f5f","fromNode":"421f4c1ddc2e8d19","fromSide":"right","toNode":"cd4b03e98f633cec","toSide":"left"},
+		{"id":"497b1afd8223b963","fromNode":"fbdd7ec5b3a02a0b","fromSide":"right","toNode":"7c0a30b7d1dd96f9","toSide":"left"},
+		{"id":"dce1607709150dc1","fromNode":"16f37cac9116bfa5","fromSide":"right","toNode":"ab6327281b966d65","toSide":"left"},
+		{"id":"be9bb9d1bded67e4","fromNode":"bbe761a44c5417d0","fromSide":"right","toNode":"16f37cac9116bfa5","toSide":"left"},
+		{"id":"c27df1612c58e201","fromNode":"ab6327281b966d65","fromSide":"right","toNode":"20a72d71592fe389","toSide":"left"}
+	]
+}
