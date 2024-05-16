@@ -18,11 +18,6 @@
 		{"id":"f654d4801e26b0be","type":"text","text":"GitLab","x":975,"y":520,"width":130,"height":60,"color":"4"},
 		{"id":"2f3672685eb044fb","type":"text","text":"Pull Rquests","x":745,"y":660,"width":170,"height":60,"color":"4"},
 		{"id":"16bc6ee13953e06b","type":"text","text":"Merge Requests","x":948,"y":660,"width":185,"height":60,"color":"4"},
-		{"id":"e0a5d8d8dc08f1d5","type":"text","text":"Owl.js","x":1480,"y":320,"width":120,"height":60,"color":"4"},
-		{"id":"ef76099c1a19933e","type":"text","text":"Frontend Development","x":1600,"y":90,"width":240,"height":60,"color":"4"},
-		{"id":"2c9fac0814718053","type":"text","text":"Frontend Frameworks","x":1600,"y":210,"width":240,"height":60,"color":"4"},
-		{"id":"94fa5f1f19e8ae07","type":"text","text":"React.js","x":1660,"y":320,"width":120,"height":60,"color":"4"},
-		{"id":"42cf0ef2665801f4","type":"text","text":"Vue.js","x":1840,"y":320,"width":120,"height":60,"color":"4"},
 		{"id":"35501db9bc8c4619","type":"text","text":"Continuous Integration","x":1080,"y":360,"width":172,"height":80,"color":"4"},
 		{"id":"7c14b6b66a3cd63e","type":"text","text":"Continuous Deployment","x":1273,"y":360,"width":172,"height":80,"color":"4"},
 		{"id":"7821414f1eb9b6d6","type":"text","text":"Continuous Deliver","x":1166,"y":240,"width":210,"height":60,"color":"4"},
@@ -41,7 +36,13 @@
 		{"id":"98d8f9f5ea635f1d","type":"text","text":"Task Management","x":-410,"y":3,"width":220,"height":57,"color":"4"},
 		{"id":"4672f6dadc4d134e","type":"text","text":"**Odoo Implementation**","x":-580,"y":-277,"width":220,"height":60,"color":"4"},
 		{"id":"059e218a32e4c155","type":"text","text":"Project Management","x":-580,"y":-137,"width":220,"height":60,"color":"4"},
-		{"id":"06d111420d738f5c","type":"text","text":"Project Planning","x":-680,"y":3,"width":220,"height":60,"color":"4"}
+		{"id":"06d111420d738f5c","type":"text","text":"Project Planning","x":-680,"y":3,"width":220,"height":60,"color":"4"},
+		{"id":"e0a5d8d8dc08f1d5","type":"text","text":"Owl.js","x":1480,"y":240,"width":120,"height":60,"color":"4"},
+		{"id":"ef76099c1a19933e","type":"text","text":"Frontend Development","x":1600,"y":10,"width":240,"height":60,"color":"4"},
+		{"id":"2c9fac0814718053","type":"text","text":"Frontend Frameworks","x":1600,"y":130,"width":240,"height":60,"color":"4"},
+		{"id":"94fa5f1f19e8ae07","type":"text","text":"React.js","x":1660,"y":240,"width":120,"height":60,"color":"4"},
+		{"id":"42cf0ef2665801f4","type":"text","text":"Vue.js","x":1840,"y":240,"width":120,"height":60,"color":"4"},
+		{"id":"1736c1e0e3e249bc","type":"text","text":"Object Oriented Programming","x":190,"y":240,"width":240,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"7eae14c8c8e3230b","fromNode":"4672f6dadc4d134e","fromSide":"left","toNode":"71899910a5a6da50","toSide":"top"},
@@ -84,6 +85,7 @@
 		{"id":"5c8a2571764ada45","fromNode":"7ef0bd3699269234","fromSide":"bottom","toNode":"d2265d158377f4aa","toSide":"top"},
 		{"id":"b480d9d7bbc0732e","fromNode":"71899910a5a6da50","fromSide":"bottom","toNode":"d3186492ca129349","toSide":"top"},
 		{"id":"b94cb0eacfe79fa1","fromNode":"059e218a32e4c155","fromSide":"bottom","toNode":"06d111420d738f5c","toSide":"top"},
-		{"id":"57ecf6d4e125ce11","fromNode":"059e218a32e4c155","fromSide":"bottom","toNode":"98d8f9f5ea635f1d","toSide":"top"}
+		{"id":"57ecf6d4e125ce11","fromNode":"059e218a32e4c155","fromSide":"bottom","toNode":"98d8f9f5ea635f1d","toSide":"top"},
+		{"id":"9836fd39bcbd7e11","fromNode":"68a20705a05cb2f6","fromSide":"right","toNode":"1736c1e0e3e249bc","toSide":"top"}
 	]
 }
