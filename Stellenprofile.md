@@ -23,3 +23,4 @@ tags:
 | Aufbau neue Geschäftsfelder                            |          O           |           X            
 ## Open Source Expert
 
+![[Open Source Expert Skilltree.canvas|Open Source Expert Skilltree]]
