@@ -180,7 +180,7 @@ function renderEdge(edge) {
 
 function renderNode(node) {
     const strockWidth = 4
-    const fontWeight = 'bold'
+    const fontWeight = 'normal'
     const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
 
     let textOffsetX = 15
@@ -196,6 +196,12 @@ function renderNode(node) {
         // Compare text length to node length
         if ((node['text'].length / node['width']) >= 0.11 && node['text'].split('\n').length == 1) {
             textOffsetY = 0
+        }
+
+        // Format bold
+        if (node['text'].includes('**')) {
+            node['text'] = node['text'].replaceAll('**', '');
+            fontWeight = 'bold';
         }
 
         content = `
