@@ -10,7 +10,7 @@ This a vision for the Odoo Plattform as a Service.
 
 The following graphic is a high-level view on the architecture of the Odoo PaaS project.
 
-![[Odoo PaaS Big Picture.canvas|Odoo PaaS]]
+![[Odoo PaaS Big Picture.canvas|Odoo PaaS Big Picture]]
 
 ### Code-Forge
 

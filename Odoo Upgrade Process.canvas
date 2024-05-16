@@ -31,7 +31,8 @@
 		{"id":"ab5afa4de6f59745","type":"text","text":"Add todo for each module in project task","x":140,"y":-150,"width":200,"height":80},
 		{"id":"0aaf30973fee216b","type":"text","text":"Add script to the project folder.","x":-100,"y":-150,"width":200,"height":80},
 		{"id":"f1cb14f296ba56a4","type":"text","text":"Define upgrade scenario","x":-340,"y":-140,"width":200,"height":60},
-		{"id":"f67848f78a633627","type":"text","text":"Restore in local environment","x":140,"y":-20,"width":200,"height":60}
+		{"id":"f67848f78a633627","type":"text","text":"Restore in local environment","x":140,"y":-20,"width":200,"height":60},
+		{"id":"09850aaea396af08","type":"text","text":"Rollback if necessary","x":-100,"y":430,"width":200,"height":80}
 	],
 	"edges":[
 		{"id":"b34a66d1cc5bc068","fromNode":"48450c16a70353f5","fromSide":"right","toNode":"0b7c054ee52a772c","toSide":"left"},
@@ -64,6 +65,7 @@
 		{"id":"419865271146d532","fromNode":"93181231f5ff9d51","fromSide":"right","toNode":"5b1109e4df95417f","toSide":"left"},
 		{"id":"4eada402c5f23ddd","fromNode":"d6e8f678ae5fb96c","fromSide":"right","toNode":"f1cb14f296ba56a4","toSide":"left"},
 		{"id":"12d39cae13facd32","fromNode":"f1cb14f296ba56a4","fromSide":"right","toNode":"0aaf30973fee216b","toSide":"left"},
-		{"id":"a7c02add30c09133","fromNode":"a67de58b8ad179a4","fromSide":"right","toNode":"f67848f78a633627","toSide":"left"}
+		{"id":"a7c02add30c09133","fromNode":"a67de58b8ad179a4","fromSide":"right","toNode":"f67848f78a633627","toSide":"left"},
+		{"id":"ec49d2f67136d573","fromNode":"ab6327281b966d65","fromSide":"right","toNode":"09850aaea396af08","toSide":"left"}
 	]
 }
