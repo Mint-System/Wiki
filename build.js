@@ -182,7 +182,7 @@ function formatText(text) {
     // Format bold
     formattedText = text.replace(/\*\*(.*?)\*\*/g, '<bold>$1</bold>');
     plainText = text.replace('**', '');
-    return formattedText, plainText
+    return { formattedText, plainText }
 }
 
 function renderNode(node) {
@@ -197,7 +197,7 @@ function renderNode(node) {
     let content = ''
 
     // Format text
-    formattedText, plainText = formatText(node['text']);
+    let { formattedText, plainText } = formatText(node['text']);
 
     // Render default text
 
