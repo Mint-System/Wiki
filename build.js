@@ -51,10 +51,10 @@ function loopMdFiles() {
 
 const groupBy = key => array =>
     array.reduce((objectsByKeyValue, obj) => {
-        const value = obj[key];
-        objectsByKeyValue[value] = (objectsByKeyValue[value] || []).concat(obj);
-        return objectsByKeyValue;
-    }, {});
+        const value = obj[key]
+        objectsByKeyValue[value] = (objectsByKeyValue[value] || []).concat(obj)
+        return objectsByKeyValue
+    }, {})
 
 function mapColor(color) {
     colors = {
@@ -179,9 +179,13 @@ function renderEdge(edge) {
 }
 
 function formatText(text) {
+    if (typeof text !== 'string') {
+        return { formattedText: null, plainText: null }
+    }
+
     // Format bold
-    formattedText = text.replace(/\*\*(.*?)\*\*/g, '<bold>$1</bold>');
-    plainText = text.replace('**', '');
+    formattedText = text.replace(/\*\*(.*?)\*\*/g, '<bold>$1</bold>')
+    plainText = text.replace('**', '')
     return { formattedText, plainText }
 }
 
@@ -197,7 +201,7 @@ function renderNode(node) {
     let content = ''
 
     // Format text
-    let { formattedText, plainText } = formatText(node['text']);
+    let { formattedText, plainText } = formatText(node['text'])
 
     // Render default text
 
@@ -489,7 +493,7 @@ function convert(content, file) {
 // Build vars
 var links = []
 var files = []
-var args = process.argv.slice(2);
+var args = process.argv.slice(2)
 var firstArg = args[0]
 
 if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
