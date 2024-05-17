@@ -178,6 +178,13 @@ function renderEdge(edge) {
     `
 }
 
+function formatText(text) {
+    // Format bold
+    formattedText = text.replace(/\*\*(.*?)\*\*/g, '<bold>$1</bold>');
+    plainText = text.replace('**', '');
+    return formattedText, plainText
+}
+
 function renderNode(node) {
     const strockWidth = 4
     const fontWeight = 'normal'
@@ -189,19 +196,16 @@ function renderNode(node) {
     let fontSize = 15
     let content = ''
 
+    // Format text
+    formattedText, plainText = formatText(node['text']);
+
     // Render default text
 
-    if (node['text']) {
-
+    if (plainText) {
+        
         // Compare text length to node length
-        if ((node['text'].length / node['width']) >= 0.11 && node['text'].split('\n').length == 1) {
+        if ((plainText.length / node['width']) >= 0.11 && plainText.split('\n').length == 1) {
             textOffsetY = 0
-        }
-
-        // Format bold
-        if (node['text'].includes('**')) {
-            node['text'] = node['text'].replaceAll('**', '');
-            fontWeight = 'bold';
         }
 
         content = `
@@ -214,16 +218,16 @@ function renderNode(node) {
             }
         </style>
         <foreignObject x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" width="${node['width'] - textOffsetX*2}" height="${node['height'] - textOffsetY*2}">
-        <p xmlns="http://www.w3.org/1999/xhtml" class="${node['id']}">${node['text']}</p>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="${node['id']}">${formattedText}</p>
         </foreignObject>
         `
     }
 
     // Render multiline text
 
-    if (node['text'] && node['text'].split('\n').length > 1) {
+    if (plainText && plainText.split('\n').length > 1) {
         let spans = ''
-        for (const line of node['text'].split('\n')) {
+        for (const line of formattedText.split('\n')) {
             spans += `<tspan x="${node['x'] + textOffsetX}" dy="${fontSize + 3}">${line}</tspan>`
         }
         textOffsetY = 10
