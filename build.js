@@ -185,7 +185,10 @@ function formatText(text) {
 
     // Format bold
     formattedText = text.replace(/\*\*(.*?)\*\*/g, '<bold>$1</bold>')
+
+    // Cleanup
     plainText = text.replace('**', '')
+
     return { formattedText, plainText }
 }
 
@@ -219,6 +222,12 @@ function renderNode(node) {
                 font-size: ${fontSize}px;
                 font-weight: ${fontWeight};
                 color: ${fontColor};
+            }
+            p bold {
+                font-weight: bold;
+            }
+            p em {
+                font-style: italic;
             }
         </style>
         <foreignObject x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" width="${node['width'] - textOffsetX*2}" height="${node['height'] - textOffsetY*2}">
