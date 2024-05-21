@@ -21,6 +21,6 @@ tags:
 | Akquise neue Projekte                                  |          O           |           X            |
 | *Geschäftsentwicklung*                                 |                      |                        |
 | Aufbau neue Geschäftsfelder                            |          O           |           X            
-## Open Source Expert
+## Odoo Implementation Skilltree
 
-![[Open Source Expert Skilltree.canvas|Open Source Expert Skilltree]]
+![[Odoo Implementation Skilltree.canvas|Odoo Implementation Skilltree]]
