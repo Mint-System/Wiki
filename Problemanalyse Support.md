@@ -15,4 +15,4 @@ Solche Probleme sind sehr schwierig zum analysieren. Die Performance von einem S
 * Ist das Problem an einem bestimmten Zeitpunk in Erscheinung getreten?
 
 Tests:
- * [[Firefox Handbuch]]
+ * [[Firefox HowTo]]

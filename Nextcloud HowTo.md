@@ -2,7 +2,7 @@
 tags:
 - HowTo
 ---
-# Nextcloud Handbuch
+# Nextcloud HowTo
 
 ![[Nextcloud Logo.png]]
 

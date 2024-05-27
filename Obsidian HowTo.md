@@ -2,7 +2,7 @@
 tags:
 - Definition
 ---
-# Obsidian Handbuch
+# Obsidian HowTo
 
 ![[Obsidian Logo.png]]
 

@@ -2,7 +2,7 @@
 tags:
 - Definition
 ---
-# Infomaniak Handbuch
+# Infomaniak HowTo
 
 ## Autoresponder einschalten
 

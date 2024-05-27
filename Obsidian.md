@@ -9,4 +9,4 @@ a local folder of plain text Markdown files.
 
 Website: <https://obsidian.md/>
 
-Dazu gibt es das [[Obsidian Handbuch]].
+Dazu gibt es das [[Obsidian HowTo]].

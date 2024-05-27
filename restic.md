@@ -6,5 +6,5 @@ tags:
 
 Website: <https://restic.net/>
 
-[[Restic Handbuch]]\
+[[Restic HowTo]]\
 [[Restic Troubleshooting]]

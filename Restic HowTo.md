@@ -2,7 +2,7 @@
 tags:
 - HowTo
 ---
-# Restic Handbuch
+# Restic HowTo
 
 ## Repo auf Server öffnen
 

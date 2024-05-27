@@ -8,7 +8,7 @@ Website: <https://www.jenkins.io/>
 
 Weiterführende Links:
 
-* [[Jenkins Handbuch]]
+* [[Jenkins HowTo]]
 * [[Jenkins Security]]
 * [[Jenkins Hosting]]
 ## Docker Umgebung

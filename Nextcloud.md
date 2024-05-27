@@ -8,7 +8,7 @@ tags:
 Website: <https://nextcloud.com/>
 
 [[Nextcloud Troubleshooting]]\
-[[Nextcloud Handbuch]]\
+[[Nextcloud HowTo]]\
 [[Nextcloud Painpoints]]\
 [[Nextcloud Apps]]\
 [[Nextcloud Enterprise]]\

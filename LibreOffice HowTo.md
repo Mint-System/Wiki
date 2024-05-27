@@ -2,10 +2,10 @@
 tags:
 - Definition
 ---
-# LibreOffice Handbuch
+# LibreOffice HowTo
 
 ## Duplikate entfernen
 
 Standardfilter anlegen und unter *Options* die Option *No duplications* auswählen.
 
-![[LibeOffice Handbuch Duplikate entfernen.png]]
+![[LibeOffice HowTo Duplikate entfernen.png]]
