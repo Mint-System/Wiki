@@ -6,7 +6,7 @@ tags:
 
 Tätigkeiten:
 
-* Sicherhehits-Vorlaufzeiten sammeln
+* Sicherheits-Vorlaufzeiten sammeln
 * Kapazitäten der Arbeitsplätze definieren
 
 Ergebnis: Produktionsabläufe können geplant werden.
