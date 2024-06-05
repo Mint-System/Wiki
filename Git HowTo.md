@@ -56,6 +56,7 @@ task git-submodule-remove addons/odoo_apps_thirdparty
 task git-submodule-remove addons/product_attribute
 task git-submodule-remove addons/social
 task git-submodule-remove addons/stock_logistics_workflow
+task git-submodule-remove addons/vertical_saas
 task git-submodule-remove oca/account-closing
 task git-submodule-remove oca/account-financial-reporting
 task git-submodule-remove oca/account-financial-tools
