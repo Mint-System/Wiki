@@ -19,6 +19,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Veröffentlicht
 
+[[URec-Team]]\
 [[Von Bexio nach Odoo]]\
 [[Besser als Alternativ]]\
 [[Odoo 16 - Ein Meilenstein ]]\
