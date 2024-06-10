@@ -85,7 +85,6 @@ task git-submodule-remove oca/queue
 task git-submodule-remove oca/reporting-engine
 task git-submodule-remove oca/sale-reporting
 task git-submodule-remove oca/server-ux
-task git-submodule-remove oca/social
 task git-submodule-remove oca/stock-logistics-warehouse
 task git-submodule-remove oca/timesheet
 task git-submodule-remove oca/website
