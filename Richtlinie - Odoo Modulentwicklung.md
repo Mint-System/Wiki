@@ -4,6 +4,23 @@ tags:
 ---
 # Richtlinie - Odoo Modulentwicklung
 
+## Quality Assurance
+
+Here is check list before doing any commit:
+
+- The module can be installed without errors
+- The code of the module is linted
+- There are not typos in strings and texts
+- The readme file of the repo lists the module and its summary
+- There are not unnecessary files in the stage
+- Every string is translated
+- No copy paste of AI-code from the prompt
+- The modules is tested in the UI.
+
+## Testing
+
+Writing tests is welcomed, but [[Odoo Module Test Instructions]] are sufficient.
+
 ## Namenskonventionen
 
 ### Ansichten

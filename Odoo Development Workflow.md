@@ -8,6 +8,3 @@ This workflow describes the how a business analyst collaborates with an Odoo dev
 
 ![[Odoo Development Worfklow.canvas|Odoo Development Worfklow]]
 
-## Testing
-
-Writing tests is welcomed, but [[Odoo Module Test Instructions]] are sufficient.
