@@ -4,6 +4,10 @@ tags:
 ---
 # Richtlinie - Odoo Modulentwicklung
 
+## Guidelines
+
+We following the [OCA Guidelines](https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst) .
+
 ## Quality Assurance
 
 Here is check list before doing any commit:
@@ -15,7 +19,7 @@ Here is check list before doing any commit:
 - There are not unnecessary files in the stage
 - Every string is translated
 - No copy paste of AI-code from the prompt
-- The modules is tested in the UI.
+- The modules is tested in the UI
 
 ## Testing
 

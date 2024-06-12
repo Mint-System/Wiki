@@ -2,7 +2,6 @@
 tags:
 - HowTo
 ---
-
 # Develope an Odoo module
 
 When developing an Odoo module the best way to get started is by adopting the [[OCA]] and [[Odoo S.A.]] best practices.
