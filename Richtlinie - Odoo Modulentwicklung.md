@@ -19,7 +19,7 @@ Here is check list before doing any commit:
 - There are not unnecessary files in the stage
 - Every string is translated
 - No copy paste of AI-code from the prompt
-- The modules is tested in the UI
+- The module is tested in the UI
 
 ## Testing
 
