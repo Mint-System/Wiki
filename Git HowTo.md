@@ -4,6 +4,19 @@ tags:
 ---
 # Git HowTo
 
+## Summary of push
+
+This how you can create a summary of your git push:
+
+```bash
+cd odoo-cd
+git switch main
+git merge int
+echo "Summary of the commits diff:"
+git --no-pager log origin/main..main --oneline
+git push
+```
+
 ## Fork aktualisieren
 
 In diesem Beispiel haben wir einen Fork:
@@ -13,44 +26,44 @@ In diesem Beispiel haben wir einen Fork:
 
 Repo öffnen.
 
-```
+```bash
 cd Sozialinfo-Odoo-Build
 git switch 16.0
 ```
 
 Mit `git remote -v` im Repo die Remotes anzeigen. Wenn nötig den Upsream hinzufügen:
 
-```
+```bash
 git remote add upstream git@github.com:Mint-System/Odoo-Build.git
 ```
 
  Mit `git switch Mint-System-16.0` den Upstream-Branch wechseln. Wenn nötig erstellen:
 
-```
+```bash
 git switch --oprhan Mint-System-16.0 
 ```
 
 Von dort den Upstream-Branch pullen.
 
-```
+```bash
 git pull upstream
 ```
 
 Dann in den Main-Branch wechseln.
 
-```
+```bash
 git switch 16.0
 ```
 
 Und den Upstream-Branch mergen.
 
-```
+```bash
 git merge Mint-System-16.0
 ```
 
 Alle Konflikte beheben und unnötige Submodule entfernen.
 
-```
+```bash
 task git-submodule-remove addons/manufacture
 task git-submodule-remove addons/odoo_apps_thirdparty
 task git-submodule-remove addons/product_attribute
@@ -95,7 +108,7 @@ task git-submodule-remove oca/maintenance
 
 Referenzen der Submodule aktualisieren.
 
-```
+```bash
 task checkout 16.0
 task git-submodule-pull
 ```
