@@ -15,8 +15,9 @@ Here is check list before doing any commit:
 - The module can be installed without errors
 - The code of the module is linted
 - There are not typos in strings and texts
+- CI tests are passed
 - The readme file of the repo lists the module and its summary
-- There are not unnecessary files in the stage
+- There are no unnecessary files in the stage
 - Every string is translated
 - No copy paste of AI-code from the prompt
 - The module is tested in the UI
