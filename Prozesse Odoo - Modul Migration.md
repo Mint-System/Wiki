@@ -4,7 +4,7 @@ tags:
 ---
 # Prozesse Odoo - Modul Migration
 
-## Odoo Submodule Branch initialisieren
+## Odoo Submodule-Branch initialisieren
 
 Arbeitsschritte:
 * Navigation in das Submodule `cd addons/$REPO`
@@ -17,8 +17,8 @@ Arbeitsschritte:
 ## Odoo Modul migrieren
 
 Arbeitsschritte:
-* Odoo branch auschecken `task checkout $BRANCH`
-* Navigation in das Modul Repo `cd addons/$REPO`
+* Odoo Branch auschecken `task checkout $BRANCH`
+* Navigation in das Submodule-Repo `cd addons/$REPO`
 * Auschecken Modul von vorhergehender Version `git checkout $OLD_BRANCH $MODULE`
 * Modul linten und anpassen `task lint-module addons/$REPO/$MODULE`
 * Modul installieren und testen `task install-module addons/$REPO/$MODULE`
@@ -26,4 +26,4 @@ Arbeitsschritte:
 * README aktualisieren `task update-readme addons/$REPO/README.md`
 * Migration committen `cd addons/$REPO; git add .; git commit -m "migration $MODULE"`
 * Pull-Request erstellen und Review beantragen
-* Wenn PR gemerged ist das Subodule-Repo deployen
+* Wenn PR gemerged ist das Submodule-Repo deployen
