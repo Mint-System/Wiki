@@ -2,4 +2,4 @@
 tags:
 - Prozess
 ---
-# Prozesse Beratung: Optimierung
+# Prozesse Beratung - Optimierung

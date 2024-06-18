@@ -10,8 +10,6 @@ Siehe [[Odoo Community Upgrade]], [[Odoo Enterprise Upgrade]], [[Odoo.sh Upgrade
 
 ## Prozessbeschreibung
 
-![[Odoo Upgrade Process.canvas|Odoo Upgrade Process]]
-
 | Arbeitsschritt                    | Verantwortlich      | Beschreibung                                                                                           |
 | --------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
 | Datenbank prüfen                  | Mint System         | Liste der Module von Dritten erstellen.                                                                |

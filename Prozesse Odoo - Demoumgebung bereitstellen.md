@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: Demoumgebung bereitstellen
+# Prozesse Odoo - Demoumgebung bereitstellen
 
 ## Demoumgebung installieren
 

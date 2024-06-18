@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Projektmanagement: Odoo Projekt erstellen
+# Prozesse Projektmanagement - Odoo Projekt erstellen
 Aus einem Angebot ein Projekt erstellen.
 
 Arbeitsschritte:

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Softwareentwicklung: Git-Repository
+# Prozesse Softwareentwicklung - Git-Repository
 
 ## Profil einrichten
 

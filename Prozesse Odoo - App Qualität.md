@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Qualität
+# Prozesse Odoo - App Qualität
 Installation Modul Qualität `quality_control`.
 
 ## Installation

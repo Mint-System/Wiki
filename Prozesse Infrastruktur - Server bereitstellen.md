@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Server bereitstellen
+# Prozesse Infrastruktur - Server bereitstellen
 Bereitstellung eines neuen Server.
 
 ## Server mit Ansible bereitstellen

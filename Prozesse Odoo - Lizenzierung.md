@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: Lizenzierung
+# Prozesse Odoo - Lizenzierung
 
 ## Wechsel auf Enterprise Edition
 

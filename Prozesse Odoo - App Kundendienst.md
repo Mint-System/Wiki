@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Kundendienst
+# Prozesse Odoo - App Kundendienst
 Installation Modul Kundendienst `helpdesk`.
 
 ## Installation

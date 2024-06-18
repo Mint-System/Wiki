@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Softwareentwicklung: Odoo Module
+# Prozesse Softwareentwicklung - Odoo Module
 
 ## Modul initialisieren
 

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur:  Installation Raspberry Pi
+# Prozesse Infrastruktur -  Installation Raspberry Pi
 Bereitstellung Raspberry Pi.
 
 ## Raspberry Pi Image ausführen

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Akquise: Workshop Gap-Analyse
+# Prozesse Akquise - Workshop Gap-Analyse
 
 ## Workshop vorbereiten
 

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Finanzen: Jahresabschluss
+# Prozesse Finanzen - Jahresabschluss
 
 Arbeitsschritte zum Erstellen des Jahresabschlusses.
 

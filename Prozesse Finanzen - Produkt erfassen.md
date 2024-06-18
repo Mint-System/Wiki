@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Finanzen: Produkt erfassen
+# Prozesse Finanzen - Produkt erfassen
 
 ## Hardware erfassen
 

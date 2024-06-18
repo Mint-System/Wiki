@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App CRM
+# Prozesse Odoo - App CRM
 Installation Modul CRM `crm`
 
 ## Installation

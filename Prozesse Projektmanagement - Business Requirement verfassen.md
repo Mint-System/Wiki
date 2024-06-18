@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Projektmanagement: Business Requirement verfassen
+# Prozesse Projektmanagement - Business Requirement verfassen
 
 ## Stakeholder Story formulieren
 

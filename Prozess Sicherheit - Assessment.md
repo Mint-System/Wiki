@@ -2,4 +2,4 @@
 tags:
 - Prozess
 ---
-# Prozesse Sicherheit: Assessment
+# Prozesse Sicherheit - Assessment

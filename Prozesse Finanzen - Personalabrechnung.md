@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Finanzen: Personalabrechnung
+# Prozesse Finanzen - Personalabrechnung
 Prozesse zur Personalabrechung der Mint System.
 ## Lohnabrechnung erstellen
 

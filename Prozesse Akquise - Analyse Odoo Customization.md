@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Akquise: Analyse Odoo Customization
+# Prozesse Akquise - Analyse Odoo Customization
 
 Zustand eines Odoo Projekts bewerten.
 

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: Migration
+# Prozesse Odoo - Migration
 
 ## Odoo Submodule Branch initialisieren
 

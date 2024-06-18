@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Personal: Onboarding
+# Prozesse Personal - Onboarding
 
 ## Personal
 

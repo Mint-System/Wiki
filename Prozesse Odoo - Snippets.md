@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: Snippets
+# Prozesse Odoo - Snippets
 
 ## Snippet einfügen
 

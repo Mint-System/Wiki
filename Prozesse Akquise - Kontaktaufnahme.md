@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Akquise: Kontaktaufnahme
+# Prozesse Akquise - Kontaktaufnahme
 Kontakaufnahme mit dem Kunden.
 
 ## Kalt-Akquise

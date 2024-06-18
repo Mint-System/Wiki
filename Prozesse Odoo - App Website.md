@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Website
+# Prozesse Odoo - App Website
 Installation Module Website `website`.
 
 ## Installation

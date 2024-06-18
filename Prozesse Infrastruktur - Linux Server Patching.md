@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Linux Sever Patching
+# Prozesse Infrastruktur - Linux Sever Patching
 Konfiguration Linux Server Patching.
 
 ## Neuer Server hinzufügen

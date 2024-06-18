@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Server entfernen
+# Prozesse Infrastruktur - Server entfernen
 Einen Server entfernen.
 
 ## Server aus Ansible Inventar entfernen

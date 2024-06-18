@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Mail-Account
+# Prozesse Infrastruktur - Mail-Account
 Mail-Accounts werden von [[Infomaniak]] gehostet.
 
 ## Mail-Account anlegen

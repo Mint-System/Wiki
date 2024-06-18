@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Finanzen: Ausgangsrechnungen
+# Prozesse Finanzen - Ausgangsrechnungen
 Rechnungen erstellen und versenden.
 
 ## Arbeitsrapport validieren

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Finanzen: Eingangsrechnungen
+# Prozesse Finanzen - Eingangsrechnungen
 Lieferantenrechnungen verbuchen.
 
 ## Eingangsrechnung erstellen

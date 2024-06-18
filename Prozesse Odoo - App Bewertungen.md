@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Bewertungen
+# Prozesse Odoo - App Bewertungen
 Installation Modul Bewertungen `hr_appraisal`
 
 ## Installation

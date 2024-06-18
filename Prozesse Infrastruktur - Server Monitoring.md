@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Server Monitoring
+# Prozesse Infrastruktur - Server Monitoring
 Server in Monitoring einbinden.
 
 ## Server in Monitoring registrieren

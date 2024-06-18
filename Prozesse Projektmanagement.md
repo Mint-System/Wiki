@@ -23,3 +23,4 @@ graph LR;
 * [[Prozesse Projektmanagement - Aufgaben verwalten]]
 * [[Prozesse Projektmanagement - Business Requirement verfassen]]
 * [[Prozesse Projektmanagement - Ressourcenplanung]]
+* [[Prozesse Projektmanagement - Odoo Upgrade]]

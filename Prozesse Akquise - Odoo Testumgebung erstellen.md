@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Akquise: Odoo Testumgebung erstellen
+# Prozesse Akquise - Odoo Testumgebung erstellen
 
 ## Odoo Testumgebung erstellen
 

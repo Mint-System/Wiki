@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Installation BigBlueButton
+# Prozesse Infrastruktur - Installation BigBlueButton
 
 Arbeitsschritte:
 * URL gemäss Schema `bbb.[company].mintsys.ch` oder custom definieren

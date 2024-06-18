@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Fertigung
+# Prozesse Odoo - App Fertigung
 Installation Modul Fertigung `mrp`
 
 ## Installation

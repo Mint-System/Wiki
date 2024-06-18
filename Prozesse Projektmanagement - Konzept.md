@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Projektmanagement: Konzept
+# Prozesse Projektmanagement - Konzept
 
 Ein Konzept besteht aus einem Management Summary und einer Projekplanung mit Phasen.
 

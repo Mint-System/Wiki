@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Finanzen: Mehrwertsteuerabrechnung
+# Prozesse Finanzen - Mehrwertsteuerabrechnung
 
 ## Saldosteuern berechnen
 

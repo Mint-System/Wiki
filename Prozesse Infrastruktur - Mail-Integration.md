@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Mail-Integration
+# Prozesse Infrastruktur - Mail-Integration
 Mailing-Dienste bereitstellen oder integrieren.
 
 ## Mail-Account bei Kunde bestellen

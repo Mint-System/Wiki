@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Projektmanagement: Aufwandsschätzung
+# Prozesse Projektmanagement - Aufwandsschätzung
 
 Vorgehen für die Aufwandsschätzung.
 

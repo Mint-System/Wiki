@@ -2,5 +2,5 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Dashboard
+# Prozesse Odoo - App Dashboard
 Installation Modul Dashboard `dashboard`.

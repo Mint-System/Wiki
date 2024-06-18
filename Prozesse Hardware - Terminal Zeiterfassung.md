@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Hardware: Terminal Zeiterfassung
+# Prozesse Hardware - Terminal Zeiterfassung
 
 ## Terminal vorbereiten
 

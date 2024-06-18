@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Projektmanagement: Aufgaben verwalten
+# Prozesse Projektmanagement - Aufgaben verwalten
 Aufgabenverwaltung im Odoo
 
 ## Aufgabe erstellen

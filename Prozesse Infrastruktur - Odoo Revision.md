@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Odoo Revision
+# Prozesse Infrastruktur - Odoo Revision
 Bereitstellung einer Odoo Revision.
 ## Odoo Revision erstellen
 

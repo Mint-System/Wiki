@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Abonnements
+# Prozesse Odoo - App Abonnements
 Installation Modul Lager `subscription`.
 
 ## Installation

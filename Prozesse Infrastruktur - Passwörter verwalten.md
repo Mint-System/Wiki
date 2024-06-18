@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Passwörter verwalten
+# Prozesse Infrastruktur - Passwörter verwalten
 
 ## Passwortspeicher anlegen
 

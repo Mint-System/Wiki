@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Finanzen: Kostenrechnung
+# Prozesse Finanzen - Kostenrechnung
 
 Arbeitsschritte zum Erstellen der Kostenrechnung.
 

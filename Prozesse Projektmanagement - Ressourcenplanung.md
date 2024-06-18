@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Projektmanagement: Ressourcenplanung
+# Prozesse Projektmanagement - Ressourcenplanung
 
 ## Mitarbeiter auf Projekte planen
 

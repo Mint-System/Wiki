@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: Odoo.sh Plattform bereitstellen
+# Prozesse Odoo - Odoo.sh Plattform bereitstellen
 
 ## Initialisierung
 

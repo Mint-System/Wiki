@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Wartung
+# Prozesse Infrastruktur - Wartung
 Wartung eines Servers.
 
 ## Wartungsfenster ankündigen

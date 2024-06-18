@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Personal: Bewerbung
+# Prozesse Personal - Bewerbung
 
 ## Bewerbung prüfen
 

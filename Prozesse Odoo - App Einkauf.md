@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Einkauf
+# Prozesse Odoo - App Einkauf
 Installation Modul Einkauf `purchase`
 
 ## Installation

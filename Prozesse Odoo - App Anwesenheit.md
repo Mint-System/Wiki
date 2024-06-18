@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Anwesenheit
+# Prozesse Odoo - App Anwesenheit
 Installation Modul Anwesenheit (hr_attendance)
 
 ## Installation

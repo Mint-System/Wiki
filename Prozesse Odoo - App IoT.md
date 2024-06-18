@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App IoT
+# Prozesse Odoo - App IoT
 Installation Modul Kundenverwaltung `iot`.
 
 ## Installation

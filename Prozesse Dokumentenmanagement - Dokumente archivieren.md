@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Dokumentenmanagement: Dokumente archivieren
+# Prozesse Dokumentenmanagement - Dokumente archivieren
 
 ## Archivierung durchführen
 

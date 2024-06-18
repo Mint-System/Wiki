@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Akquise: Qualifikation
+# Prozesse Akquise - Qualifikation
 Qualifizierung des Kunden.
 
 ## Kriterien

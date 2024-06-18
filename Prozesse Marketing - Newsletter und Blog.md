@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Marketing: Newsletter und Blog
+# Prozesse Marketing - Newsletter und Blog
 
 ## Newsletter vorbereiten
 

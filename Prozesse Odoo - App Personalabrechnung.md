@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Personalabrechnung
+# Prozesse Odoo - App Personalabrechnung
 Installation Modul Personalabrechnung `hr_payroll`.
 
 ## Installation

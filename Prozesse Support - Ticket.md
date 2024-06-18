@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Support: Ticket
+# Prozesse Support - Ticket
 
 ## Ticket erstellen
 

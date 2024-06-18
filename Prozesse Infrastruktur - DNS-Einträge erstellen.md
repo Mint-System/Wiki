@@ -3,7 +3,7 @@ tags:
 - Prozess
 ---
 
-# Prozesse Infrastruktur: DNS-Einträge erstellen
+# Prozesse Infrastruktur - DNS-Einträge erstellen
 
 ## DNS-Einträge für Server erstellen
 

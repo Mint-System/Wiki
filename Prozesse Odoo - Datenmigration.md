@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: Datenmigration
+# Prozesse Odoo - Datenmigration
 
 ## Initialisierung
 

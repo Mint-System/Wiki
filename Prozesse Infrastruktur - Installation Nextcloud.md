@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Installation Nextcloud
+# Prozesse Infrastruktur - Installation Nextcloud
 Bereistellung Nextcloud-Umgebung.
 
 ## Nextcloud-Umgebung bereitstellen

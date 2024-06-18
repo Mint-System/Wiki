@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Akquise: Anforderungsanalyse
+# Prozesse Akquise - Anforderungsanalyse
 
 Anforderungsanalyse efolgt gemäss "[[Basiswissen Requirements Engineering]] - Klaus Pohl". In Zusammenarbeit mit dem Kunden wird ein Anforderungskatalog erstellt.
 

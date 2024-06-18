@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo: App Reseller
+# Prozesse Odoo - App Reseller
 Installation Modul Reseller Comissions `partner_comission`.
 
 ## Installation

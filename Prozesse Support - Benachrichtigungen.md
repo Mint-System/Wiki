@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Support: Benachrichtigungen
+# Prozesse Support - Benachrichtigungen
 Support-Benachrichtigungen verwalten.
 
 ## Benachrichtigungen abonnieren

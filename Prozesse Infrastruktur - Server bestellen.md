@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur: Server bestellen
+# Prozesse Infrastruktur - Server bestellen
 Server bei [[Team Infrastruktur]] bestellen.
 
 ## Managed Server bestellen
