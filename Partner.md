@@ -20,6 +20,7 @@ Geschäftsbeziehungen der Mint System.
 ## Odoo Treuhänder
 
 * [[Gaapex]]
+* [[OPTEX Treuhand AG]]
 
 ## Management Luftfahrt
 
