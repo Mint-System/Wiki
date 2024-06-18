@@ -33,6 +33,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Eros     | Keycloak-Server Sozialinfo                               | `eros.mint-system.com`     | Infomania   |
 | Gaia     | [[BigBlueButton]] [[Mint System GmbH]]                   | `gaia.mint-system.com`     | Hetzner     |
 | Hades    | Demoserver Nextcloud [[Mint System GmbH]]                | `hades.mint-system.com`    | Hetzner     |
+| Hebe     | Server Localfish AG                                      | `hebe.mint-system.com`     | Hetzner     |
 | Helios   | Server MBBMoser AG                                       | `helios.mint-system.com`   | Off-Premise |
 | Hermes   | Demoserver [[Odoo]] [[Mint System GmbH]]                 | `hermes.mint-system.com`   | Hetzner     |
 | Hestia   | Server Donut Economics Switzerland                       | `hestia.mint-system.com`   | Hetzer      |
@@ -47,6 +48,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Momus    | Server Swiss Fragrance GmbH                              | `momus.mint-system.com`    | Hetzner     |
 | Moros    | Nextcloud KMSU                                           | `moros`                    | Off-Premise |
 | Nyx      | Server Arnold Umzüge AG                                  | `nyx.mint-system.com`      | Hetzner     |
+| Pan      | Neuer Server Trimada AG                                  | `pan.mint-system.com`      | Hetzner     |
 | Poseidon | Server Basis57                                           | `poseidon.mint-system.com` | ExoScale    |
 | Rhea     | Server Ludoland                                          | `rhea`                     | Off-Premise |
 | Selene   | Odoo-Server Sozialinfo                                   | `selene.mint-system.ch`    | Infomaniak  |
@@ -55,9 +57,9 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Tyche    | Server Carbo-Link AG                                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus    | Server Bergkäserei Aschwanden AG                         | `zelus.mint-system.com`    | Hetzner     |
 | Zeus     | Server [[Mint System GmbH]]                              | `zeus.mint-system.com`     | Hetzner     |
-| Hebe     | Server Localfish AG                                      | `gebe.mint-system.com`     | Hetzer      |
+
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
-* Pan (used)
+* 

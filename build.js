@@ -149,12 +149,12 @@ function renderEdge(edge) {
             labelX += Math.abs(fromX - toX)/2
         }
         if (toY < fromY) {
-            labelY += Math.abs(toY - fromY)/2
+            labelY -= Math.abs(fromY - toY)/2
         }
         if (toY > fromY) {
             labelY += Math.abs(fromY - toY)/2
         }
-        // console.log(`(${labelX}/${labelY}) toX:${toX} fromX:${fromX} toY:${toY} fromY:${fromY}`)
+        // console.log(`${edge['label']}: X:${labelX}/Y:${labelY} from X:${fromX}/Y:${fromY} to X:${toX}/Y:${toY}`)
 
         label_text = edge['label']
         if (debug) {
@@ -350,6 +350,12 @@ function convertCanvasToSVG(content) {
     
     svg += `<svg viewBox="${minX-spacing} ${minY-spacing} ${width+spacing*2} ${height+spacing*2}" xmlns="http://www.w3.org/2000/svg">\n`
 
+    // Render group as rect
+
+    for (const group of nodes.filter(node => (node['type'] === 'group'))) {
+        svg += renderGroup(group)
+    }
+
     // Render edges as lines
 
     for (const edge of edges) {
@@ -408,12 +414,6 @@ function convertCanvasToSVG(content) {
         edge['toY'] = toY
 
         svg += renderEdge(edge)
-    }
-
-    // Render group as rect
-
-    for (const group of nodes.filter(node => (node['type'] === 'group'))) {
-        svg += renderGroup(group)
     }
 
     // Render nodes as rect
