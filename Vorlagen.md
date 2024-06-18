@@ -30,3 +30,4 @@ tags:
 | [[Vorlage Troubleshooting]]               |
 | [[Vorlage Use Cases]]                     |
 | [[Vorlage Worklog]]                       |
+| [[Odoo Upgrade from XX.0 to XX.0]]        |
