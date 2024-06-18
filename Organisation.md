@@ -5,8 +5,6 @@ tags:
 
 # Organisation
 
-Die Organisationsform der Mint System GmbH ist eine Soziokratie. Das verwendete Framework ist [[Sociocracy 3.0|S3]].
+Eine Visualisierung der Mint System GmbH Organisation:
 
-Eine Visualisierung der Organisation:
-
-![[S3.canvas|S3]]
+![[Organisation.canvas|Organisation]]

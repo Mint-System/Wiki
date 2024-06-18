@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"2afa7891e1b05fb7","type":"group","x":-245,"y":-120,"width":845,"height":340,"label":"C-Level"},
+		{"id":"ab910f6fa7fd615f","type":"text","text":"Akquise\nProdukte\nDienstleistungen","x":240,"y":-100,"width":180,"height":90,"color":"6"},
+		{"id":"bffc262d6fc40b8e","type":"text","text":"CEO","x":460,"y":-85,"width":100,"height":60,"color":"1"},
+		{"id":"b643a544c58a351c","type":"text","text":"Projekte\nPersonal\nFinanzen","x":-20,"y":-100,"width":200,"height":90,"color":"6"},
+		{"id":"3922bcf57aa024e4","type":"text","text":"COO","x":-200,"y":-85,"width":110,"height":60,"color":"3"},
+		{"id":"a9cb8dd8f71a2dc3","type":"text","text":"Infrastruktur\nEntwicklung\nSupport\nProzesse","x":120,"y":80,"width":160,"height":120,"color":"6"},
+		{"id":"bb4048127892891f","type":"text","text":"CTO","x":-40,"y":110,"width":105,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"695750362e8b18f8","fromNode":"bb4048127892891f","fromSide":"right","toNode":"a9cb8dd8f71a2dc3","toSide":"left"},
+		{"id":"f8ed385cbee7bafc","fromNode":"3922bcf57aa024e4","fromSide":"right","toNode":"b643a544c58a351c","toSide":"left"},
+		{"id":"df2006c444fcaf11","fromNode":"a9cb8dd8f71a2dc3","fromSide":"top","toNode":"b643a544c58a351c","toSide":"bottom","label":"Unterstützt"},
+		{"id":"2deb89216b06aad5","fromNode":"bffc262d6fc40b8e","fromSide":"left","toNode":"ab910f6fa7fd615f","toSide":"right"},
+		{"id":"5015b0878d035fba","fromNode":"a9cb8dd8f71a2dc3","fromSide":"top","toNode":"ab910f6fa7fd615f","toSide":"bottom","label":"Unterstützt"},
+		{"id":"dff69066448077b6","fromNode":"b643a544c58a351c","fromSide":"right","toNode":"ab910f6fa7fd615f","toSide":"left","fromEnd":"arrow"}
+	]
+}
