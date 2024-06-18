@@ -32,6 +32,7 @@ Geschäftsbeziehungen der Mint System.
 
 ## Open Source Partner
 
+* [[VSHN AG]]
 * [[Cybrosys]]
 
 ## Softwareentwicklung
