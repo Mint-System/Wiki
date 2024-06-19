@@ -41,7 +41,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 * [[Phase Anwesenheit]]
 * [[Phase Aufwand]]
 * [[Phase Aussendienst]]
-* [[Phase Diskussion]]
+* [[Phase Dialog]]
 * [[Phase Einkauf]]
 * [[Phase E-Mail-Marketing]]
 * [[Phase Fertigung]]

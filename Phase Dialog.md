@@ -2,7 +2,7 @@
 tags:
 - Phasen
 ---
-# Phase Diskussion
+# Phase Dialog
 
 Tätigkeiten:
 
