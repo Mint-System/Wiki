@@ -9,10 +9,6 @@ tags:
 This how you can push until a specific commit (hash):
 
 ```bash
-cd odoo-cd
-git switch main
-git fetch origin int
-git merge int
 COMMIT=1f72f3ba764e4ece0cd556779781b414c2efacb6
 echo "Summary of the commits diff:"
 git --no-pager log origin/main..$COMMIT --oneline
