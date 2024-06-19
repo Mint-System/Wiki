@@ -4,17 +4,19 @@ tags:
 ---
 # Git HowTo
 
-## Summary of push
+## Push until specific commit
 
-This how you can create a summary of your git push:
+This how you can push until a specific commit (hash):
 
 ```bash
 cd odoo-cd
 git switch main
+git fetch origin int
 git merge int
+COMMIT=1f72f3ba764e4ece0cd556779781b414c2efacb6
 echo "Summary of the commits diff:"
-git --no-pager log origin/main..main --oneline
-git push
+git --no-pager log origin/main..$COMMIT --oneline
+git push origin $COMMIT:main
 ```
 
 ## Fork aktualisieren
