@@ -21,9 +21,9 @@ Ergebnis: Interne und externe Kommunikation erfolgt mit Odoo
 
 **Suche**
 
-* Wie suchen Sie nach verganenen Chat-Verläufen?
+* Wie suchen Sie nach vergangenen Chat-Verläufen?
 
-## Externe Kommuikation definieren
+## Externe Kommunikation definieren
 
 **Vorlagen**
 
