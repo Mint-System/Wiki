@@ -20,7 +20,7 @@ Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösunge
 * [[Gitea]]
 * [[Caluma]]
 
-## [[Kompetenzen]]
+## [[Dienstleistungen]] / [[Services]]
 
 * [[Workshops]]
 * [[Technischer Support]]

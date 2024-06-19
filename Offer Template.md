@@ -10,6 +10,12 @@ tags:
 
 ### Terms and Conditions
 
+Order placement:\
+By mutual agreement, the order is placed in writing either by accepting the offer or by signing a separate contract or by placing an order.
+
+Invoicing:\
+The billing of the services as well as any expenses including VAT takes place monthly according to the actual expenditure with the addition of a detailed work report.
+
 Changes:\
 If changes become apparent in the course of the project work which are not part of the offer, the customer will be informed promptly by the contractor. 
 
@@ -19,8 +25,3 @@ The contractor treats information such as company and personal data provided by 
 Expenses:\
 Expenses will be charged according to expenditure. Invoicing: The billing of the services as well as any expenses including VAT takes place monthly according to the actual expenditure with the addition of a detailed work report. 
 
-Invoicing:\
-The billing of the services as well as any expenses including VAT takes place monthly according to the actual expenditure with the addition of a detailed work report.
-
-Order placement:\
-By mutual agreement, the order is placed in writing either by accepting the offer or by signing a separate contract or by placing an order.

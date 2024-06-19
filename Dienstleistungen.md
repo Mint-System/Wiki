@@ -2,7 +2,7 @@
 tags:
 - Asset
 ---
-# Kompetenzen
+# Dienstleistungen
 
 Kompetenzen der Mint System GmbH und die dazugehörigen Dienstleistungen.
 

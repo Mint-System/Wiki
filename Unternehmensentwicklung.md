@@ -9,7 +9,7 @@ Themen:
 * [[AHV und EO]]
 * [[Steuern]]
 * [[Weiterbildung]]
-* [[Kompetenzen]]
+* [[Dienstleistungen]]
 * [[Jobs]]
 * [[Produktentwicklung]]
 * [[Ziele]]
