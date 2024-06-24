@@ -44,7 +44,7 @@ git switch --oprhan Mint-System-16.0
 Von dort den Upstream-Branch pullen.
 
 ```bash
-git pull upstream
+git pull upstream 16.0
 ```
 
 Dann in den Main-Branch wechseln.
@@ -53,55 +53,17 @@ Dann in den Main-Branch wechseln.
 git switch 16.0
 ```
 
-Und den Upstream-Branch mergen.
+Files aus dem upstream Branch kopieren.
 
 ```bash
-git merge Mint-System-16.0
+git checkout Mint-System-16.0 .
 ```
 
-Alle Konflikte beheben und unnötige Submodule entfernen.
+Liste der Submoduels zurücksetzen.
 
 ```bash
-task git-submodule-remove addons/manufacture
-task git-submodule-remove addons/odoo_apps_thirdparty
-task git-submodule-remove addons/product_attribute
-task git-submodule-remove addons/social
-task git-submodule-remove addons/stock_logistics_workflow
-task git-submodule-remove addons/vertical_saas
-task git-submodule-remove oca/account-closing
-task git-submodule-remove oca/account-financial-reporting
-task git-submodule-remove oca/account-financial-tools
-task git-submodule-remove oca/account-reconcile
-task git-submodule-remove oca/bank-statement-import
-task git-submodule-remove oca/brand
-task git-submodule-remove oca/business-requirement
-task git-submodule-remove oca/community-data-files
-task git-submodule-remove oca/connector
-task git-submodule-remove oca/contract
-task git-submodule-remove oca/credit-control
-task git-submodule-remove oca/crm
-task git-submodule-remove oca/e-commerce
-task git-submodule-remove oca/edi
-task git-submodule-remove oca/helpdesk
-task git-submodule-remove oca/hr
-task git-submodule-remove oca/hr-attendance
-task git-submodule-remove oca/hr-holidays
-task git-submodule-remove oca/iot
-task git-submodule-remove oca/knowledge
-task git-submodule-remove oca/management-system
-task git-submodule-remove oca/manufacture
-task git-submodule-remove oca/product-attribute
-task git-submodule-remove oca/project
-task git-submodule-remove oca/queue
-task git-submodule-remove oca/reporting-engine
-task git-submodule-remove oca/sale-reporting
-task git-submodule-remove oca/server-ux
-task git-submodule-remove oca/stock-logistics-warehouse
-task git-submodule-remove oca/timesheet
-task git-submodule-remove oca/website
-task git-submodule-remove oca/dms
-task git-submodule-remove oca/l10n-switzerland
-task git-submodule-remove oca/maintenance
+git restore --staged .gitmodules
+git checkout .gitmodules
 ```
 
 Referenzen der Submodule aktualisieren.
@@ -109,4 +71,12 @@ Referenzen der Submodule aktualisieren.
 ```bash
 task checkout 16.0
 task git-submodule-pull
+```
+
+Alles committen.
+
+```bash
+gaa
+gcmsg "feat: Checkout from upstream"
+gp
 ```
