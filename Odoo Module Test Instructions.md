@@ -4,7 +4,11 @@ tags:
 ---
 # Odoo Module Test Instructions
 
-As an alternative to add demo data and writing actual tests, a developer or business analyst can add a file `tests/TEST_INSTRUCTIONS.rst` to the module. Here is an example for the module `mrp_production_assign_lot`:
+As an alternative to add demo data and writing actual tests, a developer or business analyst can add a file `tests/TEST_INSTRUCTIONS.rst` to the module. 
+
+> The test instructions should be written in manner so that they could be translated to actual code.
+
+Here is an example for the module `mrp_production_assign_lot`:
 
 ```
 - Install mrp_workorder
