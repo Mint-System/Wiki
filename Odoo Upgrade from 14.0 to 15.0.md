@@ -58,7 +58,7 @@ task remove-module $DATABASE ...
 Update modules.
 
 ```bash
-task install-module $DATABASE ...
+task init-module $DATABASE ...
 ```
 
 Login and check the Odoo log.
@@ -94,7 +94,7 @@ Migrate custom modules.
 Install new modules.
 
 ```bash
-task install-module $NEW_DATABASE ...
+task init-module $NEW_DATABASE ...
 ```
 
 Reset selected views.

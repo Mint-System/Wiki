@@ -11,10 +11,10 @@ Eine Sammlung von mehreren Modulen und Snippets.
 * Odoo Erweiterungen installieren.
 
 ```bash
-task install-module odoo sale_order_line_position
-task install-module odoo purchase_order_line_position
-task install-module odoo account_move_line_position
-task install-module odoo stock_move_line_position
+task init-module odoo sale_order_line_position
+task init-module odoo purchase_order_line_position
+task init-module odoo account_move_line_position
+task init-module odoo stock_move_line_position
 ```
 
 * Odoo Snippets installieren

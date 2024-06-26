@@ -117,5 +117,5 @@ UndefinedColumn: column res_company.scss_modif_timestamp does not exist
 Update *Web Company Color*.
 
 ```bash
-task install-module $DATABASE web_company_color
+task init-module $DATABASE web_company_color
 ```

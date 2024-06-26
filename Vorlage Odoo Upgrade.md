@@ -95,7 +95,7 @@ Migrate custom modules.
 Install new modules.
 
 ```bash
-task install-module $NEW_DATABASE ...
+task init-module $NEW_DATABASE ...
 ```
 
 Reset selected views.

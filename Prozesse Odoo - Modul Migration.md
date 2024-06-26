@@ -21,7 +21,7 @@ Arbeitsschritte:
 * Navigation in das Submodule-Repo `cd addons/$REPO`
 * Auschecken Modul von vorhergehender Version `git checkout $OLD_BRANCH $MODULE`
 * Modul linten und anpassen `task lint-module addons/$REPO/$MODULE`
-* Modul installieren und testen `task install-module addons/$REPO/$MODULE`
+* Modul installieren und testen `task init-module addons/$REPO/$MODULE`
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
 * README aktualisieren `task update-readme addons/$REPO/README.md`
 * Migration committen `cd addons/$REPO; git add .; git commit -m "migration $MODULE"`

@@ -54,7 +54,7 @@ Remove or replace [[Unsupported Modules]].
 
 ```bash
 task remove-module $DATABASE ...
-task install-module $DATABASE ...
+task init-module $DATABASE ...
 ```
 
 Login and check the Odoo log.
@@ -93,7 +93,7 @@ Login and check the Upgrade report.
 Install new modules.
 
 ```bash
-task install-module $NEW_DATABASE ...
+task init-module $NEW_DATABASE ...
 ```
 
 Make new Odoo configurations.

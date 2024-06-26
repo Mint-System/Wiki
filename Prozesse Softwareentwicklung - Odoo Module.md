@@ -15,5 +15,5 @@ Arbeitsschritte:
 * Aktualisieren Manifest `__manifest__.py`
 * Modul linten `task lint-module addons/$REPO/$MODULE`
 * Datenbank starten und initialisieren `task start db; task init-db`
-* Modul installieren `task install-module addons/$REPO/$MODULE`
+* Modul installieren `task init-module addons/$REPO/$MODULE`
 * Entwicklungsumgebung starten und Modul testen `task start native`
