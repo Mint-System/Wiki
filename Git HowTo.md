@@ -22,6 +22,8 @@ In diesem Beispiel haben wir einen Fork:
 * Upstream: https://github.com/Mint-System/Odoo-Build/
 * Origin: https://github.com/sozialinfo/Odoo-Build
 
+## Einrichten
+
 Repo öffnen.
 
 ```bash
@@ -47,7 +49,9 @@ Von dort den Upstream-Branch pullen.
 git pull upstream 16.0
 ```
 
-Dann in den Main-Branch wechseln.
+## Ausführen
+
+In Main-Branch wechseln.
 
 ```bash
 git switch 16.0

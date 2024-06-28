@@ -19,7 +19,6 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Initiale Aufgaben erstellen und zuweisen
 * Sicherstellen das Aufwände korrekt verbucht werden
-* 
 
 ## Projektdokumentation vorbereiten
 
