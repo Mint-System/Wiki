@@ -8,6 +8,8 @@ As an alternative to add demo data and writing actual tests, a developer or busi
 
 > The test instructions should be written in manner so that they could be translated to actual code.
 
+> The test instructions are meant to be a functional verification and not a user manual nor a feature description of the module.
+
 Here is an example for the module `mrp_production_assign_lot`:
 
 ```
