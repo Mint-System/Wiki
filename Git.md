@@ -12,4 +12,4 @@ Weiterführende Links: [[Git HowTo]]
 
 ## Client
 
-Ein einfach zu bedienender Client für GitHub ist [GitHub Desktop](https://desktop.github.com/). 
+Ein einfach zu bedienender Client für GitHub ist [GitHub Desktop](https://desktop.github.com/).
