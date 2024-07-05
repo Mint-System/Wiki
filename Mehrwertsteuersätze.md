@@ -21,9 +21,9 @@ Saldosteuersätze ab 1. Januar 2024:
 
 Quelle: <https://www.fedlex.admin.ch/eli/cc/2010/874/de#art_1>
 
-| Tätigkeit    | Satz |
-| ------------ | ---- |
-| Beratung     | 6.2% |
-| Hosting      | 6.2% |
-| Entwicklung  | 6.8% |
-| Suopport / EDV-Beratung | 6.8% |
+| Tätigkeit              | Satz |
+| ---------------------- | ---- |
+| Beratung               | 6.2% |
+| Hosting                | 6.2% |
+| Entwicklung            | 6.8% |
+| Support / EDV-Beratung | 6.8% |
