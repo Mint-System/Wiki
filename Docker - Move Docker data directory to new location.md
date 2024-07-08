@@ -44,6 +44,7 @@ Test if all services work as expected.
 
 ```bash
 docker ps -a
+docker info -f '{{ .DockerRootDir}}'
 ```
 
 If everything is good, remove the old Docker directory.
