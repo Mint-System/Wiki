@@ -18,14 +18,14 @@ Create a config file **/etc/docker/daemon.json**
 
 ```json
 { 
-   "data-root": "/mnt/server-disk2/docker" 
+   "data-root": "/mnt/sdb/docker"
 }
 ```
 
 Copy the current directory to the new directory.
 
 ```bash
-sudo cp -rp /var/lib/docker /mnt/server-disk2/docker
+sudo cp -rp /var/lib/docker /mnt/sdb/docker
 ```
 
 Rename the old directory.
@@ -41,6 +41,10 @@ sudo service docker start
 ```
 
 Test if all services work as expected.
+
+```bash
+docker ps -a
+```
 
 If everything is good, remove the old Docker directory.
 
