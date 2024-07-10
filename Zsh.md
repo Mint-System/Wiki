@@ -8,6 +8,10 @@ Website: <https://www.zsh.org/>
 
 Funktioniert am besten mit [[Oh-My-Zsh]].
 
+## Multiplexer
+
+[[Zellj]]
+
 ## Dotfiles
 
 Entwickler haben ihre eigenen [[dotfiles]].

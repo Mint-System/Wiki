@@ -10,5 +10,6 @@ Definition des Arbeitsplatzes.
 * OS ist [[Pop_OS]]
 * Browser [[Firefox]]
 * Mail [[Thunderbird]]
+* Command Line [[Zsh]]
 
 Siehe [[Workplace Hardware]] und [[Workplace Software]].
