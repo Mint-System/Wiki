@@ -29,3 +29,21 @@ Restart all stopped containers.
 ```bash
 docker restart $(docker ps -a -q)
 ```
+
+## Cannot grab logs
+
+**Problem**
+
+When trying to show the docker logs you get this message:
+
+```
+error from daemon in stream: Error grabbing logs: invalid character '{' after object key:value pair
+```
+
+**Solution**
+
+Clear the container logs:
+
+```
+truncate -s 0 $(docker inspect --format='{{.LogPath}}' $CONTAINER)
+```

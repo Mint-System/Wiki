@@ -25,7 +25,7 @@ Create a config file **/etc/docker/daemon.json**
 Copy the current directory to the new directory.
 
 ```bash
-sudo cp -rp /var/lib/docker /mnt/sdb/docker
+sudo rsync -a /var/lib/docker /mnt/sdb/docker
 ```
 
 Rename the old directory.
