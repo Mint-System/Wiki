@@ -42,7 +42,6 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Janus    | Server Hygentile AG                                      | `janus.mint-system.com`    | Hetzner     |
 | Krios    | Support-Server Sozialinfo                                | `krios.mint-system.com`    | Infomaniak  |
 | Kronos   | Backup Server Mint System GmbH                           | `kronos.mint-system.com`   | Hetzner     |
-| Leto     | Server SATHOM SARL                                       | `leto.mint-system.com`     | Klixa       |
 | Matrix   | [[Matrix]]-Server ungleich.ch                            | `matrix.mint-system.com`   | Ungleich    |
 | Metis    | Server Zgraggen Agro GmbH                                | `metis.mint-system.com`    | Hetzner     |
 | Momus    | Server Swiss Fragrance GmbH                              | `momus.mint-system.com`    | Hetzner     |
@@ -62,4 +61,5 @@ Liste aller Server im Einsatz der Mint System GmbH.
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
-* 
+* Leto
+* Cratos
