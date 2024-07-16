@@ -63,3 +63,4 @@ Die folgenden Namen stehen zur Auswahl bereit:
 
 * Leto
 * Cratos
+* Gaia

@@ -16,6 +16,10 @@ Als Integrated Development Environment (IDE) verwenden wir  [[Helix]], [[Emacs]]
 
 Mehr dazu unter [[Continuous Delivery]].
 
+## Process Modeling
+
+[[Mermaid.js]]
+
 ## Troubleshooting
 
 [[Softwareentwicklung Troubleshooting]]

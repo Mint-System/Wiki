@@ -2,7 +2,6 @@
 tags:
 - Definition
 ---
-
 # Odoo Devleopment Guidelines
 
 ## Odoo Modules
