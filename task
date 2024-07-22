@@ -39,7 +39,7 @@ case "$1" in
         npm run vue-build
         ;;
     serve-build)
-        cd ./src/.vuepress/dist
+        cd .vuepress/dist
         npx serve
         ;;
     *)
