@@ -1,0 +1,48 @@
+#!/bin/bash
+set -e
+
+if [[ -a ".env" ]]; then
+    export $(cat .env | sed 's/^#.*//g' | xargs)
+fi
+
+function help() {
+    echo
+    echo "task <command> [options]"
+    echo
+    echo "commands:"
+    echo
+
+    cmd_width=20
+    opt_width=6
+    desc_width=35
+    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "Command" "Option" "Description"
+    echo "|$(printf '%*s' $((cmd_width + 2)) '' | tr ' ' '-')|$(printf '%*s' $((opt_width + 2)) '' | tr ' ' '-')|$(printf '%*s' $((desc_width + 2)) '' | tr ' ' '-')|"
+    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "install" "" "Install build dependencies."
+    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "dev" "" "Start vuepress development server."
+    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "build" "" "Create vuepress build."
+    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "serve-build" "" "Serve vuepress build."
+
+    echo
+}
+
+case "$1" in
+    help)
+        help
+        ;;
+    install)
+        npm install
+        ;;
+    dev)
+        npm run vue-dev
+        ;;
+    build)
+        npm run vue-build
+        ;;
+    serve-build)
+        cd ./src/.vuepress/dist
+        npx serve
+        ;;
+    *)
+        help
+        exit 1;
+esac
