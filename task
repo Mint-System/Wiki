@@ -18,8 +18,9 @@ function help() {
     printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "Command" "Option" "Description"
     echo "|$(printf '%*s' $((cmd_width + 2)) '' | tr ' ' '-')|$(printf '%*s' $((opt_width + 2)) '' | tr ' ' '-')|$(printf '%*s' $((desc_width + 2)) '' | tr ' ' '-')|"
     printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "install" "" "Install build dependencies."
+    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "build" "" "Build project."
     printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "dev" "" "Start vuepress development server."
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "build" "" "Create vuepress build."
+    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "vue-build" "" "Create vuepress build."
     printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "serve-build" "" "Serve vuepress build."
 
     echo
@@ -32,14 +33,17 @@ case "$1" in
     install)
         npm install
         ;;
-    dev)
-        npm run vue-dev
-        ;;
     build)
+        node build.js
+        ;;
+    dev)
+        npm run dev
+        ;;
+    vue-build)
         npm run vue-build
         ;;
     serve-build)
-        cd .vuepress/dist
+        cd ./src/.vuepress/dist
         npx serve
         ;;
     *)

@@ -17,6 +17,7 @@ const scheme = 'https://'
 const hostname = 'wiki.mint-system.ch'
 const basePath = '/'
 const basePathAttachments = './'
+const targetPath = './src/'
 const uriSuffix = '.html'
 const anchorPrefix = '#'
 const attachmentsFolder = 'attachments'
@@ -505,6 +506,21 @@ var files = []
 var args = process.argv.slice(2)
 var firstArg = args[0]
 
+if (!firstArg || ['all', 'vuepress'].indexOf(firstArg) >= 0) {
+
+    // log
+    console.log('Copy vuepress files ...')
+
+    if (!fs.existsSync(targetPath)){
+        fs.mkdirSync(targetPath)
+    }
+    fs.cpSync('.vuepress', './src/.vuepress', {recursive: true})
+
+
+    // log
+    console.log('Copying vuepress files finished.')
+}
+
 if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
 
     // log
@@ -550,7 +566,7 @@ if (!firstArg || ['all', 'canvas'].indexOf(firstArg) > 0) {
         
         content = convertCanvasToSVG(JSON.parse(content))
 
-        fs.writeFileSync(fileName + '.svg', content)
+        fs.writeFileSync(targetPath + fileName + '.svg', content)
     })
 
     // log
@@ -569,7 +585,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
         let content = fs.readFileSync(file, 'utf8')
 
         // set new file name
-        let newfile = sanitizeName(file)
+        let newfile = targetPath + sanitizeName(file)
 
         // Get file name
         let fileName = file.replace('\.md', '')
@@ -612,9 +628,6 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
             '</footer>'
         ].join('')
 
-        // Delete existing file
-        fs.unlinkSync(file)
-
         // write content to new file
         fs.writeFileSync(newfile, content, 'utf8')
     })
@@ -646,7 +659,7 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
     })
     
     // write content to index file
-    fs.writeFileSync('glossary.md', content.join(''), 'utf8')
+    fs.writeFileSync(targetPath + 'glossary.md', content.join(''), 'utf8')
 
     // log
     console.log('Building glossary finished.')
@@ -660,11 +673,11 @@ if (!firstArg || ['all', 'attachments'].indexOf(firstArg) > 0) {
     // Loop all asset files
     fs.readdirSync(path.join(__dirname, attachmentsFolder)).forEach((file) => {
 
-        // set new file name
-        newfile = sanitizeAssetname(file)
+        // Set new file name
+        newfile = targetPath + sanitizeAssetname(file)
 
-        // move asset file
-        fs.renameSync(path.join(__dirname, attachmentsFolder, file), path.join(__dirname, newfile))
+        // Copy asset file
+        fs.copyFileSync(path.join(__dirname, attachmentsFolder,file), path.join(__dirname, newfile))
     })
 
     // log

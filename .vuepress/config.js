@@ -2,6 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { plausiblePlugin } from './plausible'
+import { mermaidPlugin } from './mermaid'
 import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
@@ -16,7 +17,7 @@ export default defineUserConfig({
     theme: defaultTheme({
         logo: '/icon.png',
         repo: 'mint-system/wiki',
-        docsBranch: '14.0',
+        docsBranch: 'master',
         editLink: false,
         navbar: [
             { text: 'Home', link: '/' },
@@ -31,5 +32,6 @@ export default defineUserConfig({
         plausiblePlugin({
             'domain': 'wiki.mint-system.ch'
         }),
+        mermaidPlugin()
     ],
 })
