@@ -11,7 +11,7 @@ const mermaidPlugin = () => {
 
             md.renderer.rules.fence = (tokens, idx, options, env, self) => {
                 const token = tokens[idx]
-                const code = token.content
+                const code = token.content.trim()
 
                 if (token.info === 'mermaid') {
                     return `<pre class="mermaid">${md.utils.escapeHtml(code)}</pre>`
