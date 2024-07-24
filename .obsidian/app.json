@@ -13,7 +13,8 @@
     "downscalePercent": 100
   },
   "userIgnoreFilters": [
-    "node_modules/"
+    "node_modules/",
+    "src/"
   ],
   "showInlineTitle": false,
   "propertiesInDocument": "source",
