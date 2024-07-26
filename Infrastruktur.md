@@ -20,3 +20,4 @@ Beinhaltet:
 * [[Terraform]]
 * [[Kubernetes]]
 * [[Nix]]
+* [[Netzwerk]]
