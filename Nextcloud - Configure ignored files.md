@@ -19,5 +19,3 @@ Enter these default patterns:
 * .vercel (for developers)
 
 The list of ignored files is saved to `.sync-exclude.lst`.
-
-Alternatively you can run the script `update-sync-exclude-list` in the shared root folder.
