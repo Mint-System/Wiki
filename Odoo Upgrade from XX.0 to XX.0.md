@@ -58,6 +58,10 @@ task init-module $DATABASE ...
 ```
 
 Login and check the Odoo log.
+
+```
+task start native $DATABASE
+```
 ## Upgrade
 
 Run the upgrade scripts.
@@ -84,7 +88,7 @@ Clear the browser cache and Odoo assets, then start the server.
 
 ```bash
 task clear-assets $NEW_DATABASE
-task start native
+task start native $NEW_DATABASE
 ```
 
 Login and check the Upgrade report.
