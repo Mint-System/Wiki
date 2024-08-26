@@ -45,5 +45,5 @@ error from daemon in stream: Error grabbing logs: invalid character '{' after ob
 Clear the container logs:
 
 ```
-truncate -s 0 $(docker inspect --format='{{.LogPath}}' $CONTAINER)
+docker ps -q | xargs -I {} sh -c 'truncate -s 0 $(docker inspect --format="{{.LogPath}}" {})'
 ```

@@ -84,3 +84,8 @@ gaa
 gcmsg "feat: Checkout from upstream"
 gp
 ```
+
+## Create fork with merged PRs
+
+Repo: https://github.com/OCA/sale-workflow
+
