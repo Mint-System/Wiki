@@ -39,6 +39,8 @@ WHERE `option_name` = 'active_plugins';
 
 ## Update site url
 
+Run this query.
+
 ```sql
 UPDATE wp_options 
 SET option_value = 'https://www.example.com' 
