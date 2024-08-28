@@ -4,6 +4,10 @@ tags:
 ---
 # Wordpress
 
+Website: <https://wordpress.org/>
+
+Weiterführende Links: [[Wordpress HowTo]]
+
 ## Plugins
 
 ### WP Mail SMTP
