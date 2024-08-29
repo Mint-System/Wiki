@@ -11,7 +11,7 @@ sitemap
 */
 
 // settings
-const debug = false
+const debug = process.env.DEBUG == 'true'
 const ignoreFiles = ['_navbar.md', '_sidbar.md']
 const scheme = 'https://'
 const hostname = 'wiki.mint-system.ch'
@@ -97,8 +97,10 @@ function renderEdge(edge) {
     const color = mapColor(edge['color'])
     const fromSide = edge['fromSide']
     const toSide = edge['toSide']
-    const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
+    const fontFamily = 'DejaVu Sans Mono, Consolas, SF Mono'
+    const fontSize = 15
     const fontColor = '#2c2d2c'
+    const fillColor = '#fff'
 
     let marker = `marker-end="url(#arrow-end-${id})"`
     let fromOffset = 1
@@ -152,8 +154,19 @@ function renderEdge(edge) {
     if(edge['label']) {
         
         // Calculate position of label
-        let labelLength = edge['label'].length*4
-        let labelX = fromX - labelLength
+        let labelText = edge['label']
+        let labelLength = labelText.length
+
+        if (labelText && labelText.split('\n').length > 1) {
+            labelLength = 0
+            for (const line of labelText.split('\n')) {
+                if (line.length > labelLength) {
+                    labelLength = line.length
+                }
+            }
+        }
+
+        let labelX = fromX - labelLength*4
         let labelY = fromY
       
         if (toX < fromX) {            
@@ -170,13 +183,27 @@ function renderEdge(edge) {
         }
         // console.log(`${edge['label']}: X:${labelX}/Y:${labelY} from X:${fromX}/Y:${fromY} to X:${toX}/Y:${toY}`)
 
-        label_text = edge['label']
         if (debug) {
             label_text += ` (${labelX}/${labelY})`
         }
 
+        let textHeight = 15
+        if (labelText && labelText.split('\n').length > 1) {
+            textHeight = labelText.split('\n').length*15
+
+            let spans = ''
+            let index = 0
+            let spanY = labelY - textHeight/2
+            for (const line of labelText.split('\n')) {
+                spans += `<tspan x="${labelX}" y="${spanY}">${line}</tspan>`
+                spanY += 15
+            }
+            labelText = spans
+        }
+
         label = `
-        <text x="${labelX}" y="${labelY}" font-family="${fontFamily}">${label_text}</text>
+        <rect x="${labelX}" y="${labelY-textHeight}" width="${labelLength*9}" height="${textHeight}" rx="3" fill="${fillColor}" />
+        <text x="${labelX}" y="${labelY}" font-family="${fontFamily}" fill="${fontColor}" font-size="${fontSize}">${labelText}</text>
         `
     }
 
@@ -209,7 +236,7 @@ function formatText(text) {
 function renderNode(node) {
     const strockWidth = 4
     const fontWeight = 'normal'
-    const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
+    const fontFamily = 'DejaVu Sans Mono, Consolas, SF Mono'
 
     let textOffsetX = 15
     let textOffsetY = 7
@@ -225,7 +252,7 @@ function renderNode(node) {
     if (plainText) {
         
         // Compare text length to node length
-        if ((plainText.length / node['width']) >= 0.11 && plainText.split('\n').length == 1) {
+        if ((plainText.length / node['width']) >= 0.09 && plainText.split('\n').length == 1) {
             textOffsetY = 0
         }
 
@@ -294,7 +321,7 @@ function renderNode(node) {
 function renderGroup(group) {
     const strockWidth = 4
     const fontWeight = 'bold'
-    const fontFamily = 'Roboto, Oxygen, Ubuntu, Cantarell, sans-serif'
+    const fontFamily = 'DejaVu Sans Mono, Consolas, SF Mono'
 
     let textOffsetX = 15
     let textOffsetY = -15

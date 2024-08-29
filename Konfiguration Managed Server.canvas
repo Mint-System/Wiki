@@ -34,7 +34,7 @@
 		{"id":"165f4a8e6a8348f6","fromNode":"8401a22b82a5ffa2","fromSide":"bottom","toNode":"d196e9280ef2cdb5","toSide":"top","label":"dump"},
 		{"id":"8f0275203a561e55","fromNode":"8401a22b82a5ffa2","fromSide":"bottom","toNode":"d64619bc0de6d676","toSide":"top","label":"zip"},
 		{"id":"e998e281dda1660f","fromNode":"d64619bc0de6d676","fromSide":"bottom","toNode":"ef79c710fd5ab345","toSide":"top"},
-		{"id":"45f77505b0e85b50","fromNode":"8c3db70d3334999a","fromSide":"top","toNode":"d196e9280ef2cdb5","toSide":"bottom","label":"postgres01:5432\n"},
+		{"id":"45f77505b0e85b50","fromNode":"8c3db70d3334999a","fromSide":"top","toNode":"d196e9280ef2cdb5","toSide":"bottom","label":"postgres01:5432"},
 		{"id":"12b1bc5a678e8cff","fromNode":"ae9d4e14177e72b8","fromSide":"right","toNode":"8c3db70d3334999a","toSide":"left","label":"pgexport01:80/metrics/postgres\n"},
 		{"id":"63ba6f21e45ecc6b","fromNode":"c21d6fa5fc3b126a","fromSide":"left","toNode":"6b8f7b3d38db0421","toSide":"right","label":"https://monitor.mint-system.com/loki"},
 		{"id":"35ad8af4facd2f96","fromNode":"8401a22b82a5ffa2","fromSide":"top","toNode":"64f7f5286f74b068","toSide":"bottom","label":"https://kronos.mint-system.com"},
