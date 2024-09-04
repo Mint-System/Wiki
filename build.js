@@ -292,7 +292,7 @@ function renderNode(node) {
 
     if (node['file'] && node['file'].endsWith('.md')) {
         title = node['file'].replace('.md', '')
-        text = `<a href="/${title.toLowerCase()}.html">${title}</a>`
+        text = `<a href="/${sanitizeName(title)}.html">${title}</a>`
         fontColor = '#9a7fee'
         content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
     }
