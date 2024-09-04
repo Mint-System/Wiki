@@ -294,9 +294,6 @@ function renderNode(node) {
         title = node['file'].replace('.md', '')
         text = `<a href="/${title.toLowerCase()}.html">${title}</a>`
         fontColor = '#9a7fee'
-        fontSize = 28
-        textOffsetX = 30
-        textOffsetY = 45
         content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
     }
     
