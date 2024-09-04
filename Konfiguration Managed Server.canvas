@@ -20,7 +20,8 @@
 		{"id":"a9d178dc21f7cbec","type":"text","text":"Renew Certificate","x":270,"y":-270,"width":200,"height":60,"color":"4"},
 		{"id":"7a84becfb5291ca8","type":"text","text":"UFW","x":935,"y":-270,"width":140,"height":60,"color":"4"},
 		{"id":"849a81b13573d1f3","type":"text","text":"User / Groups","x":520,"y":-270,"width":180,"height":60,"color":"4"},
-		{"id":"64f7f5286f74b068","type":"text","text":"Backup Server","x":720,"y":-500,"width":200,"height":60,"color":"3"}
+		{"id":"64f7f5286f74b068","type":"text","text":"Backup Server","x":720,"y":-500,"width":200,"height":60,"color":"3"},
+		{"id":"4fed0de444bfec27","type":"text","text":"Blackbox Exporter","x":-1000,"y":420,"width":200,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"38e9b5bdb6b38e5a","fromNode":"ae9d4e14177e72b8","fromSide":"right","toNode":"ef79c710fd5ab345","toSide":"left","label":"odoo01:8069"},
@@ -41,6 +42,8 @@
 		{"id":"f9e8fb09eec1409f","fromNode":"a9d178dc21f7cbec","fromSide":"bottom","toNode":"5be551f63642feb5","toSide":"top","label":"command"},
 		{"id":"dc41edbabd1a73e1","fromNode":"5be551f63642feb5","fromSide":"left","toNode":"9c6464a318c880c8","toSide":"right"},
 		{"id":"5b64e35503b9c4a0","fromNode":"9c6464a318c880c8","fromSide":"left","toNode":"543d57d2991cec56","toSide":"right","label":"http://odoo.example.com/.well-known"},
-		{"id":"87b1202146e91c60","fromNode":"5be551f63642feb5","fromSide":"bottom","toNode":"ae9d4e14177e72b8","toSide":"top","fromEnd":"arrow","label":"share"}
+		{"id":"87b1202146e91c60","fromNode":"5be551f63642feb5","fromSide":"bottom","toNode":"ae9d4e14177e72b8","toSide":"top","fromEnd":"arrow","label":"share"},
+		{"id":"446e393ad98fc862","fromNode":"6b8f7b3d38db0421","fromSide":"bottom","toNode":"4fed0de444bfec27","toSide":"top","label":"blackbox01:9115"},
+		{"id":"c89e3a586b491f28","fromNode":"4fed0de444bfec27","fromSide":"right","toNode":"543d57d2991cec56","toSide":"left","label":"https://odoo.example.com"}
 	]
 }

@@ -93,7 +93,7 @@ function mapColor(color) {
 
 function renderEdge(edge) {
     const id = edge['id']
-    const strockWidth = 5
+    const strockWidth = 4
     const color = mapColor(edge['color'])
     const fromSide = edge['fromSide']
     const toSide = edge['toSide']

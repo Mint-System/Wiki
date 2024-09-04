@@ -40,10 +40,16 @@ When trying to show the docker logs you get this message:
 error from daemon in stream: Error grabbing logs: invalid character '{' after object key:value pair
 ```
 
+Or this message:
+
+```
+error from daemon in stream: Error grabbing logs: invalid character '\x00' looking for beginning of value
+```
+
 **Solution**
 
 Clear the container logs:
 
-```
+```bash
 docker ps -q | xargs -I {} sh -c 'truncate -s 0 $(docker inspect --format="{{.LogPath}}" {})'
 ```

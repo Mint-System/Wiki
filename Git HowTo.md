@@ -63,7 +63,7 @@ Files aus dem upstream Branch kopieren.
 git checkout Mint-System-16.0 .
 ```
 
-Liste der Submoduels zurücksetzen.
+Liste der Submodules zurücksetzen.
 
 ```bash
 git restore --staged .gitmodules
@@ -81,7 +81,7 @@ Alles committen.
 
 ```bash
 gaa
-gcmsg "feat: Checkout from upstream"
+gcmsg "feat: pull from upstream"
 gp
 ```
 
