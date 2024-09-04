@@ -294,6 +294,7 @@ function renderNode(node) {
         title = node['file'].replace('.md', '')
         text = `<a href="/${sanitizeName(title)}.html">${title}</a>`
         fontColor = '#9a7fee'
+        textOffsetY = 10
         content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
     }
     
