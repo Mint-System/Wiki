@@ -56,11 +56,11 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Triton     | Server Kreativartikel GmbH               | `triton`                   | Off-Premise |
 | Tyche      | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Matrix     | [[Matrix]]-Server bei [[ungleich GmbH]]  | `matrix.mint-system.com`   | Ungleich    |
+| Leto       | Server Lapp Engineering AG               | `leto.mint-system.com`     | Hetzner     |
 
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
-* Leto
 * Gaia
 * Athena
