@@ -5,6 +5,56 @@ tags:
 # Prozesse Infrastruktur - Odoo bestellen
 Bestellung einer Odoo-Installation.
 
+## DNS-Einträge und Postfach anfragen
+
+* DNS-Registrar von Kunde abfragen
+
+```bash
+dig $DOMAIN_KUNDE NS
+```
+
+* Mail-Provider von Kunde abfragen
+
+```
+dig $DOMAIN_KUNDE MX
+```
+
+* Mit diesen Angaben einen Vorschlag für DNS und Postfach machen:
+
+```md
+Guten Tag
+
+Wir möchten gerne ihree Odoo-Instanz bereitstellen. Dazu brauchen wir technische Konfigurationen von ihrer Seite.
+
+**DNS-Einträge**
+
+Damit Odoo im Browser angezeigt weren kann, braucht es einen DNS-Eintrag unter ihrer Domäne $DOMAIN_KUNDE.
+
+Können Sie die folgenden DNS-Einträge einrichten?
+
+	odoo.$DOMAIN_KUNDE CNAME $ALIAS.mint-system.com
+	odoo-int.$DOMAIN_KUNDE CNAME $ALIAS.mint-system.com
+	odoo-dev.$DOMAIN_KUNDE CNAME $ALIAS.mint-system.com
+
+Wir haben festgestellt, dass Sie die Domain beim Registrar $KUNDEN_REGISTRAR verwalten. Sie können dort die DNS-Einträge erstyellen.
+
+**Postfach**
+
+Zur Kommunikation braucht Odoo ein eigenes Postfach.
+
+Unser Vorschlag: odoo@DOMAIN_KUNDE
+
+Wir haben festgestellt, dass ihre E-Mail-Provider Office365 ist. Damit ODoo das Postfach verwenden kann, muss Odoo als OAuth-App registriert werden: https://www.odoo-wiki.org/settings-oauth.html#odoo-als-oauth-app-auf-azure-registrieren
+
+Sind diese Angaben ausreichend?
+
+Vielen Dank für ihre Rückmeldung
+
+Freundlicher Gruss
+
+$VORNAME $NACHNAME
+```
+
 ## Odoo-Instanz bestellen
 
 Arbeitsschritte:
