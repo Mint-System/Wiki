@@ -18,7 +18,7 @@ Mehr dazu unter [[Continuous Delivery]].
 
 ## Process Modeling
 
-[[Mermaid.js]]
+[[Mermaidjs]]
 
 ## Troubleshooting
 
