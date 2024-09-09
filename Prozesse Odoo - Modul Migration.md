@@ -7,6 +7,7 @@ tags:
 ## Odoo Submodule-Branch initialisieren
 
 Arbeitsschritte:
+
 * Navigation in das Submodule `cd addons/$REPO`
 * Neuer Branch erstellen `git switch --orphan $BRANCH`
 * Alle Dateien ausser `README.md` entfernen
@@ -17,6 +18,7 @@ Arbeitsschritte:
 ## Odoo Modul migrieren
 
 Arbeitsschritte:
+
 * Odoo Branch auschecken `task checkout $BRANCH`
 * Navigation in das Submodule-Repo `cd addons/$REPO`
 * Auschecken Modul von vorhergehender Version `git checkout $OLD_BRANCH $MODULE`
@@ -27,3 +29,12 @@ Arbeitsschritte:
 * Migration committen `cd addons/$REPO; git add .; git commit -m "migration $MODULE"`
 * Pull-Request erstellen und Review beantragen
 * Wenn PR gemerged ist das Submodule-Repo deployen
+
+## Mint System Fork für OCA-Repo erstellen
+
+Arbeitsshritte:
+
+* Go to the repo and create a fork
+* Navigate into the local repo`cd oca/sale-workflow
+* Add the fork as remote `git remote add mint-system git@github.com:Mint-System/sale-workflow.git`
+* Push a branch to the remote with `git push mint-system $BRANCH`
