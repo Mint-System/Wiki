@@ -34,4 +34,5 @@ Arbeitsshritte:
 * Go to the repo and create a fork
 * Navigate into the local repo`cd oca/sale-workflow
 * Add the fork as remote `git remote add mint-system git@github.com:Mint-System/sale-workflow.git`
-* Push a branch to the remote with `git push mint-system $BRANCH`
+* Checkout a customer branch `git switc -c $BRANCH-$PROJECT_CODE`
+* Push a branch to the remote with `git push mint-system $BRANCH-$PROJECT_CODE`
