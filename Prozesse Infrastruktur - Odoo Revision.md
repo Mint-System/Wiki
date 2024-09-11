@@ -45,7 +45,7 @@ odoo_enterprise_commit: f5b91a7edc19d91a1a7ec9b9b63e8a315aa82a3f
 
 * Auf Server einloggen und ein Odoo-Backup triggern `run-cron-job -n "Backup job odoo backup $DATENBANK"`
 * Den Odoo-Container neu deployment `ansible-playbook -i inventories/odoo play_odoo.yml -t odoo -l $ALIAS`
-* Nach erfolgreichem Deployment das Base-Modul aktualisieren `docker-odoo-update -c $CONTAINER -d $DATABASE -u base` und die Assets neu erstellen `docker-odoo-clear-assets -c $CONTAINER -d $DATABASE`
+* Nach erfolgreichem Deployment das Base-Modul aktualisieren `docker-odoo-update -c $CONTAINER -d $DATABASE -u base`
 * Auf Odoo einloggen und auf Fehlermeldungen prüfen
 * Mitteilung an Kunde via Odoo Dialog
 
