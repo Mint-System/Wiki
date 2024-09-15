@@ -97,3 +97,11 @@ ISO 27001 / Compliance.
 <https://www.camptocamp.com/de/maintenance_und_hosting>
 
 > Wir arbeiten ausschliesslich mit Hosting-Providern zusammen, die ein hohes Qualitäts- und Sicherheitsniveau garantieren und nach ISO 9001:2008, ISO/IEC 27001:2013, PCI DSS 3.2, SOC-1 Typ II und SOC-2 Typ II zertifizierte Rechenzentren betreiben.
+
+## Odoo Nextcloud Integration
+
+Alle Odoo Dokumente `ir.attachment` in Nextcloud speichern.
+
+Umgekehrt Zugriff auf Odoo-Daten mit Nextcloud-Tables.
+
+[[Odoo Nextcloud Filestore]]

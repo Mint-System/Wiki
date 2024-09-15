@@ -26,7 +26,7 @@ Die Serverstufen wurden standortübergreifend gebündelt:
 
 | Anbieter   | Tiny                                          | Small                                           | Medium                                           | Large                                                     |
 | ---------- | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------- |
-| Hetzner    | **CPX11**, 2CPU, 2GB RAM, 40GB Disk, 3.76 EUR | **CX21**, 2CPU, 4GB RAM, 40GB Disk, 4.74 EUR    | **CX31**, 2CPU, 8GB RAM, 80GB Disk, 9.05 EUR     | **CX41**, 4CPU, 16GB RAM, 160GB Disk, 16.59  EUR          |
+| Hetzner    | **CPX11**, 2CPU, 2GB RAM, 40GB Disk, 3.76 EUR | **CX21**, 2CPU, 4GB RAM, 40GB Disk, 4.74 EUR    | **CX32**, 4CPU, 8GB RAM, 80GB Disk, 9.05 EUR     | **CX41**, 4CPU, 16GB RAM, 160GB Disk, 16.59  EUR          |
 | Exoscale   | **Small**, 2CPU, 2GB RAM, 50GB, 14.55 CHF     | **Medium**, 2CPU, 4GB RAM, 50GB Disk, 29.09 CHF | **Large**, 4CPU, 8GB RRAM, 100GB Disk, 58.19 CHF | **Extra-Large**, 4 CPU, 16GB RAM, 200 GB Disk, 116.38 CHF |
 | hosttech   | **Sunny**, 2CPU, 2GB RAM, 50GB Disk, 9.90 CHF | **Foggy**, 4CPU, 4GB RAM, 100 GB, 19.90 CHF     | **Snow**, 6CPU,  8GB RAM, 200GB Disk, 39.90 CHF  | **Ice**, 8CPU, 12GB RAM, 300GB Disk, 59.90 CHF            |
 | Infomaniak | -                                             | -                                               | 4CPU, 12GB RAM, 250GB Disk, 38.41 CHF            | 8CPU, 24GB RAM, 250GB Disk, 97.99 CHF                     |
