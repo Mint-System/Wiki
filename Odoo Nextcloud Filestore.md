@@ -41,9 +41,5 @@ Existing files can be moved from Odoo to nextcloud.
 This module ensures that access permissions of an Odoo model are applied to the folder.
 
 Every Odoo group will be created in Nextcloud as well.
-
 Existing groups can be synced to Nextcloud.
-
-When a Model-Folder is created in Nextcloud, the same access groups are applied
-
-
+When a Model-Folder is created in Nextcloud, the same access groups are applied.
