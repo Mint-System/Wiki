@@ -53,3 +53,18 @@ Clear the container logs:
 ```bash
 docker ps -q | xargs -I {} sh -c 'truncate -s 0 $(docker inspect --format="{{.LogPath}}" {})'
 ```
+
+
+## Unexpected keyword
+
+**Problem**
+
+On Ubuntu 2404 when running a Docker command with Ansible this error is thrown:
+
+```
+Error while fetching server API version: HTTPConnection.request() got an unexpected keyword argument 'chunked'
+```
+
+**Solution**
+
+Install the Python Docker package with pip instead of apt.

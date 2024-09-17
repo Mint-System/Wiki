@@ -1,4 +1,5 @@
 {
+  "name": "wiki",
   "scripts": {
     "build": "node build.js && vuepress build src",
     "vue-build": "vuepress build src",

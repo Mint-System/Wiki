@@ -20,8 +20,8 @@ The filetype will be converted from binary to url.
 It will generate a folder structure like this:
 
 * Odoo/
-	* {model}
-		* {id}\
+	* {model}/
+		* {id}/
 			* {filename}
 
 * Odoo

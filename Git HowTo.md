@@ -51,13 +51,20 @@ git pull upstream 16.0
 
 ### Ausführen
 
+Aktualisieren Upstream-Branch.
+
+```bash
+git switch Mint-System-16.0 
+git pull upstream 16.0
+```
+
 In Main-Branch wechseln.
 
 ```bash
 git switch 16.0
 ```
 
-Files aus dem upstream Branch kopieren.
+Files aus dem Upstream-Branch kopieren.
 
 ```bash
 git checkout Mint-System-16.0 .
@@ -81,7 +88,7 @@ Alles committen.
 
 ```bash
 gaa
-gcmsg "feat: pull from upstream"
+gcmsg "feat: checkout upstream"
 gp
 ```
 
