@@ -58,23 +58,20 @@ git switch Mint-System-16.0
 git pull upstream 16.0
 ```
 
+Submodules-Datei auschecken.
+
+```bash
+git checkout 16.0 .gitmodules
+```
+
 In Main-Branch wechseln.
 
 ```bash
 git switch 16.0
 ```
 
-Files aus dem Upstream-Branch kopieren.
-
 ```bash
-git checkout Mint-System-16.0 .
-```
-
-Liste der Submodules zurücksetzen.
-
-```bash
-git restore --staged .gitmodules
-git checkout .gitmodules
+task git-submodule-add git@github.com:sozialinfo/odoo-apps-sozialinfo.git addons/sozialinfo
 ```
 
 Referenzen der Submodule aktualisieren.
