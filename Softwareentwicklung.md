@@ -4,6 +4,10 @@ tags:
 ---
 # Softwareentwicklung
 
+## Programmiersprache
+
+Wir verwenden [[Python]] für alle Projekte.
+
 ## Terminal
 
 Wir verwenden [[Zsh]] als Shell. 

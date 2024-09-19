@@ -11,7 +11,8 @@ Alias: `lkr`\
 Mail: <laszlo.krajnikovszkij@mint-system.ch>\
 Matrix: `@laszlo:mint-system.ch`\
 Alias: lkr, laszlo
-GitHub: https://github.com/laszlo-lk
+GitHub: https://github.com/laszlo-lk\
+GitLab: <https://gitlab.com/laszlokr>
 
 ## SSH
 

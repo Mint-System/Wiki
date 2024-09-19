@@ -11,7 +11,9 @@ Alias: `jvr`\
 Mail: <janik.vonrotz@mint-sytem.ch>\
 Alias: janik, jvr, login\
 Matrix: `@janikvonrotz:mint-system.ch`\
-vCard: [[vCard#Janik von Rotz]]
+vCard: [[vCard#Janik von Rotz]]\
+GitHub: <https://github.com/janikvonrotz>\
+GitLab: <https://gitlab.com/janikvonrotz/>
 
 ## SSH
 

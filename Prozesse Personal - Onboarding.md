@@ -19,7 +19,7 @@ tags:
 
 Arbeitsschritte:
 * Mitarbeiter-Eintrag in Wiki erfassen
-* E-Mail-Account anlegen
+	* E-Mail-Account anlegen
 * Matrix-Benutzer erstellen
 * Keycloak-Benutzer anlegen
 * Zugriffsdaten schicken

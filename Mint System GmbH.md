@@ -19,6 +19,10 @@ UID: CHE-150.248.608
 * [[Kurt Gisler]]
 * [[Laszlo Krajnikovszkij]]
 
+## Freischaffende
+
+* [[Ulrich Kilian]]
+
 ### Ehemalige
 
 * [[Marco Roeleven]]
