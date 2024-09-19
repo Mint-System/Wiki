@@ -43,7 +43,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Leto       | Server Lapp Engineering AG               | `leto.mint-system.com`     | Hetzner     |
 | Matrix     | [[Matrix]]-Server bei [[ungleich GmbH]]  | `matrix.mint-system.com`   | Ungleich    |
 | Metis      | Server Zgraggen Agro GmbH                | `metis.mint-system.com`    | Hetzner     |
-| Momus      | Server Swiss Fragrance GmbH              | `momus.mint-system.com`    | Hetzner     |
+| Momus      | Server Kunststoffsammelsack Schweiz GmbH | `momus.mint-system.com`    | Hetzner     |
 | Moros      | Nextcloud KMSU                           | `moros`                    | Off-Premise |
 | Nyx        | Server Arnold Umzüge AG                  | `nyx.mint-system.com`      | Hetzner     |
 | Pan        | Neuer Server Trimada AG                  | `pan.mint-system.com`      | Hetzner     |
@@ -63,4 +63,3 @@ Liste aller Server im Einsatz der Mint System GmbH.
 Die folgenden Namen stehen zur Auswahl bereit:
 
 * Gaia (in use)
-* Athena

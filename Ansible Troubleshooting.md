@@ -22,27 +22,27 @@ curl https://pyenv.run | bash
 
 Install python build dependencies.
 ``
-```
+```bash
 # Install gcc libraries
-apt install build-essential
+apt install -y build-essential
 
 # Install libraries for bz2 support
-apt install libbz2-dev
+apt install -y libbz2-dev
 
 # Install libraries for _curses support
-apt install libncurses5-dev libncursesw5-dev
+apt install -y libncurses5-dev libncursesw5-dev
 
 # Install libraries for ctypes support
-apt install libffi-dev
+apt install -y libffi-dev
 
 # Install libraries for readline support
-apt install libreadline-dev
+apt install -y libreadline-dev
 
 # Install libraries for SSL support
-apt install libssl-dev
+apt install -y libssl-dev
 
 # General dependencies for Python build
-apt install zlib1g-dev libsqlite3-dev liblzma-dev libgdbm-dev libnss3-dev
+apt install -y zlib1g-dev libsqlite3-dev liblzma-dev libgdbm-dev libnss3-dev
 ```
 
 Init pyenv.
@@ -53,15 +53,16 @@ export PYENV_ROOT="$HOME/.pyenv"
 eval "$(pyenv init -)"
 ```
 
-Install python 3.7
+Install python 3.8.
 
 ```bash
-pyenv install 3.7
+pyenv install 3.8
+pyenv global 3.8.20
 ```
 
-Set Ansible python interpreter.
+Set Ansible python interpreter to pyenv shim.
 
 ```yml
-ansible_python_interpreter: 
+ansible_python_interpreter: /root/.pyenv/shims/python3
 ```
 
