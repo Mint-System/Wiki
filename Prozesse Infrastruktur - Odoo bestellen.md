@@ -28,7 +28,7 @@ Wir möchten gerne Ihre Odoo-Instanz bereitstellen. Dazu brauchen wir technische
 
 **DNS-Einträge**
 
-Damit Odoo im Browser angezeigt weren kann, braucht es einen DNS-Eintrag unter ihrer Domäne $DOMAIN_KUNDE.
+Damit Odoo im Browser angezeigt werden kann, braucht es DNS-Einträge unter ihrer Domäne $DOMAIN_KUNDE.
 
 Können Sie die folgenden DNS-Einträge einrichten?
 
