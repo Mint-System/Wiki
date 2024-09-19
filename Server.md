@@ -22,7 +22,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Apollo     | Dienste [[Janik von Rotz]]               | `apollo.janikv.com`        | Hetzner     |
 | Ares       | Server Pure ICT GmbH                     | `ares.mint-system.com`     | Off-Premise |
 | Artemis    | Server Trimada AG                        | `artemis.mint-system.com`  | Hetzner     |
-| Athena     | Server HFMTS                             | `athena.mint-system.com`   | Hosttech    |
+| Athena     | Monitoring Sozialinfo                    | `athena.mint-system.com`   | ExoScale    |
 | Atlas      | [[Monitoring]] [[Mint System GmbH]]      | `atlas.mint-system.com`    | Hetzner     |
 | Bia        | Server OCAD AG                           | `bia.mint-system.com`      | Hetzner     |
 | Cratos     | Server AirWork Heliseilerei GmbH         | `cratos.mint-system.com`   | Hetzner     |
@@ -63,3 +63,4 @@ Liste aller Server im Einsatz der Mint System GmbH.
 Die folgenden Namen stehen zur Auswahl bereit:
 
 * Gaia (in use)
+* Zelus (in use)
