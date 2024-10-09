@@ -3,7 +3,8 @@ tags:
 - Prozess
 ---
 # Prozesse Odoo
-Technische Dokumentation der Odoo Prozesse. Baisieren auf der [[Vorlage Prozesse Odoo]].
+
+Technische Dokumentation der Odoo Prozesse.
 
 Verantwortlich: [[Janik von Rotz]]
 
@@ -20,6 +21,7 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - Datenmigration]]
 * [[Prozesse Odoo - Lizenzierung]]
 * [[Prozesse Odoo - Modul Migration]]
+* [[Prozesse Odoo - Odoo Revision]]
 
 ## Upgrade
 
@@ -27,6 +29,8 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - Upgrade ausführen]]
 
 ## Odoo Apps
+
+Baisieren auf der [[Vorlage Prozesse Odoo]].
 
 * [[Prozesse Odoo - App Abonnements]]
 * [[Prozesse Odoo - App Abwesenheit]]
