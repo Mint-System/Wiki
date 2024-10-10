@@ -10,8 +10,6 @@ Die wichtigsten Links der Mint System.
 
 [ERP Mint System](https://erp.mint-system.ch)
 
-[BigBlueButton](https://meet.mint-system.ch/b)
-
 [Odoo Website Mint System](https://www.mint-system.ch)
 
 [Wiki Mint System](https://wiki.mint-system.ch)

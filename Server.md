@@ -31,7 +31,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Eos        | Server Aersolution Interior AG           | `odoo.aersolution.com`     | Off-Premise |
 | Eris       | Nextcloud  Abächerli Forstunternehmen AG | `eris.mint-system.com`     | Hetzner     |
 | Eros       | Keycloak-Server Sozialinfo               | `eros.mint-system.com`     | Infomania   |
-| Gaia       | [[BigBlueButton]] [[Mint System GmbH]]   | `gaia.mint-system.com`     | Hetzner     |
+| Gaia       | Server Brunner Elektronik AG             | `gaia.mint-system.com`     | Off-Premise |
 | Hebe       | Server Localfish AG                      | `hebe.mint-system.com`     | Hetzner     |
 | Helios     | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
 | Hestia     | Server Donut Economics Switzerland       | `hestia.mint-system.com`   | Hetzner     |
@@ -62,5 +62,4 @@ Liste aller Server im Einsatz der Mint System GmbH.
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
-* Gaia (in use)
 * Zelus (in use)
