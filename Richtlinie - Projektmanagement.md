@@ -34,7 +34,7 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | Workshop/                       | Dokumente zum Workshop                               |
 | Issues/YYYY-MM-DD TITEL.md      | Details zu Projektaufgaben                           |
 
-**Projktphasen**
+**Projektphasen**
 
 | Ordner / Dokument     | Beschreibung                                                             |
 | --------------------- | ------------------------------------------------------------------------ |
