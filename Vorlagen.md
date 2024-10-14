@@ -29,5 +29,7 @@ tags:
 | [[Vorlage Test Cases]]                    |
 | [[Vorlage Troubleshooting]]               |
 | [[Vorlage Use Cases]]                     |
-| [[Vorlage Worklog]]                       |
 | [[Odoo Upgrade from XX.0 to XX.0]]        |
+| [[Template Issue]]                        |
+| [[Template Meeting]]                      |
+| [[Template Worklog]]                      |

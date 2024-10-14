@@ -23,7 +23,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Ares       | Server Pure ICT GmbH                     | `ares.mint-system.com`     | Off-Premise |
 | Artemis    | Server Trimada AG                        | `artemis.mint-system.com`  | Hetzner     |
 | Athena     | Monitoring Sozialinfo                    | `athena.mint-system.com`   | ExoScale    |
-| Atlas      | [[Monitoring]] [[Mint System GmbH]]      | `atlas.mint-system.com`    | Hetzner     |
+| Atlas      | [[Monitoring]] Mint System GmbH          | `atlas.mint-system.com`    | Hetzner     |
 | Bia        | Server OCAD AG                           | `bia.mint-system.com`      | Hetzner     |
 | Cratos     | Server AirWork Heliseilerei GmbH         | `cratos.mint-system.com`   | Hetzner     |
 | Dione      | Nextcloud ISAF2025                       | `dione.mint-system.com`    | Hetzner     |
@@ -54,12 +54,18 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Triton     | Server Kreativartikel GmbH               | `triton`                   | Off-Premise |
 | Tyche      | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus      | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
-| Zeus       | Server [[Mint System GmbH]]              | `zeus.mint-system.com`     | Hetzner     |
-| [[Hades]]  | Demo [[Mint System GmbH]]                | `hades.mint-system.com`    | Hetzner     |
-| [[Hermes]] | Demo [[Mint System GmbH]]                | `hermes.mint-system.com`   | Hetzner     |
+| Zeus       | Server Mint System GmbH                  | `zeus.mint-system.com`     | Hetzner     |
+| [[Hades]]  | Demo Mint System GmbH                    | `hades.mint-system.com`    | Hetzner     |
+| [[Hermes]] | Demo Mint System GmbH                    | `hermes.mint-system.com`   | Hetzner     |
+| Geras      | [[Kubernetes Cluster]] Mint System GmbH  | `geras.mint-system.com`    | Hetzner     |
 
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
-* Zelus (in use)
+* Phanes
+* Koios
+* Asteria
+* Perses
+* Geras
+* Zelus (soon to be removed)

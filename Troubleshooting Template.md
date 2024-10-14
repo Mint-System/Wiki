@@ -32,3 +32,4 @@ Source: <http://example.com>
 Issues with status *resolved*.
 
 ### Title of issue
+

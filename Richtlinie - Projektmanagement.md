@@ -32,7 +32,7 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | README.md                       | Projektbeschreibung und Orientierung für Mitarbeiter |
 | Worklog/YYYY-MM-DD TITEL.md     | Protokolle zur Auftragsabwicklung                    |
 | Workshop/                       | Dokumente zum Workshop                               |
-|                                 |                                                      |
+| Issues/YYYY-MM-DD TITEL.md      | Details zu Projektaufgaben                           |
 
 **Projktphasen**
 
