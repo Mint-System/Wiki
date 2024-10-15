@@ -9,9 +9,10 @@ Website: https://www.hetzner.com/
 
 ## HowTos
 
-[[Hetzner - Festplattenspeicher erweitern]]
-[[Hetzner - Server zu neuem Standort migrieren]]
-[[Hetzner - RAM-Speicher erhöhen]]
+[[Hetzner - Festplattenspeicher erweitern]]\
+[[Hetzner - Server zu neuem Standort migrieren]]\
+[[Hetzner - RAM-Speicher erhöhen]]\
+[[Hetzner - OS migrieren]]
 
 ## Hetzner Cloud cli
 

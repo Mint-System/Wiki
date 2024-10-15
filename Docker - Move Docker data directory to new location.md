@@ -14,7 +14,7 @@ Stop the Docker daemon.
 sudo service docker stop
 ```
 
-Create a config file **/etc/docker/daemon.json**
+Edit the config file `sudo vi /etc/docker/daemon.json`:
 
 ```json
 { 
@@ -25,7 +25,7 @@ Create a config file **/etc/docker/daemon.json**
 Copy the current directory to the new directory.
 
 ```bash
-sudo rsync -a /var/lib/docker /mnt/sdb/docker
+sudo rsync --delete -a /var/lib/docker/ /mnt/sdb/docker
 ```
 
 Rename the old directory.
