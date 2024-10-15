@@ -23,7 +23,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Ares       | Server Pure ICT GmbH                     | `ares.mint-system.com`     | Off-Premise |
 | Artemis    | Server Trimada AG                        | `artemis.mint-system.com`  | Hetzner     |
 | Athena     | Monitoring Sozialinfo                    | `athena.mint-system.com`   | ExoScale    |
-| Atlas      | [[Monitoring]] [[Mint System GmbH]]      | `atlas.mint-system.com`    | Hetzner     |
+| Atlas      | [[Monitoring]] Mint System GmbH          | `atlas.mint-system.com`    | Hetzner     |
 | Bia        | Server OCAD AG                           | `bia.mint-system.com`      | Hetzner     |
 | Cratos     | Server AirWork Heliseilerei GmbH         | `cratos.mint-system.com`   | Hetzner     |
 | Dione      | Nextcloud ISAF2025                       | `dione.mint-system.com`    | Hetzner     |
@@ -31,7 +31,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Eos        | Server Aersolution Interior AG           | `odoo.aersolution.com`     | Off-Premise |
 | Eris       | Nextcloud  Abächerli Forstunternehmen AG | `eris.mint-system.com`     | Hetzner     |
 | Eros       | Keycloak-Server Sozialinfo               | `eros.mint-system.com`     | Infomania   |
-| Gaia       | [[BigBlueButton]] [[Mint System GmbH]]   | `gaia.mint-system.com`     | Hetzner     |
+| Gaia       | Server Brunner Elektronik AG             | `gaia.mint-system.com`     | Off-Premise |
 | Hebe       | Server Localfish AG                      | `hebe.mint-system.com`     | Hetzner     |
 | Helios     | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
 | Hestia     | Server Donut Economics Switzerland       | `hestia.mint-system.com`   | Hetzner     |
@@ -54,13 +54,18 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Triton     | Server Kreativartikel GmbH               | `triton`                   | Off-Premise |
 | Tyche      | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Zelus      | Server Bergkäserei Aschwanden AG         | `zelus.mint-system.com`    | Hetzner     |
-| Zeus       | Server [[Mint System GmbH]]              | `zeus.mint-system.com`     | Hetzner     |
-| [[Hades]]  | Demo [[Mint System GmbH]]                | `hades.mint-system.com`    | Hetzner     |
-| [[Hermes]] | Demo [[Mint System GmbH]]                | `hermes.mint-system.com`   | Hetzner     |
+| Zeus       | Server Mint System GmbH                  | `zeus.mint-system.com`     | Hetzner     |
+| [[Hades]]  | Demo Mint System GmbH                    | `hades.mint-system.com`    | Hetzner     |
+| [[Hermes]] | Demo Mint System GmbH                    | `hermes.mint-system.com`   | Hetzner     |
+| Geras      | [[Kubernetes Cluster]] Mint System GmbH  | `geras.mint-system.com`    | Hetzner     |
 
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
-* Gaia (in use)
-* Zelus (in use)
+* Phanes
+* Koios
+* Asteria
+* Perses
+* Geras
+* Zelus (soon to be removed)

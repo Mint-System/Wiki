@@ -7,7 +7,7 @@ tags:
 ## Versionierung
 
 Wir orientieren uns bei der Versionierung von Software an [[Semantic Versioning]].
-## Git Commits Messages
+## Git Commit Messages
 
 Wir orientieren uns bei der Erstellung von Commit Messages an [[Conventional Commits]].
 

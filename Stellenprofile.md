@@ -21,6 +21,4 @@ tags:
 | Akquise neue Projekte                                  |          O           |           X            |
 | *Geschäftsentwicklung*                                 |                      |                        |
 | Aufbau neue Geschäftsfelder                            |          O           |           X            
-## Odoo Implementation Skilltree
-
-![[Odoo Implementation Skilltree.canvas|Odoo Implementation Skilltree]]
+Detailllierte Aufsttellung der Skill: [[Odoo Implementation Skilltree]].

@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Infrastruktur - Odoo entfernen
+# Prozesse Infrastruktur - Deinstallation Odoo
 Odoo-Umgebung entfernen.
 
 ##  Odoo-Instanz entfernen

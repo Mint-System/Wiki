@@ -2,25 +2,40 @@
 tags:
 - Prozess
 ---
-
 # Prozesse
+
 Prozesse regeln das **Wie**.
 
 In diesem Dokument werden die internen Prozesse der Mint System beschrieben.
 
 Verantwortlich: [[Kurt Gisler]]
 
-* [[Prozesse Akquise]]
-* [[Prozesse Odoo]]
-* [[Prozesse Projektmanagement]]
-* [[Prozesse Infrastruktur]]
-* [[Prozesse Finanzen]]
-* [[Prozesse Marketing]]
-* [[Prozesse Support]]
-* [[Prozesse Softwareentwicklung]]
-* [[Prozesse Sicherheit]]
-* [[Prozesse Beratung]]
-* [[Prozesse Wiki]]
+Intern:
+
 * [[Prozesse Personal]]
-* [[Prozesse Hardware]]
 * [[Prozesse Dokumentenmanagement]]
+* [[Prozesse Wiki]]
+* [[Prozesse Finanzen]]
+
+Dienstleistung:
+
+* [[Prozesse Akquise]]
+* [[Prozesse Marketing]]
+* [[Prozesse Projektmanagement]]
+* [[Prozesse Beratung]]
+* [[Prozesse Odoo]]
+* [[Prozesse Support]]
+
+Technisch:
+
+* [[Prozesse Hardware]]
+* [[Prozesse Softwareentwicklung]]
+* [[Prozesse Infrastruktur]]
+* [[Prozesse Sicherheit]]
+
+
+
+
+
+
+
