@@ -9,7 +9,7 @@ Prozesse zur Spesenabrechnung der Mint System.
 
 Arbeitsschritte:
 * In der App *Auslagen* die Spesen erfassen
-* Ein Bild als Belegn anhängen
+* Ein Bild als Beleg anhängen
 * Die MwSt. entfernen
 
 ## Spesen abrechnen
