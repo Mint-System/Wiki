@@ -2,7 +2,7 @@
 tags:
 - Vorlagen
 ---
-# {{NAME}}
+# Template Issue
 
 State: <mark>Open/Resolved</mark>\
 Datum: {{DATE:YYYY-MM-DD}}\
