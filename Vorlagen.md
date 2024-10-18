@@ -7,7 +7,7 @@ tags:
 | Name                                      |
 | ----------------------------------------- |
 | [[Minor Improvements Template]]           |
-| [[Odoo Migrate Modules XX.0]]             |
+| [[Migrate Odoo Modules XX.0]]             |
 | [[Odoo Upgrade XX.0]]                     |
 | [[Template Issue]]                        |
 | [[Template Meeting]]                      |

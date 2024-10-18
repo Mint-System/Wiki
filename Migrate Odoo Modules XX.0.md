@@ -3,7 +3,7 @@ lang: en
 tags:
 - Vorlagen
 ---
-# Odoo Migrate Modules XX.0
+# Migrate Odoo Modules XX.0
 
 States:
 
