@@ -7,7 +7,7 @@ tags:
 ## Prozess initialisieren
 
 Arbeitsschritte:
-* Erstellen Modulliste auf Server ([[Vorlage Odoo Upgrade Modules]])
+* Erstellen Modulliste auf Server ([[Odoo Migrate Modules XX.0]])
 * Upgrade-Strategy wählen: [[Odoo Enterprise Upgrade]] oder [[Odoo Community Upgrade]]
 * Bereitstellen Odoo-Umgebung auf der neuen Version
 
@@ -16,7 +16,7 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Auf Server einloggen `ssh $ALIAS.mint-system.com`
 * Modulliste generieren `docker-odoo-cloc -c $CONTAINER -d $DATABASE`
-* Modulliste auf Aufgabe eintragen
+* Modulliste als Issue "Migrate Modules XX.0" erfassen
 
 ## Module prüfen
 
