@@ -5,7 +5,7 @@ tags:
 # Template Issue
 
 State: <mark>Open/Resolved</mark>\
-Datum: {{DATE:YYYY-MM-DD}}\
+Datum: \{\{DATE:YYYY-MM-DD\}\}\
 Author:  <mark>Name</mark>
 
 ## Problem
