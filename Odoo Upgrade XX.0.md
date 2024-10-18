@@ -3,7 +3,7 @@ lang: en
 tags:
 - templates
 ---
-# Odoo Upgrade from XX.0 to XX.0
+# Odoo Upgrade XX.0
 
 ## Prepare
 
@@ -25,7 +25,7 @@ alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 Download the database.
 
 ```bash
-odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
+odoo-backup -h https://$HOST -p $(ansible-vault-get -i inventories/odoo -l $ALIAS -k vault_odoo_master_password) -d $DATABASE -o tmp/$COMPANY$/$DATABASE.zip
 ```
 
 Checkout current Odoo environment.

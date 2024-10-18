@@ -7,7 +7,7 @@ tags:
 
 Description of the [[Odoo Enterprise Edition]] upgrade process.
 
-For new upgrades use this script: [[Odoo Upgrade from XX.0 to XX.0]]
+For new upgrades use this script: [[Odoo Upgrade XX.0]]
 
 These were the old upgrade strategies:
 

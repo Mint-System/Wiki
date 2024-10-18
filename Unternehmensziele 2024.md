@@ -6,7 +6,7 @@ tags:
 
 Personal:
 
-* Status quo
+* Status quo (3 Mitarbeitende)
 
 Netzwerk:
 
@@ -23,12 +23,12 @@ Projekte:
 * Aufbau Odoo PaaS Plattform mit Partner
 * NRP-Projekt für Luftfahrt
 
-Infrastuktur:
+Infrastruktur:
 
 * Keine Odoo 14 Installationen
-* Max 3 Monate  alte Odoo Revisionen
+* Max 3 Monate alte Odoo Revisionen
 
-Enwicklung:
+Entwicklung:
 
 * Odoo Images mit Nix/PiPy-Pakete
 * Deployment nach OpenShift/Kubernetes
