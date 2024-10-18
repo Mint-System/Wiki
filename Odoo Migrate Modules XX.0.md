@@ -16,7 +16,6 @@ States:
 * **Missing**: The source of the module could be found
 * **Deprecated**: This module must be removed before upgrade
 
-| Module Name             | Link                                                                                                        | State | Comment                                              |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------- |
-| account_invoice_carrier | [GitHub Link](https://github.com/Mint-System/Odoo-Apps-Account-Invoicing/tree/14.0/account_invoice_carrier) | Init  | Mint System Module: Upgrade from Version 14.0 needed |
-
+| Module Name             | State | Comment                                              |
+| ----------------------- | ----- | ---------------------------------------------------- |
+| account_invoice_carrier | Init  | Mint System Module: Upgrade from Version 14.0 needed |
