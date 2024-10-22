@@ -68,7 +68,7 @@ Run the upgrade scripts.
 
 ```bash
 task clear-filestore $NEW_DATABASE
-task drop-db  $NEW_DATABASE
+task drop-db $NEW_DATABASE
 odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
 ```
 
@@ -117,10 +117,12 @@ odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 
 Deploy the upgraded database.
 
-Restore the upgraded database. 
+Restore the upgraded database.
 
 Update all modules.
 
 ```bash
 task update-module $NEW_DATABASE base
 ```
+
+Update proxy config.

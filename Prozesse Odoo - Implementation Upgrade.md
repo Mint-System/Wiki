@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo - Upgrade ausführen
+# Prozesse Odoo - Implementation Upgrade
 
 ## Prozess initialisieren
 
@@ -26,7 +26,7 @@ Arbeitsschritte:
 * Module paketieren und veröffentlichen
 * Bereitstellen auf neuer Odoo-Umgebung
 
-## Odoo Upgrade durchführen
+## Odoo Upgrade ausführen
 
 Arbeitsschritte:
 * Durchführen Upgrade gemäss Edition und Hosting

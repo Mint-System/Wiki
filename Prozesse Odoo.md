@@ -26,7 +26,7 @@ Verantwortlich: [[Janik von Rotz]]
 ## Upgrade
 
 * [[Prozesse Odoo - Upgrade Angebot]]
-* [[Prozesse Odoo - Upgrade ausführen]]
+* [[Prozesse Odoo - Implementation Upgrade]]
 
 ## Odoo Apps
 
