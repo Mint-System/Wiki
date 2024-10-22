@@ -62,13 +62,18 @@ Submodules-Datei auschecken.
 
 ```bash
 git checkout 16.0 .gitmodules
+git stash
 ```
 
 In Main-Branch wechseln.
 
 ```bash
 git switch 16.0
+git rebase Mint-System-16.0
+git stash pop
 ```
+
+Submodule dem Index inzufügen.
 
 ```bash
 task git-submodule-add git@github.com:sozialinfo/odoo-apps-sozialinfo.git addons/sozialinfo
@@ -86,10 +91,5 @@ Alles committen.
 ```bash
 gaa
 gcmsg "feat: checkout upstream"
-gp
+gp -f
 ```
-
-## Create fork with merged PRs
-
-Repo: https://github.com/OCA/sale-workflow
-

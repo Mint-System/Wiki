@@ -3,7 +3,7 @@ lang: en
 tags:
 - templates
 ---
-# Odoo Upgrade from XX.0 to XX.0
+# Odoo Upgrade XX.0
 
 ## Prepare
 
@@ -25,7 +25,7 @@ alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 Download the database.
 
 ```bash
-odoo-backup -d $DATABASE -o tmp/$COMPANY/$DATABASE.zip ...
+odoo-backup -h https://$HOST -p $(ansible-vault-get -i inventories/odoo -l $ALIAS -k vault_odoo_master_password) -d $DATABASE -o tmp/$COMPANY$/$DATABASE.zip
 ```
 
 Checkout current Odoo environment.
@@ -68,7 +68,7 @@ Run the upgrade scripts.
 
 ```bash
 task clear-filestore $NEW_DATABASE
-task drop-db  $NEW_DATABASE
+task drop-db $NEW_DATABASE
 odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
 ```
 
@@ -117,10 +117,12 @@ odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
 
 Deploy the upgraded database.
 
-Restore the upgraded database. 
+Restore the upgraded database.
 
 Update all modules.
 
 ```bash
 task update-module $NEW_DATABASE base
 ```
+
+Update proxy config.

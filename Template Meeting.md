@@ -2,9 +2,9 @@
 tags:
 - Vorlagen
 ---
-# {{NAME}}
+# Template Meeting
 
-Datum: {{DATE:YYYY-MM-DD}}\
+Datum: DATE:YYYY-MM-DD\
 Teilnehmer: <mark>Name</mark>
 
 ## Input
