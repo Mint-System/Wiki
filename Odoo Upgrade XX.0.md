@@ -78,6 +78,12 @@ Checkout target Odoo environment.
 task checkout $ODOO_TARGET_VERSION
 ```
 
+Update all modules.
+
+```bash
+task update-module $NEW_DATABASE base
+```
+
 Clear the browser cache and Odoo assets, then start the server.
 
 ```bash
@@ -99,6 +105,7 @@ Make new Odoo configurations.
 Update the language packages.
 
 Update or remove selected snippets.
+
 ## Verify
 
 Test the upgraded system.
@@ -118,11 +125,5 @@ odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY
 Deploy the upgraded database.
 
 Restore the upgraded database.
-
-Update all modules.
-
-```bash
-task update-module $NEW_DATABASE base
-```
 
 Update proxy config.
