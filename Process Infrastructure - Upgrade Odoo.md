@@ -16,7 +16,7 @@ Working steps:
 * Remove `erp-dev` database
 * Enable proxy redirect to new instance
 
-## Execte production upgrade
+## Execute production upgrade
 
 
 * Message to customer:
@@ -34,3 +34,18 @@ Mint System Team
 ```
 
 * Execute the production upgrade according to the upgrade script
+* Message to customer
+
+```
+Guten Tag
+
+Das Odoo Upgrade war erfolgreich.
+
+Den Odoo Upgrade Bericht finden Sie unter "Diskussion > Kanäle > Administrators".
+
+Wir bitten Sie die Odoo Installation zu verfizieren und allfällige Fehler zu melden.
+
+Mit freundlichen Grüssen
+
+Mint System Team
+```

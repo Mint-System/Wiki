@@ -112,7 +112,7 @@ Note any regressions.
 Export the new database.
 
 ```bash
-odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY/$NEW_DATABASE.zip
+odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY
 ```
 
 Deploy the upgraded database.

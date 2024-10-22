@@ -20,6 +20,6 @@ Folgende Themen werden besprochen:
 
 ## Aufgaben
 
-<mark>Aufgaben für die Nachbearbeitung</mark>
+<mark>Aufgaben für die Nachbearbeitung:</mark>
 
 - [ ] Zu erledigen @Person/Org
