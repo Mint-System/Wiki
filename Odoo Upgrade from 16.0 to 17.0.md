@@ -1,6 +1,7 @@
 ---
 tags:
-- HowTo
+  - HowTo
+archive: true
 ---
 # Odoo Upgrade from 16.0 to 17.0
 

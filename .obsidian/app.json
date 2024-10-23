@@ -17,6 +17,6 @@
     "src/"
   ],
   "showInlineTitle": false,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "vimMode": false
 }

@@ -1,6 +1,7 @@
 ---
 tags:
-- HowTo
+  - HowTo
+archive: true
 ---
 # Odoo Upgrade from 14.0 to 15.0
 
