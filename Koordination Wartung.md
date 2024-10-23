@@ -10,7 +10,7 @@ Beschreibt die Verantwortung des Kunden und Mint System für bestimmte Aufgaben 
 
 ### Docker Image aktualisieren
 
-Einmal im Monat aktualisiert Mint System die Odoo Revision gemäss [[Prozesse Odoo - Odoo Revision]]. 
+Einmal im Monat aktualisiert Mint System die Odoo Revision gemäss [[Prozesse Odoo - Revision]]. 
 ### Odoo Apps in Produktion aktualisieren
 
 Mint System stellt sicher, dass Odoo Apps (Community und Enterprise) auf die Odoo-Umgebungen des Kunden bereitgestellt und aktualisiert werden. Das Deployment der Apps erfolgt Kunden-spezifisch.

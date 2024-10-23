@@ -21,7 +21,7 @@ Merge `upgrade` branch into `main` branch once database upgrade is done.
 
 ## Configure
 
-After the upgrade restore execute this steps:
+After the upgrade restore execute these steps:
 
 * Install `sale_order_line_position`
 * Remove `sale_order_line_pos`

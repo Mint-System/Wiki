@@ -13,7 +13,7 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - Demoumgebung bereitstellen]]
 * [[Prozesse Odoo - Testumgebung bereitstellen]]
 * [[Prozesse Odoo - Produktionsumgebung bereitstellen]]
-* [[Prozesse Odoo - Odoo.sh Plattform bereitstellen]]
+* [[Prozesse Odoo - Odoo.sh bereitstellen]]
 
 ## Verwaltung
 
@@ -21,12 +21,12 @@ Verantwortlich: [[Janik von Rotz]]
 * [[Prozesse Odoo - Datenmigration]]
 * [[Prozesse Odoo - Lizenzierung]]
 * [[Prozesse Odoo - Modul Migration]]
-* [[Prozesse Odoo - Odoo Revision]]
+* [[Prozesse Odoo - Revision]]
 
 ## Upgrade
 
 * [[Prozesse Odoo - Upgrade Angebot]]
-* [[Prozesse Odoo - Implementation Upgrade]]
+* [[Prozesse Odoo - Upgrade Umsetzung]]
 
 ## Odoo Apps
 
