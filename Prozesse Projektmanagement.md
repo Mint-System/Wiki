@@ -3,6 +3,7 @@ tags:
 - Prozess
 ---
 # Prozesse Projektmanagement
+
 Dokumentation der Projektmanagement Prozesse.
 
 Verantwortlich: [[Kurt Gisler]]
@@ -18,9 +19,8 @@ graph LR;
 * [[Prozesse Projektmanagement - Konzept]]
 * [[Prozesse Projektmanagement - Aufwandsschätzung]]
 * [[Prozesse Projektmanagement - Projektdefinition]]
-* [[Prozesse Projektmanagement - Odoo Projekt erstellen]]
+* [[Prozesse Projektmanagement - Odoo]]
 * [[Prozesse Projektmanagement - Zeiterfassung]]
-* [[Prozesse Projektmanagement - Aufgaben verwalten]]
-* [[Prozesse Projektmanagement - Business Requirement verfassen]]
+* [[Prozesse Projektmanagement - Aufgaben]]
+* [[Prozesse Projektmanagement - Business Requirement]]
 * [[Prozesse Projektmanagement - Ressourcenplanung]]
-* [[Prozesse Projektmanagement - Odoo Upgrade]]

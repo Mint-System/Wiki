@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Projektmanagement - Business Requirement verfassen
+# Prozesse Projektmanagement - Business Requirement
 
 ## Stakeholder Story formulieren
 
@@ -36,4 +36,4 @@ Verantwortlich: [[Rollen#Stakeholder]]
 
 In Rücksprache mit Stakeholder des  Projekts wird eine Massnahme formuliert. Die Massnahme ist die Aufgabenbeschreibung und richtet sich an den Entwickler oder Integrator, welcher die Lösung implementiert.
 
-Ist das Business Requirement bestätigt, wird eine Aufgabe angelegt und die Massnahme wird 1:1 auf die Beschreibungder Aufgabe übertragen.
+Ist das Business Requirement bestätigt, wird eine Aufgabe angelegt und die Massnahme wird 1:1 auf die Beschreibung der Aufgabe übertragen.

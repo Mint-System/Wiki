@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Projektmanagement - Aufgaben verwalten
+# Prozesse Projektmanagement - Aufgaben
 Aufgabenverwaltung im Odoo
 
 ## Aufgabe erstellen
@@ -10,13 +10,6 @@ Aufgabenverwaltung im Odoo
 Beim Erstellen einer Aufgabe muss beachtet werden, dass standardmässig ein Auftragselement aus dem verlinkten Verkaufsauftrag hinzugefügt wird. Soll die verbuchte Zeit auf der Aufgabe verrechnet werden, muss ein entsprechendes Auftragselement vorhanden sein. Ansonsten gilt es den Link zum Auftrag zu entfernen.
 
 Es gelten die [[Richtlinie - Aufgabenverwaltung]].
-
-### Haupt- und Unteraufgaben
-
-Alle Unteraufgaben haben Prefix: `OI: `. OI steht in diesem Fall für Odoo Implementierung.  
-Alle Hauptaufgaben haben am Ende des Namens den Suffix " (OI)" mit den jeweiligen Anfangsbuchstaben.
-
-![[Prozesse Projektmanagent Unterteilung Aufgaben.png]]
 
 ## Aufgaben bündeln
 
