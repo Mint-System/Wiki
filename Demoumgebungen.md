@@ -9,13 +9,11 @@ Siblings: [[Produktive Umgebungen]], [[Testumgebungen]]
 
 ## Odoo
 
-| Link                             | Beschreibung                    |
-| -------------------------------- | ------------------------------- |
-| https://zeiterfassung.mintsys.ch | Demoumgbung für Zeiterfassung   |
-| https://odoo13.mintsys.ch        | Allgemeine Demoumgebung Odoo 13 |
-| https://odoo14.mintsys.ch        | Allgemeine Demoumgebung Odoo 14 |
-| https://finanzen.mintsys.ch      | Demoumgebung für Finanzen       |
-| https://finanzen.mintsys.ch      | Demoumgebung für Finanzen       |
+| Link                       | Beschreibung                    |
+| -------------------------- | ------------------------------- |
+| https://odoo.16.odoo.build | Allgemeine Demoumgebung Odoo 16 |
+| https://odoo.17.odoo.build | Allgemeine Demoumgebung Odoo 17 |
+
 
 ## Nextcloud
 

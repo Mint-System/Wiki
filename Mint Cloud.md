@@ -2,7 +2,7 @@
 tags:
 - Assets
 ---
-# Mintsys Cloud
+# Mint Cloud
 
 Ist ein Hosting-[[Angebot]] der Mint System.
 

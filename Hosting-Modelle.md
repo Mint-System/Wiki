@@ -5,7 +5,7 @@ tags:
 # Hosting-Modelle
 Wir unterscheiden zwischen den foglenden Hosting-Modellen:
 
-* SaaS - [[Mintsys Cloud]]
+* SaaS - [[Mint Cloud]]
 * PaaS - [[Odoo Hosting - Odoo.sh|Odoo.sh]]
 * On-Premise - Installation auf Server des Unternehmen
 * Off-Premise - Installation auf Server von Partner des Unternehmen

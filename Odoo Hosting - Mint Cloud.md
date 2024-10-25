@@ -3,9 +3,9 @@ tags:
 - Asset
 ---
 
-![[Banner Odoo Hosting Mintsys Cloud.jpg]]
+![[Banner Odoo Hosting Mint Cloud.jpg]]
 
-# Odoo Hosting - Mintsys Cloud
+# Odoo Hosting - Mint Cloud
 
 Mint System hostet die Odoo auf dem Server eines ausgewählten [[Hosting Provider]].
 
@@ -13,7 +13,7 @@ Mint System hostet die Odoo auf dem Server eines ausgewählten [[Hosting Provide
 
 **Mehrere Mandanten**
 
-Sie können mehrere Mandanten installieren. Sie brauchen eine Testumgebung oder eine [[Odoo Community Edition]] zum Erstellen einer Website, kein Problem mit der Mintsys Cloud.
+Sie können mehrere Mandanten installieren. Sie brauchen eine Testumgebung oder eine [[Odoo Community Edition]] zum Erstellen einer Website, kein Problem mit der Mint Cloud.
 
 **Installation Apps von Dritten**
 

@@ -2,7 +2,7 @@
 tags:
 - Definition
 ---
-# Bot Mintsys
+# Bot Mint
 
 ![[bot_icon.png]]
 
@@ -10,5 +10,5 @@ Der Bot Mint System ist automatisierter Benutzer-Account. Er wird verwendet um E
 
 **GitHub**: <https://github.com/bot-mintsys>  
 **Email**: bot@mint-system.ch  
-**Benutzername**: bot-mintsys  
+**Benutzername**: bot  
 **SSH-Keys**: Yes  

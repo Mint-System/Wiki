@@ -15,7 +15,7 @@ Tätigkeiten:
 
 Ergebnis: Odoo steht für die Initialisierung bereit.
 
-## Mintsys Hosting einrichten
+## Mint Hosting einrichten
 
 Grundlegende Informationen werden erarbeitet und Odoo installiert.
 

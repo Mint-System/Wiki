@@ -3,7 +3,7 @@ tags:
 - Asset
 ---
 
-# Mintsys SaaS
+# Mint SaaS
 
 ## Input
 

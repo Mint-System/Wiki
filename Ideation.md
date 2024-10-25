@@ -6,20 +6,13 @@ tags:
 
 Kreativprozess für Produktentwicklung. Sammlung von Ideen für neue Produkte.
 
-## Mintsys SaaS-Lösungen
+## Mint SaaS-Lösungen
 
-Analog https://odoo.com eine SaaS-Lösung für Odoo und weitere Software entwickeln. Konkret haben wir die Domains:
-
-mintsys.ch  
-mintsys.org  
-mintsys.cloud  
-mintsys.dev
-
-Unter dieser Domain könnte man einen Odoo Webshop / Portal hosten, wo Kunden Odoo-Hostings kaufen können. Auf Knopfdruck wird dann in einem Kubernetes-Cluster eine Odoo-Instanz bereitgestellt.
+Analog https://odoo.com eine SaaS-Lösung für Odoo und weitere Software entwickeln. Unter der Domain mint-cloud.ch könnte man einen Odoo Webshop / Portal hosten, wo Kunden Odoo-Hostings kaufen können. Auf Knopfdruck wird dann in einem Kubernetes-Cluster eine Odoo-Instanz bereitgestellt.
 
 Das ganze kann auch für andere Software wie [[Nextcloud]], [[Gitea]], [[Moodle]] oder [[Mattermost]] funktionieren.
 
-Mehr dazu unter [[Mintsys SaaS]].
+Mehr dazu unter [[Mint SaaS]].
 
 ## Open Source Business Intelligence Plattform
 

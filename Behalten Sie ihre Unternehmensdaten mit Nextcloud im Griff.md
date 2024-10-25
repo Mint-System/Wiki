@@ -167,7 +167,7 @@ Schweizer Anbieter:
 * hosttech
 * wölkli (oriented.net GmbH)
 * Adfinis
-* Mintsys Cloud (Mint System GmbH)
+* Mint Cloud (Mint System GmbH)
 
 ---
 ### Von was lebt Nextcloud?
