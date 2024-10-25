@@ -2,7 +2,6 @@
 tags:
 - HowTo
 ---
-
 # Hetzner - OS migrieren
 
 ## Vorbereiten
@@ -23,7 +22,6 @@ fstab_mounts:
 
 ## Ausführen
 
-
 * Docker-Dienst auf Server stoppen
 
 ```bash
@@ -32,10 +30,10 @@ sudo service docker stop
 
 * Anzeige Server in Hetzner-Cloud-Konsole
 * Server herunterfahren
-* Server mit neuem Image rebuilden
+* Server mit aktuellem Debian Image rebuilden
 
 ::: warning
-Nach einem Rebuild rebuild, wird der originale SSH-Public-Key für den Root-Benutzer bereitgestell.
+Nach einem Rebuild rebuild, wird der originale SSH-Public-Key für den Root-Benutzer bereitgestellt.
 :::
 
 * Server in Ansible Inventory aktualisieren und installieren

@@ -18,8 +18,6 @@ Folgende Themen werden besprochen:
 
 <mark>Notizen zum Meeting.</mark>
 
-## Aufgaben
-
 <mark>Aufgaben für die Nachbearbeitung:</mark>
 
 - [ ] Zu erledigen @Person/Org
