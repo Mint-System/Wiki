@@ -32,4 +32,4 @@ Odoo wird in folgenden Hosting-Modellen angeboten:
 * [[Odoo Hosting - On-Premise]]
 * [[Odoo Hosting - Off-Premise]]
 
-Dazu ein [[Vergleich von Minsys Cloud und Odoo.sh]]
+Dazu ein [[Vergleich von Mint Cloud und Odoo.sh]]

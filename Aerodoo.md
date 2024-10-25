@@ -4,7 +4,12 @@ tags:
 ---
 # Aerodoo
 
-Domain: `aerodoo.com`
+Website: 
+
+Domains:
+
+- aerodoo.com
+- aerodoo.ch
 
 ## Design
 

@@ -3,7 +3,17 @@ tags:
 - Asset
 ---
 # Mint System GmbH
+
 Website: [https://www.mint-system.ch](https://www.mint-system.ch)
+
+Domains:
+
+- mintsys.ch
+- mint-system.ch
+- mint-system.ch
+- mintsystem.ch
+- openeduca.ch
+- opensourcesoftware.ch
 
 Internes Kürzel: ms
 

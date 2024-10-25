@@ -7,6 +7,12 @@ tags:
 
 Website: <https://nextcloud.com/>
 
+Domains:
+
+- nextcloud.build
+
+Weiterführende Links:
+
 [[Nextcloud Troubleshooting]]\
 [[Nextcloud HowTo]]\
 [[Nextcloud Painpoints]]\

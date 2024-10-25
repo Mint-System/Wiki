@@ -7,6 +7,13 @@ tags:
 Website: <https://odoo.build>\
 Repository: <https://github.com/Mint-System/Odoo-Development>
 
+Dommains:
+
+- odoo.build
+- odoo-build.ch
+- doo-build.org
+- odoo-build.com
+
 ## HowTos
 
 Related:
