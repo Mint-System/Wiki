@@ -13,7 +13,8 @@ Stellen werden hier ausgeschrieben:
 ## Stellenbeschreibung
 
 [[Support Engineer]]\
-[[Open Source Expert]]
+[[Open Source Expert]]\
+[[Chief Operating Officer]]
 
 ## Anforderungen, Aufgaben, Kompetenzen
 
