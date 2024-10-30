@@ -3,7 +3,7 @@ lang: en
 tags:
 - Prozess
 ---
-# Process Infrastructure: Upgrade Odoo
+# Processes Infrastructure - Upgrade Odoo
 
 ## Setup upgrade environment
 
