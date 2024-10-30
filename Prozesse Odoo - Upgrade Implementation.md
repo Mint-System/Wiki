@@ -2,7 +2,7 @@
 tags:
 - Prozess
 ---
-# Prozesse Odoo - Upgrade Umsetzung
+# Prozesse Odoo - Upgrade Implementation
 
 ## Prozess initialisieren
 

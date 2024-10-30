@@ -18,7 +18,6 @@ Working steps:
 
 ## Execute production upgrade
 
-
 * Message to customer:
 
 ```

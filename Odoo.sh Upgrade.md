@@ -5,6 +5,8 @@ tags:
 ---
 # Odoo.sh Upgrade
 
-## [[Odoo.sh Test Upgrade]]
+[[Odoo.sh]] provides a custom workflow to execute the upgrade porcess.
 
-## [[Odoo.sh Production Upgrade]]
+To run a test upgrade have a look at this guide: [[Odoo.sh Test Upgrade]].
+
+The production upgrade is documented here: [[Odoo.sh Production Upgrade]].
