@@ -25,6 +25,9 @@ Der Drehbuch-Prozess wird nach Bedarf wiederholt bis eine Freigabe erfolgt. Bei 
 | Freigabe produktives Upgrade      | Kunde               | Kunde erteilt Freigabe für produktives Upgrade.                                                            |
 | Produktives Upgrade durchführen   | Mint System         | Gemäss Kundenspezifischer Upgrade-Dokumentation das produktive Upgrade durchführen.                        |
 | Produktives Upgrade verifizieren  | Kunde               | Produktives Upgrade verfizieren.                                                                           |
+
+## Weiterführende Links
+
 Siehe auch: 
 
 * [[Odoo Community Upgrade]]
