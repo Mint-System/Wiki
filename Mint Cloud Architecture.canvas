@@ -3,7 +3,7 @@
 		{"id":"16562f1c5a372a6f","type":"group","x":180,"y":-300,"width":640,"height":700,"color":"1","label":"Node (Exoscale)"},
 		{"id":"cee1e17c7623ca82","type":"group","x":200,"y":-140,"width":600,"height":520,"color":"3","label":"Namespace"},
 		{"id":"e21f6b63e7ff10ab","type":"group","x":-940,"y":-265,"width":440,"height":365,"color":"1","label":"Webshop (Hetzner)"},
-		{"id":"30d68aaa30e0f119","type":"group","x":-360,"y":-205,"width":380,"height":350,"color":"1","label":"Control-Plane (Exoscale)"},
+		{"id":"30d68aaa30e0f119","type":"group","x":-360,"y":-205,"width":380,"height":350,"color":"1","label":"Control Plane (Exoscale)"},
 		{"id":"47aa4c908b290952","type":"group","x":220,"y":0,"width":540,"height":200,"label":"Replicasets"},
 		{"id":"f2dc34bdb1844dc7","type":"group","x":-920,"y":-115,"width":400,"height":195,"label":"Odoo Models"},
 		{"id":"5231ddb071cfc8c9","type":"group","x":-340,"y":-65,"width":340,"height":190,"color":"3","label":"Services"},
@@ -38,7 +38,7 @@
 		{"id":"4ce3abc2078a70ac","type":"text","text":"**Docker**","x":-290,"y":-380,"width":115,"height":60,"color":"6"},
 		{"id":"5336ea7cfa02ef9e","type":"text","text":"**Data**","x":-145,"y":-380,"width":115,"height":60,"color":"4"},
 		{"id":"101fa480091a2153","type":"text","text":"Postgres","x":325,"y":120,"width":140,"height":60},
-		{"id":"5205b20caa2b886b","type":"text","text":"Kubernetes Controller","x":-320,"y":-185,"width":225,"height":60,"color":"3"}
+		{"id":"5205b20caa2b886b","type":"text","text":"Kubernetes Master","x":-320,"y":-185,"width":225,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"096d8510b30bed73","fromNode":"30d68aaa30e0f119","fromSide":"right","toNode":"16562f1c5a372a6f","toSide":"left","label":"manage"},
