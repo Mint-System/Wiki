@@ -35,7 +35,8 @@ Siehe auch:
 * [[Odoo Upgrade FAQ]]
 * [[Odoo Community Upgrade]]
 * [[Odoo Enterprise Upgrade]]
-* [[Odoo.sh Upgrade]] [[Odoo Troubleshooting]]
+* [[Odoo.sh Upgrade]]
+* [[Odoo Troubleshooting]]
 
 Die internen Prozesse sind:
 

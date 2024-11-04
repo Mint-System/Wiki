@@ -6,13 +6,14 @@ tags:
 
 | Name                                      |
 | ----------------------------------------- |
-| [[Minor Improvements Template]]           |
+| [[Aufwandsschätzung Upgrade Odoo XX.0]]   |
 | [[Migrate Odoo Modules XX.0]]             |
-| [[Odoo Upgrade XX.0]]                     |
+| [[Minor Improvements Template]]           |
 | [[Template Issue]]                        |
 | [[Template Meeting]]                      |
 | [[Template Report on Odoo Customization]] |
 | [[Template Worklog]]                      |
+| [[Upgrade Odoo XX.0]]                     |
 | [[Vorlage Anforderungen]]                 |
 | [[Vorlage Anforderungsanalyse]]           |
 | [[Vorlage Angebot]]                       |

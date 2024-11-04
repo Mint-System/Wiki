@@ -3,7 +3,7 @@ lang: en
 tags:
 - templates
 ---
-# Odoo Upgrade XX.0
+# Upgrade Odoo XX.0
 
 ## Prepare
 
