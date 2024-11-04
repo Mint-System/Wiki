@@ -32,6 +32,7 @@ Der Drehbuch-Prozess wird nach Bedarf wiederholt bis eine Freigabe erfolgt. Bei 
 
 Siehe auch: 
 
+* [[Odoo Upgrade FAQ]]
 * [[Odoo Community Upgrade]]
 * [[Odoo Enterprise Upgrade]]
 * [[Odoo.sh Upgrade]] [[Odoo Troubleshooting]]
