@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"16562f1c5a372a6f","type":"group","x":180,"y":-300,"width":640,"height":700,"color":"1","label":"Worker (Exoscale SKS)"},
 		{"id":"cee1e17c7623ca82","type":"group","x":200,"y":-140,"width":600,"height":520,"color":"3","label":"Namespace"},
-		{"id":"e21f6b63e7ff10ab","type":"group","x":-940,"y":-265,"width":440,"height":365,"color":"1","label":"Webshop (Hetzner)"},
+		{"id":"e21f6b63e7ff10ab","type":"group","x":-940,"y":-265,"width":440,"height":445,"color":"1","label":"Webshop (Hetzner)"},
 		{"id":"30d68aaa30e0f119","type":"group","x":-360,"y":-205,"width":380,"height":350,"color":"1","label":"Control Plane (Exoscale SKS)"},
+		{"id":"f2dc34bdb1844dc7","type":"group","x":-920,"y":-115,"width":400,"height":275,"label":"Odoo Models"},
 		{"id":"47aa4c908b290952","type":"group","x":220,"y":0,"width":540,"height":200,"label":"Replicasets"},
-		{"id":"f2dc34bdb1844dc7","type":"group","x":-920,"y":-115,"width":400,"height":195,"label":"Odoo Models"},
 		{"id":"5231ddb071cfc8c9","type":"group","x":-340,"y":-65,"width":340,"height":190,"color":"3","label":"Services"},
 		{"id":"9858edd65c1d26da","type":"group","x":-310,"y":-480,"width":300,"height":180,"label":"Legende:"},
 		{"id":"ec2dab0dd94f577f","type":"group","x":220,"y":259,"width":360,"height":100,"label":"Persistent Volumes (Exoscale SBS)"},
@@ -16,7 +16,7 @@
 		{"id":"ea848f1fde8fa4dd","type":"text","text":"Namespace","x":-900,"y":-95,"width":160,"height":60,"color":"4"},
 		{"id":"bc9958f5bdf25234","type":"text","text":"Deployment","x":-900,"y":0,"width":160,"height":60,"color":"4"},
 		{"id":"cec3783e47d70aff","type":"text","text":"Cluster","x":-700,"y":-95,"width":160,"height":60,"color":"4"},
-		{"id":"5a596f91e7103d0c","type":"text","text":"Project","x":-700,"y":0,"width":160,"height":60,"color":"4"},
+		{"id":"5a596f91e7103d0c","type":"text","text":"Host","x":-700,"y":0,"width":160,"height":60,"color":"4"},
 		{"id":"329ab2c59cf6f4e7","type":"text","text":"Deployment","x":220,"y":-120,"width":160,"height":60},
 		{"id":"a28a0de013a4b49b","type":"text","text":"Velero","x":620,"y":279,"width":140,"height":60},
 		{"id":"723f02b644d72fba","type":"text","text":"Prometheus","x":600,"y":120,"width":140,"height":60},
@@ -38,7 +38,8 @@
 		{"id":"c13b3a207917b83d","type":"text","text":"RBAC","x":-160,"y":45,"width":130,"height":60},
 		{"id":"5205b20caa2b886b","type":"text","text":"Kubernetes Master","x":-320,"y":-185,"width":225,"height":60,"color":"3"},
 		{"id":"5f5aba64745a81f1","type":"text","text":"NFS Server","x":-130,"y":279,"width":130,"height":60,"color":"6"},
-		{"id":"8b120478236e21dc","type":"text","text":"Storage","x":-290,"y":279,"width":130,"height":60,"color":"1"}
+		{"id":"8b120478236e21dc","type":"text","text":"Storage","x":-290,"y":279,"width":130,"height":60,"color":"1"},
+		{"id":"18a3cf95414f5369","type":"text","text":"Manifest","x":-900,"y":80,"width":160,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"096d8510b30bed73","fromNode":"30d68aaa30e0f119","fromSide":"right","toNode":"16562f1c5a372a6f","toSide":"left","label":"manage"},
