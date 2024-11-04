@@ -4,7 +4,7 @@
 		{"id":"cee1e17c7623ca82","type":"group","x":200,"y":-140,"width":600,"height":520,"color":"3","label":"Namespace"},
 		{"id":"e21f6b63e7ff10ab","type":"group","x":-940,"y":-265,"width":440,"height":365,"color":"1","label":"Webshop (Hetzner)"},
 		{"id":"30d68aaa30e0f119","type":"group","x":-360,"y":-205,"width":380,"height":350,"color":"1","label":"Control-Plane (Exoscale)"},
-		{"id":"47aa4c908b290952","type":"group","x":220,"y":0,"width":540,"height":200,"label":"Pods"},
+		{"id":"47aa4c908b290952","type":"group","x":220,"y":0,"width":540,"height":200,"label":"Replicasets"},
 		{"id":"f2dc34bdb1844dc7","type":"group","x":-920,"y":-115,"width":400,"height":195,"label":"Odoo Models"},
 		{"id":"5231ddb071cfc8c9","type":"group","x":-340,"y":-65,"width":340,"height":190,"color":"3","label":"Services"},
 		{"id":"ec2dab0dd94f577f","type":"group","x":220,"y":259,"width":360,"height":100,"label":"Persistent Volumes"},
@@ -19,7 +19,6 @@
 		{"id":"723f02b644d72fba","type":"text","text":"Prometheus","x":600,"y":120,"width":140,"height":60},
 		{"id":"31790cf32eab090a","type":"text","text":"Grafana","x":600,"y":20,"width":140,"height":60},
 		{"id":"1182553e34d763af","type":"text","text":"Odoo","x":240,"y":20,"width":140,"height":60},
-		{"id":"101fa480091a2153","type":"text","text":"Postgres","x":240,"y":120,"width":140,"height":60},
 		{"id":"c43958050f2525ff","type":"text","text":"Keycloak","x":420,"y":20,"width":140,"height":60},
 		{"id":"a3a7196d6996c05c","type":"text","text":"Database","x":420,"y":279,"width":140,"height":60},
 		{"id":"5fe01b8955580f38","type":"text","text":"Filestore","x":240,"y":279,"width":140,"height":60},
@@ -37,7 +36,8 @@
 		{"id":"476c8f5d275a6033","type":"text","text":"K3s","x":-290,"y":-460,"width":115,"height":60,"color":"3"},
 		{"id":"d0270aff89d7d117","type":"text","text":"Host","x":-145,"y":-460,"width":115,"height":60,"color":"1"},
 		{"id":"4ce3abc2078a70ac","type":"text","text":"Docker","x":-290,"y":-380,"width":115,"height":60,"color":"6"},
-		{"id":"5336ea7cfa02ef9e","type":"text","text":"Data","x":-145,"y":-380,"width":115,"height":60,"color":"4"}
+		{"id":"5336ea7cfa02ef9e","type":"text","text":"Data","x":-145,"y":-380,"width":115,"height":60,"color":"4"},
+		{"id":"101fa480091a2153","type":"text","text":"Postgres","x":325,"y":120,"width":140,"height":60}
 	],
 	"edges":[
 		{"id":"096d8510b30bed73","fromNode":"30d68aaa30e0f119","fromSide":"right","toNode":"16562f1c5a372a6f","toSide":"left","label":"manage"},
