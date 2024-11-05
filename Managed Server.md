@@ -50,6 +50,6 @@ Die Installation und Aufrechterhaltung der Betriebsbereitschaft von Applikatione
 
 ## Informationen
 
-[[Kalkulation Managed Server]]\
-[[Konfiguration Managed Server]]
+[[Managed Server Kalkulation]]\
+[[Managed Server Konfiguration]]
 

@@ -2,10 +2,12 @@
 tags:
 - Asset
 ---
-# Konfiguration Managed Server
+# Managed Server Konfiguration
 
 Als Teil der Managed Server Dienstleistung erfolgt die Konfiguration und Bereitstellung verschiedener Applikationen.
 
+## Standard
+
 Die folgende Grafik zeigt auf wie eine Server-Umgebung für Odoo aussieht und welche Verbindung von Intern und Extern gemacht werden.
 
-![[Konfiguration Managed Server.canvas|Konfiguration Managed Server]]
+![[Managed Server Konfiguration Standard.canvas|Konfiguration Managed Server]]
