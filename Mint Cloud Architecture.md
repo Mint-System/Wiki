@@ -12,7 +12,7 @@ Hosting-Produkt erfassen:
 
 1. Der Administrator loggt sicht im Odoo Backen ein
 2. Er erfasst unter *Kubernetes > Manifests* einen Eintrag
-3. Er sieht einen Hinweis mit den Variablennamen, die er im Manifest verwenden kann
+3. Ein Manifest hat einen Titel und eine URL auf die YAML-Datei
 4. Anschliessend öffnet er *Website > Produkte*
 5. Er erfasst ein neues Produkt *Odoo-Hosting* als Subscription
 6. Im Tab *Kubernetes* wählt er die Manifeste zur Anwendung aus
@@ -33,7 +33,7 @@ Export:
 
 1. Der Administrator loggt sicht im Odoo Backend ein
 2. Er zeigt die Kubernetes Hosts an und öffnen einen Eintrag
-3. Mit einem Klick auf *Aktion > Export to values.yaml* erhält er eine Helm `values.yaml`
+3. Mit einem Klick auf *Aktion > Export to YAML* erhält er eine Ansible `vars.yml`
 
 Manuelles Deployment
 
@@ -53,4 +53,12 @@ Manuelles Reset Staging:
 
 1. Der Administrator loggt sicht im Odoo Backend ein
 2. Er zeigt Kubernetes Hosts an und öffnen einen Staging-Eintrag
-3. Er klickt auf den "Reset" Button 
+3. Er klickt auf den "Reset" Button
+
+## Technisch
+
+Die Kommunikation zwischen Odoo und der Kubernetes API erfolgt mit dem [kubernetes-python-client](https://kubernetes.readthedocs.io/en/latest/).
+
+Bei einem Deployment werden die Manifest-Dateien von der URL heruntergeladen. Die Host-Parameter werden in ein `vars.yml` geschrieben. Analog Ansible (Jinja2) werden die Manifest-Dateien mit den Werten ergänzt. Die Manifest-Dateien werden mit dem Python-Client angewendet.
+
+Die Manifest-Dateien kommen aus dem Ansible-Build Projekt. Odoo verwendet dann die gleichen Manifest-Dateien wie Ansible.
