@@ -20,7 +20,7 @@
 		{"id":"18a3cf95414f5369","type":"text","text":"Manifest","x":-900,"y":0,"width":140,"height":50,"color":"4"},
 		{"id":"329ab2c59cf6f4e7","type":"text","text":"Deployment","x":220,"y":-120,"width":160,"height":60},
 		{"id":"1182553e34d763af","type":"text","text":"Odoo","x":240,"y":20,"width":140,"height":60},
-		{"id":"476c8f5d275a6033","type":"text","text":"**K3s**","x":-290,"y":-460,"width":115,"height":60,"color":"3"},
+		{"id":"476c8f5d275a6033","type":"text","text":"**K8s**","x":-290,"y":-460,"width":115,"height":60,"color":"3"},
 		{"id":"d0270aff89d7d117","type":"text","text":"**Provider**","x":-145,"y":-460,"width":115,"height":60,"color":"1"},
 		{"id":"4ce3abc2078a70ac","type":"text","text":"**Docker**","x":-290,"y":-380,"width":115,"height":60,"color":"6"},
 		{"id":"5336ea7cfa02ef9e","type":"text","text":"**Data**","x":-145,"y":-380,"width":115,"height":60,"color":"4"},
