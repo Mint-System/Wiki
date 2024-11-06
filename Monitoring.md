@@ -30,7 +30,7 @@ Metriken zur Container-Engine:
 * RAM
 * Disk
 
-**Appliaktionen**
+**Applikationen**
 
 Applikations-spezifische Metriken:
 
