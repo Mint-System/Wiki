@@ -30,7 +30,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Enyo       | Server webkeeper GmbH                    | `enyo.mint-system.com`     | Off-Premise |
 | Eos        | Server Aersolution Interior AG           | `odoo.aersolution.com`     | Off-Premise |
 | Eris       | Nextcloud  Abächerli Forstunternehmen AG | `eris.mint-system.com`     | Hetzner     |
-| Eros       | Keycloak-Server Sozialinfo               | `eros.mint-system.com`     | Infomania   |
+| Eros       | Keycloak-Server Sozialinfo               | `eros.mint-system.com`     | Infomaniak  |
 | Gaia       | Server Brunner Elektronik AG             | `gaia.mint-system.com`     | Off-Premise |
 | Hebe       | Server Localfish AG                      | `hebe.mint-system.com`     | Hetzner     |
 | Helios     | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
