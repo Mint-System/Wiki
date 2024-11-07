@@ -17,6 +17,10 @@ Die Odoo-Module für den Webshop sind hier beschrieben: [[Specification Website 
 
 ## Workflow
 
+Rollen: Kunde, Operator
+
+System: Odoo, Kubernetes
+
 Hosting-Produkt erfassen:
 
 1. Der Operator loggt sicht im Odoo Backen ein
@@ -36,7 +40,9 @@ Einkauf und Deployment:
 6. Der Kunde bezahlt das Hosting
 7. Odoo legt eine Subscription an und erstellt zwei Apps: $APP.mint-cloud.ch und  $APP-int.mint-cloud.ch
 8. Mit dem Anlegen einer App wird ein Deployment der Odoo-Manifeste ausgelöst
-9. Der Kunde erhält ein E-Mail mit den Zugriffsdaten
+9. Kubernetes registriert den App-Namen 
+10. Odoo versendet eine Einladungs via Mailgun
+11. Der Kunde erhält ein E-Mail mit den Zugriffsdaten
 
 Export:
 
