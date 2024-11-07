@@ -15,6 +15,8 @@ Die Manifest-Dateien kommen aus dem [[Ansible Build]] Projekt. Odoo verwendet da
 
 Die Odoo-Module für den Webshop sind hier beschrieben: [[Specification Website Sale Kubernetes Subscription OCA]]
 
+Mit [[Mailgun]] können Absender-Domain registriert werden: <https://documentation.mailgun.com/docs/mailgun/api-reference/openapi-final/tag/Domains/#tag/Domains/operation/httpapi.(*T).CreateDomain-fm-4>.
+
 ## Workflow
 
 Rollen: Kunde, Operator
@@ -38,10 +40,10 @@ Einkauf und Deployment:
 4. Er sieht einen Hinweis, dass der Appname als Subdomain verwendet wird
 5. Odoo validiert die Eingabe des Appname
 6. Der Kunde bezahlt das Hosting
-7. Odoo legt eine Subscription an und erstellt zwei Apps: $APP.mint-cloud.ch und  $APP-int.mint-cloud.ch
+7. Odoo legt eine Subscription an und erstellt zwei Apps mitHostname $APP.mint-cloud.ch und  $APP-int.mint-cloud.ch
 8. Mit dem Anlegen einer App wird ein Deployment der Odoo-Manifeste ausgelöst
-9. Kubernetes registriert den App-Namen 
-10. Odoo versendet eine Einladungs via Mailgun
+9. Kubernetes registriert den App-Hostname als Mailgun-Domain
+10. Odoo versendet eine Einladung via Mailgun unter dem App-Hostname
 11. Der Kunde erhält ein E-Mail mit den Zugriffsdaten
 
 Export:
