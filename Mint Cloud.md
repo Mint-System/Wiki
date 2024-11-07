@@ -17,4 +17,4 @@ Domains:
 - mint-hosting.ch
 - minthosting.ch
 
-Siehe [[Wartungsauftrag]], [[Mint Cloud Architecture]].
+Siehe [[Wartungsauftrag]], [[Mint Cloud Architecture]], [[Mint Cloud Specification]].
