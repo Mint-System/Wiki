@@ -21,7 +21,6 @@ depends: product\
 models:
 
 ```mermaid
-
 classDiagram
     App --> ConfigMap
     ConfigMap --> ConfigKey
@@ -34,20 +33,23 @@ classDiagram
     Product --> ConfigMap
     Namespace --> Environment
     Product --> Environment
+    App --> Product
 
     class App{
       string name required
       string hostname required
+      many2one product_id required
       many2many config_map_ids
       many2one namespace_id requried
-      many2one environment_id related
+      many2one environment_id required
       many2one partner_id related
-      many2one subscription_id related
+      many2one subscription_id requried
     }
 
     class ResCompany{
       string kubernetes_api_url
       string kubernetes_api_key
+      string kubernets_domain
     }
 
     class ConfigMap{
