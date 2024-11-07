@@ -114,7 +114,7 @@ classDiagram
 
 description:
 
-﻿﻿https://github.com/kubernetes-client/python﻿﻿
+Add <﻿﻿https://github.com/kubernetes-client/python>﻿﻿
 Setup connection to Kubernetes cluster.
 Define deployment and service manifests.
 Setup product tab to select manifests.
@@ -135,7 +135,7 @@ kubernetes.app:
 - config_map_ids:
 	- ENVIRONMENT: prod
 	- REVISION: 17.0.20241104
-	- GIT_REPOS: git@github.com/oca/sale-workflow#16,git@github.com/oca/sale-workflow#17
+	- GIT_REPOS: <git@github.com/oca/sale-workflow#16>,<git@github.com/oca/sale-workflow#17>
 	- PIP_INSTALL: fastapi
 
 ### Kubernetes Portal
