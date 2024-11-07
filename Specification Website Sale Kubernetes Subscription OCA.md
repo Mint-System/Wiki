@@ -25,6 +25,7 @@ classDiagram
     App --> ConfigMap
     ConfigMap --> ConfigKey
     ConfigMap --> ConfigValue
+    ConfigValue --> ConfigKey
     App --> Namespace
     Manifest <-- ProductManifestRel
     ProductManifestRel --> Product
@@ -55,7 +56,7 @@ classDiagram
     class ConfigMap{
       bool is_template
       many2one key_id required
-      many2one value_d required
+      many2one value_id required
     }
 
     class ConfigKey{
@@ -64,6 +65,7 @@ classDiagram
 
     class ConfigValue{
       string value required
+      many2one config_key_id required
     }
 
     class Namespace{
@@ -118,15 +120,14 @@ Add <﻿﻿https://github.com/kubernetes-client/python>﻿﻿
 Setup connection to Kubernetes cluster.
 Define deployment and service manifests.
 Setup product tab to select manifests.
-Manage app domains.
+Manage config maps and apps.
 
-kubernetes.config.map:
-	environment
-		- prod: production
-		- int: integration
-		- test: testing
-		- dev: development
-		- upg: upgrade
+environments:
+	- prod: production
+	- int: integration
+	- test: testing
+	- dev: development
+	- upg: upgrade
 
 kubernetes.app:
 
