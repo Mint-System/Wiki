@@ -9,7 +9,7 @@ Website: <https://www.exoscale.com/>
 
 ## Usage
 
-Requires [[OTP Auth]].
+Requires [[OTP Auth]] to login.
 
 ## Exoscale cli
 
