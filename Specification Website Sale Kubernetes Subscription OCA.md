@@ -18,23 +18,24 @@ Edition: CE
 
 Name: `kubernetes_base`\
 depends: product\
-models: kubernets.app / kubernetes.namespace / kubernetes.manifest
+models: kubernets.app / kubernetes.app.revision / kubernetes.app.env / kubernetes.namespace / kubernetes.manifest
 
 description:
 
 ﻿﻿https://github.com/kubernetes-client/python﻿﻿
-Setup connection to kubernetes cluster.
-Define deployment and service templates.
-Define deployment/service as a product.
-Manage deployment subdomain.
+Setup connection to Kubernetes cluster.
+Define deployment and service manifests.
+Setup product tab to select manifests.
+Manage app domains.
 
 kubernetes.app (Ansible Host):
 
-- environment: prod: production, int: integration, test: testging, dev: development, upg: upgrade
-- host: ﻿﻿r4ts.mint-cloud.ch,﻿﻿ r4ts-upd.mint-cloud.ch
+- hostname: ﻿﻿r4ts.mint-cloud.ch,﻿﻿ r4ts-upd.mint-cloud.ch
 - revision: 16.0.20241104, 17.0.20241104
-- git_repos: git@github.com/oca/sale-workflow#16,git@github.com/oca/sale-workflow#17
-- pip_install: fastapi
+- env:
+	- ENVIRONMENT: prod: production, int: integration, test: testging, dev: development, upg: upgrade
+	- GIT_REPOS: git@github.com/oca/sale-workflow#16,git@github.com/oca/sale-workflow#17
+	- PIP_INSTALL: fastapi
 
 ### Kubernetes Portal
 
@@ -63,3 +64,4 @@ description:
 
 User can enter app name in checkout process.
 The (subscription) product is deployed to the Kubernetes cluster.
+An invitation mail with the credentials is sent to the customer.
