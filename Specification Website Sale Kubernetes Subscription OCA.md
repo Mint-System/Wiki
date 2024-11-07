@@ -18,7 +18,97 @@ Edition: CE
 
 Name: `kubernetes_base`\
 depends: product\
-models: kubernets.app / kubernetes.app.revision / kubernetes.app.env / kubernetes.namespace / kubernetes.manifest
+models:
+
+```mermaid
+
+classDiagram
+    App --> ConfigMap
+    ConfigMap --> ConfigKey
+    ConfigMap --> ConfigValue
+    App --> Namespace
+    Manifest <-- ProductManifestRel
+    ProductManifestRel --> Product
+    Subscription <--> App
+    Namespace --> ResPartner
+    Product --> ConfigMap
+    Namespace --> Environment
+    Product --> Environment
+
+    class App{
+      string name required
+      string hostname required
+      many2many config_map_ids
+      many2one namespace_id requried
+      many2one environment_id related
+      many2one partner_id related
+      many2one subscription_id related
+    }
+
+    class ResCompany{
+      string kubernetes_api_url
+      string kubernetes_api_key
+    }
+
+    class ConfigMap{
+      bool is_template
+      many2one key_id required
+      many2one value_d required
+    }
+
+    class ConfigKey{
+      string key required
+    }
+
+    class ConfigValue{
+      string value required
+    }
+
+    class Namespace{
+      string name required
+      many2one partner_id required
+      one2many app_ids required
+      many2one environment_id required
+    }
+
+    class Environment{
+      string name required
+      string short required
+    }
+
+    class ResPartner{
+      string name required
+    }
+
+    class Manifest{
+      string name required
+      string url required
+      one2many product_ids
+    }
+
+    class Product{
+      string name required
+      one2many manifest_ids
+      many2one config_map_template_id
+      many2many environment_ids
+    }
+
+    class ProductManifestRel{
+      one2many product_id
+      one2many manifest_id
+      int sequence
+    }
+
+    class Subscription{
+      string name required
+      many2one app_id required
+    }
+
+    class SaleOrder{
+      string name required
+      string app_name required
+    }
+```
 
 description:
 
@@ -28,12 +118,21 @@ Define deployment and service manifests.
 Setup product tab to select manifests.
 Manage app domains.
 
-kubernetes.app (Ansible Host):
+kubernetes.config.map:
+	environment
+		- prod: production
+		- int: integration
+		- test: testing
+		- dev: development
+		- upg: upgrade
 
-- hostname: ﻿﻿r4ts.mint-cloud.ch,﻿﻿ r4ts-upd.mint-cloud.ch
-- revision: 16.0.20241104, 17.0.20241104
-- env:
-	- ENVIRONMENT: prod: production, int: integration, test: testging, dev: development, upg: upgrade
+kubernetes.app:
+
+- name r4ts-int
+- hostname: ﻿﻿r4ts-int.mint-cloud.ch
+- config_map_ids:
+	- ENVIRONMENT: prod
+	- REVISION: 17.0.20241104
 	- GIT_REPOS: git@github.com/oca/sale-workflow#16,git@github.com/oca/sale-workflow#17
 	- PIP_INSTALL: fastapi
 
