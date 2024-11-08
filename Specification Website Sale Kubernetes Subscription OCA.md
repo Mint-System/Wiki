@@ -34,8 +34,6 @@ classDiagram
     Namespace --> Environment
     Product --> Environment
     App --> Product
-    App --> Image
-    Product --> Image
     ConfigMap <|--Secret
     Product --> Secret
     App --> Secret
@@ -44,7 +42,6 @@ classDiagram
     class App{
 		char name required
 		char hostname required
-		char image_id required
 		
 		many2one namespace_id requried
 		many2one subscription_line_id requried
@@ -61,10 +58,6 @@ classDiagram
 		char kubernetes_api_url
 		char kubernetes_api_key
 		char kubernetes_domain
-    }
-
-    class Image{
-		char name required
     }
 
     class ConfigMap{
@@ -116,7 +109,6 @@ classDiagram
 		char name required
 		bool kubernetes_ok
 		
-		many2one image_templ_id
 		many2one config_map_templ_id
 		many2one secret_templ_id
 		
@@ -143,11 +135,12 @@ classDiagram
 
 description:
 
-Add <﻿﻿https://github.com/kubernetes-client/python>﻿﻿
+Add <https://github.com/kubernetes-client/python>﻿
 Setup connection to Kubernetes cluster.
 Define deployment and service manifests.
 Setup product tab to select manifests.
 Manage config maps and apps.
+Applies the config map key values to the manifest files.
 
 environments:
 - prod: production
@@ -156,16 +149,15 @@ environments:
 - dev: development
 - upg: upgrade
 
-kubernetes.pod:
+kubernetes.app:
 
 - name r4ts-int
 - hostname: ﻿﻿r4ts-int.mint-cloud.ch
-- image: mintsystem:odoo-17.0.20241104
-- environment: int
 - config_map_ids:
-	- ENVIRONMENT: int
-	- GIT_REPOS: git@github.com/mint-cloud/r4ts.git
-	- PIP_INSTALL: fastapi
+	- KUBERNETES_ENVIRONMENT: int
+	- KUBERNETES_IMAGE: mintsystem:odoo-17.0.20241104
+	- KUBERNETES_GIT_REPOS: git@github.com/mint-cloud/r4ts.git
+	- KUBERNETES_PIP_INSTALL: fastapi
 
 Products:
 - Odoo Community Edition

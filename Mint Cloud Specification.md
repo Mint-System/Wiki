@@ -34,6 +34,7 @@ Manifest erfassen:
 1. Der Operator loggt sicht im Odoo Backend ein
 2. Er erfasst unter *Kubernetes > Manifests* einen Eintrag
 3. Ein Manifest hat einen Titel und eine URL auf die YAML-Datei
+4. Odoo zeigt eine Vorschau der Manifest-Datei, wenn die URL eingetragen wird
 
 Hosting-Produkt erfassen:
 
