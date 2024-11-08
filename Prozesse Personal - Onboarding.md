@@ -6,20 +6,21 @@ tags:
 
 ## Personal
 
-1. Arbeitsvertrag erstellen
-2. Anmeldung bei der Ausgleichskasse
-3. Personalien erfassen
-5. AHV-/IV-/EO-Anmeldung
-6. Unfallversicherung / Krankentaggeldversicherung
-7. Arbeitsbewilligung (falls erforderlich)
+- Arbeitsvertrag erstellen
+- Anmeldung bei der Ausgleichskasse
+- Personalien erfassen
+- AHV-/IV-/EO-Anmeldung
+- Unfallversicherung / Krankentaggeldversicherung
+- Arbeitsbewilligung (falls erforderlich)
 
 ## Technisch
 
 ### Logins Mint System erstellen
 
 Arbeitsschritte:
+
 * Mitarbeiter-Eintrag in Wiki erfassen
-	* E-Mail-Account anlegen
+* E-Mail-Account anlegen
 * Matrix-Benutzer erstellen
 * Keycloak-Benutzer anlegen
 * Zugriffsdaten schicken
@@ -27,6 +28,7 @@ Arbeitsschritte:
 ### Zugriff erteilen
 
 Arbeitsschritte:
+
 * GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
 * GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
 * Keycloak-Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
@@ -37,6 +39,7 @@ Arbeitsschritte:
 ### Desktop einrichten
 
 Arbeitsschritte:
+
 * Installation [[Nextcloud]] Desktop-Client und Einrichten Synchronisation
 * Installation [[Obsidian]] und Einrichten Zugriff auf Wikis
 * Installation [[KeePassXC]] und Einrichten Zugriff auf Passwörter
@@ -46,11 +49,13 @@ Arbeitsschritte:
 ### Smartphone einrichten
 
 Arbeitsschritte:
+
 * Installation Nextcloud-App
 * Einrichten Mail und Kalender
 
 ### Entwicklungsumgebung einrichten
 
 Arbeitsschritte:
+
 * Auschecken [[Ansible Build]] und [[Ansible Inventory]] Projekt
 * Auschecken [[Odoo Build]] Projekt
