@@ -23,9 +23,8 @@ models:
 ```mermaid
 classDiagram
     App --> ConfigMap
-    ConfigMap --> ConfigKey
-    ConfigMap --> ConfigValue
-    ConfigValue --> ConfigKey
+    ConfigMap --> KeyValue
+    KeyValue --> ConfigValue
     App --> Namespace
     Manifest <-- ProductManifestRel
     ProductManifestRel --> Product
@@ -35,82 +34,110 @@ classDiagram
     Namespace --> Environment
     Product --> Environment
     App --> Product
+    App --> Image
+    Product --> Image
+    ConfigMap <|--Secret
+    Product --> Secret
+    App --> Secret
+    Secret --> KeyValue
 
     class App{
-      string name required
-      string hostname required
-      many2one product_id required
-      many2many config_map_ids
-      many2one namespace_id requried
-      many2one environment_id required
-      many2one partner_id related
-      many2one subscription_id requried
+		char name required
+		char hostname required
+		char image_id required
+		
+		many2one namespace_id requried
+		many2one subscription_line_id requried
+
+		many2one environment_id related
+		many2one product_id related
+		many2one partner_id related
+		
+		many2many config_map_ids
+		many2many secret_ids
     }
 
     class ResCompany{
-      string kubernetes_api_url
-      string kubernetes_api_key
-      string kubernets_domain
+		char kubernetes_api_url
+		char kubernetes_api_key
+		char kubernetes_domain
+    }
+
+    class Image{
+		char name required
     }
 
     class ConfigMap{
-      bool is_template
-      many2one key_id required
-      many2one value_id required
+		char name required
+		bool is_template
+		many2many key_value_ids
+    }
+    
+    class Secret{
+		char name required
+		bool is_template
+		many2many key_value_ids
     }
 
-    class ConfigKey{
-      string key required
-    }
+	class KeyValue{
+		selection type required
+		char key required
+		text value required
+		many2many value_ids required
+	}
 
     class ConfigValue{
-      string value required
-      many2one config_key_id required
+		char value required 
     }
 
     class Namespace{
-      string name required
-      many2one partner_id required
-      one2many app_ids required
-      many2one environment_id required
+		char name required
+		many2one partner_id required
+		one2many app_ids required
+		many2one environment_id required
     }
 
     class Environment{
-      string name required
-      string short required
+		char name required
+		char code required
     }
 
     class ResPartner{
-      string name required
+		char name required
     }
 
     class Manifest{
-      string name required
-      string url required
-      one2many product_ids
+		char name required
+		char url required
+		one2many product_ids
     }
 
     class Product{
-      string name required
-      one2many manifest_ids
-      many2one config_map_template_id
-      many2many environment_ids
+		char name required
+		bool kubernetes_ok
+		
+		many2one image_templ_id
+		many2one config_map_templ_id
+		many2one secret_templ_id
+		
+		many2many manifest_ids
+		many2many environment_ids
     }
 
     class ProductManifestRel{
-      one2many product_id
-      one2many manifest_id
-      int sequence
+		one2many product_id
+		one2many manifest_id
+		int sequence
     }
 
     class Subscription{
-      string name required
-      many2one app_id required
+		char name required
+		many2one app_id required
     }
 
     class SaleOrder{
-      string name required
-      string app_name required
+		char name required
+		char app_name required
     }
 ```
 
@@ -123,20 +150,21 @@ Setup product tab to select manifests.
 Manage config maps and apps.
 
 environments:
-	- prod: production
-	- int: integration
-	- test: testing
-	- dev: development
-	- upg: upgrade
+- prod: production
+- int: integration
+- test: testing
+- dev: development
+- upg: upgrade
 
-kubernetes.app:
+kubernetes.pod:
 
 - name r4ts-int
 - hostname: ﻿﻿r4ts-int.mint-cloud.ch
+- image: mintsystem:odoo-17.0.20241104
+- environment: int
 - config_map_ids:
-	- ENVIRONMENT: prod
-	- REVISION: 17.0.20241104
-	- GIT_REPOS: <git@github.com/oca/sale-workflow#16>,<git@github.com/oca/sale-workflow#17>
+	- ENVIRONMENT: int
+	- GIT_REPOS: git@github.com/mint-cloud/r4ts.git
 	- PIP_INSTALL: fastapi
 
 ### Kubernetes Portal
