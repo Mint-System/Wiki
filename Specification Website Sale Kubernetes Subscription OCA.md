@@ -167,6 +167,10 @@ kubernetes.pod:
 	- GIT_REPOS: git@github.com/mint-cloud/r4ts.git
 	- PIP_INSTALL: fastapi
 
+Products:
+- Odoo Community Edition
+- Odoo Enterprise Edition
+
 ### Kubernetes Portal
 
 Name: `kubernetes_portal`\
