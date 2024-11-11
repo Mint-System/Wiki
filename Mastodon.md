@@ -6,7 +6,7 @@ Wir empfehlen die Instanz [[Fosstodon]].
 
 ## Get started
 
-Erstellen Sie einen Account und folgen Sie den folgenden Personen und Organisationen. Kopieren Sie den Link in das Suchfeld von Mastodon und drücken Sie Enter. Die Person/Organisation erscheint im als Profil.
+Erstellen Sie einen Account und folgen Sie den folgenden Personen und Organisationen. Kopieren Sie den Link in das Suchfeld von Mastodon und drücken Sie Enter. Die Person/Organisation erscheint als Profil.
 
 ![[Mastodon Get Started.png]]
 
