@@ -6,7 +6,9 @@ Wir empfehlen die Instanz [[Fosstodon]].
 
 ## Get started
 
-Erstellen Sie einen Account und folgen Sie diesen Personen und Organisationen:
+Erstellen Sie einen Account und folgen Sie den folgenden Personen und Organisationen. Kopieren Sie den Link in das Suchfeld von Mastodon und drücken Sie Enter. Die Person/Organisation erscheint im als Profil.
+
+![[Mastodon Get Started.png]]
 
 Politik CH:
 
