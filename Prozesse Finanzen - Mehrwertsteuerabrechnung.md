@@ -8,7 +8,7 @@ tags:
 
 Arbeitsschritte:
 * Erstellen Sie mit Odoo einen einfachen Umsatzsteuerbericht
-* Rechnen Sie die Beträge gruppiert nach [[Mehrwertsteuersätze#Saldosteuersätze]]:
+* Rechnen Sie die Beträge gruppiert nach [[Saldosteuersätze]]:
 	* Leistungen nach Steuersatz 
 * Berechnen Sie die Leistungen aus Rechnungen:
 	* Umsatz im Ausland
