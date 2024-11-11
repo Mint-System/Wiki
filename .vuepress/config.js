@@ -3,6 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { plausiblePlugin } from './plausible'
 import { mermaidPlugin } from './mermaid'
+import { shikiPlugin } from '@vuepress/plugin-shiki'
 import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
@@ -32,6 +33,9 @@ export default defineUserConfig({
         plausiblePlugin({
             'domain': 'wiki.mint-system.ch'
         }),
-        mermaidPlugin()
+        mermaidPlugin(),
+        shikiPlugin({
+            theme: 'dark-plus'
+        }),
     ],
 })
