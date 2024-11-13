@@ -10,5 +10,6 @@ Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für produktive
 **Benutzername**: odoo  
 
 Other mail:
+
 * catchall@mint-system.ch
 * support@mint-system.ch
