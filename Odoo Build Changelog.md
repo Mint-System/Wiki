@@ -1,5 +1,12 @@
 # Odoo Build Changelog
 
+## Undefined
+
+### Added
+
+- New command `task generate-module-snippet`
+- Update module templates
+
 ## 2024-11-13
 
 ### Added
