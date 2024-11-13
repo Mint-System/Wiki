@@ -1,3 +1,0 @@
-# Anforderungsanalyse
-
-## Anforderungsanalyse durchführen
