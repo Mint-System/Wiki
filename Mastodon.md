@@ -66,6 +66,7 @@ Deep Tech:
 Security:
 
 * <https://infosec.exchange/@briankrebs>
+* <https://chaos.social/@Lilith>
 
 Crypto (Critics):
 

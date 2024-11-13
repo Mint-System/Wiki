@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+lang: en
 ---
 # Odoo Build
 
@@ -13,6 +14,8 @@ Domains:
 - odoo-build.ch
 - doo-build.org
 - odoo-build.com
+
+See: [[Odoo Build Changelog]]
 
 ## HowTos
 
