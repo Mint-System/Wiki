@@ -4,7 +4,7 @@
 
 ### Added
 
-- Boostrap modules with `task create-module|create-module-model|create-module-security`
+- Boostrap modules with `task create-module|generate-module-model|generate-module-security`
 - Updated module templates in `templates`
 - Start and deploy to Minikube (Kubernetes) `task start-minikube|init-minikube` see `k8s` folder for details
 - Removed `docker-compose` in favor of `docker compose` plugin

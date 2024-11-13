@@ -2,7 +2,7 @@
 tags:
 - Definition
 ---
-# Bot Mint
+# Mint Bot
 
 ![[bot_icon.png]]
 
