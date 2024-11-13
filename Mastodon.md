@@ -71,3 +71,7 @@ Security:
 Crypto (Critics):
 
 * <https://hachyderm.io/@molly0xfff>
+
+Art:
+
+* <https://mastodon.online/@streetartutopia>
