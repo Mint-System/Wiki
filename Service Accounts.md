@@ -2,11 +2,11 @@
 tags:
 - Asset
 ---
-# Service-Accounts
+# Service Accounts
 
 Es existieren die folgenden Service-Accounts:
 
-* [[Mint System Administrator]]
+* [[Administrator Mint System]]
 * [[Mint Bot]]
 * [[Odoo Mint System]]
 * [[Digital cluster Uri Bot]]

@@ -6,10 +6,10 @@ tags:
 
 Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für produktive Umgebungen.
 
-**Email**: odoo@mint-system.ch  
-**Benutzername**: odoo  
+**Email**: odoo@mint-system.ch\
+**Benutzername**: odoo
 
-Other mail:
+Mail aliases:
 
 * catchall@mint-system.ch
 * support@mint-system.ch

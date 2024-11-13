@@ -6,5 +6,5 @@ tags:
 
 Der Digital Cluster Uri Service-Benutzer.
 
-**Email**: bot@digital-cluster-uri.ch  
-**Username**: bot  
+**Email**: bot@digital-cluster-uri.ch\
+**Username**: bot
