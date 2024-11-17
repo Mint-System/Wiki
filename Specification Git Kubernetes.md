@@ -1,23 +1,21 @@
 ---
 lang: en
 ---
-
 # Specification Git Kubernetes
 
 Context: Odoo shop for mint-cloud.ch
 
-Goal: Create a git branch for every Kubernetes app environment.
+Goal: Create a git branch for every Kubernetes app / environment.
 
-Repo: Mint-System/Odoo-Apps-Connector\
-Version: 18\
-Edition: CE
+Repo: <https://github.com/Mint-System/Odoo-Apps-Connector>\
+Version: 18
 
 ## Modules
 
 ### Git Base
 
-Name: git_base\
-depends: base\
+Name: `git_base`\
+depends: `base`\
 models:
 
 ```mermaid
@@ -37,7 +35,7 @@ classDiagram
 
 description:
 
-<python lib />
+Uses GitPython <https://pypi.org/project/GitPython/> to manager git repositories and its branches.
 
 branches:
 - prod: production
@@ -48,8 +46,8 @@ branches:
 
 ### Git Kubernetes
 
-Name: git_kubernetes\
-depends: git_base, kubernetes_base 
+Name: `git_kubernetes`\
+depends: `git_base,kubernetes_base`
 
 description:
 
