@@ -17,6 +17,8 @@ Die Odoo-Module für den Webshop sind hier beschrieben: [[Specification Website 
 
 Mit [[Mailgun]] können Absender-Domain registriert werden: <https://documentation.mailgun.com/docs/mailgun/api-reference/openapi-final/tag/Domains/#tag/Domains/operation/httpapi.(*T).CreateDomain-fm-4>.
 
+Die Git-Integration ist ein entkoppelte Odoo-Modul: [[Specification Git Kubernetes]]
+
 ## Workflow
 
 Rollen: Kunde, Operator
