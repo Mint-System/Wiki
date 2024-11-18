@@ -16,7 +16,7 @@ Als freischaffender Mitarbeitende, erhalten Sie von der Mint System diese Dienst
 	* Odoo für das Projektmanagement und die Zeiterfassung
 	* Nextcloud für die Dokumentablage
 * Zugriff auf die [[GitHub Organisation]]
-* Dedizierte [[Server]] für die Projektarbeit
+* Dedizierte [[Servers]] für die Projektarbeit
 
 ## Wissen
 

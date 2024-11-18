@@ -4,4 +4,4 @@ tags:
 ---
 # Hosting Provider
 
-Wir setzen auf [[Hetzner]] und [[Exoscale]].
+Wir setzen auf [[Hetzner]], [[Infomaniak]] und [[Exoscale]].

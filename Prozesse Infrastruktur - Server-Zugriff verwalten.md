@@ -19,7 +19,7 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Die Kommandozeile öffnen
 * Den öffentlichen SSH-Schlüssel ausgeben  `cat ~/.ssh/id_ed25519.pub`
-* Liste der [[Server]] auf die der Benutzer Zugriff haben soll erstellen
+* Eintrag von [[Servers#Liste]] auswählen
 * Den Benutzernamen ausgeben `whoami`
 * Aufgabe mit diesen Informationen in Infrastuktur-Projekt erstellen
 

@@ -29,5 +29,5 @@ Arbeitsschritte:
 ## Server-Dokumentation aktualisieren
 
 Arbeitsschritte:
-* Entfernen Sie den Server aus [[Server]]
+* Entfernen Sie den Server aus [[Servers#Liste]]
 * Geben Sie den Server-Alias frei

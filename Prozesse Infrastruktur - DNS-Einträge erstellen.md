@@ -7,7 +7,7 @@ tags:
 
 ## DNS-Einträge für Server erstellen
 
-* Name gemäss Liste [[Server]] definieren
+* Name gemäss Liste [[Servers#Liste]] definieren
 * DNS-Eintrag in Ansible registrieren
 
 ## DNS-Einträge für Nextcloud erstellen
