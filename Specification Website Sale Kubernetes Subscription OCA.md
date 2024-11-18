@@ -8,16 +8,15 @@ Context: Odoo shop for mint-cloud.ch
 
 Goal: Extend website sale module so registered users can buy an Odoo App subscription that is automatically deployed to Kubernetes.
 
-Repo: Mint-System/Vertical-SaaS\
-Version: 18\
-Edition: CE
+Repo: <https://github.com/Mint-System/Odoo-Apps-Vertical-SaaS>\
+Version: 18
 
 ## Modules
 
 ### Kubernetes Base
 
 Name: `kubernetes_base`\
-depends: product\
+depends: `product`\
 models:
 
 ```mermaid
@@ -166,7 +165,7 @@ Products:
 ### Kubernetes Portal
 
 Name: `kubernetes_portal`\
-depends: kubernetes_base, portal 
+depends: `kubernetes_base,portal`
 
 description:
 
@@ -175,7 +174,7 @@ Add portal views to manage the Kubernetes app.
 ### Subscription OCA Portal
 
 Name: `subscription_oca_portal`\
-depends: subscription_oca, portal\
+depends: `subscription_oca,portal`\
 
 description:
 
@@ -184,7 +183,7 @@ Basic portal view for oca subscriptions.
 ### Website Sale Kubernetes Subscription OCA
 
 Name: `website_sale_kubernetes_subscription_oca`\
-depends: website_sale, kubernetes_base, subscription_oca
+depends: `website_sale,kubernetes_base,subscription_oca`
 
 description:
 

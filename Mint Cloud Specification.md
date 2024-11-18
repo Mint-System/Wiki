@@ -1,11 +1,17 @@
 
 # Mint Cloud Specification
 
-Die Mint Cloud Hosting-Plattform basiert auf Odoo und Kubernetes.
+Die Mint Cloud Hosting-Platform basiert auf Odoo und Kubernetes.
+
+## Architektur
 
 ![[Mint Cloud Architecture.canvas|Mint Cloud Architecture]]
 
 ## Technisch
+
+Der Kern der Architektur bildet der Odoo Webshop. Er ist die Schnittstelle nach Aussen zum Kunden und nach Innen zum Kubernetes-Cluster.
+
+### Odoo Webshop
 
 Die Kommunikation zwischen Odoo und der Kubernetes API erfolgt mit dem [kubernetes-python-client](https://kubernetes.readthedocs.io/en/latest/).
 
@@ -15,7 +21,12 @@ Die Manifest-Dateien kommen aus dem [[Ansible Build]] Projekt. Odoo verwendet da
 
 Die Odoo-Module für den Webshop sind hier beschrieben: [[Specification Website Sale Kubernetes Subscription OCA]]
 
+Die Git-Integration ist ein entkoppelte Odoo-Modul: [[Specification Git Kubernetes]]
+
 Mit [[Mailgun]] können Absender-Domain registriert werden: <https://documentation.mailgun.com/docs/mailgun/api-reference/openapi-final/tag/Domains/#tag/Domains/operation/httpapi.(*T).CreateDomain-fm-4>.
+### Odoo Deployment
+
+Der Cluster ist auf das Deployment der Odoo Webapp ausgerichtet.
 
 ## Workflow
 
