@@ -19,10 +19,12 @@ Für jede Softwareentwicklung wird ein [[Keep a changelog]] geführt.
 
 Das Git-Branching-Model sieht folgende Benennung vor:
 
-`main`: Produktiver branch\
-`int`: Integraton und Staging\
-`dev`: Entwicklung
-
+- `prod`: production
+- `main`: production
+- `int`: integration
+- `test`: testing
+- `dev`: development
+- `upg`: upgrade
 ## Linting
 
 Wir verwenden [[pre-commit]] für das Linting.
