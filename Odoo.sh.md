@@ -4,9 +4,7 @@ tags:
 ---
 # Odoo.sh
 
-[[Odoo.sh Entwicklung]]
-
-[[Odoo.sh Projekte]]
+Siehe [[Odoo.sh Entwicklung]], [[Odoo.sh Projekte]], [[Odoo.sh Upgrade]].
 
 ## Painpoints
 

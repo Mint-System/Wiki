@@ -9,4 +9,6 @@ tags:
 
 To run a test upgrade have a look at this guide: [[Odoo.sh Test Upgrade]].
 
+Develope [[Odoo.sh Upgrade Scripts]].
+
 The production upgrade is documented here: [[Odoo.sh Production Upgrade]].
