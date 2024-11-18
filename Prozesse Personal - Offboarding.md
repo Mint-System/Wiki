@@ -4,7 +4,7 @@ tags:
 ---
 # Prozesse Personal - Offboarding
 
-## Pesonal
+## Personal
 
 Arbeitsschritte:
 
