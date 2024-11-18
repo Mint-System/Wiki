@@ -5,3 +5,5 @@ tags:
 # VSHN AG
 
 Website: <https://www.vshn.ch>
+
+Siehe [[VSHN Marketplace]].
