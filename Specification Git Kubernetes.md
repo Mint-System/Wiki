@@ -22,6 +22,7 @@ models:
 classDiagram
     Forge <--> User
 	ForgePartnerRel --> Forge
+	Forge --> Provider
 	ForgePartnerRel --> ResPartner
 	Repo --> Forge
 	Branch --> Repo
@@ -29,14 +30,20 @@ classDiagram
     class User {
 		char name required
 		many2many git_forge_ids
+		char ssh_username
 		char ssh_private_key
 		char ssh_private_key_password
     }
 
 	class Forge {
 		char name required
-		char hostname required
+		many2one provider_id
 		many2many user_ids
+	}
+	
+	class Provider {
+		char name required
+		char hostname required
 	}
 
 	class ForgePartnerRel {
@@ -69,7 +76,14 @@ Repo.clone_from(url, repo_dir, env={"GIT_SSH_COMMAND": 'ssh -i /PATH/TO/KEY'})
 
 ![[Git Base Repo UI.excalidraw]]
 
-branches:
+Commands:
+* git add .
+* git commit -m "$1"
+* git status
+* git push
+* git clean -df
+
+Branches:
 - prod: production
 - int: integration
 - test: testing
