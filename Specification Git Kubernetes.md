@@ -30,6 +30,7 @@ classDiagram
 		char name required
 		many2many git_forge_ids
 		char ssh_private_key
+		char ssh_private_key_password
     }
 
 	class Forge {
@@ -60,7 +61,13 @@ classDiagram
 
 description:
 
-Uses GitPython <https://pypi.org/project/GitPython/> to manager git repositories and its branches.
+Uses GitPython <https://pypi.org/project/GitPython/> to manager git repositories and its branches. The ssh key is stored in the Odoo user entry. On every operation it is written as a temporary file.
+
+```python
+Repo.clone_from(url, repo_dir, env={"GIT_SSH_COMMAND": 'ssh -i /PATH/TO/KEY'})
+```
+
+![[Git Base Repo Form.excalidraw]]
 
 branches:
 - prod: production
