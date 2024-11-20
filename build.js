@@ -3,6 +3,7 @@ var path = require('path')
 
 /* arguments:
 all
+vuepress
 index
 canvas
 convert
@@ -472,7 +473,7 @@ function convert(content, file) {
 
     // Convert Excalidraw links
     // ![[Git Base Repo UI.excalidraw]] -> ![](./Git Base Repo UI.svg)"/>
-    matches = content.match(excalidraw) || []
+    let matches = content.match(excalidraw) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
         let asset = sanitizeAssetname(match.match(/!\[\[([^\]]*)/)[1])
@@ -481,7 +482,7 @@ function convert(content, file) {
 
     // Convert Obsidian canvas
     // [[S3.canvas|S3]] -> [](./s3.svg)
-    let matches = content.match(obsidianCanvas) || []
+    matches = content.match(obsidianCanvas) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
         let asset = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])

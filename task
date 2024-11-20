@@ -22,6 +22,7 @@ function help() {
     printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "dev" "" "Start vuepress development server."
     printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "vue-build" "" "Create vuepress build."
     printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "serve-build" "" "Serve vuepress build."
+    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "convert-files" "" "Convert markdown wiki links to normal link."
 
     echo
 }
@@ -45,6 +46,11 @@ case "$1" in
     serve-build)
         cd ./src/.vuepress/dist
         npx serve
+        ;;
+    convert-files)
+        node build.js vuepress
+        node build.js convert
+        node build.js attachments
         ;;
     *)
         help
