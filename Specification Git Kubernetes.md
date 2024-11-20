@@ -67,7 +67,7 @@ Uses GitPython <https://pypi.org/project/GitPython/> to manager git repositories
 Repo.clone_from(url, repo_dir, env={"GIT_SSH_COMMAND": 'ssh -i /PATH/TO/KEY'})
 ```
 
-![[Git Base Repo Form.excalidraw]]
+![[Git Base Repo UI.excalidraw]]
 
 branches:
 - prod: production

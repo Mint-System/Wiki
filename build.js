@@ -22,6 +22,9 @@ const uriSuffix = '.html'
 const anchorPrefix = '#'
 const attachmentsFolder = 'attachments'
 const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
+
+// file name regex
+const excalidraw = /!\[\[([^\]]+)\.excalidraw\]\]/g
 const wikiImage = /!\[\[([^\]]+\..+)\]\]/g
 const obsidianCanvas = /\[\[([^\]]+\.canvas.+)\]\]/g
 const embededContent = /!\[\[([^\]]*)\]\]/g
@@ -49,7 +52,6 @@ function sanitizeAssetname(file) {
 function loopMdFiles() {
     return fs.readdirSync(__dirname).filter(file => (path.extname(file) === '.md') && (ignoreFiles.indexOf(file) != 0))
 }
-
 
 const groupBy = (key, sort = false) => array => {
     const grouped = array.reduce((objectsByKeyValue, obj) => {
@@ -468,19 +470,28 @@ function convertCanvasToSVG(content) {
 
 function convert(content, file) {
 
+    // Convert Excalidraw links
+    // ![[Git Base Repo UI.excalidraw]] -> ![](./Git Base Repo UI.svg)"/>
+    matches = content.match(excalidraw) || []
+    for (i = 0; i < matches.length; i++) {
+        let match = matches[i]
+        let asset = sanitizeAssetname(match.match(/!\[\[([^\]]*)/)[1])
+        content = content.replace(match, `![](${basePathAttachments}${asset}.svg)`)
+    }
+
     // Convert Obsidian canvas
     // [[S3.canvas|S3]] -> [](./s3.svg)
     let matches = content.match(obsidianCanvas) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
-        let title = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
-        let href = title
+        let asset = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
+        let href = asset
         // Set title and href
         if (match.indexOf('|') > 0) {
             href = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
-            title = match.match(/\|(.*)\]\]/)[1]
+            asset = match.match(/\|(.*)\]\]/)[1]
         }
-        content = content.replace(match, `[${title}](${basePathAttachments}${href}.svg)`)
+        content = content.replace(match, `[${asset}](${basePathAttachments}${href}.svg)`)
     }
 
     // Convert wiki image links
@@ -488,8 +499,8 @@ function convert(content, file) {
     matches = content.match(wikiImage) || []
     for (i = 0; i < matches.length; i++) {
         let match = matches[i]
-        let image = sanitizeAssetname(match.match(/!\[\[([^\]]*)/)[1])
-        content = content.replace(match, `![](${basePathAttachments}${image})`)
+        let asset = sanitizeAssetname(match.match(/!\[\[([^\]]*)/)[1])
+        content = content.replace(match, `![](${basePathAttachments}${asset})`)
     }
 
     // Convert embeded content links

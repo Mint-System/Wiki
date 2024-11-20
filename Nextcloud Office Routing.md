@@ -4,4 +4,4 @@ tags:
 ---
 # Nextcloud Office Routing
 
-![[Nextcloud Office Routing.excalidraw.svg]]
+![[Nextcloud Office Routing.svg]]
