@@ -47,7 +47,7 @@ Related:
 
 Use the snippet below to log a message.
 
-```py
+```python
 import logging
 
 logging.info(res)

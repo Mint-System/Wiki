@@ -15,3 +15,4 @@ Themen:
 * [[CVE]]
 * [[Odoo Security]]
 * [[SSH-Zugriff]]
+* [[CrowdSec]]
