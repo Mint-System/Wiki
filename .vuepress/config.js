@@ -36,7 +36,7 @@ export default defineUserConfig({
         mermaidPlugin(),
         shikiPlugin({
             theme: 'catppuccin-latte',
-            langs: ['bash', 'yml', 'yaml', 'json', 'css', 'html', 'xml', 'groovy', 'py', 'python', 'sql', 'powershell', 'txt', 'csv'],
+            langs: ['bash', 'yml', 'yaml', 'json', 'css', 'html', 'xml', 'groovy', 'py', 'python', 'sql', 'powershell', 'txt', 'csv', 'mermaid'],
         }),
     ],
 })
