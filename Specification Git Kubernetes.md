@@ -29,13 +29,15 @@ classDiagram
 	
     class User {
 		char name required
-		many2many git_forge_ids
 		char ssh_private_key
 		char ssh_private_key_password
+
+		many2many git_forge_ids
     }
 
 	class Forge {
 		char name required
+		
 		many2one provider_id
 		many2many user_ids
 	}
@@ -46,15 +48,27 @@ classDiagram
 	}
 
 	class ForgePartnerRel {
+		char name required
+	
 		forge_id many2one required
 		partner_id many2one required
-		char name required
+		
 	}
 
     class Repo{
 		char name required
+		char http_url computed
+		char ssh_url computed
+		char push_url
+		char pull_url
+		
+		selection command
+		text input
+		file file
+		text output
+		
 		many2one forge_id
-		char reponame required
+
 		one2many branch
     }
 
@@ -75,12 +89,19 @@ Repo.clone_from(url, repo_dir, env={"GIT_SSH_COMMAND": 'ssh -i /PATH/TO/KEY'})
 
 ![[Git Base Repo UI.excalidraw]]
 
+Forge Provider:
+* GitHub: github.com
+* GitLab: gitlab.com
+* Gitea: gitea.com
+* Codeberg: codeberg.org
+* Codey: codey.ch
+
 Commands:
-* git add .
-* git commit -m "$1"
 * git status
 * git log
+* git add .
 * git clean -df
+* git commit -m "$1"
 
 Branches:
 - prod: production
