@@ -72,9 +72,6 @@ description:
 
 Runs git commands in the home folder of Odoo. The ssh key is stored in the Odoo user entry. On every operation it is written as a temporary file.
 
-```python
-Repo.clone_from(url, repo_dir, env={"GIT_SSH_COMMAND": 'ssh -i /PATH/TO/KEY'})
-```
 
 ![[Git Base Repo UI.excalidraw]]
 
