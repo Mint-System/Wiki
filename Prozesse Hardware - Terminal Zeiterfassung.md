@@ -29,8 +29,8 @@ Username: pi
 Password: raspberry
 
 
-![[Pasted image 20221219214423.png]]
+![[Raspberry Pi Hardware.png]]
 
-![[Pasted image 20221219214638.png]]
+![[Rasperry Pi Hardware 3.png]]
 
-![[Pasted image 20221219214756.png]]
+![[Rasperry Pi Hardware 2.png]]

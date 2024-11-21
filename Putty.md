@@ -14,4 +14,4 @@ Website: <https://putty.org/>
 
 In these 4 steps you can select the private ssh key:
 
-![[Pasted image 20240507110023.png]]
+![[Putty.png]]
