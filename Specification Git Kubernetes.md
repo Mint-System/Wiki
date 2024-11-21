@@ -30,7 +30,6 @@ classDiagram
     class User {
 		char name required
 		many2many git_forge_ids
-		char ssh_username
 		char ssh_private_key
 		char ssh_private_key_password
     }
@@ -68,7 +67,7 @@ classDiagram
 
 description:
 
-Uses GitPython <https://pypi.org/project/GitPython/> to manager git repositories and its branches. The ssh key is stored in the Odoo user entry. On every operation it is written as a temporary file.
+Runs git commands in the home folder of Odoo. The ssh key is stored in the Odoo user entry. On every operation it is written as a temporary file.
 
 ```python
 Repo.clone_from(url, repo_dir, env={"GIT_SSH_COMMAND": 'ssh -i /PATH/TO/KEY'})
@@ -80,7 +79,7 @@ Commands:
 * git add .
 * git commit -m "$1"
 * git status
-* git push
+* git log
 * git clean -df
 
 Branches:
