@@ -22,7 +22,7 @@ models:
 classDiagram
 	Account --> Forge
 	Repo --> Account
-	Branch --> Repo
+	RepoBranch --> Repo
 	Repo --> User
 	
     class User {
@@ -34,8 +34,7 @@ classDiagram
 	class Account {
 		char name required
 		
-		many2one provider_id
-		many2many user_ids
+		many2one forge_id
 	}
 	
 	class Forge {
@@ -55,15 +54,17 @@ classDiagram
 		file file
 		text output
 		
-		many2one forge_id
+		many2one account_id
 		many2one user_id
-		one2many branch
+		one2many branch_ids
     }
 
-    class Branch{
+    class RepoBranch{
 		char name required
 		integer sequence required
 		boolean default
+
+		many2one repo_id
     }
 ```
 
