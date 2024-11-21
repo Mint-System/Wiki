@@ -20,39 +20,27 @@ models:
 
 ```mermaid
 classDiagram
-    Forge <--> User
-	ForgePartnerRel --> Forge
-	Forge --> Provider
-	ForgePartnerRel --> ResPartner
-	Repo --> Forge
+	Account --> Forge
+	Repo --> Account
 	Branch --> Repo
+	Repo --> User
 	
     class User {
 		char name required
 		char ssh_private_key
 		char ssh_private_key_password
-
-		many2many git_forge_ids
     }
 
-	class Forge {
+	class Account {
 		char name required
 		
 		many2one provider_id
 		many2many user_ids
 	}
 	
-	class Provider {
+	class Forge {
 		char name required
 		char hostname required
-	}
-
-	class ForgePartnerRel {
-		char name required
-	
-		forge_id many2one required
-		partner_id many2one required
-		
 	}
 
     class Repo{
@@ -68,7 +56,7 @@ classDiagram
 		text output
 		
 		many2one forge_id
-
+		many2one user_id
 		one2many branch
     }
 
