@@ -7,7 +7,7 @@ Mint System unterstützt die Verbindung von Odoo mit verschiedenen Login-Systeme
 
 * LDAP
 * OAuth
-	* [[Login mit Odoo.com]]
+	* [[Login mit odoo.com]]
 	* [[Login Mint System]]
 	* [[Login with GitLab]]
 
