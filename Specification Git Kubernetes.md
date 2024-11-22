@@ -35,11 +35,13 @@ classDiagram
 		char name required
 		
 		many2one forge_id
+		char local_path
 	}
 	
 	class Forge {
 		char name required
 		char hostname required
+		char local_path
 	}
 
     class Repo{
@@ -48,11 +50,13 @@ classDiagram
 		char ssh_url computed
 		char push_url
 		char pull_url
-		
-		selection command
-		text input
-		file file
-		text output
+		char local_path
+
+		selection status
+		selection cmd
+		text cmd_input
+		file cmd_input_file
+		text cmd_output
 		
 		many2one account_id
 		many2one user_id
@@ -86,7 +90,7 @@ Commands:
 * git status
 * git log
 * git add .
-* git clean -df
+* git clean -fd
 * git commit -m "$1"
 
 Branches:
