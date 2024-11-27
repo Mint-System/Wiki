@@ -65,25 +65,19 @@ git checkout 16.0 .gitmodules
 git stash
 ```
 
-In Main-Branch wechseln.
+Branch neu anlegen und Submodules-Datei wieder einfügen. 
 
 ```bash
-git switch 16.0
-git rebase Mint-System-16.0
+git branch -D 16.0
+git switch -c 16.0
 git stash pop
 ```
 
-Submodule dem Index inzufügen.
+Submodule neu auschecken.
 
 ```bash
-task git-submodule-add git@github.com:sozialinfo/odoo-apps-sozialinfo.git addons/sozialinfo
-```
-
-Referenzen der Submodule aktualisieren.
-
-```bash
-task checkout 16.0
-task git-submodule-pull
+task git-submodule-switch 16.0
+task gitsubmodule-pull
 ```
 
 Alles committen.
@@ -91,7 +85,7 @@ Alles committen.
 ```bash
 gaa
 gcmsg "feat: checkout upstream"
-gp -f
+git push -f --set-upstream origin 16.0
 ```
 
 ## Run rebase
