@@ -41,7 +41,7 @@ Here is an example of what the module structure might look like:
 **__init__.py**
 
 ```python
-
+# empty
 ```
 ### upgrade branch (17.0)
 
@@ -54,7 +54,7 @@ Here is an example of what the module structure might look like:
     "author": "Mint System GmbH, Odoo Community Association (OCA)",
     "website": "https://www.mint-system.ch",
     "category": "Technical",
-    "version": "17.0.1.0.0",
+    "version": "15.0.1.0.0",
     "license": "AGPL-3",
     "depends": ["base"],
     "installable": True,
@@ -66,18 +66,19 @@ Here is an example of what the module structure might look like:
 **__init__.py**
 
 ```
-from . import init_upgrade
+# empty
 ```
 
-**init_upgrade.py**
+**upgrades/15.0.1.0.0/pre-10-init_upgrade.py**
 
 ```python
 import logging
 
-_logger = logging.getLogger(name)
-
 from odoo.upgrade import util
 
+_logger = logging.getLogger(__name__)
+
 def migrate(cr, version):
+    util.remove_view(cr, "purchase_requisition.report_purchaserequisitions_document")
     util.delete_unused(cr, "product.list1")
 ```
