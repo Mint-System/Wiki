@@ -8,7 +8,7 @@ Auf GitHub verwaltet die Mint System ihre öffentlichen [[Repository|Repositorie
 
 Website: <https://github.com/>
 
-## Organisation
+## Account
 
 Repo: <https://github.com/mint-system>
 

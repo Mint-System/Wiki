@@ -8,10 +8,10 @@ Auf GitHub verwaltet die Mint System ihre privaten Projekte.
 
 Website: <https://gitlab.com>
 
-## Organisation
+## Account
 
 
-Repository: <https://gitlab.com/mint-system/>
+Repo: <https://gitlab.com/mint-system/>
 
 ## Applikationen
 
