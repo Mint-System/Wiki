@@ -18,9 +18,7 @@ Internes Kürzel: ms
 
 UID: CHE-150.248.608
 
-[[Mitgliedschaften]]
-
-[[Organisation]]
+Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]]
 
 ## Mitarbeitende
 
