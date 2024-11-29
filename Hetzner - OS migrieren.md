@@ -39,7 +39,7 @@ Nach einem Rebuild rebuild, wird der originale SSH-Public-Key für den Root-Benu
 * Server in Ansible Inventory aktualisieren und installieren
 
 ```bash
-ansible-playbook -i inventories/setup play_setup.yml -l $ALIAS -u root
+ansible-playbook -i inventories/setup plays/setup.yml -l $ALIAS -u root
 ```
 
 * Anschliessend den Docker-Dienst neustarten

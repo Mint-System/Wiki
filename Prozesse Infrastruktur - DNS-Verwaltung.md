@@ -22,7 +22,7 @@ Beispiel:
 * Zustellen der Liste an Kunde
 * Bei Erhalt Zugangsdaten die Einträge selber erstellen
 
-## DNS-Einträge mit Ansible erstellen
+## DNS-Einträge mit Vercel erstellen
 
 Arbeitsschritte:
 * Installation [[Vercel#Client]]

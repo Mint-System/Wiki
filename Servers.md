@@ -59,13 +59,12 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Zeus       | Server Mint System GmbH                  | `zeus.mint-system.com`     | Hetzner     |
 | [[Hades]]  | Demo Mint System GmbH                    | `hades.mint-system.com`    | Hetzner     |
 | [[Hermes]] | Demo Mint System GmbH                    | `hermes.mint-system.com`   | Hetzner     |
-| Geras      | [[Kubernetes Cluster]] Mint System GmbH  | `geras.mint-system.com`    | Hetzner     |
+| Phanes     | Server Valperca S.A.                     | `phanes.mint-system.com`   | Hetzner     |
 
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
-* Phanes
 * Koios
 * Asteria
 * Perses

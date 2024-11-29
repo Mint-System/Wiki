@@ -32,11 +32,11 @@ Im allen `hosts.yml`-Dateien den Host mit `erp.janikv.dev` ersetzen.
 
 ### Server installieren
 
-Den Befehl `aplaybook -i inventories/setup setup.yml -l helios -u root` ausführen.
+Den Befehl `aplaybook -i inventories/setup plays/setup.yml -l helios -u root` ausführen.
 
 ### Odoo installieren
 
-Den Befehl `aplaybook -i inventories/odoo odoo.yml -l helios` ausführen.
+Den Befehl `aplaybook -i inventories/odoo plays/odoo.yml -l helios` ausführen.
 
 ### Proxy konfigurieren und installieren
 
