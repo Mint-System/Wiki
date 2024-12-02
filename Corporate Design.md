@@ -54,3 +54,14 @@ Siehe [[Icons]].
 ## Assets
 
 Siehe [[Assets]].
+
+## Odoo
+
+From Odoo 18.0 the icon is:
+
+![[odoo_icon_mint_system.png]]
+
+Until Odoo 17.0 the default icons is:
+
+![[assets/icon-box.png]]
+
