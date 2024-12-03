@@ -1,5 +1,15 @@
 # Odoo Build Changelog
 
+## Undefined
+
+### Added
+
+* New commands `task lint-module-repo` and `task test-module-repo`.
+
+### Updated
+
+* All function in `task` have been sorted and grouped
+
 ## 2024-11-27
 
 ### Added
