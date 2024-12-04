@@ -2,17 +2,17 @@
 
 A marketplace for Kubernetes Apps. Bridge between Cloud Service Provider (CSP) and Independent Software Vendors (ISV).
 
-## Product
-
 Website: <https://products.vshn.ch/marketplace/index.html>
 
-## CSP
+## Cloud Service Provider
 
-Have a managed Kubernetes offering.
+Provide a managed Kubernetes offering.
 
 Example: [[Exoscale]], [[Nine]].
 
-## ISV
+Details: <https://products.vshn.ch/marketplace/csp.html>
+
+## Independent Software Vendor
 
 Have an app than can be deployed to Kubernetes.
 
