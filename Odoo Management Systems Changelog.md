@@ -1,4 +1,4 @@
-# Odoo Build Changelog
+# Odoo Management Systems Changelog
 
 ## 2024-12-04
 
@@ -11,8 +11,9 @@
 * Ribbon that shows if risk is revision
 * Action "Create Audit with Risk Statements"
 
-## Updated
+### Updated
 
 * Show risk combination name instead of result
 * Ensure audit stages are not updated
 * Move severity and probability records from data to demo
+* Delete statement if audit is deleted
