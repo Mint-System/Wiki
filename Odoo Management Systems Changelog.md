@@ -1,11 +1,14 @@
 # Odoo Build Changelog
 
-## Undefined
+## 2024-12-04
 
 ### Added
 
-* Risk review date
-
+* Risk last review date
+* Chatter view on risk and audit
+* Action to create risk revision
+* Risk counter that shown in display name
+* Ribbon that shows if risk is revision
 ## Updated
 
 * Show risk combination name instead of result
