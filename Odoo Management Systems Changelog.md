@@ -9,6 +9,8 @@
 * Action to create risk revision
 * Risk counter that shown in display name
 * Ribbon that shows if risk is revision
+* Action "Create Audit with Risk Statements"
+
 ## Updated
 
 * Show risk combination name instead of result
