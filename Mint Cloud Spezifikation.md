@@ -1,5 +1,5 @@
 
-# Mint Cloud Specification
+# Mint Cloud Spezifikation
 
 Die Mint Cloud Hosting-Platform basiert auf Odoo und Kubernetes.
 
@@ -9,26 +9,34 @@ Die Mint Cloud Hosting-Platform basiert auf Odoo und Kubernetes.
 
 ## Technisch
 
-Der Kern der Architektur bildet der Odoo Webshop. Er ist die Schnittstelle nach Aussen zum Kunden und nach Innen zum Kubernetes-Cluster.
-
+Der Kern der Architektur bildet der Odoo Webshop. Er ist die Schnittstelle nach Aussen zum Kunden und nach Innen zu den Kubernetes-Umgebungen.
 ### Odoo Webshop
 
 Die Kommunikation zwischen Odoo und der Kubernetes API erfolgt mit dem [kubernetes-python-client](https://kubernetes.readthedocs.io/en/latest/).
 
 Bei einem Deployment werden die Manifest-Dateien von der URL heruntergeladen. Die App-Parameter werden in ein `vars.yml` geschrieben. Analog Ansible (Jinja2) werden die Manifest-Dateien mit den Werten ergänzt. Die Manifest-Dateien werden mit dem Python-Client angewendet.
 
-Die Manifest-Dateien kommen aus dem [[Ansible Build]] Projekt. Odoo verwendet dann die gleichen Manifest-Dateien wie Ansible.
-
 Die Odoo-Module für den Webshop sind hier beschrieben: [[Specification Website Sale Kubernetes Subscription OCA]]
 
-Die Git-Integration ist ein entkoppelte Odoo-Modul: [[Specification Git Kubernetes]]
+Die Git-Integration ist hier beschreiben: [[Specification Git Kubernetes]]
+### Ansible
 
-Mit [[Mailgun]] können Absender-Domain registriert werden: <https://documentation.mailgun.com/docs/mailgun/api-reference/openapi-final/tag/Domains/#tag/Domains/operation/httpapi.(*T).CreateDomain-fm-4>.
+Die Manifest-Dateien kommen aus dem [[Ansible Build]] Projekt. Der Odoo Kubernetes-Controller verwendet somit die gleichen Manifest-Dateien wie Ansible.
+### Mailgun
 
-### Odoo Deployment
+Mit Mailgun können Absender-Domain registriert werden: [[Mailgun#Create a domain]].
+### CrowdSec
 
-Der Cluster ist auf das Deployment der Odoo Webapp ausgerichtet.
+[[CrowdSec]] bietet IP-Blocklisten im Gegenzug zu Log-Daten an.
+### Exoscale
 
+[[Exoscale]] ist nur einer von Möglichen "Managed Kubernetes Providern".
+### Payrexx
+
+[[Payrexx]] ist ein Schweizer Zahlungsanbieter. Es gibt bereits Integrationen für Odoo.
+### Codey
+
+Codey ist ein Projekt der [[VSHN AG]] und soll eine Schweizer Alternative zu GitHub und Co beiten.
 ## Workflow
 
 Rollen: Kunde, Operator

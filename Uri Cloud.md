@@ -6,6 +6,8 @@ Domains:
 
 * uri-cloud.ch
 
+## Übersicht
+
 ![[Uri Cloud Übersicht.canvas|Uri Cloud Übersicht]]
 
 ## Szenarios
@@ -51,7 +53,7 @@ Solange das Hosting-Abo läuft wird der Betrag an diese Partner ausbezahlt:
 
 **Szenario Steuerverwaltung**
 
-Die Steuerverwaltung des Kanton Uri hat eine neue Steuersoftware von Bedag beschaft. Sie möchten das Hosting beim Amt für Informatik.
+Die Steuerverwaltung des Kanton Uri hat eine neue Steuersoftware von Bedag beschafft. Sie möchten das Hosting beim Amt für Informatik.
 
 Die Steuerverwaltung besucht [www.uri-cloud.ch](http://www.uri-cloud.ch/) und kauft ein Projekt-Hosting ein. Als Cloud-Provider geben sie das Amt für Informatik an.
 
@@ -59,4 +61,8 @@ Mitarbeiter der Uri Cloud setzen sich mit dem Amt für Informatik und Bedag in V
 
 Ein einmaliger Betrag an diese Partner ausbezahlt:
 
-- Cloud Uri für den Koordinationsauftrag
+- Uri Cloud für den Koordinationsauftrag
+
+## Spezifikation
+
+Die Spezifikation der Uri Cloud ist anlog der [[Mint Cloud Spezifikation]].
