@@ -184,10 +184,13 @@ function renderEdge(edge) {
         if (toY > fromY) {
             labelY += Math.abs(fromY - toY)/2
         }
-        // console.log(`${edge['label']}: X:${labelX}/Y:${labelY} from X:${fromX}/Y:${fromY} to X:${toX}/Y:${toY}`)
 
         if (debug) {
-            label_text += ` (${labelX}/${labelY})`
+            console.log(`${edge['label']}: X:${labelX}/Y:${labelY} from X:${fromX}/Y:${fromY} to X:${toX}/Y:${toY}`)
+        }        
+
+        if (debug) {
+            labelText += ` (${labelX}/${labelY})`
         }
 
         let textHeight = 15
@@ -211,10 +214,10 @@ function renderEdge(edge) {
     }
 
     return `
-    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-${id}" viewBox="0 0 10 10" refX="1" refY="5" fill="${color}" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-end-${id}" viewBox="0 0 10 10" refX="1" refY="5" fill="${color}" markerUnits="strokeWidth" markerWidth="4" markerHeight="4" orient="auto">
         <path d="M 0 0 L 7 5 L 0 10 z"/>
     </marker>
-    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-${id}" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="${color}" markerUnits="strokeWidth" markerWidth="3" markerHeight="3" orient="auto">
+    <marker xmlns="http://www.w3.org/2000/svg" id="arrow-start-${id}" viewBox="-10 -10 10 10" refX="-1" refY="-5" fill="${color}" markerUnits="strokeWidth" markerWidth="4" markerHeight="4" orient="auto">
         <path d="M 0 0 L -7 -5 L -0 -10 z"/>
     </marker>
     <line x1="${fromX}" y1="${fromY}" x2="${toX}" y2="${toY}" stroke="${color}" fill="white" stroke-width="${strockWidth}" ${marker} />

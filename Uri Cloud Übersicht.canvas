@@ -13,10 +13,6 @@
 		{"id":"a347debd1ba40106","type":"text","text":"r4ts","x":-540,"y":-60,"width":160,"height":60},
 		{"id":"b7afe1ea64e74de7","type":"text","text":"BinaryOne","x":-540,"y":20,"width":160,"height":60},
 		{"id":"9fdcc92d0ef25c17","type":"text","text":"Ubiq","x":-540,"y":100,"width":160,"height":60},
-		{"id":"c3b19520b41affb7","type":"text","text":"Webshop Kunden","x":-160,"y":-400,"width":180,"height":60},
-		{"id":"f2a94f9e9d2e5222","type":"text","text":"Software-Katalog","x":-160,"y":-320,"width":180,"height":60},
-		{"id":"e72071be99dfc86c","type":"text","text":"Kubernetes Controller","x":40,"y":-320,"width":180,"height":60},
-		{"id":"1eb49c2f25a8f82b","type":"text","text":"Partner/Provider-Portal","x":40,"y":-400,"width":180,"height":60},
 		{"id":"c8c951e7b2d57eb2","type":"text","text":"Odoo","x":-320,"y":-140,"width":160,"height":60},
 		{"id":"f78124ac6e54f911","type":"text","text":"Nextcloud","x":-320,"y":-60,"width":160,"height":60},
 		{"id":"4ba5bb23e4040be8","type":"text","text":"Webshop","x":-320,"y":20,"width":160,"height":60},
@@ -24,16 +20,20 @@
 		{"id":"ce125e869a52e642","type":"text","text":"Urner KMU","x":-320,"y":-660,"width":160,"height":60},
 		{"id":"472f0b38177d743f","type":"text","text":"Urner Gemeinden","x":-140,"y":-660,"width":160,"height":60},
 		{"id":"b21eced2463250af","type":"text","text":"Kanton Uri","x":40,"y":-660,"width":160,"height":60},
-		{"id":"1c32a3d665c15879","type":"text","text":"Schulen","x":220,"y":-660,"width":160,"height":60}
+		{"id":"1c32a3d665c15879","type":"text","text":"Schulen","x":220,"y":-660,"width":160,"height":60},
+		{"id":"c3b19520b41affb7","type":"text","text":"Webshop Kunden","x":-160,"y":-400,"width":180,"height":60},
+		{"id":"f2a94f9e9d2e5222","type":"text","text":"Software-Katalog","x":-160,"y":-320,"width":180,"height":60},
+		{"id":"e72071be99dfc86c","type":"text","text":"Kubernetes Controller","x":40,"y":-320,"width":180,"height":60},
+		{"id":"1eb49c2f25a8f82b","type":"text","text":"Partner/Provider-Portal","x":40,"y":-400,"width":180,"height":60}
 	],
 	"edges":[
 		{"id":"947ceab919a52950","fromNode":"7dac3283e9b0a420","fromSide":"right","toNode":"c8c951e7b2d57eb2","toSide":"left"},
 		{"id":"46dd69979cde04c3","fromNode":"a347debd1ba40106","fromSide":"right","toNode":"f78124ac6e54f911","toSide":"left"},
 		{"id":"5ec4a83b93dd3f90","fromNode":"b7afe1ea64e74de7","fromSide":"right","toNode":"4ba5bb23e4040be8","toSide":"left"},
 		{"id":"4fe058cb282e9db1","fromNode":"9fdcc92d0ef25c17","fromSide":"right","toNode":"99a4bb9773d0429d","toSide":"left"},
-		{"id":"1a97cfa72053c9ab","fromNode":"6ecf79332bef62c1","fromSide":"right","toNode":"9a32ee6b3c747578","toSide":"left","fromEnd":"arrow","label":"Bereitstellung"},
-		{"id":"f835ba9cc0bd7e2d","fromNode":"9a32ee6b3c747578","fromSide":"left","toNode":"5e8e3f2aea6950c6","toSide":"bottom","fromEnd":"arrow","label":"Registration"},
-		{"id":"83288a2df6a8e80d","fromNode":"6ecf79332bef62c1","fromSide":"right","toNode":"5e8e3f2aea6950c6","toSide":"bottom","fromEnd":"arrow","label":"Auftrag"},
+		{"id":"1a97cfa72053c9ab","fromNode":"6ecf79332bef62c1","fromSide":"right","toNode":"9a32ee6b3c747578","toSide":"left","toEnd":"none","label":"Bereitstellung"},
+		{"id":"f835ba9cc0bd7e2d","fromNode":"9a32ee6b3c747578","fromSide":"left","toNode":"5e8e3f2aea6950c6","toSide":"bottom","toEnd":"none","label":"Registration"},
+		{"id":"83288a2df6a8e80d","fromNode":"6ecf79332bef62c1","fromSide":"right","toNode":"5e8e3f2aea6950c6","toSide":"bottom","toEnd":"none","label":"Auftrag"},
 		{"id":"4e3ad21c2f497a10","fromNode":"a8a5fad21086d61a","fromSide":"bottom","toNode":"5e8e3f2aea6950c6","toSide":"top","label":"Besuchen"}
 	]
 }
