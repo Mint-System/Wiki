@@ -34,6 +34,10 @@ Konto: 6500 Verwaltungsaufwand
 Habenkonto: Verbindlichkeiten aus Lieferungen und Leistungen (Kreditoren)\
 Sollkonto: 6910 Bankspesen
 
+#### Gebührenbelastung Kontoführung
+
+Sollkonto: 6910 Bankspesen
+
 #### Lastschriftverfahren VISECA
 
 Kunde: VISECA\
