@@ -2,6 +2,6 @@
 
 Basiert auf [[Crossplane]].
 
-Website: <https://github.com/vshn/application-catalog-docs/pull/122>
+Website: <https://kb.vshn.ch/app-catalog/reference/arch-control-plane.html>
 
 ![[VSHN Central Control Plane.png]]
