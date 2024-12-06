@@ -10,6 +10,9 @@ Domains:
 
 ![[Uri Cloud Übersicht.canvas|Uri Cloud Übersicht]]
 
+## Business Case
+
+Siehe [[VSHN Marketplace]].
 ## Szenarios
 
 **Szenario Steinbock**
@@ -62,7 +65,13 @@ Mitarbeiter der Uri Cloud setzen sich mit dem Amt für Informatik und Bedag in V
 Ein einmaliger Betrag an diese Partner ausbezahlt:
 
 - Uri Cloud für den Koordinationsauftrag
-
 ## Spezifikation
 
 Die Spezifikation der Uri Cloud ist anlog der [[Mint Cloud Spezifikation]].
+
+## Technisch
+### Central Control Plane
+
+Die Uri Cloud interagiert mit der [[VSHN Central Control Plane]].
+
+Die Kuberenetes Cluster müssen von VSHN erstellt werden.
