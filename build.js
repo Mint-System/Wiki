@@ -23,6 +23,7 @@ const uriSuffix = '.html'
 const anchorPrefix = '#'
 const attachmentsFolder = 'attachments'
 const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
+const ignoreLinks = 'TOC'
 
 // file name regex
 const excalidraw = /!\[\[([^\]]+)\.excalidraw\]\]/g
@@ -547,7 +548,10 @@ function convert(content, file) {
         href = sanitizeName(href ? href : file.replace('\.md', ''))
 
         let mdLink = `[${title}](${basePath}${href}${uriSuffix}${anchor ? (anchorPrefix + anchor) : ''})`
-        content = content.replace(match, mdLink)
+
+        if (! ignoreLinks.includes(title)) {
+            content = content.replace(match, mdLink)
+        }
     }
 
     return content
