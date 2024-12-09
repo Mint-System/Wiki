@@ -12,7 +12,7 @@ Domains:
 
 ## Business Case
 
-Siehe [[VSHN Marketplace]].
+Siehe [[VSHN Application Marketplace]].
 ## Szenarios
 
 **Szenario Steinbock**
