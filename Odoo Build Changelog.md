@@ -5,10 +5,12 @@
 ### Added
 
 * New commands `task lint-module-repo` and `task test-module-repo`.
+* The command `task test-docker` is run on every commit on the main branch.
 
 ### Updated
 
-* All function in `task` have been sorted and grouped
+* All function in `task` have been sorted and grouped.
+* `checkout-reivision` updates var in `.env` file.
 
 ## 2024-11-27
 
