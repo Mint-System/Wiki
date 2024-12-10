@@ -161,6 +161,7 @@ function renderEdge(edge) {
         let labelText = edge['label']
         let labelLength = labelText.length
 
+        // Update label length for mutliline text.
         if (labelText && labelText.split('\n').length > 1) {
             labelLength = 0
             for (const line of labelText.split('\n')) {
@@ -170,9 +171,11 @@ function renderEdge(edge) {
             }
         }
 
-        let labelX = fromX - labelLength*4
+        // Calculate label position
+        let labelWidth = labelLength*4
+        let labelX = fromX - labelWidth
         let labelY = fromY
-      
+        
         if (toX < fromX) {            
             labelX -= Math.abs(toX - fromX)/2
         }
@@ -194,7 +197,9 @@ function renderEdge(edge) {
             labelText += ` (${labelX}/${labelY})`
         }
 
-        let textHeight = 15
+        // Calculate size of background
+        let textHeight = 20
+        let textWidth = labelWidth*2.4
         if (labelText && labelText.split('\n').length > 1) {
             textHeight = labelText.split('\n').length*15
 
@@ -207,9 +212,13 @@ function renderEdge(edge) {
             }
             labelText = spans
         }
+        
+        // Adjust position of background
+        rectX = labelX - 4
+        rectY = labelY - textHeight + 4
 
         label = `
-        <rect x="${labelX}" y="${labelY-textHeight}" width="${labelLength*9}" height="${textHeight}" rx="3" fill="${fillColor}" />
+        <rect x="${rectX}" y="${rectY}" width="${textWidth}" height="${textHeight}" rx="3" fill="${fillColor}" />
         <text x="${labelX}" y="${labelY}" font-family="${fontFamily}" fill="${fontColor}" font-size="${fontSize}">${labelText}</text>
         `
     }
