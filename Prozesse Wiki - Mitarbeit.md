@@ -29,14 +29,7 @@ Beachten Sie dabei die [[Richtlinie - Obsidian]].
 
 Der Obsidian Vault und das Git Repository werden mit dem Obisidian Git Plugin synchronisiert.
 
-**Pull** - Das lokale Git Repository aktualisieren:
-* <kbd>ctrl + p</kbd> drücken
-* Befehl `Obisdian Git: Pull from remote repository` ausführen
-
-**Push** - Änderungen speichern und auf <https://github.com/Mint-System/Wiki> hochladen:
-* <kbd>ctrl + p</kbd> drücken
-* Befehl `Obisdian Git: Create backup` ausführen
-
+![[Obsidian Git Plugin.png]]
 ## Publizierung
 
 Die Inhalte die auf GitHub unter <https://github.com/Mint-System/Wiki> vorhanden sind, werden automatisch von [[Vercel]] unter <https://wiki.mint-system.ch> publiziert.
