@@ -2,7 +2,6 @@
 tags:
 - Ideation
 ---
-
 # Odoo Nextcloud Filestore
 
 A good example of how Odoo attachments can be stored externally: https://github.com/camptocamp/odoo-cloud-platform/tree/16.0/attachment_s3

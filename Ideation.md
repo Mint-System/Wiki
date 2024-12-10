@@ -12,7 +12,7 @@ Analog https://odoo.com eine SaaS-Lösung für Odoo und weitere Software entwick
 
 Das ganze kann auch für andere Software wie [[Nextcloud]], [[Gitea]], [[Moodle]] oder [[Mattermost]] funktionieren.
 
-Mehr dazu unter [[Mint SaaS]].
+Mehr dazu unter [[Mint SaaS]], [[Mint Cloud]], [[Uri Cloud]].
 
 ## Open Source Business Intelligence Plattform
 
