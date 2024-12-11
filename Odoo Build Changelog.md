@@ -11,6 +11,7 @@
 
 * All function in `task` have been sorted and grouped.
 * `checkout-reivision` updates var in `.env` file.
+* Replaced [[Mailhog]] with [[Mailpit]].
 
 ## 2024-11-27
 
