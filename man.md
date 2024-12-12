@@ -13,3 +13,4 @@ Hilfestellung für Kommandozeilenbefehle.
 * [[man gpg]]
 * [[man ripgrep]]
 * [[man netcat]]
+* [[man apt]]
