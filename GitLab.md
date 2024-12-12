@@ -10,7 +10,6 @@ Website: <https://gitlab.com>
 
 ## Account
 
-
 Repo: <https://gitlab.com/mint-system/>
 
 ## Applikationen

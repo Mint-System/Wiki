@@ -53,6 +53,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Verträge/[Name]                           | Alle Vertragsdokumente mit Externen                                                 |
 | Vorlage                                   | Dokumentvorlagen mit Inhalt                                                         |
 | Website                                   | Dateien zum Webauftritt                                                             |
+| Netzwerk                                  |                                                                                     |
 
 ## Format
 

@@ -5,7 +5,8 @@
 ### Added
 
 * New commands `task lint-module-repo` and `task test-module-repo`.
-* The command `task test-docker` is run on every commit on the default branch.
+* New test commands `task test-k8s` and `task test-docker`. They are run on every commit for the main branch.
+* Odoo Build images load ssh private and public key to Odoo config. They can be used with `git_base`.
 
 ### Updated
 
