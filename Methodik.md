@@ -17,3 +17,4 @@ Methodisches Vorgehen.
 * [[Prozessdokumentation]]
 * [[Datenverarbeitung]]
 * [[ITIL]]
+* [[Ressourcenplanung]]
