@@ -150,8 +150,7 @@ Website: <https://www.trimada.ch/>
 
 ## Verein sozialinfo.ch
 
-![[Sozialinfo_Logo_RGB.svg]]
-
+![[Sozialinfo_Logo-Schriftzug_RGB_pos.png]]
 Der Verein sozialinfo.ch erbringt seit 2003 Dienstleistungen für den Sozialbereich in der Schweiz.
 
 Wir betreiben das führende Stellenportal für den Sozialbereich und begleiten Projekte und Prozesse in der Digitalisierung und in der Personalgewinnung. Zudem bereiten wir Fachinformationen zu aktuellen Themen und relevanten Entwicklung im und um den Sozialbereich auf.
