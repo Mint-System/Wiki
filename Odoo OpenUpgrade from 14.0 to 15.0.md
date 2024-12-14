@@ -38,8 +38,7 @@ odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 
 Login and check the Odoo log.
 
-Remove [[Unsupported Modules]].
-
+Remove [[Unsupported Modules#Odoo 15.0]].
 ## Upgrade
 
 Checkout target Odoo environment.

@@ -10,9 +10,11 @@ These modules are no longer supported:
 * `l10n_ch_base_bank`
 * `l10n_ch_disable_default_reports`
 
-
+## Odoo 16.0
 # Odoo 17.0
 
 These modules are no longer supported:
 
 * `brand`
+
+## Odoo 18.0
