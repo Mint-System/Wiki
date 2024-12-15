@@ -91,10 +91,6 @@ Once the upgrade finished, start the server.
 task start native "$DATABASE"
 ```
 
-## Configure
-
-## Verify
-
 ## Deploy
 
 Export the database.
@@ -113,7 +109,14 @@ scp "tmp/$COMPANY/$NEW_DATABASE.sql" "$SERVER:~"
 Restore the database.
 
 ```bash
-ssh "$SERVER"
+ssh "$SERVER" sudo docker-postgres-restore -c "$POSTGRES_CONTAINER" -d "$DATABASE" -f "~/$NEW_DATABASE.sql"
+```
+
+Fix filestore permissions.
+
+```bash
+docker exec -u root "$CONTAINER" chown -R odoo:odoo "/var/lib/odoo/filestore/$DATABASE"
+docker exec -u root "$CONTAINER" chown -R odoo:odoo "/var/lib/odoo/sessions"
 ```
 ## Cleanup
 
