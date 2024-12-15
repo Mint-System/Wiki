@@ -5,14 +5,18 @@
 ### Added
 
 * New commands `task lint-module-repo` and `task test-module-repo`.
-* New test commands `task test-k8s` and `task test-docker`. They are run on every commit for the main branch.
+* New test commands `task test-k8s` and `task test-docker`.
+* Run test commands on every push  and PR.
+* Show GitHub action badge in readme.
 * Odoo Build images load ssh private and public key to Odoo config. They can be used with `git_base`.
+* Added command `task show-revision`
 
 ### Updated
 
 * All function in `task` have been sorted and grouped.
 * `checkout-reivision` updates var in `.env` file.
 * Replaced [[Mailhog]] with [[Mailpit]].
+* Refactored Odoo revision scripts.
 
 ## 2024-11-27
 
