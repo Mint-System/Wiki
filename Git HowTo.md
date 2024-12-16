@@ -76,8 +76,8 @@ git stash pop
 Submodule neu auschecken.
 
 ```bash
-task git-submodule-init
 task git-submodule-switch 16.0
+task git-submodule-pull
 ```
 
 Alles committen.

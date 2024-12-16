@@ -15,8 +15,6 @@ Domains:
 - doo-build.org
 - odoo-build.com
 
-See: [[Odoo Build Changelog]]
-
 ## HowTos
 
 Related:
