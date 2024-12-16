@@ -40,8 +40,6 @@ Start local development environment.
 task start db,native
 ```
 
-## Restore
-
 Clear filestore and restore database.
 
 ```bash
@@ -92,6 +90,7 @@ task start native $NEW_DATABASE
 ```
 
 Login and check the Upgrade report.
+
 ## Configure
 
 Install new modules.
@@ -127,3 +126,5 @@ Deploy the upgraded database.
 Restore the upgraded database.
 
 Update proxy config.
+
+## Troubleshooting
