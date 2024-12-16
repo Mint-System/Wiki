@@ -31,16 +31,16 @@ cd Sozialinfo-Odoo-Build
 git switch 16.0
 ```
 
-Mit `git remote -v` im Repo die Remotes anzeigen. Wenn nötig den Upsream hinzufügen:
+Upstream-Remote hinzufügen:
 
 ```bash
 git remote add upstream git@github.com:Mint-System/Odoo-Build.git
 ```
 
- Mit `git switch Mint-System-16.0` den Upstream-Branch wechseln. Wenn nötig erstellen:
+Den Upstream-Branch erstelllen:
 
 ```bash
-git switch --oprhan Mint-System-16.0 
+git checkout -b Mint-System-16.0 upstream/16.0
 ```
 
 Von dort den Upstream-Branch pullen.
@@ -76,15 +76,15 @@ git stash pop
 Submodule neu auschecken.
 
 ```bash
+task git-submodule-init
 task git-submodule-switch 16.0
-task gitsubmodule-pull
 ```
 
 Alles committen.
 
 ```bash
-gaa
-gcmsg "feat: checkout upstream"
+git add --all
+git commit -m "feat: checkout upstream"
 git push -f --set-upstream origin 16.0
 ```
 
