@@ -87,7 +87,6 @@ git add --all
 git commit -m "feat: checkout upstream"
 git push -f --set-upstream origin 16.0
 ```
-
 ## Run rebase
 
 ### Resolve rebase conflicts

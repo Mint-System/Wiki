@@ -44,11 +44,11 @@ docker-postgres-restore -c db -f "tmp/$COMPANY/$DATABASE.sql"
 
 Login and check the Odoo log.
 
-```
+```bash
 task start native "$DATABASE"
 ```
 
-Remove [[Unsupported Modules#Odoo 15.0]].
+Remove [[Unsupported Modules]].
 
 ## Upgrade
 

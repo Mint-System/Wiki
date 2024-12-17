@@ -12,20 +12,21 @@ Set env vars.
 ```bash
 export ODOO_CURRENT_VERSION=XX.0
 export ODOO_TARGET_VERSION=XX.0
-export MODE=test # Options: test, production
-export PGHOST=localhost
-export PGUSER=odoo
-export PGPASSWORD=odoo
 export DATABASE=erp
 export NEW_DATABASE=${DATABASE}_${ODOO_TARGET_VERSION}
 export COMPANY=mint-system
+export POSTGRES_CONTAINER=postgres01
+export SERVER=zeus.mint-system.com
+export MODE=test # Options: test, production
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 ```
 
-Download the database.
+Backup and download database from server.
 
 ```bash
-odoo-backup -h https://$HOST -p $(ansible-vault-get -i inventories/odoo -l $ALIAS -k vault_odoo_master_password) -d $DATABASE -o tmp/$COMPANY$/$DATABASE.zip
+ssh $SERVER sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
+mkdir -p "tmp/$COMPANY"
+scp "$SERVER:/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" "tmp/$COMPANY/$DATABASE.sql"
 ```
 
 Checkout current Odoo environment.
@@ -34,18 +35,25 @@ Checkout current Odoo environment.
 task checkout $ODOO_CURRENT_VERSION
 ```
 
-Start local development environment.
+Install Python requirements.
 
 ```bash
-task start db,native
+task install-requirements addons/server_tools/requirements.txt
 ```
 
 Clear filestore and restore database.
 
 ```bash
-task drop-db $DATABASE
-task clear-filestore $DATABASE
-odoo-restore -f tmp/$COMPANY/$DATABASE.zip
+task start db
+task drop-db "$DATABASE"
+docker-postgres-create -c db -d "$DATABASE"
+docker-postgres-restore -c db -f "tmp/$COMPANY/$DATABASE.sql"
+```
+
+Login and check the Odoo log.
+
+```bash
+task start native "$DATABASE"
 ```
 
 Remove or replace [[Unsupported Modules]].
