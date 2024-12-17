@@ -30,9 +30,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 * Auswählen Upgrade gemäss Edition und Hosting:
-
-Odoo Comunity Edition: [[Odoo Community Upgrade]]
-Odoo Enterprise Edition: [[Odoo Enterprise Upgrade]]
-Odoo.sh Hosting: [[#Odoo.sh Upgrade durchführen]]
-
+	* Odoo Comunity Edition: [[Odoo Community Upgrade]]
+	* Odoo Enterprise Edition: [[Odoo Enterprise Upgrade]]
+	* Odoo.sh Hosting: [[#Odoo.sh Upgrade durchführen]]
 * Iterative Entwicklung Upgrade-Drehbuch für Kunde
