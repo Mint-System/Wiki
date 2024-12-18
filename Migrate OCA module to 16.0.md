@@ -60,7 +60,7 @@ git commit -m "[IMP] $MODULE: pre-commit stuff"  --no-verify
 ```
 
 Follow [Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0#tasks-to-do-in-the-migration) to update the module.
-### Submission
+### Submit
 
 Finalize the migration.
 

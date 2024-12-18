@@ -7,7 +7,7 @@ tags:
 
 See [Migration to version 15.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-15.0) for details.
 
-### Preparation
+### Prepare
 
 Set configurations:
 
@@ -33,7 +33,7 @@ source task source
 cd oca/$REPO
 ```
 
-### Migration 
+### Migrate 
 
 Create the migration branch.
 
@@ -57,7 +57,7 @@ git commit -m "[IMP] $MODULE: black, isort, prettier"  --no-verify
 
 Follow [Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-15.0#tasks-to-do-in-the-migration) to update the module.
 
-### Submission
+### Submit
 
 Finalize the migration:
 

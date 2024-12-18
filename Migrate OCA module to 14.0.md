@@ -7,7 +7,7 @@ tags:
 
 See [Migration to version 14.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-14.0#howto) for details.
 
-### Preparation
+### Prepare
 
 Set configurations:
 
@@ -27,7 +27,7 @@ git submodule add -f -b 14.0 git@github.com:OCA/$REPO.git oca/$REPO
 cd oca/$REPO
 ```
 
-### Migration 
+### Migrate 
 
 Create the migration branch.
 
