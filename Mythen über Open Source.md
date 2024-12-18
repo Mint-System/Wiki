@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+draft: true
 ---
 
 # Mythen über Open Source

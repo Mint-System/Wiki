@@ -1,5 +1,6 @@
 ---
 tags:
-- Asset
+  - Asset
+draft: true
 ---
 # Aufbau einer Entwicklungsumgebung für Odoo

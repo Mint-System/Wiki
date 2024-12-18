@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+draft: true
 ---
 # Odoo ist kein ERP-System
 

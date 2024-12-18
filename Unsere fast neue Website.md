@@ -1,9 +1,8 @@
 ---
-draft: true
+draft: false
 ---
 # Unsere fast neue Website
-Und was es mit Static Sites auf sich hat.
-
+"Fast" im Sinne von Schnell.
 
 Wir haben eine neue Website! Wir hoffen Sie merken es nicht, weil diese sollte genau so aussehen wie vorher.
 

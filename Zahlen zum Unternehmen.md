@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+draft: true
 ---
 
 # Zahlen zum Unternehmen

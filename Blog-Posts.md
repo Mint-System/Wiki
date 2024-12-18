@@ -15,11 +15,8 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Bauteile mit Odoo zertifizieren]]\
 [[Odoo Monitoring mit Prometheus und Grafana]]\
 [[Aufbau einer Entwicklungsumgebung für Odoo]]\
-[[Lizenzmanagement mit Odoo]]\
-[[Unsere fast neue Website]]
-
-## Veröffentlicht
-
+[[Lizenzmanagement mit Odoo]]
+[[Unsere fast neue Website]]\
 [[Hack4SocialGood 2024]]\
 [[URec-Team]]\
 [[Von Bexio nach Odoo]]\

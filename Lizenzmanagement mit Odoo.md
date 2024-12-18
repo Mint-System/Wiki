@@ -1,5 +1,6 @@
 ---
 tags:
-- Asset
+  - Asset
+draft: true
 ---
 # Lizenzmanagement mit Odoo
