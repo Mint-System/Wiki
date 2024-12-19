@@ -21,6 +21,17 @@ export MODE=test # Options: test, production
 alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
 ```
 
+Env erstellen/bearbeiten `task edit-env $COMPANY` und aktuelle Verbindungsdaten eintragen:
+
+```bash
+ODOO_URL=https://erp.example.com
+ODOO_DATABASE=erp
+ODOO_USERNAME=login@mint-system.ch
+ODOO_PASSWORD=***
+```
+
+Verbindung testen mit `task test-jsonrpc`.
+
 Backup and download database from server.
 
 ```bash
@@ -112,6 +123,10 @@ Make new Odoo configurations.
 Update the language packages.
 
 Update or remove selected snippets.
+
+```bash
+task install-snippet $COMPANY path/to/snippet
+```
 
 ## Verify
 

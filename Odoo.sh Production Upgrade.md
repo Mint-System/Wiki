@@ -7,10 +7,9 @@ tags:
 
 ## Prepare
 
-Disable upgrade mode on `upgrade` branch
-## Restore
+Disable upgrade mode on `upgrade` branch.
 
-Create a backup on `main` branch
+Create a backup on `main` branch.
 ## Upgrade
 
 Enter upgrade mode on `main` branch.
