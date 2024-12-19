@@ -38,7 +38,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Den eigenen Login-Anbieter mit Keycloak]]\
 [[Der eigene Messenger für ihre Schule]]\
 [[Odoo Customizing ohne unvorhergesehene Upgradekosten]]\
-[[Spam reduzieren mit SPF, DKIM und DMARC]]\
+[[Spam reduzieren mit SPF, DKIM und DMARC]]
 
 ## Trash
 

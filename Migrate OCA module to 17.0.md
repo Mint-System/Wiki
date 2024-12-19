@@ -6,7 +6,7 @@ tags:
 # Migrate OCA module to 17.0
 
 See [Migration to version 17.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0) for details.
-### Prepare
+## Prepare
 
 Set env vars.
 
@@ -35,7 +35,7 @@ source task source
 cd oca/$REPO
 ```
 
-### Migrate 
+## Migrate 
 
 Create the migration branch.
 
@@ -60,7 +60,7 @@ git commit -m "[IMP] $MODULE: pre-commit stuff"  --no-verify
 ```
 
 Follow [Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0#tasks-to-do-in-the-migration) to update the module.
-### Submit
+## Submit
 
 Finalize the migration.
 
