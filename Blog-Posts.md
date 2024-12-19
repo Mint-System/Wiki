@@ -8,7 +8,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Entwurf
 
-[[Mythen über Open Source]]
+[[Mythen über Open Source]]\
 [[Zahlen zum Unternehmen]]\
 [[Wir sind Odoo Silberpartner]]\
 [[Odoo ist kein ERP-System]]\
@@ -16,9 +16,7 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Odoo Monitoring mit Prometheus und Grafana]]\
 [[Aufbau einer Entwicklungsumgebung für Odoo]]\
 [[Lizenzmanagement mit Odoo]]
-
-## Veröffentlicht
-
+[[Unsere fast neue Website]]\
 [[Hack4SocialGood 2024]]\
 [[URec-Team]]\
 [[Von Bexio nach Odoo]]\
@@ -44,4 +42,4 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 
 ## Trash
 
-[[Neuerungen in Odoo 15]]\
+[[Neuerungen in Odoo 15]]

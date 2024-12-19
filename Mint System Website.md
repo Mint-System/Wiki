@@ -4,8 +4,6 @@ tags:
 ---
 # Mint System Website
 
-Inhalte von unserer Website.
+Unsere Website wurde mit [[Hugo]] erstellt.
 
-## Odoo
-
-![[Odoo Dienstleistungen]]
+Repository: https://github.com/Mint-System/Website

@@ -27,3 +27,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Datenschutz]]
 * [[Richtlinie - Arbeitszeit]]
 * [[Richtlinien - Zeiterfassung]]
+* [[Richtlinie - Kommunikation]]

@@ -6,6 +6,8 @@ tags:
 
 ## Personal
 
+Arbeitsschritte:
+
 - Arbeitsvertrag erstellen
 - Anmeldung bei der Ausgleichskasse
 - Personalien erfassen
@@ -59,3 +61,11 @@ Arbeitsschritte:
 
 * Auschecken [[Ansible Build]] und [[Ansible Inventory]] Projekt
 * Auschecken [[Odoo Build]] Projekt
+
+### Website Profil aktualisieren
+
+Arbeitsschritte:
+
+* Foto von Mitarbeitenden erstellen und bearbeiten
+* Neue Mitarbeitenden-Eintrag in [[Mint System Website]] erstellen
+* In Odoo die offene Stelle anpassen

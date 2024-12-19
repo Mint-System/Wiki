@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+draft: true
 ---
 # Wir sind Odoo Silber-Partner
 
