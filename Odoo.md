@@ -50,7 +50,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 
 * [[Odoo Enterprise Upgrade]]
 * [[Odoo Community Upgrade]]
-* [[Odoo Eigenentwicklung]]
+* [[Odoo Eigenentwicklungen]]
 * [[Odoo Berichtsvorlagen entwickeln]]
 * [[Odoo Widgets]]
 * [[Odoo Reports]]

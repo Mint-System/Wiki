@@ -5,11 +5,13 @@ tags:
 ---
 # Odoo Enterprise Upgrade
 
-Description of the [[Odoo Enterprise Edition]] upgrade process.
+With the [[Odoo Enterprise Edition]] customer have access to the [[Odoo Upgrade Service]].
+
+A step by step guide to upgrade an [[Odoo Enterprise Edition]] using [[Odoo Build]].
 
 For new upgrades use this template: [[Upgrade Odoo XX.0]]
 
-These were the old upgrade strategies:
+These were the old upgrade scripts:
 
  * [[Odoo Upgrade from 13.0 to 14.0]]
  * [[Odoo Upgrade from 14.0 to 15.0]]
