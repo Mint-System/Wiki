@@ -1,8 +1,17 @@
 # Accounts
 
-Accounts der Mint System.
+Accounts der Mint System GmbH.
 
-[[OSS Directory]]: <https://www.ossdirectory.com/de/vendors/details/mint-system-gmbh>\
+## Directories
+
+[[OSS Directory]]: <https://www.ossdirectory.com/de/vendors/details/mint-system-gmbh>
+
+### Social Media
+
+[[Mastodon]]: <https://fosstodon.org/@mintsystem>
+
+## Entwicklung
+
 [[GitHub]]: <https://github.com/Mint-System/>\
 [[GitLab]]: https://gitlab.com/mint-system/\
 [[Codeberg]]: <https://codeberg.org/org/Mint-System/>
