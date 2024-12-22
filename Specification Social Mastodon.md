@@ -22,4 +22,4 @@ Activity/Pub and the Matrix-Protocol are important technologies. We bet on the d
 
 The integration should be done similar to other social media accounts:
 
-![[Specification Social Mastodo.excalidraw]]]
+![[Specification Social Mastodo.excalidraw]]
