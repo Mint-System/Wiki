@@ -56,6 +56,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Reports]]
 * [[Test Odoo Mail Flow]]
 * [[Odoo PaaS]]
+* [[Odoo Datenbank Manager]]
 
 ## Meta
 
