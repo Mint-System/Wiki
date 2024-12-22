@@ -10,7 +10,7 @@ States:
 * **Migrate**: Module migration is pending
 * **Doing**: Migration is in progress
 * **Review**: Review is requested
-* **Initialize**: PR needs to be updated or Module is ready to be initialized
+* **Init**: PR needs to be updated or Module is ready to be initialized
 * **Done**: The module is deployed and initialized in the upgrade environment
 * **Skip**: Functional validation not possible
 * **Missing**: The source of the module could be found
