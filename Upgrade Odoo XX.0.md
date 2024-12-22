@@ -125,9 +125,11 @@ task install-snippet "$COMPANY" path/to/snippet
 
 Test the upgraded system.
 
+Note any regressions.
+
 Run the test cases.
 
-Note any regressions.
+### Name of the test case
 
 ## Deploy
 
