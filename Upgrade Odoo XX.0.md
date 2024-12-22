@@ -10,15 +10,13 @@ tags:
 Set env vars.
 
 ```bash
-export ODOO_CURRENT_VERSION=XX.0
-export ODOO_TARGET_VERSION=XX.0
-export DATABASE=erp
-export NEW_DATABASE=${DATABASE}_${ODOO_TARGET_VERSION}
-export COMPANY=mint-system
-export POSTGRES_CONTAINER=postgres01
-export SERVER=zeus.mint-system.com
-export MODE=test # Options: test, production
-alias odoo-upgrade="python <(curl -s https://upgrade.odoo.com/upgrade)"
+export ODOO_CURRENT_VERSION="XX.0"
+export ODOO_TARGET_VERSION="XX.0"
+export DATABASE="erp"
+export NEW_DATABASE="${DATABASE}_${ODOO_TARGET_VERSION}"
+export COMPANY="mint-system"
+export POSTGRES_CONTAINER="postgres01"
+export SERVER="zeus.mint-system.com"
 ```
 
 Env erstellen/bearbeiten `task edit-env $COMPANY` und aktuelle Verbindungsdaten eintragen:
@@ -43,7 +41,7 @@ scp "$SERVER:/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" "tmp/$COMPANY/$DATABASE
 Checkout current Odoo environment.
 
 ```bash
-task checkout $ODOO_CURRENT_VERSION
+task checkout "$ODOO_CURRENT_VERSION"
 ```
 
 Install Python requirements.
@@ -61,51 +59,46 @@ docker-postgres-create -c db -d "$DATABASE"
 docker-postgres-restore -c db -f "tmp/$COMPANY/$DATABASE.sql"
 ```
 
+Remove or replace [[Unsupported Modules]].
+
+```bash
+task remove-module "$DATABASE" ...
+task init-module "$DATABASE" ...
+```
+
 Login and check the Odoo log.
 
 ```bash
 task start native "$DATABASE"
-```
-
-Remove or replace [[Unsupported Modules]].
-
-```bash
-task remove-module $DATABASE ...
-task init-module $DATABASE ...
-```
-
-Login and check the Odoo log.
-
-```
-task start native $DATABASE
 ```
 ## Upgrade
 
 Run the upgrade scripts.
 
 ```bash
-task clear-filestore $NEW_DATABASE
-task drop-db $NEW_DATABASE
-odoo-upgrade $MODE -d $DATABASE -t $ODOO_TARGET_VERSION -r $NEW_DATABASE
+task drop-db "$NEW_DATABASE"
+task clear-filestore "$NEW_DATABASE"
+task upgrade-odoo "$DATABASE" "$ODOO_TARGET_VERSION" "$NEW_DATABASE"
 ```
 
 Checkout target Odoo environment.
 
 ```bash
-task checkout $ODOO_TARGET_VERSION
+task checkout "$ODOO_TARGET_VERSION"
 ```
 
-Update all modules.
+Clear views and update all modules.
 
 ```bash
-task update-module $NEW_DATABASE base
+# task clear-views "$NEW_DATABASE"
+task update-module "$NEW_DATABASE" base
 ```
 
 Clear the browser cache and Odoo assets, then start the server.
 
 ```bash
-task clear-assets $NEW_DATABASE
-task start native $NEW_DATABASE
+task clear-assets "$NEW_DATABASE"
+task start native "$NEW_DATABASE"
 ```
 
 Login and check the Upgrade report.
@@ -115,7 +108,7 @@ Login and check the Upgrade report.
 Install new modules.
 
 ```bash
-task init-module $NEW_DATABASE ...
+task init-module "$NEW_DATABASE" ...
 ```
 
 Make new Odoo configurations.
@@ -125,7 +118,7 @@ Update the language packages.
 Update or remove selected snippets.
 
 ```bash
-task install-snippet $COMPANY path/to/snippet
+task install-snippet "$COMPANY" path/to/snippet
 ```
 
 ## Verify
@@ -141,13 +134,13 @@ Note any regressions.
 Export the new database.
 
 ```bash
-odoo-backup -d $NEW_DATABASE -o tmp/$COMPANY
+docker-postgres-backup -c db -d "$NEW_DATABASE" -o "tmp/$COMPANY"
 ```
 
 Deploy the upgraded database.
 
 Restore the upgraded database.
 
-Update proxy config.
+Copy the filestore.
 
 ## Troubleshooting
