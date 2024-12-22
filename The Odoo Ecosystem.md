@@ -30,7 +30,7 @@ Fabien Pinckaers - Odoo Founder & CEO[^1].
 
 * Based in Belgium
 * Coordinates Odoo development
-* Offers SaaS (Odoo Cloud) and PaaS (Odoo.sh)
+* Offers SaaS (Odoo Online) and PaaS (Odoo.sh)
 * Publishes certificates, learning material and more
 * Maintains the partner network
 
