@@ -4,4 +4,4 @@ tags:
 ---
 # Verkauf
 
-[[Angebot]]
+[[Angebot]] von Mint System.

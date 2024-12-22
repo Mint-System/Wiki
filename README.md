@@ -15,22 +15,22 @@ Sie ist als Git Repository unter <https://github.com/Mint-System/Wiki> abrufbar.
 Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang von Beziehungen. Jeder Wikilink zeigt auf einen Artikel, welcher wiederum andere Artikel verlinken kann.
 
 Dazu die wichtigsten Begriffe zum Einstieg:
+
 * [[Odoo]]
-* [[Prozesse]]
-* [[Infrastruktur]]
 * [[Methodik]]
+* [[Prozesse]]
 * [[Richtlinien]]
+* [[Infrastruktur]]
+* [[Technologien]]
 * [[Dokumente]]
-* [[Partner]]
 * [[Corporate Design]]
 * [[Tools]]
-* [[Links]]
-* [[Philosophie]]
+* [[Partner]]
 * [[Marketing]]
 * [[Verkauf]]
 * [[Unternehmensentwicklung]]
-* [[Technologien]]
-
+* [[Philosophie]]
+* [[Interne Links]]
 
 ## Struktur
 

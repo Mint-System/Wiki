@@ -1,7 +1,6 @@
 ---
 lang: en
 ---
-
 # Specification Website Sale Kubernetes Subscription OCA
 
 Context: Odoo shop for mint-cloud.ch

@@ -12,4 +12,5 @@ tags:
 [[Datenschutzrichtlinie]]\
 [[Service Level Agreement Hosting]]\
 [[Wartungsvertrag]]\
-[[Auftragsverarbeitungsvertrag]]
+[[Auftragsverarbeitungsvertrag]]\
+[[Technische Spezifikationen]]

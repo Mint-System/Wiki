@@ -2,11 +2,11 @@
 tags:
 - Definition
 ---
-# Links
+# Interne Links
 
 Die wichtigsten Links der Mint System.
 
-## Mint System
+## Office
 
 [ERP Mint System](https://erp.mint-system.ch)
 
@@ -20,9 +20,7 @@ Die wichtigsten Links der Mint System.
 
 [Login Realm Mint System](https://login.mint-system.ch/auth/realms/mint-system.ch/account/)
 
-[Zeiterfassungs App](https://erp.mint-system.ch/project_timesheet_synchro/timesheet_app)
-
-## Development
+## Technisch
 
 [Monitoring Mint System](https://monitor.mint-system.ch)
 
@@ -31,7 +29,3 @@ Die wichtigsten Links der Mint System.
 [GitLab Mint System](https://gitlab.com/mint-system)
 
 [Login Mint System](https://login.mint-system.ch)
-
-[Monitoring Dashboard Node Stats and Alerts](https://monitor.mint-system.ch/d/000000012/node-stats-and-alerts?orgId=1&from=1591106500163&to=1591711300164)
-
-[Transifex Mint System](https://www.transifex.com/mint-system)
