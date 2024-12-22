@@ -38,3 +38,7 @@ Monitoring:
 Qualitätsmanagent:
 
 * [[SBOM]]
+
+Mail:
+
+* [[Mailpit]]
