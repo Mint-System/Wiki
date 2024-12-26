@@ -2,15 +2,16 @@
 tags:
 - Definition
 ---
-# Odoo Eigenentwicklung
+# Odoo Eigenentwicklungen
 
-Odoo dient auch als Entwicklungsframework für Geschäftsapplikationen.
+Odoo kann als Entwicklungsframework für jegliche Art von Geschäftsapplikationen verwendet werden.
 
-Ein denkbarer Ansatz ist mit [[Odoo Studio]] ein Prototyp der Applikation zu erstellen und anschliessen, diese als [[Odoo Modul]] umzusetzen.
+Der Vorgehehen ist mit [[Odoo Studio]] ein Prototyp der Applikation zu erstellen und diesen nach Validierung als [[Odoo Modul]] umzusetzen.
 
-Die Mint System entwickelt ein [[Odoo Entwicklungsumgebung]]
+Die Mint System bietet dazu eine [[Odoo Entwicklungsumgebung]].
 
 Vorteile Entwicklung einer Applikation im Kontext von Odoo:
+
 * Benutzer- und Zugriffsverwaltung durch Odoo
 * Verküpfung mit allen Odoo-Entitäten
 * Vordefinierte Elemente für UI
