@@ -2,11 +2,12 @@
 tags:
 - Definition
 ---
-# OpenEnduca
+# OpenEduca
 
 ## Einleitung
 
- Bildung für Alle  
+Bildung für Alle.
+
 Bildung muss frei verfügbar sein.
 
 Frei verfügbare Bildung heisst für uns:
@@ -18,7 +19,6 @@ Freie Software-Anwendungen. Software-Anwendungen für den Unterricht ohne Lizenz
 Für Lernsysteme/-werkzeuge wird Software genutzt, deren Quellcode zugänglich ist. Sie steht lizenzkostenfrei zur Verfügung. Dank standardisierten Schnittstellen lassen sich diese Systeme gut kombinieren.
 
 Das Webportal openeduca.ch ist ein Angebot der Mint System GmbH. Wir bieten Informationen zu freien Lerninhalten und Dienstleistungen für Software-Lösungen im Schulunterricht.
-
 
 ## Vision
 
