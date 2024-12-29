@@ -1,5 +1,6 @@
 ---
 lang: en
+draft: true
 ---
 # Odoo.sh Upgrade Scripts
 
