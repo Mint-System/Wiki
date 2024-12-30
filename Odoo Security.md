@@ -7,7 +7,7 @@ tags:
 
 Odoo verwaltet besonderns schützenswerte Daten und ist zugleich über das Internet erreichbar. Das setzt besondere Anforderungen an die Security voraus.
 
-Für die Sicherheit der Software trägt [[Odoo S.A.]] die Verantwortung: <https://www.odoo.com/de_DE/security>
+Für die Sicherheit der Software trägt [[Odoo S.A.]] die Verantwortung: <https://www.odoo.com/de_DE/security>.
 
 Für das Odoo-Hosting trägt die [[Mint System GmbH]] die Verantwortung.
 
@@ -25,4 +25,6 @@ Die Berechtigungsstrukturen in Odoo sind sehr strikt. Auch wenn ein Unbefugte Zu
 
 **Sicherheitslücken**
 
-Die Odoo Imgebung wird regelmässig aktualisiert. Dadurch werden die grössten [[OWASP-Sicherheitslücken]] mitigiert. Eine Ausführung dazu gibt es hier: <https://www.odoo.com/de_DE/security#owasp>
+Die Odoo Imgebung wird regelmässig aktualisiert. Dadurch werden die grössten [[OWASP-Sicherheitslücken]] mitigiert. Eine Ausführung dazu gibt es hier: <https://www.odoo.com/de_DE/security#owasp>.
+
+Enterprise-Kunden werden über Sicherheitslücken über die [[Odoo Security Advisory]] benachrichtigt.

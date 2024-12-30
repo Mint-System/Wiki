@@ -4,7 +4,7 @@ tags:
 ---
 # CVE
 
-Common Vulnerabilities and Exposures
+Common Vulnerabilities and Exposures.
 
 ## List
 
