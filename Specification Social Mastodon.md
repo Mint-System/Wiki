@@ -23,3 +23,9 @@ Activity/Pub and the Matrix-Protocol are important technologies. We bet on the d
 The integration should be done similar to other social media accounts:
 
 ![[Specification Social Mastodo.excalidraw]]
+
+### Out of Scope
+
+The following features are Out of Scope:
+
+- Mentioning other accounts in the post
