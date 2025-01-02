@@ -6,7 +6,7 @@ lang: en
 
 Connect Odoo with one or more Mastodon accounts. Publish social media posts on mastodon.
 
-Target Versoin: 16.0
+Target Version: 16.0
 
 Technical name: `social_mastodon`
 
