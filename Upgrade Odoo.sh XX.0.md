@@ -5,20 +5,16 @@
 Set env vars.
 
 ```bash
-export DATABASE=gelsoag-upgrade-17425638
-export COMPANY="mint-system"
+export COMPANY="gelso"
+export ODOO_URL=https://$DATABASE.dev.odoo.com
+export ODOO_DATABASE="gelsoag-upgrade-17425638"
+export ODOO_USERNAME=login@mint-system.ch
+export ODOO_PASSWORD=***
 ```
 
-Create and edit env file `task edit-env $COMPANY`. Enter connection credentials:
+Create credentials file with `task create-odoo-env "$COMPANY"`.
 
-```bash
-ODOO_URL=https://$DATABASE.dev.odoo.com
-ODOO_DATABASE=$DATABASE
-ODOO_USERNAME=login@mint-system.ch
-ODOO_PASSWORD=***
-```
-
-Test connection with `task test-jsonrpc $COMPANY`.
+Test connection with `task test-jsonrpc "$COMPANY"`.
 
 Backup database in Odoo.sh project.
 
