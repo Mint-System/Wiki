@@ -6,8 +6,8 @@ Set env vars.
 
 ```bash
 export COMPANY="gelso"
-export ODOO_URL=https://$DATABASE.dev.odoo.com
 export ODOO_DATABASE="gelsoag-upgrade-17425638"
+export ODOO_URL=https://$ODOO_DATABASE.dev.odoo.com
 export ODOO_USERNAME=login@mint-system.ch
 export ODOO_PASSWORD=***
 ```
@@ -26,14 +26,15 @@ Login and check the Upgrade report.
 
 ## Configure
 
-Install or remove modules in Odoo.sh shell.
+Install, update or remove modules in Odoo.sh shell.
 
 ```bash
-odoo-bin -i module_name
+odoo-bin --stop-after-init -i $MODULE_NAME
+odoo-update $MODULE_NAME
+echo "self.env['ir.module.module'].search([('name', '=', '$MODULE_NAME')]).button_immediate_uninstall()" | odoo-bin shell
 ```
 
 Make new Odoo configurations.
-
 
 Install, update, disable or remove selected snippets.
 
