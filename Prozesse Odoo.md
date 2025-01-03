@@ -28,7 +28,7 @@ Verantwortlich: [[Janik von Rotz]]
 
 * [[Prozesse Odoo - Upgrade Angebot]]
 * [[Prozesse Odoo - Upgrade Implementation]]
-
+* [[Process Odoo.sh - Upgrade Implementation]]
 ## Odoo Apps
 
 Baisieren auf der [[Vorlage Prozesse Odoo]].

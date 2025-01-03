@@ -5,10 +5,13 @@ tags:
 ---
 # Odoo.sh Upgrade
 
-[[Odoo.sh]] provides a custom workflow to execute the upgrade porcess.
+[[Odoo.sh]] provides a custom workflow to execute the upgrade process. 
 
-To run a test upgrade have a look at this guide: [[Odoo.sh Test Upgrade]].
+To start the upgrade process you need to [[Process Odoo.sh - Upgrade Implementation#Setup upgrade branch]].
 
-Develope [[Odoo.sh Upgrade Scripts]].
+For new upgrades use this template: [[Upgrade Odoo.sh XX.0]]
 
-The production upgrade is documented here: [[Odoo.sh Production Upgrade]].
+Once the upgrade script run flawlessly, you can plan the production upgrade:
+
+* Define a date for production upgrade
+* Execute the upgrade and ensure a rollback is possible

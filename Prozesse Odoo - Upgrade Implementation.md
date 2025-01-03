@@ -16,15 +16,17 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Auf Server einloggen `ssh $ALIAS.mint-system.com`
 * Modulliste generieren `docker-odoo-cloc -c $CONTAINER -d $DATABASE`
-* Modulliste als Issue "Migrate Modules XX.0" erfassen
+* Modulname aus Konsole kopieren und filtern
+* Vorlage "Migrate Modules XX.0" kopieren
+* Modulnamen einfügen
 
 ## Module prüfen
 
 Arbeitsschritte:
 * Lokale Entwicklungssumgebung bereitstellen ([[Odoo Build]])
-* Jedes Modul in Modulliste prüfen und bei Bedarf migrieren
-* Module paketieren und veröffentlichen
-* Bereitstellen auf neuer Odoo-Umgebung
+* Jedes Modul anhand <https://odoo.build/modules.html> prüfen
+* Bei Bedarf das Modul migrieren
+* Bereitstellen Modul auf neuer Odoo-Umgebung
 
 ## Prozess entwickeln
 

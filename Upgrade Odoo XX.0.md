@@ -19,17 +19,6 @@ export POSTGRES_CONTAINER="postgres01"
 export SERVER="zeus.mint-system.com"
 ```
 
-Env erstellen/bearbeiten `task edit-env $COMPANY` und aktuelle Verbindungsdaten eintragen:
-
-```bash
-ODOO_URL=https://erp.example.com
-ODOO_DATABASE=erp
-ODOO_USERNAME=login@mint-system.ch
-ODOO_PASSWORD=***
-```
-
-Verbindung testen mit `task test-jsonrpc`.
-
 Backup and download database from server.
 
 ```bash
@@ -62,8 +51,8 @@ docker-postgres-restore -c db -f "tmp/$COMPANY/$DATABASE.sql"
 Remove or replace [[Unsupported Modules]].
 
 ```bash
-task remove-module "$DATABASE" ...
-task init-module "$DATABASE" ...
+task remove-module "$DATABASE" module_name
+task init-module "$DATABASE" module_name
 ```
 
 Login and check the Odoo log.
@@ -105,20 +94,24 @@ Login and check the Upgrade report.
 
 ## Configure
 
-Install new modules.
+Install or remove modules.
 
 ```bash
-task init-module "$NEW_DATABASE" ...
+task init-module "$NEW_DATABASE" module_name
+task remove-module "$NEW_DATABASE" module_name
 ```
 
 Make new Odoo configurations.
 
 Update the language packages.
 
-Update or remove selected snippets.
+Install, update, disable or remove selected snippets.
 
 ```bash
 task install-snippet "$COMPANY" path/to/snippet
+task update-snippet "$COMPANY" path/to/snippet
+task disable-snippet "$COMPANY" path/to/snippet
+task remove-snippet "$COMPANY" path/to/snippet
 ```
 
 ## Verify
