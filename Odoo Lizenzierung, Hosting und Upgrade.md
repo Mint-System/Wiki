@@ -13,3 +13,5 @@ Die folgende Grafik soll einen Überblick über die Lizenzierung, Upgrade-Dienst
 [3]: Das Angebot im Detail: [[Managed Server]]
 
 [4]: Pricing für Odoo.sh: <https://www.odoo.sh/pricing>
+
+[5]: Details zur Dienstleistung: [[Odoo Upgrade]]
