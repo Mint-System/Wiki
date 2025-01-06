@@ -80,7 +80,7 @@ Clear views and update all modules.
 
 ```bash
 # task clear-views "$NEW_DATABASE"
-task update-module "$NEW_DATABASE" base
+task update-module "$NEW_DATABASE" all
 ```
 
 Clear the browser cache and Odoo assets, then start the server.

@@ -78,5 +78,5 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Maintained Odoo Apps]]
 * [[Odoo Finanzen Treuhänder]]
 * [[Odoo Perfomance]]
-* [[Odoo Lizenzierung und Hosting]]
+* [[Odoo Lizenzierung, Hosting und Upgrade]]
 * [[Odoo Editionen]]
