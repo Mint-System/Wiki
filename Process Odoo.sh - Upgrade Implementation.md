@@ -24,3 +24,27 @@ Whenever a commit is done on this branch Odoo.sh will apply the upgrade scripts.
 
 * Add the git submodules to the repository
 * Once all required Odoo modules are available start testing with the customer
+
+## Submodul aktualisieren
+
+Arbeitsschritte:
+
+* Klonen Sie das Odoo.sh Git Repo
+* Klonen Sie die Submodule `git submodule update --init`
+* Öffnen Sie das Odoo.sh Git Repo in VSCode
+* Aktualisieren Sie ein ausgewähltes Submodul
+
+![[Odoo.sh Submodule.png]]
+
+```bash
+cd odoo-apps-manufacture
+git switch 16.0
+git pull
+```
+
+* Committen Sie die Änderung im Git Repo
+
+```bash
+git add doo-apps-manufacture
+git commit -m "feat: odoo-apps-manufacture"
+```
