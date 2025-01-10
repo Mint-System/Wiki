@@ -80,6 +80,13 @@ task git-submodule-switch 16.0
 task git-submodule-pull
 ```
 
+Rebrand.
+
+```
+sed -i 's/Mint System/Sozialinfo/g' README.md
+sed -i 's/Mint-System/Sozialinfo/g' README.md
+```
+
 Alles committen.
 
 ```bash
