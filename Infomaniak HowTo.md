@@ -11,3 +11,17 @@ tags:
 ![[Infomaniak Autoresponder einschalten.png]]
 
 Infomaniak generiert automatisch eine Abwesenheitsnachricht.
+
+## VPS Memory anpassen
+
+In der Produktverwaltung wählen Sie *Cloud Computing > VPS* und den entsprechenden Server.
+
+ImTab *Informationen* klicken Sie bei den Spezifikationen auf *Bearbeiten*.
+
+![[Infomaniak VPS.png]]
+
+Nun öffnet sich der Shop mit dem Produkt-Konfigurator. Hier wählen Sie eine neue Server-Konfiguration aus.
+
+![[Infomaniak Product Configuration.png]]
+
+Schliessen Sie den Vorgang ab.
