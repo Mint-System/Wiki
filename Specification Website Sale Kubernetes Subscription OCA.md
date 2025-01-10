@@ -133,7 +133,7 @@ classDiagram
 
 description:
 
-Add <https://github.com/kubernetes-client/python>﻿
+Add <https://github.com/kubernetes-client/python>.﻿
 Setup connection to Kubernetes cluster.
 Define deployment and service manifests.
 Setup product tab to select manifests.

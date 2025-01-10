@@ -22,7 +22,7 @@ Arbeitsschritte:
 Arbeitsschritte:
 
 * Mitarbeiter-Eintrag in Wiki erfassen
-* E-Mail-Account anlegen
+* Infomaniak E-Mail-Account anlegen
 * Matrix-Benutzer erstellen
 * Keycloak-Benutzer anlegen
 * Zugriffsdaten schicken
@@ -37,6 +37,7 @@ Arbeitsschritte:
 * Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
 * Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
 * Auf [[Hetzner]] den SSH-Schlüssel speichern
+* Infomaniak Account dem Team "Mint System GmbH" hinzufügen
 
 ### Desktop einrichten
 
