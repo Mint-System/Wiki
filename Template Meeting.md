@@ -4,14 +4,19 @@ tags:
 ---
 # Template Meeting
 
-Datum: DATE:YYYY-MM-DD\
-Teilnehmer: <mark>Name</mark>
+```markdown
+---
+date: {{ DATE:YYYY-MM-DD }}
+participants:
+---
+
+# {{NAME}}
 
 ## Input
 
 Folgende Themen werden besprochen:
 
-*  <mark>Punkt 1</mark>
+* <mark>Punkt 1</mark>
 * <mark>Punkt 2</mark>
 
 ## Notizen
@@ -21,3 +26,5 @@ Folgende Themen werden besprochen:
 <mark>Aufgaben für die Nachbearbeitung:</mark>
 
 - [ ] Zu erledigen @Person/Org
+
+```

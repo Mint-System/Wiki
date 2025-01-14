@@ -4,8 +4,13 @@ tags:
 ---
 # Template Worklog
 
-Datum: DATE:YYYY-MM-DD\
-Author: <mark>Name</mark>
+```markdown
+---
+date: {{ DATE:YYYY-MM-DD }}
+author:
+---
+
+# {{NAME}}
 
 ## Vorbereiten
 
@@ -13,3 +18,4 @@ Author: <mark>Name</mark>
 
 ## Verifizieren
 
+```

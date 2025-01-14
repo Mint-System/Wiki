@@ -4,15 +4,26 @@ tags:
 ---
 # Template Issue
 
-State: <mark>Open/Resolved</mark>\
-Datum: DATE:YYYY-MM-DD\
-Author:  <mark>Name</mark>
+```markdown
+---
+state: open
+date: {{ DATE:YYYY-MM-DD }}
+author:
+---
+
+# {{NAME}}
+
 ## Problem
 
 <mark>What is the problem? How can the problem be reproduced?</mark>
+## Analysis
+
+<mark>Document the problem analysis here.</mark>
 ## Workaround
 
-<mark>Is there a workaround?</mark>
+<mark>Describe a possible workaround here.</mark>
 ## Solution
 
-<mark>What is the solution to the problem?</mark>
+<mark>What was the solution to the problem?</mark>
+
+```
