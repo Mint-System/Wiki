@@ -6,7 +6,7 @@ tags:
 
 ```markdown
 ---
-date: {{ DATE:YYYY-MM-DD }}
+date:
 participants:
 ---
 

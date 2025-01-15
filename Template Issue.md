@@ -7,7 +7,7 @@ tags:
 ```markdown
 ---
 state: open
-date: {{ DATE:YYYY-MM-DD }}
+date:
 author:
 ---
 
