@@ -22,7 +22,7 @@ export SERVER="zeus.mint-system.com"
 Backup and download database from server.
 
 ```bash
-ssh $SERVER sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
+ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
 mkdir -p "tmp/$COMPANY"
 scp "$SERVER:/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" "tmp/$COMPANY/$DATABASE.sql"
 ```
@@ -67,7 +67,7 @@ Run the upgrade scripts.
 ```bash
 task drop-db "$NEW_DATABASE"
 task clear-filestore "$NEW_DATABASE"
-task upgrade-odoo "$DATABASE" "$ODOO_TARGET_VERSION" "$NEW_DATABASE"
+task upgrade-odoo "$DATABASE" "$ODOO_TARGET_VERSION" production
 ```
 
 Checkout target Odoo environment.
