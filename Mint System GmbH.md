@@ -14,8 +14,6 @@ Domains:
 - openeduca.ch
 - opensourcesoftware.ch
 
-Internes Kürzel: ms
-
 UID: CHE-150.248.608
 
 Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]]
@@ -37,3 +35,15 @@ Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]]
 ## Zahlungsinformationen
 
 CHF ISR Subscription Number: 01-013066-4
+
+## Schreibweise
+
+Name des Unternehmens: Mint System
+
+Rechtlicher Name des Unternehmens: Mint System GmbH
+
+Name in Urls: Mint-System oder mint-system
+
+Alternativer Name in Urls: mintsystem
+
+Kürzel: MS oder ms

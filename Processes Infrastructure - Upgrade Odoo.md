@@ -23,7 +23,7 @@ Working steps:
 ```
 Guten Tag
 
-Diese Odoo Installation wird in der nächsten Stunde von Version 16.0 auf 17.0 aktualisiert.
+Diese Odoo Installation wird innerhalb der nächsten zwei Stunden von Version 16.0 auf 18.0 aktualisiert.
 
 Wir bitten Sie während dieser Zeit keine Bearbeitungen in Odoo vorzunehmen. Alle Änderungen ab jetzt werden nicht in der aktualisierten Odoo Installation sein.
 
