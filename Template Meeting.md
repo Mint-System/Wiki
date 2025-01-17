@@ -9,7 +9,6 @@ tags:
 date:
 participants:
 ---
-
 # {{NAME}}
 
 ## Input

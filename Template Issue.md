@@ -10,7 +10,6 @@ state: open
 date:
 author:
 ---
-
 # {{NAME}}
 
 ## Problem

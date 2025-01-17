@@ -4,8 +4,13 @@ tags:
 - Templates
 ---
 # Template Report on Odoo Customization
-Author: [[Janik von Rotz]]\
-Date: YYYY-MM-DD
+
+```markdown
+---
+date:
+autor:
+---
+# Report on Odoo Customization
 
 The report is for the Odoo project <https://example.com>.
 
@@ -66,3 +71,4 @@ Each metric is rated by problematic, bad, good or excellent.
 | Quality of Edits | bad         |         |
 
 The customization done with Odoo Studio are problematic. The key question is who is taking responsibility of the edits during an Odoo upgrade.
+```

@@ -9,7 +9,6 @@ tags:
 date:
 author:
 ---
-
 # {{NAME}}
 
 ## Vorbereiten
