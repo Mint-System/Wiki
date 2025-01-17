@@ -76,13 +76,6 @@ Checkout target Odoo environment.
 task checkout "$ODOO_TARGET_VERSION"
 ```
 
-Clear views and update all modules.
-
-```bash
-# task clear-views "$NEW_DATABASE"
-task update-module "$NEW_DATABASE" all
-```
-
 Clear the browser cache and Odoo assets, then start the server.
 
 ```bash
@@ -114,7 +107,7 @@ task disable-snippet "$COMPANY" path/to/snippet
 task remove-snippet "$COMPANY" path/to/snippet
 ```
 
-## Verify
+## Testing
 
 Test the upgraded system.
 
@@ -134,8 +127,33 @@ docker-postgres-backup -c db -d "$NEW_DATABASE" -o "tmp/$COMPANY"
 
 Deploy the upgraded database.
 
+```bash
+scp "tmp/$COMPANY/db/$NEW_DATABASE.sql" "$SERVER:~"
+```
+
 Restore the upgraded database.
 
+```bash
+ssh "$SERVER" 
+DATABASE=erp-dev
+NEW_DATABASE=erp_18.0
+POSTGRES_CONTAINER=postgre01
+docker-postgres-restore -f "$NEW_DATABASE" -c "$POSTGRES_CONTAINER" -d "$DATABASE" -r
+```
+
 Copy the filestore.
+
+```bash
+ODOO_CONTAINER=odoo01
+SOURCE_DATABASE=erp
+docker-volume-copy -s "$ODOO_CONTAINER:/filestore/$SOURCE_DATABASE" -t "$ODOO_CONTAINER:/filestore/$DATABASE" -f
+docker exec -u root "$ODOO_CONTAINER" chown -R odoo:odoo "/var/lib/odoo/filestore/$DATABASE"
+```
+
+Update all modules.
+
+```bash
+docker-odoo-update -c "$ODOO_CONTAINER" -d "$DATABASE" -u base
+```
 
 ## Troubleshooting

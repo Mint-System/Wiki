@@ -44,7 +44,7 @@ task update-snippet "$COMPANY" path/to/snippet
 task disable-snippet "$COMPANY" path/to/snippet
 task remove-snippet "$COMPANY" path/to/snippet
 ```
-## Verify
+## Testing
 
 Test the upgraded system.
 

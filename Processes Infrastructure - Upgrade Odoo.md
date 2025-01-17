@@ -40,7 +40,7 @@ Guten Tag
 
 Das Odoo Upgrade war erfolgreich.
 
-Den Odoo Upgrade Bericht finden Sie unter "Diskussion > Kanäle > Administrators".
+Den Odoo Upgrade Bericht finden Sie unter "Dialog > Kanäle > Administrators".
 
 Wir bitten Sie die Odoo Installation zu verfizieren und allfällige Fehler zu melden.
 
