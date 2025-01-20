@@ -2,6 +2,7 @@
 tags:
   - Specification
 lang: en
+draft: true
 ---
 
 # Specification Subscription OCA Open Service Broker

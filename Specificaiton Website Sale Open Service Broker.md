@@ -2,6 +2,7 @@
 lang: en
 tags:
   - Specification
+draft: true
 ---
 # Specificaiton Website Sale Open Service Broker
 

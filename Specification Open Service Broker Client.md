@@ -2,6 +2,7 @@
 tags:
   - Specification
 lang: en
+draft: true
 ---
 # Specification Open Service Broker Client
 
