@@ -1,6 +1,6 @@
 ---
 tags:
-  - Defintion
+  - Definition
 ---
 # Velo Manufaktur
 

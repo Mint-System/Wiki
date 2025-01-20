@@ -76,11 +76,6 @@ Ein einmaliger Betrag an diese Partner ausbezahlt:
 - Uri Cloud für den Koordinationsauftrag
 ## Spezifikation
 
-Die Spezifikation der Uri Cloud ist anlog der [[Mint Cloud Spezifikation]].
-
-## Technisch
-### Central Control Plane
-
-Die Uri Cloud interagiert mit der [[VSHN Central Control Plane]].
+Die [[Specification Uri Cloud]] ist eine Weiterentwicklung der [[Spezifikation Mint Cloud]].
 
 Die Kuberenetes Cluster müssen von VSHN erstellt werden.

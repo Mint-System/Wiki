@@ -18,4 +18,4 @@ Domains:
 - minthosting.ch
 - mint-cloud.eu
 
-Siehe [[Wartungsauftrag]], [[Mint Cloud Spezifikation]].
+Siehe [[Wartungsauftrag]], [[Spezifikation Mint Cloud]].

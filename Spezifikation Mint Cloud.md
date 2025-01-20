@@ -1,5 +1,9 @@
+---
+tags:
+  - Spezifikation
+---
 
-# Mint Cloud Spezifikation
+# Spezifikation Mint Cloud
 
 Die Mint Cloud Hosting-Platform basiert auf Odoo und Kubernetes.
 

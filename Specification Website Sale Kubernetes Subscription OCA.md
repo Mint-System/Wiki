@@ -1,5 +1,7 @@
 ---
 lang: en
+tags:
+  - Specification
 ---
 # Specification Website Sale Kubernetes Subscription OCA
 
