@@ -32,7 +32,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Enyo       | Server webkeeper GmbH                    | `enyo.mint-system.com`     | Off-Premise |
 | Eos        | Server Aersolution Interior AG           | `odoo.aersolution.com`     | Off-Premise |
 | Eris       | Nextcloud  Abächerli Forstunternehmen AG | `eris.mint-system.com`     | Hetzner     |
-| Eros       | Keycloak-Server Sozialinfo               | `eros.mint-system.com`     | Infomaniak  |
+| Eros<br>   | Keycloak-Server Sozialinfo               | `eros.mint-system.com`     | Infomaniak  |
 | Gaia       | Server Brunner Elektronik AG             | `gaia.mint-system.com`     | Off-Premise |
 | Hebe       | Server Localfish AG                      | `hebe.mint-system.com`     | Hetzner     |
 | Helios     | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
@@ -61,12 +61,13 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | [[Hermes]] | Demo Mint System GmbH                    | `hermes.mint-system.com`   | Hetzner     |
 | Phanes     | Server Valperca S.A.                     | `phanes.mint-system.com`   | Hetzner     |
 
+
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
 
+* Zelus
 * Koios
 * Asteria
 * Perses
 * Geras
-* Zelus (soon to be removed)
