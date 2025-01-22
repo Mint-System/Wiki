@@ -9,11 +9,11 @@ tags:
 Arbeitsschritte:
 
 * Navigation in das Submodule `cd addons/$REPO`
-* Neuer Branch erstellen `git switch --orphan $BRANCH`
+* Neuer Branch erstellen `git switch --orphan $TARGET_VERSION`
 * Alle Dateien entfernen `rm -rf ./*`
-* Template-Dateien kopieren `cp -r ../../templates/$BRANCH/. .`
+* Template-Dateien kopieren `cp -r ../../templates/$TARGET_VERSION/. .`
 * Die `README.md` Datei aktualisieren.
-* Änderungen committen `git add --all; git commit -m "feat: init $BRANCH"; git push --set-upstream origin $BRANCH"`
+* Änderungen committen `git add --all; git commit -m "feat: init $TARGET_VERSION"; git push --set-upstream origin $TARGET_VERSION"`
 * Submodule auf Odoo Build hinzufügen `task git-submodule-add git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO`
 * Änderungen auf Odoo Build committen
 * Register repo to <https://apps.odoo.com/apps/dashboard/repos>
@@ -22,6 +22,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
+* In Odoo-Build die neue Odoo Version auschecken `task checkout $TARGET_VERSION`
 * Navigation in das Submodule-Repo `cd addons/$REPO`
 * Auschecken Modul von vorhergehender Version `git checkout $SOURCE_VERSION $MODULE`
 * Modul-Version in `__manifest__.py` aktualisieren
