@@ -1,11 +1,10 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Janik von Rotz
 ---
 # Prozesse Infrastruktur
 Dokumentation der Infrastruktur Prozesse.
-
-Verantwortlich: [[Janik von Rotz]]
 
 ## Bestellung
 

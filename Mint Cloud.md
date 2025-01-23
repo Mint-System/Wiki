@@ -1,6 +1,6 @@
 ---
 tags:
-- Assets
+  - Asset
 ---
 # Mint Cloud
 

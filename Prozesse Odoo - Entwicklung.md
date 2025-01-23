@@ -1,9 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Janik von Rotz
 ---
 # Prozesse Entwicklung
 
 Dokumentation der Entwicklungs-Prozesse.
-
-Verantwortlich: [[Janik von Rotz]]

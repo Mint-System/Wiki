@@ -1,11 +1,10 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Kurt Gisler
 ---
 # Prozesse Hardware
 
 Dokumentation der Hardware-Prozesse.
-
-Verantwortlich: [[Kurt Gisler]]
 
 * [[Prozesse Hardware - Terminal Zeiterfassung]]

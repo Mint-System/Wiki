@@ -1,6 +1,6 @@
 ---
 tags:
-- Assets
+  - Asset
 ---
 # Wartungsauftrag
 Revision: 2024-02-14

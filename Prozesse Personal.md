@@ -1,12 +1,11 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Janik von Rotz
 ---
 # Prozesse Personal
 
 Dokumentation der Personal-Prozesse.
-
-Verantwortlich: [[Janik von Rotz]]
 
 * [[Prozesse Personal - Bewerbung]]
 * [[Prozesse Personal - Onboarding]]

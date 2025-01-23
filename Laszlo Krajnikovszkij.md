@@ -1,10 +1,10 @@
 ---
 tags:
-- Definition
+  - Definition
+responsibilities:
+  - Infrastruktur
 ---
 # Laszlo Krajnikovszkij
-
-Verantwortlich: [[Infrastruktur]]
 
 Benutzername: `laszlokr`\
 Alias: `lkr`\

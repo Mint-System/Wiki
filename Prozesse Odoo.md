@@ -1,12 +1,11 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Janik von Rotz
 ---
 # Prozesse Odoo
 
 Technische Dokumentation der Odoo Prozesse.
-
-Verantwortlich: [[Janik von Rotz]]
 
 ## Bereitstellung
 

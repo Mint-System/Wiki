@@ -1,6 +1,6 @@
 ---
 tags:
-- Assets
+  - Asset
 ---
 # Odoo Revisionen
 

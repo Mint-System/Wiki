@@ -1,12 +1,11 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Kurt Gisler
 ---
 # Prozesse Projektmanagement
 
 Dokumentation der Projektmanagement Prozesse.
-
-Verantwortlich: [[Kurt Gisler]]
 
 ```mermaid
 graph LR;
