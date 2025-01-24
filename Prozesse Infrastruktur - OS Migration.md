@@ -25,10 +25,10 @@ fstab_mounts:
 * Umgebungsvariable festlegen:
 
 ```bash
-export ALIAS=kronos
+export ALIAS=
 ```
 
-* Anzeige Server in Hetzner-Cloud-Konsole
+* Anzeige Server in Cloud-Konsole
 * Server herunterfahren
 * Server mit aktuellem Debian Image neu erstellen
 
@@ -49,7 +49,7 @@ ansible-playbook -i inventories/setup plays/setup.yml -l $ALIAS -u root
 ssh $ALIAS.mint-system.com sudo reboot
 ```
 
-* Alle Container mit Ansible deployen:
+* Alle Container mit Ansible neu deployen:
 
 ```bash
 ansible-playbook -i inventories/setup plays/all.yml -l $ALIAS

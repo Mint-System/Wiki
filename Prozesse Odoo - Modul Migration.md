@@ -32,8 +32,11 @@ Arbeitsschritte:
 * README aktualisieren `task update-readme addons/$REPO/README.md`
 * Modul linten und anpassen `task lint`
 * Migration committen `git add --all; git commit -m "feat: migrate $MODULE"`
-* Pull-Request erstellen und Review beantragen `gh pr create`
-* Wenn PR gemerged ist, das Submodule-Repo deployen
+* Optional Pull-Request erstellen:
+	* Feature branch erstellen `git switch -c mig-$MODULE`
+	* Und mit dem CLI einen PR erstellen `gh pr create`
+	* Wenn PR gemerged ist, das Submodule-Repo deployen
+* Änderungen pushen `git push`
 
 ## Mint System Fork für OCA-Repo erstellen
 
