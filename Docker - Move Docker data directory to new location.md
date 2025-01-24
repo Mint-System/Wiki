@@ -28,15 +28,11 @@ And set the data root:
 }
 ```
 
-Copy the current directory to the new directory.
+Copy the current docker directory to the new directory.
 
 ```bash
-cp -av /var/lib/docker /mnt/sdb/docker
+rsync -aP /var/lib/docker/ /mnt/sdb/docker
 ```
-
-::: warning
-Rerunning this copy command will copy the docker folder into the target docker folder.
-:::
 
 Rename the old directory.
 

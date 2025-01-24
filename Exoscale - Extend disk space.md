@@ -12,12 +12,26 @@ lang: en
 * Create a new entry in the same zone as the server
 * Attach it to the server
 * Get disk path from `/dev/disk/by-id/$DISK_ID`
-* Format the disk `sudo mkfs.ext4 /dev/disk/by-id/$DISK_ID`
+* Format the disk `sudo mkfs.ext4 /dev/vdb`
 
 ### Mount block storage
 
+* Create a mount point
+
 ```bash
-sudo mount -t ext4 -o discard,nofail,defaults /dev/disk/by-id/virtio-aa92737a-d415-4b14-8 /mnt/sdb
+sudo mkdir -p /mnt/sdb
+```
+
+* Mount the disk
+
+```bash
+sudo mount /dev/vdb /mnt/sdb
+```
+
+* Add `/etc/fstab` entry:
+
+```
+/dev/vdb /mnt/sdb ext4 discard,nofail,defaults 0 0
 ```
 
 ## Mount block storage with Ansible
