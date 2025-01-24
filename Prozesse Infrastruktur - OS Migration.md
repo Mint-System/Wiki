@@ -14,7 +14,7 @@ responsible: Janik von Rotz
 docker_data_dir: /mnt/sdb/docker
 fstab_mounts:
   - path: /mnt/sdb
-    src: /dev/disk/by-id/$DISK_ID
+    src: /dev/vdb
     opts: discard,nofail,defaults
     state: mounted
     fstype: ext4
