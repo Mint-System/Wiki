@@ -31,8 +31,12 @@ And set the data root:
 Copy the current directory to the new directory.
 
 ```bash
-sudo rsync --delete -a /var/lib/docker/ /mnt/sdb/docker
+cp -av /var/lib/docker /mnt/sdb/docker
 ```
+
+::: warning
+Rerunning this copy command will copy the docker folder into the target docker folder.
+:::
 
 Rename the old directory.
 
