@@ -1,12 +1,12 @@
 ---
 tags:
-- HowTo
+  - Prozess
+responsible: Janik von Rotz
 ---
-# Hetzner - OS migrieren
-
+# Prozesse Infrastruktur - OS Migration
 ## Vorbereiten
 
-* Anzeige Server in Hetzner-Cloud-Konsole
+* Anzeige Server in Cloud-Konsole
 * Sicherstellen, dass Server eine zweiten Disk hat
 * Sicherstellen, dass Docker-Daten auf der zweiten Disk sind
 
@@ -14,7 +14,7 @@ tags:
 docker_data_dir: /mnt/sdb/docker
 fstab_mounts:
   - path: /mnt/sdb
-    src: /dev/disk/by-id/scsi-0HC_Volume_101440565
+    src: /dev/disk/by-id/$DISK_ID
     opts: discard,nofail,defaults
     state: mounted
     fstype: ext4
@@ -23,6 +23,7 @@ fstab_mounts:
 ## Ausführen
 
 * Umgebungsvariable festlegen:
+
 ```bash
 export ALIAS=kronos
 ```

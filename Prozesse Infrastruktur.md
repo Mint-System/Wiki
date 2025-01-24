@@ -35,3 +35,4 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Mail-Integration]]
 * [[Prozesse Infrastruktur - Mail-Account]]
 * [[Prozesse Infrastruktur - Wartung]]
+* [[Prozesse Infrastruktur - OS Migration]]

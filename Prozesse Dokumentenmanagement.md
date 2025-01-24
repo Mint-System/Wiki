@@ -1,7 +1,7 @@
 ---
 tags:
   - Prozess
-resp: Janik von Rotz
+responsible: Janik von Rotz
 ---
 # Prozesse Dokumentenmanagement
 
