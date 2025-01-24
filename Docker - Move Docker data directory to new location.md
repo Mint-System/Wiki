@@ -14,7 +14,13 @@ Stop the Docker daemon.
 sudo service docker stop
 ```
 
-Edit the config file `sudo vi /etc/docker/daemon.json`:
+Edit the config file:
+
+```bash
+sudo vi /etc/docker/daemon.json
+```
+
+And set the data root:
 
 ```json
 { 
