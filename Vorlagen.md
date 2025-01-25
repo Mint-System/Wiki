@@ -24,9 +24,7 @@ tags:
 | [[Vorlage Datenmigration]]                |
 | [[Vorlage Gap-Analyse]]                   |
 | [[Vorlage Interviews Gap-Analyse]]        |
-| [[Vorlage Issues]]                        |
 | [[Vorlage Konzept]]                       |
-| [[Vorlage Meeting]]                       |
 | [[Vorlage Phase]]                         |
 | [[Vorlage Prozesse Odoo]]                 |
 | [[Vorlage Technische Spezifikation]]      |

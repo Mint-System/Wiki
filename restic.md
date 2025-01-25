@@ -12,4 +12,5 @@ Domains:
 - restic.cloud
 
 [[Restic HowTo]]\
+[[Wiederherstellung von Backups]]\
 [[Restic Troubleshooting]]
