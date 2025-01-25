@@ -14,7 +14,13 @@ Stop the Docker daemon.
 sudo service docker stop
 ```
 
-Edit the config file `sudo vi /etc/docker/daemon.json`:
+Edit the config file:
+
+```bash
+sudo vi /etc/docker/daemon.json
+```
+
+And set the data root:
 
 ```json
 { 
@@ -22,16 +28,10 @@ Edit the config file `sudo vi /etc/docker/daemon.json`:
 }
 ```
 
-Copy the current directory to the new directory.
+Move the current docker directory to the new directory.
 
 ```bash
-sudo rsync --delete -a /var/lib/docker/ /mnt/sdb/docker
-```
-
-Rename the old directory.
-
-```bash
-sudo mv /var/lib/docker /var/lib/docker.old
+sudo mv /var/lib/docker /mnt/sdb/docker
 ```
 
 Restart the Docker deamon.
@@ -45,10 +45,4 @@ Test if all services work as expected.
 ```bash
 docker ps -a
 docker info -f '{{ .DockerRootDir}}'
-```
-
-If everything is good, remove the old Docker directory.
-
-```bash
-sudo rm -rf /var/lib/docker.old
 ```

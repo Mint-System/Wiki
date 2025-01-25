@@ -1,12 +1,13 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Controller
 ---
 # Prozesse Finanzen - Ausgangsrechnungen
+
 Rechnungen erstellen und versenden.
 
 ## Arbeitsrapport validieren
-Verantwortlich: [[Rollen#Controller]]
 
 Arbeitsrapport werden jeweils am Ende des Monats validiert, daraus werden die Ausgangsrechnungen generiert.
 
@@ -25,7 +26,6 @@ Arbeitsschritte:
 * Erstellen und Ablagen Bericht *Zeitnachweis-Eintrage*
 
 ## Ausgangsrechnung erstellen
-Verantwortlich: [[Rollen#Projektleiter]]
 
 Arbeitsschritte:
 * Projekt-Übersich öffnen und Rechnung erzeugen

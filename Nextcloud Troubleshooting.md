@@ -7,7 +7,6 @@ tags:
 ## Troubleshooting
 
 ### On upgrade singleton not found
-#Nextcloud20 
 
 #### Problem
 
@@ -28,7 +27,6 @@ docker exec --user www-data nextcloud02 php occ maintenance:mode --off
 ```
 
 ## Cannot install collabora server
-#Nextcloud20
 
 #### Problem
 

@@ -1,10 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+responsible: Entwickler
 ---
 # Ulrich Kilian
-
-Verantwortlich: [[Development]]
 
 Benutzername: `ulrichkilian`\
 Alias: `uki`\

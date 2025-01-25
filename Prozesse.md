@@ -1,14 +1,13 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Kurt Gisler
 ---
 # Prozesse
 
 Prozesse regeln das **Wie**.
 
 In diesem Dokument werden die internen Prozesse der Mint System beschrieben.
-
-Verantwortlich: [[Kurt Gisler]]
 
 Intern:
 

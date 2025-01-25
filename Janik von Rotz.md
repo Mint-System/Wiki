@@ -1,10 +1,12 @@
 ---
 tags:
-- Definition
+  - Definition
+responsibilities:
+  - Infrastruktur
+  - Development
+  - Finanzen
 ---
 # Janik von Rotz
-
-Verantwortlich: [[Infrastruktur]], [[Development]], [[Finanzen]]
 
 Benutzername: `janikvonrotz`\
 Alias: `jvr`\

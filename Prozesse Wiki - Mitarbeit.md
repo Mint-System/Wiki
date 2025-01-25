@@ -50,3 +50,15 @@ Aktuell ist die Knowledge-Base nur in Deutsch verfügbar.
 Erstellt man eine Übersetzung eines ganzen Artikels, so verlinkt man diesen unterhalb des Titel `Übersetzung: [[Policy Project Management]]` und fügt im übersetzten Artikel den tag `lang: en` ein.
 
 Ein Beispiel ist [[Richtlinie - Projektmanagement]].
+
+## Tags
+
+Siehe [[Tags]] für Details.
+## Metadaten
+
+Alle Wiki-Einträge können im Frontmatter Metadaten enthalten. Folgende Metadaten sind definiert:
+
+* `tags`: Auswahl aus der Liste von [[Tags]].
+* `responsible`: Person oder Rolle Verantwortlich für den Prozess.
+* `responsibilities`: Bereiche in der Verwantwortung der Person.
+* `title`: Alternativer Name für den Artikel.

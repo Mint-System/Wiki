@@ -1,10 +1,12 @@
 ---
 tags:
-- Definition
+  - Definition
+responsibilities:
+  - Unternehmensentwicklung
+  - Personal
+  - Strategie
 ---
 # Kurt Gisler
-
-Verantwortlich: [[Unternehmensentwicklung]], [[Personal]], [[Strategie]]
 
 Benutzername: `kurtgisler`\
 Alias: `kgi`\

@@ -1,18 +1,15 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Projektleiter
 ---
 # Prozesse Projektmanagement - Business Requirement
 
 ## Stakeholder Story formulieren
 
-Verantwortlich: [[Rollen#Projektleiter]]
-
 In Prosa wird die Sicht des Kunden formuliert. Als erstes wird die IST-Situation erläutert und anschliessend die SOLL-Situation.
 
 ## Spezifikation formulieren
-
-Verantwortlich: [[Rollen#Projektleiter]]
 
 Die Spezifikation enthält Anweisung zur Reproduktion des Problems oder Ausführung der neuen Funktion. Dazu ein Beispiel:
 
@@ -31,8 +28,6 @@ Arbeitsschritte:
 Dazu wird formuliert wie eine technische Lösung für das Problem aussieht. 
 
 ## Massnahme formulieren
-
-Verantwortlich: [[Rollen#Stakeholder]]
 
 In Rücksprache mit Stakeholder des  Projekts wird eine Massnahme formuliert. Die Massnahme ist die Aufgabenbeschreibung und richtet sich an den Entwickler oder Integrator, welcher die Lösung implementiert.
 

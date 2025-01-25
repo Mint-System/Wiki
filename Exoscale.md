@@ -7,6 +7,10 @@ Schweizer Hosting-Anbieter.
 
 Website: <https://www.exoscale.com/>
 
+## HowTo
+
+[[Exoscale - Extend disk space]]
+
 ## Usage
 
 Requires [[OTP Auth]] to login.

@@ -1,11 +1,10 @@
 ---
 tags:
-- Prozess
+  - Prozess
+responsible: Janik von Rotz
 ---
 # Prozesse Dokumentenmanagement
 
 Dokumentation der Dokumentenmanagement-Prozesse.
-
-Verantwortlich: [[Janik von Rotz]]
 
 * [[Prozesse Dokumentenmanagement - Dokumente archivieren]]

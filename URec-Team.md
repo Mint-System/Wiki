@@ -16,4 +16,4 @@ Was ist das URec-Team und das Inosca-eBau-Caluma-Projekt?
 
 ➡ Caluma (https://caluma.io/): Workflow-Engine für Entwickler
 
-ℹ All das wurde von Adfinis ins Leben gerufen und dank #OpenSource in der Community entwickelt.
+ℹ All das wurde von Adfinis ins Leben gerufen und dank `#OpenSource` in der Community entwickelt.
