@@ -30,3 +30,4 @@ Diese Tags können in den Metadaten der Artikel verwendet werden:
 * #Slide 
 * #Specification / #Spezifikation 
 * #Templates / #Vorlagen 
+* #Tools 

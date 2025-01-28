@@ -8,9 +8,9 @@ tags:
 
 Wir verwenden [[Python]] für alle Projekte.
 
-## Terminal
+## [[Terminal]]
 
-Wir verwenden [[Zsh]] als Shell. 
+Wir verwenden [[Zsh]] als Shell.
 
 ## IDE
 

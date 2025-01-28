@@ -62,3 +62,25 @@ ansible-playbook -i inventories/odoo plays/odoo.yml -l $ALIAS
 ```bash
 ansible-playbook -i inventories/nextcloud -i inventories/odoo -i inventories/setup plays/nginx.yml -l $ALIAS --skip-tags check
 ```
+
+### Troubleshooting
+
+### Error mounting to rootfs
+
+**Problem**
+
+```
+Bad Request ("failed to create task for container: failed to create shim task: OCI runtime create failed: runc create failed: unable to start container process: error during container init: error mounting "/usr/share/prom01/prometheus.yml" to rootfs at "/etc/prometheus/prometheus.yml": create mountpoint for /etc/prometheus/prometheus.yml mount: cannot create subdirectories in "
+```
+
+**Ursache**
+
+Wenn Docker-Container ohne die Mount-Verzeichnisse gestartet wird, werden die Pfade als Verzeichnisse angelegt.
+
+**Lösung**
+
+Entferne die Verzeichnisse.
+
+```bash
+sudo rm -rf /usr/share/prom01/prometheus.yml
+```

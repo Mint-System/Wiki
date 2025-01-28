@@ -8,7 +8,7 @@ Git ist eine freie Software zur verteilten Versionsverwaltung von Dateien, die d
 
 Website: <https://git-scm.com/>
 
-Weiterführende Links: [[Git HowTo]]
+Weiterführende Links: [[Git HowTo]], [[Git - Rebase]], [[Git - Forks]]
 
 ## Client
 
