@@ -13,13 +13,13 @@ Tags aus der Softwareentwicklung:
 * #BUG: Fehler zum lösen.
 * #NOTE: Information zum Text.
 
-Odoo Versionen:
+Odoo Version:
 
 * #Odoo13: Dieses Feature ist nur für Odoo 13 verfügbar.
 * #Odoo14: Dieses Feature ist nur für Odoo 14 verfügbar.
 * #Odoo13-14: Dieses Feature ist für Odoo 13 bis 14 verfügbar.
-* #Odoo15 
-* #Odoo16 
+* #Odoo15 : Dieses Feature ist nur für Odoo 15 verfügbar.
+* #Odoo16 : Dieses Feature ist nur für Odoo 16 verfügbar.
 
 Diese Tags können in den Metadaten der Artikel verwendet werden:
 
