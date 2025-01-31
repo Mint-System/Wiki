@@ -17,14 +17,13 @@ Der Drehbuch-Prozess wird nach Bedarf wiederholt bis eine Freigabe erfolgt. Bei 
 | Arbeitsschritt                    | Verantwortlich      | Beschreibung                                                                                               |
 | --------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Datenbank prüfen                  | Mint System         | Liste der Module von Dritten erstellen.                                                                    |
-| Lokale Umgebung vorbereiten       | Mint System         | Lokale Umgebung für Upgrade vorbereiten.                                                                   |
 | Odoo Module migrieren             | Mint System         | Odoo Module auf neue Version migrieren.                                                                    |
 | Test-Upgrade durchführen          | Mint System         | Odoo Upgrade im Testmodus ausführen.                                                                       |
-| Upgrade-Umgebung Kunde            | Mint  System        | Die Upgrade-Umgebung für Kunde bereitstellen.                                                              |
-| Test-Upgrade bereitstellen        | Mint System         | Upgrade im Testmoduls durchführen und auf Upgrade-Umgebung bereitstellen.                                  |
+| Upgrade-Umgebung bereitstellen    | Mint  System        | Die Upgrade-Umgebung für Kunde bereitstellen.                                                              |
+| Test-Upgrade bereitstellen        | Mint System         | Upgrade im Testmodus durchführen und auf Upgrade-Umgebung bereitstellen.                                   |
 | Test-Upgrade verifizeren          | Kunde               | Funktionale Anforderungen prüfen.                                                                          |
 | Feedback-Loop Test-Uprade starten | Mint System / Kunde | Technische Anpassungen in Drechbuch-Prozess vornehmen. Kundenspezifischer Drechbuch-Prozess dokumentieren. |
-| Freigabe produktives Upgrade      | Kunde               | Kunde erteilt Freigabe für produktives Upgrade.                                                            |
+| Produktives Upgrade freigeben     | Kunde               | Kunde erteilt Freigabe für produktives Upgrade.                                                            |
 | Produktives Upgrade durchführen   | Mint System         | Gemäss Kundenspezifischer Upgrade-Dokumentation das produktive Upgrade durchführen.                        |
 | Produktives Upgrade verifizieren  | Kunde               | Produktives Upgrade verfizieren.                                                                           |
 
