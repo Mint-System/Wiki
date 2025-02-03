@@ -46,7 +46,7 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Zeus       | Server Mint System GmbH                  | `zeus.mint-system.com`     | Hetzner     |
 | [[Hades]]  | Demo Mint System GmbH                    | `hades.mint-system.com`    | Hetzner     |
 | [[Hermes]] | Demo Mint System GmbH                    | `hermes.mint-system.com`   | Hetzner     |
-| Eros<br>   | Keycloak-Server Sozialinfo               | `eros.mint-system.com`     | Infomaniak  |
+| Eros       | Keycloak-Server Sozialinfo               | `eros.mint-system.com`     | Infomaniak  |
 | Krios      | Support-Server Sozialinfo                | `krios.mint-system.com`    | Infomaniak  |
 | Selene     | Odoo-Server Sozialinfo                   | `selene.mint-system.ch`    | Infomaniak  |
 | Aeolus     | Server Aerolite AG                       | `aerolus.mint-system.com`  | Off-Premise |

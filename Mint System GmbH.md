@@ -38,7 +38,7 @@ CHF ISR Subscription Number: 01-013066-4
 
 ## Schreibweise
 
-Name des Unternehmens: Mint System
+Anzeigenamen des Unternehmens: Mint System
 
 Rechtlicher Name des Unternehmens: Mint System GmbH
 

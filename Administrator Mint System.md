@@ -4,7 +4,7 @@ tags:
 ---
 # Administrator Mint System
 
-Der Mint System Administrations-Benutzer. Der Admint kann Email empfangen.
+Der Mint System Administrations-Benutzer. Der Administrations-Benutzer kann Email empfangen. Alle Organisations-Account werden mit diesem Account erstellt.
 
 **Email**: login@mint-system.ch\
-**Username**: admint
+**Username**: mintsystem, admint
