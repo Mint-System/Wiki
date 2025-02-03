@@ -10,6 +10,7 @@ lang: en
 * Login into Exoscale
 * Got to *Compute > Block Storage*
 * Create a new entry in the same zone as the server
+* Add a label `name` with value `$ALIAS.mint-system.com`
 * Attach it to the server
 * Get disk path from `/dev/disk/by-id/$DISK_ID`
 * Format the disk `sudo mkfs.ext4 /dev/vdb`

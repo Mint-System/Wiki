@@ -28,6 +28,12 @@ fstab_mounts:
 export ALIAS=
 ```
 
+* Docker-Dienst auf Server stoppen
+
+```bash
+ssh $ALIAS.mint-system.com sudo service docker stop
+```
+
 * Anzeige Server in Cloud-Konsole
 * Server herunterfahren
 * Server mit aktuellem Debian Image neu erstellen
