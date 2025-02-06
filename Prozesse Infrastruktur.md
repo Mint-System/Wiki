@@ -23,8 +23,7 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Innernet bereitstellen]]
 * [[Prozesse Infrastruktur - Installation Raspberry Pi]]
 * [[Processes Infrastructure - Upgrade Odoo]]
-* [[Prozesse Infrastruktur - Deinstallation Odoo]]
-* [[Prozesse Infrastruktur - Server entfernen]]
+
 ## Verwaltung
 
 * [[Prozesse Infrastruktur - Server Monitoring]]
@@ -36,3 +35,8 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Mail-Account]]
 * [[Prozesse Infrastruktur - Wartung]]
 * [[Prozesse Infrastruktur - OS Migration]]
+
+## Rückbau
+
+* [[Prozesse Infrastruktur - Deinstallation Odoo]]
+* [[Prozesse Infrastruktur - Server entfernen]]
