@@ -3,6 +3,7 @@ tags:
 - Prozess
 ---
 # Prozesse Akquise
+
 Dokumentation der Akquise Prozesse.
 
 ```mermaid

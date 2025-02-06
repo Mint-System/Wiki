@@ -18,5 +18,6 @@
   ],
   "showInlineTitle": false,
   "propertiesInDocument": "visible",
-  "vimMode": false
+  "vimMode": false,
+  "promptDelete": false
 }
