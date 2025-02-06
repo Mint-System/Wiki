@@ -54,14 +54,11 @@ Liste aller Server im Einsatz der Mint System GmbH.
 | Enyo       | Server webkeeper GmbH                    | `enyo.mint-system.com`     | Off-Premise |
 | Eos        | Server Aersolution Interior AG           | `odoo.aersolution.com`     | Off-Premise |
 | Gaia       | Server Brunner Elektronik AG             | `gaia.mint-system.com`     | Off-Premise |
-| Helios     | Server MBBMoser AG                       | `helios.mint-system.com`   | Off-Premise |
 | Moros      | Nextcloud KMSU                           | `moros`                    | Off-Premise |
 | Rhea       | Server Ludoland                          | `rhea`                     | Off-Premise |
 | Triton     | Server Kreativartikel GmbH               | `triton`                   | Off-Premise |
 | Tyche      | Server Carbo-Link AG                     | `tyche.mint-system.com`    | Off-Premise |
 | Matrix     | [[Matrix]]-Server bei [[ungleich GmbH]]  | `matrix.mint-system.com`   | Ungleich    |
-
-
 ### Liste freie Namen
 
 Die folgenden Namen stehen zur Auswahl bereit:
@@ -71,3 +68,4 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Asteria
 * Perses
 * Geras
+* Helios
