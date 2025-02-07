@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - Prozess
 ---
 # Prozesse Projektmanagement - Archivierung

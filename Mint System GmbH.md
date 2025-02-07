@@ -16,7 +16,7 @@ Domains:
 
 UID: CHE-150.248.608
 
-Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]]
+Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]]
 
 ## Mitarbeitende
 

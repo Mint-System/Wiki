@@ -14,7 +14,7 @@ Notizen werden nicht synchronisiert. Projektnotizen werden ohne Zwischenschritte
 
 Projektinformationen werden weder dupliziert und noch synchronisiert. Projekinformationen können exportiert, aber nicht importiert werden.
 
-Der [[Rollen#Projektleiter|Projektleiter]] stellt sicher das der Zustand eines Projekts korrekt erfasst ist.
+Der [[Rollen Projektmanagement#Projektleiter|Projektleiter]] stellt sicher das der Zustand eines Projekts korrekt erfasst ist.
 
 ## Statusmeetings
 
