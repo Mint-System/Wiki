@@ -14,9 +14,11 @@ Rollen:
 * [[Supporter]]
 * [[Odoo Consultant]]
 * [[Odoo Projektleiter]]
+* [[Buchhaltung]]
 
 Mitglieder:
 
 * [[Kurt Gisler]]
 * [[Janik von Rotz]]
 * [[Ulrich Kilian]]
+* [[Marco Roeleven]]
