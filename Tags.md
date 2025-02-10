@@ -12,6 +12,7 @@ Tags aus der Softwareentwicklung:
 * #FIXME: Workarund definiert.
 * #BUG: Fehler zum lösen.
 * #NOTE: Information zum Text.
+* #DEPRECATED: Defnition ist veraltet.
 
 Odoo Version:
 
