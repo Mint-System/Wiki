@@ -2,9 +2,10 @@
 tags:
 - Definition
 ---
-![[Mint System Logo.png]]
 
 # Wiki Mint System
+
+[![matrix-badge](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#allgemein:mint-system.ch)
 
 Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
 

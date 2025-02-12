@@ -23,7 +23,8 @@ export default defineUserConfig({
         navbar: [
             { text: 'Home', link: '/' },
             { text: 'Glossary', link: '/glossary' },
-            { text: 'Mint System', link: 'https://www.mint-system.ch' }
+            { text: 'Mint System', link: 'https://www.mint-system.ch' },
+            { text: 'Chat', link: 'https://matrix.to/#/#allgemein:mint-system.ch' }
         ]
     }),
     plugins: [
