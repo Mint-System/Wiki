@@ -6,11 +6,16 @@
     "dev": "vuepress dev src"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.14",
-    "@vuepress/plugin-search": "^2.0.0-rc.39",
-    "@vuepress/plugin-shiki": "^2.0.0-rc.39",
-    "@vuepress/theme-default": "^2.0.0-rc.39",
-    "mermaid": "^10.9.1",
-    "vuepress": "^2.0.0-rc.14"
+    "@vuepress/bundler-vite": "2.0.0-rc.19",
+    "@vuepress/client": "2.0.0-rc.19",
+    "@vuepress/plugin-search": "2.0.0-rc.74",
+    "@vuepress/plugin-shiki": "2.0.0-rc.76",
+    "@vuepress/theme-default": "2.0.0-rc.76",
+    "@vuepress/utils": "2.0.0-rc.2",
+    "mermaid": "^10.9.3",
+    "sass-embedded": "^1.83.4",
+    "sharp": "^0.33.5",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.19"
   }
 }
