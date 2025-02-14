@@ -112,6 +112,21 @@ sudo mv wkhtmltox/bin/wkhtmlto\* /usr/bin
 sudo apt-get install -y openssl build-essential libssl-dev libxrender-dev git-core libx11-dev libxext-dev libfontconfig1-dev libfreetype6-dev fontconfig
 ```
 
+## Session directory not writable
+
+**Problem**
+
+```
+AssertionError: /var/lib/odoo/sessions: directory is not writable
+```
+
+**Solution**
+
+```
+docker exec -i -u root $CONTAINER chown -R odoo:odoo /var/lib/odoo
+docker restart $CONTAINER
+```
+
 ## Development
 
 ### Watch limit reached
