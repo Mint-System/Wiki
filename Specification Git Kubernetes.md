@@ -79,7 +79,7 @@ description:
 Runs git commands in the home folder of Odoo. The ssh key is stored in the Odoo user entry. On every operation it is written as a temporary file.
 
 
-![[Git Base Repo UI.excalidraw]]
+![[Git Base Repo UI]]
 
 Forge Provider:
 * GitHub: github.com
