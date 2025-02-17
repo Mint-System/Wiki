@@ -9,9 +9,12 @@ lang: en
 
 Download the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
 
+Move the file from the download folder to the user bin folder:
+
 ```bash
-[~/Downloads]$ sudo mv Nextcloud-3.15.3-x86_64.AppImage /usr/bin/nextcloud
-[~/Downloads]$ sudo chmod +x /usr/bin/nextcloud
+cd ~/Downloads
+sudo mv Nextcloud-3.15.3-x86_64.AppImage /usr/bin/nextcloud
+sudo chmod +x /usr/bin/nextcloud
 ```
 
 Create a desktop entry:
