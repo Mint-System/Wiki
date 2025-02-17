@@ -23,6 +23,7 @@ Dienstleistung:
 * [[Prozesse Projektmanagement]]
 * [[Prozesse Beratung]]
 * [[Prozesse Odoo]]
+* [[Prozesse Nextcloud]]
 * [[Prozesse Support]]
 
 Technisch:

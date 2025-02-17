@@ -2,9 +2,9 @@
 tags:
   - Prozess
 ---
-# Prozesse Infrastruktur - Update Nextcloud
+# Prozesse Nextcloud - Upgrade
 
-## Update Nextcloud durchführen
+## Upgrade Nextcloud durchführen
 
 Arbeitsschritte:
 

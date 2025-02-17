@@ -11,18 +11,17 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Server bestellen]]
 * [[Prozesse Infrastruktur - Odoo bestellen]]
 * [[Prozesse Infrastruktur - Nextcloud bestellen]]
-
+* [[Prozesse Infrastruktur - Mail-Account Kunde]]
 ## Bereitstellung
 
 * [[Prozesse Infrastruktur - DNS-Einträge erstellen]]
 * [[Prozesse Infrastruktur - Server bereitstellen]]
+* [[Prozesse Infrastruktur - Innernet bereitstellen]]
 * [[Prozesse Infrastruktur - Installation BigBlueButton]]
 * [[Prozesse Infrastruktur - Installation Moodle]]
 * [[Prozesse Infrastruktur - Installation Odoo]]
 * [[Prozesse Infrastruktur - Installation Nextcloud]]
-* [[Prozesse Infrastruktur - Innernet bereitstellen]]
 * [[Prozesse Infrastruktur - Installation Raspberry Pi]]
-* [[Processes Infrastructure - Upgrade Odoo]]
 
 ## Verwaltung
 
@@ -31,11 +30,10 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Server-Zugriff verwalten]]
 * [[Prozesse Infrastruktur - Passwörter verwalten]]
 * [[Prozesse Infrastruktur - Linux Server Patching]]
-* [[Prozesse Infrastruktur - Mail-Integration]]
-* [[Prozesse Infrastruktur - Mail-Account]]
-* [[Prozesse Infrastruktur - Update Nextcloud]]
+* [[Prozesse Infrastruktur - Mail-Account Intern]]
 * [[Prozesse Infrastruktur - Wartung]]
 * [[Prozesse Infrastruktur - OS Migration]]
+* [[Processes Infrastructure - Upgrade Odoo]]
 
 ## Rückbau
 
