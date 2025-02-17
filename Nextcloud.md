@@ -21,7 +21,8 @@ Weiterführende Links:
 [[Nextcloud Partner]]\
 [[Fragen zu Nextcloud]]\
 [[Nextcloud Elektronische Signaturen]]\
-[[Nextcloud Talk]]
+[[Nextcloud Talk]]\
+[[Nextcloud Destkop Client]]
 
 ## HowTos
  
