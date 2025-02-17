@@ -1,12 +1,13 @@
 ---
 tags:
   - HowTo
+lang: en
 ---
-# Nextcloud Destkop Client
+# Nextcloud Desktop Client
 
 ## Installation
 
-Laden Sie den Nextcloud Desktop Client hier herunter: <https://nextcloud.com/install/#desktop-files>
+Download the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
 
 ```bash
 [~/Downloads]$ sudo mv Nextcloud-3.15.3-x86_64.AppImage /usr/bin/nextcloud
@@ -27,7 +28,7 @@ Terminal=false
 EOF
 ```
 
-Update the desktop database.
+Update the desktop database:
 
 ```bash
 update-desktop-database
