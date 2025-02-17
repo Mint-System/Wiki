@@ -33,6 +33,7 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Linux Server Patching]]
 * [[Prozesse Infrastruktur - Mail-Integration]]
 * [[Prozesse Infrastruktur - Mail-Account]]
+* [[Prozesse Infrastruktur - Update Nextcloud]]
 * [[Prozesse Infrastruktur - Wartung]]
 * [[Prozesse Infrastruktur - OS Migration]]
 

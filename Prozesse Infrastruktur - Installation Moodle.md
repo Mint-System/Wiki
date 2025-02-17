@@ -3,6 +3,7 @@ tags:
 - Prozess
 ---
 # Prozesse Infrastruktur - Installation Moodle
+
 Inbetriebnahme einer Moodle-Installation.
 
 ## Initialisierung
@@ -10,6 +11,7 @@ Inbetriebnahme einer Moodle-Installation.
 Bevor eine Moodle-Installation in Betrieb genommen werden kann müssen die folgenden Punkte erledigt werden.
 
 Arbeitsschritte:
+
 * Registration Mail Server für Outgoing Emails
 * Sprachpaket installieren
 * Administrationsbenutzer erfassen
