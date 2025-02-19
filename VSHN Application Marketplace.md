@@ -9,7 +9,7 @@ Knowledge: <https://products.vshn.ch/marketplace/index.html>
 
 Provide a managed Kubernetes offering.
 
-Example: [[Exoscale]], [[Nine]].
+Example: [[Exoscale]], [[Nine]], [[Cloudscale]]
 
 Details: <https://products.vshn.ch/marketplace/csp.html>
 
