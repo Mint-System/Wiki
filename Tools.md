@@ -6,8 +6,9 @@ tags:
 
 Werkzeuge im Einsatz der Mint System.
 
-[[Fernwartung]]  
-[[Web Analytics]]  
-[[Arbeitsplatz]]  
-[[Softwareentwicklung]]
-[[Dokumentation]]
+[[Fernwartung]]\
+[[Web Analytics]]\
+[[Arbeitsplatz]]\
+[[Softwareentwicklung]]\
+[[Dokumentation]]\
+[[Collaboration]]

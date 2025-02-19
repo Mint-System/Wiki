@@ -20,8 +20,8 @@ Janik von Rotz
 ```
 ---
 
+Suggest a meeting: https://apmt.day/janikvonrotz/999120f2/
 We are hiring: https://www.mint-system.ch/jobs
-Send application to: jobs@mint-system.ch
 
 CTO Mint System GmbH 
 Tel: +41 44 244 7222
