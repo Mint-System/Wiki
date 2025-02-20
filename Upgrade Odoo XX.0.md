@@ -17,12 +17,13 @@ export NEW_DATABASE="${DATABASE}_${ODOO_TARGET_VERSION}"
 export COMPANY="mint-system"
 export POSTGRES_CONTAINER="postgres01"
 export SERVER="zeus.mint-system.com"
+export PORT=22
 ```
 
 Backup and download database from server.
 
 ```bash
-ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
+ssh -p "$PORT" "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
 mkdir -p "tmp/$COMPANY"
 scp "$SERVER:/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" "tmp/$COMPANY/$DATABASE.sql"
 ```
