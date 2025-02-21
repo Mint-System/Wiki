@@ -74,17 +74,18 @@ task git-submodule-switch 16.0
 task git-submodule-pull
 ```
 
-Rebrand the READMEs.
+Rebrand the repo.
 
 ```
 sed -i 's/Mint System/Sozialinfo/g' README.md
 sed -i 's/Mint-System/Sozialinfo/g' README.md
+sed -i 's|https://www.mint-system.ch|https://www.sozialinfo.ch|g' README.md
 ```
 
 Alles committen.
 
 ```bash
 git add --all
-git commit -m "feat: checkout upstream"
+git commit -m "feat(repo): update from upstream"
 git push -f --set-upstream origin 16.0
 ```
