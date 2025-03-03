@@ -14,18 +14,18 @@ author:
 
 ## Problem
 
-<mark>What is the problem? How can the problem be reproduced?</mark>
+==What is the problem? How can the problem be reproduced?==
 
 ## Analysis
 
-<mark>Document the problem analysis here.</mark>
+==Document the problem analysis here.==
 
 ## Workaround
 
-<mark>Describe a possible workaround here.</mark>
+==Describe a possible workaround here.==
 
 ## Solution
 
-<mark>What was the solution to the problem?</mark>
+==What was the solution to the problem?==
 
 ```

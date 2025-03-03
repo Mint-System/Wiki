@@ -15,14 +15,14 @@ participants:
 
 Folgende Themen werden besprochen:
 
-* <mark>Punkt 1</mark>
-* <mark>Punkt 2</mark>
+* ==Punkt 1==
+* ==Punkt 2==
 
 ## Notizen
 
-<mark>Notizen zum Meeting.</mark>
+==Notizen zum Meeting.==
 
-<mark>Aufgaben für die Nachbearbeitung:</mark>
+==Aufgaben für die Nachbearbeitung:==
 
 - [ ] Zu erledigen @Person/Org
 
