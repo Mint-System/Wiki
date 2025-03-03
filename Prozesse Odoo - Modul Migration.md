@@ -22,21 +22,21 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-* In Odoo-Build die neue Odoo Version auschecken `task checkout $TARGET_VERSION`
-* Navigation in das Submodule-Repo `cd addons/$REPO`
-* Auschecken Modul von vorhergehender Version `git checkout $SOURCE_VERSION $MODULE`
+* In Odoo-Build die neue Odoo Version auschecken: `task checkout $TARGET_VERSION`
+* Auschecken Modul von vorhergehender Version: `cd addons/$REPO; git checkout $SOURCE_VERSION $MODULE`
 * Modul-Version in `__manifest__.py` aktualisieren
-* Modul-Code aktuallisieren mit `task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION`
+* Modul-Code aktualisieren: `task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION`
+* Modul-README aktualisieren: `task update-module-docs addons/$REPO/$MODULE`
 * Modul installieren und testen `task init-module addons/$REPO/$MODULE`
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
-* README aktualisieren `task update-readme addons/$REPO/README.md`
-* Modul linten und anpassen `task lint`
-* Migration committen `git add --all; git commit -m "feat: migrate $MODULE"`
-* Optional Pull-Request erstellen:
+* Repo-README aktualisieren `task update-readme addons/$REPO`
+* Modul linten und anpassen: `cd addons/$REPO; task all`
+* Migration committen `git add --all; git commit -m "feat($MODULE): migrate`
+* Optional einen Pull-Request erstellen:
 	* Feature branch erstellen `git switch -c mig-$MODULE`
 	* Und mit dem CLI einen PR erstellen `gh pr create`
 	* Wenn PR gemerged ist, das Submodule-Repo deployen
-* Änderungen pushen `git push`
+* Änderungen pushen: `git push`
 
 ## Mint System Fork für OCA-Repo erstellen
 
