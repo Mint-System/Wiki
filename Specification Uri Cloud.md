@@ -45,5 +45,5 @@ Users buy hosting subscriptions in the webshop. When a subscription is confirmed
 The Odoo integration requires three modules:
 
  1. [[Specification Open Service Broker Client]] Client to communicate with Open Service Broker API.
- 2. [[Specificaiton Website Sale Open Service Broker]] Setup an OSB organisation in the checkout process.
+ 2. [[Specification Website Sale Open Service Broker]] Setup an OSB organisation in the checkout process.
  3. [[Specification Subscription OCA Open Service Broker]] Manage lifecycle of OSB service with subscription.

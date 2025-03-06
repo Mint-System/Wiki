@@ -4,7 +4,7 @@ tags:
   - Specification
 draft: true
 ---
-# Specificaiton Website Sale Open Service Broker
+# Specification Website Sale Open Service Broker
 
 Repository: `Mint-System/Odoo-Apps-Sale-Workflow`\
 Technical Name: `website_sale_open_service_broker`\
