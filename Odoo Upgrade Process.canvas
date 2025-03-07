@@ -16,7 +16,7 @@
 		{"id":"8689c978196609de","type":"text","text":"Migrate snippets in upgrade playbook","x":-100,"y":195,"width":200,"height":85,"color":"1"},
 		{"id":"48450c16a70353f5","type":"text","text":"**Sale**","x":-800,"y":-260,"width":180,"height":60},
 		{"id":"33ba5cf403400bd2","type":"text","text":"Decide on target Odoo version","x":-340,"y":-260,"width":200,"height":60,"color":"1"},
-		{"id":"18b4e3c9dc423776","type":"text","text":"Estimate expense","x":-100,"y":-260,"width":200,"height":60,"color":"1"},
+		{"id":"18b4e3c9dc423776","type":"text","text":"Estimate best effort","x":-100,"y":-260,"width":200,"height":60,"color":"1"},
 		{"id":"1296dc0bf11fe214","type":"text","text":"Create offer","x":140,"y":-260,"width":180,"height":60,"color":"1"},
 		{"id":"0b7c054ee52a772c","type":"text","text":"Analyse module structure","x":-580,"y":-260,"width":200,"height":60,"color":"1"},
 		{"id":"3e73768f7110b244","type":"text","text":"Verify worklow with customer","x":-580,"y":320,"width":200,"height":60,"color":"1"},
