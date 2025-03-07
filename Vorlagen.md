@@ -7,8 +7,9 @@ tags:
 | Name                                      |
 | ----------------------------------------- |
 | [[Aufwandsschätzung Odoo Upgrade XX.0]]   |
-| [[Migrate Modules to Odoo XX.0]]             |
+| [[Migrate Modules to Odoo XX.0]]          |
 | [[Minor Improvements Template]]           |
+| [[Playbook Upgrade Odoo XX.0]]            |
 | [[Template Issue]]                        |
 | [[Template Meeting]]                      |
 | [[Template Report on Odoo Customization]] |
