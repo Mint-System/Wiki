@@ -5,7 +5,7 @@ lang: en
 
 ## Prepare
 
-Env vars based on Ansible Inventory:
+Env vars based on Ansible inventory:
 
 ```bash
 export CUSTOMER="Mint System"
