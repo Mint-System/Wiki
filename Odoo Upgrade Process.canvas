@@ -9,7 +9,7 @@
 		{"id":"7c0a30b7d1dd96f9","type":"text","text":"Create PR for module migration","x":-100,"y":95,"width":200,"height":60,"color":"3"},
 		{"id":"421f4c1ddc2e8d19","type":"text","text":"**Migration**","x":-800,"y":95,"width":180,"height":60},
 		{"id":"cd4b03e98f633cec","type":"text","text":"Migrate Odoo module","x":-580,"y":95,"width":200,"height":60,"color":"3"},
-		{"id":"fbdd7ec5b3a02a0b","type":"text","text":"Add test instructions and verify functionality","x":-340,"y":80,"width":200,"height":90,"color":"3"},
+		{"id":"fbdd7ec5b3a02a0b","type":"text","text":"Verify functionality with test instructions","x":-340,"y":80,"width":200,"height":90,"color":"3"},
 		{"id":"824a5ef76ce598c1","type":"text","text":"Execute test upgrade","x":-580,"y":207,"width":200,"height":60,"color":"3"},
 		{"id":"026ed664422e7415","type":"text","text":"Check upgrade report","x":-340,"y":207,"width":200,"height":60,"color":"1"},
 		{"id":"9dddc76e4dc4dd9f","type":"text","text":"**Upgrade**","x":-800,"y":207,"width":180,"height":60},
