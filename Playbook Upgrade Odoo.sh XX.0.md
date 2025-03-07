@@ -1,4 +1,4 @@
-# Upgrade Odoo.sh XX.0
+# Playbook Upgrade Odoo.sh XX.0
 
 ## Prepare
 
@@ -44,6 +44,7 @@ task update-snippet "$COMPANY" path/to/snippet
 task disable-snippet "$COMPANY" path/to/snippet
 task remove-snippet "$COMPANY" path/to/snippet
 ```
+
 ## Testing
 
 Test the upgraded system.

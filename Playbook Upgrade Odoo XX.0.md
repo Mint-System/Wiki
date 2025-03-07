@@ -58,8 +58,12 @@ docker-odoo-update -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u base
 
 ## Configure
 
+Uninstall deprecated modules.
+
 ```bash
 ssh -p "$PORT" "$SERVER" docker-odoo-uninstall -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u auth_impersonate_user
 ```
 
 ## Testing
+
+==Define test cases.==

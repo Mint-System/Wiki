@@ -9,9 +9,9 @@ tags:
 
 To start the upgrade process you need to [[Process Odoo.sh - Upgrade Implementation#Setup upgrade branch]].
 
-For new upgrades use this template: [[Upgrade Odoo.sh XX.0]]
+For new upgrades use this template: [[Playbook Upgrade Odoo.sh XX.0]]
 
-Once the upgrade script run flawlessly, you can plan the production upgrade:
+Once the upgrade playbook run flawlessly, you can plan the production upgrade:
 
 * Define a date for production upgrade
 * Execute the upgrade and ensure a rollback is possible

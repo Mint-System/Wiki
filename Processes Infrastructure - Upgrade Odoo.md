@@ -33,8 +33,8 @@ Mit freundlichen Grüssen
 Mint System Team
 ```
 
-* Execute the production upgrade according to the upgrade script
-* Message to customer
+* Execute the production upgrade according to the upgrade playbook.
+* Message to customer:
 
 ```
 Guten Tag
