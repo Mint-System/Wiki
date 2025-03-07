@@ -1,7 +1,7 @@
 ---
 lang: en
 ---
-# Upgrade Odoo XX.0
+# Plabyook Upgrade Odoo XX.0
 
 ## Prepare
 
@@ -34,6 +34,7 @@ Optional: Restore database.
 ```bash
 ssh -p "$PORT" "$SERVER" sudo docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/odoo.sql"
 ```
+
 ## Upgrade
 
 Run upgrade script.
