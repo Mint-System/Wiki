@@ -1,7 +1,7 @@
 ---
 lang: en
 ---
-# Plabyook Upgrade Odoo XX.0
+# Playbook Upgrade Odoo XX.0
 
 ## Prepare
 
