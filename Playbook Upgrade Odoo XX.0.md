@@ -5,7 +5,7 @@ lang: en
 
 ## Prepare
 
-Env vars based on Ansible inventory:
+Env vars from Ansible inventory:
 
 ```bash
 export CUSTOMER="Mint System"
@@ -29,13 +29,19 @@ Backup database.
 ssh -p "$PORT" "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
 ```
 
-Optional: Restore database.
+Restore database.
 
 ```bash
 ssh -p "$PORT" "$SERVER" sudo docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/odoo.sql"
 ```
 
 ## Upgrade
+
+Optional: Drop the target database.
+
+```bash
+ssh -p "$PORT" "$SERVER" sudo docker-postgres-drop -c "$TARGET_POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
+```
 
 Run upgrade script.
 
