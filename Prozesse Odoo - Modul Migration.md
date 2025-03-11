@@ -40,7 +40,7 @@ Arbeitsschritte:
 
 ## Mint System Fork für OCA-Repo erstellen
 
-Arbeitsshritte:
+Arbeitschritte:
 
 * Go to the repo and create a fork
 * Navigate into the local repo`cd oca/sale-workflow
