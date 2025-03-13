@@ -3,7 +3,7 @@ lang: en
 ---
 # Playbook Upgrade Odoo XX.0
 
-## Prepare
+## Prepare 📝
 
 Env vars from Ansible inventory:
 
@@ -35,7 +35,7 @@ Restore database if target postgres container is different.
 ssh -p "$PORT" "$SERVER" sudo docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/odoo.sql"
 ```
 
-## Upgrade
+## Upgrade ⬆️
 
 Optional: Drop the target database.
 
@@ -68,7 +68,7 @@ Update all modules.
 docker-odoo-update -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u base
 ```
 
-## Configure
+## Configure ⚙️
 
 Uninstall deprecated modules.
 
@@ -76,11 +76,11 @@ Uninstall deprecated modules.
 ssh -p "$PORT" "$SERVER" docker-odoo-uninstall -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u auth_impersonate_user
 ```
 
-## Testing
+## Testing 🔬
 
 ==Define test cases.==
 
-## Production
+## Production 🚀
 
 Rename the databases.
 

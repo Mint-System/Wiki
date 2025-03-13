@@ -6,11 +6,25 @@ tags:
 
 Emoji-Index.
 
-## Status
+### Schritte
 
 ### 🚧
 
 Entwurf
+
+### 📝
+
+Vorbereitung
+
+### ⬆️
+
+Upgrade
+
+### ⚙️
+
+Konfiguration
+
+## Status
 
 ### 🎒
 
