@@ -29,7 +29,7 @@ Backup database.
 ssh -p "$PORT" "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
 ```
 
-Restore database.
+Restore database if target postgres container is different.
 
 ```bash
 ssh -p "$PORT" "$SERVER" sudo docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/odoo.sql"
@@ -43,10 +43,16 @@ Optional: Drop the target database.
 ssh -p "$PORT" "$SERVER" sudo docker-postgres-drop -c "$TARGET_POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
 ```
 
-Run upgrade script.
+Run upgrade script in test mode.
 
 ```bash
 ssh -p "$PORT" "$SERVER" sudo docker-odoo-upgrade -c "$TARGET_POSTGRES_CONTAINER" -h "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION"
+```
+
+Run upgrade script in production mode.
+
+```bash
+ssh -p "$PORT" "$SERVER" sudo docker-odoo-upgrade -c "$TARGET_POSTGRES_CONTAINER" -h "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
 ```
 
 Copy filestore.
@@ -73,3 +79,17 @@ ssh -p "$PORT" "$SERVER" docker-odoo-uninstall -c "$TARGET_ODOO_CONTAINER" -d "$
 ## Testing
 
 ==Define test cases.==
+
+## Production
+
+Rename the databases.
+
+```bash
+ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$POSTGRES_CONTAINER" -s "$DATABASE" -t "${DATABASE}-tmp"
+ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
+ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$POSTGRES_CONTAINER" -s "${DATABASE}-tmp" -t "$TARGET_DATABASE"
+```
+
+::: tip
+The filestore doesn't have to be renamed as we copied it in the upgrade step.
+:::

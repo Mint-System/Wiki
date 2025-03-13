@@ -24,7 +24,7 @@ Working steps:
 ```
 Guten Tag
 
-Diese Odoo Installation wird innerhalb der nächsten zwei Stunden von Version 16.0 auf 18.0 aktualisiert.
+Diese Odoo Installation wird innerhalb der nächsten Stunde von Version 16.0 auf 18.0 aktualisiert.
 
 Wir bitten Sie während dieser Zeit keine Bearbeitungen in Odoo vorzunehmen. Alle Änderungen ab jetzt werden nicht in der aktualisierten Odoo Installation sein.
 
@@ -33,7 +33,10 @@ Mit freundlichen Grüssen
 Mint System Team
 ```
 
-* Execute the production upgrade according to the upgrade playbook.
+* Execute the production upgrade according to the playbook
+* Switch `$ALIAS` and `$ALIAS_upgrade`
+* Move database and backup config
+* Enable proxy redirect to new instance
 * Message to customer:
 
 ```
@@ -49,3 +52,4 @@ Mit freundlichen Grüssen
 
 Mint System Team
 ```
+
