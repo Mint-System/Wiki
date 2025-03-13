@@ -85,11 +85,7 @@ ssh -p "$PORT" "$SERVER" docker-odoo-uninstall -c "$TARGET_ODOO_CONTAINER" -d "$
 Rename the databases.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$POSTGRES_CONTAINER" -s "$DATABASE" -t "${DATABASE}-tmp"
-ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
-ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$POSTGRES_CONTAINER" -s "${DATABASE}-tmp" -t "$TARGET_DATABASE"
+ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$ODOO_CONTAINER" -s "$DATABASE" -t "${DATABASE}-tmp"
+ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$TARGET_ODOO_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
+ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$ODOO_CONTAINER" -s "${DATABASE}-tmp" -t "$TARGET_DATABASE"
 ```
-
-::: tip
-The filestore doesn't have to be renamed as we copied it in the upgrade step.
-:::
