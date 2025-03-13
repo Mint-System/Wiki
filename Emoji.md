@@ -83,16 +83,19 @@ Gelb
 
 Orange
 
-## Umgebung
-
-### 🔬
-
-Test
+## Umgebungen
 
 ### 🛠️
 
 Entwicklung
 
+### 🔬
+
+Test / Testing
+
+### 🔗
+
+Integration
 ### 🚀
 
 Produktion
