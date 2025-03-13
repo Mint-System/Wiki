@@ -10,11 +10,11 @@ Emoji-Index.
 
 ### 🚧
 
-Entwurf
+Draft
 
 ### 📝
 
-Vorbereitung
+Prepare
 
 ### ⬆️
 
@@ -22,7 +22,7 @@ Upgrade
 
 ### ⚙️
 
-Konfiguration
+Configure
 
 ## Status
 
