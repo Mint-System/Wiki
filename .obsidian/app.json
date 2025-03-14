@@ -20,5 +20,6 @@
   "propertiesInDocument": "visible",
   "vimMode": false,
   "promptDelete": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "trashOption": "none"
 }
