@@ -32,7 +32,7 @@ ssh -p "$PORT" "$SERVER" docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DA
 Restore database if target postgres container is different.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/odoo.sql"
+ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql"
 ```
 
 ## Upgrade ⬆️
