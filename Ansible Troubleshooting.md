@@ -1,5 +1,10 @@
-# Ansible Troubleshooting
+---
+tags:
+  - Troubleshooting
+---
 
+
+# Ansible Troubleshooting
 
 ## Legacy setup failed
 
