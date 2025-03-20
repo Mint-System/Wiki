@@ -14,18 +14,18 @@ Der Drehbuch-Prozess wird nach Bedarf wiederholt bis eine Freigabe erfolgt. Bei 
 
 ## Prozess-Übersicht
 
-| Arbeitsschritt                    | Verantwortlich      | Beschreibung                                                                                               |
-| --------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Datenbank prüfen                  | Mint System         | Liste der Module von Dritten erstellen.                                                                    |
-| Odoo Module migrieren             | Mint System         | Odoo Module auf neue Version migrieren.                                                                    |
-| Test-Upgrade durchführen          | Mint System         | Odoo Upgrade im Testmodus ausführen.                                                                       |
-| Upgrade-Umgebung bereitstellen    | Mint  System        | Die Upgrade-Umgebung für Kunde bereitstellen.                                                              |
-| Test-Upgrade bereitstellen        | Mint System         | Upgrade im Testmodus durchführen und auf Upgrade-Umgebung bereitstellen.                                   |
-| Test-Upgrade verifizeren          | Kunde               | Funktionale Anforderungen prüfen.                                                                          |
-| Feedback-Loop Test-Uprade starten | Mint System / Kunde | Technische Anpassungen in Drechbuch-Prozess vornehmen. Kundenspezifischer Drechbuch-Prozess dokumentieren. |
-| Produktives Upgrade freigeben     | Kunde               | Kunde erteilt Freigabe für produktives Upgrade.                                                            |
-| Produktives Upgrade durchführen   | Mint System         | Gemäss Kundenspezifischer Upgrade-Dokumentation das produktive Upgrade durchführen.                        |
-| Produktives Upgrade verifizieren  | Kunde               | Produktives Upgrade verfizieren.                                                                           |
+| Arbeitsschritt                    | Verantwortlich       | Beschreibung                                                                          |
+| --------------------------------- | -------------------- | ------------------------------------------------------------------------------------- |
+| Datenbank prüfen                  | Mint System          | Liste der Module von Dritten erstellen.                                               |
+| Odoo Module migrieren             | Mint System          | Odoo Module auf neue Version migrieren.                                               |
+| Upgrade-Umgebung bereitstellen    | Mint  System / Kunde | Die Upgrade-Umgebung für Kunde bereitstellen. Upgrade-Drehbuch erstellen              |
+| Test-Upgrade durchführen          | Mint System          | Odoo Upgrade im Testmodus ausführen.                                                  |
+| Test-Upgrade bereitstellen        | Mint System          | Upgrade im Testmodus durchführen und auf Upgrade-Umgebung bereitstellen.              |
+| Test-Upgrade verifizeren          | Kunde                | Funktionale Anforderungen prüfen.                                                     |
+| Feedback-Loop Test-Uprade starten | Mint System / Kunde  | Technische Anpassungen gemäss Feedback vornehmen. Drechbuch des Kunden aktualisieren. |
+| Produktives Upgrade freigeben     | Kunde                | Kunde erteilt Freigabe für produktives Upgrade.                                       |
+| Produktives Upgrade durchführen   | Mint System          | Gemäss Kundenspezifischem Drehbuch das produktive Upgrade durchführen.                |
+| Produktives Upgrade verifizieren  | Kunde                | Produktives Upgrade verfizieren.                                                      |
 
 ## Weiterführende Links
 
