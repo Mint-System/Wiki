@@ -6,12 +6,24 @@ tags:
 
 Was für die Produkte und Dienstleistung von Mint System ansteht.
 
-## Dienstleistung - Support
+## Dienstleistungen
 
-Mit neuem Personal
+**[[Supportvertrag]]**
 
+Mit zusätzlichem Personal möchten wir die Supportverträge für weitere Kunden anbieten und die Abwicklung der Supportanfragen professionalisieren.
 
-## Interne Entwicklung - Build
+## Build Tools
 
-Unsere Werkzeuge [[Odoo Build]], [[Ansible Build]] und [[Kubernetes Build]] werden stetig weiterentwickelt.
+**[[Mint System Odoo]] **
 
+Das Docker Image ist im produktiven Einsatz. Es wird für [[OpenShift]]-Umgebung fit gemacht.
+
+**[[Kubernetes Build]]**
+
+Dieses Projekt stellt die Helm Charts für ein [[Kubernetes]] Deployment bereit. Langfristig soll es [[Ansible Build]] ablösen.
+
+## Hosting
+
+**[[Mint Cloud]]**
+
+Es wird eine Odoo-Website bereitgestellt wo Kunden ein Odoo Hosting kaufen können.
