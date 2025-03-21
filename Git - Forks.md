@@ -22,7 +22,7 @@ Repo öffnen.
 
 ```bash
 cd Sozialinfo-Odoo-Build
-git switch 16.0
+git switch main
 ```
 
 Upstream-Remote hinzufügen:
@@ -34,13 +34,13 @@ git remote add upstream git@github.com:Mint-System/Odoo-Build.git
 Den Upstream-Branch erstelllen:
 
 ```bash
-git checkout -b Mint-System-16.0 upstream/16.0
+git checkout -b upstream-main upstream/main
 ```
 
 Von dort den Upstream-Branch pullen.
 
 ```bash
-git pull upstream 16.0
+git pull upstream main
 ```
 
 ### Ausführen
@@ -48,30 +48,31 @@ git pull upstream 16.0
 Aktualisieren Upstream-Branch.
 
 ```bash
-git switch Mint-System-16.0 
-git pull upstream 16.0
+git switch upstream-main
+git pull upstream-main
 ```
 
 Submodules-Datei auschecken.
 
 ```bash
-git checkout 16.0 .gitmodules
+git checkout main .gitmodules
 git stash
 ```
 
 Branch neu anlegen und Submodules-Datei wieder einfügen. 
 
 ```bash
-git branch -D 16.0
-git switch -c 16.0
+git branch -D main
+git switch -c main
 git stash pop
 ```
 
 Submodule neu auschecken.
 
 ```bash
-task git-submodule-switch 16.0
-task git-submodule-pull
+task switch-git-submodule 16.0
+task pull-git-submodule
+task save-version
 ```
 
 Rebrand the repo.
@@ -86,6 +87,6 @@ Alles committen.
 
 ```bash
 git add --all
-git commit -m "feat(repo): update from upstream"
-git push -f --set-upstream origin 16.0
+git commit -m "chore: update from upstream"
+git push -f --set-upstream origin main
 ```
