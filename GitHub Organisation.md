@@ -13,6 +13,8 @@ Die Mint System ist als Organisation auf [[GitHub]] unter <https://github.com/Mi
 
 `CONTAINER_REGISTRY_PASSWORD`
 
-SSH_PUBLIC_KEY_MINTBOT
+`SSH_PUBLIC_KEY_MINTBOT`
 
 `SSH_PRIVATE_KEY_MINTBOT`
+
+`ODOO_SUBSCRIPTION_CODE`
