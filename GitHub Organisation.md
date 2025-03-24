@@ -17,4 +17,4 @@ Die Mint System ist als Organisation auf [[GitHub]] unter <https://github.com/Mi
 
 `SSH_PRIVATE_KEY_MINTBOT`
 
-`ODOO_SUBSCRIPTION_CODE`
+`ODOO_ENTERPRISE_CODE`
