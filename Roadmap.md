@@ -14,7 +14,7 @@ Mit zusätzlichem Personal möchten wir die Supportverträge für weitere Kunden
 
 ## Build Tools
 
-**[[Mint System Odoo]] **
+**[[Mint System Odoo]]**
 
 Das Docker Image ist im produktiven Einsatz. Es wird für [[OpenShift]]-Umgebung fit gemacht.
 
