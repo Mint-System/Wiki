@@ -24,3 +24,4 @@ graph LR;
 * [[Prozesse Projektmanagement - Business Requirement]]
 * [[Prozesse Projektmanagement - Ressourcenplanung]]
 * [[Prozesse Projektmanagement - Archivierung]]
+* [[Prozesse Projektmanagement - Freelancer%In]]

@@ -25,5 +25,5 @@ Arbeitsschritte:
 Arbeitsschritte:
 * Die Mint System Passwort-Datei öffnen
 * Bei einer längeren Bearbeitung die Datenbank sperren
-* Ein neue Eintrag gemäss [[Richtlinie - Passwörter]] erstellen
+* Ein neue Eintrag gemäss [[Richtlinie - Passwortmanager]] erstellen
 * Speichern und Datenbank entsperren

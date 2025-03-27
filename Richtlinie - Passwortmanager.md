@@ -2,10 +2,13 @@
 tags:
 - Richtlinien
 ---
-# Richtlinie - Passwörter
-Passwörter und Zugangsdaten zu Accounts der Mint System werden zentral gespeichert.
+# Richtlinie - Passwortmanager
 
-Mehr dazu unter [[Passwortmanager]].
+Passwörter und Zugangsdaten zu Accounts der Mint System werden in einem [[Passwortmanager]] gespeichert.
+
+Intern werden alle Passwörter mit [[KeePassXC]] gespeichert.
+
+Wenn Passwörter mit externen geteilt werden müssen, werden Sie in [[Nextcloud Passwords]] als Dupliakte erfasst.
 
 ## Anforderungen
 

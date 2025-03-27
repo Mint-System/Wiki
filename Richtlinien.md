@@ -10,7 +10,7 @@ Richtlinien der Mint System.
 * [[Richtlinie - Namenskonventionen]]  
 * [[Richtlinie - Dokumentmanagementsystem]]  
 * [[Richtlinie - Konferenz]]  
-* [[Richtlinie - Passwörter]]  
+* [[Richtlinie - Passwortmanager]]  
 * [[Richtlinie - E-Mail]]  
 * [[Richtlinie - Website]]  
 * [[Richtlinie - Spesenreglement]]  
