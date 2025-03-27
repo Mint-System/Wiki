@@ -13,6 +13,7 @@ Arbeitsschritte:
 * In Keycloak einen Benutzer anlegen
 	* `access` Zugriff auf `erp.mint-system.ch` und `cloud.mint-system.ch` erteilen
 * In Odoo einen Benutzer mit Rolle "Shared" anlegen
+* In Odoo einen Mitarbeiter anlegen und mit "Shared" taggen
 * Mail an Freelancer%In schicken:
 
 ```
