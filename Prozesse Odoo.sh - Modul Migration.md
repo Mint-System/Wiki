@@ -9,7 +9,9 @@ Damit Sie Module für ein Odoo.sh Projekt/Repsitory migrieren können müssen Si
 * [[Prozesse Odoo.sh - Projekt bereitstellen#Odoo.sh Repository einrichten]]
 * [[Prozess Odoo.sh - Upgrade Implementation#Upgrade-Branch einrichten]]
 
-Wenn Sie den Upgrade-Branch eingerichtet haben, können Sie Submodule hinzufügen und Module migrieren:
+Wenn Sie den Upgrade-Branch eingerichtet haben, können Sie Submodule in der neuen Version hinzufügen und Module migrieren:
 
 * [[Prozesse Odoo.sh - Projekt bereitstellen#Submodul hinzufügen]]
 * [[Prozesse Odoo - Modul Migration#Modul migrieren]]
+
+Wenn Sie Module migriert haben und diese bereitstellen möchten, führen Sie [[Prozess Odoo.sh - Upgrade Implementation#Submodul aktualisieren]] aus.
