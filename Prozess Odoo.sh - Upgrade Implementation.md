@@ -5,7 +5,7 @@ tags:
 
 # Process Odoo.sh - Upgrade Implementation
 
-## Upgrade-Branch einrichten
+## Branch einrichten
 
 Befolge diese Anweisungen, um einen Upgrade-Branch im Odoo.sh-Projekt einzurichten:
 
