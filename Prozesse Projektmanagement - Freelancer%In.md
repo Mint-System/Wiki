@@ -23,7 +23,7 @@ Du solltest mehrere Zugriffs-Einadungen erhalten haben.
 
 ---
 
-Login Mint System / https://login.mint-system.ch/
+Login Mint System / https://login.mint-system.ch/auth/realms/mint-system.ch/account/#/
 
 Hier verwaltest du deinen Mint System Benutzer.
 
@@ -33,7 +33,7 @@ Unser Odoo ERP-System. Du hast die Rolle "Shared" und bekommst damit Zugriff auf
 
 Um einzuloggen verwendest du den OAuth-Provider "Login Mint System".
 
-Cloud Mint Sysem / https://cloud.mint-system.ch/
+Cloud Mint System / https://cloud.mint-system.ch/
 
 Unsere Nextcloud Datei-Ablage. Bist du einmal eingeloggt können wir Projekte und Passwörter teilen.
 
