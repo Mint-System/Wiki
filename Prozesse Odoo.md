@@ -13,7 +13,6 @@ Technische Dokumentation der Odoo Prozesse.
 * [[Prozesse Odoo - Testumgebung bereitstellen]]
 * [[Prozesse Odoo - Produktionsumgebung bereitstellen]]
 * [[Prozesse Odoo - Upgrade-Umgebung bereitstellen]]
-* [[Prozesse Odoo - Odoo.sh bereitstellen]]
 
 ## Verwaltung
 
@@ -27,7 +26,6 @@ Technische Dokumentation der Odoo Prozesse.
 
 * [[Prozesse Odoo - Upgrade Angebot]]
 * [[Prozesse Odoo - Upgrade Implementation]]
-* [[Process Odoo.sh - Upgrade Implementation]]
 
 ## Odoo Apps
 

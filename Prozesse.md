@@ -9,22 +9,26 @@ Prozesse regeln das **Wie**.
 
 In diesem Dokument werden die internen Prozesse der Mint System beschrieben.
 
-Intern:
+Administration:
 
 * [[Prozesse Personal]]
 * [[Prozesse Dokumentenmanagement]]
 * [[Prozesse Wiki]]
 * [[Prozesse Finanzen]]
 
-Dienstleistung:
+Unterstützung:
 
 * [[Prozesse Akquise]]
 * [[Prozesse Marketing]]
+* [[Prozesse Support]]
+
+Dienstleistungen:
+
 * [[Prozesse Projektmanagement]]
 * [[Prozesse Beratung]]
 * [[Prozesse Odoo]]
+* [[Prozesse Odoo.sh]]
 * [[Prozesse Nextcloud]]
-* [[Prozesse Support]]
 
 Technisch:
 

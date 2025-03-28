@@ -4,7 +4,7 @@ tags:
 ---
 # Prozesse Odoo - Modul Migration
 
-## Odoo Submodule-Branch initialisieren
+## Submodule-Branch initialisieren
 
 Arbeitsschritte:
 
@@ -18,7 +18,7 @@ Arbeitsschritte:
 * Änderungen auf Odoo Build committen
 * Register repo to <https://apps.odoo.com/apps/dashboard/repos>
 
-## Odoo Modul migrieren
+## Modul migrieren
 
 Arbeitsschritte:
 
@@ -38,7 +38,7 @@ Arbeitsschritte:
 	* Wenn PR gemerged ist, das Submodule-Repo deployen
 * Änderungen pushen: `git push`
 
-## Mint System Fork für OCA-Repo erstellen
+## Mint System Fork für OCA Repository erstellen
 
 Arbeitschritte:
 
