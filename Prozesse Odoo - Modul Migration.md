@@ -9,7 +9,7 @@ tags:
 Arbeitsschritte:
 
 * Navigation in das Submodule `cd addons/$REPO`
-* Neuer Branch erstellen `git switch --orphan $TARGET_VERSION`
+* Neuer Branch erstellen `git switch --orphan=$TARGET_VERSION`
 * Alle Dateien entfernen `rm -rf ./*`
 * Template-Dateien kopieren `task template-repo addons/$REPO`
 * Die `README.md` Datei aktualisieren.
@@ -22,7 +22,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-* In Odoo-Build die neue Odoo Version auschecken: `task checkout $TARGET_VERSION`
+* In Odoo-Build die neue Odoo Version auschecken: `task load-version $TARGET_VERSION`
 * Auschecken Modul von vorhergehender Version: `cd addons/$REPO; git checkout $SOURCE_VERSION $MODULE`
 * Modul-Version in `__manifest__.py` aktualisieren
 * Modul-Code aktualisieren: `task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION`

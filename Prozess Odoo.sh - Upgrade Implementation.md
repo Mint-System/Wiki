@@ -10,7 +10,7 @@ tags:
 Befolge diese Anweisungen, um einen Upgrade-Branch im Odoo.sh-Projekt einzurichten:
 
 * Öffne das Git-Repository des Odoo.sh-Projekts im Terminal.
-* Erstelle einen Upgrade-Branch (verwaist) mit `git checkout --orphan -b upgrade`.
+* Erstelle einen Upgrade-Branch (verwaist) mit `git checkout --orphan=upgrade`.
 
 Der Name des Branches sollte die Odoo-Version enthalten, da es mehrere Upgrade-Branches geben könnte.
 
@@ -23,7 +23,6 @@ Jedes Mal, wenn ein Commit in diesem Branch gemacht wird, führt Odoo.sh die Upg
 
 * Füge die Git-Submodule zum Repository hinzu.
 * Sobald alle erforderlichen Odoo-Module verfügbar sind, beginne mit den Tests beim Kunden.
-
 
 ## Submodul aktualisieren
 
@@ -46,5 +45,5 @@ git pull
 
 ```bash
 git add doo-apps-manufacture
-git commit -m "feat: odoo-apps-manufacture"
+git commit -m "chore: odoo-apps-manufacture"
 ```

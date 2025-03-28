@@ -57,3 +57,20 @@ ODOO_ADDONS_PATH=../$REPO
 
 * Laden Sie die Odoo-Version und installieren Sie Module aus dem Repository
 
+### Submodule hinzufügen
+
+Arbeitsschritte
+
+* Fügen Sie im Odoo.sh Projekt in einem ausgewählten Branch das Submodule hinzu:
+
+```bash
+cd ~/$REPO
+git clone add -b XX.0 git@github.com:$ORGANISATION/$REPO.git "$ORGANISATION-$REPO"
+```
+
+* Committen Sie die `.gitmodules`-Datei und die Referenz.
+
+```bash
+git add --all
+git commit -m "feat: new submodule $ORGANISATION/$REPO"
+```
