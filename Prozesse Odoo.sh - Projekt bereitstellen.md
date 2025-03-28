@@ -55,6 +55,10 @@ vi .env
 ODOO_ADDONS_PATH=../$REPO
 ```
 
+::: warning
+Diesen Schritt müssen Sie nur ausführen, wenn Odoo Module direkt im Odoo.sh Repository eingecheckt sind.
+:::
+
 * Laden Sie die Odoo-Version und installieren Sie Module aus dem Repository
 
 ### Submodul hinzufügen
