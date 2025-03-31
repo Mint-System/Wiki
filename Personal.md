@@ -8,4 +8,6 @@ Siehe [[Prozesse Personal]].
 
 Relevante Themen:
 
+* [[Jobs]]
+* [[Weiterbildung]]
 * [[Billability]]

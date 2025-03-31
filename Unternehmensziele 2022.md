@@ -1,6 +1,6 @@
 ---
 tags:
-- Asset
+  - Unternehmensentwicklung
 ---
 # Unternehmensziele 2022
 

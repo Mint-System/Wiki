@@ -6,4 +6,7 @@ tags:
 
 Wie wir mit [[Partner]] zusammenarbeiten.
 
-[[Odoo Development Workflow]]
+Weiterführende Links:
+
+* [[Subunternehmen]]
+* [[Odoo Development Workflow]]

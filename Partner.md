@@ -38,3 +38,7 @@ Geschäftsbeziehungen der Mint System.
 ## Softwareentwicklung
 
 * [[BINARY one GmbH]]
+
+## Trägerschaften
+
+* [[inosca]]
