@@ -7,5 +7,5 @@ responsible: Janik von Rotz
 
 ## Verwaltung
 
-* [[Prozesse Nextcloud - Upgrade]]
 * [[Prozesse Nextcloud - Apps]]
+* [[Prozesse Nextcloud - Upgrade]]
