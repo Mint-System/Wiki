@@ -15,7 +15,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Akquise/[Name]                            | Ablage für Akquise                                                                  |
 | Angebot                                   | Angebote der Mint System                                                            |
 | Archiviert                                | Ablage zur Archivierung                                                             |
-| Ausbildung                                | Unterlagen zur selbständigen Weiterbildung                                          |
+| Ausbildung                                | Unterlagen zur selbständigen Weiterbildung: Bücher, Methodik, Kurse und eLearning   |
 | Bilder                                    | Fotoalben                                                                           |
 | Corporate Design                          | Format- und Dokumentvorlagen, Bilder zur Publikation                                |
 | Data                                      | Speicherung von Anwendungsdaten.  Beispielsweise Passwort-Dateien von [[KeePassXC]] |
@@ -53,7 +53,6 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Verträge/[Name]                           | Alle Vertragsdokumente mit Externen                                                 |
 | Vorlage                                   | Dokumentvorlagen mit Inhalt                                                         |
 | Website                                   | Dateien zum Webauftritt                                                             |
-| Netzwerk                                  |                                                                                     |
 
 ## Format
 
