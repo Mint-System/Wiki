@@ -69,7 +69,7 @@ Arbeitsschritte
 
 ```bash
 cd ~/$REPO
-git clone add -b XX.0 git@github.com:$ORGANISATION/$REPO.git "$ORGANISATION-$REPO"
+git submodule add -b XX.0 git@github.com:$ORGANISATION/$REPO.git "$ORGANISATION-$REPO"
 ```
 
 * Committen Sie die `.gitmodules`-Datei und die Referenz.
