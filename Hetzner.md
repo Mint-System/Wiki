@@ -1,8 +1,10 @@
 ---
 tags:
-- Definition
+  - Website
+type: reference
 ---
 # Hetzner
+
 Deutscher Hosting-Anbieter.
 
 Website: https://www.hetzner.com/

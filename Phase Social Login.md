@@ -1,6 +1,7 @@
 ---
 tags:
-- Phasen
+  - Phasen
+type: reference
 ---
 # Phase Social Login
 

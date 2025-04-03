@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+type: reference
 ---
 # Frappe
 
@@ -9,4 +10,4 @@ Low code web framework.
 Website: <https://frappeframework.com/>\
 Repository: <https://github.com/frappe/frappe>
 
-[[Frappe Hosting]]
+Weiterführende Links: [[Frappe Hosting]]

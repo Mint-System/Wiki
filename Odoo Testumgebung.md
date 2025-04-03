@@ -14,7 +14,3 @@ Testumgebungen unter `erp-dev.example.com`.
 Dementesprechend heissen auch die Datenbanken *erp* und *erp-dev*. Die Datenbanknamen sind oben rechts im Odoo-Menu ersichtlich.
 
 ![[Odoo Show DB Name.png]]
-
-::: warning
-Dies gilt sofern das [[Odoo App Show DB Name]] installiert ist.
-:::

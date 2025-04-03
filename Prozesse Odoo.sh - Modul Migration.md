@@ -1,6 +1,7 @@
 ---
 tags:
   - Prozess
+type: reference
 ---
 # Prozesse Odoo.sh - Modul Migration
 

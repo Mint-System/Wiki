@@ -1,7 +1,8 @@
 ---
 tags:
   - Definition
+type: reference
 ---
 # Dokumentation
 
-[[Excalidraw]]
+Weiterführende Links: [[Excalidraw]]

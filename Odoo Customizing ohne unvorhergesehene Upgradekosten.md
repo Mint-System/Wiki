@@ -1,8 +1,10 @@
 ---
 tags:
-- Asset
+  - Asset
+type:
 ---
 # Odoo Customizing ohne unvorhergesehene Upgradekosten
+
 Jede Anpassung in Odoo birgt ein Risiko für unvorgesehene Upgradekosten.
 
 Der folgende Artikel beschreibt, wie wir als Integratoren das Odoo-System den Bedürfnissen des Kunden anpassen und gleichzeitig sicherstellen, dass in Zukunft keine funktionalen Einschränkungen oder Regressionen entstehen.

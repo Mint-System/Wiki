@@ -1,8 +1,10 @@
 ---
 tags:
-- Definition
+  - Definition
+type: explain
 ---
 # Odoo Product Lifecycle Management
+
 Das Unternehmen [[OmniaSolutions]] entwickelt die Odoo App [Product Lifecycle Managment](https://apps.odoo.com/apps/modules/15.0/plm/).
 
 Der Server Code ist auf GitHub: <https://github.com/OmniaGit/odooplm>

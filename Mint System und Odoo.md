@@ -1,6 +1,7 @@
 ---
 tags:
-- Slide
+  - Slide
+type: explain
 ---
 ![[logo.svg]]
 

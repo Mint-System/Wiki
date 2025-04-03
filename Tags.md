@@ -40,3 +40,6 @@ Diese Tags können in den Metadaten der Artikel verwendet werden:
 * #Specification / #Spezifikation 
 * #Templates / #Vorlagen 
 * #Tools 
+* #Unternehmensentwicklung 
+* #Blog
+* #Website 

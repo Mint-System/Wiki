@@ -1,6 +1,7 @@
 ---
 tags:
-- Phasen
+  - Phasen
+type: explain
 ---
 # Phase Odoo Upgrade
 

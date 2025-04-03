@@ -1,7 +1,8 @@
 ---
 tags:
-  - Asset
+  - Blog
 draft: true
+type: explain
 ---
 # Odoo ist kein ERP-System
 

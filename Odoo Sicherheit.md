@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+type: reference
 ---
 # Odoo Sicherheit
+
+Beschreibung wie die Odoo Sicherheit regelt.
 
 ## Zugriffskontrolle
 
