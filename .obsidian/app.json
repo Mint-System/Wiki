@@ -14,7 +14,7 @@
   },
   "userIgnoreFilters": [
     "node_modules/",
-    "src/"
+    "src"
   ],
   "showInlineTitle": false,
   "propertiesInDocument": "visible",

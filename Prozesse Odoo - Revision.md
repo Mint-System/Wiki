@@ -1,10 +1,12 @@
 ---
 tags:
-- Prozess
+  - Prozess
+type: reference
 ---
 # Prozesse Odoo - Revision
 
 Bereitstellung einer Odoo Revision.
+
 ## Odoo Revision erstellen
 
 Arbeitsschritte:

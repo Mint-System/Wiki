@@ -1,6 +1,7 @@
 ---
 tags:
-- Note
+  - Note
+type: explain
 ---
 # Mail Bounce
 

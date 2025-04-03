@@ -1,3 +1,8 @@
+---
+type: tutorial
+tags:
+  - Unternehmensentwicklung
+---
 # Innovation
 
 Ideen für Innovationen werden in [[Ideation]] mitgeteilt.

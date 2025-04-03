@@ -1,6 +1,6 @@
 ---
 tags:
-- Prozess
+  - HowTo
 ---
 
 # Odoo Webshop Payrexx Checkliste

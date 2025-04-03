@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+type: reference
 ---
 # Link 2500 Portable Flex
 

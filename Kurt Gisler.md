@@ -1,6 +1,5 @@
 ---
-tags:
-  - Definition
+type: reference
 responsibilities:
   - Unternehmensentwicklung
   - Personal

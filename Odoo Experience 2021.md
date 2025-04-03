@@ -3,6 +3,7 @@ tags:
 - Asset
 ---
 # Odoo Experience 2021
+
 Einblick in die Neuerungen von Odoo 15.
 
 Am 06. bis 07. Oktober 2021 ist es wieder soweit. Odoo veranstaltet ihre jährliche *Odoo Experience*.

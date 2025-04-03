@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+type: reference
 ---
 # Standard für Dokumentationssysteme
 
@@ -9,3 +10,5 @@ Es gibt ein Geheimnis, das man verstehen muss, um eine gute Software-Dokumentati
 ![[Dokumentationssystem.png]]
 
 Quelle: <https://documentation.divio.com/>
+
+Alle Notizen in dieser Knowledgebase werden diesen vier Typen zugeordnet: tutorial, howto, explain, reference

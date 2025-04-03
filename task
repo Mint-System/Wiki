@@ -12,51 +12,105 @@ function help() {
     echo "commands:"
     echo
 
-    cmd_width=20
-    opt_width=6
-    desc_width=45
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "Command" "Option" "Description"
-    echo "|$(printf '%*s' $((cmd_width + 2)) '' | tr ' ' '-')|$(printf '%*s' $((opt_width + 2)) '' | tr ' ' '-')|$(printf '%*s' $((desc_width + 2)) '' | tr ' ' '-')|"
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "install" "" "Install build dependencies."
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "build" "" "Build project."
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "dev" "" "Start vuepress development server."
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "vuepress-build" "" "Create vuepress build."
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "serve-build" "" "Serve vuepress build."
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "convert-files" "" "Convert markdown wiki links to normal link."
-    printf "| %-${cmd_width}s | %-${opt_width}s | %-${desc_width}s |\n" "convert-canvas" "" "Convert canvas files to svg."
+    CMD_WIDTH=20
+    OPT_WIDTH=6
+    DESC_WIDTH=45
+    COLUMN="| %-${CMD_WIDTH}s | %-${OPT_WIDTH}s | %-${DESC_WIDTH}s |\n"
+
+    # Print table header
+    printf "$COLUMN" "Command" "Option" "Description"
+    echo "|$(printf '%*s' $((CMD_WIDTH + 2)) '' | tr ' ' '-')|$(printf '%*s' $((OPT_WIDTH + 2)) '' | tr ' ' '-')|$(printf '%*s' $((DESC_WIDTH + 2)) '' | tr ' ' '-')|"
+
+    # Print table rows
+    printf "$COLUMN" "install" "" "Install build dependencies."
+    printf "$COLUMN" "build" "" "Build project."
+    printf "$COLUMN" "dev" "" "Start vuepress development server."
+    printf "$COLUMN" "vuepress-build" "" "Create vuepress build."
+    printf "$COLUMN" "serve-build" "" "Serve vuepress build."
+    printf "$COLUMN" "convert-files" "" "Convert markdown wiki links to normal link."
+    printf "$COLUMN" "convert-canvas" "" "Convert canvas files to svg."
+    printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
 
     echo
 }
 
-case "$1" in
-    help)
-        help
-        ;;
-    install)
-        npm install
-        ;;
-    build)
-        node build.js
-        ;;
-    dev)
-        npm run dev
-        ;;
-    vuepress-build)
-        npm run vue-build
-        ;;
-    serve-build)
-        cd ./src/.vuepress/dist
-        npx serve
-        ;;
-    convert-files)
-        node build.js vuepress
-        node build.js convert
-        node build.js attachments
-        ;;
-    convert-canvas)
-        node build.js canvas
-        ;;
-    *)
-        help
-        exit 1;
-esac
+function review-notes() {
+    VAULT_PATH="$(pwd)"
+    REVIEW_LOG="$VAULT_PATH/review-note.csv"
+
+    if [[ ! -f "$REVIEW_LOG" ]]; then
+        echo "Init review log."
+        echo "note_name,timestamp" > "$REVIEW_LOG"
+    fi
+
+    echo "Get reviewed files."
+    REVIEWED_FILES=$(cut -d',' -f1 "$REVIEW_LOG" | tail -n +2)
+
+    echo "Find all markdown files."
+    MD_FILES=$(find . -type f -name "*.md" | grep -vFf <(git check-ignore -v $(find . -type d) | awk '{print $2}'))
+
+    echo "Filter unreviewed files."
+    UNREVIEWED_FILES=$(echo "$MD_FILES")
+
+    if [[ -z "$UNREVIEWED_FILES" ]]; then
+        echo "No new files to review!"
+        return
+    fi
+
+    echo "Pick a random file."
+    SELECTED_FILE=$(echo "$UNREVIEWED_FILES" | shuf -n 1)
+
+    NOTE_NAME=$(basename "$SELECTED_FILE" .md)
+    TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+
+    ENCODED_FILE=$(echo -n "$NOTE_NAME" | jq -sRr @uri)
+    echo "Encode '$NOTE_NAME' to '$ENCODED_FILE'"
+    echo "Opening obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE"
+    obsidian "obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE"
+
+    echo "Log the review."
+    echo "\"$NOTE_NAME\",\"$TIMESTAMP\"" >> "$REVIEW_LOG"
+}
+
+function install() {
+    pnpm install
+}
+
+function build() {
+    node build.js
+}
+
+function dev() {
+    pnpm run dev
+}
+
+function vuepress-build() {
+    pnpm run vue-build
+}
+
+function serve-build() {
+    cd ./src/.vuepress/dist
+    npx serve
+}
+
+function convert-files() {
+    node build.js vuepress
+    node build.js convert
+    node build.js attachments
+}
+
+function convert-canvas() {
+    node build.js canvas
+}
+
+if declare -f "$1" > /dev/null; then
+    "$1" "${@:2}"
+else
+    case "$1" in
+        *)
+            echo "Unknown command: $1"
+            help task
+            exit 1
+            ;;
+    esac
+fi

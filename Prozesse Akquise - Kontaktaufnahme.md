@@ -1,11 +1,14 @@
 ---
 tags:
-- Prozess
+  - Prozess
+type: reference
 ---
 # Prozesse Akquise - Kontaktaufnahme
+
 Kontakaufnahme mit dem Kunden.
 
 ## Kalt-Akquise
+
 Vorgehen Kalt-Akquise.
 
 Arbeitsschritte:
