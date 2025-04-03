@@ -8,6 +8,7 @@ tags:
 ---
 date:
 participants:
+type: meeting
 ---
 # {{NAME}}
 
