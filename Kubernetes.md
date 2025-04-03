@@ -8,4 +8,4 @@ Production-Grade Container Orchestration.
 
 Website: <https://kubernetes.io/>
 
-Wir verwenden [[k3s]].
+Weiterführende links: [[k3s]], [[Managed Kubernetes]].
