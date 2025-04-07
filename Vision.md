@@ -2,8 +2,13 @@
 tags:
   - Unternehmensentwicklung
 type: explain
+draft: true
 ---
 # Vision
+
+::: warning
+Diese Seite befindet sich in der Entwurfsphase. Der Inhalt ist vorläufig und kann jederzeit überarbeitet oder aktualisiert werden.
+:::
 
 Wir das Unternehmen im Jahr 2020 gegründet. Hier finden Sie die Visionen für die kommenden Jahre und Jahrzente.
 
