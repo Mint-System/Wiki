@@ -1,8 +1,10 @@
 ---
 tags:
-- Asset
+  - Asset
+type: reference
 ---
 # Dienstleistungen
+Version: 2025-04-07
 
 Kompetenzen der Mint System GmbH und die dazugehörigen Dienstleistungen.
 
@@ -27,6 +29,7 @@ Preis: 180 CHF pro Stunde
 ![[odoo_icon_tool.png]]
 
 Umfasst diese Leistungen:
+
 - Interview mit Stakeholder
 - Erstellen Systemabgrenzung
 - Erfassen und kategorisieren von Anforderungen
@@ -39,6 +42,7 @@ Preis: 180 CHF pro Stunde
 ![[odoo_icon_tool.png]]
 
 Umfasst folgende Dienstleistungen:
+
 - Requirements Engineering
 - Iterative Entwicklung gemäss Anforderungen
 - Bereitstellung und Inbetriebnahme der Software-Lösung
@@ -50,22 +54,24 @@ Preis: 180 CHF pro Stunde
 ![[odoo_icon_tool.png]]
 
 Umfasst folgende Dienstleistungen:
+
 - Odoo Customizing
 - Technische Integration in kundenspezifische Umgebung
 - Odoo Modulkonfigurationen
 - Datenimport
 
-Preis: 160 CHF pro Stunde
+Preis: 180 CHF pro Stunde
 
 ## Geschäftsanalyse
 
 ![[odoo_icon_people.png]] 
 
 Umfasst diese Dienstleistungen:
+
 * Methodische Umsetzung des Beratungsprojekts
 * Erstellen Dokumentation zur Projektabwicklung
 
-Preis: 160 CHF pro Stunde
+Preis: 180 CHF pro Stunde
 
 ## Datenmanagement
 
@@ -83,7 +89,7 @@ Umfasst folgende Dienstleistungen
 - Transformation Daten in neues Format
 - Import Daten in Zielsystem
 
-Preis: 160 CHF pro Stunde
+Preis: 180 CHF pro Stunde
 
 ## System-Engineering
 
@@ -99,7 +105,7 @@ Umfasst folgende Dienstleistungen:
 - Bereitstellung Hosting
 - Technische Integration mit Umsystemen
 
-Preis: 160 CHF pro Stunde
+Preis: 180 CHF pro Stunde
 
 ## [[Technischer Support]]
 
