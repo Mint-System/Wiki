@@ -5,6 +5,7 @@ tags:
 # Philosophie
 
 Wir sind:
+
 * Zielorientiert
 * Modern
 * Transparent

@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+type: reference
 ---
 # Evaluation
 
@@ -18,8 +19,8 @@ Kriterien zur Evaluation einer Lösung.
 
 Erledigte Evaluationen:
 
-[[Evaluation IaaS]]  
-[[Evaluation Odoo Report]]  
-[[Evaluation Telefonieanbieter]]  
-[[Evaluation Nextcloud Office]]
-[[Odoo Printing#Evaluation]]
+* [[Evaluation IaaS]]
+* [[Evaluation Odoo Report]]
+* [[Evaluation Telefonieanbieter]]
+* [[Evaluation Nextcloud Office]]
+* [[Odoo Printing#Evaluation]]
