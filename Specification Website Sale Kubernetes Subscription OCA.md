@@ -2,6 +2,7 @@
 lang: en
 tags:
   - Specification
+draft: true
 ---
 # Specification Website Sale Kubernetes Subscription OCA
 

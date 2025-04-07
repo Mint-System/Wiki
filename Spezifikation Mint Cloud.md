@@ -1,6 +1,7 @@
 ---
 tags:
   - Spezifikation
+draft: true
 ---
 
 # Spezifikation Mint Cloud
@@ -16,22 +17,14 @@ Die Mint Cloud Hosting-Platform basiert auf Odoo und Kubernetes.
 Der Kern der Architektur bildet der Odoo Webshop. Er ist die Schnittstelle nach Aussen zum Kunden und nach Innen zu den Kubernetes-Umgebungen.
 ### Odoo Webshop
 
-Die Kommunikation zwischen Odoo und der Kubernetes API erfolgt mit dem [kubernetes-python-client](https://kubernetes.readthedocs.io/en/latest/).
+[[Specification Website Sale Helm]]
 
-Bei einem Deployment werden die Manifest-Dateien von der URL heruntergeladen. Die App-Parameter werden in ein `vars.yml` geschrieben. Analog Ansible (Jinja2) werden die Manifest-Dateien mit den Werten ergänzt. Die Manifest-Dateien werden mit dem Python-Client angewendet.
-
-Die Odoo-Module für den Webshop sind hier beschrieben: [[Specification Website Sale Kubernetes Subscription OCA]]
-
-Die Git-Integration ist hier beschreiben: [[Specification Git Kubernetes]]
 ### Ansible
 
 Die Manifest-Dateien kommen aus dem [[Ansible Build]] Projekt. Der Odoo Kubernetes-Controller verwendet somit die gleichen Manifest-Dateien wie Ansible.
 ### Mailgun
 
 Mit Mailgun können Absender-Domain registriert werden: [[Mailgun#Create a domain]].
-### CrowdSec
-
-[[CrowdSec]] bietet IP-Blocklisten im Gegenzug zu Log-Daten an.
 ### Exoscale
 
 [[Exoscale]] ist nur einer von Möglichen "Managed Kubernetes Providern".
@@ -41,6 +34,7 @@ Mit Mailgun können Absender-Domain registriert werden: [[Mailgun#Create a domai
 ### Codey
 
 Codey ist ein Projekt der [[VSHN AG]] und soll eine Schweizer Alternative zu GitHub und Co beiten.
+
 ## Workflow
 
 Rollen: Kunde, Operator
