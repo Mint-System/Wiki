@@ -23,6 +23,7 @@ Arbeitsschritte:
 
 * Mitarbeiter-Eintrag in Wiki erfassen
 * Infomaniak E-Mail-Account anlegen
+* Infomaniak Account mit Rolle "Benutzer" erstellen
 * Matrix-Benutzer erstellen
 * Keycloak-Benutzer anlegen
 * Zugriffsdaten schicken
