@@ -9,7 +9,8 @@ tags:
 
 Arbeitsschritte:
 
-* In Infomaniak ein Postfach erstellen
+* In Infomaniak ein Postfach und Kalender erstellen
+	* Kalender an alle internen Benutzer freigeben
 * In Infomaniak einen Account mit Rolle "Extern" erstellen
 * In Keycloak einen Benutzer anlegen
 	* `access` Zugriff auf `erp.mint-system.ch` und `cloud.mint-system.ch` erteilen
