@@ -18,6 +18,6 @@ graph TD
   website_sale --> website_sale_helm
 ```
 
-The data model:
+The object model:
 
-![[attachments/Specification Website Sale Helm|Specification Website Sale Helm]]
+![[Specification Website Sale Helm.svg]]
