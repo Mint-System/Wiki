@@ -1,6 +1,6 @@
 ---
 tags:
-  - Asset
+  - Document
 type: reference
 ---
 # Dienstleistungen
