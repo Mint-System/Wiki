@@ -12,6 +12,8 @@ graph TD
   base --> kubectl
   kubectl --> helm
   product --> helm
+  project --> project_helm
+  helm --> project_helm
   helm --> website_sale_helm
   website_sale --> website_sale_helm
 ```
