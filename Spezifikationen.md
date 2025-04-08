@@ -3,7 +3,7 @@ tags:
   - Document
 type: reference
 ---
-# Technische Spezifikationen
+# Spezifikationen
 
 Die folgenden Spezifikationen sind öffentlich und Teil von Mint System Innovationen.
 
@@ -12,3 +12,4 @@ Die folgenden Spezifikationen sind öffentlich und Teil von Mint System Innovati
 * [[Specification Social Mastodon]]
 * [[Specification Uri Cloud]]
 * [[Specification Website Sale Helm]]
+* [[Specification Website Sale Open Service Broker]]

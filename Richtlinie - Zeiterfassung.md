@@ -3,6 +3,11 @@ tags:
 - Richtlinien
 ---
 # Richtlinie - Zeiterfassung
+
+## Keine Arbeit ohne Aufgabe
+
+Jegliche Art von Arbeit erfordert als Grundlage eine Aufgabe. 
+
 ## Rapportieren
 
 Die Beschreibung eines Zeiterfassung-Eintrags versteht sich als Rechtfertigung für die aufgewendete Zeit. Bei der Erfassung gelten die folgenden Regeln:

@@ -13,4 +13,4 @@ tags:
 [[Service Level Agreement Hosting]]\
 [[Wartungsvertrag]]\
 [[Auftragsverarbeitungsvertrag]]\
-[[Technische Spezifikationen]]
+[[Spezifikationen]]
