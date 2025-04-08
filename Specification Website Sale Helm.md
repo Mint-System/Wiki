@@ -18,4 +18,4 @@ graph TD
 
 The object model:
 
-![[Specification Website Sale Helm.excalidraw|Specification Website Sale Helm.excalidraw]]
+![[Specification Website Sale Helm.excalidraw]]
