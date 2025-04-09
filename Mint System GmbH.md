@@ -8,7 +8,6 @@ Website: [https://www.mint-system.ch](https://www.mint-system.ch)
 
 Domains:
 
-- mint-system.org
 - mint-system.ch
 - mint-system.ch
 - mintsystem.ch
