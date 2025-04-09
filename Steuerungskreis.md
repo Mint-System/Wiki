@@ -8,12 +8,12 @@ responsible: Kurt Gisler
 Rollen:
 
 * [[Geschäftsführung]]
-* [[Odoo Entwickler]]
-* [[Systemadministrator]]
-* [[Wissensmanager]]
-* [[Supporter]]
+* [[Odoo Entwickler%in]]
+* [[Systemadministrator%in]]
+* [[Wissensmanager%in]]
+* [[Supporter%in]]
 * [[Odoo Consultant]]
-* [[Odoo Projektleiter]]
+* [[Odoo Projektleiter%in]]
 * [[Buchhaltung]]
 
 Mitglieder:

@@ -8,6 +8,7 @@ Website: [https://www.mint-system.ch](https://www.mint-system.ch)
 
 Domains:
 
+- mint-system.org
 - mint-system.ch
 - mint-system.ch
 - mintsystem.ch
@@ -22,16 +23,16 @@ Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[G
 
 * [[Janik von Rotz]]
 * [[Kurt Gisler]]
-* [[Laszlo Krajnikovszkij]]
+* [[Ulrich Kilian]]
 
 ## Freischaffende
 
-* [[Ulrich Kilian]]
+* [[Marcus Menzel]]
 
 ### Ehemalige
 
 * [[Marco Roeleven]]
-
+* [[Laszlo Krajnikovszkij]]
 ## Zahlungsinformationen
 
 CHF ISR Subscription Number: 01-013066-4

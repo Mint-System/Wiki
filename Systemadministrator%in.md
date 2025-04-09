@@ -2,6 +2,6 @@
 tags:
   - Governance
 ---
-# Wissensmanager
+# Systemadministrator%in
 
 Gefüllt von: [[Janik von Rotz]]

@@ -17,4 +17,5 @@ Themen:
 * [[Kollaboration]]
 * [[Personal]]
 * [[Finanzen]]
-* [[Development]]
+* [[Entwicklung]]
+* [[Governance]]

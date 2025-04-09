@@ -2,6 +2,6 @@
 tags:
 - Asset
 ---
-# Development
+# Entwicklung
 
 Siehe [[man]] pages für Befehle auf der Kommandozeile.

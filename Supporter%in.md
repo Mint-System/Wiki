@@ -2,6 +2,6 @@
 tags:
   - Governance
 ---
-# Supporter
+# Supporter%in
 
 Gefüllt von: [[Kurt Gisler]], [[Janik von Rotz]]
