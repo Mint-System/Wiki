@@ -23,15 +23,10 @@ export TARGET_POSTGRES_CONTAINER="postgres02"
 export TARGET_DATABASE="upgrade"
 ```
 
-Backup database.
+Backup database and restore database if target postgres container is different.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
-```
-
-Restore database if target postgres container is different.
-
-```bash
 ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql"
 ```
 
@@ -81,10 +76,10 @@ ssh -p "$PORT" "$SERVER" docker-odoo-update -c "$TARGET_ODOO_CONTAINER" -d "$TAR
 
 ## Production 🚀
 
-Rename the databases.
+Rename the databases if production mode.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$ODOO_CONTAINER" -s "$DATABASE" -t "${DATABASE}-tmp"
-ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$TARGET_ODOO_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
-ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$ODOO_CONTAINER" -s "${DATABASE}-tmp" -t "$TARGET_DATABASE"
+ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" -s "$DATABASE" -t "${DATABASE}-old"
+ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
+ssh -p "$PORT" "$SERVER" docker-postgres-list -c "$TARGET_POSTGRES_CONTAINER"
 ```
