@@ -7,4 +7,4 @@ type: reference
 
 Akronym: CCC
 
-Website: https://www.ccc.de/
+Website: <https://www.ccc.de/>
