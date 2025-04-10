@@ -1,6 +1,7 @@
 ---
 tags:
-- Richtlinien
+  - Richtlinien
+type: reference
 ---
 # Richtlinie - Passwortmanager
 

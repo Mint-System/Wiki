@@ -4,11 +4,15 @@ tags:
 ---
 # Richtlinie - Zeiterfassung
 
+## Keine Arbeit ohne Zeiterfassung
+
+Wenn Arbeit erledigt wird, muss die Zeit erfasst werden.
+
 ## Keine Arbeit ohne Aufgabe
 
-Jegliche Art von Arbeit erfordert als Grundlage eine Aufgabe. 
+Die Zeiterfassung erfolgt wenn immer möglich auf einer Aufgabe. Daraus folgt, dass es keine Arbeit ohne Aufgabe als Grundlage gibt.
 
-## Rapportieren
+## Beschreibung Zeiterfassung
 
 Die Beschreibung eines Zeiterfassung-Eintrags versteht sich als Rechtfertigung für die aufgewendete Zeit. Bei der Erfassung gelten die folgenden Regeln:
 
