@@ -61,18 +61,18 @@ Copy filestore in test mode.
 ssh -p "$PORT" "$SERVER" docker-volume-copy -s "$ODOO_CONTAINER:/filestore/$DATABASE" -t "$TARGET_ODOO_CONTAINER:/filestore/$TARGET_DATABASE" -f
 ```
 
-Update all modules.
-
-```bash
-ssh -p "$PORT" "$SERVER" docker-odoo-update -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u base
-```
-
 ## Configure ⚙️
 
 Uninstall deprecated modules.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-odoo-uninstall -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u project_task_all_menu
+```
+
+Update all modules.
+
+```bash
+ssh -p "$PORT" "$SERVER" docker-odoo-update -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u base
 ```
 
 ## Testing 🔬
