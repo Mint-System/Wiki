@@ -19,8 +19,8 @@ Mit der Verkaufsauftragsposition wird definiert, ob der erfasste Aufwand auf der
 * **Geschäftsanalyse** - Abwicklung von Beratungsprojekten [[Emoji#🟠]]
 ### Nicht verrechenbar
 
-* **Projektadministration (PA)** - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts [[Emoji#🟢]]
-* **Know-how (KH)** - Erarbeiten Basiswissen zur Beratung von Kunden [[Emoji#🔵]]
+* **Projektadministration** - Administrativer Aufwand zur Erstellung und Verwaltung des Projekts [[Emoji#🟢]]
+* **Know-how** - Erarbeiten Basiswissen zur Beratung von Kunden [[Emoji#🔵]]
 ## Aufgabenstatus festlegen
 
 Jede Aufgabe durchläuft die folgenden Stufen:
