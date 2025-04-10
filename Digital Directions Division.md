@@ -7,4 +7,5 @@ type: reference
 
 Die DDD verarbeitet die Ideen des [[Chaos Computer Club]].
 
-Akronym: I/0 <-> %
+Zeichen: I/0 <-> %
+Unicode: ⏻ ⇄ %
