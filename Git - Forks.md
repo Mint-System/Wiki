@@ -49,7 +49,7 @@ Aktualisieren Upstream-Branch.
 
 ```bash
 git switch upstream-main
-git pull upstream-main
+git pull upstream main
 ```
 
 Submodules-Datei auschecken.
@@ -70,8 +70,8 @@ git stash pop
 Submodule neu auschecken.
 
 ```bash
-task switch-git-submodule 16.0
-task pull-git-submodule
+task switch-git-folder 16.0
+task pull-git-folder
 task save-version
 ```
 
