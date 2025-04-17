@@ -9,7 +9,7 @@ Mehr dazu unter: [[Roadmap]]
 Themen:
 
 * [[Dienstleistungen]]
-* [[Innvoation]]
+* [[Innovation]]
 * [[Produktentwicklung]]
 * [[Vision]]
 * [[Ziele]]

@@ -6,4 +6,4 @@ tags:
 
 Mint System Produktentwicklung.
 
-Siehe [[Ideation]].
+Siehe [[Ideation]] und [[Verbesserungsvorschläge]].

@@ -3,7 +3,8 @@ tags:
 - Prozess
 ---
 # Prozesse Projektmanagement - Aufgaben
-Aufgabenverwaltung im Odoo
+
+Aufgabenverwaltung in Odoo.
 
 ## Aufgabe erstellen
 
@@ -13,6 +14,6 @@ Es gelten die [[Richtlinie - Aufgabenverwaltung]].
 
 ## Aufgaben bündeln
 
-Bei mehreren Aufgaben ist es schwierig die Übersicht der Fristen zu behalten. Zur Planung können mehrere Aufgaben zu einem Paket gebündelt werden. Dazu erstellt man eine Aufgabe mit der Bezeichung `AP1: Beschreibung`. Das Aufgabenpaket (AP) verlinkt man mit den anderen Aufgaben.
+Bei mehreren Aufgaben ist es schwierig die Übersicht der Fristen zu behalten. Zur Planung können mehrere Aufgaben zu einem Paket gebündelt werden. Dazu erstellt man eine Aufgabe mit der Bezeichnung `AP1: Beschreibung`. Das Aufgabenpaket (AP) verlinkt man mit den anderen Aufgaben.
 
 Auf die Aufgabenpakete wird keine Zeit gebucht. Sie dienen lediglich der Planung.

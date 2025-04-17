@@ -10,7 +10,7 @@ Mitarbeiter der Mint System GmbH verwalten ihre Aufgaben ausschliesslich mit Odo
 
 Projektaufgaben werden über verschiedene Projekte verteilt und zugeteilt. Über die Odoo-Ansicht *Alle Aufgaben* sehen die Mitarbeiter ihre zugeteilten Aufgaben.
 
-Die Priorisierung erfolgt gemäss des [[Prozesse Projektmanagement - Aufgaben#Aufgaben verwalten#Aufgabenstatus festlegen|Aufgabenstatus]]
+Die Priorisierung erfolgt gemäss des [[Prozesse Projektmanagement - Aufgaben#Aufgaben verwalten#Aufgabenstatus festlegen|Aufgabenstatus]].
 
 ## Diskussionsaufgaben
 
