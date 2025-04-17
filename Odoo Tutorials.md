@@ -1,6 +1,7 @@
 ---
 tags:
-- HowTo
+  - HowTo
+type: tutorial
 ---
 # Odoo Tutorials
 
