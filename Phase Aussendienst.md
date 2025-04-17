@@ -6,7 +6,7 @@ tags:
 
 Tätigkeiten:
 
-* Projekt-Voralgen konfigurieren
+* Projekt-Vorlagen konfigurieren
 * Arbeitsblätter erfassen
 * Aufgabenplanung initialisieren
 
