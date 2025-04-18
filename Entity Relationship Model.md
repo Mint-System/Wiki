@@ -4,7 +4,7 @@ tags:
 ---
 # Entity Relationship Model
 
-Synomym zu [[Entity Relationship Diagram]] (ERD).
+Synomym zu Entity Relationship Diagram (ERD).
 
 Mit einem Entity Relationship Modell (ERM) beschreibt man visuell Beziehungen und Zusmmenhänge von Objekten und Daten. Das ERM besteht im Wesentlichen aus einer Grafik (ERD) sowie eine Beschreibung der verwendeten Elemente (Notation).
 

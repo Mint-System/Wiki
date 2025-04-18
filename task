@@ -66,8 +66,8 @@ function review-notes() {
     ENCODED_FILE=$(echo -n "$NOTE_NAME" | jq -sRr @uri)
     echo "Encode '$NOTE_NAME' to '$ENCODED_FILE'"
     echo "Opening obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE"
-    obsidian "obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE"
-
+    obsidian "obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE" &
+    
     echo "Log the review."
     echo "\"$NOTE_NAME\",\"$TIMESTAMP\"" >> "$REVIEW_LOG"
 }

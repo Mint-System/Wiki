@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Unternehmensentwicklung
+type: explain
 ---
 # Weiterbildung
 
