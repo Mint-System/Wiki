@@ -12,10 +12,11 @@ graph TD
   base --> kubectl
   kubectl --> helm
   product --> helm
-  helm --> website_sale_helm
+  helm --> sale_helm
+  sale_helm --> website_sale_helm
   website_sale --> website_sale_helm
 ```
 
 The object model:
 
-![[Specification Website Sale Helm.excalidraw]]
+![[Specification Sale Helm.excalidraw]]
