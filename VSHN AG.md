@@ -6,4 +6,4 @@ tags:
 
 Website: <https://www.vshn.ch>
 
-Siehe [[VSHN Application Marketplace]], [[VSHN Central Control Plane]]
+Siehe [[VSHN Application Marketplace]], [[VSHN Central Control Plane]], [[APPUiO]]

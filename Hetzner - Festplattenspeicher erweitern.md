@@ -22,7 +22,7 @@ Arbeitsschritte:
 * In Hetzner Cloud Console den Server anzeigen
 * Unter Volumes das bestehende Volume bearbeiten und Speicherplatz hinzufügen
 * `lsblk` auf Server ausführen um die Disk anzuzeigen
-* Das entsprechende Volume erweitern mit `resize2fs /dev/sdb`
+* Das entsprechende Volume erweitern mit `sudo resize2fs /dev/sdb`
 * Mit `df -h` den neuen Speicherplatz anzeigen
 
 ## Troubleshooting

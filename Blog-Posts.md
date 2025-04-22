@@ -4,9 +4,7 @@ tags:
 ---
 # Blog-Posts
 
-Hier entstehen Entwürfe für neue Blog-Posts:
-
-## Entwurf
+Hier entstehen neue Blog-Posts:
 
 [[Mythen über Open Source]]\
 [[Zahlen zum Unternehmen]]\
@@ -39,7 +37,3 @@ Hier entstehen Entwürfe für neue Blog-Posts:
 [[Der eigene Messenger für ihre Schule]]\
 [[Odoo Customizing ohne unvorhergesehene Upgradekosten]]\
 [[Spam reduzieren mit SPF, DKIM und DMARC]]
-
-## Trash
-
-[[Neuerungen in Odoo 15]]
