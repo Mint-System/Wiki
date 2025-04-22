@@ -7,9 +7,7 @@ Corporate Design der Mint System.
 
 ## Logo
 
-![[attachments/mint-system-logo.png]]
-
-![[assets/mint-system-logo.png]]
+![[mint-system-logo.png]]
 
 ## Colors
 

@@ -109,7 +109,7 @@ Preis: 180 CHF pro Stunde
 
 ## [[Technischer Support]]
 
-![[icon support.png]]
+![[icon_support.png]]
 
 Diese Dienstleistung steht Kunden mit einem aktiven Supportvertrag zur Verfügung. Wir bieten unverzüglich Unterstützung bei Problemen oder Unklarheiten im Umgang mit Odoo.
 
