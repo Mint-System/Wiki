@@ -2,7 +2,7 @@
 tags:
 - Asset
 ---
-# Assets
+# Assets for Odoo Modules
 
 url: <https://raw.githubusercontent.com/Mint-System/Wiki/main/attachments/mint-system-logo.png>
 
