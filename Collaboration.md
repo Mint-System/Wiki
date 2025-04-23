@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+type: reference
 ---
 # Collaboration
 

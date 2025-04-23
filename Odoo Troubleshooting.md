@@ -1,6 +1,7 @@
 ---
 tags:
-- HowTo
+  - Troubleshooting
+type: howto
 ---
 # Odoo Troubleshooting
 
