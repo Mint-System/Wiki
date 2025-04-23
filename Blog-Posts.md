@@ -6,6 +6,7 @@ tags:
 
 Hier entstehen neue Blog-Posts:
 
+[[Von Microsoft zu Infomaniak migrieren]]\
 [[Mythen über Open Source]]\
 [[Zahlen zum Unternehmen]]\
 [[Wir sind Odoo Silberpartner]]\
