@@ -1,7 +1,9 @@
 ---
 tags:
   - Governance
+type: explain
 ---
 # Governance
 
-[[Steuerungskreis]]
+[[Steuerungskreis]]\
+[[Wirkungsräume]]

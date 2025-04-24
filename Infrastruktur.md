@@ -21,3 +21,4 @@ Beinhaltet:
 * [[Kubernetes]]
 * [[Nix]]
 * [[Netzwerk]]
+* [[Virtualisierung]]
