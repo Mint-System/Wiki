@@ -68,6 +68,7 @@ Update all modules.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-odoo-update -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u base
+ssh -p "$PORT" "$SERVER" docker-odoo-clear-assets -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE"
 ```
 
 ## Testing 🔬
