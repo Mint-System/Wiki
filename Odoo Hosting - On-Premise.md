@@ -19,7 +19,7 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 
 ### Software
 
-**Betriebssystem**: Die Linux-basierten Betriebsysteme Ubuntu, Debian, CentOS werden unterstützt.  
+**Betriebssystem**: Linux-basierten Betriebssysteme wie Ubuntu, Debian, CentOS, Fedora werden unterstützt. Die bevorzugte Distribution ist Debian.
 **Container-Support**: Die Odoo Webapplikation wird als Docker-Container betrieben.   
 **Berechtigungen**: Zur Installation der benötigten Software werden Root-Rechte benötigt.  
 
