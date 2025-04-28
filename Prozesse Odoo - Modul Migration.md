@@ -47,3 +47,11 @@ Arbeitschritte:
 * Add the fork as remote `git remote add mint-system git@github.com:Mint-System/sale-workflow.git`
 * Checkout a customer branch `git switc -c $BRANCH-$PROJECT_CODE`
 * Push a branch to the remote with `git push mint-system $BRANCH-$PROJECT_CODE`
+
+## OCA-Modul migrieren
+
+Arbeitsschritte:
+
+* Prüfen ob für das gesuchte Modul ein Pull-Request existiert, der alle Tests erfüllt
+* Prüfen ob eine Anleitung für die Odoo-Version existiert: [[Odoo Build - Migrate an OCA module]]
+* Modul-Migration gemäss Anleitung ausführen

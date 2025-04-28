@@ -31,7 +31,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Lieferanten/[Name]                        | Lieferantenbeziehungen werden hier abgebildet                                       |
 | Management Handbuch                       | Dokumentation zu Methoden und Vorgehensmodellen                                     |
 | Marketing                                 | Dokumente zu Marketing-Kampagnen                                                    |
-| Meeting                                   | Meeting Protokolle der Mint System                                                  |
+| Meetings                                  | Meeting Protokolle der Mint System                                                  |
 | Methodik/[Thema]                          | Angwendete Methoden                                                                 |
 | Mitgliedschaften/[Name]                   | Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen               |
 | News                                      | Neuigkeiten aus Medien                                                              |

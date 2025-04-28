@@ -1,11 +1,12 @@
----
-tags:
-- HowTo
----
 
-# Migrate OCA module to 17.0
+# Migrate OCA module to XX.0
 
-See [Migration to version 17.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0) for details.
+See migration guide for details:
+
+* [Migration to version 16.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0)
+* [Migration to version 17.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0)
+  [Migration to version 18.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0)
+  
 ## Prepare
 
 Set env vars.
@@ -76,7 +77,11 @@ Start the Odoo environment and install the module.
 task init-module "oca/$REPO/$MODULE"
 ```
 
-Follow [Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0#tasks-to-do-in-the-migration) to update the module.
+Follow migation guide to update the module:
+
+* [Migration to verison 16.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0#tasks-to-do-in-the-migration)
+* [Migration to verison 17.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0#tasks-to-do-in-the-migration)
+* [Migration to verison 18.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0#tasks-to-do-in-the-migration)
 
 ## Submit
 

@@ -21,7 +21,7 @@ Related:
 
 * [[Update custom Odoo module]]
 * [[Odoo - Import data from csv]]
-* [[Odoo - Migrate an OCA module]]
+* [[Odoo Build - Migrate an OCA module]]
 * [[Develope an Odoo module]]
 * [[Odoo Build Troubleshooting]]
 
