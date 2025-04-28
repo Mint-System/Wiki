@@ -21,7 +21,7 @@ Und möchten diesen einrichten und aktualisieren.
 Repo öffnen.
 
 ```bash
-cd Sozialinfo-Odoo-Build
+cd ~/Sozialinfo-Odoo-Build
 git switch main
 ```
 
