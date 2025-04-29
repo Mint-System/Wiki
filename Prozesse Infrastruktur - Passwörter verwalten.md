@@ -7,6 +7,7 @@ tags:
 ## Passwortspeicher anlegen
 
 Arbeitsschritte:
+
 * [[KeePassXC]] öffnen und Datenbank erstellen
 * Keyfile generieren und auf Nextcloud abspeichern
 * Passwort festlegen und in Master-Keystore speichern
@@ -15,6 +16,7 @@ Arbeitsschritte:
 ## Passwortmanager einrichten
 
 Arbeitsschritte:
+
 * Installation [[KeePassXC]] auf dem lokalen Computer
 * Bei [[Team Infrastruktur]] nach dem Master-Passwort und Pfad zum Keyfile fragen
 * Die Passwort-Datei `Mint-System/Data/Infrastructure.kdbx` von der [[Cloud Mint System]] öffnen
@@ -23,7 +25,7 @@ Arbeitsschritte:
 ## Passwörter speichern
 
 Arbeitsschritte:
+
 * Die Mint System Passwort-Datei öffnen
-* Bei einer längeren Bearbeitung die Datenbank sperren
 * Ein neue Eintrag gemäss [[Richtlinie - Passwortmanager]] erstellen
-* Speichern und Datenbank entsperren
+* Speichern und Datenbank synchronisieren
