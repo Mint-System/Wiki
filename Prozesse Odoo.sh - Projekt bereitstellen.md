@@ -30,7 +30,6 @@ Arbeitsschritte:
 * Kunde auffordern zur Erstellung eines GitHub-Accounts
 * Freigabe des GitHub und des Odoo.sh-Projekts an den Kunden
 
-
 ## Entwicklung
 
 ### Odoo.sh Repository einrichten
@@ -63,7 +62,7 @@ Diesen Schritt müssen Sie nur ausführen, wenn Odoo Module direkt im Odoo.sh Re
 
 ### Submodul hinzufügen
 
-Arbeitsschritte
+Arbeitsschritte:
 
 * Fügen Sie im Odoo.sh Projekt in einem ausgewählten Branch das Submodule hinzu.
 
@@ -84,3 +83,14 @@ git commit -m "feat: new submodule $ORGANISATION/$REPO"
 ```bash
 git push
 ```
+
+### Submodul aus Pull-Request hinzufügen
+
+Kontext: Wenn ein Modul als Pull-Request verfügbar ist, kann der dazugehörige Fork als Submodul dem Projekt hinzguefügt werden.
+
+Arbeitschritte:
+
+* In der Komandozeile in das Odoo.sh Projekt navigieren und einen Branch auschecken: `cd ~/$PROJECT; git switch $BRANCH`
+* In das Submodule navigieren und den Pull-Request auschecken: `gh pr checkout 3022`
+* Zurück in das Repo navigieren: `cd ..`
+* Die neue Submodul-Referenz committen: `git add $REPO; git commit -m "gcmsg "feat($REPO): $MODULE_NAME #$PR_NUMBER`
