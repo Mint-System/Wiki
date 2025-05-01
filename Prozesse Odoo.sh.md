@@ -13,6 +13,7 @@ Technische Dokumentation der Odoo.sh Prozesse.
 
 ## Verwaltung
 
+* [[Prozesse Odoo.sh - Projekt entwickeln]]
 * [[Prozesse Odoo.sh - Modul Migration]]
 
 ## Upgrade
