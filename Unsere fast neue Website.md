@@ -6,7 +6,7 @@ draft: false
 
 Wir haben eine neue Website! Wir hoffen Sie merken es nicht, weil diese sollte genau so aussehen wie vorher.
 
-Mit der Hilfe von [10vu10.ch](10vu10.ch) wurde die bestehende Website aus dem Content Management System (CMS) heraus gelöst und in eine Static Site überführt. Eine Static Site hat im Vergleich zu einem CMS viele Vorteile:
+Mit der Hilfe von [https://10vu10.ch](https://10vu10.ch) wurde die bestehende Website aus dem Content Management System (CMS) heraus gelöst und in eine Static Site überführt. Eine Static Site hat im Vergleich zu einem CMS viele Vorteile:
 
 - **Kein Rendering Prozess** 📸: Die Seiten der Website werden vorbereitet und müssen nicht generiert werden. Dadurch muss der Website-Besucher weniger Lange warten.
 - **Inhalte als Text** 📄: Der Static Site Generator ([Hugo](https://hugo.io/)) führt Inhalte und Vorlage zusammen. Dadurch sind Inhalte strikt vom Website-Layout getrennt und können in einfachen Text-Formaten (Markdown) verwaltet werden.
