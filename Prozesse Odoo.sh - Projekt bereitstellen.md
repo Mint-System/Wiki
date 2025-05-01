@@ -88,9 +88,28 @@ git push
 
 Kontext: Wenn ein Modul als Pull-Request verfügbar ist, kann der dazugehörige Fork als Submodul dem Projekt hinzguefügt werden.
 
+Vorbereitung:
+
+* `PROJECT`: Name des Odoo.sh Git-Repo
+* `REPO`: Name des Submodules
+* `ORGANISATION`: Organisationsname des Forks
+* `PR_NUMBER`: Nummer des Pull-Request auf dem aktuellen Submodul-Repo.
+
 Arbeitschritte:
 
 * In der Komandozeile in das Odoo.sh Projekt navigieren und einen Branch auschecken: `cd ~/$PROJECT; git switch $BRANCH`
-* In das Submodule navigieren und den Pull-Request auschecken: `gh pr checkout 3022`
-* Zurück in das Repo navigieren: `cd ..`
-* Die neue Submodul-Referenz committen: `git add $REPO; git commit -m "gcmsg "feat($REPO): $MODULE_NAME #$PR_NUMBER`
+* In das Submodule navigieren und den Pull-Request auschecken: `gh pr checkout $PR_NUMBER`
+* Zurück in das Projekt navigieren: `cd ..`
+* Die `.gitmodule` Url aktualisieren:
+
+```bash
+git config -f.gitmodules --unset submodule.$REPO.url
+git config -f.gitmodules --add submodule.$REPO.url git@github.com:$ORGANISATION$/$REPO.git
+```
+
+* Die neue Submodul-Referenz committen: `git add $REPO; git commit -m "gcmsg "feat($REPO): checkout PR #$PR_NUMBER`
+
+```
+git submodule sync
+git submodule update --remote $REPO
+```
