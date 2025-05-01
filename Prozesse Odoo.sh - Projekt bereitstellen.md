@@ -108,8 +108,8 @@ git config -f.gitmodules --add submodule.$REPO.url git@github.com:$ORGANISATION$
 ```
 
 * Die neue Submodul-Referenz committen: `git add $REPO; git commit -m "gcmsg "feat($REPO): checkout PR #$PR_NUMBER`
+* Submodul synchronisieren
 
-```
+```bash
 git submodule sync
-git submodule update --remote $REPO
 ```
