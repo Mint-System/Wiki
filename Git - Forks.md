@@ -52,14 +52,14 @@ git switch upstream-main
 git pull upstream main
 ```
 
-Submodules-Datei auschecken.
+Fork-Dateien auschecken und stashen.
 
 ```bash
-git checkout main .gitmodules
+git checkout main .gitmodules odoo.config.template
 git stash
 ```
 
-Branch neu anlegen und Submodules-Datei wieder einfügen. 
+Branch neu anlegen und Fork-Dateien wieder einfügen. 
 
 ```bash
 git branch -D main
@@ -67,7 +67,7 @@ git switch -c main
 git stash pop
 ```
 
-Submodule neu auschecken.
+Submodule auschecken.
 
 ```bash
 task switch-git-folder 16.0
