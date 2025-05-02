@@ -3,9 +3,10 @@ tags:
 - Definition
 ---
 # OCA
+
 [[Odoo Community Association]]
 
-Details of the OCA modules
+Details of the OCA modules:
 
 ## Management System
 

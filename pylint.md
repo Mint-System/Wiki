@@ -1,6 +1,6 @@
 ---
 tags:
-  - Definition
+  - Website
 type: reference
 ---
 # pylint

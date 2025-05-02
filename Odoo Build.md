@@ -17,8 +17,6 @@ Domains:
 
 ## HowTos
 
-Related:
-
 * [[Update custom Odoo module]]
 * [[Odoo - Import data from csv]]
 * [[Odoo Build - Migrate an OCA module]]

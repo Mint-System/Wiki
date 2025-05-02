@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Website
+type: reference
 ---
 # pre-commit
 

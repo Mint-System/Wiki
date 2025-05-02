@@ -43,7 +43,3 @@ The most important quality tools are:
 * [[black]]
 * [[autoflake]]
 * [[prettier]]
-
-## Testing
-
-#FIXME 
