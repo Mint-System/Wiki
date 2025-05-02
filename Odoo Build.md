@@ -20,6 +20,7 @@ Domains:
 * [[Update custom Odoo module]]
 * [[Odoo - Import data from csv]]
 * [[Odoo Build - Migrate an OCA module]]
+* [[Odoo Build - Create an OCA module]]
 * [[Develope an Odoo module]]
 * [[Odoo Build Troubleshooting]]
 
