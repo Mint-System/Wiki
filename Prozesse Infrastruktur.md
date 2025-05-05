@@ -33,7 +33,7 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Mail-Account Intern]]
 * [[Prozesse Infrastruktur - Wartung]]
 * [[Prozesse Infrastruktur - OS Migration]]
-* [[Prozess Infrastruktur - Upgrade Odoo]]
+* [[Prozesse Infrastruktur - Upgrade Odoo]]
 
 ## Rückbau
 

@@ -1,6 +1,7 @@
 ---
 tags:
-- HowTo
+  - Website
+type: reference
 ---
 
 # Nextcloud
@@ -31,10 +32,10 @@ Weiterführende Links:
  [[Nextcloud - Restore password manager from backup]]\
  [[Nextcloud - Configure ignored files]]\
  [[Nextcloud - Set default locale and language]]\
- [[Nextcloud - Fix warnings]]
+ [[Nextcloud - Fix warnings]]\
  [[Nextcloud - Full text seach]]
 
 ## Prozesse
 
-[[Nextcloud Upgrade]]
+[[Nextcloud Upgrade]]\
 [[DRP - Server Totalausfall mit Nextcloud]]

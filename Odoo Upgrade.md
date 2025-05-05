@@ -46,4 +46,4 @@ Die internen Prozesse sind:
 * [[Prozesse Odoo - Upgrade-Umgebung bereitstellen]]
 * [[Prozesse Odoo - Upgrade Implementation]]
 * [[Prozess Odoo.sh - Upgrade Implementation]]
-* [[Prozess Infrastruktur - Upgrade Odoo]]
+* [[Prozesse Infrastruktur - Upgrade Odoo]]
