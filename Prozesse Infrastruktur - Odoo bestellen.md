@@ -66,4 +66,4 @@ Arbeitsschritte:
 	* Sprachpaket: Welche Sprachpakete sollen installiert werden?
 	* [[Odoo Testumgebung|Testumgebung]]: Benötigt der Kunde eine Testumgebung? Wenn ja, unter welcher URL soll diese erreichbar sein? Beispiel: `erp-dev.example.com`.
 * Erstellen Aufgabe in Kundenprojekt mit Kundeninformationen
-* Zuweisen an [[Team Infrastruktur]]
+* Zuweisen an [[Kreis Infrastruktur]]

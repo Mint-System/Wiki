@@ -69,4 +69,4 @@ Als normaler User:
 sudo wget -O -  "https://connect.jfrog.io/v2/install_connect" | sudo sh -s M5Livevd8LHwDDyLbzhd2mPKWhPnejcPBA raspberry
 ```
 
-* Neues Gerät an [[Team Infrastruktur]] melden
+* Neues Gerät an [[Kreis Infrastruktur]] melden

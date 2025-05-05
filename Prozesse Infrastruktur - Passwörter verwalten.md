@@ -4,7 +4,7 @@ tags:
 ---
 # Prozesse Infrastruktur - Passwörter verwalten
 
-## Passwortspeicher anlegen
+## Passwort-Speicher anlegen
 
 Arbeitsschritte:
 
@@ -18,8 +18,8 @@ Arbeitsschritte:
 Arbeitsschritte:
 
 * Installation [[KeePassXC]] auf dem lokalen Computer
-* Bei [[Team Infrastruktur]] nach dem Master-Passwort und Pfad zum Keyfile fragen
-* Die Passwort-Datei `Mint-System/Data/Infrastructure.kdbx` von der [[Cloud Mint System]] öffnen
+* Bei [[Kreis Infrastruktur]] nach dem Master-Passwort fragen
+* Die Passwort-Datei `Mint-System/Data/Infrastructure.kdbx` auf der [[Cloud Mint System]] öffnen
 * Als erstes das Keyfile `Mint-System/Secrets/KeePass.key` angeben und anschliessend das Passwort eingeben
 
 ## Passwörter speichern

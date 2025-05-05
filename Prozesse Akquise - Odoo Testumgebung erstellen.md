@@ -31,7 +31,7 @@ Arbeitsschritte:
 	* Festhalten Liste der zu installierenden Apps mit dem technischen Namen
 	* Festhalten des [[Odoo Hosting#Lizenzierung|Lizenz-Typ]]
 	* Domain nach Schema `$NAME.mintsys.ch` festlegen.
-* Zuweisen der Aufgabe an [[Team Infrastruktur]]
+* Zuweisen der Aufgabe an [[Kreis Infrastruktur]]
 
 ::: tip
 Der technische Name der Odoo App kann der Prozess-Dokumentation entnommen werden. Beispielsweise ist der technische Name von Einkauf gemäss [[Prozesse Odoo - App Einkauf]] `purchase`.

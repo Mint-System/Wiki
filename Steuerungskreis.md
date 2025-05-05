@@ -5,6 +5,10 @@ responsible: Kurt Gisler
 ---
 # Steuerungskreis
 
+Kreise:
+
+* [[Kreis Infrastruktur]]
+
 Rollen:
 
 * [[Netzwerker%In]]
@@ -13,6 +17,7 @@ Rollen:
 * [[Wissensmanager%in]]
 * [[Supporter%in]]
 * [[Odoo Buchhaltung Expert%in]]
+
 
 Mitglieder:
 

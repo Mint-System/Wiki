@@ -3,7 +3,7 @@ tags:
 - Prozess
 ---
 # Prozesse Infrastruktur - Server bestellen
-Server bei [[Team Infrastruktur]] bestellen.
+Server bei [[Kreis Infrastruktur]] bestellen.
 
 ## Managed Server bestellen
 
