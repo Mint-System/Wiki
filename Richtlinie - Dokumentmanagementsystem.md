@@ -1,6 +1,7 @@
 ---
 tags:
-- Richtlinien
+  - Richtlinien
+type: explain
 ---
 # Richtlinie - Dokumentmanagementsystem
 
@@ -32,15 +33,13 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Management Handbuch                       | Dokumentation zu Methoden und Vorgehensmodellen                                     |
 | Marketing                                 | Dokumente zu Marketing-Kampagnen                                                    |
 | Meetings                                  | Meeting Protokolle der Mint System                                                  |
-| Methodik/[Thema]                          | Angwendete Methoden                                                                 |
 | Mitgliedschaften/[Name]                   | Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen               |
 | News                                      | Neuigkeiten aus Medien                                                              |
 | Newsletter                                | Dokumente zum Newsletter Mint System                                                |
-| Nextcloud                                 | Nextcloud Dokumente                                                                 |
 | Odoo                                      | Odoo Dokumente                                                                      |
 | Partner                                   | Dokumente zu unseren Partner                                                        |
 | Personal                                  | Verträge und Abrechnungen                                                           |
-| Produkte                                  | Dokumente zu den Mint System Produkten                                              |
+| Produkte/\[Name\]                         | Dokumente zu den Mint System Produkten                                              |
 | Projekte/[Name]                           | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.           |
 | Public Relations                          | Zeitungsartikel und allgemeine PR                                                   |
 | Rechnungen/([YYYY]/[MM MONAT],[MM MONAT]) | Rechnung von Lieferanten gruppiert nach Rechnungsdatum                              |
@@ -49,10 +48,12 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Spesen/([YYYY]/[MM MONAT],[MM MONAT])     | Ablage Spesenbelege für Lohnabrechnung                                              |
 | Steuern/[Jahr]                            | Dokumente Unternehmens- und Mehrwertssteuer                                         |
 | Strategie                                 | Allgemeine Geschäftsstrategie und Businessplan                                      |
+| templates                                 | Obsidian Voralgen                                                                   |
 | Verkauf                                   | Vorlagen für Angebote                                                               |
 | Verträge/[Name]                           | Alle Vertragsdokumente mit Externen                                                 |
 | Vorlage                                   | Dokumentvorlagen mit Inhalt                                                         |
 | Website                                   | Dateien zum Webauftritt                                                             |
+| task                                      | Taskfile zur Verwaltung der Ablage                                                  |
 
 ## Format
 
