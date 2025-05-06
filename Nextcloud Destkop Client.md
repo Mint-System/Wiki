@@ -5,7 +5,11 @@ lang: en
 ---
 # Nextcloud Desktop Client
 
-## Installation
+## Installation for Windows
+
+Download and isntall the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
+
+## Installation for Linux
 
 Download the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
 
