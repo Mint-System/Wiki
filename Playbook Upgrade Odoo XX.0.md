@@ -5,7 +5,7 @@ lang: en
 
 ## Prepare 📝
 
-Env vars from Ansible inventory:
+Start a command line and copy these env vars:
 
 ```bash
 export CUSTOMER="Mint System"

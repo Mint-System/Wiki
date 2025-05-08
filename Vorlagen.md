@@ -15,7 +15,7 @@ tags:
 | [[Template Report on Odoo Customization]] |
 | [[Template Worklog]]                      |
 | [[Upgrade Odoo XX.0]]                     |
-| [[Playbook Upgrade Odoo.sh XX.0]]                  |
+| [[Playbook Upgrade Odoo.sh XX.0]]         |
 | [[Vorlage Anforderungen]]                 |
 | [[Vorlage Anforderungsanalyse]]           |
 | [[Vorlage Angebot]]                       |
