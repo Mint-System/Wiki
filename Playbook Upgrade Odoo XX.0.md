@@ -1,5 +1,7 @@
 ---
 lang: en
+tags:
+  - Templates
 ---
 # Playbook Upgrade Odoo XX.0
 
@@ -27,7 +29,7 @@ Backup database and restore database if target postgres container is different.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
-ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql"
+ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" -r
 ```
 
 ## Upgrade ⬆️
