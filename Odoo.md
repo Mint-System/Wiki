@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+type: explain
 ---
 # Odoo
 

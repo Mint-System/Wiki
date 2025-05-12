@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+type: tutorial
 ---
 # Methodik
 

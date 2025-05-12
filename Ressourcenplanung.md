@@ -1,3 +1,7 @@
+---
+type: explain
+---
+
 # Ressourcenplanung
 
 ## Beschreibung

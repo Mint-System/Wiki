@@ -1,3 +1,9 @@
+---
+tags:
+  - HowTo
+type: howto
+---
+
 # Python HowTo
 
 ## Manage multiple python versions

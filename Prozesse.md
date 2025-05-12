@@ -2,6 +2,7 @@
 tags:
   - Prozess
 responsible: Kurt Gisler
+type: howto
 ---
 # Prozesse
 

@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+type: reference
 ---
 # Corporate Design
 Corporate Design der Mint System.

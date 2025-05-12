@@ -1,6 +1,6 @@
 ---
 tags:
-- Definition
+  - Meta
 ---
 
 # Wiki Mint System
@@ -14,25 +14,18 @@ Sie ist als Git Repository unter <https://github.com/Mint-System/Wiki> abrufbar.
 
 ## Navigation
 
-Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang von Beziehungen. Jeder Wikilink zeigt auf einen Artikel, welcher wiederum andere Artikel verlinken kann.
+Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang von Beziehungen. Jeder Wikilink zeigt auf einen Artikel, welcher wiederum andere Artikel verlinkt.
+
+Alle Artikel werden einem der folgenden Bereiche zugeordnet.
+
+![[Diátaxis.png]]
 
 Dazu die wichtigsten Begriffe zum Einstieg:
 
-* [[Odoo]]
-* [[Methodik]]
-* [[Prozesse]]
-* [[Richtlinien]]
-* [[Infrastruktur]]
-* [[Technologien]]
-* [[Dokumente]]
-* [[Corporate Design]]
-* [[Tools]]
-* [[Partner]]
-* [[Marketing]]
-* [[Verkauf]]
-* [[Unternehmensentwicklung]]
-* [[Philosophie]]
-* [[Interne Links]]
+[[Tutorials]]\
+[[Anleitungen]]\
+[[Referenz]]\
+[[Erläuterung]]
 
 ## Struktur
 

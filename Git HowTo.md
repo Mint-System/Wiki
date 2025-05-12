@@ -1,6 +1,7 @@
 ---
 tags:
-- HowTo
+  - HowTo
+type: howto
 ---
 # Git HowTo 
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Asset
-type: reference
+type: tutorial
 ---
 # Evaluation
 

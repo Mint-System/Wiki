@@ -1,6 +1,7 @@
 ---
 tags:
-- Prozess
+  - Prozess
+type: tutorial
 ---
 # Vorgehensmodell
 

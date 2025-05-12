@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+type: howto
 ---
 # Jenkins HowTo
 

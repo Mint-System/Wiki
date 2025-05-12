@@ -10,7 +10,7 @@ Website: <https://openvpn.net/download-open-vpn/>
 
 Related:
 * [[OpenVPN Cheatsheet]]
-* [[OpenVPN HowTos]]
+* [[OpenVPN HowTo]]
 
 ## HowTos
 
