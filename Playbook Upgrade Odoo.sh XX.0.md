@@ -1,6 +1,6 @@
 # Playbook Upgrade Odoo.sh XX.0
 
-## Prepare
+## Prepare 📝
 
 Set env vars.`
 
@@ -18,13 +18,13 @@ Test connection with `task test-jsonrpc "$COMPANY"`.
 
 Backup database in Odoo.sh project.
 
-## Upgrade
+## Upgrade ⬆️
 
 Run the Odoo.sh upgrade process.
 
 Login and check the Upgrade report.
 
-## Configure
+## Configure ⚙️
 
 Install, update or remove modules in Odoo.sh shell.
 
@@ -45,10 +45,15 @@ task disable-snippet "$COMPANY" path/to/snippet
 task remove-snippet "$COMPANY" path/to/snippet
 ```
 
-## Testing
+## Testing 🔬
 
-Test the upgraded system.
 
-Note any regressions.
+==Define test cases.==
 
-Run the test cases.
+## Production 🚀
+
+Run the Odoo.sh upgrade process.
+
+## Troubleshooting 💡
+
+==Document and resolve upgrade issues.==

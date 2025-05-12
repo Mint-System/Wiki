@@ -24,6 +24,9 @@ Upgrade
 
 Configure
 
+💡
+
+Troubleshooting
 ## Status
 
 ### 🎒
