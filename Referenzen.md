@@ -3,7 +3,7 @@ tags:
   - Meta
 type: reference
 ---
-# Referenz
+# Referenzen
 
 * [[Infrastruktur]]
 * [[Marketing]]

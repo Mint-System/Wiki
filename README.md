@@ -24,8 +24,8 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 
 [[Tutorials]]\
 [[Anleitungen]]\
-[[Referenz]]\
-[[Erläuterung]]
+[[Referenzen]]\
+[[Erklärungen]]
 
 ## Struktur
 
