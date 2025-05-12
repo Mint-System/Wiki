@@ -2,7 +2,7 @@
 
 ## Prepare
 
-Set env vars.
+Set env vars.`
 
 ```bash
 export COMPANY="gelso"
