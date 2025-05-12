@@ -31,6 +31,7 @@ Diese Tags können in den Metadaten der Artikel verwendet werden:
 * #Hardware 
 * #HowTo
 * #Ideation 
+* #Meta 
 * #Note 
 * #Organisation 
 * #Phasen 
