@@ -1,7 +1,7 @@
 ---
 tags:
   - Asset
-type: reference
+kind: reference
 ---
 # Tools
 

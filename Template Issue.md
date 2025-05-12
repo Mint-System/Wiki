@@ -9,7 +9,7 @@ tags:
 state: open
 date:
 author:
-type: issue
+kind: issue
 ---
 # {{NAME}}
 

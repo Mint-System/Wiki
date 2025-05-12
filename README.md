@@ -1,6 +1,7 @@
 ---
 tags:
   - Meta
+kind: explain
 ---
 
 # Wiki Mint System
@@ -14,7 +15,7 @@ Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
 
 Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang von Beziehungen. Jeder Wikilink zeigt auf einen Artikel, welcher wiederum weitere Artikel verlinkt.
 
-Die Wissensdatenbank orientiert sich am [[Standard für Dokumentationssysteme]]. Alle Artikel werden diesen Typen zugeordnet:
+Die Wissensdatenbank orientiert sich am [[Standard für Dokumentationssysteme]]. Alle Artikel entsprechen einer dieser Typen:
 
 [[Tutorials]]: Ist eine Lektion.\
 [[Anleitungen]]:  Behandelt ein reales Ziel oder Problem.\

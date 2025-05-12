@@ -1,7 +1,7 @@
 ---
 tags:
   - HowTo
-type: howto
+kind: howto
 ---
 
 # Python HowTo

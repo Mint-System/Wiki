@@ -1,5 +1,5 @@
 ---
-type: explain
+kind: explain
 ---
 
 # Ressourcenplanung

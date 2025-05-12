@@ -8,7 +8,7 @@ tags:
 ---
 date:
 author:
-type: worklog
+kind: worklog
 ---
 # {{NAME}}
 

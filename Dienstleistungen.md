@@ -1,7 +1,7 @@
 ---
 tags:
   - Document
-type: reference
+kind: reference
 ---
 # Dienstleistungen
 Version: 2025-04-07

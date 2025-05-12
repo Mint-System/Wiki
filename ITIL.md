@@ -1,7 +1,7 @@
 ---
 tags:
   - Website
-type: reference
+kind: reference
 ---
 # ITIL
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Slide
-type: explain
+kind: explain
 ---
 ## Präsentation
 Behalten Sie ihre Unternehmensdaten mit Nextcloud im Griff  

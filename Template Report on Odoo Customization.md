@@ -9,7 +9,7 @@ tags:
 ---
 date:
 autor:
-type: report
+kind: report
 ---
 # Report on Odoo Customization
 

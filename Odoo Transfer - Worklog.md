@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-type: howto
+kind: howto
 ---
 # Odoo Transfer - Worklog
 

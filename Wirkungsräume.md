@@ -1,7 +1,7 @@
 ---
 tags:
   - Governance
-type: explain
+kind: explain
 ---
 # Wirkungsräume
 

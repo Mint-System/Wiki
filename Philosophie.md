@@ -1,7 +1,7 @@
 ---
 tags:
   - Asset
-type: explain
+kind: explain
 ---
 # Philosophie
 

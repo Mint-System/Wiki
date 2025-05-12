@@ -1,7 +1,7 @@
 ---
 tags:
   - Phasen
-type: explain
+kind: explain
 ---
 # Phase Odoo Integration
 

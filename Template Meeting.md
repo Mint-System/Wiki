@@ -8,7 +8,7 @@ tags:
 ---
 date:
 participants:
-type: meeting
+kind: meeting
 ---
 # {{NAME}}
 

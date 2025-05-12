@@ -1,7 +1,7 @@
 ---
 tags:
   - Prozess
-type: explain
+kind: explain
 ---
 # Prozessdokumentation
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Unternehmensentwicklung
-type: explain
+kind: explain
 draft: true
 ---
 # Vision

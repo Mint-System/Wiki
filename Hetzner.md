@@ -1,7 +1,6 @@
 ---
 tags:
   - Website
-type: reference
 ---
 # Hetzner
 

@@ -1,5 +1,5 @@
 ---
-type: tutorial
+kind: tutorial
 tags:
   - Unternehmensentwicklung
 ---

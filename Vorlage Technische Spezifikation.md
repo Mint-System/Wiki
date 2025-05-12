@@ -1,7 +1,7 @@
 ---
 tags:
   - Vorlagen
-type: reference
+kind: reference
 ---
 # Vorlage Technische Spezifikation
 

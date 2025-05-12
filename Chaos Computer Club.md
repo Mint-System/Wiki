@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-type: reference
+kind: reference
 ---
 # Chaos Computer Club
 

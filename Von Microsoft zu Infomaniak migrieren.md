@@ -2,7 +2,7 @@
 tags:
   - Blog
 draft: false
-type: explain
+kind: explain
 ---
 # Von Microsoft zu Infomaniak migrieren
 

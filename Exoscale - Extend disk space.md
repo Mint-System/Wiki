@@ -2,7 +2,7 @@
 tags:
   - HowTo
 lang: en
-type: explain
+kind: explain
 ---
 # Exoscale - Extend disk space
 

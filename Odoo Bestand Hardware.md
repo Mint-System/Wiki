@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-type: explain
+kind: explain
 ---
 # Odoo Bestand Hardware
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Troubleshooting
-type: howto
+kind: howto
 ---
 # Nginx Troubleshooting
 

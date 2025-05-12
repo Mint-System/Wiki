@@ -1,7 +1,7 @@
 ---
 tags:
   - Governance
-type: reference
+kind: reference
 ---
 # Kreis Infrastruktur
 

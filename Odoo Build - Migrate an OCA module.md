@@ -2,7 +2,7 @@
 tags:
   - HowTo
 lang: en
-type: howto
+kind: howto
 ---
 
 # Odoo Build - Migrate an OCA module

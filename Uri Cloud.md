@@ -1,6 +1,6 @@
 ---
 draft: true
-type: explain
+kind: explain
 ---
 # Uri Cloud
 

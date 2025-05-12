@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-type: tutorial
+kind: tutorial
 ---
 
 # Mailgun

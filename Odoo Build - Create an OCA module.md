@@ -1,7 +1,7 @@
 ---
 tags:
   - Odoo
-type: tutorial
+kind: tutorial
 draft: true
 ---
 # Odoo Build - Create an OCA module

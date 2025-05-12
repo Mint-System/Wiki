@@ -1,7 +1,7 @@
 ---
 tags:
   - Meta
-type: tutorial
+kind: tutorial
 ---
 # Tutorials
 

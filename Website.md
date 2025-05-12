@@ -1,5 +1,5 @@
 ---
-type: reference
+kind: reference
 ---
 # Website
 

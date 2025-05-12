@@ -1,7 +1,7 @@
 ---
 tags:
   - Richtlinien
-type: explain
+kind: explain
 ---
 # Richtlinie - Dokumentmanagementsystem
 

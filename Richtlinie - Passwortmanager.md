@@ -1,7 +1,7 @@
 ---
 tags:
   - Richtlinien
-type: reference
+kind: reference
 ---
 # Richtlinie - Passwortmanager
 

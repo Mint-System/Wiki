@@ -1,7 +1,7 @@
 ---
 tags:
   - Meta
-type: explain
+kind: explain
 ---
 # Erklärungen
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Document
-type: reference
+kind: reference
 ---
 # Spezifikationen
 

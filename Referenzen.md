@@ -1,7 +1,7 @@
 ---
 tags:
   - Meta
-type: reference
+kind: reference
 ---
 # Referenzen
 
