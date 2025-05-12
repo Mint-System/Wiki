@@ -27,13 +27,11 @@ Dazu die wichtigsten Begriffe zum Einstieg:
 [[Referenzen]]\
 [[Erklärungen]]
 
-## Struktur
+## Mitarbeit
 
 Die Wissensdatenbank ist eine Ansammlung von [Markdown](https://de.wikipedia.org/wiki/Markdown)-Dateien. Diese Text-Dateien werden mittels [Wikilinks](https://de.wikipedia.org/wiki/Hilfe:Links)  verlinkt und bilden so eine vernetzte Wissensdatenbank.
 
 ![[Obsidian Graph Screenshot.png]]
-
-## Mitarbeit
 
 Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
 
