@@ -16,16 +16,15 @@ Sie ist als Git Repository unter <https://github.com/Mint-System/Wiki> abrufbar.
 
 Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang von Beziehungen. Jeder Wikilink zeigt auf einen Artikel, welcher wiederum andere Artikel verlinkt.
 
-Alle Artikel werden einem der folgenden Bereiche zugeordnet.
+Die Wissensdatenbank orientiert sich am [[Standard für Dokumentationssysteme]]. Alle Artikel werden diesen Bereichen zugeordnet:
 
 ![[Diátaxis.png]]
+Steigen Sie über diese Links in die Wissensdatenbank ein:
 
-Dazu die wichtigsten Begriffe zum Einstieg:
-
-[[Tutorials]]\
-[[Anleitungen]]\
-[[Referenzen]]\
-[[Erklärungen]]
+[[Tutorials]]: Ist eine Lektion.\
+[[Anleitungen]]:  Behandelt ein reales Ziel oder Problem.\
+[[Referenzen]]: Enthält technische Fakten.\
+[[Erklärungen]]:  Liefert Kontext und Hintergrund.
 
 ## Mitarbeit
 

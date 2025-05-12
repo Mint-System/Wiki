@@ -5,15 +5,16 @@ type: reference
 ---
 # Standard für Dokumentationssysteme
 
-Dieses Wiki orientiert sich am <https://diataxis.fr/> Framework.
+[Diátaxis](https://diataxis.fr/) ist ein Framework Dokumentationssysteme. Es unterteilt Dokumentationen in vier Typen. Die vier Typen erfüllen unterschiedliche Anforderungen und haben bestimmten Zweck.
 
 ![[Diátaxis.png]]
 
-Alle Artikel im Wiki werden diesen vier Typen zugeordnet: `tutorial`, `howto`, `explain`, `reference`
 
-In eigenen Worten sind die Typen wie folgt zu verstehen:
+Wer mehr über Diátaxis erfahren möchte: <https://diataxis.fr/start-here/>
 
-* **tutorial**: Die Notiz ist eine Anleitung für ein Tool oder System.
-* **explain**: Die Notiz beschreibt ein Begriff oder Konzept.
-* **howto**: Die Notiz unterstützt das Troubleshooting oder gibt Anweisungen.
-* **reference**: Die Notiz enthält Listen, Flowcharts, Tabellen oder führt nach Extern.
+Alle Artikel im Wiki werden diesen vier Typen zugeordnet:
+
+#tutorial: Ist eine Lektion.\
+#howto:  Behandelt ein reales Ziel oder Problem.\
+#referenzen: Enthält technische Fakten.\
+#explain:  Liefert Kontext und Hintergrund.
