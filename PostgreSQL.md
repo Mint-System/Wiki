@@ -1,6 +1,8 @@
 ---
 tags:
-- Definition
+  - Website
+kind: reference
+lang: en
 ---
 # PostgreSQL
 
@@ -8,6 +10,9 @@ tags:
 
 Website: <https://www.postgresql.org/>
 
-## Prozesse
+More: [[Foreign Data Wrapper]]
+
+## Processes
 
 [[PostgreSQL Upgrade]]
+
