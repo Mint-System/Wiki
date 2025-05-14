@@ -1,7 +1,7 @@
 ---
 tags:
-  - Definition
-kind: tutorial
+  - Website
+kind: howto
 ---
 
 # Mailgun
