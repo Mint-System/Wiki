@@ -12,4 +12,4 @@ touch CHANGELOG.md
 
 ## Changelogs
 
-[[Odoo Management Systems Changelog]]
+[[Odoo Management System Changelog]]

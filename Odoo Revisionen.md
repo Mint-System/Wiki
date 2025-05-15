@@ -1,6 +1,7 @@
 ---
 tags:
-  - Asset
+  - Website
+kind: reference
 ---
 # Odoo Revisionen
 

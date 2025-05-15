@@ -39,7 +39,7 @@ Es ist nicht möglich, die Reservierung für mehr Produkte von $PRODUKTNAME auzu
 
 **Solution**
 
-First run [[Odoo Server Aktionen#Mint System Report Unreserved Qty]] and then run [[Odoo Server Aktionen#Mint System Fix Unreserved Qty]].
+First run "Report Unreserved Qty" and then run "Fix Unreserved Qty".
 
 See here for details: <https://www.odoo.com/de_DE/forum/hilfe-1/it-is-not-possible-to-unreserve-more-products-of-than-you-have-in-stock-138783>
 

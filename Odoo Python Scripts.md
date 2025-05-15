@@ -1,6 +1,7 @@
 ---
 tags:
-- HowTo
+  - Manpage
+kind: howto
 ---
 # Odoo Shell
 

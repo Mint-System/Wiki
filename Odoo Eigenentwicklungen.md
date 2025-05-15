@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+kind: reference
 ---
 # Odoo Eigenentwicklungen
 

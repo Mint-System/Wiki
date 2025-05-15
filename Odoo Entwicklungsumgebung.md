@@ -1,6 +1,5 @@
 ---
-tags:
-- Definition
+kind: reference
 ---
 # Odoo Entwicklungsumgebung
 
@@ -12,6 +11,5 @@ Für Odoo-Installationen und Module werden verschiedene Skripte und Konfiguratio
 
 * [[Odoo Python Scripts]]
 * [[Odoo SQL Scripts]]
-* [[Odoo Server Aktionen]]
 * [[Odoo Website CSS]]
-* [[Odoo XML Snippets]]
+* [[Odoo Snippets]]

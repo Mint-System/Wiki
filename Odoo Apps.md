@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+kind: reference
 ---
 # Odoo Apps
 
@@ -14,4 +15,4 @@ Odoo Apps bestehen aus einem oder mehreren Odoo Modulen.
 
 ## Mint System
 
-[[Odoo Management Systems]]
+[[Odoo Management System]]

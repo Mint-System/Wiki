@@ -1,7 +1,8 @@
 ---
 tags:
-  - Definition
+  - Website
 lang: en
+kind: reference
 ---
 # Odoo Build
 

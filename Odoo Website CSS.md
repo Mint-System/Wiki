@@ -1,8 +1,10 @@
 ---
 tags:
-- Definition
+  - Manpage
+kind: howto
 ---
 # Odoo Website CSS
+
 Website customizations with CSS.
 
 ## Hide product prices
