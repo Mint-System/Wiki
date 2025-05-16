@@ -1,6 +1,6 @@
 ---
-tags:
-  - HowTo
+kind:
+  - tutorial
 ---
 
 # Git - Fork
@@ -55,7 +55,7 @@ git pull upstream main
 Fork-Dateien auschecken und stashen.
 
 ```bash
-git checkout main .gitmodules odoo.config.template
+git checkout main odoo.conf.template
 git stash
 ```
 
@@ -71,13 +71,13 @@ Submodule auschecken.
 
 ```bash
 task switch-git-folder 16.0
-task pull-git-folder
+task sync-git-folder
 task save-version
 ```
 
 Rebrand the repo.
 
-```
+```bash
 sed -i 's/Mint System/Sozialinfo/g' README.md
 sed -i 's/Mint-System/Sozialinfo/g' README.md
 sed -i 's|https://www.mint-system.ch|https://www.sozialinfo.ch|g' README.md
