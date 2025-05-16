@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Website
+kind: reference
 ---
 # Open Source Software
 
