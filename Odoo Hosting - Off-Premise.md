@@ -14,9 +14,9 @@ Der Partner des Kunden stellt einen Server zur Installation von Odoo bereit. Die
 
 Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Benutzer:
 
-**vCPU**: 2 Cores  
-**RAM**: 4 GB  
-**Disk**: 40 GB  
+**vCPU**: 4 Cores  
+**RAM**: 8 GB  
+**Disk**: 20 GB (sda) und 80 GB (sdb)
 
 ### Software
 

@@ -26,4 +26,5 @@ Für diese Konfiguration wird eine Subdomain mit den folgenden DNS-Einträgen be
 | email.\_domainkey.mail.example.com | TXT   | k=rsa; p=MIGfMA0GCSqGSIb3D ...  | DKIM key       |
 | mail.example.com                   | TXT   | v=spf1 include:mailgun.org ~all | SPF            |
 | \_dmarc.mail.example.com           | TXT   | v=DMARC1; p=reject;             | DMARC policy   |
+
 Die benötigten Werte werden von Mailgun generiert.

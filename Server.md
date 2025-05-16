@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+kind: reference
 ---
 # Server
 

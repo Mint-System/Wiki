@@ -26,4 +26,3 @@ Die folgenden Namen stehen zur Auswahl bereit:
 * Koios
 * Asteria
 * Perses
-* Geras
