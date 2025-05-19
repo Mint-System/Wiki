@@ -14,4 +14,3 @@ Die Mint System stellt keine Smartphone für den geschäftlichen Gebrauch zur Ve
 
 Für die telefonische Erreichbarkeit kann eine VoiP App auf dem privaten Gerät installiert werden.
 
-
