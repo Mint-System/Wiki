@@ -1,6 +1,8 @@
 ---
 tags:
-- Richtlinien
+  - Richtlinien
+kind:
+  - explain
 ---
 # Richtlinie - Projektmanagement
 Übersetzung: [[Policy Project Management]]

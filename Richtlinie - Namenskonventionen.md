@@ -1,7 +1,8 @@
 ---
 tags:
   - Richtlinien
-kind: reference
+kind:
+  - explain
 ---
 # Richtlinie - Namenskonventionen
 

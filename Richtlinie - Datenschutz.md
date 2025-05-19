@@ -1,6 +1,8 @@
 ---
 tags:
-- Richtlinien
+  - Richtlinien
+kind:
+  - explain
 ---
 # Richtlinie - Datenschutz
 

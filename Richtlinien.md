@@ -29,3 +29,4 @@ Richtlinien der Mint System.
 * [[Richtlinie - Arbeitszeit]]
 * [[Richtlinie - Zeiterfassung]]
 * [[Richtlinie - Kommunikation]]
+* [[Richtlinie - Smartphone]]
