@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 
 # Prozesse Infrastruktur - Innernet bereitstellen
@@ -10,6 +12,7 @@ Bereistellung Innernet-Umgebung.
 ## Innernet Client installieren
 
 Arbeittsschritte:
+
 * [WireGuard](https://www.wireguard.com/install/) installieren
 * Install Cargo `sudo apt install cargo`
 * Login as root `sudo su`
