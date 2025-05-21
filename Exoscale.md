@@ -16,4 +16,4 @@ Links: [[Exoscale cli]]
 
 ## Usage
 
-Requires [[OTP Auth]] to login.
+Requires [[TOTP Auth]] to login.

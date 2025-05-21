@@ -12,6 +12,7 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Odoo bestellen]]
 * [[Prozesse Infrastruktur - Nextcloud bestellen]]
 * [[Prozesse Infrastruktur - Mail-Account Kunde]]
+
 ## Bereitstellung
 
 * [[Prozesse Infrastruktur - DNS-Einträge erstellen]]
@@ -22,6 +23,7 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Installation Odoo]]
 * [[Prozesse Infrastruktur - Installation Nextcloud]]
 * [[Prozesse Infrastruktur - Installation Raspberry Pi]]
+* [[Prozesse Infrastruktur - Office 365]]
 
 ## Verwaltung
 

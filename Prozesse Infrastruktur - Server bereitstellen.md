@@ -1,8 +1,11 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Infrastruktur - Server bereitstellen
+
 Bereitstellung eines neuen Server.
 
 ## Server bei Hetzner erstellen
