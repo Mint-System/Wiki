@@ -3,7 +3,7 @@ tags:
   - Meta
 kind: explain
 ---
-# Erklärungen
+# Erklärung
 
 * [[Odoo]]
 * [[Unternehmensentwicklung]]

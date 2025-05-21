@@ -4,7 +4,7 @@ tags:
   - Alias
 kind: howto
 ---
-# Anleitungen
+# Anleitung
 
 * [[Prozesse]]
 * [[Git HowTo]]

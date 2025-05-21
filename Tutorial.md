@@ -3,6 +3,6 @@ tags:
   - Meta
 kind: tutorial
 ---
-# Tutorials
+# Tutorial
 
 * [[Methodik]]
