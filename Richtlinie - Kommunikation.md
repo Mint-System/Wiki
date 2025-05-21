@@ -1,3 +1,10 @@
+---
+tags:
+  - Richtlinien
+kind:
+  - explain
+---
+
 # Richtlinie - Kommunikation
 ## Instant Messaging
 

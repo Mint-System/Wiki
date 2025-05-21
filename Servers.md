@@ -4,25 +4,19 @@ tags:
 ---
 # Servers
 
-Die Server-Farm von Mint System.
+Alle Server-Definition sind im Ansible Inventory festgehalten.
 
 ## Hosting Provider
+
+Die Server laufen bei unterschiedlichen Providern.
 
 Siehe [[Hosting Provider]]
 
 ## Namenskonvention
 
-Siehe [[Richtlinie - Namenskonventionen#Servernamen]].
+Die Servernamen sind gemäss [[Richtlinie - Namenskonventionen#Servernamen]] definiert.
 
-## Liste
 
-Alle Server-Definition sind im Ansible Inventory festgehalten.
 
-### Liste freie Namen
 
-Die folgenden Namen stehen zur Auswahl bereit:
 
-* Zelus
-* Koios
-* Asteria
-* Perses
