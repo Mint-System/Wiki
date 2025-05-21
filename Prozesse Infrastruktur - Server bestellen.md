@@ -1,13 +1,17 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Infrastruktur - Server bestellen
+
 Server bei [[Kreis Infrastruktur]] bestellen.
 
 ## Managed Server bestellen
 
 Arbeitsschritte:
+
 * Informationen von Kunden zusammenstellen:
 	* Server-Typ: Server-Typ aus dem Angebot. Beispiel: [[Managed Server]] (Deutschland, Medium)
 	* Betriebssystem: Das [[Betriebssystem#Server]] bestimmen. Empfohlen ist [[Debian]].

@@ -1,8 +1,11 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Infrastruktur - Linux Sever Patching
+
 Konfiguration Linux Server Patching.
 
 ## Neuer Server hinzufügen
