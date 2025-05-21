@@ -16,7 +16,7 @@ dig $DOMAIN_KUNDE NS
 
 * Mail-Provider von Kunde abfragen
 
-```
+```bash
 dig $DOMAIN_KUNDE MX
 ```
 
