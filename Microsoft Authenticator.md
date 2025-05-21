@@ -9,7 +9,7 @@ lang: en
 
 ## TOTP 2FA aktivieren
 
-Enabling [[TOTP Auth]] for your Microsoft account can be difficult as the naming is diffent to the standards. This short guide provies a step by step guide.
+Enabling [[TOTP Auth]] for your Microsoft account can be difficult as the naming is different to the common practice. This short guide provies a step by step guide to setup and login with a TOTP code.
 
 First go your account security settings: <https://mysignins.microsoft.com/security-info>
 
@@ -19,9 +19,9 @@ Then select *Microsoft Authenticator*.
 
 ![[Microsoft Add a sign-in method.png]]
 
-Hit on the dialog *Next* and then click *Next* on the second dialog.
+On the first dialog hit *Next* and then click *Next* again.
 
-The TOTP QR code will be provided. Coopy and save the image.
+The TOTP QR code will be provided. Copy and save the image.
 
 Then click the *Can't scan image?* button and copy the *Code* and *URL*.
 
@@ -34,10 +34,14 @@ Complete the porocess and you should see a new sign-in method.
 
 ![[Microsoft Security info.png]]
 
+Use the QR code to setup an entry in your TOTP app.
+
 ## Login with TOTP
 
-When you login into your Office 365 account and are prompted to provide the second factor.
+When you login into your Office 365 account and are prompted to provide the second factor, click on *I can't use my Microsoft Authenticator app right now*. 
 
-When you login select *Use a verficiation code*.
+Then select *Use a verficiation code* as verfication option.
 
 ![[Microsoft Verify your identity.png]]
+
+Enter the TOTP code generated from your TOTP app.
