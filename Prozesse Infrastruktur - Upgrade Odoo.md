@@ -1,6 +1,8 @@
 ---
 tags:
   - Prozess
+kind:
+  - howto
 ---
 # Prozesse Infrastruktur - Odoo Upgrade
 

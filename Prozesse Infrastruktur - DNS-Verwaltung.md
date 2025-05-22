@@ -1,12 +1,15 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Infrastruktur - DNS-Verwaltung
 
 ## Externe DNS-Einträge definieren
 
 Arbeitsschritte:
+
 * Zusammenstellen benötigte DNS-Einträge
 
 Beispiel:
@@ -25,6 +28,7 @@ Beispiel:
 ## DNS-Einträge mit Vercel erstellen
 
 Arbeitsschritte:
+
 * Installation [[Vercel#Client]]
 * Zugriff auf das Mint System anfordern
 * DNS-Einträge mit `vercel dns` erstellen
@@ -32,6 +36,7 @@ Arbeitsschritte:
 ## Wildcard-Zertifikat mit Ansible erneuern
 
 Arbeitsschritte:
+
 * Delete certificate with `docker-certbot-delete`
 * Run proxy plabook with `--extra-vars "certbot_preferred_challenges=dns"` and run proxy playbook
 * Copy the proposed command and run it

@@ -3,7 +3,7 @@ tags:
   - Meta
 kind: reference
 ---
-# Referenzen
+# Referenz
 
 * [[Infrastruktur]]
 * [[Marketing]]

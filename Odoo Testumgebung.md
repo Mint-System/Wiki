@@ -1,6 +1,6 @@
 ---
-tags:
-- Asset
+kind:
+  - explain
 ---
 # Odoo Testumgebung
 

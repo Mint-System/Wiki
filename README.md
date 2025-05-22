@@ -17,10 +17,10 @@ Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang 
 
 Die Wissensdatenbank orientiert sich am [[Standard für Dokumentationssysteme]]. Alle Artikel entsprechen einer dieser Typen:
 
-[[Tutorials]]: Ist eine Lektion.\
-[[Anleitungen]]:  Behandelt ein reales Ziel oder Problem.\
-[[Referenzen]]: Enthält technische Fakten.\
-[[Erklärungen]]:  Liefert Kontext und Hintergrund.
+[[Tutorial]]: Ist eine Lektion.\
+[[Anleitung]]: Behandelt ein reales Ziel oder Problem.\
+[[Referenz]]: Enthält technische Fakten.\
+[[Erklärung]]: Liefert Kontext und Hintergrund.
 
 ## Mitarbeit
 

@@ -1,8 +1,11 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Infrastruktur - Odoo bestellen
+
 Bestellung einer Odoo-Installation.
 
 ## DNS-Einträge und Postfach anfragen
@@ -15,7 +18,7 @@ dig $DOMAIN_KUNDE NS
 
 * Mail-Provider von Kunde abfragen
 
-```
+```bash
 dig $DOMAIN_KUNDE MX
 ```
 
@@ -42,7 +45,7 @@ Wir haben festgestellt, dass Sie die Domain beim Registrar $KUNDEN_REGISTRAR ver
 
 Zur Kommunikation braucht Odoo ein eigenes Postfach.
 
-Unser Vorschlag: odoo@DOMAIN_KUNDE
+Unser Vorschlag: odoo@$DOMAIN_KUNDE
 
 Wir haben festgestellt, dass ihre E-Mail-Provider Office 365 ist. Damit Odoo das Postfach verwenden kann, muss Odoo als OAuth-App registriert werden: https://www.odoo-wiki.org/settings-oauth.html#odoo-als-oauth-app-auf-azure-registrieren
 

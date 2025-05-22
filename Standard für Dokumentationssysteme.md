@@ -16,5 +16,5 @@ Alle Artikel im Wiki werden diesen vier Typen zugeordnet:
 
 #tutorial: Ist eine Lektion.\
 #howto:  Behandelt ein reales Ziel oder Problem.\
-#referenzen: Enthält technische Fakten.\
+#reference: Enthält technische Fakten.\
 #explain:  Liefert Kontext und Hintergrund.
