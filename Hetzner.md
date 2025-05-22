@@ -1,6 +1,8 @@
 ---
 tags:
   - Website
+kind:
+  - reference
 ---
 # Hetzner
 
@@ -14,7 +16,8 @@ Website: https://www.hetzner.com/
 
 [[Hetzner - Festplattenspeicher erweitern]]\
 [[Hetzner - Server zu neuem Standort migrieren]]\
-[[Hetzner - RAM-Speicher erhöhen]]
+[[Hetzner - RAM-Speicher erhöhen]]\
+[[Hetzner - Projekt verwalten]]
 
 ## Hetzner Cloud cli
 

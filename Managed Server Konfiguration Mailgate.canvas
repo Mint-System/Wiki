@@ -1,19 +1,19 @@
 {
 	"nodes":[
-		{"id":"cd5694e6074f6b8d","type":"group","x":220,"y":-100,"width":850,"height":400,"label":"Server"},
+		{"id":"cd5694e6074f6b8d","type":"group","x":220,"y":-100,"width":860,"height":420,"label":"Server"},
 		{"id":"b498740d7bd28da0","type":"group","x":250,"y":-40,"width":800,"height":320,"label":"Docker"},
 		{"id":"46d3ea506705446e","type":"group","x":-360,"y":-200,"width":380,"height":200,"label":"Legend:"},
 		{"id":"7ff90b59c17c7ab7","type":"text","text":"Nginx","x":295,"y":20,"width":140,"height":60,"color":"5"},
-		{"id":"9d445141e2730bc8","type":"text","text":"Odoo","x":620,"y":20,"width":115,"height":60,"color":"6"},
-		{"id":"53ad923ef0de78aa","type":"text","text":"PostgreSQL","x":860,"y":20,"width":160,"height":60,"color":"6"},
-		{"id":"93ce869657da780d","type":"text","text":"Mailgun","x":603,"y":-220,"width":150,"height":60,"color":"1"},
-		{"id":"90270430cba6b0fb","type":"text","text":"Mailgate","x":295,"y":150,"width":140,"height":60,"color":"6"},
-		{"id":"e9c86396c0e2f390","type":"text","text":"Firewall","x":-140,"y":150,"width":120,"height":60,"color":"1"},
-		{"id":"50cbee2f095ae2c5","type":"text","text":"External Mail-Server","x":-570,"y":150,"width":180,"height":60,"color":"1"},
+		{"id":"e9c86396c0e2f390","type":"text","text":"Firewall","x":-140,"y":150,"width":140,"height":60,"color":"1"},
 		{"id":"36afc1a9de7ad1a4","type":"text","text":"**Thirdparty**","x":-340,"y":-170,"width":150,"height":60,"color":"1"},
 		{"id":"ef4fd44ddaa5e4b3","type":"text","text":"**Proxy Container**","x":-340,"y":-80,"width":150,"height":60,"color":"5"},
 		{"id":"20f79484b15da41f","type":"text","text":"**Services**","x":-150,"y":-170,"width":150,"height":60,"color":"4"},
-		{"id":"1f1d1a6877185e06","type":"text","text":"**App Container**","x":-150,"y":-80,"width":150,"height":60,"color":"6"}
+		{"id":"1f1d1a6877185e06","type":"text","text":"**App Container**","x":-150,"y":-80,"width":150,"height":60,"color":"6"},
+		{"id":"9d445141e2730bc8","type":"text","text":"Odoo","x":620,"y":20,"width":115,"height":60,"color":"6"},
+		{"id":"93ce869657da780d","type":"text","text":"Mailgun","x":603,"y":-220,"width":150,"height":60,"color":"1"},
+		{"id":"90270430cba6b0fb","type":"text","text":"Mailgate","x":295,"y":150,"width":140,"height":60,"color":"6"},
+		{"id":"50cbee2f095ae2c5","type":"text","text":"External Mail-Server","x":-600,"y":150,"width":180,"height":60,"color":"1"},
+		{"id":"53ad923ef0de78aa","type":"text","text":"PostgreSQL","x":880,"y":140,"width":160,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"a4fc2d4f90dfef7b","fromNode":"9d445141e2730bc8","fromSide":"right","toNode":"53ad923ef0de78aa","toSide":"left","label":"postgres01:5432"},
@@ -21,6 +21,6 @@
 		{"id":"fe48073f30877e1f","fromNode":"50cbee2f095ae2c5","fromSide":"right","toNode":"e9c86396c0e2f390","toSide":"left","label":"smtp://mail.example.com\n"},
 		{"id":"eb52f2cf1637579a","fromNode":"7ff90b59c17c7ab7","fromSide":"right","toNode":"9d445141e2730bc8","toSide":"left","label":"odoo01:8069"},
 		{"id":"575b8c9fa67e92fd","fromNode":"9d445141e2730bc8","fromSide":"top","toNode":"93ce869657da780d","toSide":"bottom","label":"smtp://smtp.eu.mailgun.org:468"},
-		{"id":"15ce23de96938258","fromNode":"90270430cba6b0fb","fromSide":"right","toNode":"9d445141e2730bc8","toSide":"bottom","label":"http://odoo01"}
+		{"id":"15ce23de96938258","fromNode":"90270430cba6b0fb","fromSide":"right","toNode":"9d445141e2730bc8","toSide":"bottom","label":"http://odoo01:8069"}
 	]
 }

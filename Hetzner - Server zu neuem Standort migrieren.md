@@ -1,6 +1,8 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - howto
 ---
 # Hetzner - Server zu neuem Standort migrieren
 
