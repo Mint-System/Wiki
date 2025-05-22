@@ -2,6 +2,6 @@
 tags:
   - Definition
 kind:
-  - reference
+  - explain
 ---
 # Odoo Produktionsumgebung

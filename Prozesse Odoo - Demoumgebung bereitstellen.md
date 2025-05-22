@@ -1,8 +1,12 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Odoo - Demoumgebung bereitstellen
+
+Beschreibt wie man eine [[Odoo Demoumgebung]] bereitstellt.
 
 ## Demoumgebung installieren
 
