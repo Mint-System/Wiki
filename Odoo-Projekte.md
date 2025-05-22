@@ -1,6 +1,8 @@
 ---
 tags:
-- Phasen
+  - Phasen
+kind:
+  - reference
 ---
 # Odoo-Projekte
 

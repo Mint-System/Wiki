@@ -1,7 +1,9 @@
 ---
 lang: en
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
 ---
 # Odoo Enterprise Upgrade
 

@@ -1,6 +1,9 @@
 ---
 tags:
   - Troubleshooting
+kind:
+  - howto
+lang: en
 ---
 # Hetzner Troubleshooting
 

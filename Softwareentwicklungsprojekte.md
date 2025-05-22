@@ -1,6 +1,8 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - reference
 ---
 # Softwareentwicklungsprojekte
 

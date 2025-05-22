@@ -1,7 +1,8 @@
 ---
 tags:
   - Governance
-kind: reference
+kind:
+  - explain
 ---
 # Kreis Infrastruktur
 

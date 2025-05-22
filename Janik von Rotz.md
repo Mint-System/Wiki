@@ -5,6 +5,8 @@ responsibilities:
   - Infrastruktur
   - Development
   - Finanzen
+kind:
+  - reference
 ---
 # Janik von Rotz
 
