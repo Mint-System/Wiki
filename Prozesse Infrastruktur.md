@@ -37,6 +37,7 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - Wartung]]
 * [[Prozesse Infrastruktur - OS Migration]]
 * [[Prozesse Infrastruktur - Upgrade Odoo]]
+* [[Prozesse Infrastruktur - Upgrade Odoo.sh]]
 
 ## Rückbau
 

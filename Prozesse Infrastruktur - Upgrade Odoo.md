@@ -18,7 +18,7 @@ Arbeitsschritte:
 * Entferne die `erp-dev` Datenbank.
 * Aktiviere die Proxy-Weiterleitung zur neuen Instanz.
 
-## Produktions-Upgrade durchführen
+## Produktives Upgrade durchführen
 
 * Nachricht an den Kunden:
 
