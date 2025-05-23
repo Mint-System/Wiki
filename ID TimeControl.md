@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
 ---
 # ID TimeControl
+
 Ist ein Produkt der [[Equitania Software GmbH]].
 
 Website: <https://www.idtimecontrol.de>

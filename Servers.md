@@ -1,6 +1,8 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - reference
 ---
 # Servers
 
@@ -15,8 +17,3 @@ Siehe [[Hosting Provider]]
 ## Namenskonvention
 
 Die Servernamen sind gemäss [[Richtlinie - Namenskonventionen#Servernamen]] definiert.
-
-
-
-
-

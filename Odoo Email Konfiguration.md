@@ -1,8 +1,11 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - howto
 ---
 # Odoo Email Konfiguration
+
 Um diese Funktion einzurichten müssen folgende Einstellung gemacht werden:
 
 * Registration Mail Account `odoo@example.com`

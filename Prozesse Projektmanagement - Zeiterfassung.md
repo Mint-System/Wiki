@@ -1,8 +1,11 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Projektmanagement - Zeiterfassung
+
 Stundenrapport auf externe und interne Projekte.
 
 ## Aufwand verrechnen

@@ -10,3 +10,4 @@ kind: explain
 * [[Partner]]
 * [[Philosophie]]
 * [[Technologien]]
+* [[Vorgehensmodell]]

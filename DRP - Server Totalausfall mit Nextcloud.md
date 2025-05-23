@@ -1,6 +1,8 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - howto
 ---
 # DRP - Server Totalausfall mit Nextcloud
 

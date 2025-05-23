@@ -1,3 +1,10 @@
+---
+tags:
+  - Website
+kind:
+  - reference
+---
+
 # Mastodon
 
 Website: <https://joinmastodon.org/>

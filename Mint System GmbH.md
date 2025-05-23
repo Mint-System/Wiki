@@ -23,6 +23,7 @@ Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[G
 * [[Janik von Rotz]]
 * [[Kurt Gisler]]
 * [[Ulrich Kilian]]
+* [[Marcus Menzel]]
 
 ## Freischaffende
 

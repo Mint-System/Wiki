@@ -1,3 +1,10 @@
+---
+tags:
+  - Definition
+kind:
+  - explain
+---
+
 # Kubernetes Cluster
 
 Mint System is maintaining a Kubernetes cluster.

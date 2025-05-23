@@ -1,7 +1,8 @@
 ---
 tags:
   - Prozess
-kind: tutorial
+kind:
+  - explain
 ---
 # Vorgehensmodell
 

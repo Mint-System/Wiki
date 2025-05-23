@@ -17,7 +17,7 @@ Die folgende Grafik zeigt auf wie eine Server-Umgebung für Odoo aussieht und we
 Wenn kein Mail-Postfach für Odoo zur Verfügung steht, kann der Versand und Empfang mit [[Mailgun]] und [[Odoo Mailgate]] umgesetzt werden.
 
 ![[Managed Server Konfiguration Mailgate.canvas|Managed Server Konfiguration Mailgate]]
-Für diese Konfiguration wird eine Subdomain mit den folgenden DNS-Einträgen benötigt. Als Subodmain empfehlen wir `mail.example.com`.
+Für diese Konfiguration wird eine Subdomain mit den folgenden DNS-Einträgen benötigt. Als Subdomain empfehlen wir `mail.example.com`.
 
 | Host                               | Type  | Value                           | Description    |
 | ---------------------------------- | ----- | ------------------------------- | -------------- |

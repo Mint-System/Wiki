@@ -1,5 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
 ---
 # Odoo Produktionsumgebung

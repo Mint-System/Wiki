@@ -2,6 +2,8 @@
 tags:
   - Governance
 responsible: Kurt Gisler
+kind:
+  - explain
 ---
 # Steuerungskreis
 

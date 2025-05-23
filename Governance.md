@@ -1,7 +1,8 @@
 ---
 tags:
   - Governance
-kind: explain
+kind:
+  - explain
 ---
 # Governance
 

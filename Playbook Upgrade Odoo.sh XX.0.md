@@ -1,8 +1,13 @@
+---
+kind:
+  - howto
+---
+
 # Playbook Upgrade Odoo.sh XX.0
 
 ## Prepare 📝
 
-Set env vars.`
+Set env vars from the Odoo.sh branch.
 
 ```bash
 export COMPANY="gelso"
@@ -14,7 +19,7 @@ export ODOO_PASSWORD=***
 
 Create credentials file with `task create-odoo-env "$COMPANY"`.
 
-Test connection with `task test-jsonrpc "$COMPANY"`.
+Test connection with `task test-xmlrpc "$COMPANY"`.
 
 Backup database in Odoo.sh project.
 
@@ -29,9 +34,10 @@ Login and check the Upgrade report.
 Install, update or remove modules in Odoo.sh shell.
 
 ```bash
-odoo-bin --stop-after-init -i $MODULE_NAME
-odoo-update $MODULE_NAME
+odoo-bin --stop-after-init -i "$MODULE_NAME"
+odoo-update "$MODULE_NAME"
 echo "self.env['ir.module.module'].search([('name', '=', '$MODULE_NAME')]).button_immediate_uninstall()" | odoo-bin shell
+echo "self.env['ir.module.module'].search([('name', '=', '$MODULE_NAME')]).button_immediate_install()" | odoo-bin shell
 ```
 
 Make new Odoo configurations.

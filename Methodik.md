@@ -8,7 +8,6 @@ kind: tutorial
 Methodisches Vorgehen.
 
 * [[Evaluation]]
-* [[Vorgehensmodell]]
 * [[Design Decisions]]
 * [[Marktsondierung]]
 * [[Pendenzen]]

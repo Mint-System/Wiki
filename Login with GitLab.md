@@ -1,6 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
 ---
 # Login with GitLab
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- Phasen
+  - Phasen
+kind:
+  - explain
 ---
 # Phase Kontakte
 
@@ -18,6 +20,7 @@ Ergebnis: Kontakt-Daten stehen in Odoo zur Verfügung.
 ## Kontakte einrichten
 
 **Quelldaten für Lieferanten und Kunden**
+
 - In welcher Form sind die Kontaktdaten der Lieferanten für die Migration vorhanden? ⭐
 - In welcher Form sind Kontaktdaten der Kunden für die Migration vorhanden? ⭐
 

@@ -1,7 +1,8 @@
 ---
 tags:
   - Phasen
-kind: reference
+kind:
+  - explain
 ---
 # Phase Knowledge
 

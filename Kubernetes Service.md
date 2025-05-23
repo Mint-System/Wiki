@@ -1,6 +1,8 @@
 ---
 tags:
-  - Definition
+  - Website
+kind:
+  - reference
 ---
 # Kubernetes Service
 

@@ -1,12 +1,17 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Odoo - Demoumgebung bereitstellen
+
+Beschreibt wie man eine [[Odoo Demoumgebung]] bereitstellt.
 
 ## Demoumgebung installieren
 
 Arbeitsschritte:
+
 * Definieren Domain  `$NAME.14.odoo.build`
 * Installation Odoo mit [[Ansible Build]]
 * Konfiguration Mail-Server
@@ -21,6 +26,7 @@ Arbeitsschritte:
 Integration in [[Login Mint System]].
 
 Arbeitsschritte:
+
 * Bei [[Login Mint System#mint-system ch Realm]] die Applikation registrieren
 * Benutzer mit Rolle `access` austatten
 * Zugriff testen
@@ -28,6 +34,7 @@ Arbeitsschritte:
 ## Demoumgebung entfernen
 
 Arbeitsschritte:
+
 * Einträge aus Ansible Inventar löschen
 * DNS-Einträge löschen
 * OAuth Client URL von Liste *Valid Redirect URIs* entfernen
