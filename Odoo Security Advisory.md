@@ -19,7 +19,5 @@ CVEs are published on GitHub as issues: <https://github.com/odoo/odoo/issues?q=i
 
 Odoo notifies Odoo Enterprise customers with an on-premise installation of Odoo.
 
-Here are CVEs addressed by mail from Odoo:
 
-* [[Odoo Security Advisory - ODOO-SA-2024-12-23]]
 
