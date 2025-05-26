@@ -23,6 +23,7 @@ function help() {
 
     # Print table rows
     printf "$COLUMN" "install" "" "Install build dependencies."
+    printf "$COLUMN" "update" "" "Update build dependencies."
     printf "$COLUMN" "build" "" "Build project."
     printf "$COLUMN" "dev" "" "Start vuepress development server."
     printf "$COLUMN" "vuepress-build" "" "Create vuepress build."
@@ -74,6 +75,17 @@ function review-notes() {
 
 function install() {
     pnpm install
+}
+
+function update() {
+    pnpm install -D @vuepress/bundler-vite@next
+    pnpm install -D @vuepress/client@next
+    pnpm install -D @vuepress/plugin-docsearch@next
+    pnpm install -D @vuepress/plugin-search@next
+    pnpm install -D @vuepress/plugin-shiki@next
+    pnpm install -D @vuepress/theme-default@next
+    pnpm install -D @vuepress/utils@next
+    pnpm install -D vuepress@next
 }
 
 function build() {

@@ -1,6 +1,6 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
-import { searchPlugin } from '@vuepress/plugin-search'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { plausiblePlugin } from './plausible'
 import { mermaidPlugin } from './mermaid'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
@@ -28,8 +28,10 @@ export default defineUserConfig({
         ]
     }),
     plugins: [
-        searchPlugin({
-            maxSuggestions: 10
+        docsearchPlugin({
+            appId: 'K0L2Z2FR1R',
+            apiKey: 'fa95c381e8996dbc5ac371d4acbd4ca5',
+            indexName: 'wiki_mint_system_ch_k0l2z2fr1r_pages',
         }),
         plausiblePlugin({
             'domain': 'wiki.mint-system.ch'
