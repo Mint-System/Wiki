@@ -1,5 +1,7 @@
 ---
 lang: en
+kind:
+  - reference
 ---
 # Odoo Security Advisory
 
