@@ -25,9 +25,9 @@ function help() {
     printf "$COLUMN" "install" "" "Install build dependencies."
     printf "$COLUMN" "update" "" "Update build dependencies."
     printf "$COLUMN" "build" "" "Build project."
-    printf "$COLUMN" "dev" "" "Start vuepress development server."
-    printf "$COLUMN" "vuepress-build" "" "Create vuepress build."
-    printf "$COLUMN" "serve-build" "" "Serve vuepress build."
+    printf "$COLUMN" "dev-vuepress" "" "Start vuepress development server."
+    printf "$COLUMN" "build-vuepress" "" "Create vuepress build."
+    printf "$COLUMN" "serve-vuepress" "" "Serve vuepress build."
     printf "$COLUMN" "convert-files" "" "Convert markdown wiki links to normal link."
     printf "$COLUMN" "convert-canvas" "" "Convert canvas files to svg."
     printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
@@ -92,15 +92,15 @@ function build() {
     node build.js
 }
 
-function dev() {
+function dev-vuepress() {
     pnpm run dev
 }
 
-function vuepress-build() {
+function build-vuepress() {
     pnpm run vue-build
 }
 
-function serve-build() {
+function serve-vuepress() {
     cd ./src/.vuepress/dist
     npx serve
 }
