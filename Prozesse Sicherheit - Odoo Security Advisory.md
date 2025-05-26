@@ -6,9 +6,9 @@ Auslöser: Odoo versende eine Mail mit einer [[Odoo Security Advisory]].
 
 Arbeitsschritte:
 
-* Die Liste der CVEs wird unter [[Odoo Security Advisory#Notifications]] festgehalten.
-* Es wird eine Liste von betroffenen Kunden erstellt.
-* Die betroffenen Kunden werden informiert.
+* Die Liste der CVEs festhatlten
+* Eine Liste der betroffenen Kunden erstellen
+* Die betroffenen Kunden informieren:
 
 ```
 Betreff: [Odoo Security Advisory] ODOO-SA-2024-12-23 Update
@@ -25,5 +25,5 @@ Freundlicher Gruss
 Janik
 ```
 
-* Für die betroffenen Odoo Versionen wird eine neue Revision erstellt.
-* Das Revisions-Upgrade wird geplant.
+* Für die betroffenen Odoo Versionen wird eine neue Revision erstellen
+* Das Revisions-Upgrade wird geplant
