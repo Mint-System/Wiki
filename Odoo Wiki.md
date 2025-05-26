@@ -1,6 +1,8 @@
 ---
 tags:
-- Asset
+  - Website
+kind:
+  - reference
 ---
 # Odoo Wiki
 
