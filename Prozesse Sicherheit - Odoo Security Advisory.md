@@ -20,9 +20,7 @@ Odoo hat am 23.12.2024 eine Security Advisory an Enterprise Kunden mit einer On-
 
 Als Massnahme werden wir eure Odoo Umgebung auf die neuste Revision YYYYMMDD aktualisieren. Über den Odoo Chatter teilen wir mit, wenn die neue Odoo Revision bereit ist und installiert wird.
 
-Freundlicher Gruss
-
-Janik
+Freundliche Grüsse
 ```
 
 * Für die betroffenen Odoo Versionen wird eine neue Revision erstellen
