@@ -6,6 +6,7 @@ tags:
 
 Hier entstehen neue Blog-Posts:
 
+[[E-Mails mit Odoo direkt versenden und empfangen]]\
 [[Von Microsoft zu Infomaniak migrieren]]\
 [[Mythen über Open Source]]\
 [[Zahlen zum Unternehmen]]\
