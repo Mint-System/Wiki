@@ -28,5 +28,5 @@ Damit die Backups auch bei einem Ausfall des Backup Servers zur Verfügung stehe
 
 ## Anwendung
 
-[[Wiederherstellung von Backups]]\
+[[restic - Wiederherstellung von Backups]]\
 [[Disaster Recovery Plan]]

@@ -1,8 +1,10 @@
 ---
 tags:
-- Asset
+  - restic
+kind:
+  - howto
 ---
-# Restic Troubleshooting
+# restic Troubleshooting
 
 ## Snapshots
 

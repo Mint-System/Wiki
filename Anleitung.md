@@ -9,7 +9,7 @@ kind: howto
 * [[Prozesse]]
 * [[Git HowTo]]
 * [[N8N - HowTo]]
-* [[Restic HowTo]]
+* [[restic HowTo]]
 * [[Python HowTo]]
 * [[Jenkins HowTo]]
 * [[Firefox HowTo]]

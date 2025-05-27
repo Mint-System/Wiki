@@ -57,7 +57,7 @@ Den Befehl `aplaybook -i inventories/proxy proxy.yml -l helios` ausführen.
 
 ### Backup wiederherstellen
 
-Nun muss nur noch das Odoo-Backup vom Backup-Server wiederhergestellt werden. Details zum Vorgang sind zu finden unter [[Wiederherstellung von Backups]].
+Nun muss nur noch das Odoo-Backup vom Backup-Server wiederhergestellt werden. Details zum Vorgang sind zu finden unter [[restic - Wiederherstellung von Backups]].
 
 `restic restore 70c0071d --target /`
 

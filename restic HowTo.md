@@ -1,9 +1,10 @@
 ---
 tags:
-  - HowTo
-kind: howto
+  - restic
+kind:
+  - howto
 ---
-# Restic HowTo
+# restic HowTo
 
 ## Repo auf Server öffnen
 

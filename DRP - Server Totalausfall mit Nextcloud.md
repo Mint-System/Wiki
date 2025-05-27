@@ -38,4 +38,4 @@ Den Befehl `aplaybook -i inventories/proxy proxy.yml -l hyperion` ausführen.
 
 ### Backup wiederherstellen
 
-Nun muss nur noch das Nextcloud-Backup vom Backup-Server wiederhergestellt werden. Details zum Vorgang sind zu finden unter [[Wiederherstellung von Backups]].
+Nun muss nur noch das Nextcloud-Backup vom Backup-Server wiederhergestellt werden. Details zum Vorgang sind zu finden unter [[restic - Wiederherstellung von Backups]].
