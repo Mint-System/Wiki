@@ -8,11 +8,11 @@ kind:
 
 Odoo bietet die Möglichkeit, E-Mails direkt zu versenden und zu empfangen. Wird eine Nachricht über den Odoo-Chatter versendet, versieht Odoo die E-Mail mit einem eindeutigen Tag. Antwortet der Empfänger auf diese E-Mail, erkennt Odoo anhand dieses Tags die zugehörige Konversation und ordnet die Antwort automatisch im Chatter zu.
 
-Damit diese Art der E-Mail-Kommunikation funktioniert, muss Odoo in der Lage sein, E-Mails im Namen einer bestimmten Mail-Domain (z. B. `yourcompany.com`) zu versenden. Standardmäßig erfolgt die Integration über ein vorhandenes E-Mail-Postfach. Odoo erhält Zugriff auf ein festgelegtes Postfach, beispielsweise `odoo@yourcompany.com`, und kann damit E-Mails senden, empfangen und verarbeiten.
+Damit diese Art der E-Mail-Kommunikation funktioniert, muss Odoo in der Lage sein, E-Mails im Namen einer bestimmten Mail-Domain (z. B. `yourcompany.com`) zu versenden. Standardmässig erfolgt die Integration über ein vorhandenes E-Mail-Postfach. Odoo erhält Zugriff auf ein festgelegtes Postfach, beispielsweise `odoo@yourcompany.com`, und kann damit E-Mails senden, empfangen und verarbeiten.
 
 Was zunächst einfach klingt, wird bei bestimmten Mail-Providern – insbesondere Microsoft 365 und Google Gmail – schnell komplex. Diese Anbieter erlauben keine klassische Authentifizierung über Benutzername und Passwort. Stattdessen muss Odoo als sogenannte OAuth-App registriert werden. Erst dann gestatten Microsoft oder Google den Zugriff auf bestimmte Ressourcen wie SMTP für den Versand und IMAP für den Empfang von E-Mails.
 
-Diese OAuth-basierten Autorisierungsverfahren sind erfahrungsgemäß fehleranfällig und unterliegen häufigen Änderungen durch die Anbieter. Die direkte Integration eines E-Mail-Postfachs gestaltet sich dadurch unnötig kompliziert. Zum Glück gibt es alternative und deutlich einfachere Möglichkeiten, um E-Mails mit Odoo zu versenden und zu empfangen. Bevor wir darauf eingehen, lohnt sich ein Blick auf die verschiedenen Arten von E-Mails.
+Diese OAuth-basierten Autorisierungsverfahren sind erfahrungsgemäss fehleranfällig und unterliegen häufigen Änderungen durch die Anbieter. Die direkte Integration eines E-Mail-Postfachs gestaltet sich dadurch unnötig kompliziert. Zum Glück gibt es alternative und deutlich einfachere Möglichkeiten, um E-Mails mit Odoo zu versenden und zu empfangen. Bevor wir darauf eingehen, lohnt sich ein Blick auf die verschiedenen Arten von E-Mails.
 
 ## Mail-Domains und Reputation
 
