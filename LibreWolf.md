@@ -10,7 +10,7 @@ lang: en
 
 Website: <https://librewolf.net/>
 
-## Verwendung
+## Usage
 
 ### Disable resist fingerprinting
 
