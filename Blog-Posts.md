@@ -20,7 +20,7 @@ Status Draft:
 
 Publiziert:
 
-[[E-Mails mit Odoo direkt versenden und empfangen]]\
+[[E-Mails mit Odoo versenden und empfangen]]\
 [[Von Microsoft zu Infomaniak migrieren]]\
 [[Unsere fast neue Website]]\
 [[Hack4SocialGood 2024]]\

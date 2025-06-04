@@ -5,7 +5,7 @@ kind:
   - explain
 draft: false
 ---
-# E-Mails mit Odoo direkt versenden und empfangen
+# E-Mails mit Odoo versenden und empfangen
 
 > Alles zur Mail-Integration mit Odoo.
 
