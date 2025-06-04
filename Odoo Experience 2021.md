@@ -1,6 +1,6 @@
 ---
 tags:
-- Asset
+  - Blog
 ---
 # Odoo Experience 2021
 

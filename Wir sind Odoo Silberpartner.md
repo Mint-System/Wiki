@@ -1,7 +1,9 @@
 ---
 tags:
-  - Asset
+  - Blog
 draft: true
+kind:
+  - explain
 ---
 # Wir sind Odoo Silber-Partner
 

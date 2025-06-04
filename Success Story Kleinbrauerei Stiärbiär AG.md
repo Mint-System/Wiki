@@ -1,6 +1,6 @@
 ---
 tags:
-- Asset
+  - Blog
 ---
 # Success Story Kleinbrauerei Stiärbiär AG
 

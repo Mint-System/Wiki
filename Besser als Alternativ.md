@@ -1,8 +1,10 @@
 ---
 tags:
-- Asset
+  - Blog
+kind:
+  - explain
+draft: false
 ---
-
 # Open Source Software: Besser als Alternativ
 Open Source Software ist keine Alternative, sie ist einfach besser.
 

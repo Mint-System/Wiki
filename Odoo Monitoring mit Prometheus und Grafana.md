@@ -1,7 +1,9 @@
 ---
 tags:
-  - Asset
-draft: true
+  - Blog
+draft: false
+kind:
+  - explain
 ---
 # Odoo Monitoring mit Prometheus und Grafana
 

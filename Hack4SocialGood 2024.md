@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Blog
+draft: false
+kind:
+  - explain
 ---
 
 ![[caritas.png]]

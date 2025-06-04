@@ -1,7 +1,9 @@
 ---
 tags:
-  - Asset
+  - Blog
 draft: true
+kind:
+  - explain
 ---
 # Bauteile mit Odoo zertifizieren
 

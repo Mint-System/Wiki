@@ -6,19 +6,24 @@ tags:
 
 Hier entstehen neue Blog-Posts:
 
-[[E-Mails mit Odoo direkt versenden und empfangen]]\
-[[Von Microsoft zu Infomaniak migrieren]]\
+Status Draft:
+
 [[Mythen über Open Source]]\
 [[Zahlen zum Unternehmen]]\
 [[Wir sind Odoo Silberpartner]]\
 [[Odoo ist kein ERP-System]]\
-[[Bauteile mit Odoo zertifizieren]]\
 [[Odoo Monitoring mit Prometheus und Grafana]]\
+[[Bauteile mit Odoo zertifizieren]]\
 [[Aufbau einer Entwicklungsumgebung für Odoo]]\
 [[Lizenzmanagement mit Odoo]]
+[[URec-Team]]\
+
+Publiziert:
+
+[[E-Mails mit Odoo direkt versenden und empfangen]]\
+[[Von Microsoft zu Infomaniak migrieren]]\
 [[Unsere fast neue Website]]\
 [[Hack4SocialGood 2024]]\
-[[URec-Team]]\
 [[Von Bexio nach Odoo]]\
 [[Besser als Alternativ]]\
 [[Odoo 16 - Ein Meilenstein ]]\

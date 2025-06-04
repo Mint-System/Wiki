@@ -1,5 +1,9 @@
 ---
 draft: false
+tags:
+  - Blog
+kind:
+  - explain
 ---
 # Unsere fast neue Website
 "Fast" im Sinne von Schnell.

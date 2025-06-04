@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Blog
+draft: false
+kind:
+  - explain
 ---
 # Spam reduzieren mit SPF, DKIM und DMARC
 

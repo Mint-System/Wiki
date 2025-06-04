@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Blog
+kind:
+  - explain
+draft: false
 ---
 # Den eigenen Login-Anbieter mit Keycloak betreiben
 

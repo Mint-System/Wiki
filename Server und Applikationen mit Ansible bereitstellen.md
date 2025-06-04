@@ -1,7 +1,8 @@
 ---
 tags:
-  - Asset
-kind: tutorial
+  - Blog
+kind:
+  - explain
 ---
 # Server und Applikationen mit Ansible bereitstellen
 

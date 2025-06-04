@@ -1,6 +1,8 @@
 ---
 tags:
-- HowTo
+  - Blog
+kind:
+  - explain
 ---
 ![[Odoo Website Builder.png]]
 

@@ -3,8 +3,11 @@ tags:
   - Blog
 kind:
   - explain
+draft: false
 ---
 # E-Mails mit Odoo direkt versenden und empfangen
+
+> Alles zur Mail-Integration mit Odoo.
 
 Odoo bietet die Möglichkeit, E-Mails direkt zu versenden und zu empfangen. Wird eine Nachricht über den Odoo-Chatter versendet, versieht Odoo die E-Mail mit einer Kennzeichnung (Mail-Header). Antwortet der Empfänger auf diese E-Mail, erkennt Odoo anhand dieser Kennzeichnung die zugehörige Konversation und fügt die Antwort im Chatter zu.
 

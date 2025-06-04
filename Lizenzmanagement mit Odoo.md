@@ -1,7 +1,7 @@
 ---
 tags:
-  - Asset
-draft: true
+  - Blog
+draft: false
 kind:
   - explain
 ---

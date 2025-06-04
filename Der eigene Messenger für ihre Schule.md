@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Blog
+kind:
+  - explain
+draft: false
 ---
 # Der eigene Messenger für ihre Schule
 Wie sieht eine Alternative zu Whatsapp und Co für den Schulbetrieb aus?

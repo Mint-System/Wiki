@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Blog
+kind:
+  - explain
+draft: false
 ---
 # URec-Team
 

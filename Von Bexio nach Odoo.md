@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Blog
+kind:
+  - explain
+draft: false
 ---
 # Von Bexio nach Odoo
 Ein Erfahrungsbericht zur Migration von Bexio nach Odoo.

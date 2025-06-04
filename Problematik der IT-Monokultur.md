@@ -1,6 +1,6 @@
 ---
 tags:
-- Asset
+  - Blog
 ---
 # Problematik der IT-Monokultur
 

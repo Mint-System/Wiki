@@ -1,6 +1,6 @@
 ---
 tags:
-- Asset
+  - Blog
 ---
 # Applikation mit Odoo entwickeln
 

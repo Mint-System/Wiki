@@ -1,8 +1,8 @@
 ---
 tags:
-- Asset
+  - Blog
+draft: false
 ---
-![](https://www.basis57.ch/wp-content/uploads/2019/09/Bild_2-1024x576.jpg)
 
 # Eine Sache des guten Geschmacks
 > Odoo funktioniert auch in der Fischzucht.

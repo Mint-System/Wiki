@@ -1,6 +1,6 @@
 ---
 tags:
-- HowTo
+  - Blog
 ---
 # Systemüberwachung mit Prometheus und Grafana
 

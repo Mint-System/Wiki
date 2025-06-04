@@ -1,7 +1,9 @@
 ---
 tags:
   - Blog
-kind: explain
+kind:
+  - explain
+draft: false
 ---
 # Odoo Customizing ohne unvorhergesehene Upgradekosten
 
