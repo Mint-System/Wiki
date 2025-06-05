@@ -31,7 +31,7 @@ Arbeitsschritte:
 * Rolle hinzufügen:
 	* cloud.mint-system.ch access
 	* erp.mint-system.ch access
-	* monitor.mint-system.ch access
+	* monitor.mint-system.ch admin
 * Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
 * Zugriffsdaten and private Mail-Adresse schicken
 
