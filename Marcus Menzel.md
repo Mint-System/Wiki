@@ -2,5 +2,5 @@
 
 Benutzername: `marcusmenzel`\
 Alias: `mam`\
-Mail: <marcus.menzel@mint-sytem.ch>\
+Mail: <marcus.menzel@mint-system.ch>\
 Matrix: `@marcusmenzel:mint-system.ch`

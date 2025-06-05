@@ -24,6 +24,7 @@ Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[G
 * [[Kurt Gisler]]
 * [[Ulrich Kilian]]
 * [[Marcus Menzel]]
+* [[Gerit Tänzer]]
 
 ## Freischaffende
 

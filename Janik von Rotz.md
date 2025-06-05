@@ -12,7 +12,7 @@ kind:
 
 Benutzername: `janikvonrotz`\
 Alias: `jvr`\
-Mail: <janik.vonrotz@mint-sytem.ch>\
+Mail: <janik.vonrotz@mint-system.ch>\
 Alias: janik, jvr, login\
 Matrix: `@janikvonrotz:mint-system.ch`\
 vCard: [[vCard#Janik von Rotz]]\
