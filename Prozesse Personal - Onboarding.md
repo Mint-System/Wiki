@@ -47,7 +47,7 @@ Ich habe für dich unter der Adresse ﻿﻿vorname.nachname@mint-system.ch﻿﻿
 
 Der erste Schritt ist die Einrichtung des Postfachs. Ich habe auf deine private Mail-Adresse eine Einladungsmails mit den Details geschickt.
 
-In einem zweiten Schritt kannst du das Password für das Login Mint System festlegen. Mit diesem Login kannst dich auf diesen Diensten einloggen:
+In einem zweiten Schritt kannst du das Password für das Login Mint System festlegen. Mit diesem Login kannst dich auf den folgenden Diensten einloggen:
 
 - https://erp.mint-system.ch/
 - https://cloud.mint-system.ch/
