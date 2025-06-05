@@ -25,7 +25,7 @@ Arbeitsschritte:
 * Infomaniak Account mit Rolle "Benutzer" erstellen
 * Infomaniak Account dem Team "Mint System GmbH" hinzufügen
 * E-Mail-Adresse gemäss Wiki-Definition erstellen
-* Einladungs-Informationen an private MAil-Adresse schicken
+* Einladungs-Informationen an private Mail-Adresse schicken
 * Matrix-Benutzer erstellen
 * Keycloak-Benutzer anlegen
 * Rolle hinzufügen:
