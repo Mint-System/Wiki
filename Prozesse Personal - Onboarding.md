@@ -47,7 +47,8 @@ Ich habe für dich unter der Adresse ﻿﻿vorname.nachname@mint-system.ch﻿﻿
 
 Der erste Schritt ist die Einrichtung des Postfachs. Ich habe auf deine private Mail-Adresse eine Einladungsmails mit den Details geschickt.
 
-In einem zweiten Schritt kannst du das Password für das Login Mint System festlegen. Mit diesem Login kannst dich auf den folgenden Diensten einloggen:
+In einem zweiten Schritt kannst du das Password für das Login Mint System festlegen: https://login.mint-system.ch/realms/mint-system.ch/account
+Mit diesem Login kannst dich auf den folgenden Diensten einloggen:
 
 - https://erp.mint-system.ch/
 - https://cloud.mint-system.ch/
@@ -63,27 +64,21 @@ Arbeitsschritte:
 * Benutzernamen für Git und SSH-Schlüssel erfragen
 
 ```
-Hallo Vorname
-
-Gerne möchten wir dir Zugriff auf die Organisations-Account von Mint System bei diesen Diensten erteilen:
-
-- GitHub
-- GitLab
-- Hetzner
-
-Dazu brauchen wir die folgenden Angaben:
+Gerne möchten wir dir Zugriff auf die Organisations-Accounts von Mint System erteilen und nach Bedarf Zugriff auf die verwalteten Server geben. Dazu brauchen wir die folgenden Informationen:
 
 - GitHub Benutzernamen
 - GitLab Benutzernamen
 - Öffentlicher SSH-Schlüssel
 
-Kannst du uns diese Informationen zustellen?
+Kannst du uns diese Informationen mitteilen?
+
+Du erhältst dann Einladungsmails der entsprechenden Dienste zur Bestätigung.
 ```
 
 * GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
 * Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
 * GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
-* Auf [[Hetzner]] den SSH-Schlüssel speichern
+* In Ansible Inventory den SSH-Schlüssel speichern
 * Keycloak-Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
 
 ### Desktop einrichten
