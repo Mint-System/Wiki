@@ -78,8 +78,7 @@ Du erhältst dann Einladungsmails der entsprechenden Dienste zur Bestätigung.
 * GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
 * Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
 * GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
-* In Ansible Inventory den SSH-Schlüssel speichern
-* Keycloak-Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
+* Im Ansible Inventory den Benutzer mit SSH-Schlüssel definieren
 
 ### Desktop einrichten
 
