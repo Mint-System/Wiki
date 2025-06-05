@@ -24,10 +24,17 @@ Arbeitsschritte:
 * Mitarbeiter-Eintrag in Wiki erfassen
 * Infomaniak Account mit Rolle "Benutzer" erstellen
 * E-Mail-Adresse gemäss Wiki-Definition erstellen
-* Einladungs-Informationen an private Adresse schicken
+* Einladungs-Informationen an private MAil-Adresse schicken
 * Matrix-Benutzer erstellen
 * Keycloak-Benutzer anlegen
-* Zugriffsdaten schicken
+* Rolle hinzufügen:
+	* cloud.mint-system.ch access
+	* erp.mint-system.ch access
+* Zugriffsdaten and private Mail-Adresse schicken
+
+```text
+
+```
 
 ### Zugriff erteilen
 
