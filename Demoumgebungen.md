@@ -1,8 +1,11 @@
 ---
 tags:
-- Asset
+  - Definition
+kind:
+  - reference
 ---
 # Demoumgebungen
+
 Demoumgebungen der Mint System.
 
 Siblings: [[Produktive Umgebungen]], [[Testumgebungen]]
