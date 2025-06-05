@@ -33,7 +33,13 @@ Arbeitsschritte:
 * Zugriffsdaten and private Mail-Adresse schicken
 
 ```text
+Ich habe dir unter der Adresse ﻿﻿vornae.nachname@mint-system.ch﻿﻿ mehrere Accounts erstellt:
 
+    Infomaniak Account
+    Infomaniak Postfach
+    Login Mint System
+
+Als erster Schritt musst du auf das Postfach zugreifen können. Auf deine private Mail-Adresse solltest du alle Details erhalten haben.
 ```
 
 ### Zugriff erteilen
