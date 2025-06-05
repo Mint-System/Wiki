@@ -23,6 +23,7 @@ Arbeitsschritte:
 
 * Mitarbeiter-Eintrag in Wiki erfassen
 * Infomaniak Account mit Rolle "Benutzer" erstellen
+* Infomaniak Account dem Team "Mint System GmbH" hinzufügen
 * E-Mail-Adresse gemäss Wiki-Definition erstellen
 * Einladungs-Informationen an private MAil-Adresse schicken
 * Matrix-Benutzer erstellen
@@ -30,29 +31,60 @@ Arbeitsschritte:
 * Rolle hinzufügen:
 	* cloud.mint-system.ch access
 	* erp.mint-system.ch access
+	* monitor.mint-system.ch access
+* Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
 * Zugriffsdaten and private Mail-Adresse schicken
 
 ```text
-Ich habe dir unter der Adresse ﻿﻿vornae.nachname@mint-system.ch﻿﻿ mehrere Accounts erstellt:
+Hallo Vorname
 
-    Infomaniak Account
-    Infomaniak Postfach
-    Login Mint System
+Ich habe für dich unter der Adresse ﻿﻿vorname.nachname@mint-system.ch﻿﻿ mehrere Accounts erstellt:
 
-Als erster Schritt musst du auf das Postfach zugreifen können. Auf deine private Mail-Adresse solltest du alle Details erhalten haben.
+- Infomaniak Account
+- Infomaniak Postfach
+- Login Mint System
+- ERP Mint System
+
+Der erste Schritt ist die Einrichtung des Postfachs. Ich habe auf deine private Mail-Adresse eine Einladungsmails mit den Details geschickt.
+
+In einem zweiten Schritt kannst du das Password für das Login Mint System festlegen. Mit diesem Login kannst dich auf diesen Diensten einloggen:
+
+- https://erp.mint-system.ch/
+- https://cloud.mint-system.ch/
+- https://monitor.mint-system.ch/
+
+Anstatt den Benutzernamen und Passwort einzugeben, wählst du den Knopf "Login Mint System".
 ```
 
 ### Zugriff erteilen
 
 Arbeitsschritte:
 
+* Benutzernamen für Git und SSH-Schlüssel erfragen
+
+```
+Hallo Vorname
+
+Gerne möchten wir dir Zugriff auf die Organisations-Account von Mint System bei diesen Diensten erteilen:
+
+- GitHub
+- GitLab
+- Hetzner
+
+Dazu brauchen wir die folgenden Angaben:
+
+- GitHub Benutzernamen
+- GitLab Benutzernamen
+- Öffentlicher SSH-Schlüssel
+
+Kannst du uns diese Informationen zustellen?
+```
+
 * GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
-* GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
-* Keycloak-Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
-* Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
 * Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
+* GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
 * Auf [[Hetzner]] den SSH-Schlüssel speichern
-* Infomaniak Account dem Team "Mint System GmbH" hinzufügen
+* Keycloak-Benutzer auf [[Cloud Mint System]] einladen und Zugriff auf Mint-System Ordner geben
 
 ### Desktop einrichten
 
