@@ -53,7 +53,7 @@ In einem zweiten Schritt kannst du das Password für das Login Mint System festl
 - https://cloud.mint-system.ch/
 - https://monitor.mint-system.ch/
 
-Anstatt den Benutzernamen und Passwort einzugeben, wählst du den Knopf "Login Mint System".
+Anstatt den Benutzernamen und Passwort einzugeben, wählst du jeweils den Knopf "Login Mint System".
 ```
 
 ### Zugriff erteilen
