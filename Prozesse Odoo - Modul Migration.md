@@ -28,7 +28,7 @@ Arbeitsschritte:
 * Auschecken Modul von vorhergehender Version: `cd addons/$REPO; git checkout $SOURCE_VERSION $MODULE`
 * Modul-Version in `__manifest__.py` aktualisieren
 * Modul-Code aktualisieren: `task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION`
-* Modul-README aktualisieren: `task update-module-docs addons/$REPO/$MODULE`
+* Modul-README aktualisieren: `task generate-module-docs addons/$REPO/$MODULE`
 * Modul installieren und testen `task init-module addons/$REPO/$MODULE`
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
 * Repo-README aktualisieren `task update-readme addons/$REPO`
