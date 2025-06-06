@@ -15,7 +15,7 @@ Die Kalkulation basiert auf folgender Aufwandsschätzung:
 | Upgrade Datenbank       | Versions-Sprünge     | 2h x Version (Odoo 14, 15, 16, 17, 18)                                            | 4                         |
 | Bereinigung Anpassungen | Snippets / Studio    | Anzahl Snippets x 5min (ohne Studio)<br>Anzahl Snippets x 15min (mit Studio)      | 15 x 5 / 60 = 1.15        |
 | Koordination Support    | Enterprise / Dritte  | Ticket x 2h (Odoo Support)<br>Tickets x 3h (Support Dritte)                       | 3                         |
-|          ==        |                      | **Summe:**                                                                        | **17.2**                  |
+|                         |                      | **Summe:**                                                                        | **17.2**                  |
 
 Liste der installierten Module von Dritten:
 
