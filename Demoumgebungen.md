@@ -14,9 +14,8 @@ Siblings: [[Produktive Umgebungen]], [[Testumgebungen]]
 
 | Link                       | Beschreibung                    |
 | -------------------------- | ------------------------------- |
-| https://odoo.16.odoo.build | Allgemeine Demoumgebung Odoo 16 |
 | https://odoo.17.odoo.build | Allgemeine Demoumgebung Odoo 17 |
-
+| https://odoo.18.odoo.build | Allgemeine Demoumgebung Odoo 18 |
 
 ## Nextcloud
 
@@ -24,8 +23,8 @@ Siblings: [[Produktive Umgebungen]], [[Testumgebungen]]
 | ---------------------------- | ---------------------- |
 | https://nextcloud.mintsys.ch | Nextcloud Demoumgebung |
 
-## Moodle
+## Keycloak
 
-| Link                          | Beschreibung        |
-| ----------------------------- | ------------------- |
-| https://moodle.mint-system.ch | Moodle Demoumgebung |
+| Link                     | Beschreibung          |
+| ------------------------ | --------------------- |
+| https://login.mintsys.ch | Keycloak Demoumgebung |
