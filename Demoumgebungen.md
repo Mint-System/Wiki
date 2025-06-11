@@ -17,6 +17,12 @@ Siblings: [[Produktive Umgebungen]], [[Testumgebungen]]
 | https://odoo.17.odoo.build | Allgemeine Demoumgebung Odoo 17 |
 | https://odoo.18.odoo.build | Allgemeine Demoumgebung Odoo 18 |
 
+## Mailpit
+
+| Link                    | Beschreibung         |
+| ----------------------- | -------------------- |
+| https://mail.mintsys.ch | Mailpit Demoumgebung |
+
 ## Nextcloud
 
 | Link                         | Beschreibung           |
