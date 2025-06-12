@@ -1,6 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
 ---
 # OAuth
 
