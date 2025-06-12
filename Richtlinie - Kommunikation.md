@@ -6,6 +6,8 @@ kind:
 ---
 
 # Richtlinie - Kommunikation
+
+Regel die Art und Weise wie wir kommunizieren.
 ## Instant Messaging
 
 Wir unterscheiden zwischen interner und externer Kommunikation.

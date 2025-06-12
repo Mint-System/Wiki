@@ -7,26 +7,51 @@ kind: reference
 
 Richtlinien der Mint System.
 
-* [[Richtlinie - Code Sharing]]  
-* [[Richtlinie - Namenskonventionen]]  
-* [[Richtlinie - Dokumentmanagementsystem]]  
-* [[Richtlinie - Konferenz]]  
-* [[Richtlinie - Passwortmanager]]  
-* [[Richtlinie - E-Mail]]  
-* [[Richtlinie - Website]]  
-* [[Richtlinie - Spesenreglement]]  
-* [[Richtlinie - Projektmanagement]]
-* [[Richtlinie - Kollaboration]]
-* [[Richtlinie - Softwareentwicklung]]
-* [[Richtlinie - Odoo Modulentwicklung]]
-* [[Richtlinie - Calc Dokumente]]
-* [[Richtlinie - Aufgabenverwaltung]]
-* [[Richtlinie - Todos]]
-* [[Richtlinie - Finanzen]]
-* [[Richtlinie - Odoo Snippet]]
-* [[Richtlinie - Obsidian]]
-* [[Richtlinie - Datenschutz]]
+Mitarbeit
+
 * [[Richtlinie - Arbeitszeit]]
 * [[Richtlinie - Zeiterfassung]]
-* [[Richtlinie - Kommunikation]]
+* [[Richtlinie - Spesenreglement]]  
 * [[Richtlinie - Smartphone]]
+
+Softwareentwicklung
+
+* [[Richtlinie - Code Sharing]]  
+* [[Richtlinie - Softwareentwicklung]]
+* [[Richtlinie - Odoo Modulentwicklung]]
+* [[Richtlinie - Odoo Snippet]]
+
+Infrastruktur
+
+* [[Richtlinie - Namenskonventionen]]  
+* [[Richtlinie - Passwortmanager]]  
+
+Kommunikation
+
+* [[Richtlinie - Website]]  
+* [[Richtlinie - Kommunikation]]
+
+Dokumentenmangement
+
+* [[Richtlinie - Calc Dokumente]]
+* [[Richtlinie - Dokumentmanagementsystem]]  
+* [[Richtlinie - Obsidian]]
+* [[Richtlinie - Datenschutz]]
+
+Finanzen
+
+* [[Richtlinie - Finanzen]]
+
+Projektmanagement
+
+* [[Richtlinie - Projektmanagement]]
+* [[Richtlinie - Aufgabenverwaltung]]
+* [[Richtlinie - Todos]]
+
+Kollaboration
+
+* [[Richtlinie - E-Mail]]  
+* [[Richtlinie - Kollaboration]]
+* [[Richtlinie - Konferenz]]  
+* [[Richtlinie - Kontakte]]
+* [[Richtlinie - Kalender]]
