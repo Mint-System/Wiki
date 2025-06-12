@@ -3,7 +3,7 @@ tags:
   - Richtlinien
 kind: explain
 ---
-# Richtlinie - Dokumentmanagementsystem
+# Richtlinie - Dokumentenmanagementsystem
 
 Dokumentation zur Dokumentablage der Mint System.
 

@@ -31,10 +31,10 @@ Kommunikation
 * [[Richtlinie - Website]]  
 * [[Richtlinie - Kommunikation]]
 
-Dokumentenmangement
+Dokumentenmanagement
 
 * [[Richtlinie - Calc Dokumente]]
-* [[Richtlinie - Dokumentmanagementsystem]]  
+* [[Richtlinie - Dokumentenmanagementsystem]]  
 * [[Richtlinie - Obsidian]]
 * [[Richtlinie - Datenschutz]]
 
