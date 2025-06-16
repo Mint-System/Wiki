@@ -8,7 +8,7 @@ Arbeitsschritte:
 
 ```bash
 cd ~
-git clone --recurse-submodules --branch main git@github.com:$ORGANISATION/$REPO.git
+git clone --recurse-submodules --branch main git@github.com:$ORGANISATION/$PROJECT.git
 ```
 
 * In der `.env`-Datei des Odoo-Build Projekts fügen Sie den Pfad zum Repository hinzu:
@@ -19,7 +19,7 @@ vi .env
 ```
 
 ```bash
-ODOO_ADDONS_PATH=../$REPO
+ODOO_ADDONS_PATH=../$PROJECT
 ```
 
 ::: warning
@@ -32,11 +32,11 @@ Diesen Schritt müssen Sie nur ausführen, wenn Odoo Module direkt im Odoo.sh Re
 
 Arbeitsschritte:
 
-* Fügen Sie im Odoo.sh Projekt in einem ausgewählten Branch das Submodule hinzu.
+* Fügen Sie einem Odoo.sh Projekt ein Submodule hinzu.
 
 ```bash
-cd ~/$REPO
-git submodule add -b XX.0 git@github.com:$ORGANISATION/$REPO.git "$ORGANISATION-$REPO"
+cd ~/$PROJECT
+git submodule add -b $ODOO_VERSION git@github.com:$ORGANISATION/$REPO.git "$ORGANISATION-$REPO"
 ```
 
 * Committen Sie die `.gitmodules`-Datei und die Referenz.
