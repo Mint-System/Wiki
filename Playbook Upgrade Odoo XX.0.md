@@ -56,6 +56,7 @@ Copy filestore in test mode.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-volume-copy -s "$ODOO_CONTAINER:/filestore/$DATABASE" -t "$TARGET_ODOO_CONTAINER:/filestore/$TARGET_DATABASE" -f
+ssh -p "$PORT" "$SERVER" bash -c "docker exec -u root -it \"$TARGET_ODOO_CONTAINER\" chown -R odoo:odoo \"/var/lib/odoo/filestore/$TARGET_DATABASE\""
 ```
 
 ## Configure ⚙️
