@@ -36,7 +36,7 @@ Arbeitsschritte:
 
 ```bash
 cd ~/$PROJECT
-git submodule add -b $ODOO_VERSION git@github.com:$ORGANISATION/$REPO.git "$ORGANISATION-$REPO"
+git submodule add -b $ODOO_VERSION git@github.com:$ORGANISATION/Odoo-Apps-$REPO.git "$ORGANISATION-$REPO"
 ```
 
 * Committen Sie die `.gitmodules`-Datei und die Referenz.
@@ -59,7 +59,7 @@ Kontext: Wenn ein Modul als Pull-Request verfügbar ist, kann der dazugehörige 
 Vorbereitung:
 
 * `PROJECT`: Name des Odoo.sh Git-Repo
-* `REPO`: Name des Submodules
+* `REPO`: Name des Submodules (ohne `Odoo-Apps`-Prefix)
 * `ORGANISATION`: Organisationsname des Forks
 * `PR_NUMBER`: Nummer des Pull-Request auf dem aktuellen Submodul-Repo.
 
@@ -72,7 +72,7 @@ Arbeitschritte:
 
 ```bash
 git config -f.gitmodules --unset submodule.$REPO.url
-git config -f.gitmodules --add submodule.$REPO.url git@github.com:$ORGANISATION$/$REPO.git
+git config -f.gitmodules --add submodule.$REPO.url git@github.com:$ORGANISATION$/Odoo-Apps-$REPO.git
 ```
 
 * Die neue Submodul-Referenz committen: `git add $REPO; git commit -m "gcmsg "feat($REPO): checkout PR #$PR_NUMBER`
