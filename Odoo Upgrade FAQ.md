@@ -1,3 +1,10 @@
+---
+tags:
+  - FAQ
+kind:
+  - explain
+---
+
 # Odoo Upgrade FAQ
 
 **Upgrade-Zyklus
