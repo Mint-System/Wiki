@@ -13,10 +13,8 @@ Bereistellung Nextcloud-Umgebung.
 Arbeitsschritte:
 
 * Nextcloud-Konfiguration in [[Ansible Inventory]] erstellen
-* Nextcloud-Playbook deployen
-* Einloggen mit Administrator und folgende Einstellungen vornehmen:
-	* Hintergrund-Aufgaben: Cron
-	* Design: Name, Internet-Link, Slogan, Farbe
+* Nextcloud-Playbook ausführen
+
 ## Nextcloud aktualisieren
 
 Arbeitsschritte:
