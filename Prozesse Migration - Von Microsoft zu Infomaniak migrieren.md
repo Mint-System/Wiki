@@ -8,5 +8,5 @@ tags:
 
 
 
-## Informationen zusammstellen
+## Informationen zusammenstellen
 
