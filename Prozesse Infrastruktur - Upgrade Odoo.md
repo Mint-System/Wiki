@@ -18,9 +18,32 @@ Arbeitsschritte:
 * Entferne die `erp-dev` Datenbank.
 * Aktiviere die Proxy-Weiterleitung zur neuen Instanz.
 
+### Einladung für Testing mitteilen
+
+Arbeitsschritte:
+
+* Nachricht an die TesterIn schicken:
+
+```
+Hallo $VORNAME
+
+Die Upgrade-Umgebung $ODOO_LINK steht zum Testen bereit.
+
+Die Testfälle sind im Drehbuch im Abschnitt "Testing" festgehalten: $NEXTCLOUD_LINK 
+Du kannst die Testfälle weiter ausformulieren oder umformlieren.
+
+Das Test-Feedback wird hier gesammt: $NEXTCLOUD_LINK
+
+Bei Fragen zu den Test-Fällen oder Struktur der Feedbacks, bitte melden.
+
+Viele Grüsse
+```
+
 ## Produktives Upgrade durchführen
 
-* Nachricht an den Kunden:
+Arbeitsschritte:
+
+* Nachricht an den Kunden schicken:
 
 ```
 Guten Tag
