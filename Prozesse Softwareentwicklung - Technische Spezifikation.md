@@ -9,7 +9,7 @@ tags:
 Arbeitsschritte:
 
 * Erarbeiten Technische und Qualitative Anforderungen
-* Erstellen Dokument von [[Vorlage Technische Spezifikation]]
+* Erstellen Dokument anhand [[Vorlage Technische Spezifikation]] in Ablage von Kunde
+* Validierung der Spezifikation mit Kunde
 * Erstellen Aufgabe *Entwicklung Modulname* mit Link auf die Spezifikation
-* Validierung mit Kunde
 * Freigabe für Entwicklung
