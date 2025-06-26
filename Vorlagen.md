@@ -29,7 +29,7 @@ tags:
 | [[Vorlage Konzept]]                       |
 | [[Vorlage Phase]]                         |
 | [[Vorlage Prozesse Odoo]]                 |
-| [[Vorlage Technische Spezifikation]]      |
+| [[Vorlage Spezifikation Modul]]      |
 | [[Vorlage Test Cases]]                    |
 | [[Vorlage Troubleshooting]]               |
 | [[Vorlage Use Cases]]                     |

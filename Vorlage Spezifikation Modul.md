@@ -3,7 +3,7 @@ tags:
   - Vorlagen
 kind: reference
 ---
-# Vorlage Technische Spezifikation
+# Vorlage Spezifikation Modul
 
 
 Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereich müssen in der Spezifikation berücksichtigt werden:
