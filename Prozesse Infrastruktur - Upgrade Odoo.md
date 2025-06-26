@@ -29,10 +29,10 @@ Hallo $VORNAME
 
 Die Upgrade-Umgebung $ODOO_LINK steht zum Testen bereit.
 
-Die Testfälle sind im Drehbuch im Abschnitt "Testing" festgehalten: $NEXTCLOUD_LINK 
+Die Testfälle sind im Drehbuch im Abschnitt "Testing" festgehalten: $TESTING_FILELINK
 Du kannst die Testfälle weiter ausformulieren oder umformlieren.
 
-Das Test-Feedback wird hier gesammelt: $NEXTCLOUD_LINK
+Das Test-Feedback wird hier gesammelt: $FEEDBACK_FILELINK
 
 Bei Fragen zu den Test-Fällen oder Struktur der Feedbacks, bitte melden.
 

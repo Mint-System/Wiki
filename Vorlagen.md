@@ -16,6 +16,7 @@ tags:
 | [[Template Meeting]]                      |
 | [[Template Report on Odoo Customization]] |
 | [[Template Worklog]]                      |
+| [[Testing Upgrade Odoo XX.0]]             |
 | [[Upgrade Odoo XX.0]]                     |
 | [[Vorlage Anforderungen]]                 |
 | [[Vorlage Anforderungsanalyse]]           |
@@ -29,7 +30,7 @@ tags:
 | [[Vorlage Konzept]]                       |
 | [[Vorlage Phase]]                         |
 | [[Vorlage Prozesse Odoo]]                 |
-| [[Vorlage Spezifikation Modul]]      |
+| [[Vorlage Spezifikation Modul]]           |
 | [[Vorlage Test Cases]]                    |
 | [[Vorlage Troubleshooting]]               |
 | [[Vorlage Use Cases]]                     |

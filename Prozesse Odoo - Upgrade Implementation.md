@@ -36,3 +36,4 @@ Arbeitsschritte:
 	* Odoo Enterprise Edition: [[Odoo Enterprise Upgrade]]
 	* Odoo.sh Hosting: [[#Odoo.sh Upgrade durchführen]]
 * Iterative Entwicklung Upgrade-Drehbuch für Kunde
+* Entwickeln Testfälle anhand Vorlage [[Testing Upgrade Odoo XX.0]]
