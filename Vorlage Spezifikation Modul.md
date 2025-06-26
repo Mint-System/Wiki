@@ -67,12 +67,11 @@ Wird die Aktion *Verkaufsauftrag Erstellen* ausgewählt, wird die Rechnungsadres
 
 ## Bestehende Felder
 
+### Zustand
+
 | Name    | Technischer Name    | Modell             |
 | ------- | ------------------- | ------------------ |
 | Zustand | `state (selection)` | sale.blanket.order |
-
-### Zustand
-
 Der Zustand des Rahmenauftrags soll auf vier Stufen umgesetzt werden:
 
 *	Entwurf -> Angebot
@@ -84,25 +83,26 @@ Der Zustand *Angebot gesendet* verwendet die Aktion *Angebot versenden*.
 
 ## Neue Aktionen
 
+### Per E-Mail Versenden
+
 | Name                 | Technischer Name    | Modell             | Beschreibung                         |
 | -------------------- | ------------------- | ------------------ | ------------------------------------ |
 | Per E-Mail Versenden | `action_order_send` | sale.blanket.order | Rahmenauftrag als Angebot versenden. |
-
-### Per E-Mail Versenden
-
 Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
 
 ## Bestehende Aktion
+
+### Buchen
 
 | Name   | Technischer Name | Modell       |
 | ------ | ---------------- | ------------ |
 | Buchen | `action_post`    | account.move |
 
-### Buchen
-
 Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt Kommunkations-Standard auf der Währung der Rechnung generiert werden. 
 
 ## Neue Suchfelder und Filter
+
+### Rechnungsadresse
 
 | Name             | Ansicht                    | Beschreibung                      |
 | ---------------- | -------------------------- | --------------------------------- |
@@ -110,15 +110,16 @@ Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt
 
 ## Neue Konfigurationen
 
+### Skonto-Produkt
+
 | Name           | Technischer Name      | Beschreibung                                  |
 | -------------- | --------------------- | --------------------------------------------- |
 | Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
-
-### Skonto-Produkt
-
 Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
 
 ## Bestehende Klassen
+
+### StockBarcodeController
 
 | Klasse                 | Funktionsname | Beschreibung                                               |
 | ---------------------- | ------------- | ---------------------------------------------------------- |
