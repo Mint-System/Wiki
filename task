@@ -17,11 +17,8 @@ function help() {
     DESC_WIDTH=45
     COLUMN="| %-${CMD_WIDTH}s | %-${OPT_WIDTH}s | %-${DESC_WIDTH}s |\n"
 
-    # Print table header
     printf "$COLUMN" "Command" "Option" "Description"
     echo "|$(printf '%*s' $((CMD_WIDTH + 2)) '' | tr ' ' '-')|$(printf '%*s' $((OPT_WIDTH + 2)) '' | tr ' ' '-')|$(printf '%*s' $((DESC_WIDTH + 2)) '' | tr ' ' '-')|"
-
-    # Print table rows
     printf "$COLUMN" "install" "" "Install build dependencies."
     printf "$COLUMN" "update" "" "Update build dependencies."
     printf "$COLUMN" "build" "" "Build project."
@@ -31,8 +28,6 @@ function help() {
     printf "$COLUMN" "convert-files" "" "Convert markdown wiki links to normal link."
     printf "$COLUMN" "convert-canvas" "" "Convert canvas files to svg."
     printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
-
-    echo
 }
 
 function review-notes() {
