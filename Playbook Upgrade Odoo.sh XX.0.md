@@ -53,8 +53,7 @@ task remove-snippet "$COMPANY" path/to/snippet
 
 ## Testing 🔬
 
-
-==Define test cases.==
+See document with test cases.
 
 ## Production 🚀
 
