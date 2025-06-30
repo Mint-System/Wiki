@@ -9,7 +9,6 @@ tags:
 Arbeitsschritte:
 * Erstellen Modulliste auf Server ([[Migrate Modules to Odoo XX.0]])
 * Upgrade-Strategy wählen: [[Odoo Enterprise Upgrade]] oder [[Odoo Community Upgrade]]
-* Bereitstellen Odoo-Umgebung auf der neuen Version
 
 ## Modulliste erstellen
 
@@ -28,7 +27,7 @@ Arbeitsschritte:
 * Bei Bedarf das Modul migrieren
 * Bereitstellen Modul auf neuer Odoo-Umgebung
 
-## Prozess entwickeln
+## Drehbuch und Testfälle entwickeln
 
 Arbeitsschritte:
 * Auswählen Upgrade gemäss Edition und Hosting:
