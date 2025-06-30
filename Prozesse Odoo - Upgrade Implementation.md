@@ -30,7 +30,7 @@ Arbeitsschritte:
 ## Drehbuch und Testfälle entwickeln
 
 Arbeitsschritte:
-* Auswählen Upgrade gemäss Edition und Hosting:
+* Auswählen Drehbuch gemäss Edition und Hosting:
 	* Odoo Comunity Edition: [[Odoo Community Upgrade]]
 	* Odoo Enterprise Edition: [[Odoo Enterprise Upgrade]]
 	* Odoo.sh Hosting: [[#Odoo.sh Upgrade durchführen]]
