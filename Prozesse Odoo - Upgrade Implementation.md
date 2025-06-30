@@ -48,6 +48,7 @@ Arbeitsschritte:
 
 * Ausführen Drehbuch
 * Entwickeln Testfälle anhand Vorlage [[Testing Upgrade Odoo XX.0]]
+* Erstellen Dokument Feedback [[Feedback Upgrade Odoo XX.0]]
 * Nachricht an die TesterIn schicken:
 
 ```
