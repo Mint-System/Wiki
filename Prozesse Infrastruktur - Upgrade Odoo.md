@@ -18,28 +18,6 @@ Arbeitsschritte:
 * Entferne die `erp-dev` Datenbank.
 * Aktiviere die Proxy-Weiterleitung zur neuen Instanz.
 
-## Einladung für Testing mitteilen
-
-Arbeitsschritte:
-
-* Nachricht an die TesterIn schicken:
-
-```
-Hallo $VORNAME
-
-Die Upgrade-Umgebung $ODOO_LINK steht zum Testen bereit.
-
-Die Testfälle sind in diesem Dokument festgehalten: $TESTING_FILELINK
-Du kannst die Testfälle weiter ausformulieren oder umformlieren.
-Das Feedback zum Testing wird hier gesammelt: $FEEDBACK_FILELINK
-
-Kannst du beschrieben Testfälle ausführen und bei Problemen eine Beschreibung im Feedback-Dokument festhalten.
-
-Bei Fragen zu den Test-Fällen oder Struktur der Feedbacks, bitte melden.
-
-Viele Grüsse
-```
-
 ## Produktives Upgrade durchführen
 
 Arbeitsschritte:
