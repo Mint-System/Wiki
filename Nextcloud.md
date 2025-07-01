@@ -15,7 +15,7 @@ Domains:
 Weiterführende Links:
 
 [[Nextcloud Troubleshooting]]\
-[[Nextcloud HowTo]]\
+[[Nextcloud Handbuch]]\
 [[Nextcloud Painpoints]]\
 [[Nextcloud Apps]]\
 [[Nextcloud Enterprise]]\

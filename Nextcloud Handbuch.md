@@ -1,8 +1,10 @@
 ---
 tags:
-- HowTo
+  - Handbuch
+kind:
+  - howto
 ---
-# Nextcloud HowTo
+# Nextcloud Handbuch
 
 ![[Nextcloud Logo.png]]
 
