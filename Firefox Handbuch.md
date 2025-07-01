@@ -1,9 +1,10 @@
 ---
 tags:
-  - Definition
-kind: howto
+  - Handbuch
+kind:
+  - howto
 ---
-# Firefox HowTo
+# Firefox Handbuch
 
 ## Netzwerkzugriff aufzeichnen
 

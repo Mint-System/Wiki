@@ -1,10 +1,10 @@
 ---
 tags:
-  - restic
+  - Handbuch
 kind:
   - howto
 ---
-# restic HowTo
+# restic Handbuch
 
 ## Repo auf Server öffnen
 

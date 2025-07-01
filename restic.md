@@ -11,6 +11,6 @@ Domains:
 - restic.build
 - restic.cloud
 
-[[restic HowTo]]\
+[[restic Handbuch]]\
 [[restic - Wiederherstellung von Backups]]\
 [[restic Troubleshooting]]

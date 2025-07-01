@@ -1,3 +1,3 @@
 # Python
 
-[[Python HowTo]]
+[[Python Handbook]]

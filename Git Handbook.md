@@ -1,9 +1,11 @@
 ---
 tags:
-  - HowTo
-kind: howto
+  - handbook
+kind:
+  - howto
+lang: en
 ---
-# Git HowTo 
+# Git Handbook 
 
 ## Push until specific commit
 

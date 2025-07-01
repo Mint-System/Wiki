@@ -7,4 +7,4 @@ kind: reference
 
 Website: <https://n8n.io/>
 
-Weiterführende Links: [[N8N - HowTo]]
+Weiterführende Links: [[N8N Handbook]]

@@ -1,8 +1,10 @@
 ---
 tags:
-- Definition
+  - Handbuch
+kind:
+  - howto
 ---
-# Obsidian HowTo
+# Obsidian Handbuch
 
 ![[Obsidian Logo.png]]
 

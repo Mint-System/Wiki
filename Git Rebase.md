@@ -1,7 +1,9 @@
 ---
 tags:
-  - HowTo
+  - handbook
 lang: en
+kind:
+  - howto
 ---
 
 # Git - Rebase

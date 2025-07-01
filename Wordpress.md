@@ -7,7 +7,7 @@ kind: reference
 
 Website: <https://wordpress.org/>
 
-Weiterführende Links: [[Wordpress HowTo]]
+Weiterführende Links: [[Wordpress Handbook]]
 
 ## Plugins
 

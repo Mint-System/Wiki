@@ -7,10 +7,10 @@ kind: howto
 # Anleitung
 
 * [[Prozesse]]
-* [[Git HowTo]]
-* [[N8N - HowTo]]
-* [[restic HowTo]]
-* [[Python HowTo]]
-* [[Jenkins HowTo]]
-* [[Firefox HowTo]]
-* [[OpenVPN HowTo]]
+* [[Git Handbook]]
+* [[N8N Handbook]]
+* [[restic Handbuch]]
+* [[Python Handbook]]
+* [[Jenkins Handbuch]]
+* [[Firefox Handbuch]]
+* [[OpenVPN Handbook]]

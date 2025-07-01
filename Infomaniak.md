@@ -8,7 +8,7 @@ Website: <https://www.infomaniak.com/>
 
 Die Mail-Postfächer der Mint-System werden von Infomaniak verwaltet.
 
-[[Infomaniak HowTo]]\
+[[Infomaniak Handbuch]]\
 [[Mail-Accounts]]
 
 ## Troubleshooting

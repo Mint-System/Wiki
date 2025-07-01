@@ -1,8 +1,10 @@
 ---
 tags:
-- Definition
+  - handbook
+kind:
+  - howto
 ---
-# Wordpress HowTo
+# Wordpress Handbook
 
 ## List plugins
 

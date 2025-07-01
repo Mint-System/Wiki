@@ -1,10 +1,11 @@
 ---
 tags:
-  - HowTo
-kind: howto
+  - handbook
+kind:
+  - howto
 ---
 
-# Python HowTo
+# Python Handbook
 
 ## Manage multiple python versions
 

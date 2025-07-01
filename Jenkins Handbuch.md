@@ -1,9 +1,10 @@
 ---
 tags:
-  - Definition
-kind: howto
+  - Handbuch
+kind:
+  - howto
 ---
-# Jenkins HowTo
+# Jenkins Handbuch
 
 ## Jenkinks mit Docker Agent bereitstellen
 

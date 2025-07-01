@@ -1,8 +1,10 @@
 ---
 tags:
-- Definition
+  - Handbuch
+kind:
+  - howto
 ---
-# LibreOffice HowTo
+# LibreOffice Handbuch
 
 ## Duplikate entfernen
 

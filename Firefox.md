@@ -10,7 +10,7 @@ Website: <https://www.mozilla.org/de/firefox/>
 
 Weiterführende Links:
 
-* [[Firefox HowTo]]
+* [[Firefox Handbuch]]
 
 ## Erweiterung
 

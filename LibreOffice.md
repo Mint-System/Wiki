@@ -4,7 +4,7 @@ tags:
 ---
 # LibreOffice
 
-[[LibreOffice HowTo]]
+[[LibreOffice Handbuch]]
 
 Produkte:
 * [[LibreOffice Impress]]
