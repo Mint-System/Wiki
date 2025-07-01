@@ -6,6 +6,10 @@ kind:
 ---
 # Infomaniak Handbuch
 
+## 2-Faktor-Authentisierung forcieren
+
+Im Manager navigieren Sie nach *Einstellungen > Sicherheit*. Aktivieren Sie die Option *Obligatorische zweistufige Überprüfung (2FA)*.
+
 ## Autoresponder einschalten
 
 Öffnen Sie die Mail-App und machen Sie einen Rechtsklick auf ihr Mail-Konto.
