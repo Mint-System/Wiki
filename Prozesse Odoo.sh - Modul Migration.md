@@ -21,10 +21,10 @@ Wenn Sie Module migriert haben und diese bereitstellen möchten, führen Sie [[#
 
 Arbeitsschritte:
 
-* Klonen Sie das Odoo.sh Git Repo
-* Klonen Sie die Submodule `git submodule update --init`
-* Öffnen Sie das Odoo.sh Git Repo in VSCode
-* Aktualisieren Sie ein ausgewähltes Submodul
+* Klone das Odoo.sh Git Repo
+* Klone die Submodule mit `git submodule update --init`
+* Öffne das Odoo.sh Git Repo in VSCode
+* Aktualisiere das ausgewählte Submodul
 
 ![[Odoo.sh Submodule.png]]
 
