@@ -34,7 +34,7 @@ ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER"
 
 ## Upgrade ⬆️
 
-Optional: Drop the target database.
+Drop the target database.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-postgres-drop -c "$TARGET_POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
@@ -76,7 +76,7 @@ ssh -p "$PORT" "$SERVER" docker-odoo-clear-assets -c "$TARGET_ODOO_CONTAINER" -d
 
 ## Testing 🔬
 
-==Define test cases.==
+Run the test cases and process the feedback.
 
 ## Production 🚀
 
