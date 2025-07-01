@@ -41,4 +41,5 @@ git pull
 ```bash
 git add doo-apps-manufacture
 git commit -m "chore: odoo-apps-manufacture"
+git push
 ```
