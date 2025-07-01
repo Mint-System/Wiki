@@ -78,6 +78,7 @@ task save-version
 Rebrand the repo.
 
 ```bash
+sed -i 's/Mint System GmbH/Sozialinfo/g' README.md
 sed -i 's/Mint System/Sozialinfo/g' README.md
 sed -i 's/Mint-System/Sozialinfo/g' README.md
 sed -i 's|https://www.mint-system.ch|https://www.sozialinfo.ch|g' README.md
