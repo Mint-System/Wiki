@@ -1,10 +1,14 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
 ---
 # Nextcloud Social Login
 
 Integration Login-Anbieter mit OpenID Connect.
+
+Wbsite: <https://apps.nextcloud.com/apps/sociallogin>
 
 ## GitLab
 
