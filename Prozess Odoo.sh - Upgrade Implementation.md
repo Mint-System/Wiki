@@ -24,26 +24,3 @@ Jedes Mal, wenn ein Commit in diesem Branch gemacht wird, führt Odoo.sh die Upg
 * Füge die Git-Submodule zum Repository hinzu.
 * Sobald alle erforderlichen Odoo-Module verfügbar sind, beginne mit den Tests beim Kunden.
 
-## Submodul aktualisieren
-
-Arbeitsschritte:
-
-* Klonen Sie das Odoo.sh Git Repo
-* Klonen Sie die Submodule `git submodule update --init`
-* Öffnen Sie das Odoo.sh Git Repo in VSCode
-* Aktualisieren Sie ein ausgewähltes Submodul
-
-![[Odoo.sh Submodule.png]]
-
-```bash
-cd odoo-apps-manufacture
-git switch 16.0
-git pull
-```
-
-* Committen Sie die Änderung im Git Repo
-
-```bash
-git add doo-apps-manufacture
-git commit -m "chore: odoo-apps-manufacture"
-```

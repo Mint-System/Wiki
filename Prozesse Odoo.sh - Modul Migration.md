@@ -15,4 +15,30 @@ Wenn Sie den Upgrade-Branch eingerichtet haben, können Sie Submodule in der neu
 * [[Prozesse Odoo.sh - Projekt bereitstellen#Submodul hinzufügen]]
 * [[Prozesse Odoo - Modul Migration#Modul migrieren]]
 
-Wenn Sie Module migriert haben und diese bereitstellen möchten, führen Sie [[Prozess Odoo.sh - Upgrade Implementation#Submodul aktualisieren]] aus.
+Wenn Sie Module migriert haben und diese bereitstellen möchten, führen Sie [[#Submodul aktualisieren]] aus.
+
+## Submodul aktualisieren
+
+Arbeitsschritte:
+
+* Klonen Sie das Odoo.sh Git Repo
+* Klonen Sie die Submodule `git submodule update --init`
+* Öffnen Sie das Odoo.sh Git Repo in VSCode
+* Aktualisieren Sie ein ausgewähltes Submodul
+
+![[Odoo.sh Submodule.png]]
+
+Alternative auf der Kommandozeile:
+
+```bash
+cd odoo-apps-manufacture
+git switch 16.0
+git pull
+```
+
+* Stage die neue Submodule-Referenz und committe die Änderung im Git Repo
+
+```bash
+git add doo-apps-manufacture
+git commit -m "chore: odoo-apps-manufacture"
+```
