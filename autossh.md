@@ -10,6 +10,8 @@ Website: <https://linux.die.net/man/1/autossh>
 
 ## Forward SSH Tunnel
 
+For localhost setup:
+
 ```yml
 local_user="debian"
 local_key_file="/home/debian/.ssh/id_ed25519"
@@ -36,22 +38,24 @@ graph TD
 
 ## Reverse SSH Tunnel
 
+For remote server setup:
+
 ```yml
 local_user="autossh"
 local_key_file="/home/autossh/.ssh/id_ed25519"
-local_interface="0.0.0.0"
+local_interface="localhost"
 local_port="22"
-ssh_user="debian"
+ssh_user="autossh"
 ssh_server="jump.example.com"
 ssh_port="2222"
-remote_server="localhost"
+remote_server="0.0.0.0"
 remote_port="2223"
 ```
 
 ```mermaid
 graph TD
-    A[autossh @ remote.example.com0.0.0.0:22] -->|ssh| B[autossh @ jump.example.com:2222]
-    D[localhost] -->|ssh| C[debian @ jump.example.com:2223]
+    A[autossh @ remote.example.com:22] -->|ssh| B[autossh @ jump.example.com:2222]
+    D[localhost] -->|ssh| C[debian @ jump.example.com:0.0.0.0:2223]
     C -->|ssh| A
     
     style A fill:#ffe8e8
