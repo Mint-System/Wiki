@@ -3,12 +3,21 @@ tags:
   - Website
 kind:
   - explain
+lang: en
 ---
 # autossh
 
 Website: [https://linux.die.net/man/1/autossh](https://linux.die.net/man/1/autossh)
 
-## Forward SSH Tunnel
+## Ansible role
+
+Use [[Ansible Build]] to setup an autossh tunnel.
+
+Link: <https://ansible.build/roles/autossh/>
+
+Here are some examples.
+
+### Forward SSH Tunnel with Jumphost
 
 For localhost setup:
 
@@ -34,7 +43,7 @@ graph TD
     style C fill:#ffe8e8
 ```
 
-## Reverse SSH Tunnel
+## Reverse SSH Tunnel with Jumphost
 
 For remote server setup:
 
