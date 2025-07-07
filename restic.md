@@ -10,6 +10,7 @@ Domains:
 
 - restic.build
 - restic.cloud
+- restic.ch
 
 [[restic Handbuch]]\
 [[restic - Wiederherstellung von Backups]]\
