@@ -15,6 +15,7 @@ tags:
 | [[Template Issue]]                        |
 | [[Template Meeting]]                      |
 | [[Template Report on Odoo Customization]] |
+| [[Template Weekly]]                       |
 | [[Template Worklog]]                      |
 | [[Testing Upgrade Odoo XX.0]]             |
 | [[Upgrade Odoo XX.0]]                     |

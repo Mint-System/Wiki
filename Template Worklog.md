@@ -1,14 +1,16 @@
 ---
 tags:
-- Vorlagen
+  - Vorlagen
+kind:
+  - reference
 ---
 # Template Worklog
 
 ```markdown
 ---
-date:
-author:
-kind: worklog
+date: {{DATE}}
+author: {{VALUE:author}}
+type: worklog
 ---
 # {{NAME}}
 

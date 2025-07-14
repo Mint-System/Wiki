@@ -1,7 +1,9 @@
 ---
 lang: en
 tags:
-- Templates
+  - Templates
+kind:
+  - reference
 ---
 # Template Report on Odoo Customization
 
