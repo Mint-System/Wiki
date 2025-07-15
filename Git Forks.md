@@ -29,6 +29,7 @@ Upstream-Remote hinzufügen:
 
 ```bash
 git remote add upstream git@github.com:Mint-System/Odoo-Build.git
+git fetch upstream
 ```
 
 Den Upstream-Branch erstelllen:
