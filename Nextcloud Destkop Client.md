@@ -9,7 +9,20 @@ lang: en
 
 Download and isntall the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
 
-## Installation for Linux
+### Installation for Linux (package)
+
+Mit dem Package manager die App installieren.
+
+```bash
+sudo apt install nextcloud-client
+sudo yum install nextcloud-client
+```
+
+Mit dem Gnome Desktop (48.3) und Nextcloud Client (3.16.3) auf Fedora gibt es eine File Manager Integration:
+
+![[Linux Gnome Nextcloud Desktop Integration.png]]
+
+## Installation for Linux (binary)
 
 Download the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
 
