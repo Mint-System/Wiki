@@ -32,9 +32,16 @@ tags:
 
 * Festlegen Test-Benutzer von Kunde
 * Zusammenstellen Zugriffsinformationen des Test-Benutzers
+* Ausführen Migration gemäss Drehbuch
+* Testfälle definieren
 
 ## Testphase durchführen
 
-* Ausführen Migration gemäss Drehbuch
+* Testfälle ausführen
+* Feedback festhalten
+* Feedback-Loop starten
+* Drehbuch aktualiseren
 
 ## Produktive Migration durchführen
+
+* Festlegen Termin für produktive Migration
