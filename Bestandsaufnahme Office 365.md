@@ -47,7 +47,7 @@ Welche Geräte und Betriebssysteme ist im Einsatz?
 
 Welche Telefonie-Lösung ist im Einsatz?
 
-* Pascom (Wechsel zu PeoBestandsaufnahmeplefone in Planung)
+* Pascom (Wechsel zu Peoplefone in Planung)
 
 ## Integrationen
 
@@ -55,12 +55,15 @@ Gibt es Office Integrationen mit anderen Produkten und Diensten?
 
 * Kontaktformular auf Website
 
-## Mail-Adressen und Aliasse
+## Kanäle,  Mail-Adressen und Aliasse
+
+List der Chat-Kanäle:
+
+1. Allgemein mit allen internen Benutzer
 
 Liste der Benutzer mit Namen und Mail-Adresse:
 
 1. Vorname Nachname vorname.nachname@example.com
-
 
 Geteilte Postfächer:
 
