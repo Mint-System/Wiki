@@ -6,7 +6,7 @@ kind:
 ---
 # Drehbuch Migration Infomaniak
 
-## Konfiguration
+## Vorbereitung
 
 ## Export
 
@@ -17,3 +17,5 @@ kind:
 ::: warning
 Sicherstellen dass keine Einladungen beim Import von Terminen verschickt werden.
 :::
+
+## Konfiguration
