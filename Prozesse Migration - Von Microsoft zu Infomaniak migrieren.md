@@ -6,7 +6,14 @@ tags:
 ---
 # Prozesse Migration - Von Microsoft zu Infomaniak migrieren
 
+## Migrations-Projekt initalisieren
 
+* Erstellen Dokument anhand Vorlage [[Drehbuch Migration Infomaniak]]
 
-## Informationen zusammenstellen
+## IST-Informationen zusammenstellen
 
+## Infomaniak Accounts und KSuite einrichten
+
+## Testphase starten
+
+## Produktive Migration durchführen

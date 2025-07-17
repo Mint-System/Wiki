@@ -1,6 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
 ---
 # Infomaniak
 
@@ -9,7 +11,8 @@ Website: <https://www.infomaniak.com/>
 Die Mail-Postfächer der Mint-System werden von Infomaniak verwaltet.
 
 [[Infomaniak Handbuch]]\
-[[Mail-Accounts]]
+[[Mail-Accounts]]\
+[[Infomaniak Migration]]
 
 ## Troubleshooting
 

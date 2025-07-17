@@ -7,6 +7,7 @@ tags:
 | Name                                      |
 | ----------------------------------------- |
 | [[Aufwandsschätzung Odoo Upgrade XX.0]]   |
+| [[Drehbuch Migration Infomaniak]]         |
 | [[Feedback Upgrade Odoo XX.0]]            |
 | [[Migrate Modules to Odoo XX.0]]          |
 | [[Minor Improvements Template]]           |

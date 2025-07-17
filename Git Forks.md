@@ -22,7 +22,6 @@ Repo öffnen.
 
 ```bash
 cd ~/Sozialinfo-Odoo-Build
-git switch main
 ```
 
 Upstream-Remote hinzufügen:
@@ -38,13 +37,7 @@ Den Upstream-Branch erstelllen:
 git checkout -b upstream-main upstream/main
 ```
 
-Von dort den Upstream-Branch pullen.
-
-```bash
-git pull upstream main
-```
-
-### Ausführen
+### Aktualisieren
 
 Aktualisieren Upstream-Branch.
 
@@ -56,7 +49,7 @@ git pull upstream main
 Fork-Dateien auschecken und stashen.
 
 ```bash
-git checkout main odoo.conf.template
+git checkout main odoo.conf.template versions/16.0
 git stash
 ```
 
