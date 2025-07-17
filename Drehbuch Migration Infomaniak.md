@@ -6,7 +6,7 @@ kind:
 ---
 # Drehbuch Migration Infomaniak
 
-## Konfiugration
+## Konfiguration
 
 ## Export
 
