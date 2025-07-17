@@ -40,7 +40,7 @@ tags:
 * Testfälle ausführen
 * Feedback festhalten
 * Feedback-Loop starten
-* Drehbuch aktualiseren
+* Drehbuch aktualisieren
 
 ## Produktive Migration durchführen
 
