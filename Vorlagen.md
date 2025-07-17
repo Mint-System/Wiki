@@ -7,6 +7,7 @@ tags:
 | Name                                      |
 | ----------------------------------------- |
 | [[Aufwandsschätzung Odoo Upgrade XX.0]]   |
+| [[Bestandsaufnahme Office 365]]           |
 | [[Drehbuch Migration Infomaniak]]         |
 | [[Feedback Upgrade Odoo XX.0]]            |
 | [[Migrate Modules to Odoo XX.0]]          |
@@ -36,4 +37,3 @@ tags:
 | [[Vorlage Test Cases]]                    |
 | [[Vorlage Troubleshooting]]               |
 | [[Vorlage Use Cases]]                     |
-| [[[Bestandsaufnahme Office 365]]]         |
