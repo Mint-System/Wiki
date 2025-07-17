@@ -9,11 +9,32 @@ tags:
 ## Migrations-Projekt initalisieren
 
 * Erstellen Dokument anhand Vorlage [[Drehbuch Migration Infomaniak]]
+* Aufwandsschätzung gemäss Prozess-Übersicht kommunizieren
 
-## IST-Informationen zusammenstellen
+## Bestandsaufnahme durchführen
 
-## Infomaniak Accounts und KSuite einrichten
+* Erstellen Dokument anhand Vorlage [[Bestandsaufnahme Office 365]]
 
-## Testphase starten
+## Ziel-Architektur definieren
+
+* Mit dem Kunden festhalten wie der zukünftige Office Arbeitsplatz aussieht.
+* Festlegen welche Software auf den Geräten installiert werden soll.
+
+## Infomaniak Accounts und Produkte einrichten
+
+* Erstellen Kunden-Organisation auf Infomaniak
+
+## DNS-Einträge konfigurieren
+
+* 
+
+## Drehbuch vorbereiten
+
+* Festlegen Test-Benutzer von Kunde
+* Zusammenstellen Zugriffsinformationen des Test-Benutzers
+
+## Testphase durchführen
+
+* Ausführen Migration gemäss Drehbuch
 
 ## Produktive Migration durchführen
