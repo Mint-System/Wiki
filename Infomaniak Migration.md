@@ -10,18 +10,18 @@ Eine Migration nach Infomaniak ist ein nicht linearer Prozess. Im Zentrum steht 
 
 ## Prozess-Übersicht
 
-| Arbeitsschritt                              | Verantwortlich      | Beschreibung                                           | Aufwansschätzung [h] |
-| ------------------------------------------- | ------------------- | ------------------------------------------------------ | -------------------- |
-| Projekt initalisieren                       | Mint System         |                                                        | 2                    |
-| Bestandsaufnahme durchführen                | Kunde               |                                                        | 2                    |
-| Zielarchitektur definieren                  | Mint System         |                                                        | 2                    |
-| Infomaniak Accounts und Produkte einrichten | Mint System         |                                                        | 4                    |
-| DNS-Einträge konfigurieren                  | Mint System         |                                                        | 2                    |
-| Drehbuch vorbereiten                        | Mint System         |                                                        | 8                    |
-| Testphase durchführen                       | Kunde               |                                                        | 16                   |
-| Produktive Migration durchführen            | Mint System / Kunde |                                                        | 4 / 4                |
-| Direkter Support anbieten                   | Mint System / Kunde | Den Kunden bei Problem und Fragen unterstützen.        | 8 / 4                |
-| Migration abschliessen                      | Kunde               | Alte Abonnements kündigen. Accounts und Daten löschen. | 8                    |
+| Arbeitsschritt                              | Verantwortlich      | Beschreibung                                              | Aufwansschätzung [h] |
+| ------------------------------------------- | ------------------- | --------------------------------------------------------- | -------------------- |
+| Projekt initalisieren                       | Mint System         | Einrichten Projektablage und Dokumente                    | 2                    |
+| Bestandsaufnahme durchführen                | Kunde               | Beantworten Fragen zur Bestandsaufnahme                   | 2                    |
+| Zielarchitektur definieren                  | Mint System         | Festhalten wie der neue Office Arbeitsplatz aussieht      | 2                    |
+| Infomaniak Accounts und Produkte einrichten | Mint System         | Einrichten Infomaniak Organisation, Accounts und Produkte | 4                    |
+| DNS-Einträge konfigurieren                  | Mint System         | Konfiguration DNS-Einträge für Mail-Empfang und Versand   | 2                    |
+| Drehbuch vorbereiten                        | Mint System         | Migration mit Test-Benutzer durchführen und festhalten    | 8                    |
+| Testphase durchführen                       | Kunde               | Tesfälle prüfen und Feedback sammeln                      | 16                   |
+| Produktive Migration durchführen            | Mint System / Kunde | Festlegen Termin und Durchführung produktive Migration    | 4 / 4                |
+| Direkter Support anbieten                   | Mint System / Kunde | Den Kunden bei Problem und Fragen unterstützen            | 8 / 4                |
+| Migration abschliessen                      | Kunde               | Alte Abonnements kündigen. Accounts und Daten löschen     | 8                    |
 
 ## Weiterführende Links
 

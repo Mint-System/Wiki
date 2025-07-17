@@ -14,6 +14,7 @@ tags:
 ## Bestandsaufnahme durchführen
 
 * Erstellen Dokument anhand Vorlage [[Bestandsaufnahme Office 365]]
+* Dokument erweitern und anpassen
 
 ## Ziel-Architektur definieren
 
@@ -23,10 +24,18 @@ tags:
 ## Infomaniak Accounts und Produkte einrichten
 
 * Erstellen Kunden-Organisation auf Infomaniak
+* Anlegen Benutzer-Accounts mit Postfächer
+* Exportieren Liste mit Zugangsinformationen
+* Erstellen Mail-Aliasse
+* Aktiveren weitere KSuite-Produkte
+* Einrichten Kalender und Adressbücher
 
 ## DNS-Einträge konfigurieren
 
-* 
+* Prüfen DNS-Status in Infomaniak Account-Manager
+* Anlegen DNS-Einträge gemäss Angaben
+* Time to Live (TTL) für MX-Eintrag reduzieren
+* Testen DNS-Status
 
 ## Drehbuch vorbereiten
 
@@ -45,3 +54,5 @@ tags:
 ## Produktive Migration durchführen
 
 * Festlegen Termin für produktive Migration
+* Ausführen Drehbuch am Stichtag
+* Testfälle prüfen
