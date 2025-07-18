@@ -1,8 +1,12 @@
 ---
 tags:
-- Vorlagen
+  - Vorlagen
+kind:
+  - reference
 ---
-# Vorlage Aufwandsschätzung
+# Aufwandsschätzung
+
+Übersetzung: [[Estimation]]
 
 ## Standardprojekt
 

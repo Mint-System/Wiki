@@ -7,6 +7,7 @@ tags:
 | Name                                      |
 | ----------------------------------------- |
 | [[Aufwandsschätzung Odoo Upgrade XX.0]]   |
+| [[Aufwandsschätzung]]                     |
 | [[Bestandsaufnahme Office 365]]           |
 | [[Drehbuch Migration Infomaniak]]         |
 | [[Feedback Upgrade Odoo XX.0]]            |
@@ -24,7 +25,6 @@ tags:
 | [[Vorlage Anforderungen]]                 |
 | [[Vorlage Anforderungsanalyse]]           |
 | [[Vorlage Angebot]]                       |
-| [[Vorlage Aufwandsschätzung]]             |
 | [[Vorlage Bugs]]                          |
 | [[Vorlage Cashflow]]                      |
 | [[Vorlage Datenmigration]]                |
