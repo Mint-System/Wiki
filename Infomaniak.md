@@ -12,7 +12,8 @@ Die Mail-Postfächer der Mint-System werden von Infomaniak verwaltet.
 
 [[Infomaniak Handbuch]]\
 [[Mail-Accounts]]\
-[[Infomaniak Migration]]
+[[Infomaniak Migration]]\
+[[Infomaniak Kubernetes]]
 
 ## Troubleshooting
 
