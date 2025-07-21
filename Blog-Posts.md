@@ -15,8 +15,9 @@ Status Draft:
 [[Odoo Monitoring mit Prometheus und Grafana]]\
 [[Bauteile mit Odoo zertifizieren]]\
 [[Aufbau einer Entwicklungsumgebung für Odoo]]\
-[[Lizenzmanagement mit Odoo]]
+[[Lizenzmanagement mit Odoo]]\
 [[URec-Team]]\
+[[Fünf Fünf Fünf]]
 
 Publiziert:
 

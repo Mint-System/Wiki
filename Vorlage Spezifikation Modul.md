@@ -17,7 +17,7 @@ Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgen
 * **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
 * **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
 * **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
-* **[[#Bestehende Klassen]]**: Vererbung und Eweiterung von Odoo Modellen
+* **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
 
 ## Beschreibung
 
