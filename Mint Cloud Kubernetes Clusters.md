@@ -5,7 +5,7 @@ kind:
 
 # Mint Cloud Kubernetes Clusters
 
-Every cluster available in the Mint Cloud should be accessable with a three letter subdomain.
+Every cluster available in the Mint Cloud should be accessible with a three letter subdomain.
 
 | CName            | Type      | Provider   |
 | ---------------- | --------- | ---------- |
