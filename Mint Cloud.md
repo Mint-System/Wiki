@@ -6,7 +6,7 @@ tags:
 
 Ist ein Hosting-[[Angebot]] der Mint System.
 
-Domains:
+Infomaniak Domains:
 
 - hosting-odoo.ch
 - hostingodoo.ch

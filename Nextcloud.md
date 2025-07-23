@@ -8,7 +8,7 @@ kind: reference
 
 Website: <https://nextcloud.com/>
 
-Domains:
+Vercel Domains:
 
 - nextcloud.build
 

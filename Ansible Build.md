@@ -9,7 +9,7 @@ The Mint System collection of Ansible playbooks and roles.
 Website: <https://ansible.build>\
 Repository: <https://github.com/mint-system/ansible-build>
 
-Domains:
+Vercel Domains:
 
 - ansible.build
 

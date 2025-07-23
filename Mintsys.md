@@ -4,7 +4,7 @@ tags:
 ---
 # Mintsys
 
-Domains:
+Infomaniak Domains:
 
 - mintsys.ch
 

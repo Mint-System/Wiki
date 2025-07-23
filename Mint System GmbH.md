@@ -6,13 +6,17 @@ tags:
 
 Website: [https://www.mint-system.ch](https://www.mint-system.ch)
 
-Domains:
+Infomaniak Domains:
 
 - mint-system.ch
-- mint-system.ch
+- mint-systems.ch
 - mintsystem.ch
-- openeduca.ch
 - opensourcesoftware.ch
+
+Vercel Domains:
+
+- mint-system.build
+- mint-system.org
 
 UID: CHE-150.248.608
 

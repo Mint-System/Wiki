@@ -4,12 +4,13 @@ tags:
 ---
 # Aerodoo
 
-Website: 
+Infomaniak Domains:
 
-Domains:
+- aerodoo.ch
+
+Vercel Domains:
 
 - aerodoo.com
-- aerodoo.ch
 
 ## Design
 

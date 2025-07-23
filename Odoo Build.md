@@ -9,10 +9,13 @@ kind: reference
 Website: <https://odoo.build>\
 Repository: <https://github.com/Mint-System/Odoo-Development>
 
-Domains:
+Infomaniak Domains:
+
+- odoo-build.ch
+
+Vercel Domains:
 
 - odoo.build
-- odoo-build.ch
 - doo-build.org
 - odoo-build.com
 

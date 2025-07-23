@@ -6,7 +6,7 @@ tags:
 
 Website: <https://www.keycloak.org/>
 
-Domains:
+Vercel Domains:
 
 - keycloak.build
 

@@ -43,3 +43,7 @@ Qualitätsmanagent:
 Mail:
 
 * [[Mailpit]]
+
+Software-Tools:
+
+* [[WebAssembly]]

@@ -12,6 +12,13 @@ Website: <https://digital-cluster-uri.ch/>\
 GitHub: <https://github.com/Digital-Cluster-Uri>\
 GitLab: <https://gitlab.com/digital-cluster-uri>
 
+Infomaniak Domain:
+
+- uri-digital.ch
+- digital-cluster-uri.ch
+- cluster-uri.ch
+- digital-uri.ch
+
 ## Angeschlossene Vereine
 
 [[Digital Directions Division]]

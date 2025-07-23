@@ -12,7 +12,7 @@ Top Softwarelösungen aus der Region anbieten. Software-Partner und Betreiber vo
 
 [[TOC]]
 
-Domains: 
+Infomaniak Domains:
 
 * uri-cloud.ch
 
