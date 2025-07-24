@@ -1,6 +1,9 @@
 ---
 tags:
-- HowTo
+  - HowTo
+archive: true
+kind:
+  - howto
 ---
 # PostgreSQL Upgrade
 

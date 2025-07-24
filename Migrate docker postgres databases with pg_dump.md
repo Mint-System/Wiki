@@ -1,6 +1,9 @@
 ---
 tags:
-- HowTo
+  - HowTo
+archive: true
+kind:
+  - howto
 ---
 # Migrate docker postgres databases with pg_dump
 
