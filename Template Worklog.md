@@ -14,10 +14,15 @@ type: worklog
 ---
 # {{NAME}}
 
-## Vorbereiten
+## Vorbereitung
 
-## Ausführen
+==Definieren das Vorgehen und Ziele.==
 
-## Verifizieren
+## Ausführung
 
+==Protokolliere die Arbeitsschritte und Ergebnisse.==
+
+## Verifizierung
+
+==Verifiziere das Resultat mit den Zielen.==
 ```
