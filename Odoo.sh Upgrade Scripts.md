@@ -20,6 +20,7 @@ The upgrade scripts should be created inside the modules. However, in many cases
 This module has to be installed on on the main and the upgrade branch
 
 Here is an example of what the module structure might look like:
+
 ### main branch (14.0)
 
 **manifest.py**
