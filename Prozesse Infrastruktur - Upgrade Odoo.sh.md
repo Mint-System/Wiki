@@ -26,11 +26,9 @@ git switch upgrade
 git push origin +upgrade:main
 ```
 
-Alterntaiv kann auch den `main` gepusht werden um das Upgrade auslösen:
+Alterntaiv kann auch den `main` gepusht werden um das Upgrade auszulösen:
 
 ```bash
-cd $ODOO_SH_GIT_PROJECT
-git switch main
 git commit -m "Trigger Upgrade" --allow-empty
 git push origin +upgrade:main
 ```
