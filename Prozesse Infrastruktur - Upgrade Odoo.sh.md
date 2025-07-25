@@ -10,18 +10,8 @@ kind:
 
 * Drehbuch bis zum Abschnitt "Upgrade" ausführen
 * Im Tab *Upgrade* die Ziel-Version wählen
-* Upgrade starten
-* `upgrade` Branch auf `main` Branch pushen
-
-Wenn `upgrade` Branch von `main` Branch verzweigt wurde:
-
-```bash
-cd $ODOO_SH_GIT_PROJECT
-git switch main
-git merge upgrade
-```
-
-Wenn `upgrade` Branch ein Orphan ist dann:
+* Upgrade-Porzess starten
+* Upgrade-Prozess auslösen indem man den `upgrade` Branch auf den `main` Branch pusht
 
 ```bash
 cd $ODOO_SH_GIT_PROJECT
@@ -36,9 +26,11 @@ git switch upgrade
 git push origin +upgrade:main
 ```
 
-Um ein Upgrade auszulösen:
+Alterntaiv kann auch den `main` gepusht werden um das Upgrade auslösen:
 
 ```bash
+cd $ODOO_SH_GIT_PROJECT
+git switch main
 git commit -m "Trigger Upgrade" --allow-empty
 git push origin +upgrade:main
 ```
