@@ -9,7 +9,7 @@ Every cluster available in the Mint Cloud should be accessible with a three lett
 
 | CName            | Type      | Provider   |
 | ---------------- | --------- | ---------- |
-| exo.mintcloud.ch | OpenShift | APPUiO     |
+| axo.mintcloud.ch | OpenShift | APPUiO     |
 | chk.mintcloud.ch | OpenStack | Infomaniak |
 | cloud.local      | Kind      | Localhost  |
 
