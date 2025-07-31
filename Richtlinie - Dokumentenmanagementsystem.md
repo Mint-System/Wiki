@@ -20,7 +20,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Bilder                                    | Fotoalben                                                                           |
 | Corporate Design                          | Format- und Dokumentvorlagen, Bilder zur Publikation                                |
 | Data                                      | Speicherung von Anwendungsdaten.  Beispielsweise Passwort-Dateien von [[KeePassXC]] |
-| Entwicklung                               | Entwicklung Odoo und System Engineering                                             |
+| Softwareentwicklung                       | Entwicklung Odoo und System Engineering                                             |
 | Finanzen                                  | Finanz- und Kontenplan                                                              |
 | Finanzen Datentransfer                    | Alle camt.53 und pain.001 Dateien werden hier abgelegt                              |
 | Förderbeiträge                            | Dokumente Sponsoring Mint System                                                    |

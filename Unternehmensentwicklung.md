@@ -18,5 +18,5 @@ Themen:
 * [[Kollaboration]]
 * [[Personal]]
 * [[Finanzen]]
-* [[Entwicklung]]
+* [[Softwareentwicklung]]
 * [[Governance]]
