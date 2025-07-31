@@ -18,6 +18,7 @@ Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgen
 * **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
 * **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
 * **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
+* **[[#Bestehende Ansichten]]**: Anpassungen auf Ansichten
 
 ## Beschreibung
 
@@ -116,6 +117,18 @@ Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt
 | -------------- | --------------------- | --------------------------------------------- |
 | Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
 Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
+
+## Bestehende Ansichten
+
+### Formular Ticket mit Tab Aufgaben
+
+Auf der Formularansicht des Ticket gibt es einen neuen Tab *Aufgaben*. Hier können Aufgaben verlinkt oder erstellt werden.
+
+Zusätzlich werden die verknüpften Aufgaben als Smart-Button angezeigt.
+
+### Formular Aufgabe mit Smart-Button
+
+Die Formularansicht der Projektaufgabe zeigt einen Smart-Button mit Anzahl der verlinkten Tickets.
 
 ## Bestehende Klassen
 
