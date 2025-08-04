@@ -9,12 +9,11 @@ Die Mint System ist als Organisation auf [[GitHub]] unter <https://github.com/Mi
 
 ## Secrets
 
-`CONTAINER_REGISTRY_USERNAME`
+Diese Secrets stehen allen Repos der Organisation zur Verfügung:
 
-`CONTAINER_REGISTRY_PASSWORD`
-
-`SSH_PUBLIC_KEY_MINTBOT`
-
-`SSH_PRIVATE_KEY_MINTBOT`
-
-`ODOO_ENTERPRISE_CODE`
+* `CONTAINER_REGISTRY_USERNAME`
+* `CONTAINER_REGISTRY_PASSWORD`
+* `SSH_PUBLIC_KEY_MINTBOT`
+* `SSH_PRIVATE_KEY_MINTBOT`
+* `ODOO_ENTERPRISE_CODE`
+* `GITHUB_TOKEN_MINTBOT`
