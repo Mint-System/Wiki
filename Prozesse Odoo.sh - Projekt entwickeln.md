@@ -32,10 +32,16 @@ Diesen Schritt müssen Sie nur ausführen, wenn Odoo Module direkt im Odoo.sh Re
 
 Arbeitsschritte:
 
-* Fügen Sie einem Odoo.sh Projekt ein Submodule hinzu.
+* Navigieren Sie in das Projekt und checken Sie einen Branch aus.
 
 ```bash
 cd ~/$PROJECT
+git switch $BRANCH
+```
+
+* Fügen Sie einem Odoo.sh Projekt ein Submodule hinzu.
+
+```bash
 git submodule add -b $ODOO_VERSION git@github.com:$ORGANISATION/Odoo-Apps-$REPO.git "$ORGANISATION-$REPO"
 ```
 
