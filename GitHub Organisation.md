@@ -17,3 +17,4 @@ Diese Secrets stehen allen Repos der Organisation zur Verfügung:
 * `SSH_PRIVATE_KEY_MINTBOT`
 * `ODOO_ENTERPRISE_CODE`
 * `GITHUB_TOKEN_MINTBOT`
+* `DOCKER_PAT`
