@@ -11,7 +11,7 @@ kind:
 * Drehbuch bis zum Abschnitt "Upgrade" ausführen
 * Im Tab *Upgrade* die Ziel-Version wählen
 * Upgrade-Porzess starten
-* Upgrade-Prozess auslösen indem man den `upgrade` Branch auf den `main` Branch pusht
+* Upgrade-Prozess auslösen indem man den `upgrade` Branch auf den `main` Branch pusht:
 
 ```bash
 cd $ODOO_SH_GIT_PROJECT
@@ -26,7 +26,7 @@ git switch upgrade
 git push origin +upgrade:main
 ```
 
-Alterntaiv kann auch den `main` gepusht werden um das Upgrade auszulösen:
+Wenn das Upgrade nicht ausgelöst wird, kann man einen leeren Commit machen und pushen:
 
 ```bash
 git commit -m "Trigger Upgrade" --allow-empty
@@ -34,4 +34,4 @@ git push origin +upgrade:main
 ```
 
 * Gemäss Drehbuch das Upgrade fertigstellen
-* Den `backup-main` Branch löschen
+* Den `backup-main` Branch lokal löschen
