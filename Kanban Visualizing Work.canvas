@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4e9577d5077bf91f","type":"text","text":"**Ready**","x":-320,"y":-260,"width":250,"height":260},
+		{"id":"f04a415dbc88fbd1","type":"text","text":"**Backlog**","x":-600,"y":-260,"width":250,"height":260},
+		{"id":"da07643a993fdb0a","type":"text","text":"**Feedback**","x":240,"y":-260,"width":240,"height":260},
+		{"id":"06d38869b410ba0e","type":"text","text":"Requirements Analysis","x":250,"y":-160,"width":210,"height":60,"color":"4"},
+		{"id":"328de7f462bc776e","type":"text","text":"Software Dev Story","x":-290,"y":-160,"width":190,"height":60,"color":"6"},
+		{"id":"1c5694f608ac67bd","type":"text","text":"**In Progress**","x":-40,"y":-260,"width":250,"height":260},
+		{"id":"5478f5f7e503499b","type":"text","text":"IT Support","x":-15,"y":-160,"width":200,"height":60,"color":"1"},
+		{"id":"6ac1c2cbb4ca20e5","type":"text","text":"Technical Debt","x":-15,"y":-80,"width":200,"height":60,"color":"3"},
+		{"id":"9d94bf58a34d5690","type":"text","text":"**Done**","x":520,"y":-260,"width":250,"height":260},
+		{"id":"197d27013a3e9158","type":"text","text":"Module Development","x":540,"y":-160,"width":200,"height":60,"color":"5"},
+		{"id":"f552547562d627ab","type":"text","text":"**Backlog**","x":820,"y":-260,"width":250,"height":260},
+		{"id":"e01539712c7fa0aa","type":"text","text":"Software Update","x":845,"y":-160,"width":200,"height":60,"color":"2"}
+	],
+	"edges":[]
+}

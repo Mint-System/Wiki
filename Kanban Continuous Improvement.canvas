@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"756f6a6b68d91c16","type":"text","text":"Review","x":-90,"y":-30,"width":180,"height":60},
+		{"id":"b993ae898cbb0978","x":-90,"y":-180,"width":180,"height":60,"type":"text","text":"Execute"},
+		{"id":"9698af94e4057cb1","type":"text","text":"Plan","x":-360,"y":-180,"width":180,"height":60},
+		{"id":"e02fa1995c805d5a","type":"text","text":"Identify","x":-360,"y":-30,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"2badb2e2fe5fa307","fromNode":"b993ae898cbb0978","fromSide":"bottom","toNode":"756f6a6b68d91c16","toSide":"top"},
+		{"id":"b896ae0bd4d41ad1","fromNode":"756f6a6b68d91c16","fromSide":"left","toNode":"e02fa1995c805d5a","toSide":"right"},
+		{"id":"53d6e8df4500b7db","fromNode":"e02fa1995c805d5a","fromSide":"top","toNode":"9698af94e4057cb1","toSide":"bottom"},
+		{"id":"85659361c2e7ed00","fromNode":"9698af94e4057cb1","fromSide":"right","toNode":"b993ae898cbb0978","toSide":"left"}
+	]
+}

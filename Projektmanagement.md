@@ -7,6 +7,10 @@ kind: explain
 
 Eine Zusammenfassung wie bei Mint System das Projektmanagement erfolgt.
 
+## Board
+
+Auf dem Projekt-Board sind alle Aufgaben ersichtlich. Die Bearbeitung der erfolgt nach den [[Kanban]] Prinzipien.
+
 ## Projektstatus
 
 Der Zustand eines Projekts ist jederzeit in Odoo ersichtlich. Ein Odoo-Projekt reflektiert also immer den realen Zustand eines Projekts.

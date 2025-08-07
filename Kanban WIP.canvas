@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0071e96325723c1b","type":"text","text":"**Ready**","x":-555,"y":-130,"width":250,"height":260},
+		{"id":"55060cc28c12e8f2","type":"text","text":"**Feedback (1/5)**","x":5,"y":-130,"width":240,"height":260},
+		{"id":"84e3180d020b5a39","type":"text","text":"Requirements Analysis","x":15,"y":-30,"width":210,"height":60,"color":"4"},
+		{"id":"1968c2001623cfa5","type":"text","text":"Software Dev Story","x":-525,"y":-30,"width":190,"height":60,"color":"6"},
+		{"id":"0be7a0bae0251ebd","type":"text","text":"**In Progress (2/3)**","x":-275,"y":-130,"width":250,"height":260},
+		{"id":"2af44d8a33583f29","type":"text","text":"IT Support","x":-250,"y":-30,"width":200,"height":60,"color":"1"},
+		{"id":"99325de3e984b2f5","type":"text","text":"Technical Debt","x":-250,"y":50,"width":200,"height":60,"color":"3"}
+	],
+	"edges":[]
+}
