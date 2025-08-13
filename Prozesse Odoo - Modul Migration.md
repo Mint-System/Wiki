@@ -109,7 +109,8 @@ task all
 * Migration committen
 
 ```bash
-git add --all; git commit -m "feat($MODULE): migrate
+git add --all
+git commit -m "feat($MODULE): migrate
 ```
 
 * Optional einen Pull-Request erstellen:
