@@ -27,16 +27,10 @@ git switch --orphan $TARGET_VERSION
 rm -rf ./*
 ```
 
-* Template-Dateien kopieren
+* Template-Dateien kopieren und `README.md` Datei aktualisieren 
 
 ```bash
 task template-repo addons/$REPO
-```
-
-* Die `README.md` Datei aktualisieren 
-
-```bash
-task update-repo-docs
 ```
 
 * Änderungen committen
@@ -73,17 +67,17 @@ cd addons/$REPO
 git checkout $SOURCE_VERSION $MODULE`
 ```
 
-* Modul-Version in `__manifest__.py` aktualisieren
-* Modul-Code aktualisieren
+* Modul-Code und Version in `__manifest__.py` aktualisieren
 
 ```bash
 task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION
 ```
 
-* Modul-README aktualisieren
+* Modul- und Repo-README aktualisieren
 
 ```bash
 task generate-module-docs addons/$REPO/$MODULE
+task update-repo-docs addons/$REPO
 ```
 
 * Modul installieren und testen
@@ -93,24 +87,17 @@ task init-module addons/$REPO/$MODULE
 ```
 
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
-* Repo-README aktualisieren
-
-```bash
-task update-readme addons/$REPO
-```
-
 * Modul linten und anpassen:
 
 ```bash
-cd addons/$REPO
-task all
+task lint-module addons/$REPO/$MODULE
 ```
 
 * Migration committen
 
 ```bash
-git add --all
-git commit -m "feat($MODULE): migrate
+git -C addons/$REPO add --all
+git -C addons/$REPO commit -m "feat($MODULE): migrate
 ```
 
 * Optional einen Pull-Request erstellen:
