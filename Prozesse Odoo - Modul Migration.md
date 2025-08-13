@@ -10,13 +10,49 @@ kind:
 
 Arbeitsschritte:
 
-* Navigation in das Submodule `cd addons/$REPO`
-* Neuer Branch erstellen `git switch --orphan $TARGET_VERSION`
-* Alle Dateien entfernen `rm -rf ./*`
-* Template-Dateien kopieren `task template-repo addons/$REPO`
-* Die `README.md` Datei mit `task update-repo-docs` aktualisieren
-* Änderungen committen `git add --all; git commit -m "feat: init $TARGET_VERSION"; git push --set-upstream origin $TARGET_VERSION"`
-* Submodule auf Odoo Build hinzufügen `task add-git-submodule git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO`
+* Navigation in das Submodule 
+
+```bash
+cd addons/$REPO
+```
+
+* Neuer Branch erstellen
+```bash
+git switch --orphan $TARGET_VERSION
+```
+
+* Alle Dateien entfernen
+
+```bash
+rm -rf ./*
+```
+
+* Template-Dateien kopieren
+
+```bash
+task template-repo addons/$REPO
+```
+
+* Die `README.md` Datei aktualisieren 
+
+```bash
+task update-repo-docs
+```
+
+* Änderungen committen
+
+```bash
+git add --all
+git commit -m "feat: init $TARGET_VERSION"
+git push --set-upstream origin $TARGET_VERSION"
+```
+
+* Submodule auf Odoo Build hinzufügen
+
+```bash
+task add-git-submodule git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO
+```
+
 * Änderungen auf Odoo Build committen
 * Register repo to <https://apps.odoo.com/apps/dashboard/repos>
 
@@ -24,21 +60,67 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-* In Odoo-Build die neue Odoo Version auschecken: `task load-version $TARGET_VERSION`
-* Auschecken Modul von vorhergehender Version: `cd addons/$REPO; git checkout $SOURCE_VERSION $MODULE`
+* In Odoo-Build die neue Odoo Version auschecken: 
+
+```bash
+task load-version $TARGET_VERSION
+```
+
+* Auschecken Modul von vorhergehender Version
+
+```bash
+cd addons/$REPO
+git checkout $SOURCE_VERSION $MODULE`
+```
+
 * Modul-Version in `__manifest__.py` aktualisieren
-* Modul-Code aktualisieren: `task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION`
-* Modul-README aktualisieren: `task generate-module-docs addons/$REPO/$MODULE`
-* Modul installieren und testen `task init-module addons/$REPO/$MODULE`
+* Modul-Code aktualisieren
+
+```bash
+task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION
+```
+
+* Modul-README aktualisieren
+
+```bash
+task generate-module-docs addons/$REPO/$MODULE
+```
+
+* Modul installieren und testen
+
+```bash
+task init-module addons/$REPO/$MODULE
+```
+
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
-* Repo-README aktualisieren `task update-readme addons/$REPO`
-* Modul linten und anpassen: `cd addons/$REPO; task all`
-* Migration committen `git add --all; git commit -m "feat($MODULE): migrate`
+* Repo-README aktualisieren
+
+```bash
+task update-readme addons/$REPO
+```
+
+* Modul linten und anpassen:
+
+```bash
+cd addons/$REPO
+task all
+```
+
+* Migration committen
+
+```bash
+git add --all; git commit -m "feat($MODULE): migrate
+```
+
 * Optional einen Pull-Request erstellen:
 	* Feature branch erstellen `git switch -c mig-$MODULE`
 	* Und mit dem CLI einen PR erstellen `gh pr create`
 	* Wenn PR gemerged ist, das Submodule-Repo deployen
-* Änderungen pushen: `git push`
+* Änderungen pushen
+
+```bash
+git push
+```
 
 ## Mint System Fork für OCA Repository erstellen
 
