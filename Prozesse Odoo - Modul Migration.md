@@ -86,6 +86,24 @@ task update-repo-docs addons/$REPO
 task init-module addons/$REPO/$MODULE
 ```
 
+* If required migrate the attrs definition with this prompt.
+
+```bash
+PROMPT=$(cat << EOF
+Migrate this view from Odoo 16.0 to 17.0. For example:
+<field name="test_field_1" attrs="{'invisible': [('active', '=', True)]}"/>
+<field name="test_field_2" attrs="{'invisible': [('zip', '!=', 123)]}"/>
+<field name="test_field_3" attrs="{'readonly': [('zip', '!=', False)]}"/>
+To:
+<field name="test_field_1" invisible="active"/>
+<field name="test_field_2" invisible="zip != 123"/>
+<field name="test_field_3" readonly="zip"/>
+EOF
+)
+
+task update-with-llm addons/$REPO/$MODULE/views/*.xml "$PROMPT"
+```
+
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
 * Modul linten und anpassen:
 
