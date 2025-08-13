@@ -49,7 +49,7 @@ git pull upstream main
 Fork-Dateien auschecken und stashen.
 
 ```bash
-git checkout main odoo.conf.template versions/16.0
+git checkout main odoo.conf.template versions/16.0 versions/18.0
 git stash
 ```
 

@@ -11,12 +11,12 @@ kind:
 Arbeitsschritte:
 
 * Navigation in das Submodule `cd addons/$REPO`
-* Neuer Branch erstellen `git switch --orphan=$TARGET_VERSION`
+* Neuer Branch erstellen `git switch --orphan $TARGET_VERSION`
 * Alle Dateien entfernen `rm -rf ./*`
 * Template-Dateien kopieren `task template-repo addons/$REPO`
 * Die `README.md` Datei mit `task update-repo-docs` aktualisieren
 * Änderungen committen `git add --all; git commit -m "feat: init $TARGET_VERSION"; git push --set-upstream origin $TARGET_VERSION"`
-* Submodule auf Odoo Build hinzufügen `task git-submodule-add git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO`
+* Submodule auf Odoo Build hinzufügen `task add-git-submodule git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO`
 * Änderungen auf Odoo Build committen
 * Register repo to <https://apps.odoo.com/apps/dashboard/repos>
 
