@@ -1,0 +1,3 @@
+feat(search): replace docsearch with slimsearch for improved local search performance
+
+The commit replaces the Algolia DocSearch plugin with VuePress's slimsearch plugin to enhance local search functionality. This change removes external dependencies on Algolia services and implements a lightweight, client-side search solution with content indexing enabled and suggestions disabled for faster performance. The configuration updates include removing docsearch-specific settings and adding slimsearch with optimized options. Additionally, the package dependencies have been updated to reflect this change.

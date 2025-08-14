@@ -1,0 +1,1254 @@
+Look at the git diff below and reply with a git commit message. Ensure that the commit message matches the conventional commits specification.
+If possible add a scope. Reply with the commit message only.
+
+diff --git a/.vuepress/config.js b/.vuepress/config.js
+index a1e738e2..f7cdb518 100644
+--- a/.vuepress/config.js
++++ b/.vuepress/config.js
+@@ -1,6 +1,6 @@
+ import { viteBundler } from '@vuepress/bundler-vite'
+ import { defaultTheme } from '@vuepress/theme-default'
+-// import { docsearchPlugin } from '@vuepress/plugin-docsearch'
++import { slimsearchPlugin } from '@vuepress/plugin-slimsearch'
+ import { searchPlugin } from '@vuepress/plugin-search'
+ import { plausiblePlugin } from './plausible'
+ import { mermaidPlugin } from './mermaid'
+@@ -29,13 +29,9 @@ export default defineUserConfig({
+         ]
+     }),
+     plugins: [
+-        // docsearchPlugin({
+-        //     appId: 'K0L2Z2FR1R',
+-        //     apiKey: 'fa95c381e8996dbc5ac371d4acbd4ca5',
+-        //     indexName: 'wiki_mint_system_ch_k0l2z2fr1r_pages',
+-        // }),
+-        searchPlugin({
+-            maxSuggestions: 10
++        slimsearchPlugin({
++            indexContent: true,
++            suggestion: false
+         }),
+         plausiblePlugin({
+             'domain': 'wiki.mint-system.ch'
+diff --git a/.vuepress/public/sitemap.txt b/.vuepress/public/sitemap.txt
+index acdc1f6c..d7103513 100644
+--- a/.vuepress/public/sitemap.txt
++++ b/.vuepress/public/sitemap.txt
+@@ -31,6 +31,7 @@ https://wiki.mint-system.ch/aufbau-einer-entwicklungsumgebung-für-odoo.html
+ https://wiki.mint-system.ch/aufgabenplanung.html
+ https://wiki.mint-system.ch/auftragsverarbeitungsvertrag.html
+ https://wiki.mint-system.ch/aufwandsschätzung-odoo-upgrade-xx.0.html
++https://wiki.mint-system.ch/aufwandsschätzung.html
+ https://wiki.mint-system.ch/binary-business.html
+ https://wiki.mint-system.ch/binary-one-gmbh.html
+ https://wiki.mint-system.ch/bpmn.html
+@@ -43,6 +44,7 @@ https://wiki.mint-system.ch/begriffe.html
+ https://wiki.mint-system.ch/behalten-sie-ihre-unternehmensdaten-mit-nextcloud-im-griff.html
+ https://wiki.mint-system.ch/beratungsprojekte.html
+ https://wiki.mint-system.ch/besser-als-alternativ.html
++https://wiki.mint-system.ch/bestandsaufnahme-office-365.html
+ https://wiki.mint-system.ch/betriebssystem.html
+ https://wiki.mint-system.ch/bigbluebutton-hosting.html
+ https://wiki.mint-system.ch/bigbluebutton.html
+@@ -81,6 +83,7 @@ https://wiki.mint-system.ch/dmarc.html
+ https://wiki.mint-system.ch/dns.html
+ https://wiki.mint-system.ch/drp-server-totalausfall-mit-nextcloud.html
+ https://wiki.mint-system.ch/drp-server-totalausfall-mit-odoo.html
++https://wiki.mint-system.ch/data-hackdays-uri.html
+ https://wiki.mint-system.ch/datenschutzrichtlinie.html
+ https://wiki.mint-system.ch/datenverarbeitung.html
+ https://wiki.mint-system.ch/debian.html
+@@ -104,6 +107,7 @@ https://wiki.mint-system.ch/dokumente.html
+ https://wiki.mint-system.ch/dokumentmanagementsystem.html
+ https://wiki.mint-system.ch/domain.html
+ https://wiki.mint-system.ch/doom-emacs.html
++https://wiki.mint-system.ch/drehbuch-migration-infomaniak.html
+ https://wiki.mint-system.ch/e-mails-mit-odoo-versenden-und-empfangen.html
+ https://wiki.mint-system.ch/erp-mint-system.html
+ https://wiki.mint-system.ch/erpnext.html
+@@ -117,21 +121,24 @@ https://wiki.mint-system.ch/entity-relationship-model.html
+ https://wiki.mint-system.ch/entwicklung.html
+ https://wiki.mint-system.ch/equitania-software-gmbh.html
+ https://wiki.mint-system.ch/erklärung.html
++https://wiki.mint-system.ch/estimation.html
+ https://wiki.mint-system.ch/evaluation-iaas.html
+ https://wiki.mint-system.ch/evaluation-nextcloud-office.html
+ https://wiki.mint-system.ch/evaluation-odoo-hardware.html
+ https://wiki.mint-system.ch/evaluation-odoo-report.html
+ https://wiki.mint-system.ch/evaluation-telefonieanbieter.html
+ https://wiki.mint-system.ch/evaluation.html
++https://wiki.mint-system.ch/events.html
+ https://wiki.mint-system.ch/excalidraw.html
+ https://wiki.mint-system.ch/exoscale-extend-disk-space.html
+ https://wiki.mint-system.ch/exoscale-cli.html
+ https://wiki.mint-system.ch/exoscale.html
+ https://wiki.mint-system.ch/explaining-odoo.html
+ https://wiki.mint-system.ch/fail2ban.html
++https://wiki.mint-system.ch/feedback-upgrade-odoo-xx.0.html
+ https://wiki.mint-system.ch/fernwartung.html
+ https://wiki.mint-system.ch/finanzen.html
+-https://wiki.mint-system.ch/firefox-howto.html
++https://wiki.mint-system.ch/firefox-handbuch.html
+ https://wiki.mint-system.ch/firefox.html
+ https://wiki.mint-system.ch/fonts.html
+ https://wiki.mint-system.ch/foreign-data-wrapper.html
+@@ -142,14 +149,15 @@ https://wiki.mint-system.ch/frappe-hosting.html
+ https://wiki.mint-system.ch/frappe.html
+ https://wiki.mint-system.ch/freischaffende-mitarbeitende.html
+ https://wiki.mint-system.ch/förderbeiträge.html
++https://wiki.mint-system.ch/fünf-fünf-fünf.html
+ https://wiki.mint-system.ch/gnu-gplv3-lizenz.html
+ https://wiki.mint-system.ch/gparted.html
+ https://wiki.mint-system.ch/gaapex.html
+ https://wiki.mint-system.ch/gap-analyse.html
+ https://wiki.mint-system.ch/gerit-tänzer.html
+ https://wiki.mint-system.ch/git-forks.html
++https://wiki.mint-system.ch/git-handbook.html
+ https://wiki.mint-system.ch/git-rebase.html
+-https://wiki.mint-system.ch/git-howto.html
+ https://wiki.mint-system.ch/git.html
+ https://wiki.mint-system.ch/github-organisation.html
+ https://wiki.mint-system.ch/github.html
+@@ -184,7 +192,9 @@ https://wiki.mint-system.ch/itil-service-catalogue-management.html
+ https://wiki.mint-system.ch/itil.html
+ https://wiki.mint-system.ch/icons.html
+ https://wiki.mint-system.ch/ideation.html
+-https://wiki.mint-system.ch/infomaniak-howto.html
++https://wiki.mint-system.ch/infomaniak-handbuch.html
++https://wiki.mint-system.ch/infomaniak-kubernetes.html
++https://wiki.mint-system.ch/infomaniak-migration.html
+ https://wiki.mint-system.ch/infomaniak.html
+ https://wiki.mint-system.ch/infrastructure-mint-system.html
+ https://wiki.mint-system.ch/infrastruktur.html
+@@ -196,17 +206,20 @@ https://wiki.mint-system.ch/interne-links.html
+ https://wiki.mint-system.ch/inventage.html
+ https://wiki.mint-system.ch/jfrog-connect.html
+ https://wiki.mint-system.ch/janik-von-rotz.html
++https://wiki.mint-system.ch/jenkins-handbuch.html
+ https://wiki.mint-system.ch/jenkins-hosting.html
+-https://wiki.mint-system.ch/jenkins-howto.html
+ https://wiki.mint-system.ch/jenkins-security.html
+ https://wiki.mint-system.ch/jenkins.html
+ https://wiki.mint-system.ch/jobs.html
+ https://wiki.mint-system.ch/jupyter.html
+ https://wiki.mint-system.ch/kpi.html
++https://wiki.mint-system.ch/kanban.html
++https://wiki.mint-system.ch/keepassxc-handbuch.html
+ https://wiki.mint-system.ch/keepassxc.html
+ https://wiki.mint-system.ch/keep-a-changelog.html
+ https://wiki.mint-system.ch/keychron.html
+ https://wiki.mint-system.ch/keycloak-assessment.html
++https://wiki.mint-system.ch/keycloak-handbuch.html
+ https://wiki.mint-system.ch/keycloak-hosting.html
+ https://wiki.mint-system.ch/keycloak-security.html
+ https://wiki.mint-system.ch/keycloak-troubleshooting.html
+@@ -232,7 +245,7 @@ https://wiki.mint-system.ch/llm.html
+ https://wiki.mint-system.ch/large-language-models.html
+ https://wiki.mint-system.ch/laszlo-krajnikovszkij.html
+ https://wiki.mint-system.ch/let-s-encrypt.html
+-https://wiki.mint-system.ch/libreoffice-howto.html
++https://wiki.mint-system.ch/libreoffice-handbuch.html
+ https://wiki.mint-system.ch/libreoffice-impress.html
+ https://wiki.mint-system.ch/libreoffice.html
+ https://wiki.mint-system.ch/libreplm.html
+@@ -288,6 +301,7 @@ https://wiki.mint-system.ch/migrate-oca-module-to-xx.0.html
+ https://wiki.mint-system.ch/migrate-docker-postgres-databases-with-pg_dump.html
+ https://wiki.mint-system.ch/minor-improvements-template.html
+ https://wiki.mint-system.ch/mint-bot.html
++https://wiki.mint-system.ch/mint-cloud-kubernetes-clusters.html
+ https://wiki.mint-system.ch/mint-cloud.html
+ https://wiki.mint-system.ch/mint-saas.html
+ https://wiki.mint-system.ch/mint-system-gmbh.html
+@@ -308,7 +322,7 @@ https://wiki.mint-system.ch/monitoring.html
+ https://wiki.mint-system.ch/moodle-hosting.html
+ https://wiki.mint-system.ch/moodle.html
+ https://wiki.mint-system.ch/mythen-über-open-source.html
+-https://wiki.mint-system.ch/n8n-howto.html
++https://wiki.mint-system.ch/n8n-handbook.html
+ https://wiki.mint-system.ch/n8n.html
+ https://wiki.mint-system.ch/netzwerk.html
+ https://wiki.mint-system.ch/netzwerker%in.html
+@@ -322,13 +336,12 @@ https://wiki.mint-system.ch/nextcloud-restore-password-manager-from-backup.html
+ https://wiki.mint-system.ch/nextcloud-set-default-locale-and-language.html
+ https://wiki.mint-system.ch/nextcloud-transfer-ownership.html
+ https://wiki.mint-system.ch/nextcloud-apps.html
+-https://wiki.mint-system.ch/nextcloud-circles.html
+ https://wiki.mint-system.ch/nextcloud-destkop-client.html
+ https://wiki.mint-system.ch/nextcloud-elektronische-signaturen.html
+ https://wiki.mint-system.ch/nextcloud-enterprise.html
+ https://wiki.mint-system.ch/nextcloud-gmbh.html
++https://wiki.mint-system.ch/nextcloud-handbuch.html
+ https://wiki.mint-system.ch/nextcloud-hosting.html
+-https://wiki.mint-system.ch/nextcloud-howto.html
+ https://wiki.mint-system.ch/nextcloud-mail.html
+ https://wiki.mint-system.ch/nextcloud-marketing.html
+ https://wiki.mint-system.ch/nextcloud-office-routing.html
+@@ -338,6 +351,7 @@ https://wiki.mint-system.ch/nextcloud-passwords.html
+ https://wiki.mint-system.ch/nextcloud-social-login.html
+ https://wiki.mint-system.ch/nextcloud-talk.html
+ https://wiki.mint-system.ch/nextcloud-troubleshooting.html
++https://wiki.mint-system.ch/nextcloud-two-factor-totp-provider.html
+ https://wiki.mint-system.ch/nextcloud-upgrade.html
+ https://wiki.mint-system.ch/nextcloud.html
+ https://wiki.mint-system.ch/nginx-troubleshooting.html
+@@ -350,8 +364,9 @@ https://wiki.mint-system.ch/oca.html
+ https://wiki.mint-system.ch/opnsense.html
+ https://wiki.mint-system.ch/optex-treuhand-ag.html
+ https://wiki.mint-system.ch/oss-directory.html
++https://wiki.mint-system.ch/otp-auth.html
+ https://wiki.mint-system.ch/owasp-sicherheitslücken.html
+-https://wiki.mint-system.ch/obsidian-howto.html
++https://wiki.mint-system.ch/obsidian-handbuch.html
+ https://wiki.mint-system.ch/obsidian-web-clipper.html
+ https://wiki.mint-system.ch/obsidian.html
+ https://wiki.mint-system.ch/odoo-import-data-from-csv.html
+@@ -534,7 +549,7 @@ https://wiki.mint-system.ch/openshift.html
+ https://wiki.mint-system.ch/openupgrade-odoo-xx.0.html
+ https://wiki.mint-system.ch/openupgrade.html
+ https://wiki.mint-system.ch/openvpn-cheatsheet.html
+-https://wiki.mint-system.ch/openvpn-howto.html
++https://wiki.mint-system.ch/openvpn-handbook.html
+ https://wiki.mint-system.ch/openvpn.html
+ https://wiki.mint-system.ch/organisation.html
+ https://wiki.mint-system.ch/paas.html
+@@ -793,7 +808,7 @@ https://wiki.mint-system.ch/prozesse-wiki.html
+ https://wiki.mint-system.ch/prozesse.html
+ https://wiki.mint-system.ch/putty.html
+ https://wiki.mint-system.ch/py3o-report-engine.html
+-https://wiki.mint-system.ch/python-howto.html
++https://wiki.mint-system.ch/python-handbook.html
+ https://wiki.mint-system.ch/python.html
+ https://wiki.mint-system.ch/qweb-templating-engine.html
+ https://wiki.mint-system.ch/readme.html
+@@ -835,6 +850,7 @@ https://wiki.mint-system.ch/smtp-skripte.html
+ https://wiki.mint-system.ch/spdx.html
+ https://wiki.mint-system.ch/spf.html
+ https://wiki.mint-system.ch/ssh-zugriff.html
++https://wiki.mint-system.ch/ssh.html
+ https://wiki.mint-system.ch/saas.html
+ https://wiki.mint-system.ch/saferpay.html
+ https://wiki.mint-system.ch/saldosteuersätze.html
+@@ -904,6 +920,7 @@ https://wiki.mint-system.ch/telefonie.html
+ https://wiki.mint-system.ch/template-issue.html
+ https://wiki.mint-system.ch/template-meeting.html
+ https://wiki.mint-system.ch/template-report-on-odoo-customization.html
++https://wiki.mint-system.ch/template-weekly.html
+ https://wiki.mint-system.ch/template-worklog.html
+ https://wiki.mint-system.ch/terminal-zeiterfassung.html
+ https://wiki.mint-system.ch/terminal.html
+@@ -912,6 +929,7 @@ https://wiki.mint-system.ch/terraform.html
+ https://wiki.mint-system.ch/test-fdw-with-odoo.html
+ https://wiki.mint-system.ch/test-mint-system.html
+ https://wiki.mint-system.ch/test-odoo-mail-flow.html
++https://wiki.mint-system.ch/testing-upgrade-odoo-xx.0.html
+ https://wiki.mint-system.ch/testumgebungen.html
+ https://wiki.mint-system.ch/the-odoo-ecosystem.html
+ https://wiki.mint-system.ch/thunderbird-appointment.html
+@@ -949,7 +967,6 @@ https://wiki.mint-system.ch/vscodium.html
+ https://wiki.mint-system.ch/vshn-ag.html
+ https://wiki.mint-system.ch/vshn-application-marketplace.html
+ https://wiki.mint-system.ch/vshn-central-control-plane.html
+-https://wiki.mint-system.ch/velo-manufaktur.html
+ https://wiki.mint-system.ch/ventor.app.html
+ https://wiki.mint-system.ch/verbesserungsvorschläge.html
+ https://wiki.mint-system.ch/vercel.html
+@@ -967,7 +984,6 @@ https://wiki.mint-system.ch/vorgehensmodell.html
+ https://wiki.mint-system.ch/vorlage-anforderungen.html
+ https://wiki.mint-system.ch/vorlage-anforderungsanalyse.html
+ https://wiki.mint-system.ch/vorlage-angebot.html
+-https://wiki.mint-system.ch/vorlage-aufwandsschätzung.html
+ https://wiki.mint-system.ch/vorlage-bugs.html
+ https://wiki.mint-system.ch/vorlage-cashflow.html
+ https://wiki.mint-system.ch/vorlage-datenmigration.html
+@@ -976,7 +992,7 @@ https://wiki.mint-system.ch/vorlage-interviews-gap-analyse.html
+ https://wiki.mint-system.ch/vorlage-konzept.html
+ https://wiki.mint-system.ch/vorlage-phase.html
+ https://wiki.mint-system.ch/vorlage-prozesse-odoo.html
+-https://wiki.mint-system.ch/vorlage-technische-spezifikation.html
++https://wiki.mint-system.ch/vorlage-spezifikation-modul.html
+ https://wiki.mint-system.ch/vorlage-test-cases.html
+ https://wiki.mint-system.ch/vorlage-troubleshooting.html
+ https://wiki.mint-system.ch/vorlage-use-cases.html
+@@ -988,8 +1004,10 @@ https://wiki.mint-system.ch/waf-log-analysieren.html
+ https://wiki.mint-system.ch/waagen.html
+ https://wiki.mint-system.ch/wartungsauftrag.html
+ https://wiki.mint-system.ch/wartungsvertrag.html
++https://wiki.mint-system.ch/wasmtime.html
+ https://wiki.mint-system.ch/web-analytics.html
+ https://wiki.mint-system.ch/web-application-firewall.html
++https://wiki.mint-system.ch/webassembly.html
+ https://wiki.mint-system.ch/webapplikation.html
+ https://wiki.mint-system.ch/website.html
+ https://wiki.mint-system.ch/websites-mit-odoo-erstellen.html
+@@ -1003,8 +1021,8 @@ https://wiki.mint-system.ch/wissensdomäne.html
+ https://wiki.mint-system.ch/wissensmanager%in.html
+ https://wiki.mint-system.ch/wissenstransfer-einfache-anpassungen-für-odoo-entwickeln.html
+ https://wiki.mint-system.ch/wissentransfer.html
++https://wiki.mint-system.ch/wordpress-handbook.html
+ https://wiki.mint-system.ch/wordpress-hosting.html
+-https://wiki.mint-system.ch/wordpress-howto.html
+ https://wiki.mint-system.ch/wordpress.html
+ https://wiki.mint-system.ch/workplace-hardware.html
+ https://wiki.mint-system.ch/workplace-software.html
+@@ -1019,6 +1037,7 @@ https://wiki.mint-system.ch/zsh.html
+ https://wiki.mint-system.ch/zugriffskontrolle.html
+ https://wiki.mint-system.ch/zusatzanforderungen.html
+ https://wiki.mint-system.ch/autoflake.html
++https://wiki.mint-system.ch/autossh.html
+ https://wiki.mint-system.ch/black.html
+ https://wiki.mint-system.ch/bpmn.io.html
+ https://wiki.mint-system.ch/dataplicity.html
+@@ -1050,7 +1069,7 @@ https://wiki.mint-system.ch/pre-commit.html
+ https://wiki.mint-system.ch/prettier.html
+ https://wiki.mint-system.ch/pylint.html
+ https://wiki.mint-system.ch/restic-wiederherstellung-von-backups.html
+-https://wiki.mint-system.ch/restic-howto.html
++https://wiki.mint-system.ch/restic-handbuch.html
+ https://wiki.mint-system.ch/restic-troubleshooting.html
+ https://wiki.mint-system.ch/restic.html
+ https://wiki.mint-system.ch/rustdesk.html
+diff --git a/package.json b/package.json
+index 266da404..84c64099 100644
+--- a/package.json
++++ b/package.json
+@@ -8,9 +8,9 @@
+   "devDependencies": {
+     "@vuepress/bundler-vite": "^2.0.0-rc.23",
+     "@vuepress/client": "^2.0.0-rc.23",
+-    "@vuepress/plugin-docsearch": "^2.0.0-rc.106",
+     "@vuepress/plugin-search": "^2.0.0-rc.106",
+     "@vuepress/plugin-shiki": "^2.0.0-rc.106",
++    "@vuepress/plugin-slimsearch": "2.0.0-rc.112",
+     "@vuepress/theme-default": "^2.0.0-rc.106",
+     "@vuepress/utils": "^2.0.0-rc.23",
+     "mermaid": "^10.9.3",
+diff --git a/pnpm-lock.yaml b/pnpm-lock.yaml
+index 1102ee25..15045c13 100644
+--- a/pnpm-lock.yaml
++++ b/pnpm-lock.yaml
+@@ -14,15 +14,15 @@ importers:
+       '@vuepress/client':
+         specifier: ^2.0.0-rc.23
+         version: 2.0.0-rc.23
+-      '@vuepress/plugin-docsearch':
+-        specifier: ^2.0.0-rc.106
+-        version: 2.0.0-rc.106(@algolia/client-search@5.25.0)(search-insights@2.17.3)(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))
+       '@vuepress/plugin-search':
+         specifier: ^2.0.0-rc.106
+         version: 2.0.0-rc.106(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))
+       '@vuepress/plugin-shiki':
+         specifier: ^2.0.0-rc.106
+         version: 2.0.0-rc.106(@vueuse/core@13.2.0(vue@3.5.15))(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))
++      '@vuepress/plugin-slimsearch':
++        specifier: 2.0.0-rc.112
++        version: 2.0.0-rc.112(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))
+       '@vuepress/theme-default':
+         specifier: ^2.0.0-rc.106
+         version: 2.0.0-rc.106(markdown-it@14.1.0)(sass-embedded@1.89.0)(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))
+@@ -47,78 +47,6 @@ importers:
+ 
+ packages:
+ 
+-  '@algolia/autocomplete-core@1.17.9':
+-    resolution: {integrity: sha512-O7BxrpLDPJWWHv/DLA9DRFWs+iY1uOJZkqUwjS5HSZAGcl0hIVCQ97LTLewiZmZ402JYUrun+8NqFP+hCknlbQ==}
+-
+-  '@algolia/autocomplete-plugin-algolia-insights@1.17.9':
+-    resolution: {integrity: sha512-u1fEHkCbWF92DBeB/KHeMacsjsoI0wFhjZtlCq2ddZbAehshbZST6Hs0Avkc0s+4UyBGbMDnSuXHLuvRWK5iDQ==}
+-    peerDependencies:
+-      search-insights: '>= 1 < 3'
+-
+-  '@algolia/autocomplete-preset-algolia@1.17.9':
+-    resolution: {integrity: sha512-Na1OuceSJeg8j7ZWn5ssMu/Ax3amtOwk76u4h5J4eK2Nx2KB5qt0Z4cOapCsxot9VcEN11ADV5aUSlQF4RhGjQ==}
+-    peerDependencies:
+-      '@algolia/client-search': '>= 4.9.1 < 6'
+-      algoliasearch: '>= 4.9.1 < 6'
+-
+-  '@algolia/autocomplete-shared@1.17.9':
+-    resolution: {integrity: sha512-iDf05JDQ7I0b7JEA/9IektxN/80a2MZ1ToohfmNS3rfeuQnIKI3IJlIafD0xu4StbtQTghx9T3Maa97ytkXenQ==}
+-    peerDependencies:
+-      '@algolia/client-search': '>= 4.9.1 < 6'
+-      algoliasearch: '>= 4.9.1 < 6'
+-
+-  '@algolia/client-abtesting@5.25.0':
+-    resolution: {integrity: sha512-1pfQulNUYNf1Tk/svbfjfkLBS36zsuph6m+B6gDkPEivFmso/XnRgwDvjAx80WNtiHnmeNjIXdF7Gos8+OLHqQ==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/client-analytics@5.25.0':
+-    resolution: {integrity: sha512-AFbG6VDJX/o2vDd9hqncj1B6B4Tulk61mY0pzTtzKClyTDlNP0xaUiEKhl6E7KO9I/x0FJF5tDCm0Hn6v5x18A==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/client-common@5.25.0':
+-    resolution: {integrity: sha512-il1zS/+Rc6la6RaCdSZ2YbJnkQC6W1wiBO8+SH+DE6CPMWBU6iDVzH0sCKSAtMWl9WBxoN6MhNjGBnCv9Yy2bA==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/client-insights@5.25.0':
+-    resolution: {integrity: sha512-blbjrUH1siZNfyCGeq0iLQu00w3a4fBXm0WRIM0V8alcAPo7rWjLbMJMrfBtzL9X5ic6wgxVpDADXduGtdrnkw==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/client-personalization@5.25.0':
+-    resolution: {integrity: sha512-aywoEuu1NxChBcHZ1pWaat0Plw7A8jDMwjgRJ00Mcl7wGlwuPt5dJ/LTNcg3McsEUbs2MBNmw0ignXBw9Tbgow==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/client-query-suggestions@5.25.0':
+-    resolution: {integrity: sha512-a/W2z6XWKjKjIW1QQQV8PTTj1TXtaKx79uR3NGBdBdGvVdt24KzGAaN7sCr5oP8DW4D3cJt44wp2OY/fZcPAVA==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/client-search@5.25.0':
+-    resolution: {integrity: sha512-9rUYcMIBOrCtYiLX49djyzxqdK9Dya/6Z/8sebPn94BekT+KLOpaZCuc6s0Fpfq7nx5J6YY5LIVFQrtioK9u0g==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/ingestion@1.25.0':
+-    resolution: {integrity: sha512-jJeH/Hk+k17Vkokf02lkfYE4A+EJX+UgnMhTLR/Mb+d1ya5WhE+po8p5a/Nxb6lo9OLCRl6w3Hmk1TX1e9gVbQ==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/monitoring@1.25.0':
+-    resolution: {integrity: sha512-Ls3i1AehJ0C6xaHe7kK9vPmzImOn5zBg7Kzj8tRYIcmCWVyuuFwCIsbuIIz/qzUf1FPSWmw0TZrGeTumk2fqXg==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/recommend@5.25.0':
+-    resolution: {integrity: sha512-79sMdHpiRLXVxSjgw7Pt4R1aNUHxFLHiaTDnN2MQjHwJ1+o3wSseb55T9VXU4kqy3m7TUme3pyRhLk5ip/S4Mw==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/requester-browser-xhr@5.25.0':
+-    resolution: {integrity: sha512-JLaF23p1SOPBmfEqozUAgKHQrGl3z/Z5RHbggBu6s07QqXXcazEsub5VLonCxGVqTv6a61AAPr8J1G5HgGGjEw==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/requester-fetch@5.25.0':
+-    resolution: {integrity: sha512-rtzXwqzFi1edkOF6sXxq+HhmRKDy7tz84u0o5t1fXwz0cwx+cjpmxu/6OQKTdOJFS92JUYHsG51Iunie7xbqfQ==}
+-    engines: {node: '>= 14.0.0'}
+-
+-  '@algolia/requester-node-http@5.25.0':
+-    resolution: {integrity: sha512-ZO0UKvDyEFvyeJQX0gmZDQEvhLZ2X10K+ps6hViMo1HgE2V8em00SwNsQ+7E/52a+YiBkVWX61pJJJE44juDMQ==}
+-    engines: {node: '>= 14.0.0'}
+-
+   '@babel/helper-string-parser@7.27.1':
+     resolution: {integrity: sha512-qMlSxKbpRlAridDExk92nSobyDdpPijUq2DW6oDnUqd0iOGxmQjyqhMIihI9+zv4LPyZdRje2cavWPbCbWm3eA==}
+     engines: {node: '>=6.9.0'}
+@@ -132,39 +60,25 @@ packages:
+     engines: {node: '>=6.0.0'}
+     hasBin: true
+ 
++  '@babel/parser@7.28.0':
++    resolution: {integrity: sha512-jVZGvOxOuNSsuQuLRTh13nU0AogFlw32w/MT+LV6D3sP5WdbW61E77RnkbaO2dUvmPAYrBDJXGn5gGS6tH4j8g==}
++    engines: {node: '>=6.0.0'}
++    hasBin: true
++
+   '@babel/types@7.27.1':
+     resolution: {integrity: sha512-+EzkxvLNfiUeKMgy/3luqfsCWFRXLb7U6wNQTk60tovuckwB15B191tJWvpp4HjiQWdJkCxO3Wbvc6jlk3Xb2Q==}
+     engines: {node: '>=6.9.0'}
+ 
++  '@babel/types@7.28.2':
++    resolution: {integrity: sha512-ruv7Ae4J5dUYULmeXw1gmb7rYRz57OWCPM57pHojnLq/3Z1CK2lNSLTCVjxVk1F/TZHwOZZrOWi0ur95BbLxNQ==}
++    engines: {node: '>=6.9.0'}
++
+   '@braintree/sanitize-url@6.0.4':
+     resolution: {integrity: sha512-s3jaWicZd0pkP0jf5ysyHUI/RE7MHos6qlToFcGWXVp+ykHOy77OUMrfbgJ9it2C5bow7OIQwYYaHjk9XlBQ2A==}
+ 
+   '@bufbuild/protobuf@2.5.0':
+     resolution: {integrity: sha512-nniMblXT+dNyubek2OLKAYJnG/in4tmfS2c5CDnIvqfF9kFlERSG3FCBvmdqerpkWuPv0qhdGKReQ2OqKPG20w==}
+ 
+-  '@docsearch/css@3.9.0':
+-    resolution: {integrity: sha512-cQbnVbq0rrBwNAKegIac/t6a8nWoUAn8frnkLFW6YARaRmAQr5/Eoe6Ln2fqkUCZ40KpdrKbpSAmgrkviOxuWA==}
+-
+-  '@docsearch/js@3.9.0':
+-    resolution: {integrity: sha512-4bKHcye6EkLgRE8ze0vcdshmEqxeiJM77M0JXjef7lrYZfSlMunrDOCqyLjiZyo1+c0BhUqA2QpFartIjuHIjw==}
+-
+-  '@docsearch/react@3.9.0':
+-    resolution: {integrity: sha512-mb5FOZYZIkRQ6s/NWnM98k879vu5pscWqTLubLFBO87igYYT4VzVazh4h5o/zCvTIZgEt3PvsCOMOswOUo9yHQ==}
+-    peerDependencies:
+-      '@types/react': '>= 16.8.0 < 20.0.0'
+-      react: '>= 16.8.0 < 20.0.0'
+-      react-dom: '>= 16.8.0 < 20.0.0'
+-      search-insights: '>= 1 < 3'
+-    peerDependenciesMeta:
+-      '@types/react':
+-        optional: true
+-      react:
+-        optional: true
+-      react-dom:
+-        optional: true
+-      search-insights:
+-        optional: true
+-
+   '@emnapi/runtime@1.4.3':
+     resolution: {integrity: sha512-pBPWdu6MLKROBX05wSNKcNb++m5Er+KQ9QkB+WVM+pW2Kx9hoSrVTnu3BdkI5eBLZoKu/J6mW/B6i6bJB2ytXQ==}
+ 
+@@ -707,15 +621,27 @@ packages:
+   '@vue/compiler-core@3.5.15':
+     resolution: {integrity: sha512-nGRc6YJg/kxNqbv/7Tg4juirPnjHvuVdhcmDvQWVZXlLHjouq7VsKmV1hIxM/8yKM0VUfwT/Uzc0lO510ltZqw==}
+ 
++  '@vue/compiler-core@3.5.18':
++    resolution: {integrity: sha512-3slwjQrrV1TO8MoXgy3aynDQ7lslj5UqDxuHnrzHtpON5CBinhWjJETciPngpin/T3OuW3tXUf86tEurusnztw==}
++
+   '@vue/compiler-dom@3.5.15':
+     resolution: {integrity: sha512-ZelQd9n+O/UCBdL00rlwCrsArSak+YLZpBVuNDio1hN3+wrCshYZEDUO3khSLAzPbF1oQS2duEoMDUHScUlYjA==}
+ 
++  '@vue/compiler-dom@3.5.18':
++    resolution: {integrity: sha512-RMbU6NTU70++B1JyVJbNbeFkK+A+Q7y9XKE2EM4NLGm2WFR8x9MbAtWxPPLdm0wUkuZv9trpwfSlL6tjdIa1+A==}
++
+   '@vue/compiler-sfc@3.5.15':
+     resolution: {integrity: sha512-3zndKbxMsOU6afQWer75Zot/aydjtxNj0T2KLg033rAFaQUn2PGuE32ZRe4iMhflbTcAxL0yEYsRWFxtPro8RQ==}
+ 
++  '@vue/compiler-sfc@3.5.18':
++    resolution: {integrity: sha512-5aBjvGqsWs+MoxswZPoTB9nSDb3dhd1x30xrrltKujlCxo48j8HGDNj3QPhF4VIS0VQDUrA1xUfp2hEa+FNyXA==}
++
+   '@vue/compiler-ssr@3.5.15':
+     resolution: {integrity: sha512-gShn8zRREZbrXqTtmLSCffgZXDWv8nHc/GhsW+mbwBfNZL5pI96e7IWcIq8XGQe1TLtVbu7EV9gFIVSmfyarPg==}
+ 
++  '@vue/compiler-ssr@3.5.18':
++    resolution: {integrity: sha512-xM16Ak7rSWHkM3m22NlmcdIM+K4BMyFARAfV9hYFl+SFuRzrZ3uGMNW05kA5pmeMa0X9X963Kgou7ufdbpOP9g==}
++
+   '@vue/devtools-api@6.6.4':
+     resolution: {integrity: sha512-sGhTPMuXqZ1rVOk32RylztWkfXTRhuS7vgAKv0zjqk8gbsHkJ7xfFf+jbySxt7tWObEJwyKaHMikV/WGDiQm8g==}
+ 
+@@ -731,20 +657,37 @@ packages:
+   '@vue/reactivity@3.5.15':
+     resolution: {integrity: sha512-GaA5VUm30YWobCwpvcs9nvFKf27EdSLKDo2jA0IXzGS344oNpFNbEQ9z+Pp5ESDaxyS8FcH0vFN/XSe95BZtHQ==}
+ 
++  '@vue/reactivity@3.5.18':
++    resolution: {integrity: sha512-x0vPO5Imw+3sChLM5Y+B6G1zPjwdOri9e8V21NnTnlEvkxatHEH5B5KEAJcjuzQ7BsjGrKtfzuQ5eQwXh8HXBg==}
++
+   '@vue/runtime-core@3.5.15':
+     resolution: {integrity: sha512-CZAlIOQ93nj0OPpWWOx4+QDLCMzBNY85IQR4Voe6vIID149yF8g9WQaWnw042f/6JfvLttK7dnyWlC1EVCRK8Q==}
+ 
++  '@vue/runtime-core@3.5.18':
++    resolution: {integrity: sha512-DUpHa1HpeOQEt6+3nheUfqVXRog2kivkXHUhoqJiKR33SO4x+a5uNOMkV487WPerQkL0vUuRvq/7JhRgLW3S+w==}
++
+   '@vue/runtime-dom@3.5.15':
+     resolution: {integrity: sha512-wFplHKzKO/v998up2iCW3RN9TNUeDMhdBcNYZgs5LOokHntrB48dyuZHspcahKZczKKh3v6i164gapMPxBTKNw==}
+ 
++  '@vue/runtime-dom@3.5.18':
++    resolution: {integrity: sha512-YwDj71iV05j4RnzZnZtGaXwPoUWeRsqinblgVJwR8XTXYZ9D5PbahHQgsbmzUvCWNF6x7siQ89HgnX5eWkr3mw==}
++
+   '@vue/server-renderer@3.5.15':
+     resolution: {integrity: sha512-Gehc693kVTYkLt6QSYEjGvqvdK2zZ/gf/D5zkgmvBdeB30dNnVZS8yY7+IlBmHRd1rR/zwaqeu06Ij04ZxBscg==}
+     peerDependencies:
+       vue: 3.5.15
+ 
++  '@vue/server-renderer@3.5.18':
++    resolution: {integrity: sha512-PvIHLUoWgSbDG7zLHqSqaCoZvHi6NNmfVFOqO+OnwvqMz/tqQr3FuGWS8ufluNddk7ZLBJYMrjcw1c6XzR12mA==}
++    peerDependencies:
++      vue: 3.5.18
++
+   '@vue/shared@3.5.15':
+     resolution: {integrity: sha512-bKvgFJJL1ZX9KxMCTQY6xD9Dhe3nusd1OhyOb1cJYGqvAr0Vg8FIjHPMOEVbJ9GDT9HG+Bjdn4oS8ohKP8EvoA==}
+ 
++  '@vue/shared@3.5.18':
++    resolution: {integrity: sha512-cZy8Dq+uuIXbxCZpuLd2GJdeSO/lIzIspC2WtkqIpje5QyFbvLaI5wZtdUjLHjGZrlVX6GilejatWwVYYRc8tA==}
++
+   '@vuepress/bundler-vite@2.0.0-rc.23':
+     resolution: {integrity: sha512-59oBof+QaCyrZVOussrmv3bHxpwFPsLlI9yQbq2ubR+dFNzgfAtb8Dpm2z9iB/duZnx6PgmWPke4qGl9wOjEKw==}
+ 
+@@ -766,6 +709,11 @@ packages:
+     peerDependencies:
+       vuepress: 2.0.0-rc.23
+ 
++  '@vuepress/helper@2.0.0-rc.112':
++    resolution: {integrity: sha512-gj19xHyYbG0wygcoJ6YypCNS+nybVt2AEJFyHTFvl+KiB2BfBhKWuCpWufp4c4Od1xkru4y56I+pSU2b8CGIBQ==}
++    peerDependencies:
++      vuepress: 2.0.0-rc.24
++
+   '@vuepress/highlighter-helper@2.0.0-rc.106':
+     resolution: {integrity: sha512-VofZug2B/P+D+SZ29aCfOzIfRrUzusfjq8qE7asZ3S7xGD4VSOCioTaPKV+OftgPnUZV0jPBZsh7E7T8SOYtsg==}
+     peerDependencies:
+@@ -793,11 +741,6 @@ packages:
+     peerDependencies:
+       vuepress: 2.0.0-rc.23
+ 
+-  '@vuepress/plugin-docsearch@2.0.0-rc.106':
+-    resolution: {integrity: sha512-xWt2McoIwC6csAuBUOq+SVAlwT5O4xusntrsjKwsWAT18ECBO4XXDj9X1cFW0Tw4j+viRrKdpxFWnUVxY9dqNQ==}
+-    peerDependencies:
+-      vuepress: 2.0.0-rc.23
+-
+   '@vuepress/plugin-git@2.0.0-rc.106':
+     resolution: {integrity: sha512-HXt5mCgwJLbOGEk99fvShsZWB1bXaLgDIgxTvni+sa6vqhGliCqqup5fL/OC7L92mY/qsDUXXJ6ovHabHW/CWA==}
+     peerDependencies:
+@@ -862,6 +805,11 @@ packages:
+     peerDependencies:
+       vuepress: 2.0.0-rc.23
+ 
++  '@vuepress/plugin-slimsearch@2.0.0-rc.112':
++    resolution: {integrity: sha512-eSRcT/DwgFzzVtdx7tDhzHRwJtUwyExTDbjsnC8GWpTWl4VuFgLZv8iv+ogGCrk2qVmstnoZH4gdqDnYAWZtRA==}
++    peerDependencies:
++      vuepress: 2.0.0-rc.24
++
+   '@vuepress/plugin-theme-data@2.0.0-rc.105':
+     resolution: {integrity: sha512-G3i0KF/+1JjMw1Re4PW//621wO8zwgZwwLosJzD3mIohX0IVI6HjHoRfcR8TB1jTAPw+N0wqWZnq/4P+4Ze3lw==}
+     peerDependencies:
+@@ -893,17 +841,26 @@ packages:
+     peerDependencies:
+       vue: ^3.5.0
+ 
++  '@vueuse/core@13.6.0':
++    resolution: {integrity: sha512-DJbD5fV86muVmBgS9QQPddVX7d9hWYswzlf4bIyUD2dj8GC46R1uNClZhVAmsdVts4xb2jwp1PbpuiA50Qee1A==}
++    peerDependencies:
++      vue: ^3.5.0
++
+   '@vueuse/metadata@13.2.0':
+     resolution: {integrity: sha512-kPpzuQCU0+D8DZCzK0iPpIcXI+6ufWSgwnjJ6//GNpEn+SHViaCtR+XurzORChSgvpHO9YC8gGM97Y1kB+UabA==}
+ 
++  '@vueuse/metadata@13.6.0':
++    resolution: {integrity: sha512-rnIH7JvU7NjrpexTsl2Iwv0V0yAx9cw7+clymjKuLSXG0QMcLD0LDgdNmXic+qL0SGvgSVPEpM9IDO/wqo1vkQ==}
++
+   '@vueuse/shared@13.2.0':
+     resolution: {integrity: sha512-vx9ZPDF5HcU9up3Jgt3G62dMUfZEdk6tLyBAHYAG4F4n73vpaA7J5hdncDI/lS9Vm7GA/FPlbOmh9TrDZROTpg==}
+     peerDependencies:
+       vue: ^3.5.0
+ 
+-  algoliasearch@5.25.0:
+-    resolution: {integrity: sha512-n73BVorL4HIwKlfJKb4SEzAYkR3Buwfwbh+MYxg2mloFph2fFGV58E90QTzdbfzWrLn4HE5Czx/WTjI8fcHaMg==}
+-    engines: {node: '>= 14.0.0'}
++  '@vueuse/shared@13.6.0':
++    resolution: {integrity: sha512-pDykCSoS2T3fsQrYqf9SyF0QXWHmcGPQ+qiOVjlYSzlWd9dgppB2bFSM1GgKKkt7uzn0BBMV3IbJsUfHG2+BCg==}
++    peerDependencies:
++      vue: ^3.5.0
+ 
+   ansi-regex@6.1.0:
+     resolution: {integrity: sha512-7HSX4QQb4CspciLpVFwyRe79O3xsIZDDLER21kERQ71oaPodF8jL725AgJMFAYbooIqolJoRLuM81SpeUkpkvA==}
+@@ -984,10 +941,18 @@ packages:
+     resolution: {integrity: sha512-quS9HgjQpdaXOvsZz82Oz7uxtXiy6UIsIQcpBj7HRw2M63Skasm9qlDocAM7jNuaxdhpPU7c4kJN+gA5MCu4ww==}
+     engines: {node: '>=18.17'}
+ 
++  cheerio@1.1.2:
++    resolution: {integrity: sha512-IkxPpb5rS/d1IiLbHMgfPuS0FgiWTtFIm/Nj+2woXDLTZ7fOT2eqzgYbdMlLweqlHbsZjxEChoVK+7iph7jyQg==}
++    engines: {node: '>=20.18.1'}
++
+   chokidar@3.6.0:
+     resolution: {integrity: sha512-7VT13fmjotKpGipCW9JEQAusEPE+Ei8nl6/g4FBAmIm0GOOLMua9NDDo/DWp0ZAxCr3cPq5ZpBqmPAQgDda2Pw==}
+     engines: {node: '>= 8.10.0'}
+ 
++  chokidar@4.0.3:
++    resolution: {integrity: sha512-Qgzu8kfBvo+cA4962jnP1KkS6Dop5NS6g7R5LFYJr4b8Ub94PPQXUksCw9PvXoeXPRRddRNC5C1JQUR2SMGtnA==}
++    engines: {node: '>= 14.16.0'}
++
+   cli-cursor@5.0.0:
+     resolution: {integrity: sha512-aCj4O5wKyszjMmDT4tZj93kxyydN/K5zPWSCe6/0AV/AA1pqe5ZBIw0a2ZfPQV7lL5/yb5HsUreJ6UFAF1tEQw==}
+     engines: {node: '>=18'}
+@@ -1257,6 +1222,9 @@ packages:
+   encoding-sniffer@0.2.0:
+     resolution: {integrity: sha512-ju7Wq1kg04I3HtiYIOrUrdfdDvkyO9s5XM8QAj/bN61Yo/Vb4vgJxy5vi4Yxk01gWHbrofpPtpxM8bKger9jhg==}
+ 
++  encoding-sniffer@0.2.1:
++    resolution: {integrity: sha512-5gvq20T6vfpekVtqrYQsSCFZ1wEg5+wW0/QaZMWkFr6BqD3NfKs0rLCx4rrVlSWJeZb5NBJgVLswK/w2MWU+Gw==}
++
+   entities@4.5.0:
+     resolution: {integrity: sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw==}
+     engines: {node: '>=0.12'}
+@@ -1381,6 +1349,9 @@ packages:
+   html-void-elements@3.0.0:
+     resolution: {integrity: sha512-bEqo66MRXsUGxWHV5IP0PUiAWwoEjba4VCzg0LjFJBpchPaTfyfCKTG6bc5F8ucKec3q5y6qOdGyYTSBEvhCrg==}
+ 
++  htmlparser2@10.0.0:
++    resolution: {integrity: sha512-TwAZM+zE5Tq3lrEHvOlvwgj1XLWQCtaaibSN11Q+gGBAS7Y1uZSWwXXRe4iF6OXnaq1riyQAPFOBtYc77Mxq0g==}
++
+   htmlparser2@9.1.0:
+     resolution: {integrity: sha512-5zfg6mHUoaer/97TxnGpxmbR7zJtPwIYFMZ/H5ucTlPZhKvtum05yiPK3Mgai3a0DyVxv7qYqoweaEd2nrYQzQ==}
+ 
+@@ -1711,8 +1682,9 @@ packages:
+     resolution: {integrity: sha512-dle9A3yYxlBSrt8Fu+IpjGT8SY8hN0mlaA6GY8t0P5PjIOZemULz/E2Bnm/2dcUOena75OTNkHI76uZBNUUq3A==}
+     engines: {node: ^10 || ^12 || >=14}
+ 
+-  preact@10.26.7:
+-    resolution: {integrity: sha512-43xS+QYc1X1IPbw03faSgY6I6OYWcLrJRv3hU0+qMOfh/XCHcP0MX2CVjNARYR2cC/guu975sta4OcjlczxD7g==}
++  postcss@8.5.6:
++    resolution: {integrity: sha512-3Ybi1tAuwAP9s0r1UQ2J4n5Y0G05bJkpUIO0/bI9MhwmD70S5aTWbXGBwxHrelT+XM1k6dM0pk+SwNkpTRN7Pg==}
++    engines: {node: ^10 || ^12 || >=14}
+ 
+   prismjs@1.30.0:
+     resolution: {integrity: sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==}
+@@ -1732,6 +1704,10 @@ packages:
+     resolution: {integrity: sha512-hOS089on8RduqdbhvQ5Z37A0ESjsqz6qnRcffsMU3495FuTdqSm+7bhJ29JvIOsBDEEnan5DPu9t3To9VRlMzA==}
+     engines: {node: '>=8.10.0'}
+ 
++  readdirp@4.1.2:
++    resolution: {integrity: sha512-GDhwkLfywWL2s6vEjyhri+eXmfH6j1L7JE27WhqLeYzoh/A3DBaYGEj2H/HFZCn/kMfim73FXxEJTw06WtxQwg==}
++    engines: {node: '>= 14.18.0'}
++
+   regex-recursion@6.0.2:
+     resolution: {integrity: sha512-0YCaSCq2VRIebiaUviZNs0cBz1kg5kVS2UKUfNIx8YVs1cN3AV7NTctO5FOKBA+UT2BPJIWZauYHPqJODG50cg==}
+ 
+@@ -1913,9 +1889,6 @@ packages:
+   sax@1.4.1:
+     resolution: {integrity: sha512-+aWOz7yVScEGoKNd4PA10LZ8sk0A/z5+nXQG5giUO5rprX9jgYsTdov9qCchZiPIZezbZH+jRut8nPodFAX4Jg==}
+ 
+-  search-insights@2.17.3:
+-    resolution: {integrity: sha512-RQPdCYTa8A68uM2jwxoY842xDhvx3E5LFL1LxvxCNMev4o5mLuokczhzjAgGwUZBAmOKZknArSxLKmXtIi2AxQ==}
+-
+   section-matter@1.0.0:
+     resolution: {integrity: sha512-vfD3pmTzGpufjScBh50YHKzEu2lxBWhVEHsNGoEXmCmn2hKGfeNLYMzCJpe8cD7gqX7TJluOVpBkAequ6dgMmA==}
+     engines: {node: '>=4'}
+@@ -1948,6 +1921,10 @@ packages:
+     resolution: {integrity: sha512-ZA6oR3T/pEyuqwMgAKT0/hAv8oAXckzbkmR0UkUosQ+Mc4RxGoJkRmwHgHufaenlyAgE1Mxgpdcrf75y6XcnDg==}
+     engines: {node: '>=14.16'}
+ 
++  slimsearch@2.2.2:
++    resolution: {integrity: sha512-C+E3y4sKKzPzcOyty0G9CjXdLvY0ZWPSCQCDNqSv/P6+rvoL6RiHvuwr0wnxf0QgdbdyNiJQ0w7OdudHoabpCg==}
++    engines: {node: '>=18.18.0'}
++
+   source-map-js@1.2.1:
+     resolution: {integrity: sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==}
+     engines: {node: '>=0.10.0'}
+@@ -2018,9 +1995,6 @@ packages:
+   trough@2.2.0:
+     resolution: {integrity: sha512-tmMpK00BjZiUyVyvrBK7knerNgmgvcV/KLVyuma/SC+TQN167GrMRciANTz09+k3zW8L8t60jWO1GpfkZdjTaw==}
+ 
+-  ts-debounce@4.0.0:
+-    resolution: {integrity: sha512-+1iDGY6NmOGidq7i7xZGA4cm8DAa6fqdYcvO5Z6yBevH++Bdo9Qt/mN0TzHUgcCcKv1gmh9+W5dHqz8pMWbCbg==}
+-
+   ts-dedent@2.2.0:
+     resolution: {integrity: sha512-q5W7tVM71e2xjHZTlgfTDoPF/SmqKG5hddq9SzR49CH2hayqRKJtQ4mtRlSxKaJlR/+9rEM+mnBHf7I2/BQcpQ==}
+     engines: {node: '>=6.10'}
+@@ -2038,6 +2012,10 @@ packages:
+     resolution: {integrity: sha512-gBLkYIlEnSp8pFbT64yFgGE6UIB9tAkhukC23PmMDCe5Nd+cRqKxSjw5y54MK2AZMgZfJWMaNE4nYUHgi1XEOw==}
+     engines: {node: '>=18.17'}
+ 
++  undici@7.13.0:
++    resolution: {integrity: sha512-l+zSMssRqrzDcb3fjMkjjLGmuiiK2pMIcV++mJaAc9vhjSGpvM7h43QgP+OAMb1GImHmbPyG2tBXeuyG5iY4gA==}
++    engines: {node: '>=20.18.1'}
++
+   unicorn-magic@0.3.0:
+     resolution: {integrity: sha512-+QBBXBCvifc56fsbuxZQ6Sic3wqqc3WWaqxs58gvJrcOuN83HGTCwz3oS5phzU9LthRNE9VrJCFCLUgHeeFnfA==}
+     engines: {node: '>=18'}
+@@ -2151,6 +2129,14 @@ packages:
+       typescript:
+         optional: true
+ 
++  vue@3.5.18:
++    resolution: {integrity: sha512-7W4Y4ZbMiQ3SEo+m9lnoNpV9xG7QVMLa+/0RFwwiAVkeYoyGXqWE85jabU4pllJNUzqfLShJ5YLptewhCWUgNA==}
++    peerDependencies:
++      typescript: '*'
++    peerDependenciesMeta:
++      typescript:
++        optional: true
++
+   vuepress@2.0.0-rc.23:
+     resolution: {integrity: sha512-XID/zr7qDGLg7oYGwDTZpWRNXCVQcI1wQTfkN0spyumV2EpHe7XBsmnwICd+dTqRNZuD+JHyJsYLEqDEszFObw==}
+     engines: {node: ^18.19.0 || >=20.4.0}
+@@ -2184,111 +2170,6 @@ packages:
+ 
+ snapshots:
+ 
+-  '@algolia/autocomplete-core@1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)(search-insights@2.17.3)':
+-    dependencies:
+-      '@algolia/autocomplete-plugin-algolia-insights': 1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)(search-insights@2.17.3)
+-      '@algolia/autocomplete-shared': 1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)
+-    transitivePeerDependencies:
+-      - '@algolia/client-search'
+-      - algoliasearch
+-      - search-insights
+-
+-  '@algolia/autocomplete-plugin-algolia-insights@1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)(search-insights@2.17.3)':
+-    dependencies:
+-      '@algolia/autocomplete-shared': 1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)
+-      search-insights: 2.17.3
+-    transitivePeerDependencies:
+-      - '@algolia/client-search'
+-      - algoliasearch
+-
+-  '@algolia/autocomplete-preset-algolia@1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)':
+-    dependencies:
+-      '@algolia/autocomplete-shared': 1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)
+-      '@algolia/client-search': 5.25.0
+-      algoliasearch: 5.25.0
+-
+-  '@algolia/autocomplete-shared@1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)':
+-    dependencies:
+-      '@algolia/client-search': 5.25.0
+-      algoliasearch: 5.25.0
+-
+-  '@algolia/client-abtesting@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/client-analytics@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/client-common@5.25.0': {}
+-
+-  '@algolia/client-insights@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/client-personalization@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/client-query-suggestions@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/client-search@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/ingestion@1.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/monitoring@1.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/recommend@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
+-
+-  '@algolia/requester-browser-xhr@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-
+-  '@algolia/requester-fetch@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-
+-  '@algolia/requester-node-http@5.25.0':
+-    dependencies:
+-      '@algolia/client-common': 5.25.0
+-
+   '@babel/helper-string-parser@7.27.1': {}
+ 
+   '@babel/helper-validator-identifier@7.27.1': {}
+@@ -2297,39 +2178,24 @@ snapshots:
+     dependencies:
+       '@babel/types': 7.27.1
+ 
++  '@babel/parser@7.28.0':
++    dependencies:
++      '@babel/types': 7.28.2
++
+   '@babel/types@7.27.1':
+     dependencies:
+       '@babel/helper-string-parser': 7.27.1
+       '@babel/helper-validator-identifier': 7.27.1
+ 
++  '@babel/types@7.28.2':
++    dependencies:
++      '@babel/helper-string-parser': 7.27.1
++      '@babel/helper-validator-identifier': 7.27.1
++
+   '@braintree/sanitize-url@6.0.4': {}
+ 
+   '@bufbuild/protobuf@2.5.0': {}
+ 
+-  '@docsearch/css@3.9.0': {}
+-
+-  '@docsearch/js@3.9.0(@algolia/client-search@5.25.0)(search-insights@2.17.3)':
+-    dependencies:
+-      '@docsearch/react': 3.9.0(@algolia/client-search@5.25.0)(search-insights@2.17.3)
+-      preact: 10.26.7
+-    transitivePeerDependencies:
+-      - '@algolia/client-search'
+-      - '@types/react'
+-      - react
+-      - react-dom
+-      - search-insights
+-
+-  '@docsearch/react@3.9.0(@algolia/client-search@5.25.0)(search-insights@2.17.3)':
+-    dependencies:
+-      '@algolia/autocomplete-core': 1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)(search-insights@2.17.3)
+-      '@algolia/autocomplete-preset-algolia': 1.17.9(@algolia/client-search@5.25.0)(algoliasearch@5.25.0)
+-      '@docsearch/css': 3.9.0
+-      algoliasearch: 5.25.0
+-    optionalDependencies:
+-      search-insights: 2.17.3
+-    transitivePeerDependencies:
+-      - '@algolia/client-search'
+-
+   '@emnapi/runtime@1.4.3':
+     dependencies:
+       tslib: 2.8.1
+@@ -2756,11 +2622,24 @@ snapshots:
+       estree-walker: 2.0.2
+       source-map-js: 1.2.1
+ 
++  '@vue/compiler-core@3.5.18':
++    dependencies:
++      '@babel/parser': 7.28.0
++      '@vue/shared': 3.5.18
++      entities: 4.5.0
++      estree-walker: 2.0.2
++      source-map-js: 1.2.1
++
+   '@vue/compiler-dom@3.5.15':
+     dependencies:
+       '@vue/compiler-core': 3.5.15
+       '@vue/shared': 3.5.15
+ 
++  '@vue/compiler-dom@3.5.18':
++    dependencies:
++      '@vue/compiler-core': 3.5.18
++      '@vue/shared': 3.5.18
++
+   '@vue/compiler-sfc@3.5.15':
+     dependencies:
+       '@babel/parser': 7.27.2
+@@ -2773,11 +2652,28 @@ snapshots:
+       postcss: 8.5.3
+       source-map-js: 1.2.1
+ 
++  '@vue/compiler-sfc@3.5.18':
++    dependencies:
++      '@babel/parser': 7.28.0
++      '@vue/compiler-core': 3.5.18
++      '@vue/compiler-dom': 3.5.18
++      '@vue/compiler-ssr': 3.5.18
++      '@vue/shared': 3.5.18
++      estree-walker: 2.0.2
++      magic-string: 0.30.17
++      postcss: 8.5.6
++      source-map-js: 1.2.1
++
+   '@vue/compiler-ssr@3.5.15':
+     dependencies:
+       '@vue/compiler-dom': 3.5.15
+       '@vue/shared': 3.5.15
+ 
++  '@vue/compiler-ssr@3.5.18':
++    dependencies:
++      '@vue/compiler-dom': 3.5.18
++      '@vue/shared': 3.5.18
++
+   '@vue/devtools-api@6.6.4': {}
+ 
+   '@vue/devtools-api@7.7.6':
+@@ -2802,11 +2698,20 @@ snapshots:
+     dependencies:
+       '@vue/shared': 3.5.15
+ 
++  '@vue/reactivity@3.5.18':
++    dependencies:
++      '@vue/shared': 3.5.18
++
+   '@vue/runtime-core@3.5.15':
+     dependencies:
+       '@vue/reactivity': 3.5.15
+       '@vue/shared': 3.5.15
+ 
++  '@vue/runtime-core@3.5.18':
++    dependencies:
++      '@vue/reactivity': 3.5.18
++      '@vue/shared': 3.5.18
++
+   '@vue/runtime-dom@3.5.15':
+     dependencies:
+       '@vue/reactivity': 3.5.15
+@@ -2814,14 +2719,29 @@ snapshots:
+       '@vue/shared': 3.5.15
+       csstype: 3.1.3
+ 
++  '@vue/runtime-dom@3.5.18':
++    dependencies:
++      '@vue/reactivity': 3.5.18
++      '@vue/runtime-core': 3.5.18
++      '@vue/shared': 3.5.18
++      csstype: 3.1.3
++
+   '@vue/server-renderer@3.5.15(vue@3.5.15)':
+     dependencies:
+       '@vue/compiler-ssr': 3.5.15
+       '@vue/shared': 3.5.15
+       vue: 3.5.15
+ 
++  '@vue/server-renderer@3.5.18(vue@3.5.18)':
++    dependencies:
++      '@vue/compiler-ssr': 3.5.18
++      '@vue/shared': 3.5.18
++      vue: 3.5.18
++
+   '@vue/shared@3.5.15': {}
+ 
++  '@vue/shared@3.5.18': {}
++
+   '@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0)':
+     dependencies:
+       '@vitejs/plugin-vue': 5.2.4(vite@6.3.5(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15)
+@@ -2911,6 +2831,18 @@ snapshots:
+     transitivePeerDependencies:
+       - typescript
+ 
++  '@vuepress/helper@2.0.0-rc.112(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))':
++    dependencies:
++      '@vue/shared': 3.5.18
++      '@vueuse/core': 13.6.0(vue@3.5.18)
++      cheerio: 1.1.2
++      fflate: 0.8.2
++      gray-matter: 4.0.3
++      vue: 3.5.18
++      vuepress: 2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15)
++    transitivePeerDependencies:
++      - typescript
++
+   '@vuepress/highlighter-helper@2.0.0-rc.106(@vueuse/core@13.2.0(vue@3.5.15))(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))':
+     dependencies:
+       vuepress: 2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15)
+@@ -2964,24 +2896,6 @@ snapshots:
+     transitivePeerDependencies:
+       - typescript
+ 
+-  '@vuepress/plugin-docsearch@2.0.0-rc.106(@algolia/client-search@5.25.0)(search-insights@2.17.3)(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))':
+-    dependencies:
+-      '@docsearch/css': 3.9.0
+-      '@docsearch/js': 3.9.0(@algolia/client-search@5.25.0)(search-insights@2.17.3)
+-      '@docsearch/react': 3.9.0(@algolia/client-search@5.25.0)(search-insights@2.17.3)
+-      '@vuepress/helper': 2.0.0-rc.106(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))
+-      '@vueuse/core': 13.2.0(vue@3.5.15)
+-      ts-debounce: 4.0.0
+-      vue: 3.5.15
+-      vuepress: 2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15)
+-    transitivePeerDependencies:
+-      - '@algolia/client-search'
+-      - '@types/react'
+-      - react
+-      - react-dom
+-      - search-insights
+-      - typescript
+-
+   '@vuepress/plugin-git@2.0.0-rc.106(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))':
+     dependencies:
+       '@vuepress/helper': 2.0.0-rc.106(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))
+@@ -3099,6 +3013,18 @@ snapshots:
+     transitivePeerDependencies:
+       - typescript
+ 
++  '@vuepress/plugin-slimsearch@2.0.0-rc.112(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))':
++    dependencies:
++      '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))
++      '@vueuse/core': 13.6.0(vue@3.5.18)
++      cheerio: 1.1.2
++      chokidar: 4.0.3
++      slimsearch: 2.2.2
++      vue: 3.5.18
++      vuepress: 2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15)
++    transitivePeerDependencies:
++      - typescript
++
+   '@vuepress/plugin-theme-data@2.0.0-rc.105(vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15))':
+     dependencies:
+       '@vue/devtools-api': 7.7.6
+@@ -3160,27 +3086,24 @@ snapshots:
+       '@vueuse/shared': 13.2.0(vue@3.5.15)
+       vue: 3.5.15
+ 
++  '@vueuse/core@13.6.0(vue@3.5.18)':
++    dependencies:
++      '@types/web-bluetooth': 0.0.21
++      '@vueuse/metadata': 13.6.0
++      '@vueuse/shared': 13.6.0(vue@3.5.18)
++      vue: 3.5.18
++
+   '@vueuse/metadata@13.2.0': {}
+ 
++  '@vueuse/metadata@13.6.0': {}
++
+   '@vueuse/shared@13.2.0(vue@3.5.15)':
+     dependencies:
+       vue: 3.5.15
+ 
+-  algoliasearch@5.25.0:
+-    dependencies:
+-      '@algolia/client-abtesting': 5.25.0
+-      '@algolia/client-analytics': 5.25.0
+-      '@algolia/client-common': 5.25.0
+-      '@algolia/client-insights': 5.25.0
+-      '@algolia/client-personalization': 5.25.0
+-      '@algolia/client-query-suggestions': 5.25.0
+-      '@algolia/client-search': 5.25.0
+-      '@algolia/ingestion': 1.25.0
+-      '@algolia/monitoring': 1.25.0
+-      '@algolia/recommend': 5.25.0
+-      '@algolia/requester-browser-xhr': 5.25.0
+-      '@algolia/requester-fetch': 5.25.0
+-      '@algolia/requester-node-http': 5.25.0
++  '@vueuse/shared@13.6.0(vue@3.5.18)':
++    dependencies:
++      vue: 3.5.18
+ 
+   ansi-regex@6.1.0: {}
+ 
+@@ -3265,6 +3188,20 @@ snapshots:
+       undici: 6.21.3
+       whatwg-mimetype: 4.0.0
+ 
++  cheerio@1.1.2:
++    dependencies:
++      cheerio-select: 2.1.0
++      dom-serializer: 2.0.0
++      domhandler: 5.0.3
++      domutils: 3.2.2
++      encoding-sniffer: 0.2.1
++      htmlparser2: 10.0.0
++      parse5: 7.3.0
++      parse5-htmlparser2-tree-adapter: 7.1.0
++      parse5-parser-stream: 7.1.2
++      undici: 7.13.0
++      whatwg-mimetype: 4.0.0
++
+   chokidar@3.6.0:
+     dependencies:
+       anymatch: 3.1.3
+@@ -3277,6 +3214,10 @@ snapshots:
+     optionalDependencies:
+       fsevents: 2.3.3
+ 
++  chokidar@4.0.3:
++    dependencies:
++      readdirp: 4.1.2
++
+   cli-cursor@5.0.0:
+     dependencies:
+       restore-cursor: 5.1.0
+@@ -3563,6 +3504,11 @@ snapshots:
+       iconv-lite: 0.6.3
+       whatwg-encoding: 3.1.1
+ 
++  encoding-sniffer@0.2.1:
++    dependencies:
++      iconv-lite: 0.6.3
++      whatwg-encoding: 3.1.1
++
+   entities@4.5.0: {}
+ 
+   entities@6.0.0: {}
+@@ -3730,6 +3676,13 @@ snapshots:
+ 
+   html-void-elements@3.0.0: {}
+ 
++  htmlparser2@10.0.0:
++    dependencies:
++      domelementtype: 2.3.0
++      domhandler: 5.0.3
++      domutils: 3.2.2
++      entities: 6.0.0
++
+   htmlparser2@9.1.0:
+     dependencies:
+       domelementtype: 2.3.0
+@@ -4135,7 +4088,11 @@ snapshots:
+       picocolors: 1.1.1
+       source-map-js: 1.2.1
+ 
+-  preact@10.26.7: {}
++  postcss@8.5.6:
++    dependencies:
++      nanoid: 3.3.11
++      picocolors: 1.1.1
++      source-map-js: 1.2.1
+ 
+   prismjs@1.30.0: {}
+ 
+@@ -4149,6 +4106,8 @@ snapshots:
+     dependencies:
+       picomatch: 2.3.1
+ 
++  readdirp@4.1.2: {}
++
+   regex-recursion@6.0.2:
+     dependencies:
+       regex-utilities: 2.3.0
+@@ -4323,8 +4282,6 @@ snapshots:
+ 
+   sax@1.4.1: {}
+ 
+-  search-insights@2.17.3: {}
+-
+   section-matter@1.0.0:
+     dependencies:
+       extend-shallow: 2.0.1
+@@ -4384,6 +4341,8 @@ snapshots:
+ 
+   slash@5.1.0: {}
+ 
++  slimsearch@2.2.2: {}
++
+   source-map-js@1.2.1: {}
+ 
+   space-separated-tokens@2.0.2: {}
+@@ -4444,8 +4403,6 @@ snapshots:
+ 
+   trough@2.2.0: {}
+ 
+-  ts-debounce@4.0.0: {}
+-
+   ts-dedent@2.2.0: {}
+ 
+   tslib@2.8.1: {}
+@@ -4456,6 +4413,8 @@ snapshots:
+ 
+   undici@6.21.3: {}
+ 
++  undici@7.13.0: {}
++
+   unicorn-magic@0.3.0: {}
+ 
+   unified@11.0.5:
+@@ -4557,6 +4516,14 @@ snapshots:
+       '@vue/server-renderer': 3.5.15(vue@3.5.15)
+       '@vue/shared': 3.5.15
+ 
++  vue@3.5.18:
++    dependencies:
++      '@vue/compiler-dom': 3.5.18
++      '@vue/compiler-sfc': 3.5.18
++      '@vue/runtime-dom': 3.5.18
++      '@vue/server-renderer': 3.5.18(vue@3.5.18)
++      '@vue/shared': 3.5.18
++
+   vuepress@2.0.0-rc.23(@vuepress/bundler-vite@2.0.0-rc.23(@types/node@22.15.21)(sass-embedded@1.89.0))(vue@3.5.15):
+     dependencies:
+       '@vuepress/cli': 2.0.0-rc.23
+diff --git a/task b/task
+index 68c45bd8..92323f8f 100755
+--- a/task
++++ b/task
+@@ -30,6 +30,14 @@ function help() {
+     printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
+ }
+ 
++if [ -d "$HOME/taskfile.build/bin" ]; then
++    for file in "$HOME/taskfile.build/bin/"*; do
++        if [ -f "$file" ]; then
++            source "$file"
++        fi
++    done
++fi
++
+ function review-notes() {
+     VAULT_PATH="$(pwd)"
+     REVIEW_LOG="$VAULT_PATH/review-note.csv"
+@@ -63,7 +71,7 @@ function review-notes() {
+     echo "Encode '$NOTE_NAME' to '$ENCODED_FILE'"
+     echo "Opening obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE"
+     obsidian "obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE" &
+-    
++
+     echo "Log the review."
+     echo "\"$NOTE_NAME\",\"$TIMESTAMP\"" >> "$REVIEW_LOG"
+ }
