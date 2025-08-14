@@ -9,3 +9,4 @@ node_modules
 .cache
 .obsidian/appearance.json
 src
+tmp
