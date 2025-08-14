@@ -30,6 +30,14 @@ function help() {
     printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
 }
 
+if [ -d "$HOME/taskfile.build/bin" ]; then
+    for file in "$HOME/taskfile.build/bin/"*; do
+        if [ -f "$file" ]; then
+            source "$file"
+        fi
+    done
+fi
+
 function review-notes() {
     VAULT_PATH="$(pwd)"
     REVIEW_LOG="$VAULT_PATH/review-note.csv"
@@ -63,7 +71,7 @@ function review-notes() {
     echo "Encode '$NOTE_NAME' to '$ENCODED_FILE'"
     echo "Opening obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE"
     obsidian "obsidian://open?vault=$(basename "$PWD")&file=$ENCODED_FILE" &
-    
+
     echo "Log the review."
     echo "\"$NOTE_NAME\",\"$TIMESTAMP\"" >> "$REVIEW_LOG"
 }
