@@ -2,7 +2,7 @@
 lang: en
 tags:
   - Specification
-draft: true
+deprecated: true
 ---
 # Specification Website Sale Kubernetes Subscription OCA
 

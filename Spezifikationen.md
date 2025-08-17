@@ -7,9 +7,17 @@ kind: reference
 
 Die folgenden Spezifikationen sind öffentlich und Teil von Mint System Innovationen.
 
+Draft:
+
 * [[Specification Git Kubernetes]]
-* [[Specification Website Sale Kubernetes Subscription OCA]]
-* [[Specification Social Mastodon]]
 * [[Specification Uri Cloud]]
+
+Released:
+
+* [[Specification Social Mastodon]]
 * [[Specification Website Sale Helm]]
+
+Deprecated:
+
+* [[Specification Website Sale Kubernetes Subscription OCA]]
 * [[Specification Website Sale Open Service Broker]]
