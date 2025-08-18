@@ -17,4 +17,4 @@ Arbeitsschritte:
 	* **Betriebssystem**: Das [[Betriebssystem#Server]] bestimmen. Empfohlen ist [[Debian]].
 	* **Service-Domains**: Unter welcher Host-Adresse sind Applikationen erreichbar. Beispiel: `Odoo: $SUBDOMAIN.example.com`
 	* **DNS-Verwaltung**: Wer muss zum Einrichten der DNS-Einträge kontaktiert werden
-* Erstellen Aufgabe in Kundenprojekt und zuweisen an Infrastruktur.
+* Erstellen Aufgabe in Kundenprojekt und zuweisen an [[Kreis Infrastruktur]].

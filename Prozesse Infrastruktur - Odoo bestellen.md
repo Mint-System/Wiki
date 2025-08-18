@@ -13,15 +13,15 @@ Bestellung einer Odoo-Installation.
 Arbeitsschritte:
 
 * Zusammenstellen Informationen Kunde:
-	* **Host**: Unter welcher Host-Adresse ist Odoo erreichbar? Beispiel: `erp.example.com`. 
-	* **Admin-Account**: Auf welche E-Mail-Adresse soll der Admin-Account lauten?   
-	* **Service-Account**: Zugangsdaten zu einem Service-Mail-Account für eingehende und ausgehende E-Mail Integration. Beispiel: `email: mailbot@example.com, password: pass1234, smtp-address: smtp.example.com:25, security: tls`.
+	* **Host**: Unter welcher Host-Adresse ist Odoo erreichbar? Beispiel: `erp.example.com`
+	* **Admin-Account**: Auf welche E-Mail-Adresse soll der Admin-Account lauten?
+	* **Service-Account**: Zugangsdaten zu einem Service-Mail-Account für eingehende und ausgehende E-Mail Integration. Beispiel: `email: mailbot@example.com, password: pass1234, smtp-address: smtp.example.com:25, security: tls`
 	* **Subscription-Code**: Wenn es eine Odoo-Enterprise-Installation, braucht es den Subscription-Code um die Odoo-Umgebung zu aktivieren.
 	* **Liste der Apps**: Welche Enterprise-Apps sollen initial aktiviert werden?
 	* **Sprachpaket**: Welche Sprachpakete sollen installiert werden?
-	* **Testumgebung**: Benötigt der Kunde eine [[Odoo Testumgebung|Testumgebung]]? Wenn ja, unter welcher URL soll diese erreichbar sein? Beispiel: `erp-dev.example.com`.
+	* **Testumgebung**: Benötigt der Kunde eine [[Odoo Testumgebung|Testumgebung]]? Wenn ja, unter welcher URL soll diese erreichbar sein? Beispiel: `erp-dev.example.com`
 * Erstellen Aufgabe in Kundenprojekt mit Kundeninformationen
-* Zuweisen an [[Kreis Infrastruktur]]
+* Aufgabe an [[Kreis Infrastruktur]] zuweisen
 
 ## DNS-Einträge und Postfach anfragen
 
@@ -41,7 +41,7 @@ dig $DOMAIN_KUNDE MX
 
 * Mit diesen Angaben einen Vorschlag für DNS und Postfach machen:
 
-```md
+```markdown
 Guten Tag
 
 Wir möchten gerne Ihre Odoo-Instanz bereitstellen. Dazu brauchen wir technische Konfigurationen von ihrer Seite.

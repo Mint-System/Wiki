@@ -17,5 +17,5 @@ Arbeitsschritte:
 	* **Collabora Domain**: Unter welcher Adresse soll Collabora erreichbar sein? Empfehlung: `doc.example.com`
 	* **Mail-Account**: Zugangsdaten zu einem Service-Mail-Account zum Versand von Mails durch Nextcloud. Beispiel: `email: cloud@example.com, password: pass1234, server: smtp.example.com:587, security: tls`. Bei Bedarf kann auch Mint System einen Account zur Verfügung stellen.
 * Erstellen Aufgabe in Kundenprojekt mit Kundeninformationen
-* Zuweisen an [[Kreis Infrastruktur]]
+* Aufgabe an [[Kreis Infrastruktur]] zuweisen
 
