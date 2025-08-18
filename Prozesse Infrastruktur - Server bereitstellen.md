@@ -11,8 +11,9 @@ Bereitstellung eines neuen Server.
 ## Server bei Hetzner erstellen
 
 Arbeitsschritte:
+
 * Im Portal von [[Hetzner]] einloggen
-* Server an Standort in nähe Schweiz gemäss [[Managed Server Kalkulation]] auswählen
+* Server gemäss [[Managed Server Kalkulation]] erstellen
 * Volume mit Name `$ALIAS.mint-system.com` erstellen
 * SSH-Key auswählen
 * Als Name `$ALIAS.mint-system.com` eingeben
@@ -20,6 +21,7 @@ Arbeitsschritte:
 ## Server mit Ansible bereitstellen
 
 Arbeitsschritte:
+
 * Alias und Hostname in `setup/hosts.yml` Inventory erfassen
 * Sicherheitsregeln für SSH-Port prüfen
 * Bereitstellung mit `plays/setup.yml` Playbook
@@ -38,6 +40,7 @@ rg -I "^nginx_hostname: nginx" inventories  | sort -h
 ## Passwordless Sudo einrichten
 
 Arbeitsschritte:
+
 * Einloggen auf Server mit Benutzername und Login
 * Erstellen Eintrag `$USERNAME ALL=(ALL) NOPASSWD: ALL` in `/etc/sudoers`
 * Session neustarten und Passwordless Sudo testen

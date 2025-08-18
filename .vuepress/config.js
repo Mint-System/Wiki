@@ -1,7 +1,6 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
 import { slimsearchPlugin } from '@vuepress/plugin-slimsearch'
-import { searchPlugin } from '@vuepress/plugin-search'
 import { plausiblePlugin } from './plausible'
 import { mermaidPlugin } from './mermaid'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
