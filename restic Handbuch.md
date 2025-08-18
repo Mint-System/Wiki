@@ -27,7 +27,6 @@ restic -r /mnt/kronos-disk2/pan forget $SNAPSHOT_ID
 restic -r /mnt/kronos-disk2/pan prune
 ```
 
-
 ## Alle Snapshots enfernen
 
 Standardmässig groupiert restic die Snaphosts. Damit Snapshots über alle Gruppen hinweg entfern werden, verwendet den `--group-by` Parameter:
