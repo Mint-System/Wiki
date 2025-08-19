@@ -36,7 +36,7 @@ task template-repo addons/$REPO
 
 * Änderungen committen
 
-```bash'
+```bash
 git add --all
 git commit -m "feat: init $TARGET_VERSION"
 git push --set-upstream origin $TARGET_VERSION
