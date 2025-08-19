@@ -17,6 +17,7 @@ cd addons/$REPO
 ```
 
 * Neuer Branch erstellen
+
 ```bash
 git switch --orphan $TARGET_VERSION
 ```
@@ -35,10 +36,10 @@ task template-repo addons/$REPO
 
 * Änderungen committen
 
-```bash
+```bash'
 git add --all
 git commit -m "feat: init $TARGET_VERSION"
-git push --set-upstream origin $TARGET_VERSION"
+git push --set-upstream origin $TARGET_VERSION
 ```
 
 * Submodule auf Odoo Build hinzufügen
@@ -73,11 +74,17 @@ git checkout $SOURCE_VERSION $MODULE`
 task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION
 ```
 
-* Modul- und Repo-README aktualisieren
+* Generate module doc file.
 
 ```bash
 task generate-module-docs addons/$REPO/$MODULE
-task update-repo-docs addons/$REPO
+```
+
+* Modul linten und Repo aktualisieren:
+
+```bash
+cd addons/$REPO/
+task all
 ```
 
 * Modul installieren und testen
@@ -105,12 +112,6 @@ task update-with-llm addons/$REPO/$MODULE/views/*.xml "$PROMPT"
 ```
 
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
-* Modul linten und anpassen:
-
-```bash
-task lint-module addons/$REPO/$MODULE
-```
-
 * Migration committen
 
 ```bash
