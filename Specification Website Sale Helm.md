@@ -61,7 +61,6 @@ Name: `chart.release`
 * `namespace_id`: Namespace the release is connected to.
 * `chart_id`: Links the chart.
 * `values`: Content of customer specific `values.yaml`
-* `manifest`: Content of the templated Chart files.
 
 Once a  release is installed, the admin can edit the `values` and upgrade the release. For the customer portal there will be explicit fields and validations to change the content of `vaules`.
 
@@ -73,7 +72,7 @@ Name: `helm.chart.value`
 
 * `chart_id`: References the helm chart .
 * `path`: Path expression of the value key.
-* `code`: Python expression that defines the value. Has access to `sale_id` and `chart_id`.
+* `value`: Python expression that defines the value. Has access to `sale_id` and `chart_id`.
 * `field_id`: Instead of applied to a `values.yaml` the value is applied to a release field. 
 
 The chart values are evaluated once.
