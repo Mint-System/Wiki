@@ -16,5 +16,5 @@ Diese Secrets stehen allen Repos der Organisation zur Verfügung:
 * `SSH_PUBLIC_KEY_MINTBOT`: Clear text public key
 * `SSH_PRIVATE_KEY_MINTBOT`: Base64 encoded private key
 * `ODOO_ENTERPRISE_CODE`: Odoo Enterprise subscription code
-* `GITHUB_TOKEN_MINTBOT`: GitHub PAT
+* `GITHUB_TOKEN_MINTBOT`: GitHub PAT of [[Mint Bot]]
 * `DOCKER_PAT`: Docker Hub PAT with read/write access
