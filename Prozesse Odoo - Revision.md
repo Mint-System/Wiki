@@ -15,6 +15,7 @@ Arbeitsschritte:
 * Neuster Release-Tag notieren
 * Neuer Eintrag in [[Odoo Build]] mit Release-Tag erstellen `task create-revision 18.0.20250819`
 * Release commiten `task commit-revision`
+* Mit tags pushen `git push --tags`
 
 ## Odoo Revision installieren
 
