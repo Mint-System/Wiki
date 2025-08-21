@@ -10,7 +10,7 @@ kind:
 ---
 date: {{DATE}}
 author: {{VALUE:author}}
-type: worklog
+kind: worklog
 ---
 # {{NAME}}
 

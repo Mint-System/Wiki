@@ -11,7 +11,7 @@ kind:
 state: open
 date: {{DATE}}
 author: {{VALUE:author}}
-type: issue
+kind: issue
 ---
 # {{NAME}}
 

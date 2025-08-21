@@ -11,7 +11,7 @@ kind:
 date: {{DATE}}
 participants:
 {{VALUE:participants}}
-type: weekly
+kind: weekly
 ---
 ```js quickadd
 const selectedParticipants = await this.quickAddApi.checkboxPrompt(

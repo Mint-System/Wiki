@@ -11,7 +11,7 @@ kind:
 date: {{DATE}}
 participants:
 {{VALUE:participants}}
-type: meeting
+kind: meeting
 ---
 ```js quickadd
 const enteredParticipants = [];
