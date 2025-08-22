@@ -38,8 +38,8 @@ task template-repo addons/$REPO
 
 ```bash
 git add --all
-git commit -m "feat: init $TARGET_VERSION"
-git push --set-upstream origin $TARGET_VERSION
+git commit -m "feat: init $(git branch --show-current)"
+git push --set-upstream origin $(git branch --show-current)
 ```
 
 * Submodule auf Odoo Build hinzufügen
@@ -71,7 +71,7 @@ git checkout $SOURCE_VERSION $MODULE`
 * Modul-Code und Version in `__manifest__.py` aktualisieren
 
 ```bash
-task upgrade-module addons/$REPO/$MODULE $SOURCE_VERSION
+task upgrade-module addons/$REPO/$MODULE
 ```
 
 * Generate module doc file.
@@ -96,7 +96,7 @@ task init-module addons/$REPO/$MODULE
 * If required migrate the attrs definition with this prompt.
 
 ```bash
-PROMPT=$(cat << EOF
+TASK=$(cat << EOF
 Migrate this view from Odoo 16.0 to 17.0. For example:
 <field name="test_field_1" attrs="{'invisible': [('active', '=', True)]}"/>
 <field name="test_field_2" attrs="{'invisible': [('zip', '!=', 123)]}"/>
@@ -108,7 +108,7 @@ To:
 EOF
 )
 
-task update-with-llm addons/$REPO/$MODULE/views/*.xml "$PROMPT"
+task update-with-llm addons/$REPO/$MODULE/views/*.xml "$TASK"
 ```
 
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
