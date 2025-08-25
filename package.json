@@ -1,6 +1,7 @@
 {
   "name": "wiki",
   "scripts": {
+    "docs": "node generate-base-views.js",
     "build": "node build.js && vuepress build src",
     "vue-build": "vuepress build src",
     "dev": "vuepress dev src"
@@ -17,5 +18,9 @@
     "sharp": "^0.33.5",
     "vue": "^3.5.15",
     "vuepress": "^2.0.0-rc.23"
+  },
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "js-yaml": "^4.1.0"
   }
 }

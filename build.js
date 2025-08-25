@@ -12,11 +12,186 @@ sitemap
 */
 
 // settings
-const debug = process.env.DEBUG == 'true'
-const ignoreFiles = ['_navbar.md', '_sidbar.md']
-const scheme = 'https://'
-const hostname = 'wiki.mint-system.ch'
-const basePath = '/'
+const fs = require('fs');
+const path = require('path');
+const yaml = require('js-yaml');
+const fm = require('front-matter');
+
+// === Configuration ===
+const ignoreFiles = [
+  'README.md',
+  'CONTRIBUTING.md',
+  // Add more filenames here to exclude from processing
+];
+
+// === Read .md files (excluding ignored ones) ===
+function loopMdFiles() {
+  return fs.readdirSync(__dirname)
+    .filter(file => path.extname(file) === '.md')
+    .filter(file => ignoreFiles.indexOf(file) === -1); // Fixed: was incorrectly using != 0
+}
+
+// === Load and parse all markdown files with frontmatter ===
+function readMarkdownFiles() {
+  const filesData = [];
+  const mdFiles = loopMdFiles();
+
+  mdFiles.forEach(file => {
+    const filePath = path.join(__dirname, file);
+    const content = fs.readFileSync(filePath, 'utf8');
+    const parsed = fm(content);
+    const fileNameWithoutExt = path.parse(file).name;
+
+    const data = { ...parsed.attributes };
+    data.file = { name: fileNameWithoutExt }; // Add file.name for filtering
+    filesData.push(data);
+  });
+
+  console.log(`✅ Loaded ${filesData.length} .md files (ignored: ${ignoreFiles.join(', ')})`);
+  return filesData;
+}
+
+// === Evaluate condition (e.g., file.name.startsWith("Prozess")) ===
+function evaluateCondition(obj, condition) {
+  for (const [key, value] of Object.entries(condition)) {
+    if (key === 'file.name.startsWith' && typeof value === 'string') {
+      return obj.file.name.startsWith(value);
+    }
+  }
+  return false;
+}
+
+// === Recursively evaluate filter (supports 'or', 'and') ===
+function evaluateFilter(obj, filterNode) {
+  if (!filterNode || typeof filterNode !== 'object') return false;
+
+  if ('or' in filterNode) {
+    return Array.isArray(filterNode.or) && filterNode.or.some(cond => evaluateFilter(obj, cond));
+  }
+
+  if ('and' in filterNode) {
+    return Array.isArray(filterNode.and) && filterNode.and.every(cond => evaluateFilter(obj, cond));
+  }
+
+  return evaluateCondition(obj, filterNode);
+}
+
+// === Apply filters to data ===
+function applyFilters(dataList, filters) {
+  if (!filters || Object.keys(filters).length === 0) return dataList;
+  return dataList.filter(item => evaluateFilter(item, filters));
+}
+
+// === Sort data based on sort config ===
+function sortData(data, sortConfig, fallbackOrder) {
+  const sortFields = sortConfig.length ? sortConfig.map(s => s.property) : fallbackOrder;
+  const reverse = sortConfig.some(s => s.direction === 'DESC');
+
+  return data.sort((a, b) => {
+    const keyA = sortFields.map(f => {
+      if (f === 'file.name') return a.file.name;
+      let val = a[f]; return Array.isArray(val) ? val.join(', ') : (val ?? '');
+    });
+    const keyB = sortFields.map(f => {
+      if (f === 'file.name') return b.file.name;
+      let val = b[f]; return Array.isArray(val) ? val.join(', ') : (val ?? '');
+    });
+
+    for (let i = 0; i < keyA.length; i++) {
+      if (keyA[i] < keyB[i]) return reverse ? 1 : -1;
+      if (keyA[i] > keyB[i]) return reverse ? -1 : 1;
+    }
+    return 0;
+  });
+}
+
+// === Generate Markdown table ===
+function generateMarkdownTable(data, columns) {
+  if (data.length === 0) {
+    return '| No results |\n|------------|\n| - |\n';
+  }
+
+  const header = '| ' + columns.map(col => {
+    if (col === 'file.name') return 'File Name';
+    return col.charAt(0).toUpperCase() + col.slice(1);
+  }).join(' | ') + ' |';
+
+  const separator = '|' + columns.map(() => ' --- ').join('|') + '|';
+
+  const rows = data.map(item => {
+    const values = columns.map(col => {
+      if (col === 'file.name') return item.file.name;
+      let value = item[col];
+      return Array.isArray(value) ? value.join(', ') : (value ?? '');
+    });
+    return '| ' + values.join(' | ') + ' |';
+  });
+
+  return [header, separator, ...rows].join('\n');
+}
+
+// === Process all *.base files in /bases ===
+function processBaseFiles(allData) {
+  const baseDir = path.join(__dirname, 'bases');
+
+  if (!fs.existsSync(baseDir)) {
+    console.error(`❌ Directory '${baseDir}' not found. Please create it and add .base files.`);
+    return;
+  }
+
+  const baseFiles = fs.readdirSync(baseDir)
+    .filter(file => path.extname(file) === '.base');
+
+  if (baseFiles.length === 0) {
+    console.log(`🟡 No .base files found in ${baseDir}`);
+    return;
+  }
+
+  baseFiles.forEach(baseFileName => {
+    const basePath = path.join(baseDir, baseFileName);
+    const content = fs.readFileSync(basePath, 'utf8');
+
+    // Extract frontmatter
+    const frontmatterMatch = content.match(/^---[\r\n]([\s\S]*?)[\r\n]---/);
+    if (!frontmatterMatch) {
+      console.log(`⚠️ No frontmatter in ${baseFileName}, skipping.`);
+      return;
+    }
+
+    let viewConfig;
+    try {
+      viewConfig = yaml.load(frontmatterMatch[1]);
+    } catch (e) {
+      console.error(`❌ YAML error in ${baseFileName}:`, e.message);
+      return;
+    }
+
+    const views = Array.isArray(viewConfig.views) ? viewConfig.views : [];
+    const baseName = path.parse(baseFileName).name;
+    const outputFileName = `${baseName}.base.md`; // e.g., Prozesse.base.md
+
+    views.forEach((view, i) => {
+      const name = view.name || 'View';
+      const filters = view.filters || {};
+      const orderFields = view.order || [];
+      const sortConfig = Array.isArray(view.sort) ? view.sort : [];
+
+      let filteredData = applyFilters(allData, filters);
+      filteredData = sortData(filteredData, sortConfig, orderFields);
+
+      const tableMd = generateMarkdownTable(filteredData, orderFields);
+
+      fs.writeFileSync(outputFileName, `# ${name}\n\n${tableMd}\n`, 'utf8');
+      console.log(`✅ Generated: ${outputFileName}`);
+    });
+  });
+}
+
+// === Main ===
+function main() {
+  const allData = readMarkdownFiles();
+  process
+
 const basePathAttachments = './'
 const targetPath = './src/'
 const uriSuffix = '.html'
@@ -85,7 +260,7 @@ function mapColor(color) {
         6: '#795fac'
     }
     let appliedColor = colors[0]
-    
+
     if (color && (0 < color.length < 2)) {
         appliedColor = colors[color]
     }
@@ -109,7 +284,7 @@ function renderEdge(edge) {
     let marker = `marker-end="url(#arrow-end-${id})"`
     let fromOffset = 1
     let toOffset = 11
-    let fromX = edge['fromX'] 
+    let fromX = edge['fromX']
     let fromY = edge['fromY']
     let toX = edge['toX']
     let toY = edge['toY']
@@ -156,7 +331,7 @@ function renderEdge(edge) {
     // Add label if is set
 
     if(edge['label']) {
-        
+
         // Calculate position of label
         let labelText = edge['label']
         let labelLength = labelText.length
@@ -175,8 +350,8 @@ function renderEdge(edge) {
         let labelWidth = labelLength*4
         let labelX = fromX - labelWidth
         let labelY = fromY
-        
-        if (toX < fromX) {            
+
+        if (toX < fromX) {
             labelX -= Math.abs(toX - fromX)/2
         }
         if (toX > fromX) {
@@ -191,7 +366,7 @@ function renderEdge(edge) {
 
         if (debug) {
             console.log(`${edge['label']}: X:${labelX}/Y:${labelY} from X:${fromX}/Y:${fromY} to X:${toX}/Y:${toY}`)
-        }        
+        }
 
         if (debug) {
             labelText += ` (${labelX}/${labelY})`
@@ -212,7 +387,7 @@ function renderEdge(edge) {
             }
             labelText = spans
         }
-        
+
         // Adjust position of background
         rectX = labelX - 4
         rectY = labelY - textHeight + 4
@@ -266,7 +441,7 @@ function renderNode(node) {
     // Render default text
 
     if (plainText) {
-        
+
         // Compare text length to node length
         if ((plainText.length / node['width']) >= 0.09 && plainText.split('\n').length == 1) {
             textOffsetY = 0
@@ -313,7 +488,7 @@ function renderNode(node) {
         textOffsetY = 10
         content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>`
     }
-    
+
     // Render image
 
     if (node['file'] && !node['file'].endsWith('.md')) {
@@ -357,7 +532,7 @@ function convertCanvasToSVG(content) {
 
     let svg = ""
     svg += '<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n'
-    svg += '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">\n'    
+    svg += '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">\n'
 
     // Calculate view box position
 
@@ -402,7 +577,7 @@ function convertCanvasToSVG(content) {
     // Add view box
 
     const spacing = 50
-    
+
     svg += `<svg viewBox="${minX-spacing} ${minY-spacing} ${width+spacing*2} ${height+spacing*2}" xmlns="http://www.w3.org/2000/svg">\n`
 
     // Render group as rect
@@ -433,7 +608,7 @@ function convertCanvasToSVG(content) {
             fromY = fromNode['y'] + fromNode['height'] / 2
         }
         if (fromSide === 'bottom') {
-            fromX = fromNode['x'] + fromNode['width'] / 2 
+            fromX = fromNode['x'] + fromNode['width'] / 2
             fromY = fromNode['y'] + fromNode['height']
         }
         if (fromSide === 'left') {
@@ -447,14 +622,14 @@ function convertCanvasToSVG(content) {
         edge['fromX'] = fromX
         edge['fromY'] = fromY
 
-        // Calculate x and y position of arrow target        
+        // Calculate x and y position of arrow target
 
         if (toSide === 'right') {
             toX = toNode['x'] + toNode['width']
             toY = toNode['y'] + toNode['height'] / 2
         }
         if (toSide === 'bottom') {
-            toX = toNode['x'] + toNode['width'] / 2 
+            toX = toNode['x'] + toNode['width'] / 2
             toY = toNode['y'] + toNode['height']
         }
         if (toSide === 'left') {
@@ -552,7 +727,7 @@ function convert(content, file) {
             href = match.match(/\[\[([^\||#]*)/)[1]
             title = match.match(/\|(.*)\]\]/)[1]
         }
-        
+
         // Sanitize href
         href = sanitizeName(href ? href : file.replace('\.md', ''))
 
@@ -617,7 +792,7 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
 
 
 if (!firstArg || ['all', 'canvas'].indexOf(firstArg) > 0) {
-        
+
     // log
     console.log('Convert canvas files ...')
 
@@ -629,7 +804,7 @@ if (!firstArg || ['all', 'canvas'].indexOf(firstArg) > 0) {
 
         // Get content
         let content = fs.readFileSync(file, 'utf8')
-        
+
         content = convertCanvasToSVG(JSON.parse(content))
 
         fs.writeFileSync(targetPath + fileName + '.svg', content)
@@ -703,7 +878,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
 }
 
 if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
-    
+
     // log
     console.log('Build glossary ...')
 
@@ -723,7 +898,7 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
         })
         content.push('\n')
     })
-    
+
     // write content to index file
     fs.writeFileSync(targetPath + 'glossary.md', content.join(''), 'utf8')
 
@@ -732,7 +907,7 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
 }
 
 if (!firstArg || ['all', 'attachments'].indexOf(firstArg) > 0) {
-    
+
     // log
     console.log('Move attachments ...')
 
@@ -751,7 +926,7 @@ if (!firstArg || ['all', 'attachments'].indexOf(firstArg) > 0) {
 }
 
 if (!firstArg || ['all', 'sitemap'].indexOf(firstArg) > 0) {
-    
+
     // log
     console.log('Build sitemap ...')
 
@@ -760,7 +935,7 @@ if (!firstArg || ['all', 'sitemap'].indexOf(firstArg) > 0) {
         href = sanitizeName(file.replace('\.md', ''))
         content.push(`${scheme}${hostname}${basePath}${href}${uriSuffix}\n`)
     })
-    
+
     // write content to index file
     fs.writeFileSync('.vuepress/public/sitemap.txt', content.join(''), 'utf8')
 
