@@ -12,3 +12,5 @@ views:
     sort:
       - property: file.name
         direction: DESC
+    columnSize:
+      file.name: 610
