@@ -1,8 +1,6 @@
 ---
-tags:
-  - Definition
 kind:
-  - explain
+  - reference
 lang: en
 ---
 # Large Language Models
