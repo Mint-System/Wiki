@@ -2,6 +2,6 @@
 tags:
 - Definition
 ---
-# terra
+# terra computer
 
 Website: <https://terra-computer.ch>

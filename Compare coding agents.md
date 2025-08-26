@@ -14,9 +14,8 @@ This is the prompt.
 
 ```
 I would like to process the view definition files in the `./bases` folder and output them as markdown table.
-Currently there is only one file, but there will be many more.
 The input data for the views are the markdown files and their frontmatter data.
-Have a look at `./Prozesse.base.md` to see the expected output.
+Have a look at `./Prozesse.base.md` to see an example output.
 Can you complete the `./generate-base-views.js` file?
 Use `js-yaml` to read the bases file.
 Use `gray-matter` to read the frontmatter of the markdown files.
@@ -25,6 +24,7 @@ To process the markdown files create a list of objects with attributes.
 Don't hardcode the field names of the view defintions.
 Only add comments for functions and for loops.
 Use pnpm instead of npm.
+Don't output the content of the markdown files in the markdown table.
 ```
 
 ## Execution
@@ -33,6 +33,6 @@ I used [[Qwen Coder]] and the [[Infomaniak AI Tools]] to execute the prompt.
 
 ## Results
 
-qwen3-coder-plus: Was not able to complete request. Ends up with syntax issues it is not able solve.
+qwen3-coder-plus: Often produced syntax errors. Took many interations.
 
 Qwen3-235B-A22B-Instruct-2507: Used libraries not asked to use.

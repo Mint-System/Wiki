@@ -6,7 +6,7 @@ tags:
 
 ## Lieferant
 
-Wir beziehen Hardware vorzugsweise von [[terra]].
+Wir beziehen Hardware vorzugsweise von [[terra computer]].
 
 ## Laptop
 

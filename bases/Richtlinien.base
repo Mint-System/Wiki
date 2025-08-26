@@ -2,13 +2,12 @@ views:
   - type: table
     name: Table
     filters:
-      or:
-        - file.name.startsWith("Prozess")
-        - file.name.startsWith("Process")
+      and:
+        - file.name.startsWith("Richtlinie")
+        - file.ext == "md"
     order:
       - file.name
       - kind
-      - tags
     sort:
       - property: file.name
         direction: DESC

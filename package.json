@@ -17,10 +17,7 @@
     "sass-embedded": "^1.89.0",
     "sharp": "^0.33.5",
     "vue": "^3.5.15",
-    "vuepress": "^2.0.0-rc.23"
-  },
-  "dependencies": {
-    "front-matter": "^4.0.2",
+    "vuepress": "^2.0.0-rc.23",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0"
   }
