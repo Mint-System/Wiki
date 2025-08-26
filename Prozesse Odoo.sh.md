@@ -18,4 +18,4 @@ Technische Dokumentation der Odoo.sh Prozesse.
 
 ## Upgrade
 
-* [[Prozess Odoo.sh - Upgrade Implementation]]
+* [[Prozesses Odoo.sh - Upgrade Implementation]]

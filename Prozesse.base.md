@@ -1,21 +1,18 @@
 # Prozesse
-
 | file.name | kind | tags |
 | --- | --- | --- |
-| [[Prozesse]] | howto | Prozess |
-| [[Prozesse Wiki]] |  | Prozess |
 | [[Prozesse Wiki - Mitarbeit]] |  | Prozess |
-| [[Prozesse Support]] |  | Prozess |
+| [[Prozesse Wiki]] |  | Prozess |
 | [[Prozesse Support - Ticket]] |  | Prozess |
 | [[Prozesse Support - Benachrichtigungen]] |  | Prozess |
-| [[Prozesse Softwareentwicklung]] |  | Prozess |
+| [[Prozesse Support]] |  | Prozess |
 | [[Prozesse Softwareentwicklung - Technische Spezifikation]] |  | Prozess |
 | [[Prozesse Softwareentwicklung - Odoo Module]] |  | Prozess |
 | [[Prozesse Softwareentwicklung - Odoo Image]] |  | Prozess |
 | [[Prozesse Softwareentwicklung - Git-Repository]] |  | Prozess |
-| [[Prozesse Sicherheit]] |  | Prozess |
+| [[Prozesse Softwareentwicklung]] |  | Prozess |
 | [[Prozesse Sicherheit - Odoo Security Advisory]] |  |  |
-| [[Prozesse Projektmanagement]] |  | Prozess |
+| [[Prozesse Sicherheit]] |  | Prozess |
 | [[Prozesse Projektmanagement - Zeiterfassung]] | howto | Prozess |
 | [[Prozesse Projektmanagement - Ressourcenplanung]] | howto | Prozess |
 | [[Prozesse Projektmanagement - Projektdefinition]] |  | Prozess |
@@ -26,15 +23,15 @@
 | [[Prozesse Projektmanagement - Aufwandsschätzung]] |  | Prozess |
 | [[Prozesse Projektmanagement - Aufgaben]] |  | Prozess |
 | [[Prozesse Projektmanagement - Archivierung]] |  | Prozess |
-| [[Prozesse Personal]] |  | Prozess |
+| [[Prozesse Projektmanagement]] |  | Prozess |
 | [[Prozesse Personal - Onboarding]] |  | Prozess |
 | [[Prozesse Personal - Offboarding]] |  | Prozess |
 | [[Prozesse Personal - Bewerbung]] |  | Prozess |
-| [[Prozesse Odoo.sh]] |  | Prozess |
+| [[Prozesse Personal]] |  | Prozess |
 | [[Prozesse Odoo.sh - Projekt entwickeln]] |  |  |
 | [[Prozesse Odoo.sh - Projekt bereitstellen]] |  | Prozess |
 | [[Prozesse Odoo.sh - Modul Migration]] | reference | Prozess |
-| [[Prozesse Odoo]] | reference | Prozess |
+| [[Prozesse Odoo.sh]] |  | Prozess |
 | [[Prozesse Odoo - Upgrade-Umgebung bereitstellen]] |  |  |
 | [[Prozesse Odoo - Upgrade Implementation]] |  | Prozess |
 | [[Prozesse Odoo - Upgrade Angebot]] |  | Prozess |
@@ -47,7 +44,6 @@
 | [[Prozesse Odoo - Entwicklung]] |  | Prozess |
 | [[Prozesse Odoo - Demoumgebung bereitstellen]] | howto | Prozess |
 | [[Prozesse Odoo - Datenmigration]] |  | Prozess |
-| [[Prozesse Odoo - App eLearning]] |  | Prozess |
 | [[Prozesse Odoo - App Zeiterfassung]] |  | Prozess |
 | [[Prozesse Odoo - App Website]] |  | Prozess |
 | [[Prozesse Odoo - App Wartung]] |  | Prozess |
@@ -59,9 +55,9 @@
 | [[Prozesse Odoo - App Qualität]] |  | Prozess |
 | [[Prozesse Odoo - App Projekt]] |  | Prozess |
 | [[Prozesse Odoo - App Point of Sale]] |  | Prozess |
+| [[Prozesse Odoo - App PLM]] |  | Prozess |
 | [[Prozesse Odoo - App Personalabrechnung]] |  | Prozess |
 | [[Prozesse Odoo - App Personal]] |  | Prozess |
-| [[Prozesse Odoo - App PLM]] |  | Prozess |
 | [[Prozesse Odoo - App Odoo Direct Print]] |  | Prozess |
 | [[Prozesse Odoo - App Lager]] |  | Prozess |
 | [[Prozesse Odoo - App Kundenverwaltung]] |  | Prozess |
@@ -70,6 +66,7 @@
 | [[Prozesse Odoo - App IoT]] |  | Prozess |
 | [[Prozesse Odoo - App Finanzen]] |  | Prozess |
 | [[Prozesse Odoo - App Fertigung]] |  | Prozess |
+| [[Prozesse Odoo - App eLearning]] |  | Prozess |
 | [[Prozesse Odoo - App Einstellungen]] |  | Prozess |
 | [[Prozesse Odoo - App Einkauf]] |  | Prozess |
 | [[Prozesse Odoo - App Dokumente]] |  | Prozess |
@@ -82,27 +79,27 @@
 | [[Prozesse Odoo - App Anwesenheit]] |  | Prozess |
 | [[Prozesse Odoo - App Abwesenheit]] |  | Prozess |
 | [[Prozesse Odoo - App Abonnements]] |  | Prozess |
-| [[Prozesse Nextcloud]] |  | Prozess |
+| [[Prozesse Odoo]] | reference | Prozess |
 | [[Prozesse Nextcloud - Upgrade]] |  | Prozess |
 | [[Prozesse Nextcloud - Produktionsumgebung bereitstellen]] | howto | Prozess |
 | [[Prozesse Nextcloud - Apps]] |  | Prozess |
-| [[Prozesse Migration]] | reference |  |
+| [[Prozesse Nextcloud]] |  | Prozess |
 | [[Prozesse Migration - Von Microsoft zu Infomaniak migrieren]] | howto | Prozess |
-| [[Prozesse Marketing]] |  | Prozess |
+| [[Prozesse Migration]] | reference |  |
 | [[Prozesse Marketing - Newsletter und Blog]] |  | Prozess |
-| [[Prozesse Infrastruktur]] |  | Prozess |
+| [[Prozesse Marketing]] |  | Prozess |
 | [[Prozesse Infrastruktur - Wartung]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Upgrade Odoo.sh]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Upgrade Odoo]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Server-Zugriff verwalten]] | howto | Prozess |
+| [[Prozesse Infrastruktur - Server Monitoring]] |  | Prozess |
 | [[Prozesse Infrastruktur - Server entfernen]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Server bestellen]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Server bereitstellen]] | howto | Prozess |
-| [[Prozesse Infrastruktur - Server Monitoring]] |  | Prozess |
 | [[Prozesse Infrastruktur - Passwörter verwalten]] | howto | Prozess |
+| [[Prozesse Infrastruktur - OS Migration]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Office 365]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Odoo bestellen]] | howto | Prozess |
-| [[Prozesse Infrastruktur - OS Migration]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Nextcloud bestellen]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Mail-Account Kunde]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Mail-Account Intern]] | howto | Prozess |
@@ -113,12 +110,12 @@
 | [[Prozesse Infrastruktur - Installation Moodle]] | reference | Prozess |
 | [[Prozesse Infrastruktur - Installation BigBlueButton]] |  | Prozess |
 | [[Prozesse Infrastruktur - Innernet bereitstellen]] | howto | Prozess |
-| [[Prozesse Infrastruktur - Deinstallation Odoo]] | howto | Prozess |
 | [[Prozesse Infrastruktur - DNS-Verwaltung]] | howto | Prozess |
 | [[Prozesse Infrastruktur - DNS-Einträge erstellen]] | howto | Prozess |
-| [[Prozesse Hardware]] |  | Prozess |
+| [[Prozesse Infrastruktur - Deinstallation Odoo]] | howto | Prozess |
+| [[Prozesse Infrastruktur]] |  | Prozess |
 | [[Prozesse Hardware - Terminal Zeiterfassung]] |  | Prozess |
-| [[Prozesse Finanzen]] |  | Prozess |
+| [[Prozesse Hardware]] |  | Prozess |
 | [[Prozesse Finanzen - Verträge]] |  | Prozess |
 | [[Prozesse Finanzen - Spesenabrechnung]] |  | Prozess |
 | [[Prozesse Finanzen - Produkt erfassen]] |  | Prozess |
@@ -130,12 +127,12 @@
 | [[Prozesse Finanzen - Buchhaltung]] |  | Prozess |
 | [[Prozesse Finanzen - Ausgleich]] |  | Prozess |
 | [[Prozesse Finanzen - Ausgangsrechnungen]] |  | Prozess |
-| [[Prozesse Dokumentenmanagement]] |  | Prozess |
+| [[Prozesse Finanzen]] |  | Prozess |
 | [[Prozesse Dokumentenmanagement - Dokumente archivieren]] |  | Prozess |
-| [[Prozesse Beratung]] |  | Prozess |
+| [[Prozesse Dokumentenmanagement]] |  | Prozess |
 | [[Prozesse Beratung - Optimierung]] |  | Prozess |
 | [[Prozesse Beratung - Aufnahme Assets]] | reference | Prozess |
-| [[Prozesse Akquise]] |  | Prozess |
+| [[Prozesse Beratung]] |  | Prozess |
 | [[Prozesse Akquise - Workshop Gap-Analyse]] |  | Prozess |
 | [[Prozesse Akquise - Qualifikation]] |  | Prozess |
 | [[Prozesse Akquise - Präsentation]] |  | Prozess |
@@ -145,6 +142,8 @@
 | [[Prozesse Akquise - Angebot erstellen]] |  | Prozess |
 | [[Prozesse Akquise - Anforderungsanalyse]] |  | Prozess |
 | [[Prozesse Akquise - Analyse Odoo Customization]] |  | Prozess |
+| [[Prozesse Akquise]] |  | Prozess |
+| [[Prozesse]] | howto | Prozess |
 | [[Prozessdokumentation]] | explain | Prozess |
-| [[Prozess Sicherheit - Assessment]] |  | Prozess |
-| [[Prozess Odoo.sh - Upgrade Implementation]] |  | Prozess |
+| [[Prozesse Sicherheit - Assessment]] |  | Prozess |
+| [[Prozesses Odoo.sh - Upgrade Implementation]] |  | Prozess |

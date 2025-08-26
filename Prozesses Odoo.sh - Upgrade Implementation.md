@@ -3,7 +3,7 @@ tags:
   - Prozess
 ---
 
-# Process Odoo.sh - Upgrade Implementation
+# Processes Odoo.sh - Upgrade Implementation
 
 ## Branch einrichten
 

@@ -3,14 +3,11 @@ views:
     name: Table
     filters:
       or:
-        - file.name.startsWith("Prozess")
-        - file.name.startsWith("Process")
+        - file.name.startsWith("Prozesse")
     order:
       - file.name
       - kind
       - tags
-    sort:
-      - property: file.name
-        direction: DESC
+    sort: []
     columnSize:
       file.name: 610

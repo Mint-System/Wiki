@@ -6,5 +6,5 @@ responsible: Janik von Rotz
 # Prozesse Sicherheit
 Dokumentation der Sicherheit-Prozesse.
 
-* [[Prozess Sicherheit - Assessment]]
+* [[Prozesse Sicherheit - Assessment]]
 * [[Prozesse Sicherheit - Odoo Security Advisory]]

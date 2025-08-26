@@ -10,6 +10,6 @@ views:
       - kind
     sort:
       - property: file.name
-        direction: DESC
+        direction: ASC
     columnSize:
       file.name: 610

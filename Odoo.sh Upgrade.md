@@ -7,7 +7,7 @@ tags:
 
 [[Odoo.sh]] provides a custom workflow to execute the upgrade process. 
 
-To start the upgrade process you need to [[Prozess Odoo.sh - Upgrade Implementation#Setup upgrade branch]].
+To start the upgrade process you need to [[Prozesses Odoo.sh - Upgrade Implementation#Setup upgrade branch]].
 
 For new upgrades use this template: [[Playbook Upgrade Odoo.sh XX.0]]
 

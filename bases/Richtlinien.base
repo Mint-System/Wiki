@@ -8,8 +8,6 @@ views:
     order:
       - file.name
       - kind
-    sort:
-      - property: file.name
-        direction: DESC
+    sort: []
     columnSize:
       file.name: 610
