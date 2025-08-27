@@ -21,3 +21,11 @@ Wir verwenden diese plugins:
 - Git
 - Emoji Shortcodes
 - Frontmatter Title
+
+## Bases
+
+Aus den Obsidian-Bases werden Markdown-Tabellen generiert:
+
+* [[Phasen.base]]
+* [[Prozesse.base]]
+* [[Richtlinien.base]]
