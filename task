@@ -91,12 +91,12 @@ function update() {
 }
 
 function dev-vuepress() {
-    pnpm run docs
+    pnpm run pre-build
     pnpm run dev
 }
 
 function build-vuepress() {
-    pnpm run docs
+    pnpm run pre-build
     pnpm run build
 }
 

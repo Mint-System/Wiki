@@ -108,7 +108,8 @@ baseFiles.forEach(baseFile => {
     }
 
     // Generate the markdown table
-    let markdownTable = `# ${baseName}`;
+    let markdownTable = `# ${baseName}
+`;
 
     // Add the header row
     markdownTable += `| ${columnNames.join(' | ')} |
@@ -131,7 +132,8 @@ baseFiles.forEach(baseFile => {
           return value || '';
         }
       });
-      markdownTable += `| ${rowValues.join(' | ')} |`;
+      markdownTable += `| ${rowValues.join(' | ')} |
+`;
     });
 
     // Write the markdown table to a file

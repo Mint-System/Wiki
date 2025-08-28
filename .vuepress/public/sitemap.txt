@@ -69,6 +69,7 @@ https://wiki.mint-system.ch/codeberg.html
 https://wiki.mint-system.ch/codeium.html
 https://wiki.mint-system.ch/collabora.html
 https://wiki.mint-system.ch/collaboration.html
+https://wiki.mint-system.ch/compare-coding-agents.html
 https://wiki.mint-system.ch/concept-template.html
 https://wiki.mint-system.ch/continuous-delivery.html
 https://wiki.mint-system.ch/conventional-commits.html
@@ -242,6 +243,7 @@ https://wiki.mint-system.ch/kubernetes.html
 https://wiki.mint-system.ch/kunden.html
 https://wiki.mint-system.ch/kurt-gisler.html
 https://wiki.mint-system.ch/llm.html
+https://wiki.mint-system.ch/large-language-model-agents.html
 https://wiki.mint-system.ch/large-language-models.html
 https://wiki.mint-system.ch/laszlo-krajnikovszkij.html
 https://wiki.mint-system.ch/let-s-encrypt.html
@@ -642,6 +644,7 @@ https://wiki.mint-system.ch/phase-website-inhalte.html
 https://wiki.mint-system.ch/phase-website.html
 https://wiki.mint-system.ch/phase-wordpress-hosting.html
 https://wiki.mint-system.ch/phase-zeiterfassung.html
+https://wiki.mint-system.ch/phasen.base.html
 https://wiki.mint-system.ch/phasen.html
 https://wiki.mint-system.ch/philosophie.html
 https://wiki.mint-system.ch/plausible.html
@@ -660,8 +663,6 @@ https://wiki.mint-system.ch/projektphasen.html
 https://wiki.mint-system.ch/prometheus.html
 https://wiki.mint-system.ch/proof-of-concept.html
 https://wiki.mint-system.ch/proxmox.html
-https://wiki.mint-system.ch/prozess-odoo.sh-upgrade-implementation.html
-https://wiki.mint-system.ch/prozess-sicherheit-assessment.html
 https://wiki.mint-system.ch/prozessdokumentation.html
 https://wiki.mint-system.ch/prozesse-akquise-analyse-odoo-customization.html
 https://wiki.mint-system.ch/prozesse-akquise-anforderungsanalyse.html
@@ -793,6 +794,7 @@ https://wiki.mint-system.ch/prozesse-projektmanagement-projektdefinition.html
 https://wiki.mint-system.ch/prozesse-projektmanagement-ressourcenplanung.html
 https://wiki.mint-system.ch/prozesse-projektmanagement-zeiterfassung.html
 https://wiki.mint-system.ch/prozesse-projektmanagement.html
+https://wiki.mint-system.ch/prozesse-sicherheit-assessment.html
 https://wiki.mint-system.ch/prozesse-sicherheit-odoo-security-advisory.html
 https://wiki.mint-system.ch/prozesse-sicherheit.html
 https://wiki.mint-system.ch/prozesse-softwareentwicklung-git-repository.html
@@ -805,12 +807,15 @@ https://wiki.mint-system.ch/prozesse-support-ticket.html
 https://wiki.mint-system.ch/prozesse-support.html
 https://wiki.mint-system.ch/prozesse-wiki-mitarbeit.html
 https://wiki.mint-system.ch/prozesse-wiki.html
+https://wiki.mint-system.ch/prozesse.base.html
 https://wiki.mint-system.ch/prozesse.html
+https://wiki.mint-system.ch/prozesses-odoo.sh-upgrade-implementation.html
 https://wiki.mint-system.ch/putty.html
 https://wiki.mint-system.ch/py3o-report-engine.html
 https://wiki.mint-system.ch/python-handbook.html
 https://wiki.mint-system.ch/python.html
 https://wiki.mint-system.ch/qweb-templating-engine.html
+https://wiki.mint-system.ch/qwen-coder.html
 https://wiki.mint-system.ch/readme.html
 https://wiki.mint-system.ch/raspberry-pi.html
 https://wiki.mint-system.ch/referenz.html
@@ -841,6 +846,7 @@ https://wiki.mint-system.ch/richtlinie-spesenreglement.html
 https://wiki.mint-system.ch/richtlinie-todos.html
 https://wiki.mint-system.ch/richtlinie-website.html
 https://wiki.mint-system.ch/richtlinie-zeiterfassung.html
+https://wiki.mint-system.ch/richtlinien.base.html
 https://wiki.mint-system.ch/richtlinien.html
 https://wiki.mint-system.ch/roadmap.html
 https://wiki.mint-system.ch/rollen-projektmanagement.html
@@ -1063,6 +1069,7 @@ https://wiki.mint-system.ch/man-sql.html
 https://wiki.mint-system.ch/man.html
 https://wiki.mint-system.ch/mint-system.ch-realm.html
 https://wiki.mint-system.ch/nivels-gmbh.html
+https://wiki.mint-system.ch/odoo-rev.html
 https://wiki.mint-system.ch/peoplefone.html
 https://wiki.mint-system.ch/pgadmin.html
 https://wiki.mint-system.ch/pre-commit.html
@@ -1074,6 +1081,6 @@ https://wiki.mint-system.ch/restic-troubleshooting.html
 https://wiki.mint-system.ch/restic.html
 https://wiki.mint-system.ch/rustdesk.html
 https://wiki.mint-system.ch/syft.html
-https://wiki.mint-system.ch/terra.html
+https://wiki.mint-system.ch/terra-computer.html
 https://wiki.mint-system.ch/ungleich-gmbh.html
 https://wiki.mint-system.ch/vcard.html
