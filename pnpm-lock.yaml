@@ -7,13 +7,6 @@ settings:
 importers:
 
   .:
-    dependencies:
-      gray-matter:
-        specifier: ^4.0.3
-        version: 4.0.3
-      js-yaml:
-        specifier: ^4.1.0
-        version: 4.1.0
     devDependencies:
       '@vuepress/bundler-vite':
         specifier: ^2.0.0-rc.23
@@ -33,6 +26,12 @@ importers:
       '@vuepress/utils':
         specifier: ^2.0.0-rc.23
         version: 2.0.0-rc.23
+      gray-matter:
+        specifier: ^4.0.3
+        version: 4.0.3
+      js-yaml:
+        specifier: ^4.1.0
+        version: 4.1.0
       mermaid:
         specifier: ^10.9.3
         version: 10.9.3
