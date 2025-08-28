@@ -1,8 +1,9 @@
 ---
 tags:
-  - Prozess
+  - Methodik
 kind:
   - explain
+section: methodology
 ---
 # Vorgehensmodell Odoo Projekte
 

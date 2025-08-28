@@ -1,5 +1,6 @@
 ---
 kind: explain
+section: methodology
 ---
 
 # Ressourcenplanung

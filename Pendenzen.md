@@ -2,6 +2,7 @@
 tags:
   - Asset
 kind: explain
+section: methodology
 ---
 # Pendenzen
 

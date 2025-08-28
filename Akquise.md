@@ -2,6 +2,7 @@
 tags:
   - Definition
 kind: explain
+section: methodology
 ---
 # Akquise
 

@@ -2,6 +2,7 @@
 tags:
   - Asset
 kind: tutorial
+section: methodology
 ---
 # Methodik
 
