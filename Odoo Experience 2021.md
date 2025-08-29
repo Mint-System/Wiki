@@ -1,6 +1,7 @@
 ---
 tags:
   - Blog
+section: blog
 ---
 # Odoo Experience 2021
 

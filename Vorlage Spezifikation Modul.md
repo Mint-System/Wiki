@@ -2,6 +2,7 @@
 tags:
   - Vorlagen
 kind: reference
+section: template
 ---
 # Vorlage Spezifikation Modul
 

@@ -1,7 +1,8 @@
 ---
 lang: en
 tags:
-- Templates
+  - Templates
+section: template
 ---
 
 # Template Concept

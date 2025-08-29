@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: tools
+kind:
+  - reference
 ---
 # Plausible
 

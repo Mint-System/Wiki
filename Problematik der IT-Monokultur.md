@@ -1,6 +1,9 @@
 ---
 tags:
   - Blog
+section: blog
+kind:
+  - explain
 ---
 # Problematik der IT-Monokultur
 

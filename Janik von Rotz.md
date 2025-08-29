@@ -7,6 +7,7 @@ responsibilities:
   - Finanzen
 kind:
   - reference
+section: organisation
 ---
 # Janik von Rotz
 

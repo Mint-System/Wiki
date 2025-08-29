@@ -4,6 +4,7 @@ tags:
 draft: false
 kind:
   - explain
+section: blog
 ---
 # Spam reduzieren mit SPF, DKIM und DMARC
 

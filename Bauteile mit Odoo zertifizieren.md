@@ -4,6 +4,7 @@ tags:
 draft: true
 kind:
   - explain
+section: blog
 ---
 # Bauteile mit Odoo zertifizieren
 

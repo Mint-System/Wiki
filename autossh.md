@@ -4,6 +4,7 @@ tags:
 kind:
   - explain
 lang: en
+section: infrastructure
 ---
 # autossh
 

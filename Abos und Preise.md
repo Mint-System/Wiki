@@ -2,6 +2,7 @@
 tags:
   - Document
 kind: reference
+section: product
 ---
 
 ![[subscription banner.jpg]]

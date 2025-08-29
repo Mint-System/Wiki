@@ -2,6 +2,7 @@
 tags:
   - Website
 kind: reference
+section: contacts
 ---
 # Odoo Community Association
 

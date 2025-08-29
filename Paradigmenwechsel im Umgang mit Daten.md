@@ -1,6 +1,9 @@
 ---
 tags:
   - Blog
+section: blog
+kind:
+  - explain
 ---
 # Paradigmenwechsel im Umgang mit Daten
 Wem gehören denn jetzt meine Daten?

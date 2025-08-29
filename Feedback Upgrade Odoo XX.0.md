@@ -3,6 +3,7 @@ tags:
   - Templates
 kind:
   - reference
+section: template
 ---
 # Feedback Upgrade Odoo XX.0
 

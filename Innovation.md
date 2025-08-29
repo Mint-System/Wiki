@@ -2,6 +2,7 @@
 kind: tutorial
 tags:
   - Unternehmensentwicklung
+section: organisation
 ---
 # Innovation
 

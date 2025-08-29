@@ -2,6 +2,7 @@
 kind:
   - explain
 lang: en
+section: methodology
 ---
 # Kanban
 

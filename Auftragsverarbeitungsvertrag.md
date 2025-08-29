@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+section: template
 ---
 
 Quelle: [Schärer Rechtsanwälte](https://www.5001.ch/)

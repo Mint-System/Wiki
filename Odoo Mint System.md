@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+section: account
 ---
 # Odoo Mint System
 

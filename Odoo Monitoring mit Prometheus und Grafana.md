@@ -4,6 +4,7 @@ tags:
 draft: false
 kind:
   - explain
+section: blog
 ---
 # Odoo Monitoring mit Prometheus und Grafana
 

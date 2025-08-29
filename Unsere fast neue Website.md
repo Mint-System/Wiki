@@ -4,6 +4,7 @@ tags:
   - Blog
 kind:
   - explain
+section: blog
 ---
 # Unsere fast neue Website
 "Fast" im Sinne von Schnell.

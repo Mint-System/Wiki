@@ -2,6 +2,7 @@
 lang: en
 tags:
   - Templates
+section: template
 ---
 # Playbook Upgrade Odoo XX.0
 

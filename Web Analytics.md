@@ -4,4 +4,4 @@ tags:
 ---
 # Web Analytics
 
-We use [[Plausible]] for Webanalytics.[[Tools]]
+We use [[Plausible]] for Webanalytics.

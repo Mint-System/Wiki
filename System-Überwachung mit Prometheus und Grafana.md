@@ -1,6 +1,9 @@
 ---
 tags:
   - Blog
+section: blog
+kind:
+  - explain
 ---
 # Systemüberwachung mit Prometheus und Grafana
 

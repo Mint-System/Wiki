@@ -3,6 +3,7 @@ kind:
   - reference
 tags:
   - Vorlagen
+section: template
 ---
 
 # Bestandsaufnahme Microsoft Office 365

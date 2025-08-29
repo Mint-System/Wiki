@@ -1,3 +1,8 @@
+---
+kind:
+  - reference
+---
+
 # Accounts
 
 Accounts der Mint System GmbH.

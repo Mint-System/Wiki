@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+section: tools
 ---
 # Thunderbird Appointment
 

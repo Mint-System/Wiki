@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - section == "organisation"
+    order:
+      - file.name
+      - kind
+      - file.tags
+    sort: []
+    columnSize:
+      file.name: 610

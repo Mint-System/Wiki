@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.name.endsWith("Handbuch")
+        - file.name.endsWith("Handbook")
+    order:
+      - file.name
+      - kind
+    sort: []
+    columnSize:
+      file.name: 610

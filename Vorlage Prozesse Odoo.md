@@ -1,6 +1,7 @@
 ---
 tags:
-- Vorlagen
+  - Vorlagen
+section: template
 ---
 # Prozesse Odoo - App APPNAME
 

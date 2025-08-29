@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+section: contacts
 ---
 # OPTEX Treuhand AG 
 

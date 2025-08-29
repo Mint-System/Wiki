@@ -4,6 +4,9 @@ responsibilities:
   - Unternehmensentwicklung
   - Personal
   - Strategie
+section: organisation
+tags:
+  - Definition
 ---
 # Kurt Gisler
 

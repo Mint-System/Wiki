@@ -3,6 +3,7 @@ tags:
   - Vorlagen
 kind:
   - reference
+section: template
 ---
 # Vorlage Konzept
 

@@ -1,3 +1,7 @@
+---
+kind:
+  - reference
+---
 # man apt
 
 List repositories.

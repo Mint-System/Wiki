@@ -3,6 +3,7 @@ tags:
   - Website
 kind:
   - reference
+section: tools
 ---
 # Algolia
 

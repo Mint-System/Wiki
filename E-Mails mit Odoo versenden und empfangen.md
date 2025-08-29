@@ -4,6 +4,7 @@ tags:
 kind:
   - explain
 draft: false
+section: blog
 ---
 # E-Mails mit Odoo versenden und empfangen
 

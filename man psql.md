@@ -1,6 +1,8 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - reference
 ---
 # man psql
 

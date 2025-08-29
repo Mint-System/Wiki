@@ -1,6 +1,7 @@
 ---
 tags:
   - Unternehmensentwicklung
+section: organisation
 ---
 # Ziele
 

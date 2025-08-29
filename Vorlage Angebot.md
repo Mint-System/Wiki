@@ -1,6 +1,7 @@
 ---
 tags:
-- Vorlagen
+  - Vorlagen
+section: template
 ---
 # Vorlage Angebot
 Übersetzung: [[Offer Template]]

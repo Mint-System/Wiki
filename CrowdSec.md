@@ -1,3 +1,9 @@
+---
+kind:
+  - reference
+section: tools
+---
+
 # CrowdSec
 
 Website: <https://crowdsec.net/>

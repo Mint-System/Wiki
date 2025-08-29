@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - section == "infrastructure"
+    order:
+      - file.name
+      - kind
+      - section
+    sort: []
+    columnSize:
+      file.name: 347
+      note.kind: 212

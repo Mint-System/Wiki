@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+section: contacts
 ---
 # inosca
 

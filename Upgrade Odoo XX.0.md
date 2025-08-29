@@ -1,7 +1,8 @@
 ---
 lang: en
 tags:
-- templates
+  - templates
+section: template
 ---
 # Upgrade Odoo XX.0
 

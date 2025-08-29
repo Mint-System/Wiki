@@ -2,6 +2,7 @@
 tags:
   - Asset
 kind: reference
+section: product
 ---
 # Beratungsprojekte
 

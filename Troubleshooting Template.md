@@ -1,7 +1,8 @@
 ---
 lang: en
 tags:
-- Vorlagen
+  - Vorlagen
+section: template
 ---
 # Template Troubleshooting
 

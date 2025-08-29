@@ -1,6 +1,7 @@
 ---
 tags:
   - Vorlagen
+section: template
 ---
 # Aufwandsschätzung Odoo Upgrade XX.0
 

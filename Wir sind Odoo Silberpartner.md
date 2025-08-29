@@ -4,6 +4,7 @@ tags:
 draft: true
 kind:
   - explain
+section: blog
 ---
 # Wir sind Odoo Silber-Partner
 

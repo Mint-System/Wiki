@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: organisation
+kind:
+  - reference
 ---
 # Rollen Projektmanagement
 

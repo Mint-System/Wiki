@@ -4,6 +4,7 @@ tags:
   - Templates
 kind:
   - reference
+section: template
 ---
 # Template Report on Odoo Customization
 

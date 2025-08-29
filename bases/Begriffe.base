@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - section == "terms"
+    order:
+      - file.name
+      - kind
+    sort: []
+    columnSize:
+      file.name: 610

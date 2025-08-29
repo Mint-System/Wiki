@@ -4,6 +4,7 @@ tags:
 kind:
   - explain
 draft: false
+section: blog
 ---
 # Den eigenen Login-Anbieter mit Keycloak betreiben
 

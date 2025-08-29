@@ -1,6 +1,9 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - reference
+section: terms
 ---
 # Anforderungen
 

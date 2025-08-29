@@ -1,6 +1,7 @@
 ---
 tags:
-- Asset
+  - Asset
+section: organisation
 ---
 
 # Freischaffende Mitarbeitende

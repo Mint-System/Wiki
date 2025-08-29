@@ -4,6 +4,7 @@ tags:
 kind:
   - explain
 draft: false
+section: blog
 ---
 # Von Bexio nach Odoo
 Ein Erfahrungsbericht zur Migration von Bexio nach Odoo.

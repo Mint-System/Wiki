@@ -2,6 +2,9 @@
 tags:
   - Blog
 draft: false
+section: blog
+kind:
+  - explain
 ---
 
 # Eine Sache des guten Geschmacks

@@ -3,6 +3,7 @@ tags:
   - Blog
 kind:
   - explain
+section: blog
 ---
 ![[Odoo Website Builder.png]]
 

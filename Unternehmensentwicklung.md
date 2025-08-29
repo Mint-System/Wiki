@@ -14,7 +14,7 @@ Themen:
 * [[Produktentwicklung]]
 * [[Vision]]
 * [[Ziele]]
-* [[Strategie]]
+* [[Strategien]]
 * [[Kollaboration]]
 * [[Personal]]
 * [[Finanzen]]

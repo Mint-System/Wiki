@@ -3,6 +3,7 @@ tags:
   - Unternehmensentwicklung
 kind: explain
 draft: true
+section: organisation
 ---
 # Vision
 

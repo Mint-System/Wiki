@@ -3,6 +3,7 @@ tags:
   - Definition
 kind:
   - explain
+section: product
 ---
 # Odoo Continuous Delivery
 

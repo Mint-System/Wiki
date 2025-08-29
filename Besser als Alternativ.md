@@ -4,6 +4,7 @@ tags:
 kind:
   - explain
 draft: false
+section: blog
 ---
 # Open Source Software: Besser als Alternativ
 Open Source Software ist keine Alternative, sie ist einfach besser.

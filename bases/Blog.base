@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - section == "blog"
+    order:
+      - file.name
+      - kind
+      - section
+    sort: []
+    columnSize:
+      file.name: 610

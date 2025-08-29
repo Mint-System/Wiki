@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+section: tools
 ---
 # VSCodium
 
@@ -11,7 +12,6 @@ Website: <https://vscodium.com/>
 Wir empfehlen die folgenden Plugins:
 
 * Bash IDE
-* [[Codeium]]
 * Git Blame
 * Jupyter
 * Markdown All in One
