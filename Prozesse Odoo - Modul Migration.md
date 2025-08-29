@@ -106,7 +106,15 @@ To:
 <field name="test_field_1" invisible="active"/>
 <field name="test_field_2" invisible="zip != 123"/>
 <field name="test_field_3" readonly="zip"/>
+Or for example:
+<div class="oe_chatter">
+	<field name="message_follower_ids"/>
+	<field name="activity_ids"/>
+	<field name="message_ids"/>
+</div>
 EOF
+To:
+<chatter/>
 )
 
 task update-with-llm addons/$REPO/$MODULE/views/*.xml "$TASK"
@@ -155,6 +163,32 @@ To:
 		</div>
 	</setting>
 </block>
+EOF
+)
+
+task update-with-llm addons/$REPO/$MODULE/views/*.xml "$TASK"
+```
+
+
+```
+TASK=$(cat << EOF
+Migrate model fields state definitions:
+For example:
+    READONLY_STATES = {
+        "draft": [("readonly", False)],
+        "initialized": [("readonly", True)],
+        "connected": [("readonly", True)],
+        "deleted": [("readonly", False)],
+    }
+    name = fields.Char(required=True, states=READONLY_STATES)
+To:
+    def _is_readonly(self):
+        self.ensure_one()
+        return self.state in ['initialized', 'connected']
+EOF
+)
+
+task update-with-llm addons/$REPO/$MODULE/models/*.py "$TASK"
 ```
 
 * Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
