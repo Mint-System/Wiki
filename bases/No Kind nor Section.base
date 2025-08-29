@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - or:
+            - kind.isEmpty()
+            - section.isEmpty()
+    order:
+      - file.name
+      - kind
+      - section
+      - file.tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: kind
+        direction: ASC
+    columnSize:
+      file.name: 610

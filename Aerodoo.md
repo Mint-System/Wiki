@@ -2,6 +2,8 @@
 tags:
   - Definition
 section: product
+kind:
+  - reference
 ---
 # Aerodoo
 

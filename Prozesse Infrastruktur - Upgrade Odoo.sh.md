@@ -8,6 +8,20 @@ kind:
 
 ## Produktives Upgrade durchführen
 
+* Nachricht an den Kunden schicken:
+
+```
+Guten Tag
+
+Diese Odoo Installation wird innerhalb der nächsten Stunde von Version 16.0 auf 18.0 aktualisiert.
+
+Wir bitten Sie während dieser Zeit keine Bearbeitungen in Odoo vorzunehmen. Alle Änderungen ab jetzt werden nicht in der aktualisierten Odoo Installation sein.
+
+Mit freundlichen Grüssen
+
+Mint System Team
+```
+
 * Drehbuch bis zum Abschnitt "Upgrade" ausführen
 * Im Tab *Upgrade* die Ziel-Version wählen
 * Upgrade-Porzess starten
