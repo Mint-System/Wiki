@@ -2,6 +2,7 @@
 tags:
   - Website
 kind: howto
+section: infrastructure
 ---
 
 # Mailgun

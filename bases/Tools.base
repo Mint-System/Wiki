@@ -7,6 +7,7 @@ views:
     order:
       - file.name
       - kind
+      - section
     sort: []
     columnSize:
       file.name: 610
