@@ -14,6 +14,7 @@ Methodisches Vorgehen.
 * [[Pendenzen]]
 * [[Aufgabenplanung]]
 * [[Projektmanagement]]
+* [[Projektarbeit]]
 * [[Akquise]]
 * [[Prozessdokumentation]]
 * [[Datenverarbeitung]]

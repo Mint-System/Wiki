@@ -55,4 +55,3 @@ Mit freundlichen Grüssen
 
 Mint System Team
 ```
-

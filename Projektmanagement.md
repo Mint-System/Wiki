@@ -26,7 +26,7 @@ Der [[Rollen Projektmanagement#Projektleiter|Projektleiter]] stellt sicher das d
 
 Jede Woche wird dem Kunden der aktuelle Projektstatus, abgeschlossene Aufgaben und neue Probleme kommunizierit.
 
-## Projektphasen
+## Umsetzung
 
 Mint System nutzt für die Umsetzung des Projekts Odoo und Nextcloud. Das Projekt wird gemäss Phasen und Aufwandsschätzung im Projektmanagementtool abgebildet. Auf Wunsch kann der Kunde Zugriff auf das Projekt-Portal haben. 
 

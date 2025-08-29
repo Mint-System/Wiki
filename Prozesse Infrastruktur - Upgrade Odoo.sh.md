@@ -49,3 +49,18 @@ git push origin +upgrade:main
 
 * Gemäss Drehbuch das Upgrade fertigstellen
 * Den `backup-main` Branch lokal löschen
+* Nachricht an den Kunden:
+
+```
+Guten Tag
+
+Das Odoo Upgrade war erfolgreich.
+
+Den Odoo Upgrade Bericht finden Sie unter "Dialog > Kanäle > Administrators".
+
+Wir bitten Sie die Odoo Installation zu verfizieren und allfällige Fehler zu melden.
+
+Mit freundlichen Grüssen
+
+Mint System Team
+```

@@ -1,6 +1,7 @@
 ---
 draft: true
 kind: explain
+section: project
 ---
 # Uri Cloud
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Vorlagen
-section: template
+section: methodology
 ---
 # Anforderungsanalyse
 
