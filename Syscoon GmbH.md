@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-section: contacts
+section: contact
 ---
 # Syscoon GmbH
 

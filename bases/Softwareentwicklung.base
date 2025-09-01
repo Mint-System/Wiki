@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - section == "contact"
+        - section == "dev"
     order:
       - file.name
       - kind

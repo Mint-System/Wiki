@@ -1,6 +1,8 @@
 ---
 tags:
   - Troubleshooting
+kind:
+  - howto
 ---
 
 

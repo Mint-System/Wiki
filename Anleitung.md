@@ -2,7 +2,9 @@
 tags:
   - Meta
   - Alias
-kind: howto
+kind:
+  - reference
+section: meta
 ---
 # Anleitung
 

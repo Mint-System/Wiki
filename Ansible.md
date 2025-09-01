@@ -2,6 +2,8 @@
 tags:
   - Definition
 section: infrastructure
+kind:
+  - reference
 ---
 # Ansible
 

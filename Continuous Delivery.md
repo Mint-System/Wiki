@@ -3,7 +3,7 @@ tags:
   - Definition
 kind:
   - explain
-section: terms
+section: term
 ---
 # Continuous Delivery
 

@@ -1,7 +1,9 @@
 ---
 tags:
   - Definition
-section: terms
+section: term
+kind:
+  - explain
 ---
 # Barcode
 
@@ -28,7 +30,7 @@ In der Regel simmulieren die Barcode-Scanner nichts anderes als eine Tastatur. D
 
 #### Zebra
 
-| Produkt | Typ  | Bemerkungen | Preis (ca.)
+| Produkt | Typ  | Bemerkungen | Preis (ca.) |
 |:- |:- |:- |:- |
 | [TC20](https://www.zebra.com/us/en/products/mobile-computers/handheld/tc20.html) | Mobile Computer Scanner | 2D barcodes, Wireless und Bluetooth Verbindung, integriertes Funkgerät, PowerPack Zebra für Verlängerung der Akkulaufzeit | CHF 400
 | TC20 | Mobile Computer Scanner | 2D barcodes, Wireless und Bluetooth Verbindung, integriertes Funkgerät, PowerPack Zebra für Verlängerung der Akkulaufzeit, mit Tastenfeld | CHF 500

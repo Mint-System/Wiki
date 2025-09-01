@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: infrastructure
+kind:
+  - reference
 ---
 # Ansible Inventory
 

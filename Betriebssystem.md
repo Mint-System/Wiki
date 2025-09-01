@@ -1,6 +1,10 @@
 ---
 tags:
-- Definition
+  - Definition
+ref:
+kind:
+  - reference
+section: term
 ---
 # Betriebssystem
 

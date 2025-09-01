@@ -2,7 +2,7 @@
 tags:
   - Definition
 kind: reference
-section: tools
+section: tool
 ---
 # dotfiles
 

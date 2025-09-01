@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - reference
+section: dev
 ---
 # Assets for Odoo Modules
 

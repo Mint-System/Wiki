@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - reference
+section: product
 ---
 # Angebot
 

@@ -2,7 +2,7 @@
 tags:
   - Definition
 kind: explain
-section: contacts
+section: contact
 ---
 # Odoo S.A.
 

@@ -1,6 +1,7 @@
 ---
 kind:
   - reference
+section: dev
 ---
 # man apt
 

@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - section == "tools"
+        - section == "tool"
     order:
       - file.name
       - kind

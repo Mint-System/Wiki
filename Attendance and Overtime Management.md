@@ -1,6 +1,7 @@
 ---
 tags:
-- Definition
+  - Definition
+archive: true
 ---
 # Attendance and Overtime Management
 

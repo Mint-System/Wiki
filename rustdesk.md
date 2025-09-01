@@ -1,7 +1,7 @@
 ---
 kind:
   - reference
-section: tools
+section: tool
 ---
 
 # rustdesk

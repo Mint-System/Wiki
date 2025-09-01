@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-section: tools
+section: tool
 ---
 # Docker
 

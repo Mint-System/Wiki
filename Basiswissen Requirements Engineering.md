@@ -2,6 +2,8 @@
 tags:
   - Definition
 section: methodology
+kind:
+  - explain
 ---
 # Basiswissen Requirements Engineering
 

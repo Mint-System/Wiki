@@ -2,6 +2,8 @@
 tags:
   - Asset
 section: infrastructure
+kind:
+  - explain
 ---
 # Backup
 

@@ -1,3 +1,8 @@
+---
+kind:
+  - reference
+section: organisation
+---
 # Marcus Menzel
 
 Benutzername: `marcusmenzel`\

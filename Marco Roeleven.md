@@ -2,6 +2,8 @@
 tags:
   - Definition
 section: organisation
+kind:
+  - reference
 ---
 # Marco Roeleven
 

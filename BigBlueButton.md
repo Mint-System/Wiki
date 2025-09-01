@@ -1,11 +1,15 @@
 ---
 tags:
-- Definition
+  - Definition
+section: product
+kind:
+  - howto
 ---
 # BigBlueButton
+
 BigBlueButton ist eine zuverlässige und umfangreiche Videokonferenzlösung.
 
-## Guide
+## Handbuch
 
 ### Benutzer löschen
 

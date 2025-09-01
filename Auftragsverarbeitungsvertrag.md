@@ -2,6 +2,8 @@
 tags:
   - Asset
 section: template
+kind:
+  - reference
 ---
 
 Quelle: [Schärer Rechtsanwälte](https://www.5001.ch/)

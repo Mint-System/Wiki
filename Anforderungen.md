@@ -3,7 +3,7 @@ tags:
   - Prozess
 kind:
   - reference
-section: terms
+section: term
 ---
 # Anforderungen
 

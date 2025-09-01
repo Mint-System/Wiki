@@ -1,7 +1,9 @@
 ---
 tags:
   - Definition
-section: terms
+section: term
+kind:
+  - reference
 ---
 # Begriffe
 

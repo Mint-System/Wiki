@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-section: contacts
+section: contact
 ---
 # BINARY one GmbH
 Website: <https://www.binaryone.ch/>

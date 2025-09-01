@@ -10,6 +10,6 @@ Common Vulnerabilities and Exposures.
 
 ### CVE-2021-45046
 
-Betrifft: [[Apache Log4j]]
+Betrifft: Apache Log4j
 
 Website: <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-45046>

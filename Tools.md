@@ -2,7 +2,7 @@
 tags:
   - Asset
 kind: reference
-section: tools
+section: tool
 ---
 # Tools
 

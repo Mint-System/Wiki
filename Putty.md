@@ -2,7 +2,7 @@
 tags:
   - Definition
 lang: en
-section: tools
+section: tool
 ---
 # PuTTY
 

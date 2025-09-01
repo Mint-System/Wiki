@@ -1,7 +1,7 @@
 ---
 tags:
   - Asset
-section: tools
+section: tool
 ---
 # Workplace Software
 

@@ -2,7 +2,7 @@
 tags:
   - Definition
   - Alias
-section: tools
+section: tool
 ---
 # Excalidraw
 

@@ -2,7 +2,7 @@
 tags:
   - Website
 kind: reference
-section: tools
+section: tool
 ---
 # black
 
