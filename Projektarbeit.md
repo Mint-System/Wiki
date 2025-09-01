@@ -15,7 +15,7 @@ Es gibt verschiedene Ansichten auf die Projekte und Aufgaben.
 
 Ruft man die Projekte-App auf, erhält eine Kanban-Ansicht aller Projekte. Hier wird definiert in welchem Status sich das Projekt befindet.
 
-## Alle Aufgaben
+### Alle Aufgaben
 
 Diese Ansicht zeigt alle Aufgaben von allen Projekten an. Diese Ansicht dient vor allem der Archivierung von Aufgaben oder Verschiebung von mehreren Aufgaben in einen anderen Status.
 
@@ -30,7 +30,7 @@ Hier sehen Sie die ihnen zugewiesenen Aufgaben über alle Projekte. Es ist der z
 
 ## Ablauf
 
-## Backlog
+### Backlog
 
 Anforderungen an die Definition der Aufgabe:
 
@@ -54,8 +54,14 @@ Der Bearbeiter startet den Timer und verschiebt die Aufgabe in den Status *In Ar
 
 Er kann den Timer stoppen, die Aufgabe stehen lassen und zu einem späteren Zeitpunkt fortführen.
 
-### In Arbeit -> Feeback
+### In Arbeit -> Feedback
+
+Der Bearbeiter der Aufgabe fragt den Kunden/Stakeholder nach Feedback und Verifizierung.
 
 ### Feedback -> Erledigt
 
-## Postlog
+Der Kunde/Stakeholder konnte die Aufgabe verifizieren.
+
+### Postlog
+
+Diese Aufgabe durchlaufen nicht den Kanban-Prozess, sondern stehen dem Projekt durchgängig zur Verfügung.
