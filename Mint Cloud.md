@@ -1,6 +1,7 @@
 ---
 tags:
   - Asset
+section: project
 ---
 # Mint Cloud
 

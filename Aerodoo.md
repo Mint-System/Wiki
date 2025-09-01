@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-section: product
+section: project
 kind:
   - reference
 ---
