@@ -1,3 +1,8 @@
+---
+kind:
+  - reference
+section: template
+---
 
 # Testing Upgrade Odoo XX.0
 
