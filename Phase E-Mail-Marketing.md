@@ -1,6 +1,8 @@
 ---
 tags:
-- Phasen
+  - Phasen
+kind:
+  - explain
 ---
 # Phase E-Mail-Marketing
 

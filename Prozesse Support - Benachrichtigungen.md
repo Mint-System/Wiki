@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Support - Benachrichtigungen
 Support-Benachrichtigungen verwalten.

@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Odoo - App Aufwand
 Installation Modul Aufwand `hr_expense`

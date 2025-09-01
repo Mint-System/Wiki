@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Odoo - App Website
 Installation Module Website `website`.

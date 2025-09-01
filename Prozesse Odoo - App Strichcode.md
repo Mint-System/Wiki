@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Odoo - App Strichcode
 Installation Module Strichcode `stock_barcode`

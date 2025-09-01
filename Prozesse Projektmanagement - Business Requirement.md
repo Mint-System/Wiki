@@ -2,6 +2,8 @@
 tags:
   - Prozess
 responsible: Projektleiter
+kind:
+  - howto
 ---
 # Prozesse Projektmanagement - Business Requirement
 

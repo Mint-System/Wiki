@@ -3,6 +3,8 @@ lang: en
 tags:
   - templates
 section: template
+kind:
+  - reference
 ---
 # Upgrade Odoo XX.0
 

@@ -3,6 +3,8 @@ lang: en
 tags:
   - Templates
 section: template
+kind:
+  - reference
 ---
 
 # Template Quote

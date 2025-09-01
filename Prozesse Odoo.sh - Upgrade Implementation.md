@@ -1,9 +1,11 @@
 ---
 tags:
   - Prozess
+kind:
+  - howto
 ---
 
-# Processes Odoo.sh - Upgrade Implementation
+# Prozesse Odoo.sh - Upgrade Implementation
 
 ## Branch einrichten
 

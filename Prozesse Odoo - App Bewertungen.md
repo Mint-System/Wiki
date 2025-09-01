@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Odoo - App Bewertungen
 Installation Modul Bewertungen `hr_appraisal`

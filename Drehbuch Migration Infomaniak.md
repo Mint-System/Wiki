@@ -2,7 +2,7 @@
 tags:
   - Vorlagen
 kind:
-  - howto
+  - reference
 section: template
 ---
 # Drehbuch Migration Infomaniak

@@ -1,3 +1,7 @@
+---
+kind:
+  - explain
+---
 
 ---
 tags:

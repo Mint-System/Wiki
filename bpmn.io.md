@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: tool
+kind:
+  - reference
 ---
 # bpmn.io
 

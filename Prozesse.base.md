@@ -145,4 +145,4 @@
 | [[Prozesse Wiki - Mitarbeit]] |  | Prozess |
 | [[Prozesse Wiki]] |  | Prozess |
 | [[Prozesse]] | howto | Prozess |
-| [[Prozesses Odoo.sh - Upgrade Implementation]] |  | Prozess |
+| [[Prozesse Odoo.sh - Upgrade Implementation]] |  | Prozess |

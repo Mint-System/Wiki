@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Odoo - App Zeiterfassung
 Installation Modul Zeiterfassung `timesheet_grid`.

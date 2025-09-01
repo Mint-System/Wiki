@@ -3,6 +3,8 @@ lang: en
 tags:
   - Vorlagen
 section: template
+kind:
+  - reference
 ---
 # Template Troubleshooting
 

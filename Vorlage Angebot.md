@@ -2,6 +2,8 @@
 tags:
   - Vorlagen
 section: template
+kind:
+  - reference
 ---
 # Vorlage Angebot
 Übersetzung: [[Offer Template]]

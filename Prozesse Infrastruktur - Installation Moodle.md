@@ -1,7 +1,8 @@
 ---
 tags:
   - Prozess
-kind: reference
+kind:
+  - howto
 ---
 # Prozesse Infrastruktur - Installation Moodle
 

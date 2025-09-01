@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Odoo - App Data Cleaning
 Installation Modul Data Cleaning `data_cleaning`.

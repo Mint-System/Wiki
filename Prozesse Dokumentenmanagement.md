@@ -2,6 +2,8 @@
 tags:
   - Prozess
 responsible: Janik von Rotz
+kind:
+  - reference
 ---
 # Prozesse Dokumentenmanagement
 

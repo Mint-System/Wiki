@@ -2,7 +2,8 @@
 tags:
   - Prozess
 responsible: Kurt Gisler
-kind: howto
+kind:
+  - reference
 ---
 # Prozesse
 

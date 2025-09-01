@@ -2,6 +2,8 @@
 tags:
   - Asset
 section: organisation
+kind:
+  - explain
 ---
 # Code of Conduct
 

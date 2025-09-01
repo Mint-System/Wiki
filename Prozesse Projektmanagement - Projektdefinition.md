@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Projektmanagement - Projektdefinition
 Ein Projekt definieren.

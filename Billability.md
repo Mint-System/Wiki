@@ -2,6 +2,9 @@
 lang: en
 tags:
   - Asset
+kind:
+  - explain
+section: term
 ---
 # Billability
 

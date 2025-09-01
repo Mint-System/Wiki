@@ -1,6 +1,9 @@
 ---
 tags:
   - Definition
+section: contact
+kind:
+  - reference
 ---
 # Cloudscale
 

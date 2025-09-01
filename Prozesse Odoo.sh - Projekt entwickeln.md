@@ -1,3 +1,7 @@
+---
+kind:
+  - howto
+---
 # Prozesse Odoo.sh - Projekt entwickeln
 
 ## Odoo.sh Repository einrichten

@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Job
+kind:
+  - reference
+section: organisation
 ---
 # Stellenprofile
 

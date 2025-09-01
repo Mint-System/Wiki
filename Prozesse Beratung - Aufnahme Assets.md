@@ -1,7 +1,8 @@
 ---
 tags:
   - Prozess
-kind: reference
+kind:
+  - howto
 ---
 # Prozesse Beratung - Aufnahme Assets
 

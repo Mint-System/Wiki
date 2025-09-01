@@ -1,3 +1,7 @@
+---
+kind:
+  - howto
+---
 # Prozesse Odoo - Upgrade-Umgebung bereitstellen
 
 Auf der Upgrade-Umgebung verifiziert der Kunde die neue Odoo-Version.

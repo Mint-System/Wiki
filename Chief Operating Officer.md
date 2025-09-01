@@ -1,6 +1,10 @@
 ---
 tags:
   - Asset
+  - Job
+kind:
+  - explain
+section: organisation
 ---
 # Chief Operating Officer
 

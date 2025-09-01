@@ -2,6 +2,8 @@
 tags:
   - Prozess
 responsible: Janik von Rotz
+kind:
+  - reference
 ---
 # Prozesse Odoo.sh
 
@@ -18,4 +20,4 @@ Technische Dokumentation der Odoo.sh Prozesse.
 
 ## Upgrade
 
-* [[Prozesses Odoo.sh - Upgrade Implementation]]
+* [[Prozesse Odoo.sh - Upgrade Implementation]]

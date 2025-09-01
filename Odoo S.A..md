@@ -1,7 +1,8 @@
 ---
 tags:
   - Definition
-kind: explain
+kind:
+  - reference
 section: contact
 ---
 # Odoo S.A.

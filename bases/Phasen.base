@@ -8,6 +8,7 @@ views:
     order:
       - file.name
       - kind
+      - section
     sort:
       - property: file.name
         direction: ASC

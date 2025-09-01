@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Finanzen - Personalabrechnung
 Prozesse zur Personalabrechung der Mint System.

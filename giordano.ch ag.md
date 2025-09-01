@@ -2,6 +2,8 @@
 tags:
   - Definition
 section: contact
+kind:
+  - reference
 ---
 # giordano.ch ag
 

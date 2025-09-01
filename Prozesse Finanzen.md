@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - reference
 ---
 # Prozesse Finanzen
 Dokumentation der Finanz-Prozesse.

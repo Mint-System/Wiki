@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Finanzen - Spesenabrechnung
 Prozesse zur Spesenabrechnung der Mint System.

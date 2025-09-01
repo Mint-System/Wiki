@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Job
+section: organisation
+kind:
+  - explain
 ---
 # Open Source Expert
 

@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Finanzen - Verträge
 Prozesse zur Verwaltung von Verträgen mit Rechnungen.

@@ -1,5 +1,7 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Sicherheit - Assessment

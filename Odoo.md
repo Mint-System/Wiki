@@ -67,7 +67,6 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Painpoints]]
 * [[Odoo Troubleshooting]]
 * [[Fragen zu Odoo]]
-* [[Odoo Business Flow]]
 * [[Odoo 13]], [[Odoo 14]], [[Odoo 15]]
 * [[Odoo Community]]
 * [[Odoo Zertifizierung]]

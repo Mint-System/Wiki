@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Job
+section: organisation
+kind:
+  - reference
 ---
 # Jobs
 

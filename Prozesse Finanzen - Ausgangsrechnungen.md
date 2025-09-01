@@ -2,6 +2,8 @@
 tags:
   - Prozess
 responsible: Controller
+kind:
+  - howto
 ---
 # Prozesse Finanzen - Ausgangsrechnungen
 

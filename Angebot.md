@@ -35,7 +35,6 @@ Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösunge
 * [[Managed Server]]
 * [[Nextcloud Hosting]]
 * [[Odoo Hosting]]
-* [[BigBlueButton Hosting]]
 * [[Mail Hosting]]
 * [[Moodle Hosting]]
 * [[Wordpress Hosting]]

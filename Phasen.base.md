@@ -1,3 +1,6 @@
+---
+kind:
+---
 # Phasen
 | file.name | kind |
 | --- | --- |

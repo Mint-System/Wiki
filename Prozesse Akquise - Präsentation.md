@@ -1,6 +1,8 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
 ---
 # Prozesse Akquise - Präsentation
 Vorbereitung für eine Präsentation beim Kunden.

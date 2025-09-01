@@ -1,6 +1,9 @@
 ---
 tags:
-- Phasen
+  - Phasen
+kind:
+  - explain
+section:
 ---
 # Phase Abonnements
 

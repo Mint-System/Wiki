@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: dev
+kind:
+  - reference
 ---
 # Caluma
 

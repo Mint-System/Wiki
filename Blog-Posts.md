@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+section: blog
+kind:
+  - reference
 ---
 # Blog-Posts
 
