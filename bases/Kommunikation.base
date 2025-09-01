@@ -3,11 +3,12 @@ views:
     name: Table
     filters:
       and:
-        - section == "contacts"
+        - section == "communication"
     order:
       - file.name
       - kind
       - section
     sort: []
     columnSize:
-      file.name: 610
+      file.name: 347
+      note.kind: 212

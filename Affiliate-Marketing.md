@@ -1,5 +1,6 @@
 ---
 kind: reference
+section: communication
 ---
 # Affiliate-Marketing
 
