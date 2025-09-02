@@ -3,6 +3,7 @@ tags:
   - Definition
 kind:
   - reference
+section: vendor
 ---
 # Infomaniak
 

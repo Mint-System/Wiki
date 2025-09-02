@@ -1,6 +1,9 @@
 ---
 tags:
   - HowTo
+kind:
+  - howto
+section: vendor
 ---
 # Hetzner - Projekt verwalten
 

@@ -3,6 +3,7 @@ tags:
   - HowTo
 kind:
   - howto
+section: vendor
 ---
 # Hetzner - Festplattenspeicher erweitern
 

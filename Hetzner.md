@@ -3,6 +3,7 @@ tags:
   - Website
 kind:
   - reference
+section: vendor
 ---
 # Hetzner
 

@@ -3,6 +3,7 @@ tags:
   - HowTo
 kind:
   - howto
+section: vendor
 ---
 # Hetzner - RAM-Speicher erhöhen
 

@@ -1,6 +1,7 @@
 ---
 kind:
   - howto
+section: vendor
 ---
 # Infomaniak Kubernetes
 
