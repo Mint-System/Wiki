@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: term
+kind:
+  - explain
 ---
 # DKIM
 

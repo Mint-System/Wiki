@@ -4,7 +4,7 @@ tags:
 kind:
   - howto
 ---
-# restic Handbuch
+# Restic Handbuch
 
 ## Repo auf Server öffnen
 

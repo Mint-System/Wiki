@@ -3,6 +3,7 @@ tags:
   - Troubleshooting
 kind:
   - howto
+section: product
 ---
 
 

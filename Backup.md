@@ -13,7 +13,7 @@ Die Daten der Applikations-Container werden täglich gesichert. Container, die N
 
 ### Backup Management
 
-Das Backup Management wird mit [[restic]] ausgeführt. Restic ist ein Kommandozeilen-Tool um dient der automatisierten Ausführung von Backups. Es werden verschiedene Storage-Endpoints unterstützt.
+Das Backup Management wird mit [[Restic]] ausgeführt. Restic ist ein Kommandozeilen-Tool um dient der automatisierten Ausführung von Backups. Es werden verschiedene Storage-Endpoints unterstützt.
 
 Als Teil des [Infrastruktur-Codes](https://github.com/Mint-System/Ansible-Playbooks) wird ein automatisierter Backupzyklus konfiguriert. Neue Server und Container können so ohne erheblichen Aufwand gesichert werden.
 
@@ -31,5 +31,5 @@ Damit die Backups auch bei einem Ausfall des Backup Servers zur Verfügung stehe
 
 ## Anwendung
 
-[[restic - Wiederherstellung von Backups]]\
+[[Restic - Wiederherstellung von Backups]]\
 [[Disaster Recovery Plan]]

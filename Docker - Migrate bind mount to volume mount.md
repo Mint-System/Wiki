@@ -1,6 +1,9 @@
 ---
 tags:
-- HowTo
+  - HowTo
+section: product
+kind:
+  - explain
 ---
 # Docker: Migrate bind mount to volume mount
 

@@ -2,6 +2,7 @@
 tags:
   - HowTo
 kind: howto
+section: product
 ---
 # Docker - Move Docker data directory to new location
 

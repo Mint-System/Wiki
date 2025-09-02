@@ -2,6 +2,9 @@
 tags:
   - Troubleshooting
 lang: en
+kind:
+  - howto
+section: product
 ---
 
 # Odoo Build Troubleshooting

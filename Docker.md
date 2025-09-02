@@ -1,7 +1,9 @@
 ---
 tags:
   - Definition
-section: tool
+section: product
+kind:
+  - reference
 ---
 # Docker
 

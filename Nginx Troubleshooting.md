@@ -2,6 +2,7 @@
 tags:
   - Troubleshooting
 kind: howto
+section: product
 ---
 # Nginx Troubleshooting
 

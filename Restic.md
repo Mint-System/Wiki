@@ -15,6 +15,6 @@ Vercel Domains:
 - restic.build
 - restic.cloud
 
-[[restic Handbuch]]\
-[[restic - Wiederherstellung von Backups]]\
-[[restic Troubleshooting]]
+[[Restic Handbuch]]\
+[[Restic - Wiederherstellung von Backups]]\
+[[Restic Troubleshooting]]

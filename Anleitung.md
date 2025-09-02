@@ -11,7 +11,7 @@ section: meta
 * [[Prozesse]]
 * [[Git Handbook]]
 * [[N8N Handbook]]
-* [[restic Handbuch]]
+* [[Restic Handbuch]]
 * [[Python Handbook]]
 * [[Jenkins Handbuch]]
 * [[Firefox Handbuch]]

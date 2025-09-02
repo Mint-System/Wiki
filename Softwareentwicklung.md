@@ -31,7 +31,3 @@ Mehr dazu unter [[Continuous Delivery]].
 ## Data Processing
 
 [[N8N]]
-
-## Troubleshooting
-
-[[Softwareentwicklung Troubleshooting]]

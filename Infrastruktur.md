@@ -17,7 +17,6 @@ Beinhaltet:
 * [[Monitoring]]  
 * [[Service Accounts]]  
 * [[Mail]]
-* [[Domain]]
 * [[Terraform]]
 * [[Kubernetes]]
 * [[Nix]]

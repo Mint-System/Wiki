@@ -3,8 +3,9 @@ tags:
   - restic
 kind:
   - howto
+section: product
 ---
-# restic Troubleshooting
+# Restic Troubleshooting
 
 ## Snapshots
 

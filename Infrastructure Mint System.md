@@ -73,7 +73,7 @@ Prometheus provides "Exporters" for many applications. Data collection and visua
 ---
 ### Backup
 
-Backups are defined in Ansible and are done using [[restic]].
+Backups are defined in Ansible and are done using [[Restic]].
 
 * In Ansible inventory a backup set is defined
 * Ansible creates a cron job to run the backup
