@@ -2,6 +2,9 @@
 tags:
   - Specification
 lang: en
+kind:
+  - explain
+section: specification
 ---
 # Specification Website Sale Helm
 

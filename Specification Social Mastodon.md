@@ -1,5 +1,8 @@
 ---
 lang: en
+kind:
+  - explain
+section: specification
 ---
 
 # Specification Social Mastodon

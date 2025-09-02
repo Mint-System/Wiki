@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
+section: meta
 ---
 # Emoji
 

@@ -3,6 +3,9 @@ lang: en
 tags:
   - Specification
 deprecated: true
+kind:
+  - explain
+section: specification
 ---
 # Specification Website Sale Kubernetes Subscription OCA
 

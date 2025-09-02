@@ -3,6 +3,7 @@ tags:
   - Prozess
 kind:
   - howto
+section: process
 ---
 # Prozesse Odoo - Modul Migration
 
@@ -224,5 +225,7 @@ Arbeitsschritte:
 Arbeitsschritte:
 
 * Prüfen ob für das gesuchte Modul ein Pull-Request existiert, der alle Tests erfüllt
-* Prüfen ob eine Anleitung für die Odoo-Version existiert: [[Odoo Build - Migrate an OCA module]]
-* Modul-Migration gemäss Anleitung ausführen
+	* Denn Branch des Pull-Request bereitstellen 
+* Prüfen ob die OCA plant das Modul auf die Odoo Zielversion upzugraden
+	* Modul gemäss Anleitung [[Migrate OCA module to XX.0]] migrieren
+	* Den Branch des Ppull-Request bereitstellen

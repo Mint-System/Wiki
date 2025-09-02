@@ -3,6 +3,7 @@ tags:
   - Prozess
 kind:
   - howto
+section: process
 ---
 # Prozesse Odoo - App Verkäufe
 Installation Modul Verkäufe `sale_management`.

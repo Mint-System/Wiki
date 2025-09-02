@@ -1,6 +1,7 @@
 ---
 kind:
   - howto
+section: process
 ---
 # Prozesse Sicherheit - Odoo Security Advisory
 

@@ -3,11 +3,11 @@ views:
     name: Table
     filters:
       and:
-        - file.name.startsWith("Richtlinie")
-        - file.ext == "md"
+        - section == "policy"
     order:
       - file.name
       - kind
+      - section
     sort: []
     columnSize:
       file.name: 610

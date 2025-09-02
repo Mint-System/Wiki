@@ -3,6 +3,7 @@ kind:
   - explain
 tags:
   - Richtlinien
+section: policy
 ---
 # Richtlinie - Smarthpone
 

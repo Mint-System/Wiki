@@ -2,6 +2,9 @@
 tags:
   - Spezifikation
 draft: true
+section: specification
+kind:
+  - explain
 ---
 
 # Spezifikation Mint Cloud

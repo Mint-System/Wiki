@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - explain
+section: product
 ---
 
 ![[Banner Odoo Hosting Mint Cloud.jpg]]

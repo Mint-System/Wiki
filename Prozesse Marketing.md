@@ -3,6 +3,7 @@ tags:
   - Prozess
 kind:
   - reference
+section: process
 ---
 # Prozesse Marketing
 Dokumentation der Marketing Prozesse.

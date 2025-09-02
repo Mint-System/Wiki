@@ -3,6 +3,7 @@ tags:
   - Prozess
 kind:
   - howto
+section: process
 ---
 # Prozesse Odoo - App Kundenverwaltung
 Installation Modul Kundenverwaltung `crm`.

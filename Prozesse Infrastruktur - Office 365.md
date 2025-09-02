@@ -3,6 +3,7 @@ kind:
   - howto
 tags:
   - Prozess
+section: process
 ---
 # Prozesse Infrastruktur - Office 365
 

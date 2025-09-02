@@ -4,6 +4,7 @@ tags:
 responsible: Kurt Gisler
 kind:
   - reference
+section: process
 ---
 # Prozesse
 

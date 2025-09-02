@@ -3,6 +3,7 @@ tags:
   - Prozess
 kind:
   - howto
+section: process
 ---
 # Prozesse Infrastruktur - Server Monitoring
 Server in Monitoring einbinden.

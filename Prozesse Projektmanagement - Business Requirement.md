@@ -4,6 +4,7 @@ tags:
 responsible: Projektleiter
 kind:
   - howto
+section: process
 ---
 # Prozesse Projektmanagement - Business Requirement
 

@@ -3,6 +3,9 @@ lang: en
 tags:
   - Specification
 draft: true
+kind:
+  - explain
+section: specification
 ---
 # Specification Git Kubernetes
 

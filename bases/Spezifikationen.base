@@ -2,13 +2,13 @@ views:
   - type: table
     name: Table
     filters:
-      or:
-        - section == "process"
+      and:
+        - section == "specification"
     order:
       - file.name
       - kind
       - section
-      - tags
     sort: []
     columnSize:
-      file.name: 610
+      file.name: 347
+      note.kind: 212

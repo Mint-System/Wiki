@@ -3,6 +3,7 @@ tags:
   - Prozess
 kind:
   - howto
+section: process
 ---
 # Prozesse Odoo - App Odoo Direct Print
 Installation Modul Odoo Direct Print `print_node_base`.

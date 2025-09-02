@@ -4,6 +4,7 @@ tags:
 responsible: Janik von Rotz
 kind:
   - reference
+section: process
 ---
 # Prozesse Dokumentenmanagement
 

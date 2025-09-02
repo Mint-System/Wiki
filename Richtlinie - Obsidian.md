@@ -3,6 +3,7 @@ tags:
   - Richtlinien
 kind:
   - explain
+section: policy
 ---
 # Richtlinie - Obsidian
 

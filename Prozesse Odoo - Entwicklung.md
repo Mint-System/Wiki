@@ -4,6 +4,7 @@ tags:
 responsible: Janik von Rotz
 kind:
   - howto
+section: process
 ---
 # Prozesse Entwicklung
 

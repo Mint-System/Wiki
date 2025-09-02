@@ -2,6 +2,7 @@
 tags:
   - Phasen
 kind: explain
+section: service
 ---
 # Phase Odoo Upgrade
 

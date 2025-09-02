@@ -4,6 +4,7 @@ tags:
 responsible: Controller
 kind:
   - howto
+section: process
 ---
 # Prozesse Finanzen - Ausgangsrechnungen
 

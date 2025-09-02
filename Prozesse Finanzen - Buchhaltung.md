@@ -3,6 +3,7 @@ tags:
   - Prozess
 kind:
   - howto
+section: process
 ---
 # Prozesse Finanzen - Buchhaltung
 Führung der Buchhaltung der Mint System.

@@ -3,6 +3,7 @@ kind:
   - howto
 tags:
   - Prozess
+section: process
 ---
 # Prozesse Migration - Von Microsoft zu Infomaniak migrieren
 

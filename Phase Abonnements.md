@@ -3,7 +3,7 @@ tags:
   - Phasen
 kind:
   - explain
-section:
+section: service
 ---
 # Phase Abonnements
 

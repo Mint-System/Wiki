@@ -1,6 +1,7 @@
 ---
 kind:
   - explain
+section: service
 ---
 
 ---

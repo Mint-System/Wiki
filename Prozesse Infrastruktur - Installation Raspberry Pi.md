@@ -3,6 +3,7 @@ tags:
   - Prozess
 kind:
   - howto
+section: process
 ---
 # Prozesse Infrastruktur -  Installation Raspberry Pi
 Bereitstellung Raspberry Pi.

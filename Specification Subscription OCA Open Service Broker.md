@@ -3,6 +3,9 @@ tags:
   - Specification
 lang: en
 draft: true
+kind:
+  - explain
+section: specification
 ---
 
 # Specification Subscription OCA Open Service Broker
