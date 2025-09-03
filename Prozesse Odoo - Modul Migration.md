@@ -103,10 +103,12 @@ For example:
 <field name="test_field_1" attrs="{'invisible': [('active', '=', True)]}"/>
 <field name="test_field_2" attrs="{'invisible': [('zip', '!=', 123)]}"/>
 <field name="test_field_3" attrs="{'readonly': [('zip', '!=', False)]}"/>
+<field name="test_field_4" context="{'default_zip_id': active_id}" />
 To:
 <field name="test_field_1" invisible="active"/>
 <field name="test_field_2" invisible="zip != 123"/>
 <field name="test_field_3" readonly="zip"/>
+<field name="test_field_4" context="{'default_zip_id': id}" />
 Or for example:
 <div class="oe_chatter">
 	<field name="message_follower_ids"/>
