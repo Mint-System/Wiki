@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+section: infrastructure
+kind:
+  - reference
 ---
 # Telefonie
 
