@@ -82,6 +82,6 @@ Alles committen.
 
 ```bash
 git add --all
-git commit -m "chore: update from upstream"
+git commit -m "BREAKING CHANGE: update from upstream"
 git push -f --set-upstream origin main
 ```
