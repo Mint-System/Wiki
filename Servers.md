@@ -3,6 +3,7 @@ tags:
   - Asset
 kind:
   - reference
+section: infrastructure
 ---
 # Servers
 
