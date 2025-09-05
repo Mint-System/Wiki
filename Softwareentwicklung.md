@@ -2,6 +2,8 @@
 tags:
   - Definition
 section: organisation
+kind:
+  - reference
 ---
 # Softwareentwicklung
 
@@ -17,9 +19,10 @@ Wir verwenden [[Zsh]] als Shell.
 
 Als Integrated Development Environment (IDE) verwenden wir  [[Helix]], [[Emacs]] oder [[VSCodium]].
 
-## LLM
+## [[LLM]]
 
 [[Large Language Models]]
+
 ## Continuous Delivery
 
 Mehr dazu unter [[Continuous Delivery]].
@@ -31,3 +34,7 @@ Mehr dazu unter [[Continuous Delivery]].
 ## Data Processing
 
 [[N8N]]
+
+## Testing
+
+[[Mailpit]]

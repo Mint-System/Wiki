@@ -2,8 +2,9 @@
 tags:
   - Manpage
 kind: howto
+section: dev
 ---
-# Odoo Shell
+# Odoo Python Scripts
 
 ## Basics
 

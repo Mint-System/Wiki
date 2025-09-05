@@ -3,6 +3,7 @@ tags:
   - Website
 kind: reference
 lang: en
+section: dev
 ---
 # PostgreSQL
 
@@ -15,4 +16,3 @@ More: [[Foreign Data Wrapper]]
 ## Processes
 
 [[PostgreSQL Upgrade]]
-

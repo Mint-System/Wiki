@@ -1,3 +1,9 @@
+---
+kind:
+  - reference
+section: dev
+---
+
 # Mailpit
 
 SMTP-Mail catcher.

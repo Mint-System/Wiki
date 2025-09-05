@@ -3,6 +3,7 @@ kind:
   - explain
 lang: en
 author: Janik von Rotz
+section: dev
 ---
 # Compare coding agents
 

@@ -2,6 +2,9 @@
 tags:
   - Definition
   - Tools
+kind:
+  - explain
+section: term
 ---
 # LLM
 

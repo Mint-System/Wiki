@@ -2,6 +2,8 @@
 tags:
   - Manpage
 kind: howto
+lang: en
+section: dev
 ---
 # Odoo SQL Scripts
 

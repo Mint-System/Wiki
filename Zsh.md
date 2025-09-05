@@ -11,14 +11,10 @@ Website: <https://www.zsh.org/>
 
 Funktioniert am besten mit [[Oh-My-Zsh]].
 
-## Multiplexer
+## Terminal Multiplexer
 
-[[Zellj]]
+[[Zellj]], [[tmux]]
 
 ## Dotfiles
 
 Entwickler haben ihre eigenen [[dotfiles]].
-
-## Helper Skripte
-
-Unter [[Skripte]] findet man einen Index von verschiedenen Skripts.

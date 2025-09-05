@@ -7,40 +7,35 @@ kind: explain
 
 Technologien im Einsatz der Mint System.
 
-Browser:
+## Browser
 
 * [[Firefox]]
 
-Datenbanksystem:
+## Datenbanksystem
 
 * [[PostgreSQL]]
 * [[pgAdmin]]
+* [[Meilisearch]]
 
-Website:
+## Website
 
 * [[Hugo]]
 
-Identity and Access Management:
+## Identity and Access Management
 
 * [[Keycloak]]
 
-VPN:
+## VPN
 
 * [[Wireguard]]
+* [[autossh]]
 
-Druckserver:
-
-* [[CUPS]]
-
-Monitoring:
+## Monitoring
 
 * [[Grafana]]
+* [[Prometheus]]
 
-Qualitätsmanagent:
-
-* [[SBOM]]
-
-Mail:
+Mail
 
 * [[Mailpit]]
 

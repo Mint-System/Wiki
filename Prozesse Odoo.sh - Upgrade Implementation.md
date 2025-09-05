@@ -20,7 +20,7 @@ Der Name des Branches sollte die Odoo-Version enthalten, da es mehrere Upgrade-B
 * Verschiebe den Branch im Odoo.sh-Projekt in den Staging-Bereich.
 * Aktiviere das Upgrade im Upgrade-Tab.
 
-Überprüfe, ob das Upgrade ohne Probleme läuft. Falls nicht, erstelle ein Support-Ticket oder erstelle [[Odoo.sh Upgrade Scripts]].
+Überprüfe, ob das Upgrade ohne Probleme läuft. Falls nicht, erstelle ein Support-Ticket oder erstelle ein [[Odoo.sh Upgrade Script Module]].
 
 Jedes Mal, wenn ein Commit in diesem Branch gemacht wird, führt Odoo.sh die Upgrade-Skripte aus.
 
