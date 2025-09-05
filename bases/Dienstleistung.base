@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - section == "service"
+        - '!file.name.startsWith("Phase")'
     order:
       - file.name
       - kind
