@@ -93,13 +93,19 @@ ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" 
 ssh -p "$PORT" "$SERVER" docker-postgres-list -c "$TARGET_POSTGRES_CONTAINER"
 ```
 
-Rename the filestore if production mode and Odoo container is different.
+Rename the filestore if production mode.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker exec "$TARGET_ODOO_CONTAINER" mv "/var/lib/odoo/filestore/$TARGET_DATABASE" "/var/lib/odoo/filestore/$DATABASE"
 ```
 
-Update the proxy configuration and check backup configuration.
+Update the proxy configuration and update Ansible inventory.
+
+## Cleanup 🧹
+
+Remove the outdated Odoo container, volume, data and database.
+
+Merge the upgrade host definition into the main host definition.
 
 ## Troubleshooting 💡
 
