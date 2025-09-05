@@ -12,6 +12,7 @@ Technische Konfigurationen damit Sie an der Wissensdatenbank mitarbeiten können
 ## Initialisierung
 
 Arbeitsschritte:
+
 1. Erstellen Sie einen Account auf <https://github.com/>
 2. Werden Sie Mitglied bei <https://github.com/Mint-System/> (optional)
 3. Installieren Sie <https://obsidian.md/>

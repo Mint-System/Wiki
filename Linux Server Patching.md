@@ -1,12 +1,15 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
+section: product
 ---
 # Linux Server Patching
+
 Eine flexible Lösung um ihre [[Linux]] Server aktuell zu halten.
 
-[[Linux Server Patching Dokumentation|Dokumentation]]
-
+Das *Linux Server Patching* umfasst die Installation von Sicherheits-, Software- und Systemupdates auf unterschiedlichen Linux-Server. Es ist ein Automatisierungs-Werkzeug, dass ohne Aufsicht Patches auf konfigurierten System installiert und den Erfolgt des Vorgangs meldet.
 
 ## Troubleshooting
 

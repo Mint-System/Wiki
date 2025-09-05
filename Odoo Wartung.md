@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
+section: product
 ---
 # Odoo Wartung
 

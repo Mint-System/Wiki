@@ -1,11 +1,10 @@
 ---
 tags:
-- Definition
+  - Definition
+section: product
+kind:
+  - reference
 ---
 # Gitea
 
 Website: <https://gitea.io>
-
-## HowTos
-
-[[Gitea - Backup and Restore]]

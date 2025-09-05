@@ -2,6 +2,7 @@
 tags:
   - Website
 kind: reference
+section: product
 ---
 
 # Nextcloud
@@ -20,7 +21,7 @@ Weiterführende Links:
 [[Nextcloud Apps]]\
 [[Nextcloud Enterprise]]\
 [[Nextcloud Partner]]\
-[[Fragen zu Nextcloud]]\
+[[Nextcloud FAQ]]\
 [[Nextcloud Elektronische Signaturen]]\
 [[Nextcloud Talk]]\
 [[Nextcloud Destkop Client]]

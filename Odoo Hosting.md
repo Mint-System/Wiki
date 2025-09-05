@@ -2,7 +2,7 @@
 tags:
   - Asset
 kind:
-  - reference
+  - explain
 section: product
 ---
 # Odoo Hosting

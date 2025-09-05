@@ -2,6 +2,8 @@
 tags:
   - Unternehmensentwicklung
 section: organisation
+kind:
+  - reference
 ---
 # Ziele
 

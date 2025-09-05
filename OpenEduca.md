@@ -1,10 +1,13 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
+section: communication
 ---
 # OpenEduca
 
-Website: <[openeduca.ch](https://manager.infomaniak.com/v3/317103/ng/domain/1701908/dashboard)>
+Website: <https://openeduca.ch>
 
 Domain:
 

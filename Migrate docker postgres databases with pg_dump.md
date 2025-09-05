@@ -4,6 +4,7 @@ tags:
 archive: true
 kind:
   - howto
+section: dev
 ---
 # Migrate docker postgres databases with pg_dump
 

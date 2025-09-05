@@ -4,9 +4,9 @@ tags:
 kind: explain
 section: policy
 ---
-# Richtlinie - Dokumentenmanagementsystem
+# Richtlinie - DMS
 
-Dokumentation zur Dokumentablage der Mint System.
+[[DMS]] der Mint System.
 
 ## Ablagestruktur
 

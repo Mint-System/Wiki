@@ -1,8 +1,11 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - explain
+section: product
 ---
-# Fragen zu Nextcloud
+# Nextcloud FAQ
 
 ## Offen
 

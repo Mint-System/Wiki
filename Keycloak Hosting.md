@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+section: product
+kind:
+  - explain
 ---
 # Keycloak Hosting
 

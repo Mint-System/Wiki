@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - explain
+section: service
 ---
 # Technischer Support
 

@@ -2,6 +2,7 @@
 tags:
   - Definition
 kind: explain
+section: product
 ---
 # Odoo
 
@@ -27,7 +28,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo eCommerce]]
 * [[Odoo Website]]
 * [[Odoo Lager]]
-* [[Odoo Abwesenheitszeiten]]
+* [[Odoo App Abwesenheitszeiten]]
 * [[Odoo PoS]]
 * [[Odoo Bestand]]
 * [[Odoo Order Positions]]
@@ -66,8 +67,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 * [[Odoo Update]]
 * [[Odoo Painpoints]]
 * [[Odoo Troubleshooting]]
-* [[Fragen zu Odoo]]
-* [[Odoo 13]], [[Odoo 14]], [[Odoo 15]]
+* [[Odoo FAQ]]
 * [[Odoo Community]]
 * [[Odoo Zertifizierung]]
 * [[Odoo Tutorials]]

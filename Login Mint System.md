@@ -24,7 +24,7 @@ Mehr Details zur Konfiguration sind hier verfügbar: https://janikvonrotz.ch/202
 ## Realms
 
 Aktuell exisiteren die foglenden Realms:
-### [[mint-system.ch Realm]]
+### mint-system.ch Realm
 
 Zur Erfassung des OAuth-Providers stehen diese Informationen zur Verfügung:
 

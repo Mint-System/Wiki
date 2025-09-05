@@ -1,5 +1,6 @@
 ---
 kind: reference
+section: dev
 ---
 # Foreign Data Wrapper
 

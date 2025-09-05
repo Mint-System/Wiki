@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-section: term
+section: meta
 kind:
   - reference
 ---

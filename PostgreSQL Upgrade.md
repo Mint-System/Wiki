@@ -4,6 +4,7 @@ tags:
 archive: true
 kind:
   - howto
+section: dev
 ---
 # PostgreSQL Upgrade
 
@@ -75,7 +76,7 @@ Show current version.
 
 Move the directory.
 
-```
+```bash
 sudo rm -rf /var/lib/docker/volumes/odoo-development_odoo-db-data/_data
 sudo mv 12/data /var/lib/docker/volumes/odoo-development_odoo-db-data/_data
 ```
@@ -86,13 +87,13 @@ Change postgres version.
 
 Start the container.
 
-```
+```bash
 task start-db
 ```
 
 Check logs.
 
-```
+```bash
 docker logs db
 ```
 

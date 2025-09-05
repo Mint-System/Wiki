@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: product
+kind:
+  - reference
 ---
 # Keycloak
 
@@ -10,7 +13,8 @@ Vercel Domains:
 
 - keycloak.build
 
-Themen:
+Weiterführende Links:
+
 * [[Keycloak Assessment]]
 * [[Keycloak Upgrade]]
 * [[Keycloak Troubleshooting]]

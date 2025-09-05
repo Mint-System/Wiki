@@ -2,6 +2,7 @@
 tags:
   - Definition
 kind: reference
+section: infrastructure
 ---
 # Wireguard
 

@@ -5,6 +5,9 @@ kind: reference
 section: organisation
 ---
 # Dienstleistungen
+
+Übersetzung: [[Services]]
+
 Version: 2025-04-07
 
 Kompetenzen der Mint System GmbH und die dazugehörigen Dienstleistungen.

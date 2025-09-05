@@ -1,7 +1,10 @@
 ---
 tags:
-- Definition
+  - Definition
+section: service
+kind:
+  - explain
 ---
 # Software Engineering
 
-Dienstleistung von Mint System.
+Dienstleistung der Mint System.

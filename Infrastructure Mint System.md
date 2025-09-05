@@ -1,6 +1,9 @@
 ---
 tags:
-- Slide
+  - Slide
+section: infrastructure
+kind:
+  - explain
 ---
 ## Infrastructure Mint System
 

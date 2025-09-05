@@ -1,3 +1,9 @@
+---
+kind:
+  - reference
+section: contact
+---
+
 # Payrexx
 
 Payrexx ist eine Zahlungslösung für Online-Shops mit Sitz in der Schweiz.

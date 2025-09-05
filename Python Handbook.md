@@ -3,6 +3,7 @@ tags:
   - handbook
 kind:
   - howto
+section: tool
 ---
 
 # Python Handbook

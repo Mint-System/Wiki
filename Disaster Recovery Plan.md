@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+section: term
+kind:
+  - explain
 ---
 # Disaster Recovery Plan
 

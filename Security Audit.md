@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: service
+kind:
+  - explain
 ---
 # Security Audit
 

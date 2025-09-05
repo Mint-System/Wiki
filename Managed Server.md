@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+section: product
+kind:
+  - explain
 ---
 
 ![[Banner Managed Server.jpg]]

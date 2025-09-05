@@ -2,13 +2,13 @@ views:
   - type: table
     name: Table
     filters:
-      or:
-        - file.name.endsWith("Handbuch")
-        - file.name.endsWith("Handbook")
+      and:
+        - section == "service"
     order:
       - file.name
       - kind
       - section
     sort: []
     columnSize:
-      file.name: 610
+      file.name: 347
+      note.kind: 212

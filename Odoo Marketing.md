@@ -1,13 +1,13 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
+section: communication
 ---
 # Odoo Marketing
 
 Marketinginhalte für Odoo.
-
-[[Explaining Odoo]]
-
 ## SEO
 
 Url: <https://www.mint-system.ch/>
@@ -24,8 +24,8 @@ Beschreibung: Erhalten Sie Unterstützung für Odoo von einem kompetenten Schwei
 
 ## Texte
 
-> Die weltweit erfolgreiche All-in-one Management Software.  
-Dank modernster Technik so individuell wie ihre Firma.
+> Die weltweit erfolgreiche All-in-one Management Software.
+> Dank modernster Technik so individuell wie ihre Firma.
 
 1700 Mitarbeitende, 7 Millionen Benutzer in 110 Ländern, Übersetzungen in 32 Sprachen.
 
@@ -46,14 +46,10 @@ Brauchen Sie dennoch eine Verbindung zu einem System? Dank den offenen Schnittst
 
 ![[Odoo all-in-one software solution.png]]
 
-### Pakete
-
-[[Odoo Pakete]]
-
 ### Apps
 
-* [[Odoo Anwesenheitszeiten]]
-* [[Odoo Abwesenheitszeiten]]
+* [[Odoo App Anwesenheitszeiten]]
+* [[Odoo App Abwesenheitszeiten]]
 
 ## Das Wichtigste
 

@@ -3,6 +3,7 @@ tags:
   - Website
 kind:
   - reference
+section: contact
 ---
 # Digital Cluster Uri
 
@@ -18,7 +19,3 @@ Infomaniak Domain:
 - digital-cluster-uri.ch
 - cluster-uri.ch
 - digital-uri.ch
-
-## Angeschlossene Vereine
-
-[[Digital Directions Division]]

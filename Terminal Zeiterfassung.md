@@ -1,9 +1,13 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - explain
+section: product
 ---
 # Terminal Zeiterfassung
-Das "Terminal Zeiterfassung" ist ein Produkt der [[Mint System GmbH]].
+
+Das *Terminal Zeiterfassung* ist ein Produkt der [[Mint System GmbH]].
 
 ![[Produktbild.png]]
 

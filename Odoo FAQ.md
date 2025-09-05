@@ -1,8 +1,11 @@
 ---
 tags:
-- Asset
+  - Asset
+section: product
+kind:
+  - explain
 ---
-# Fragen zu Odoo
+# Odoo FAQ
 
 Offene Fragen rund um Odoo.
 

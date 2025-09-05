@@ -1,12 +1,15 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
+section: tool
 ---
 # Raspberry Pi
 
 ## Fernwartung
 
-Der Raspeberry Pi kann mit [[dataplicity]] verwaltet werden.
+Der Raspeberry Pi kann online verwaltet werden.
 
 Oder mit [[Wireguard]] verbunden werden.
 

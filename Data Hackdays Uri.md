@@ -1,6 +1,7 @@
 ---
 kind:
   - reference
+section: project
 ---
 # Data Hackdays Uri
 

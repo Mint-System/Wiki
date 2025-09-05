@@ -1,5 +1,6 @@
 ---
 kind: tutorial
+section: dev
 ---
 # Test FDW with Odoo
 

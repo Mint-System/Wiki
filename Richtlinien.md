@@ -35,7 +35,7 @@ Richtlinien der Mint System.
 ## Dokumentenmanagement
 
 * [[Richtlinie - Calc Dokumente]]
-* [[Richtlinie - Dokumentenmanagementsystem]]  
+* [[Richtlinie - DMS]]  
 * [[Richtlinie - Obsidian]]
 * [[Richtlinie - Datenschutz]]
 

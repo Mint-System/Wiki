@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
+section: communication
 ---
-# Odoo Abwesenheitszeiten
+# Odoo App Abwesenheitszeiten
 
 ## Beschreibung
 

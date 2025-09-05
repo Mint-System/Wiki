@@ -1,15 +1,19 @@
 ---
 tags:
   - Asset
+kind:
+  - explain
+section: product
 ---
 # Wartungsauftrag
+
 Revision: 2024-02-14
 
 Der Wartungsauftrag ist eine Kombination aus verschiedenen Hosting-Lösungen.
 
 ## Leistungen
 
-Die folgende Grafik gibt eine Übersicht über die Leistungen im Rahmen des [[ITIL - Service Catalogue Management]]:
+Die folgende Grafik gibt eine Übersicht über die Leistungen im Rahmen des ITIL Service Catalogue Management:
 
 ![[Managed Server.canvas|Managed Server]]
 
@@ -26,6 +30,7 @@ Für jedes Hosting gibt es eine Servicebeschreibung:
 * [[Wordpress Hosting#Servicebeschreibung]]
 * [[Nextcloud Hosting#Servicebeschreibung]]
 * [[Jenkins Hosting#Servicebeschreibung]]
+
 ## Intervalle
 
 Die Intervalle aus dem Leistungsbeschrieb definieren sich wie folgt:

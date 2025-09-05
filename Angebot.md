@@ -19,11 +19,10 @@ Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösunge
 * [[Linux Server Patching]]
 * [[OpenEduca]]
 * [[Odoo Zeiterfassung]]
-* [[ERPNext]]
 * [[Gitea]]
 * [[Caluma]]
 
-## [[Dienstleistungen]] / [[Services]]
+## [[Dienstleistungen]]
 
 * [[Workshops]]
 * [[Technischer Support]]

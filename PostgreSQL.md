@@ -11,8 +11,4 @@ section: dev
 
 Website: <https://www.postgresql.org/>
 
-More: [[Foreign Data Wrapper]]
-
-## Processes
-
-[[PostgreSQL Upgrade]]
+More: [[Foreign Data Wrapper]], [[PostgreSQL Upgrade]]
