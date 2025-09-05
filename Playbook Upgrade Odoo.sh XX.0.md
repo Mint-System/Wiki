@@ -5,9 +5,11 @@ kind:
 
 # Playbook Upgrade Odoo.sh XX.0
 
+The playbook supports two modes: test and production. When executing the production mode you have to set the env vars for the production branch.
+
 ## Prepare 📝
 
-Set env vars from the Odoo.sh branch.
+Set env vars for the Odoo.sh branch.
 
 ```bash
 export COMPANY="gelso"

@@ -8,6 +8,8 @@ kind:
 ---
 # Playbook Upgrade Odoo XX.0
 
+The playbook supports two modes: test and production. When executing the production mode the production database will be replaced with the upgraded database at the very end.
+
 ## Prepare 📝
 
 Start a command line and copy these env vars:
@@ -55,7 +57,7 @@ Run upgrade script in production mode.
 ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
 ```
 
-Copy filestore in test mode.
+Copy filestore if test mode or target odoo container is different.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-volume-copy -s "$ODOO_CONTAINER:/filestore/$DATABASE" -t "$TARGET_ODOO_CONTAINER:/filestore/$TARGET_DATABASE" -f
@@ -86,8 +88,8 @@ Run the test cases and process the feedback.
 Rename the databases if production mode.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" -s "$DATABASE" -t "${DATABASE}-old"
-ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
+ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$TARGET_ODOO_CONTAINER" -s "$DATABASE" -t "${DATABASE}-old"
+ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$TARGET_ODOO_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
 ssh -p "$PORT" "$SERVER" docker-postgres-list -c "$TARGET_POSTGRES_CONTAINER"
 ```
 
