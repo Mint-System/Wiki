@@ -30,7 +30,7 @@ export TARGET_POSTGRES_CONTAINER="postgres02"
 export TARGET_DATABASE="upgrade"
 ```
 
-Backup database and restore database if target postgres container is different.
+Backup database and restore database if target Postgres container is different.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
@@ -57,7 +57,7 @@ Run upgrade script in production mode.
 ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
 ```
 
-Copy filestore if test mode or target odoo container is different.
+Copy filestore if test mode or target Odoo container is different.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-volume-copy -s "$ODOO_CONTAINER:/filestore/$DATABASE" -t "$TARGET_ODOO_CONTAINER:/filestore/$TARGET_DATABASE" -f
@@ -88,10 +88,18 @@ Run the test cases and process the feedback.
 Rename the databases if production mode.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$TARGET_ODOO_CONTAINER" -s "$DATABASE" -t "${DATABASE}-old"
-ssh -p "$PORT" "$SERVER" docker-odoo-rename -c "$TARGET_ODOO_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
+ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" -s "$DATABASE" -t "${DATABASE}-old"
+ssh -p "$PORT" "$SERVER" docker-postgres-rename -c "$TARGET_POSTGRES_CONTAINER" -s "$TARGET_DATABASE" -t "$DATABASE"
 ssh -p "$PORT" "$SERVER" docker-postgres-list -c "$TARGET_POSTGRES_CONTAINER"
 ```
+
+Rename the filestore if production mode and Odoo container is different.
+
+```bash
+ssh -p "$PORT" "$SERVER" docker exec "$TARGET_ODOO_CONTAINER" mv "/var/lib/odoo/filestore/$TARGET_DATABASE" "/var/lib/odoo/filestore/$DATABASE"
+```
+
+Update the proxy configuration and check backup configuration.
 
 ## Troubleshooting 💡
 
