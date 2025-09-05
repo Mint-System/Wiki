@@ -1,3 +1,0 @@
-# Python
-
-[[Python Handbook]]

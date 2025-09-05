@@ -1,8 +1,9 @@
 ---
 tags:
   - Troubleshooting
-kind: howto
-section: product
+kind:
+  - howto
+section: dev
 ---
 # Nginx Troubleshooting
 

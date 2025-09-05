@@ -7,9 +7,11 @@ kind:
 ---
 # Softwareentwicklung
 
+Aspekte der Softwareentwicklung.
+
 ## Programmiersprache
 
-Wir verwenden [[Python]] für alle Projekte.
+Wir verwenden Python für alle Projekte.
 
 ## [[Terminal]]
 
@@ -38,3 +40,7 @@ Mehr dazu unter [[Continuous Delivery]].
 ## Testing
 
 [[Mailpit]]
+
+## Proxy
+
+[[Nginx]]

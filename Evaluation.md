@@ -25,3 +25,4 @@ Erledigte Evaluationen:
 * [[Evaluation Telefonieanbieter]]
 * [[Evaluation Nextcloud Office]]
 * [[Odoo Printing#Evaluation]]
+* [[Evaluation Odoo Hardware]]
