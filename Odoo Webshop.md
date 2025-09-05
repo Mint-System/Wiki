@@ -1,7 +1,10 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
+section: communication
 ---
-# Odoo Webshop
+# Odoo App Webshop
 
-Webshop-Lösung von Odoo. Siehe auch [[Odoo eCommerce]].
+Webshop-Lösung von Odoo. Siehe auch [[Odoo App eCommerce]].

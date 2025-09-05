@@ -1,14 +1,18 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
+section: communication
 ---
-# Odoo Fertigung
+# Odoo App Fertigung
+
 Eine der Stärken von Odoo ist die Fertigung.
 
-Module Fertigung:
+Weitere Apps der Fertigung:
 
-* [[Odoo Produktdatenmanagement (PDM)]]
-* [[Odoo Fertigungsaufträge Tabletansicht]]
+* [[Odoo App PDM]]
+* [[Odoo App Fertigung Tabletansicht]]
 
 ## Themen
 

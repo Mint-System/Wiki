@@ -1,19 +1,22 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - explain
 ---
 # Odoo Lager
 
-* [[Odoo Replenishment]]
-
 ## Themen
 
-Lagertransfers mit [[Ventor.app]].
+Lagertransfers mit [[Ventor PRO]].
 
 ## Video Tutorial
+
 [What's New in Odoo 14 Inventory?](https://www.youtube.com/watch?v=ujSeKrkx30g).
 
 Stichworte:
+
 - Neue Funktion Cluster Picking
 - Barcode Scanner auf dem Mobile Phone
 - Batch (06:20)

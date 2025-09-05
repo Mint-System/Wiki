@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - tutorial
+section: communication
 ---
-# Odoo Order Positions
+# Odoo App Order Positions
 
 Eine Sammlung von mehreren Modulen und Snippets.
 

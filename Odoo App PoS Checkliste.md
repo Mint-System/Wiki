@@ -1,11 +1,14 @@
 ---
 tags:
-- Prozess
+  - Prozess
+kind:
+  - howto
+section: communication
 ---
 
-# Odoo PoS Checkliste
+# Odoo App PoS Checkliste
 
-Diese Checkliste richtet sich an Kunden, welche [[Odoo PoS]] in Betrieb nehmen wollen.
+Diese Checkliste richtet sich an Kunden, welche [[Odoo App PoS]] in Betrieb nehmen wollen.
 
 ## Worldline
 
@@ -19,7 +22,7 @@ Im folgenden werden die Anforderungen zur Inbetriebnahme der Zahlungslösung von
 
 **Tablet**
 
-- [ ] Tablet mit der [[Odoo Mobile App]] zum Anzeigen der [[Odoo PoS]] App
+- [ ] Tablet mit der [[Odoo Mobile App]] zum Anzeigen der [[Odoo App PoS]]
 
 ### Login
 

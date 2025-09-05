@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - reference
+section: product
 ---
-# Ventor.app
+# Ventor Pro
 
 App zur effizienten Lager- und Warehouseverwaltung.
 

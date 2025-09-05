@@ -27,7 +27,7 @@ Schritte:
 Die Funktionsweise der Odoo-Oberfläche wird erläutert.
 
 Schritte:
-* Installation [[Odoo Lager]]
+* Installation [[Odoo App Lager]]
 * Herleiten des Vorgangs vom Klick bis zur Anzeige der Ansicht
 * Erläutern technische Einstellungen des [[Odoo Entwicklermodus]]
 * Nach Bedarf einfache Todo-App im Entwicklermodus erstellen

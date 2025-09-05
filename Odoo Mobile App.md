@@ -1,6 +1,9 @@
 ---
 tags:
-- Prozess
+  - Prozess
+section: communication
+kind:
+  - reference
 ---
 
 # Odoo Mobile App

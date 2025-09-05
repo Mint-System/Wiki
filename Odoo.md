@@ -17,21 +17,19 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 
 ## Apps
 
-* [[Odoo Fertigung]]
-* [[Odoo Finanzen]]
-* [[Odoo Kalender]]
-* [[Odoo Lohnabrechnung]]
-* [[Odoo Projekt]]
-* [[Odoo Planung]]
-* [[Odoo Verkäufe]]
-* [[Odoo Strichcode]]
-* [[Odoo eCommerce]]
-* [[Odoo Website]]
-* [[Odoo Lager]]
+* [[Odoo App Fertigung]]
+* [[Odoo App Finanzen]]
+* [[Odoo App Kalender]]
+* [[Odoo App Lohnabrechnung]]
+* [[Odoo App Projekt]]
+* [[Odoo App Verkauf]]
+* [[Odoo App Barcode]]
+* [[Odoo App eCommerce]]
+* [[Odoo App Website]]
+* [[Odoo App Lager]]
 * [[Odoo App Abwesenheitszeiten]]
-* [[Odoo PoS]]
-* [[Odoo Bestand]]
-* [[Odoo Order Positions]]
+* [[Odoo App PoS]]
+* [[Odoo App Order Positions]]
 
 ## System
 

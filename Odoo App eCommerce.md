@@ -2,9 +2,9 @@
 tags:
 - Definition
 ---
-# Odoo eCommerce
+# Odoo App eCommerce
 
-Odoo nennt den Webshop "eCommerce". 
+Odoo nennt den Webshop *eCommerce*.
 
 Link von Odoo zu den Features: <https://www.odoo.com/de_DE/page/e-commerce-features#part_8>
 
@@ -51,8 +51,7 @@ Vorgehen zum Einrichten der Produktvarianten:
 
 Als Zahlungsmittel stehen Stand Oktober 2020 nur Paypal, Ingenico, Adyen, Buckaroo, Authorize.net, PayUmoney, Stripe und SIPS Wordline zur Verfügung. 
 
-Eine Integration von den gängigen in der Schweiz eingesetzten Kreditkarten ist umgesetzt. Siehe dazu den Beschrieb in Odoo:
-https://www.odoo.com/documentation/user/13.0/general/payment_acquirers/payment_acquirers.html
+Eine Integration von den gängigen in der Schweiz eingesetzten Kreditkarten ist umgesetzt. Siehe dazu den Beschrieb in Odoo: https://www.odoo.com/documentation/user/13.0/general/payment_acquirers/payment_acquirers.html
 
 ## Versandarten
 

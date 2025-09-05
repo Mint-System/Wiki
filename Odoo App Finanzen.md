@@ -1,14 +1,14 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - reference
 ---
-# Odoo Finanzen
+# Odoo App Finanzen
 
 Finanzen sind in Odoo über verschiedene Module abgebildet.
 
-![[Odoo Finanzen Enterprise Module.png]]
-
-[[Odoo Finanzen Setup]]  
 [[Odoo Zahlungsanbieter]]
 
 ## Rechnungsdigitalisierung

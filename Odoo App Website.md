@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - explain
 ---
-# Odoo Website
+# Odoo App Website
 
 ## Themes
 

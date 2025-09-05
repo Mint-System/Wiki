@@ -1,16 +1,20 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
+section: communication
 ---
-# Odoo Strichcode
+# Odoo App Strichcode
 
-Einführung zu Odoo Strichcode: https://www.youtube.com/watch?v=OTfss3WF0jI
+Einführung zu Odoo Barcode: https://www.youtube.com/watch?v=OTfss3WF0jI
 
 Odoo generiert [[Barcode|Barcodes]] nach *1D Industrial Codes* (code128).
 
 ## Vorgänge
 
 Die Strichcode-App kennt verschiedene Vorgänge:
+
 * Dokument öffnen
 * Transfer starten
 * Übertragung Ort

@@ -2,7 +2,7 @@
 tags:
 - Definition
 ---
-# Odoo Verkäufe
+# Odoo App Verkauf
 
 ## Verkaufsgruppen und Baugruppen
 
@@ -35,9 +35,3 @@ Mit dem Kunden können in Form eines Rahmenvertrags zum Beispiel 10'000 Stk des 
 Mit der Odoo App [Blanket Sale Orde](https://apps.odoo.com/apps/modules/14.0/dev_blanket_sale_order/) können Rahmenaufträge erfasst werden. Von einer Chance kann ein Verkaufsangebot erstellt werden und von einem Angebot können mehrere Verkaufsaufträge erstellt werden. Die Verkaufsaufträge folgen ihren eigenen Lebenszyklus.
 
 ![[Erstellen Auftrag.png]]
-
-Video zur Odoo App:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GOlRnho-tzI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Mehr zur [[Odoo App Blanket Sale Order]]
