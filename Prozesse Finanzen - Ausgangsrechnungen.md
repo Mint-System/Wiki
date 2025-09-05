@@ -32,7 +32,7 @@ Arbeitsschritte:
 * Einen oder mehrere Aufträge eines Kunden markieren
 * *Aktion > Rechnungen erstellen* ausführen
 * Auf der Rechnung den Bericht *Zeitnachweis-Einträge* drucken
-* Im Bericht den Zeitraum kopieren
+* Die Datei im Projekt-Ordner ablegen, öffnen und die Angaben des Zeitraum kopieren
 * Auf der Rechnung *Senden & Drucken* ausühren
 * Den Zeitnachweis anhängen und den Zeitraum einfügen
 * Die Anrede- und Grusszeile anpassen
@@ -53,6 +53,7 @@ Arbeitsschritte:
 ## Odoo Kommissionen verrechnen
 
 Arbeitsschritte:
+
 * Bestellungen im Odoo Portal herunterladen unter [Portal - Bestellungen](https://www.odoo.com/de_DE/my/purchase)
 * Neue Rechnung erstellen *Finanzen > Ausgangsrechnungen > Neue Rechnung* und als Kunde die Rechnungsadresse von Odoo S.A. mit Mail 	
 commissions@odoo.com auswählen
