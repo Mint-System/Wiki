@@ -15,26 +15,40 @@ Rechnungen erstellen und versenden.
 Arbeitsrapport werden jeweils am Ende des Monats validiert, daraus werden die Ausgangsrechnungen generiert.
 
 Arbeitsschritte:
-* App Zeiterfassung  öffnen
-* Einträge auf den letzten Tag im Monat validieren
 
-## Zeitrapport erstellen
+* Ansicht *Zeiterfassung > Alle Zeiterfassungen* öffnen
+* Filtern nach *Meine Projekte*, *Entwurf* und letzter Monat
+* Gruppieren nach Projekt und abrechenbarer Typ (Preis)
+* Sortieren nach aufgewendete Stunden
+* Aufgewendete Stunden pro Projekt prüfen
+* Einträge bei Bedarf korrigieren und validieren
 
-Mit der Rechnung wird immer der dazugehörige Arbeitsrapport verschickt.
+## Verkaufsaufträge abrechnen
+
+Arbeitsschritte:
+
+* Aufrufen abzurechnende Aufträge
+* Gruppieren nach Vertriebsmitarbeiter
+* Einen oder mehrere Aufträge eines Kunden markieren
+* *Aktion > Rechnungen erstellen* ausführen
+* Auf der Rechnung den Bericht *Zeitnachweis-Einträge* drucken
+* Im Bericht den Zeitraum kopieren
+* Auf der Rechnung *Senden & Drucken* ausühren
+* Den Zeitnachweis anhängen und den Zeitraum einfügen
+* Die Anrede- und Grusszeile anpassen
+* Die Rechnung verschicken
+
+## Abonnements abrechnen
+
+Die Abonnments erzeugen automatisch eine Rechnung.
 
 Arbeitsschritte:
 
-* Projekt-Übersicht anzeigen und Zeiterfassung öffnen
-* Anzeigen Einträge zur Verrechnung
-* Erstellen und Ablagen Bericht *Zeitnachweis-Eintrage*
-
-## Ausgangsrechnung erstellen
-
-Arbeitsschritte:
-* Projekt-Übersich öffnen und Rechnung erzeugen
-* Konten, Mehrwertssteuersatz und Kostenstelle prüfen
-* Verlinken Zeitrapport
-* Rechnung als Entwurf bereitstellen.
+* Aufrufen Abonnements-Rechnungen unter Ausgangsrechnungen
+* Rechnung bestätigen und versenden
+* Als Mail-Vorlage *Abonnement: Abonnementrechnung* auswählen
+* Die Anrede- und Grusszeile anpassen
+* Die Rechnung verschicken
 
 ## Odoo Kommissionen verrechnen
 
