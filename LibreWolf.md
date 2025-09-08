@@ -4,6 +4,7 @@ tags:
 kind:
   - reference
 lang: en
+section: tool
 ---
 
 # LibreWolf
@@ -16,9 +17,15 @@ Website: <https://librewolf.net/>
 
 In the settings set these options:
 
-* [x] Open previous windows and tabs
-* [ ] Delete cookies and site data when LibreWolf is closed
-* [x] Ask to save passwords
-* [ ] Clear history when LibreWolf closes
+Enable: Open previous windows and tabs
+Disable: Delete cookies and site data when LibreWolf is closed
+Disable: Ask to save passwords
+Disable: Clear history when LibreWolf closes
 
-Open `about:conifg` tab and reset value for `privacy.resistFingerprinting`.
+And in the `about:config` set these options:
+
+```
+privacy.resistFingerprinting = false
+privacy.fingerprintingProtection = true
+privacy.fingerprintingProtection.overrides = +AllTargets,-JSDateTimeUTC
+```
