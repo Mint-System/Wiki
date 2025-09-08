@@ -17,7 +17,7 @@ Mail: <janik.vonrotz@mint-system.ch>\
 Alias: janik, jvr, login\
 Matrix: `@janikvonrotz:mint-system.ch`\
 vCard: [[vCard#Janik von Rotz]]\
-GitHub: <https://github.com/janikvonrotz>\
+Codeberg: https://codeberg.org/janikvonrotz/  
 GitLab: <https://gitlab.com/janikvonrotz/>
 
 ## SSH
@@ -27,3 +27,9 @@ Public SSH-Key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIHarIdS0WP5IaFDhboz2583edn
 ## CV
 
 Projektleiter Janik von Rotz ist ausgebildeter Wirtschaftsinformatiker und hat bereits verschiedene Webauftritte konzipiert und implementiert. 
+
+## Mitgliedschaften
+
+Mitglied bei:
+
+* [[CH Open]]

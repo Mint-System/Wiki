@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - reference
+section: organisation
 ---
 # Mitgliedschaften
 
@@ -10,3 +13,4 @@ Die Mint System ist Mitglied bei:
 * [[Digital Cluster Uri]]
 * [[BINARY business]]
 * [[CH Open]]
+* [[Odoo Community Association]]
