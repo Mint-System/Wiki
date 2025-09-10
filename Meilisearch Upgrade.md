@@ -8,16 +8,30 @@ lang: en
 
 This is a step by step tutorial for the [Meilisearch dump upgrade](https://www.meilisearch.com/docs/learn/update_and_migration/updating#using-a-dump).
 
+## Prepare
+
+Set the Meilisearch master key and url.
+
 ```bash
 API_URL=
 API_KEY=
 ```
 
-## Prepare
+Create a backup of Meilisearch data.
 
-Get the Meilisearch master key.
+```bash
+
+```
+
+Navigate into the Ansible-Build directory.
+
+```bash
+cd ~/Ansible-Build
+```
 
 ## Execute
+
+Trigger dump creation.
 
 ```bash
 curl \
@@ -25,4 +39,34 @@ curl \
   -H "Authorization: Bearer $API_KEY"
 ```
 
-## Post
+Check status of dump creation.
+
+```bash
+
+```
+
+Deploy new Meilisearch image with Ansible.
+
+```bash
+
+```
+
+Connect to the host.
+
+```bash
+task connect-host eros
+```
+
+Import the dump.
+
+```bash
+./meilisearch --import-dump dumps/{dump_uid.dump} --master-key="MASTER_KEY"
+```
+
+## Cleanup
+
+Delete dump files.
+
+```bash
+
+```
