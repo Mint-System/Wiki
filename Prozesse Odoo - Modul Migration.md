@@ -172,7 +172,6 @@ EOF
 task update-with-llm addons/$REPO/$MODULE/views/*.xml "$TASK"
 ```
 
-
 ```
 TASK=$(cat << EOF
 Migrate model fields state definitions:
