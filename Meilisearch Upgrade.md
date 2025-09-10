@@ -57,6 +57,12 @@ Connect to the host.
 task connect-host eros
 ```
 
+Enter the Meilisearch container.
+
+```bash
+docker exec 
+```
+
 Import the dump.
 
 ```bash
