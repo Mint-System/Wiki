@@ -72,7 +72,7 @@ Die Massnahmen müssen ein Datensicherheitsniveau sicherstellen, das den Risiken
 
 ## 5. Unterauftragsverarbeiter
 
-Die nachfolgenden Unterauftragsbearbeiter bearbeiten im Auftrag des Dienstleister bereits bei Vertragsabschluss Personendaten, welche dem Dienstleister vom Verantwortlichen zur Bearbeitung zur Verfügung gestellt worden sind, wozu der Verantwortliche hiermit die Zustimmung erteilt: ==NAME, ADRESSE] ODER [Bei Vertragsschluss bestehen keine Unterauftragsbearbeitungsverträge.==
+Die nachfolgenden Unterauftragsbearbeiter bearbeiten im Auftrag des Dienstleister bereits bei Vertragsabschluss Personendaten, welche dem Dienstleister vom Verantwortlichen zur Bearbeitung zur Verfügung gestellt worden sind, wozu der Verantwortliche hiermit die Zustimmung erteilt: ==[NAME, ADRESSE] ODER [Bei Vertragsschluss bestehen keine Unterauftragsbearbeitungsverträge.]==
 
 Der Dienstleister informiert den Verantwortlichen schriftlich oder per E-Mail über jeden beabsichtigten Beizug eines zusätzlichen Unterauftragsverarbeiters. Der Verantwortliche hat das Recht, beim Dienstleister gegen einen solchen Beizug innert 10 Kalendertagen schriftlich oder per E-Mail Einspruch zu erheben. Im Falle eines solchen Einspruchs darf der Dienstleister den vorgesehenen Unterauftragsverarbeiter nicht beauftragen.
 
