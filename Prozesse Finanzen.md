@@ -6,6 +6,7 @@ kind:
 section: process
 ---
 # Prozesse Finanzen
+
 Dokumentation der Finanz-Prozesse.
 
 * [[Prozesse Finanzen - Ausgangsrechnungen]]
