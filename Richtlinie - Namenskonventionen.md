@@ -20,6 +20,7 @@ Die Nextcloud Dokumentablage muss folgende Konventionen einhalten:
 Server werden nach griechischen Götter nach folgendem Schema benannt: `$NAME.mint-system.com`
 
 Liste der griechischen Götter: <https://greekgodsandgoddesses.net/>
+
 ### Volumes
 
 Zusätzliche Festplatten werden mit der Bezeichnung `$SERVERNAME-disk$NUMBER` bezeichnet und unter `/mnt/` mit dem Namen gemounted.
