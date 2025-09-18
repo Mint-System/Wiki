@@ -14,30 +14,31 @@ Description of the Nextcloud upgrade process.
 * Define config.
 
 ```bash
-export NEXTCLOUD_CONTAINER=nextcloud02
-export DATABASE_CONTAINER=postgres07
+export ALIAS=eos
 ```
 
-* Backup volumes and database.
+* Backup database.
 
 ```bash
-docker-volume-backup -a -c $NEXTCLOUD_CONTAINER
-docker-postgres-backup -a -c $DATABASE_CONTAINER
+cd Ansible-Build
+task connect-host $ALIAS
+sudo cron-job-run -n "Backup job postgres dump nextcloud"
 ```
 
 * Update Nextcloud image tag.
 
 ```yml
-nextcloud_image: nextcloud:21.0.5-apache
+nextcloud_image: nextcloud:29-apache
 ```
 
-* Deploy the new container
-
-* Tail the log while the upgrade is performed
+* Deploy the new container.
 
 ```bash
-docker logs -f $NEXTCLOUD_CONTAINER
+task play -i inventories/nextcloud plays/nextcloud.yml -l eos 
 ```
+
+* Abort when Ansible is waiting for the database.
+* Re-run the plabyook once the upgrade has finished.
 
 ## Troubleshooting
 
