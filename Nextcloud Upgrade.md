@@ -1,6 +1,9 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - tutorial
+section: dev
 ---
 # Nextcloud Upgrade
 

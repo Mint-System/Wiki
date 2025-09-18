@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+kind:
+  - explain
+section: communication
 ---
 # Odoo Upgrade
 
