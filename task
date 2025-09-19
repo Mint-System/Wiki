@@ -26,6 +26,7 @@ function help() {
     printf "$COLUMN" "serve-vuepress" "" "Serve vuepress build."
     printf "$COLUMN" "convert-files" "" "Convert markdown wiki links to normal link."
     printf "$COLUMN" "convert-canvas" "" "Convert canvas files to svg."
+    printf "$COLUMN" "generate-bases-view" "" "Generate markdown tables from bases."
     printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
 }
 
@@ -103,6 +104,10 @@ function build-vuepress() {
 function serve-vuepress() {
     cd ./src/.vuepress/dist
     pnpx serve
+}
+
+function generate-bases-view() {
+    node generate-bases-view.js
 }
 
 function convert-files() {

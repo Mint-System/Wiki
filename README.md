@@ -15,12 +15,14 @@ Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
 
 Die Navigation der Wissensdatenbank erfolgt nicht hierarchisch, sondern entlang von Beziehungen. Jeder Wikilink zeigt auf einen Artikel, welcher wiederum weitere Artikel verlinkt.
 
-Die Wissensdatenbank orientiert sich am [[Standard für Dokumentationssysteme]]. Alle Artikel entsprechen einer dieser Typen:
+Die Wissensdatenbank orientiert sich am [[Standard für Dokumentationssysteme]]. Alle Artikel entsprechen einem dieser Typen:
 
 [[Tutorial]]: Ist eine Lektion.\
 [[Anleitung]]: Behandelt ein reales Ziel oder Problem.\
 [[Referenz]]: Enthält technische Fakten.\
 [[Erklärung]]: Liefert Kontext und Hintergrund.
+
+Im weiteren wurden die Artikel in Abschnitte unterteilt und daraus Tabellen generiert. Im Artikel [[Liste Übersicht]] finden Sie eine Liste aller Tabellen.
 
 ## Mitarbeit
 

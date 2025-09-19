@@ -1,8 +1,8 @@
 {
   "name": "wiki",
   "scripts": {
-    "pre-build": "node generate-base-views.js && node build.js",
-    "build": "node generate-base-views.js && node build.js && vuepress build src",
+    "pre-build": "node generate-bases-view.js && node build.js",
+    "build": "node generate-bases-view.js && node build.js && vuepress build src",
     "dev": "vuepress dev src"
   },
   "devDependencies": {
