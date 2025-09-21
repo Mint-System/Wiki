@@ -2,6 +2,8 @@
 tags:
   - Definition
 section: account
+kind:
+  - reference
 ---
 # Digital cluster Uri Bot
 

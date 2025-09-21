@@ -2,6 +2,8 @@
 tags:
   - Asset
 section: account
+kind:
+  - reference
 ---
 # Test Mint System
 
