@@ -9,7 +9,7 @@ section: communication
 
 Website: <https://openeduca.ch>
 
-Domain:
+Infomaniak Domains:
 
 - openeduca.ch
 

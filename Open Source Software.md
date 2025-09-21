@@ -9,6 +9,6 @@ Mint System steht für Open Source Software.
 
 Website: <https://opensourcesoftware.ch>
 
-Domain:
+Infomaniak Domains:
 
 - opensourcesoftware.ch 

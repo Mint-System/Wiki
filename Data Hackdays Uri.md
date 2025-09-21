@@ -7,6 +7,6 @@ section: project
 
 Website: <https://data-hackdays-uri.ch>
 
-Domain:
+Infomaniak Domains:
 
 - data-hackdays-uri.ch
