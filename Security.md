@@ -2,6 +2,9 @@
 tags:
   - Asset
 lang: en
+section: term
+kind:
+  - reference
 ---
 # Security
 
@@ -9,14 +12,9 @@ Security is a practice. It is not something that can be bought or out sourced. A
 
 Topics:
 
-* [[Web Application Firewall]]  
-* [[Zugriffskontrolle]]  
 * [[Passwortmanager]]  
 * [[Spam]]
-* [[Offensive Security]]
 * [[Mail Security]]
-* [[CVE]]
 * [[Odoo Security]]
 * [[SSH-Zugriff]]
 * [[CrowdSec]]
-* [[SSH]]

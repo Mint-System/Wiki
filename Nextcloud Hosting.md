@@ -30,4 +30,4 @@ Täglicher Sicherung der Dateien und Datenbank.
 
 **Anwendungsschutz**
 
-Die Nextcloud-Anwendung wird mit einer [[Web Application Firewall]] (WAF) geschützt. 
+Die Nextcloud-Anwendung wird mit einem Nginx-Proxy geschützt. 

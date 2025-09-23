@@ -1,14 +1,19 @@
 ---
 tags:
-- Asset
+  - Asset
+kind:
+  - explain
+section: communication
 ---
 # SSH-Zugriff
 
 Die Verwaltung eines Linux-Server erfolgt mit einer [[Kommandozeile]]. Es gibt also keine grafische Oberfläche um die Einstellungen und Software auf dem zu steuern. SSH erlaubt den Fernzugriff auf die Kommandozeile.
 
-## Ansible
+## Dokumentation
 
 Mit [[Ansible]] werden die Server-Konfigurationen beschrieben und über Kommandozeilen-Befehle angewendet. Diese Server-Konfiguration wird auf einem anderen Computer gespeichert und daher muss eine Verbindung zwischen Ansible-Client und dem Server möglich sein.
+
+Mitarbeiter der Mint System erhalten nur auf bestimmte Server Administrations-Zugriff. Zugriffe auf Server werden protokolliert. Es gibt keine System-Benutzer.
 
 ## Sicherheit
 

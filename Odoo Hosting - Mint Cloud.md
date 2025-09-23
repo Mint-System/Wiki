@@ -36,4 +36,4 @@ Das Upgrade der Odoo Enterprise Datenbank auf eine neue Odoo Version ist Hosting
 
 **Umfassender Anwendungsschutz**
 
-Die Odoo-Anwendung wird mit einer [[Web Application Firewall]] (WAF) geschützt. Die WAF wird fortlaufend trainiert und für neue Angriffsszenarien gerüstet.
+Die Odoo-Anwendung wird mit einem Nginx-Proxy geschützt.

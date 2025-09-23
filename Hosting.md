@@ -34,7 +34,7 @@ Anwenungsupdates und Sicherheitspatches werden fortlaufend installiert.
 
 ### Schutz
 
-Die Webanwendungen der Mint System werden von einer [[Web Application Firewall]] (WAF) geschützt. Dieser Schutz-Mechanismus wird fortlaufend trainiert und verbessert.
+Die Webanwendungen der Mint System werden von einem Nginx-Proxy geschützt. Dieser Schutz-Mechanismus wird fortlaufend trainiert und verbessert.
 
 ### Support
 
@@ -42,6 +42,7 @@ Unser Ticketsystem und Forum steht Ihnen zu Verfügung. Bei dringenden Notfälle
 
 [[Wartungsvertrag]]\
 [[Supportvertrag]]
+
 ### Service Level Agreement
 
 Das offertiete Hosting kann als Service Level Agreement (SLA) festgehalten werden.

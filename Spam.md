@@ -1,6 +1,10 @@
 ---
 tags:
-- Definition
+  - Definition
+lang: en
+kind:
+  - explain
+section: term
 ---
 # Spam
 
