@@ -31,10 +31,9 @@ Geschäftsbeziehungen der Mint System.
 
 * [[Nextcloud GmbH]]
 
-## Open Source Partner
+## Infrastruktur
 
 * [[VSHN AG]]
-* [[Cybrosys]]
 
 ## Softwareentwicklung
 
