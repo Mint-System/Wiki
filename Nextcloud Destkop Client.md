@@ -2,6 +2,9 @@
 tags:
   - HowTo
 lang: en
+kind:
+  - tutorial
+section: tool
 ---
 # Nextcloud Desktop Client
 
