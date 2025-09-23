@@ -9,7 +9,7 @@ lang: en
 
 Download and isntall the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
 
-### Installation for Linux (package)
+## Installation for Linux (package)
 
 Mit dem Package manager die App installieren.
 
