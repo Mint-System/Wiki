@@ -46,6 +46,16 @@ Der Kunde kann nach Wunsch direkten Zugriff auf den Server haben.
 
 Benötigen Sie technischen Support für eine Anwendung, können Sie uns jederzeit kontaktieren.
 
+## Sicherheit
+
+Die im Internet exponierten Server zu schützen, hat höchste Priorität!
+
+- Applikationen laufen in isolierten Umgebungen ([[Containervirtualisierung]]) und sind vom Host-System abgetrennt.
+- Die Server und Applikationen werden in einer [[Zero-Trust-Architektur]] bereitgestellt. Sie vertrauen niemanden, nicht mal sicht selbst.
+- Ein [[SSH-Zugriff]] auf den Server ist nur mit Private/Public-Schlüssel möglich.
+- Alle Webanwendungen werden mit einem Nginx-Proxy abgetrennt.
+- Für Server mit hohem Anfrage-Volumen stellen wir die [[FireHOL]]-Blocklisten zur Verfügung.
+
 ## Abgrenzung
 
 **Keine Applikationen**
