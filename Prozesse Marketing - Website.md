@@ -7,6 +7,8 @@ kind:
 
 ## Referenzen aktualisieren
 
+Arbeitsschritte:
+
 * Website Repo <https://github.com/Mint-System/Website> klonen
 * In der Datei `Website/data/references.yaml` einen Eintrag erstellen
 
@@ -29,3 +31,11 @@ Do not use more than 100 words. Do not mention the domain itself. Lookup informa
 * Das Logo als PNG-Datei auf der Seite <obsidian://open?vault=Website&file=static%2Fassets%2Fimages%2Freferences%2FREADME> einfügen
 * Die Website-Vorschau lokal generieren
 * Die Änderungen committen und pushen
+
+## Icons aktualisieren
+
+Arbeitsschritte:
+
+* Brand-Page von Odoo aufrufen: <https://www.odoo.com/page/brand-assets#part_6>
+* Icons suchen und herunterladen
+* Icon-Dateien in Website ersetzen
