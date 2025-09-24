@@ -1,6 +1,10 @@
 ---
 tags:
-- HowTo
+  - HowTo
+section: dev
+lang: en
+kind:
+  - tutorial
 ---
 # Tutorial: Install Odoo Studio
 

@@ -1,10 +1,14 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - explain
 ---
 # Odoo Update
 
 Notizen zum Update von Odoo.
+
 ## Vorgang
 
 Im Grunde ist die Aktualisierung von Odoo in den Minor Versions trivial. Einfach Docker Image und Git Repository aktualisieren.

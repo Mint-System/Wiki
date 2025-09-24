@@ -1,6 +1,9 @@
 ---
 tags:
-- Asset
+  - Asset
+section: dev
+kind:
+  - explain
 ---
 # Evaluation Odoo Report
 

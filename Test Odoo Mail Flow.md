@@ -1,11 +1,15 @@
 ---
 lang: en
 tags:
-- HowTo
+  - HowTo
+section: dev
+kind:
+  - explain
 ---
 # Test Odoo Mail Flow
 
 This document explains how to setup the Odoo development environment to test the Odoo mail communication.
+
 ## Prepare
 
 * Get access credentials for the external mailbox <test@mint-system.ch>

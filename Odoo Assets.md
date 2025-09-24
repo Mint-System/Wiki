@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: dev
+kind:
+  - explain
 ---
 # Odoo Assets
 

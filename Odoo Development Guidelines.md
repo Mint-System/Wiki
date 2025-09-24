@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+section: dev
+kind:
+  - explain
 ---
-# Odoo Devleopment Guidelines
+# Odoo Development Guidelines
 
 ## Odoo Modules
 ### What is a Odoo module?

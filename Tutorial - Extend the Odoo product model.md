@@ -1,6 +1,10 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - tutorial
+section: dev
+lang: en
 ---
 # Tutorial: Extend the Odoo product model
 

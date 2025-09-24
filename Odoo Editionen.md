@@ -1,3 +1,8 @@
+---
+kind:
+  - reference
+section: communication
+---
 # Odoo Editionen
 
 Odoo gibt es in zwei Editionen: [[Odoo Enterprise Edition]] und [[Odoo Community Edition]].

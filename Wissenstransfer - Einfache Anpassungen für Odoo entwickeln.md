@@ -1,6 +1,9 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - tutorial
+section: organisation
 ---
 # Wissenstransfer: Einfache Anpassungen für Odoo entwickeln
 

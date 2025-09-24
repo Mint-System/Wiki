@@ -1,3 +1,9 @@
+---
+section: communication
+kind:
+  - explain
+---
+
 # Odoo Lifecycle
 
 Der Lebenszyklus der Odoo-Applikation.

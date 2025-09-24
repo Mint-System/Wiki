@@ -2,6 +2,7 @@
 tags:
   - Definition
 kind: reference
+section: communication
 ---
 # Odoo Eigenentwicklungen
 
@@ -34,6 +35,7 @@ Vorteile Entwicklung einer Applikation im Kontext von Odoo:
 * Machbarkeitsnachweis (Proof of Concept)
 
 ### Phase 3 - Realisierung
+
 * Iterative Entwicklung
 	* Implementation
 	* Testen
@@ -45,6 +47,7 @@ Vorteile Entwicklung einer Applikation im Kontext von Odoo:
 * Bereitstellung and Integration
 
 ### Phase 4 - Support
+
 * Support und Beratung
 * Betrieb und Überwachung
 

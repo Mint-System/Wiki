@@ -1,6 +1,10 @@
 ---
 tags:
-- HowTo
+  - HowTo
+section: communication
+lang: en
+kind:
+  - explain
 ---
 # Develope an Odoo module
 
@@ -34,12 +38,6 @@ The Copier template ships a [[pre-commit]] configuration, that uses [[pylint]] f
 
 ## Python Linting
 
-The template ships with a lot more quality tools. The config files for these tools are stored in the root of each repo and branch. Here is an example <https://github.com/OCA/sale-workflow/blob/16.0>.
+The linting uses tool like [[prettier]]. The template ships with a lot more quality tools. The config files for these tools are stored in the root of each repo and branch. Here is an example <https://github.com/OCA/sale-workflow/blob/16.0>.
 
-The most important quality tools are:
 
-* [[flake8]]
-* [[isort]]
-* [[black]]
-* [[autoflake]]
-* [[prettier]]

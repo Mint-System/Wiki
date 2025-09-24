@@ -1,9 +1,11 @@
 ---
 tags:
   - HowTo
-kind: tutorial
+kind:
+  - reference
+section: dev
 ---
-# Odoo Tutorials
+# Odoo Developer Tutorials
 
 * [[Tutorial - Install Odoo Studio]]
 * [[Tutorial - Create App with Odoo Studio]]

@@ -9,72 +9,52 @@ section: product
 Odoo ist eine Management-Software. Es ist Teil des [[Angebot|Angebots]] der [[Mint System]]. Odoo wird mit verschiedenen [[Hosting-Modelle|Hosting-Modellen]] angeboten.
 
 Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Wiki]].
+
 ## Odoo Projekt
 
 Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo Enterprise Edition]]. Dazu kommen die [[Odoo Community Apps]] und [[Odoo Apps]].
 
 ![[Odoo OCA Licensing.png]]
 
-## Apps
 
-* [[Odoo App Fertigung]]
-* [[Odoo App Finanzen]]
-* [[Odoo App Kalender]]
-* [[Odoo App Lohnabrechnung]]
-* [[Odoo App Projekt]]
-* [[Odoo App Verkauf]]
-* [[Odoo App Barcode]]
-* [[Odoo App eCommerce]]
-* [[Odoo App Website]]
-* [[Odoo App Lager]]
-* [[Odoo App Abwesenheitszeiten]]
-* [[Odoo App PoS]]
-* [[Odoo App Order Positions]]
-
-## System
+## System und Integration
 
 * [[Odoo Umgebungen]]
 * [[Odoo E-Mail Integration]]
-* [[Odoo REST API]]
-* [[Odoo QM Data System]]
-* [[Odoo Map View]]
-* [[Odoo Assets]]
-* [[Odoo Printing]]
+* [[Odoo Drucken]]
 * [[Odoo Connector]]
-* [[Odoo Datenmodell]]
-* [[Odoo Longpolling]]
-* [[Odoo Sicherheit]]
-* [[Odoo Upgrade]]
 * [[Odoo Lifecycle]]
-## Entwicklung
 
+## Entwicklung und Upgrade
+
+* [[Odoo Zertifizierung]]
+* [[Odoo Update]]
+* [[Odoo Upgrade]]
 * [[Odoo Enterprise Upgrade]]
 * [[Odoo Community Upgrade]]
+* [[Odoo Sicherheit]]
 * [[Odoo Eigenentwicklungen]]
-* [[Odoo Berichtsvorlagen entwickeln]]
-* [[Odoo Widgets]]
-* [[Odoo Reports]]
 * [[Test Odoo Mail Flow]]
-* [[Odoo PaaS]]
-* [[Odoo Datenbank Manager]]
+* [[Odoo Assets]]
+* [[Odoo Developer Tutorials]]
+* [[Odoo Troubleshooting]]
+* [[Odoo Development Guidelines]]
+* [[Develope an Odoo module]]
 
-## Meta
+## Infrastruktur
+
+* [[Odoo Wartung]]
+* [[Odoo PaaS]]
+
+## HowTos
+
+* [[DRP - Server Totalausfall mit Odoo]]
+
+## Kunden
 
 * [[Odoo Schulung]]
-* [[Odoo Wartung]]
-* [[Odoo Update]]
-* [[Odoo Painpoints]]
-* [[Odoo Troubleshooting]]
 * [[Odoo FAQ]]
-* [[Odoo Community]]
-* [[Odoo Zertifizierung]]
-* [[Odoo Tutorials]]
 * [[Odoo Brand Assets]]
-* [[Odoo Marketing]]
-* [[Odoo Dienstleistungen]]
-* [[Odoo Devleopment Guidelines]]
-* [[Maintained Odoo Apps]]
 * [[Odoo Finanzen Treuhänder]]
-* [[Odoo Perfomance]]
 * [[Odoo Lizenzierung, Hosting und Upgrade]]
 * [[Odoo Editionen]]

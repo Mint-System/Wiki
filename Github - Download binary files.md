@@ -1,8 +1,11 @@
 ---
 tags:
-- HowTo
+  - HowTo
+section: dev
+kind:
+  - howto
 ---
-# Github: Download binary files
+# Github - Download binary files
 
 First, to get a list of the assets for the latest release:
 

@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: term
+kind:
+  - reference
 ---
 # Git
 

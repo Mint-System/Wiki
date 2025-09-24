@@ -1,6 +1,9 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - howto
+section: infrastructure
 ---
 # DRP - Server Totalausfall mit Odoo
 

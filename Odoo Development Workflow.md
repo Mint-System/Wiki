@@ -1,6 +1,9 @@
 ---
 tags:
-- HowTo
+  - HowTo
+section: communication
+kind:
+  - explain
 ---
 # Odoo Development Workflow
 

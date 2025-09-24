@@ -2,9 +2,9 @@
 tags:
   - Website
 kind: reference
+section: communication
 ---
-
-# Odoo Management System
+# Odoo App Management System
 
 Odoo for Management Systems (ISO, IEC, BS, EASA).
 

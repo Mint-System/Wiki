@@ -9,8 +9,6 @@ kind:
 
 Finanzen sind in Odoo über verschiedene Module abgebildet.
 
-[[Odoo Zahlungsanbieter]]
-
 ## Rechnungsdigitalisierung
 
 Mit Odoo Finanzen können Rechnung einfach analysiert und importiert werden.
@@ -20,7 +18,7 @@ Die folgenden Apps müssen dazu installiert sein:
 
 ## Kostenstellen
 
-Kosten können über Kostenstellen-Tags getrackt werden. Mehr dazu unter [[Odoo Kostenrechnung]]
+Kosten können über Kostenstellen-Tags getrackt werden. Mehr dazu unter [[Odoo App Kostenrechnung]]
 
 ## Kontenplan
 
@@ -30,11 +28,7 @@ Eine neuer Mandant in odoo hat bei Ländereinstellung "Schweiz" automatisch eine
 
 ## Budget planen
 
-Mehr dazu unter [[Odoo Budget]].
-
-## Import Kontoauszüge
-
-Mit Odoo können Kontoauszüge ganz einfach importiert werden. Mehr dazu unter [[Odoo Finanzen Import]].
+Mehr dazu unter [[Odoo App Budget]].
 
 ## Mehrere Währungen
 

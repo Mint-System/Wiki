@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+section: dev
+kind:
+  - explain
 ---
-# Odoo Printing
+# Odoo Drucken
 
 Direkt aus Odoo drucken.
 
@@ -15,6 +18,7 @@ Welches ist die beste Druckerlösung für Odoo?
 Die folgenden Kandidaten stehen zur Auswahl:
 
 VentorTech (<https://ventor.tech/solutions/odoo-direct-print/>)
+
 * Odoo 14.0 (<https://apps.odoo.com/apps/modules/14.0/printnode_base/>)
 * von Ventor Tech
 * kann Versand-Dokumente auf zwei verschiedene Drucker ausgeben.
@@ -23,6 +27,7 @@ VentorTech (<https://ventor.tech/solutions/odoo-direct-print/>)
 * Kosten: einmalig Euro 199
 
 OCA-Programm in GitHub
+
 * Odoo 14.0 (<https://github.com/OCA/report-print-send/tree/14.0/base_report_to_printer>)
 * Kostenlos
 * mehrere Drucker und innerhalb der Drucker verschiedne Fächer

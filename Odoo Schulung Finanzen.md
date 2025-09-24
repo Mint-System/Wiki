@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: training
+kind:
+  - tutorial
 ---
 # Odoo Schulung Finanzen
 
@@ -147,4 +150,5 @@ Betrachten Sie die Buchungszeilen der Zahlung.
 ## Weiterführende Inhalte
 
 Englisch:
+
 * [Odoo Kurse - Accounting](https://www.odoo.com/de_DE/slides/accounting-19)

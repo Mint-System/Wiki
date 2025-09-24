@@ -8,15 +8,14 @@ views:
             - kind.isEmpty()
             - section.isEmpty()
         - '!file.name.endsWith("excalidraw")'
+        - file.name.contains("odoo")
     order:
       - file.name
       - kind
       - section
       - file.tags
     sort:
-      - property: file.name
-        direction: ASC
       - property: kind
-        direction: ASC
+        direction: DESC
     columnSize:
       file.name: 610

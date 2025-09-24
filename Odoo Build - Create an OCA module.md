@@ -3,6 +3,7 @@ tags:
   - Odoo
 kind: tutorial
 draft: true
+section: dev
 ---
 # Odoo Build - Create an OCA module
 

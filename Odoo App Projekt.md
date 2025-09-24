@@ -29,7 +29,7 @@ Die folgenden Apps müssen installiert sein:
 
 ## Finanzen
 
-Die Projektaufwände könne über Kostenstellen-Tags getrackt werden. Siehe [[Odoo Kostenrechnung]].
+Die Projektaufwände könne über Kostenstellen-Tags getrackt werden. Siehe [[Odoo App Kostenrechnung]].
 
 ## Verkauf
 

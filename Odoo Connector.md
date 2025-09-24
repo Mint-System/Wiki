@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - explain
 ---
 # Odoo Connector
 

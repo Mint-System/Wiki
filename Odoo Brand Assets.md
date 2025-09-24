@@ -1,6 +1,9 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - reference
 ---
 # Odoo Brand Assets
 

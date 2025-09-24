@@ -140,7 +140,7 @@ section: bases
 | [[Odoo Assets]] |  |  |  |
 | [[Odoo Berichtsvorlagen entwickeln]] |  |  |  |
 | [[Odoo Brand Assets]] |  |  |  |
-| [[Odoo Budget]] |  |  |  |
+| [[Odoo App Budget]] |  |  |  |
 | [[Odoo Checklisten]] |  |  |  |
 | [[Odoo Community]] |  |  |  |
 | [[Odoo Community Apps]] |  |  |  |
@@ -150,7 +150,7 @@ section: bases
 | [[Odoo Datenmodell]] |  |  |  |
 | [[Odoo Demodaten]] |  |  |  |
 | [[Odoo Development Workflow]] |  |  |  |
-| [[Odoo Devleopment Guidelines]] |  |  |  |
+| [[Odoo Development Guidelines]] |  |  |  |
 | [[Odoo Dienstleistungen]] |  |  |  |
 | [[Odoo Documents - Nextcloud]] |  |  |  |
 | [[Odoo E-Mail Integration]] |  |  |  |
@@ -164,7 +164,7 @@ section: bases
 | [[Odoo Finanzen Treuhänder]] |  |  |  |
 | [[Odoo Forum]] |  |  |  |
 | [[Odoo Implementation Skilltree]] |  |  |  |
-| [[Odoo Kostenrechnung]] |  |  |  |
+| [[Odoo App Kostenrechnung]] |  |  |  |
 | [[Odoo Lifecycle]] |  |  |  |
 | [[Odoo Lizenzierung, Hosting und Upgrade]] |  |  |  |
 | [[Odoo Login Integration]] |  |  |  |
@@ -182,7 +182,7 @@ section: bases
 | [[Odoo PaaS]] |  |  |  |
 | [[Odoo Painpoints]] |  |  |  |
 | [[Odoo Perfomance]] |  |  |  |
-| [[Odoo Printing]] |  |  |  |
+| [[Odoo Drucken]] |  |  |  |
 | [[Odoo QM Data System]] |  |  |  |
 | [[Odoo Reports]] |  |  |  |
 | [[Odoo REST API]] |  |  |  |
@@ -379,7 +379,7 @@ section: bases
 | [[Odoo Entwicklungsumgebung]] | reference |  |  |
 | [[Odoo Kontakt]] | reference |  |  |
 | [[Odoo Mailgate]] | reference |  |  |
-| [[Odoo Management System]] | reference |  |  |
+| [[Odoo App Management System]] | reference |  |  |
 | [[Odoo Modul]] | reference |  |  |
 | [[Odoo Revisionen]] | reference |  |  |
 | [[Odoo Security Advisory]] | reference |  |  |
@@ -418,5 +418,5 @@ section: bases
 | [[Wordpress]] | reference |  |  |
 | [[Git Forks]] | tutorial |  |  |
 | [[Odoo Build - Create an OCA module]] | tutorial |  |  |
-| [[Odoo Tutorials]] | tutorial |  |  |
+| [[Odoo Developer Tutorials]] | tutorial |  |  |
 | [[Tutorial]] | tutorial |  |  |

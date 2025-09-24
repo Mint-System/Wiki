@@ -1,8 +1,12 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - explain
 ---
-# Odoo Kostenrechnung
+# Odoo App Kostenrechnung
+
 Damit die Kostenrechnung funktioniert müssen folgende Bedienungen erfüllt sein:
 
 * Einstellungen sind aktiviert
