@@ -5,7 +5,7 @@ tags:
   - Prozess
 section: process
 ---
-# Prozesse Infrastruktur - Office 365
+# Prozesse Infrastruktur - Office 365 bereitstellen
 
 ## Odoo-Postfach einrichten
 

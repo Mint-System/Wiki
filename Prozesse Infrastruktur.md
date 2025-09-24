@@ -22,12 +22,12 @@ Dokumentation der Infrastruktur Prozesse.
 * [[Prozesse Infrastruktur - DNS-Einträge erstellen]]
 * [[Prozesse Infrastruktur - Server bereitstellen]]
 * [[Prozesse Infrastruktur - Innernet bereitstellen]]
-* [[Prozesse Infrastruktur - Installation BigBlueButton]]
-* [[Prozesse Infrastruktur - Installation Moodle]]
-* [[Prozesse Infrastruktur - Installation Odoo]]
-* [[Prozesse Infrastruktur - Installation Nextcloud]]
+* [[Prozesse Infrastruktur - BigBlueButton bereitstellen]]
+* [[Prozesse Infrastruktur - Moodle bereitstellen]]
+* [[Prozesse Infrastruktur - Odoo bereitstellen]]
+* [[Prozesse Infrastruktur - Nextcloud bereitstellen]]
 * [[Prozesse Infrastruktur - Installation Raspberry Pi]]
-* [[Prozesse Infrastruktur - Office 365]]
+* [[Prozesse Infrastruktur - Office 365 bereitstellen]]
 
 ## Verwaltung
 

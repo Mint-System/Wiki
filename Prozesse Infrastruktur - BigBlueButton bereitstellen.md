@@ -5,9 +5,10 @@ kind:
   - howto
 section: process
 ---
-# Prozesse Infrastruktur - Installation BigBlueButton
+# Prozesse Infrastruktur - BigBlueButton bereitstellen
 
 Arbeitsschritte:
+
 * URL gemäss Schema `bbb.[company].mintsys.ch` oder custom definieren
 * Registration DNS-Name
 * Konfigurationsvorlage anpassen

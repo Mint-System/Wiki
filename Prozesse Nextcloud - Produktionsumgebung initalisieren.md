@@ -5,7 +5,7 @@ kind:
   - howto
 section: process
 ---
-# Prozesse Nextcloud - Produktionsumgebung bereitstellen
+# Prozesse Nextcloud - Produktionsumgebung initalisieren
 
 ## Installation
 

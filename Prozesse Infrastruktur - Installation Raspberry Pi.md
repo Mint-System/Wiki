@@ -5,7 +5,8 @@ kind:
   - howto
 section: process
 ---
-# Prozesse Infrastruktur -  Installation Raspberry Pi
+# Prozesse Infrastruktur -  Raspberry Pi bereitstellen
+
 Bereitstellung Raspberry Pi.
 
 ## Raspberry Pi Image ausführen

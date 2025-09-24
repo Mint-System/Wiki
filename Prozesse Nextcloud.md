@@ -10,8 +10,10 @@ section: process
 
 ## Bereitstellung
 
-* [[Prozesse Nextcloud - Produktionsumgebung bereitstellen]]
+* [[Prozesse Nextcloud - Produktionsumgebung initalisieren]]
+
 ## Verwaltung
 
-* [[Prozesse Nextcloud - Apps]]
+* [[Prozesse Nextcloud - Desktop Client]]
+* [[Prozesse Nextcloud - Desktop Client]]
 * [[Prozesse Nextcloud - Upgrade]]

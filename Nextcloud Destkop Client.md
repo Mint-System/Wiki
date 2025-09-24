@@ -10,7 +10,7 @@ section: tool
 
 ## Installation for Windows
 
-Download and isntall the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
+Download and install the Nextcloud desktop client from <https://nextcloud.com/install/#desktop-files>.
 
 ## Installation for Linux (package)
 

@@ -5,7 +5,7 @@ kind:
   - howto
 section: process
 ---
-# Prozesse Infrastruktur - Installation Moodle
+# Prozesse Infrastruktur - Installation Moodle bereitstellen
 
 Inbetriebnahme einer Moodle-Installation.
 

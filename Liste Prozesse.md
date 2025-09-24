@@ -39,10 +39,10 @@ section: bases
 | [[Prozesse Infrastruktur - DNS-Verwaltung]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Deinstallation Odoo]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Innernet bereitstellen]] | howto | process | Prozess |
-| [[Prozesse Infrastruktur - Installation BigBlueButton]] | howto | process | Prozess |
-| [[Prozesse Infrastruktur - Installation Moodle]] | howto | process | Prozess |
-| [[Prozesse Infrastruktur - Installation Nextcloud]] | howto | process | Prozess |
-| [[Prozesse Infrastruktur - Installation Odoo]] | howto | process | Prozess |
+| [[Prozesse Infrastruktur - BigBlueButton bereitstellen]] | howto | process | Prozess |
+| [[Prozesse Infrastruktur - Moodle bereitstellen]] | howto | process | Prozess |
+| [[Prozesse Infrastruktur - Nextcloud bereitstellen]] | howto | process | Prozess |
+| [[Prozesse Infrastruktur - Odoo bereitstellen]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Installation Raspberry Pi]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Linux Server Patching]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Mail-Account Intern]] | howto | process | Prozess |
@@ -50,7 +50,7 @@ section: bases
 | [[Prozesse Infrastruktur - Nextcloud bestellen]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - OS Migration]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Odoo bestellen]] | howto | process | Prozess |
-| [[Prozesse Infrastruktur - Office 365]] | howto | process | Prozess |
+| [[Prozesse Infrastruktur - Office 365 bereitstellen]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Passwörter verwalten]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Server Monitoring]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Server bereitstellen]] | howto | process | Prozess |
@@ -65,8 +65,8 @@ section: bases
 | [[Prozesse Marketing]] | reference | process | Prozess |
 | [[Prozesse Migration - Von Microsoft zu Infomaniak migrieren]] | howto | process | Prozess |
 | [[Prozesse Migration]] | reference | process |  |
-| [[Prozesse Nextcloud - Apps]] | howto | process | Prozess |
-| [[Prozesse Nextcloud - Produktionsumgebung bereitstellen]] | howto | process | Prozess |
+| [[Prozesse Nextcloud - Desktop Client]] | howto | process | Prozess |
+| [[Prozesse Nextcloud - Produktionsumgebung initalisieren]] | howto | process | Prozess |
 | [[Prozesse Nextcloud - Upgrade]] | howto | process | Prozess |
 | [[Prozesse Nextcloud]] | reference | process | Prozess |
 | [[Prozesse Odoo - App Abonnements]] | howto | process | Prozess |

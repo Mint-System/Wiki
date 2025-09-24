@@ -34,10 +34,10 @@
 | [[Prozesse Infrastruktur - DNS-Verwaltung]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Deinstallation Odoo]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Innernet bereitstellen]] | howto | Prozess |
-| [[Prozesse Infrastruktur - Installation BigBlueButton]] |  | Prozess |
-| [[Prozesse Infrastruktur - Installation Moodle]] | reference | Prozess |
-| [[Prozesse Infrastruktur - Installation Nextcloud]] | howto | Prozess |
-| [[Prozesse Infrastruktur - Installation Odoo]] | howto | Prozess |
+| [[Prozesse Infrastruktur - BigBlueButton bereitstellen]] |  | Prozess |
+| [[Prozesse Infrastruktur - Moodle bereitstellen]] | reference | Prozess |
+| [[Prozesse Infrastruktur - Nextcloud bereitstellen]] | howto | Prozess |
+| [[Prozesse Infrastruktur - Odoo bereitstellen]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Installation Raspberry Pi]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Linux Server Patching]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Mail-Account Intern]] | howto | Prozess |
@@ -45,7 +45,7 @@
 | [[Prozesse Infrastruktur - Nextcloud bestellen]] | howto | Prozess |
 | [[Prozesse Infrastruktur - OS Migration]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Odoo bestellen]] | howto | Prozess |
-| [[Prozesse Infrastruktur - Office 365]] | howto | Prozess |
+| [[Prozesse Infrastruktur - Office 365 bereitstellen]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Passwörter verwalten]] | howto | Prozess |
 | [[Prozesse Infrastruktur - Server Monitoring]] |  | Prozess |
 | [[Prozesse Infrastruktur - Server bereitstellen]] | howto | Prozess |
@@ -60,8 +60,8 @@
 | [[Prozesse Marketing]] |  | Prozess |
 | [[Prozesse Migration - Von Microsoft zu Infomaniak migrieren]] | howto | Prozess |
 | [[Prozesse Migration]] | reference |  |
-| [[Prozesse Nextcloud - Apps]] |  | Prozess |
-| [[Prozesse Nextcloud - Produktionsumgebung bereitstellen]] | howto | Prozess |
+| [[Prozesse Nextcloud - Desktop Client]] |  | Prozess |
+| [[Prozesse Nextcloud - Produktionsumgebung initalisieren]] | howto | Prozess |
 | [[Prozesse Nextcloud - Upgrade]] |  | Prozess |
 | [[Prozesse Nextcloud]] |  | Prozess |
 | [[Prozesse Odoo - App Abonnements]] |  | Prozess |

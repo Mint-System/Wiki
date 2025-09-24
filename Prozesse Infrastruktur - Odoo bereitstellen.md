@@ -5,7 +5,7 @@ kind:
   - howto
 section: process
 ---
-# Prozesse Infrastruktur - Installation Odoo
+# Prozesse Infrastruktur - Odoo bereitstellen
 
 Bereitstellung Odoo-Umgebung.
 

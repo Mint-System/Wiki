@@ -5,7 +5,7 @@ kind:
   - howto
 section: process
 ---
-# Prozesse Infrastruktur - Installation Nextcloud
+# Prozesse Infrastruktur - Nextcloud bereitstellen
 
 Bereistellung Nextcloud-Umgebung.
 
