@@ -1,6 +1,10 @@
 ---
 tags:
-- HowTo
+  - HowTo
+section: dev
+lang: en
+kind:
+  - howto
 ---
 # Nextcloud: Set default locale and language
 

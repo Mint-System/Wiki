@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - reference
 ---
-# Nextcloud Talk
+# Nextcloud App Talk
 
 Website: <https://nextcloud.com/talk/>
 

@@ -124,13 +124,13 @@ section: bases
 | [[Nextcloud - Transfer ownership]] |  |  |  |
 | [[Nextcloud Apps]] |  |  |  |
 | [[Nextcloud Destkop Client]] |  |  |  |
-| [[Nextcloud Elektronische Signaturen]] |  |  |  |
+| [[Nextcloud App Elektronische Signaturen]] |  |  |  |
 | [[Nextcloud Enterprise]] |  |  |  |
 | [[Nextcloud Marketing]] |  |  |  |
 | [[Nextcloud Office Routing]] |  |  |  |
 | [[Nextcloud Painpoints]] |  |  |  |
 | [[Nextcloud Partner]] |  |  |  |
-| [[Nextcloud Talk]] |  |  |  |
+| [[Nextcloud App Talk]] |  |  |  |
 | [[Nix]] |  |  |  |
 | [[Obsidian]] |  |  |  |
 | [[Odoo - Import data from csv]] |  |  |  |
@@ -365,10 +365,10 @@ section: bases
 | [[Mastodon]] | reference |  |  |
 | [[Mint Cloud Kubernetes Clusters]] | reference |  |  |
 | [[New Rubrik Edge]] | reference |  |  |
-| [[Nextcloud Mail]] | reference |  |  |
+| [[Nextcloud App Mail]] | reference |  |  |
 | [[Nextcloud Passwords]] | reference |  |  |
-| [[Nextcloud Social Login]] | reference |  |  |
-| [[Nextcloud Two-Factor TOTP Provider]] | reference |  |  |
+| [[Nextcloud App Social Login]] | reference |  |  |
+| [[Nextcloud App Two-Factor TOTP Provider]] | reference |  |  |
 | [[Nine]] | reference |  |  |
 | [[Obsidian Web Clipper]] | reference |  |  |
 | [[Odoo Apps]] | reference |  |  |

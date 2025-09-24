@@ -1,9 +1,14 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - reference
 ---
 # Nextcloud Apps
 
-* [[Nextcloud Mail]]
-* [[Nextcloud Social Login]]
-* [[Nextcloud Two-Factor TOTP Provider]]
+* [[Nextcloud App Mail]]
+* [[Nextcloud App Social Login]]
+* [[Nextcloud App Two-Factor TOTP Provider]]
+* [[Nextcloud App Elektronische Signaturen]]
+* [[Nextcloud App Talk]]

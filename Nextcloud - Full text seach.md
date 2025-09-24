@@ -1,6 +1,9 @@
 ---
 tags:
-- HowTo
+  - HowTo
+kind:
+  - howto
+section: dev
 ---
 
 # Nextcloud: Volltextsuche
@@ -13,6 +16,7 @@ tags:
 ## Setup
 
 Install these Nextcloud apps:
+
 * Full text search:  Diese App bietet die Grundfunktionen zur Volltextsuche
 * Full text search - Files: Erweitert die Dateien-App um die Volltextsuche.
 * Full text search - Elasticsearch Platform: Dies stellt die Verbindung zur Suchmaschine her.

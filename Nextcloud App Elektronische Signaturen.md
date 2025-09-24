@@ -1,8 +1,11 @@
 ---
 tags:
-- Definition
+  - Definition
+section: communication
+kind:
+  - reference
 ---
-# Nextcloud Elektronische Signaturen
+# Nextcloud App Elektronische Signaturen
 
 Nextcloud bietet eine App für elektronische Signaturen: <https://apps.nextcloud.com/apps/electronicsignatures>
 

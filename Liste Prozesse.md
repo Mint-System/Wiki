@@ -59,7 +59,7 @@ section: bases
 | [[Prozesse Infrastruktur - Server-Zugriff verwalten]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Upgrade Odoo]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur - Upgrade Odoo.sh]] | howto | process | Prozess |
-| [[Prozesse Infrastruktur - Wartung]] | howto | process | Prozess |
+| [[Prozesse Infrastruktur - Serverwartung]] | howto | process | Prozess |
 | [[Prozesse Infrastruktur]] | reference | process | Prozess |
 | [[Prozesse Marketing - Newsletter und Blog]] | howto | process | Prozess |
 | [[Prozesse Marketing]] | reference | process | Prozess |

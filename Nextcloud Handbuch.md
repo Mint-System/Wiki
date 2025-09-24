@@ -12,13 +12,13 @@ section: product
 ## Login
 ### Einloggen mit GitLab
 
-Mit dem [[Nextcloud Social Login]] können Sie ganz einfach mit einem bestehenden GitLab-Account in Nextcloud einloggen. Sofern Sie Mitglied in einer registrierten GitLab-Gruppe sind, wird die Mitgliedschaft übertragen und Zugriff auf Ordner mit dieser Gruppe werden freigegeben. 
+Mit dem [[Nextcloud App Social Login]] können Sie ganz einfach mit einem bestehenden GitLab-Account in Nextcloud einloggen. Sofern Sie Mitglied in einer registrierten GitLab-Gruppe sind, wird die Mitgliedschaft übertragen und Zugriff auf Ordner mit dieser Gruppe werden freigegeben. 
 
 ![[Einloggen mit GitLab.gif]]
 
 ## 2-Faktor-Authentisierung aktivieren
 
-Aktivieren Sie einen Provider für die 2-Faktor-Authentisierung wie zum Beispiel den [[Nextcloud Two-Factor TOTP Provider]].
+Aktivieren Sie einen Provider für die 2-Faktor-Authentisierung wie zum Beispiel den [[Nextcloud App Two-Factor TOTP Provider]].
 
 Navigiere als Administrator nach *Verwaltungseinstellungen > Sicherheit* und aktivieren die 2-Faktor-Authentisierung. Wähle als erzwungene Gruppe die Administratoren-Gruppe aus.
 

@@ -3,8 +3,9 @@ tags:
   - Definition
 kind:
   - reference
+section: communication
 ---
-# Nextcloud Social Login
+# Nextcloud App Social Login
 
 Integration Login-Anbieter mit OpenID Connect.
 

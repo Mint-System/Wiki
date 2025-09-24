@@ -5,7 +5,7 @@ kind:
   - howto
 section: process
 ---
-# Prozesse Infrastruktur - Wartung
+# Prozesse Infrastruktur - Serverwartung
 
 Wartung eines Servers.
 

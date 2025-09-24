@@ -1,6 +1,10 @@
 ---
 tags:
-- HowTo
+  - HowTo
+section: dev
+kind:
+  - howto
+lang: en
 ---
 # Nextcloud: OwnCloud Console
 

@@ -1,6 +1,10 @@
 ---
 tags:
-- HowTo
+  - HowTo
+lang: en
+kind:
+  - howto
+section: dev
 ---
 # Nextcloud: Configure ignored files
 

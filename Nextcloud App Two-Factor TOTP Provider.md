@@ -3,7 +3,8 @@ tags:
   - Definition
 kind:
   - reference
+section: communication
 ---
-# Nextcloud Two-Factor TOTP Provider
+# Nextcloud App Two-Factor TOTP Provider
 
 Website: <https://apps.nextcloud.com/apps/twofactor_totp>

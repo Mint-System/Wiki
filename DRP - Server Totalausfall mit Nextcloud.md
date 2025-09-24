@@ -3,6 +3,7 @@ tags:
   - HowTo
 kind:
   - howto
+section: infrastructure
 ---
 # DRP - Server Totalausfall mit Nextcloud
 
