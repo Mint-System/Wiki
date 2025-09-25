@@ -5,9 +5,10 @@ section: infrastructure
 ---
 # Main Build
 
-Linking page for all the .build projects.
+Linking page for .build projects.
 
-Website: https://main.build
+Website: https://main.build\
+Repo: https://codeberg.org/Mint-System/Main-Build
 
 Infomaniak Domains:
 
