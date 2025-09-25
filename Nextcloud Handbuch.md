@@ -16,7 +16,7 @@ Mit dem [[Nextcloud App Social Login]] können Sie ganz einfach mit einem besteh
 
 ![[Einloggen mit GitLab.gif]]
 
-## 2-Faktor-Authentisierung aktivieren
+### 2-Faktor-Authentisierung aktivieren
 
 Aktivieren Sie einen Provider für die 2-Faktor-Authentisierung wie zum Beispiel den [[Nextcloud App Two-Factor TOTP Provider]].
 
