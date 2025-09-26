@@ -20,7 +20,8 @@ Status Draft:
 [[Aufbau einer Entwicklungsumgebung für Odoo]]\
 [[Lizenzmanagement mit Odoo]]\
 [[URec-Team]]\
-[[Fünf Fünf Fünf]]
+[[Fünf Fünf Fünf]]\
+[[Odoo mit ihrer Bank verbinden]]
 
 Publiziert:
 
