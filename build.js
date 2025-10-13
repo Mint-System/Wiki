@@ -23,6 +23,7 @@ const uriSuffix = '.html'
 const anchorPrefix = '#'
 const attachmentsFolder = 'attachments'
 const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
+const obsidianUrl = 'obsidian://open?vault=Wiki&file='
 const ignoreLinks = 'TOC'
 
 // file name regex
@@ -687,7 +688,8 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
 
         // add footer
         content = content + [
-            '[📝 Edit on GitHub](' + gitUrl + file.replace(/\s+/g, '%20') + ')\n',
+            '[📝 Edit on GitHub](' + gitUrl + file.replace(/\s+/g, '%20') + ')',
+            'or [🔷 Open in Obsidian](' + obsidianUrl + file.replace(/\s+/g, '%20') + ')\n',
             '\n',
             'This page is maintained by [Mint System GmbH](https://www.mint-system.ch)\n',
             '\n',
