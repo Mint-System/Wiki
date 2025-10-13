@@ -8,7 +8,6 @@ views:
       - file.name
       - kind
       - section
-      - tags
     sort: []
     columnSize:
       file.name: 610
