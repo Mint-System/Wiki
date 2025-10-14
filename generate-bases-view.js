@@ -1,36 +1,36 @@
-const fs = require("fs");
-const path = require("path");
-const yaml = require("js-yaml");
-const matter = require("gray-matter");
+const fs = require('fs')
+const path = require('path')
+const yaml = require('js-yaml')
+const matter = require('gray-matter')
 
 // Function to evaluate filters recursively
 function evaluateFilters(filters, fileObj, mdFile) {
   if (filters.and) {
     return filters.and.every((filter) =>
-      evaluateFilter(filter, fileObj, mdFile),
-    );
+      evaluateFilter(filter, fileObj, mdFile)
+    )
   } else if (filters.or) {
-    return filters.or.some((filter) => evaluateFilter(filter, fileObj, mdFile));
+    return filters.or.some((filter) => evaluateFilter(filter, fileObj, mdFile))
   }
-  return true;
+  return true
 }
 
 // Function to evaluate a single filter (can be string or nested object)
 function evaluateFilter(filter, fileObj, mdFile) {
-  if (typeof filter === "string") {
-    return evaluateFilterString(filter, fileObj, mdFile);
-  } else if (typeof filter === "object" && filter !== null) {
+  if (typeof filter === 'string') {
+    return evaluateFilterString(filter, fileObj, mdFile)
+  } else if (typeof filter === 'object' && filter !== null) {
     // Handle nested and/or conditions
-    return evaluateFilters(filter, fileObj, mdFile);
+    return evaluateFilters(filter, fileObj, mdFile)
   }
-  return true;
+  return true
 }
 
 // Function to evaluate a filter string
 function evaluateFilterString(filter, fileObj, mdFile) {
   try {
     const filterFn = new Function(
-      "fileObj",
+      'fileObj',
       `
       // File properties
       const file = {
@@ -73,105 +73,105 @@ function evaluateFilterString(filter, fileObj, mdFile) {
       kind.valueOf = () => get('kind');
 
       return ${filter};
-    `,
-    );
-    return filterFn(fileObj);
+    `
+    )
+    return filterFn(fileObj)
   } catch (error) {
     console.error(
       `Error evaluating filter '${filter}' for file '${mdFile}':`,
-      error,
-    );
-    return false;
+      error
+    )
+    return false
   }
 }
 
 // Get all .md files in the current directory
 const mdFiles = fs
-  .readdirSync(".")
-  .filter((file) => file.endsWith(".md") && !file.endsWith(".base.md"));
+  .readdirSync('.')
+  .filter((file) => file.endsWith('.md') && !file.endsWith('.base.md'))
 
 // Get all .base files in the bases directory
 const baseFiles = fs
-  .readdirSync("./bases")
-  .filter((file) => file.endsWith(".base"));
+  .readdirSync('./bases')
+  .filter((file) => file.endsWith('.base'))
 
 // Process each base file
 baseFiles.forEach((baseFile) => {
   // Read the base file
-  const baseContent = fs.readFileSync(path.join("./bases", baseFile), "utf8");
-  const baseData = yaml.load(baseContent);
+  const baseContent = fs.readFileSync(path.join('./bases', baseFile), 'utf8')
+  const baseData = yaml.load(baseContent)
 
   // Get the base name without extension
-  const baseName = path.basename(baseFile, ".base");
+  const baseName = path.basename(baseFile, '.base')
 
   // Process each view in the base file
   baseData.views.forEach((view) => {
     // Create a list of objects with attributes from markdown files
-    const tableData = [];
+    const tableData = []
 
     // Process each markdown file
     mdFiles.forEach((mdFile) => {
       // Read the markdown file
-      const mdContent = fs.readFileSync(mdFile, "utf8");
-      const { data: frontmatter } = matter(mdContent);
+      const mdContent = fs.readFileSync(mdFile, 'utf8')
+      const { data: frontmatter } = matter(mdContent)
 
       // Create an object with file attributes
       const fileObj = {
-        "file.name": path.basename(mdFile, ".md"),
-        "file.ext": "md",
+        'file.name': path.basename(mdFile, '.md'),
+        'file.ext': 'md',
         ...frontmatter,
-      };
+      }
 
       // Check if the file matches the filters
-      let matches = true;
+      let matches = true
 
       // Handle filters (evaluate the filter strings as JavaScript)
       if (view.filters) {
-        matches = evaluateFilters(view.filters, fileObj, mdFile);
+        matches = evaluateFilters(view.filters, fileObj, mdFile)
       }
 
       if (matches) {
         // Add the file object to the table data
-        tableData.push(fileObj);
+        tableData.push(fileObj)
       }
-    });
+    })
 
     // Sort the table data
     if (view.sort) {
       view.sort.forEach((sortRule) => {
-        const property = sortRule.property;
-        const direction = sortRule.direction || "ASC";
+        const property = sortRule.property
+        const direction = sortRule.direction || 'ASC'
 
         tableData.sort((a, b) => {
-          let aVal = a[property];
-          let bVal = b[property];
+          let aVal = a[property]
+          let bVal = b[property]
 
           // Convert values to strings for comparison
           if (Array.isArray(aVal)) {
-            aVal = aVal.join(", ");
+            aVal = aVal.join(', ')
           } else {
-            aVal = String(aVal || "");
+            aVal = String(aVal || '')
           }
 
           if (Array.isArray(bVal)) {
-            bVal = bVal.join(", ");
+            bVal = bVal.join(', ')
           } else {
-            bVal = String(bVal || "");
+            bVal = String(bVal || '')
           }
 
-          if (direction === "DESC") {
-            return bVal.localeCompare(aVal);
+          if (direction === 'DESC') {
+            return bVal.localeCompare(aVal)
           } else {
-            return aVal.localeCompare(bVal);
+            return aVal.localeCompare(bVal)
           }
-        });
-      });
+        })
+      })
     }
 
     // Get the column names from the order array or from the data
-    let columnNames = view.order || [];
+    let columnNames = view.order || []
     if (columnNames.length === 0 && tableData.length > 0) {
-      columnNames = Object.keys(tableData[0]);
+      columnNames = Object.keys(tableData[0])
     }
 
     // Generate the markdown table
@@ -181,36 +181,36 @@ section: bases
 ---
 
 # ${baseName}
-`;
+`
 
     // Add the header row
-    markdownTable += `| ${columnNames.join(" | ")} |
-`;
-    markdownTable += `| ${columnNames.map(() => "---").join(" | ")} |
-`;
+    markdownTable += `| ${columnNames.join(' | ')} |
+`
+    markdownTable += `| ${columnNames.map(() => '---').join(' | ')} |
+`
 
     // Add the data rows
     tableData.forEach((row) => {
       const rowValues = columnNames.map((column) => {
-        const value = row[column];
-        if (column === "file.name") {
+        const value = row[column]
+        if (column === 'file.name') {
           // Create a link for file.name
-          return `[[${value}]]`;
+          return `[[${value}]]`
         } else if (Array.isArray(value)) {
           // Join array values
-          return value.join(", ");
+          return value.join(', ')
         } else {
           // Return the value as string or empty string if undefined
-          return value || "";
+          return value || ''
         }
-      });
-      markdownTable += `| ${rowValues.join(" | ")} |
-`;
-    });
+      })
+      markdownTable += `| ${rowValues.join(' | ')} |
+`
+    })
 
     // Write the markdown table to a file
-    const outputFileName = `Liste ${baseName}.md`;
-    fs.writeFileSync(outputFileName, markdownTable);
-    console.log(`Generated "${outputFileName}"`);
-  });
-});
+    const outputFileName = `Liste ${baseName}.md`
+    fs.writeFileSync(outputFileName, markdownTable)
+    console.log(`Generated "${outputFileName}"`)
+  })
+})

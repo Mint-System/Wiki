@@ -58,7 +58,7 @@ touch cron_log/__manifest__.py
 
 Copy the content of another `__manifest__.py` file in the repo and adjust it.
 
-****manifest**.py**
+\***\*manifest**.py\*\*
 
 ```python
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).

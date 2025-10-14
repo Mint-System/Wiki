@@ -23,13 +23,12 @@ During container start this error is thrown:
 Comment out the user env vars.
 
 ```yml
-
 ---
-image: "{{ keycloak_image }}"
+image: '{{ keycloak_image }}'
 restart_policy: unless-stopped
 recreate: yes
 env:
   # KEYCLOAK_USER: "{{ keycloak_user }}"
   # KEYCLOAK_PASSWORD: "{{ keycloak_password }}"
-  DB_VENDOR: "{{ keycloak_db_type }}"
+  DB_VENDOR: '{{ keycloak_db_type }}'
 ```

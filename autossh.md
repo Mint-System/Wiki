@@ -24,15 +24,15 @@ Here are some examples.
 For localhost setup:
 
 ```yml
-local_user: "debian"
-local_key_file: "/home/debian/.ssh/id_ed25519"
-local_interface: "0.0.0.0"
-local_port: "8080"
-ssh_user: "debian"
-ssh_server: "jump.example.com"
-remote_ssh_port: "2222"
-remote_server: "remote.example.com"
-remote_port: "80"
+local_user: 'debian'
+local_key_file: '/home/debian/.ssh/id_ed25519'
+local_interface: '0.0.0.0'
+local_port: '8080'
+ssh_user: 'debian'
+ssh_server: 'jump.example.com'
+remote_ssh_port: '2222'
+remote_server: 'remote.example.com'
+remote_port: '80'
 ```
 
 ```mermaid
@@ -50,15 +50,15 @@ graph TD
 For remote server setup:
 
 ```yml
-local_user: "autossh"
-local_key_file: "/home/autossh/.ssh/id_ed25519"
-local_interface: "localhost"
-local_port: "22"
-ssh_user: "autossh"
-ssh_server: "jump.example.com"
-remote_ssh_port: "2222"
-remote_server: "0.0.0.0"
-remote_port: "2223"
+local_user: 'autossh'
+local_key_file: '/home/autossh/.ssh/id_ed25519'
+local_interface: 'localhost'
+local_port: '22'
+ssh_user: 'autossh'
+ssh_server: 'jump.example.com'
+remote_ssh_port: '2222'
+remote_server: '0.0.0.0'
+remote_port: '2223'
 ```
 
 ```mermaid

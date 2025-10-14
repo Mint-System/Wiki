@@ -33,11 +33,11 @@ metadata:
 spec:
   parameters:
     service:
-      majorVersion: "18"
+      majorVersion: '18'
     size:
       plan: plus-4
     backup:
-      schedule: "30 23 * * *"
+      schedule: '30 23 * * *'
       retention: 12
   writeConnectionSecretToRef:
     name: odoo-creds

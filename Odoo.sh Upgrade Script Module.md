@@ -43,7 +43,7 @@ Here is an example of what the module structure might look like:
 }
 ```
 
-****init**.py**
+\***\*init**.py\*\*
 
 ```python
 # empty
@@ -69,7 +69,7 @@ Here is an example of what the module structure might look like:
 }
 ```
 
-****init**.py**
+\***\*init**.py\*\*
 
 ```
 # empty
