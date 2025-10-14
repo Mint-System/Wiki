@@ -1,5 +1,6 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
+
 # Monitoring Server

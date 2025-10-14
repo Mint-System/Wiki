@@ -5,6 +5,7 @@ section: contact
 kind:
   - reference
 ---
+
 # VSHN AG
 
 Website: <https://www.vshn.ch>

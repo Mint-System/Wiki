@@ -5,6 +5,7 @@ section: blog
 kind:
   - reference
 ---
+
 # Blog-Posts
 
 Hier entstehen neue Blog-Posts:
@@ -31,7 +32,7 @@ Publiziert:
 [[Hack4SocialGood 2024]]\
 [[Von Bexio nach Odoo]]\
 [[Besser als Alternativ]]\
-[[Odoo 16 - Ein Meilenstein ]]\
+[[Odoo 16 - Ein Meilenstein]]\
 [[Arbeitsplatz am Bahnhofplatz 1]]\
 [[Server und Applikationen mit Ansible bereitstellen]]\
 [[Eine Sache des guten Geschmacks]]\

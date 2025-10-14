@@ -7,6 +7,7 @@ kind:
   - explain
 section: specification
 ---
+
 # Specification Open Service Broker Client
 
 Repository: `Mint-System/Odoo-Apps-Vertical-SaaS`\

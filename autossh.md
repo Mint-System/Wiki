@@ -6,6 +6,7 @@ kind:
 lang: en
 section: infrastructure
 ---
+
 # autossh
 
 Website: [https://linux.die.net/man/1/autossh](https://linux.die.net/man/1/autossh)
@@ -38,7 +39,7 @@ remote_port: "80"
 graph TD
     A[localhost:8080] -->|ssh tunnel| B[debian @ jump.example.com:2222]
     B -->|forward to| C[remote.example.com:80]
-    
+
     style A fill:#e8f5e8
     style B fill:#fff3e0
     style C fill:#ffe8e8
@@ -65,7 +66,7 @@ graph TD
     A[remote.example.com] -->|ssh tunnel| B[autossh @ jump.example.com:2222]
     B -->|reverse tunnel| C[jump.example.com:2223]
     D[localhost] -->|ssh| C
-    
+
     style A fill:#ffe8e8
     style B fill:#fff3e0
     style C fill:#fff3e0

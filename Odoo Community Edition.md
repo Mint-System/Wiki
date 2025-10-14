@@ -3,6 +3,7 @@ tags:
   - Website
 kind: reference
 ---
+
 # Odoo Community Edition
 
 Open Source ERP-System.

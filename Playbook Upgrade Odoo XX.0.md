@@ -6,6 +6,7 @@ section: template
 kind:
   - reference
 ---
+
 # Playbook Upgrade Odoo XX.0
 
 The playbook supports two modes: test and production. When executing the production mode the production database will be replaced with the upgraded database at the very end.

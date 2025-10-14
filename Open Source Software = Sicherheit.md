@@ -5,6 +5,7 @@ section: blog
 kind:
   - explain
 ---
+
 ![](https://assets-global.website-files.com/5debb9b4f88fbc3f702d579e/5e08f5a0ad6badbed8b60617_a1bfa4bb08384e1aa414cada9a6d5e0b.jpeg)
 
 # Open Source Software = Sicherheit
@@ -31,7 +32,7 @@ Das Gegenteil nennt man "security through obscurity", also Sicherheit durch Vers
 
 Zusammenfassend kann man die folgenden Schlussfolgerungen ziehen:
 
-* Der Wert von Software Code liegt in der Anzahl der Ausführungen.
-* Die Anzahl der Ausführungen steigt, wenn der Code auf offenen Plattformen liegt.
-* Es gibt Anreize den Code auf diesen Plattformen nach Sicherheitslücken zu durchsuchen und diese zu schliessen.
-* Open Source Code ist sicherer als Closed Source Code.
+- Der Wert von Software Code liegt in der Anzahl der Ausführungen.
+- Die Anzahl der Ausführungen steigt, wenn der Code auf offenen Plattformen liegt.
+- Es gibt Anreize den Code auf diesen Plattformen nach Sicherheitslücken zu durchsuchen und diese zu schliessen.
+- Open Source Code ist sicherer als Closed Source Code.

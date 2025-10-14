@@ -5,6 +5,7 @@ section: template
 kind:
   - reference
 ---
+
 # Vorlage Interviews Gap-Analyse
 
 ## Bereich
@@ -13,7 +14,8 @@ Wer: <!-- Wer sind die interviewten Personen und deren Rollen. -->
 Module: <!-- Welche Odoo-Apps werden behandelt. -->
 
 Phasen:
-* <!-- Link auf die Odoo-Projekt Phase -->
+
+- <!-- Link auf die Odoo-Projekt Phase -->
 
 ### IST-Situation
 

@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Personal - Onboarding
 
 ## Personal
@@ -24,20 +25,20 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-* Mitarbeiter-Eintrag in Wiki erfassen
-* Infomaniak Account mit Rolle "Benutzer" erstellen
-* Infomaniak Account dem Team "Mint System GmbH" hinzufügen
-* E-Mail-Adresse gemäss Wiki-Definition erstellen
-* In Infomaniak "Verwaltung der Kalender" den Kalender des Benutzers mit der Organisation teilen
-* Einladungs-Informationen an private Mail-Adresse schicken
-* Matrix-Benutzer erstellen
-* Keycloak-Benutzer anlegen
-* Rolle hinzufügen:
-	* cloud.mint-system.ch access
-	* erp.mint-system.ch access
-	* monitor.mint-system.ch admin
-* Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
-* Zugriffsdaten and private Mail-Adresse schicken
+- Mitarbeiter-Eintrag in Wiki erfassen
+- Infomaniak Account mit Rolle "Benutzer" erstellen
+- Infomaniak Account dem Team "Mint System GmbH" hinzufügen
+- E-Mail-Adresse gemäss Wiki-Definition erstellen
+- In Infomaniak "Verwaltung der Kalender" den Kalender des Benutzers mit der Organisation teilen
+- Einladungs-Informationen an private Mail-Adresse schicken
+- Matrix-Benutzer erstellen
+- Keycloak-Benutzer anlegen
+- Rolle hinzufügen:
+  - cloud.mint-system.ch access
+  - erp.mint-system.ch access
+  - monitor.mint-system.ch admin
+- Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
+- Zugriffsdaten and private Mail-Adresse schicken
 
 ```text
 Hallo Vorname
@@ -65,7 +66,7 @@ Anstatt den Benutzernamen und Passwort einzugeben, wählst du jeweils den Knopf 
 
 Arbeitsschritte:
 
-* Benutzernamen für Git und SSH-Schlüssel erfragen
+- Benutzernamen für Git und SSH-Schlüssel erfragen
 
 ```
 Gerne möchten wir dir Zugriff auf die Organisations-Accounts von Mint System erteilen und nach Bedarf Zugriff auf die verwalteten Server geben. Dazu brauchen wir die folgenden Informationen:
@@ -79,39 +80,39 @@ Kannst du uns diese Informationen mitteilen?
 Du erhältst dann Einladungsmails der entsprechenden Dienste zur Bestätigung.
 ```
 
-* GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
-* Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
-* GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
-* Im Ansible Inventory den Benutzer mit SSH-Schlüssel definieren
+- GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
+- Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
+- GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
+- Im Ansible Inventory den Benutzer mit SSH-Schlüssel definieren
 
 ### Desktop einrichten
 
 Arbeitsschritte:
 
-* Installation [[Nextcloud]] Desktop-Client und Einrichten Synchronisation
-* Installation [[Obsidian]] und Einrichten Zugriff auf Wikis
-* Installation [[KeePassXC]] und Einrichten Zugriff auf Passwörter
-* Installation [[Element]] und Login auf [[Matrix Server]].
-* Installation [[Thunderbird]] und Einrichten Mail und Kalender
+- Installation [[Nextcloud]] Desktop-Client und Einrichten Synchronisation
+- Installation [[Obsidian]] und Einrichten Zugriff auf Wikis
+- Installation [[KeePassXC]] und Einrichten Zugriff auf Passwörter
+- Installation [[Element]] und Login auf [[Matrix Server]].
+- Installation [[Thunderbird]] und Einrichten Mail und Kalender
 
 ### Smartphone einrichten
 
 Arbeitsschritte:
 
-* Installation Nextcloud-App
-* Einrichten Mail und Kalender
+- Installation Nextcloud-App
+- Einrichten Mail und Kalender
 
 ### Entwicklungsumgebung einrichten
 
 Arbeitsschritte:
 
-* Auschecken [[Ansible Build]] und [[Ansible Inventory]] Projekt
-* Auschecken [[Odoo Build]] Projekt
+- Auschecken [[Ansible Build]] und [[Ansible Inventory]] Projekt
+- Auschecken [[Odoo Build]] Projekt
 
 ### Website Profil aktualisieren
 
 Arbeitsschritte:
 
-* Foto von Mitarbeitenden erstellen und bearbeiten
-* Neue Mitarbeitenden-Eintrag in [[Mint System Website]] erstellen
-* In Odoo die offene Stelle anpassen
+- Foto von Mitarbeitenden erstellen und bearbeiten
+- Neue Mitarbeitenden-Eintrag in [[Mint System Website]] erstellen
+- In Odoo die offene Stelle anpassen

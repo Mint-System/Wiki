@@ -5,6 +5,7 @@ section: communication
 kind:
   - explain
 ---
+
 # Odoo Finanzen Treuhänder
 
 Notizen Thema Odoo Finanzen & Treuhänder.
@@ -20,8 +21,8 @@ Wir als Odoo Partner sind auf Treuhänder angewiesen, die Kunden in konkreten Fr
 
 In Zürich:
 
-* https://aviena.ch/treuhand/
+- https://aviena.ch/treuhand/
 
 In Luzern:
 
-* https://optexag.ch/en/
+- https://optexag.ch/en/

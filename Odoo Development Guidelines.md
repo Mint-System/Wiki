@@ -5,9 +5,11 @@ section: dev
 kind:
   - explain
 ---
+
 # Odoo Development Guidelines
 
 ## Odoo Modules
+
 ### What is a Odoo module?
 
 An Odoo module can be an Application, Extension, Connector or a Bridge.

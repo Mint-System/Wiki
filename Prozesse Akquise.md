@@ -5,6 +5,7 @@ kind:
   - reference
 section: process
 ---
+
 # Prozesse Akquise
 
 Dokumentation der Akquise Prozesse.
@@ -19,12 +20,12 @@ graph LR;
 	E-->F[Konzept erstellen]
 ```
 
-* [[Prozesse Akquise - Kontaktaufnahme]]
-* [[Prozesse Akquise - Qualifikation]]
-* [[Prozesse Akquise - Präsentation]]
-* [[Prozesse Akquise - Anforderungsanalyse]]
-* [[Prozesse Akquise - Analyse Odoo Customization]]
-* [[Prozesse Akquise - Odoo Testumgebung erstellen]]
-* [[Prozesse Akquise - Workshop Gap-Analyse]]
-* [[Prozesse Akquise - Angebot erstellen]]
-* [[Prozesse Akquise - Konzept erstellen]]
+- [[Prozesse Akquise - Kontaktaufnahme]]
+- [[Prozesse Akquise - Qualifikation]]
+- [[Prozesse Akquise - Präsentation]]
+- [[Prozesse Akquise - Anforderungsanalyse]]
+- [[Prozesse Akquise - Analyse Odoo Customization]]
+- [[Prozesse Akquise - Odoo Testumgebung erstellen]]
+- [[Prozesse Akquise - Workshop Gap-Analyse]]
+- [[Prozesse Akquise - Angebot erstellen]]
+- [[Prozesse Akquise - Konzept erstellen]]

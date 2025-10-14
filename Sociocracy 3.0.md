@@ -1,7 +1,7 @@
 ---
 title: S3
 tags:
-- Organisation
+  - Organisation
 ---
 
 # Sociocracy 3.0

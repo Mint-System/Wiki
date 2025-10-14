@@ -5,9 +5,11 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Odoo Initialisierung
 
 Tätigkeiten:
+
 - Allgemeine Einstellungen festlegen
 - Templates anhand Snippets konfigurieren
 - Odoo Apps von Drittanbieter installieren

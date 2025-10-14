@@ -6,7 +6,9 @@ kind:
 draft: false
 section: blog
 ---
+
 # Der eigene Messenger für ihre Schule
+
 Wie sieht eine Alternative zu Whatsapp und Co für den Schulbetrieb aus?
 
 Whatsapp-Verbote an Schulen machen Sinn. Doch wie sieht eine Alternative aus? Grundsätzlich möchte man so komfortabel kommunizieren wie man es sich mit Whatsapp und Co gewohnt ist. E-Mail wäre vielleicht eine Lösung, doch eine Mail-Adresse für jede Schülerin ist keine Option. Der Datenschutz spielt eine grosse Rolle. Ist das ein unverfüllbarer Wunsch? Es wäre super, wenn man selber eine sichere Messenger-Lösung für die Schule betreiben kann. "Ist das überhaupt möglich?", fragen Sie sich vermutlich.
@@ -55,11 +57,11 @@ Es gibt viele Unternehmen, die sich mit Open Source Software auskennen und Sie b
 
 #### Mint System
 
-Mint System unterstützten Schulen beim Betrieb von Open Source Software. Mit der [Openeduca](https://www.openeduca.ch/)-Initiative präsentieren wir sinnvolle Lösungen für den Schulbetrieb.  
+Mint System unterstützten Schulen beim Betrieb von Open Source Software. Mit der [Openeduca](https://www.openeduca.ch/)-Initiative präsentieren wir sinnvolle Lösungen für den Schulbetrieb.
 
 #### Ungleich
 
-[https://ungleich.ch/](https://ungleich.ch/)  
+[https://ungleich.ch/](https://ungleich.ch/)
 
 Ungleich leistet seit Jahren Pionierarbeit im Bereich von alternativen Softwarelösungen. Sie ist Partner von Matrix und dazu verschiedene Produkte im Angebot.
 
@@ -73,7 +75,7 @@ Auf dem Matrix-Server gibt es Räume (Rooms) und Umgebungen (Spaces). Ein Raum k
 
 Mehrere Matrix-Server bilden ein Netztwerk. Das ist eine grossartige Sache, denn nur so kann die Messenger-Vielfalt und das Problem der Datenhoheit erreicht werden.
 
-![](https://www.mint-system.ch/web/image/2911/Messenger-Vielfalt.png?access_token=ce8122a6-9e89-412e-afb3-e9aad1cbad08)  
+![](https://www.mint-system.ch/web/image/2911/Messenger-Vielfalt.png?access_token=ce8122a6-9e89-412e-afb3-e9aad1cbad08)
 
 Alle Benutzerdaten bleiben immer auf dem eigenen Matrix-Server. Verlässt eine Benutzerin die Schule kann der Account auch auf einen neuen Matrix-Server migriert werden.
 

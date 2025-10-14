@@ -3,12 +3,13 @@ kind:
   - reference
 section: dev
 ---
+
 # man apt
 
 List repositories.
 
 ```bash
-sudo grep -rhE ^deb /etc/apt/sources.list* 
+sudo grep -rhE ^deb /etc/apt/sources.list*
 ```
 
 Remove repository.

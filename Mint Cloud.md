@@ -3,6 +3,7 @@ tags:
   - Asset
 section: project
 ---
+
 # Mint Cloud
 
 Ist ein Hosting-[[Angebot]] der Mint System.

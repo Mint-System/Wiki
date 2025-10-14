@@ -4,6 +4,7 @@ tags:
 kind: explain
 section: methodology
 ---
+
 # Projektmanagent
 
 Eine Zusammenfassung wie bei Mint System das Projektmanagement erfolgt.
@@ -28,7 +29,7 @@ Jede Woche wird dem Kunden der aktuelle Projektstatus, abgeschlossene Aufgaben u
 
 ## Umsetzung
 
-Mint System nutzt für die Umsetzung des Projekts Odoo und Nextcloud. Das Projekt wird gemäss Phasen und Aufwandsschätzung im Projektmanagementtool abgebildet. Auf Wunsch kann der Kunde Zugriff auf das Projekt-Portal haben. 
+Mint System nutzt für die Umsetzung des Projekts Odoo und Nextcloud. Das Projekt wird gemäss Phasen und Aufwandsschätzung im Projektmanagementtool abgebildet. Auf Wunsch kann der Kunde Zugriff auf das Projekt-Portal haben.
 
 ## Kollaboration
 

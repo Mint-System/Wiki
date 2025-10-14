@@ -5,6 +5,7 @@ section: template
 kind:
   - reference
 ---
+
 # Vorlagen
 
 | Name                                      |

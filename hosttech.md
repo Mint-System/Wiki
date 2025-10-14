@@ -5,6 +5,7 @@ kind:
   - reference
 section: contact
 ---
+
 # hosttech
 
 Schweizer Hosting-Anbieter.

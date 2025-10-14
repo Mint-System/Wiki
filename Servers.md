@@ -5,6 +5,7 @@ kind:
   - reference
 section: infrastructure
 ---
+
 # Servers
 
 Alle Server-Definition sind im Ansible Inventory festgehalten.

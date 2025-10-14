@@ -1,6 +1,6 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
 
 # OWASP-Sicherheitslücken

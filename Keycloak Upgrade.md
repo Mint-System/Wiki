@@ -6,6 +6,7 @@ kind:
 section: dev
 lang: en
 ---
+
 ## Keycloak Upgrade
 
 Upgrading Keycloak is not so difficult as supports automatically migrating the database to a new version.
@@ -16,11 +17,11 @@ Before upgrading the docker image, ensure you have:
 
 **Created a database backup**
 
-Use `pg_dump` to dump the Keycloak database. 
+Use `pg_dump` to dump the Keycloak database.
 
 **Exported realms including groups, roles and clients**
 
-Open the realm in the Keycloak backend navigate to *Mange > Export*. Tick on all options and export the realm. Repeat this process for all realms.
+Open the realm in the Keycloak backend navigate to _Mange > Export_. Tick on all options and export the realm. Repeat this process for all realms.
 
 **Stopped and renamed the old container**
 

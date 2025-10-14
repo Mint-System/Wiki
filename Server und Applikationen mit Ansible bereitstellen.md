@@ -5,9 +5,10 @@ kind:
   - explain
 section: blog
 ---
+
 # Server und Applikationen mit Ansible bereitstellen
 
-> Mit Ansible haben wir die Flexibilität unsere Open Source Systeme überall zu installieren. Egal ob es ein kommerzieller Cloud-Anbieter ist, das Rechenzentrum von Dritten oder Server des Unternehmens ist. 
+> Mit Ansible haben wir die Flexibilität unsere Open Source Systeme überall zu installieren. Egal ob es ein kommerzieller Cloud-Anbieter ist, das Rechenzentrum von Dritten oder Server des Unternehmens ist.
 
 ### Was ist Ansible?
 
@@ -25,7 +26,7 @@ Arbeitsschritte werden werden in Rollen zusammengefasst. Eine Rolle beinhaltet d
 
 ### Wie sieht das konkret aus?
 
-Ein Ansible-Projekt besteht nur aus Ordner und Textdateien. Dazu ein Beispiel für die Bereitstellung einer [Nextcloud](https://nextcloud.com/)-Instanz. Auf https://ansible.build publizieren wir alle Ansible Rollen. In der Liste der Rollen findet man *nextcloud*: https://ansible.build/roles/nextcloud/. Dahinter verbirgt sich diese Ordern-Struktur:
+Ein Ansible-Projekt besteht nur aus Ordner und Textdateien. Dazu ein Beispiel für die Bereitstellung einer [Nextcloud](https://nextcloud.com/)-Instanz. Auf https://ansible.build publizieren wir alle Ansible Rollen. In der Liste der Rollen findet man _nextcloud_: https://ansible.build/roles/nextcloud/. Dahinter verbirgt sich diese Ordern-Struktur:
 
 ![[Ansbile Nextcloud Task File.png]]
 
@@ -37,14 +38,14 @@ Innerhalb der `{}`-Klammern befinden sich die Variablen. welche aus dem Inventor
 
 Die Möglichkeiten wie Ansible zum Einsatz kommt sind unbbegrenzt. Wir verwenden Ansible für:
 
-* Verwaltung von Domain und DNS-Einträgen
-* Installation und Konfiguration von Linux-Server
-* Bereitstellung eines Monitoring-System
-* Bereitstellung eines Login-Anbieter
-* Automatisches Backups
-* Installation und Konfiguration von Odoo
-* Firewall mit Nginx-Proxy
-* VPN für Server-Umgebung
+- Verwaltung von Domain und DNS-Einträgen
+- Installation und Konfiguration von Linux-Server
+- Bereitstellung eines Monitoring-System
+- Bereitstellung eines Login-Anbieter
+- Automatisches Backups
+- Installation und Konfiguration von Odoo
+- Firewall mit Nginx-Proxy
+- VPN für Server-Umgebung
 
 Der grosse Vorteil: Wenn der Server oder das System gelöscht wird, kann es in kurzer Zeit vollständig wiederhergestellt werden. Die Konfiguraiton des Systems und die Arbeitsabläufe sind mit Ansible beschrieben und könneen somit auf Knopfdruck ausgeführt werden.
 

@@ -27,22 +27,22 @@ Microsoft war bekannt als [Gegner von Open Source](https://en.wikipedia.org/wiki
 Es ist also höchste Zeit diese Mythen zu beerdigen.
 
 **Behauptung**: Open Source Software ist weniger sicher als proprietäre Software.\
-**Fakt**: 
+**Fakt**:
 
 **Behauptung**: Open Source ist gratis.\
-**Fakt**: 
+**Fakt**:
 
 **Behauptung**: Open Source ist für Unternehmen ungeeignet.\
-**Fakt**: 
+**Fakt**:
 
 **Behauptung**: Open Source Software läuft nur auf Linux.\
-**Fakt**: 
+**Fakt**:
 
 **Behauptung**: Open Source Projekte haben eine schlechte Qualität.\
-**Fakt**: 
+**Fakt**:
 
 **Behauptung**: Niemand wird von die Entwicklung Open Source bezahlt.\
-**Fakt**: 
+**Fakt**:
 
 **Behauptung**: Für Open Source Software findet man keinen Support.\
-**Fakt**: 
+**Fakt**:

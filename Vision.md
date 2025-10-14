@@ -5,6 +5,7 @@ kind: explain
 draft: true
 section: organisation
 ---
+
 # Vision
 
 ::: warning
@@ -21,14 +22,14 @@ Wir das Unternehmen im Jahr 2020 gegründet. Hier finden Sie die Visionen für d
 
 ## 2030 - Schweiz
 
-* Wir sind Schweizweit als das Open Source Unternehmen bekannt.
-* Wir haben 200 Kunden in der Mint Cloud.
-* 50% unseres Umsatz generieren wir durch wiederkehrende Abonnements.
-* Wir sind ein Gesamtkreis mit 20 Leuten.
+- Wir sind Schweizweit als das Open Source Unternehmen bekannt.
+- Wir haben 200 Kunden in der Mint Cloud.
+- 50% unseres Umsatz generieren wir durch wiederkehrende Abonnements.
+- Wir sind ein Gesamtkreis mit 20 Leuten.
 
 ## 2035 - Europa
 
-* Wir haben Kunden aus ganz Europa.
-* Wir haben 1'000 Kunden in der Mint Cloud.
-* 80% unseres Umsatz generieren wir durch wiederkehrende Abonnements.
-* Wir bilden 5 Gesamtkreise mit jeweils 20 Mitarbeitenden.
+- Wir haben Kunden aus ganz Europa.
+- Wir haben 1'000 Kunden in der Mint Cloud.
+- 80% unseres Umsatz generieren wir durch wiederkehrende Abonnements.
+- Wir bilden 5 Gesamtkreise mit jeweils 20 Mitarbeitenden.

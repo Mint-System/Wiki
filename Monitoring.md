@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Monitoring
 
 Für das Monitoring der Systeme setzt Mint System [[Grafana]] and [[Prometheus]] ein.
@@ -18,25 +19,25 @@ Es werden fünf Typen von Metriken gesammelt:
 
 Metriken zum physikalischen Server:
 
-* CPU
-* RAM
-* Disk
+- CPU
+- RAM
+- Disk
 
 **Container**
 
 Metriken zur Container-Engine:
 
-* CPU
-* RAM
-* Disk
+- CPU
+- RAM
+- Disk
 
 **Applikationen**
 
 Applikations-spezifische Metriken:
 
-* Odoo: Anzahl User
-* Postgres: Connection Pool
-* Nextcloud: Anzahl User
+- Odoo: Anzahl User
+- Postgres: Connection Pool
+- Nextcloud: Anzahl User
 
 **HTTP**
 

@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Kubernetes
 
 Production-Grade Container Orchestration.

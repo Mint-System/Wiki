@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Entity Relationship Model
 
 Synomym zu Entity Relationship Diagram (ERD).
@@ -21,8 +22,9 @@ Es gibt verschiedene Notationsarten für ERMs/ERDs. Als Orientierung haben wir e
 ![[Entity Relationship Modell Certificate Planner.png]]
 
 Es wurden folgende Empfehlungen angwendet:
-* Automatische Felder des Datenbanksystem grau einfärben
-* Die nummerische Notation für Beziehungen verwenden
-* Technische Merkmale der Eigenschaften in Klammer setzen
-* Titel mit Leerschlägen und grossen Anfangsbuchstaben
-* Technische Mermkale mit SQL-Begriffen definieren
+
+- Automatische Felder des Datenbanksystem grau einfärben
+- Die nummerische Notation für Beziehungen verwenden
+- Technische Merkmale der Eigenschaften in Klammer setzen
+- Titel mit Leerschlägen und grossen Anfangsbuchstaben
+- Technische Mermkale mit SQL-Begriffen definieren

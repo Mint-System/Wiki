@@ -6,10 +6,11 @@ kind:
   - reference
 section: process
 ---
+
 # Prozesse Personal
 
 Dokumentation der Personal-Prozesse.
 
-* [[Prozesse Personal - Bewerbung]]
-* [[Prozesse Personal - Onboarding]]
-* [[Prozesse Personal - Offboarding]]
+- [[Prozesse Personal - Bewerbung]]
+- [[Prozesse Personal - Onboarding]]
+- [[Prozesse Personal - Offboarding]]

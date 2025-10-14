@@ -1,15 +1,17 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Odoo Login Integration
+
 Mint System unterstützt die Verbindung von Odoo mit verschiedenen Login-Systemen. Dazu gehören:
 
-* LDAP
-* OAuth
-	* [[Login mit odoo.com]]
-	* [[Login Mint System]]
-	* [[Login with GitLab]]
+- LDAP
+- OAuth
+  - [[Login mit odoo.com]]
+  - [[Login Mint System]]
+  - [[Login with GitLab]]
 
 Login-Systeme von Facebook, Google oder Odoo.com können für interne und externe Benutzer freigeschaltet werden.
 

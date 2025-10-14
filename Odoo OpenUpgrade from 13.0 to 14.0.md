@@ -1,12 +1,13 @@
 ---
 tags:
-- HowTo
+  - HowTo
 ---
+
 # Odoo Upgrade from 13.0 to 14.0
 
 ## Native Production
 
-* Define settings
+- Define settings
 
 ```bash
 DATABASE=odoo
@@ -14,7 +15,7 @@ FROM=13.0
 TARGET=14.0
 ```
 
-* Start local development environment
+- Start local development environment
 
 ```bash
 task checkout $FROM
@@ -26,7 +27,7 @@ task start
 task start db,native
 ```
 
-* Clear the local filestore and database
+- Clear the local filestore and database
 
 ```bash
 # with docker
@@ -37,7 +38,7 @@ task drop-db $DATABASE
 task clear-filestore $DATABASE
 ```
 
-* Export remote database to local folder and restore it
+- Export remote database to local folder and restore it
 
 ```bash
 odoo-backup -d $DATABASE -o tmp/$DATABASE.zip ...
@@ -49,7 +50,7 @@ docker-odoo-restore -r -f tmp/$DATABASE.zip
 odoo-restore -r -f tmp/$DATABASE.zip
 ```
 
-* Stop the server, checkout target and clone the openupgrade scripts
+- Stop the server, checkout target and clone the openupgrade scripts
 
 ```bash
 task checkout $TARGET
@@ -60,7 +61,7 @@ cd tmp/openupgrade && git checkout $TARGET && git pull && ../..
 sed -i -r 's/(addons_path.*)/\1,tmp\/openupgrade/' config/odoo-native.conf
 ```
 
-* Run the upgrade scripts
+- Run the upgrade scripts
 
 ```bash
 # WIP: with docker
@@ -68,17 +69,17 @@ docker exec odoo odoo-bin -d $DATABASE --config /etc/odoo/odoo.conf --update=all
 
 # or native
 source task source
-./odoo/odoo-bin -d $DATABASE --config config/odoo-native.conf --update=all --stop-after-init --load=base,web,openupgrade_framework 
+./odoo/odoo-bin -d $DATABASE --config config/odoo-native.conf --update=all --stop-after-init --load=base,web,openupgrade_framework
 ```
 
-* Clear the assets, run the server and check the log
+- Clear the assets, run the server and check the log
 
 ```
 docker-odoo-clear-assets -c db -d $DATABASE
 task start db,native
 ```
 
-* Remove unsupported modules
+- Remove unsupported modules
 
 ```bash
 # WIP: with docker
@@ -89,7 +90,7 @@ task remove-module $DATABASE auth_oauth_multi_token
 task remove-module $DATABASE account_edi_facturx
 ```
 
-* Remove unsupported views
+- Remove unsupported views
 
 ```bash
 task start-shell $DATABASE
@@ -97,7 +98,7 @@ task start-shell $DATABASE
 
 See [[Odoo Python Scripts]] for details
 
-* Update all modules
+- Update all modules
 
 ```
 # WIP: with docker
@@ -106,14 +107,14 @@ See [[Odoo Python Scripts]] for details
 task update-module $DATABASE all
 ```
 
-* Backup the new database
+- Backup the new database
 
 ```bash
 odoo-backup -d $DATABASE -o tmp/$DATABASE-$TARGET.zip
 ```
 
-* Deploy the Odoo 14 instance
-* Drop the current database, restore the new database and tail the server log
+- Deploy the Odoo 14 instance
+- Drop the current database, restore the new database and tail the server log
 
 ```bash
 odoo-drop -d $DATABASE ...

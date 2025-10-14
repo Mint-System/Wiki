@@ -6,13 +6,14 @@ kind:
 draft: false
 section: blog
 ---
+
 # Den eigenen Login-Anbieter mit Keycloak betreiben
 
 Welche Software heutzutage für Login-Dienste zum Einsatz kommt.
 
 Vielleicht ist ihnen auch schon aufgefallen, dass wenn Sie auf einer Webmail-Seite wie Outlook oder im eBanking-Portal wie bei Raiffeisen einloggen wollen, werden Sie immer zuerst umgeleitet.
 
-Ruft man zum Beispiel <https://outlook.live.com> auf und klickt auf *Sign in*, dann landet man bei <https://login.live.com>. Man ist genau genommen nicht mehr bei Outlook, sondern auf einer separaten Login-Seite.
+Ruft man zum Beispiel <https://outlook.live.com> auf und klickt auf _Sign in_, dann landet man bei <https://login.live.com>. Man ist genau genommen nicht mehr bei Outlook, sondern auf einer separaten Login-Seite.
 
 **SP und IdP**
 
@@ -26,7 +27,7 @@ Der grosse Vorteil dieses Ansatzes ist, dass man einen IdP für mehrere SPs verw
 
 Die Technologie hinter diesen Anmeldeverfahren nennt sich [OpenID Connect](https://openid.net/connect/). Das ist eine Schicht im Webverkehr, die mit Hilfe des [OAuth 2.0 protocol](https://oauth.net/2/) den Austausch von Identitäten regelt.
 
-Diese Software-Architekturen waren früher eine komplexe Angelegenheit. Open Source sei Dank,  kann man heutzutage ganz einfach einen eigenen IdP betreiben und diesen mit verschiedenen Diensten integrieren.
+Diese Software-Architekturen waren früher eine komplexe Angelegenheit. Open Source sei Dank, kann man heutzutage ganz einfach einen eigenen IdP betreiben und diesen mit verschiedenen Diensten integrieren.
 
 **Keycloak**
 

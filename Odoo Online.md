@@ -1,6 +1,6 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
 
 # Odoo Online

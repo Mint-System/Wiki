@@ -5,11 +5,13 @@ kind:
   - explain
 section: policy
 ---
+
 # Richtlinie - Softwareentwicklung
 
 ## Versionierung
 
 Wir orientieren uns bei der Versionierung von Software an [[Semantic Versioning]].
+
 ## Git Commit Messages
 
 Wir orientieren uns bei der Erstellung von Commit Messages an [[Conventional Commits]].
@@ -28,6 +30,7 @@ Das Git-Branching-Model sieht folgende Benennung vor:
 - `test`: testing
 - `dev`: development
 - `upg`: upgrade
+
 ## Linting
 
 Wir verwenden [[pre-commit]] für das Linting.

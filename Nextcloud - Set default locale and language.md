@@ -6,6 +6,7 @@ lang: en
 kind:
   - howto
 ---
+
 # Nextcloud: Set default locale and language
 
 Set default language.  

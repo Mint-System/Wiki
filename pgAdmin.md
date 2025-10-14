@@ -5,6 +5,7 @@ section: dev
 kind:
   - reference
 ---
+
 # pgAdmin
 
 Website: <https://www.pgadmin.org/>

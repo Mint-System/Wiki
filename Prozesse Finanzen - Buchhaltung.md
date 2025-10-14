@@ -5,7 +5,9 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Finanzen - Buchhaltung
+
 Führung der Buchhaltung der Mint System.
 
 ## Darlehenskonto einrichten
@@ -16,13 +18,13 @@ Für jeder Mitarbeiter muss ein Darlehenskonto erfasst werden.
 
 Vorher:
 
-* 2160 Gesellschaftsverbindlichkeiten
+- 2160 Gesellschaftsverbindlichkeiten
 
 Nachher:
 
-* 2160 Darlehen Kurt GIsler\
-* 2161 Darlehen Janik von Rotz\
-* 2162 Darlehen Marco Roeleven
+- 2160 Darlehen Kurt GIsler\
+- 2161 Darlehen Janik von Rotz\
+- 2162 Darlehen Marco Roeleven
 
 ## Buchungen erstellen
 
@@ -45,7 +47,7 @@ Sollkonto: 6910 Bankspesen
 
 Kunde: VISECA\
 Konto: 4410 Hostingaufwand\
-MWST: 0.0%  
+MWST: 0.0%
 
 #### Rechnung UVG
 

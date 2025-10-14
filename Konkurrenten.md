@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Konkurrenten
 
 ## Odoo Partner

@@ -1,7 +1,8 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
+
 # Managed Server Konfiguration
 
 Als Teil der Managed Server Dienstleistung erfolgt die Konfiguration und Bereitstellung verschiedener Applikationen.

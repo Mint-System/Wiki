@@ -5,7 +5,9 @@ kind:
   - explain
 section: policy
 ---
+
 # Richtlinie - Code Sharing
+
 ## Öffentlich
 
 Quellcode, der frei zugänglich sein soll, wird auf [[GitHub]] gehostet.

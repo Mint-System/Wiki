@@ -4,42 +4,43 @@ tags:
 kind: explain
 section: meta
 ---
+
 # Technologien
 
 Technologien im Einsatz der Mint System.
 
 ## Browser
 
-* [[Firefox]]
+- [[Firefox]]
 
 ## Datenbanksystem
 
-* [[PostgreSQL]]
-* [[pgAdmin]]
-* [[Meilisearch]]
+- [[PostgreSQL]]
+- [[pgAdmin]]
+- [[Meilisearch]]
 
 ## Website
 
-* [[Hugo]]
+- [[Hugo]]
 
 ## Identity and Access Management
 
-* [[Keycloak]]
+- [[Keycloak]]
 
 ## VPN
 
-* [[Wireguard]]
-* [[autossh]]
+- [[Wireguard]]
+- [[autossh]]
 
 ## Monitoring
 
-* [[Grafana]]
-* [[Prometheus]]
+- [[Grafana]]
+- [[Prometheus]]
 
 Mail
 
-* [[Mailpit]]
+- [[Mailpit]]
 
 Software-Tools:
 
-* [[WebAssembly]]
+- [[WebAssembly]]

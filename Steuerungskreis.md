@@ -6,25 +6,25 @@ kind:
   - explain
 section: organisation
 ---
+
 # Steuerungskreis
 
 Kreise:
 
-* [[Kreis Infrastruktur]]
+- [[Kreis Infrastruktur]]
 
 Rollen:
 
-* [[Netzwerker%In]]
-* [[Odoo Entwickler%in]]
-* [[Systemadministrator%in]]
-* [[Wissensmanager%in]]
-* [[Supporter%in]]
-* [[Odoo Buchhaltung Expert%in]]
-
+- [[Netzwerker%In]]
+- [[Odoo Entwickler%in]]
+- [[Systemadministrator%in]]
+- [[Wissensmanager%in]]
+- [[Supporter%in]]
+- [[Odoo Buchhaltung Expert%in]]
 
 Mitglieder:
 
-* [[Kurt Gisler]]
-* [[Janik von Rotz]]
-* [[Ulrich Kilian]]
-* [[Marco Roeleven]]
+- [[Kurt Gisler]]
+- [[Janik von Rotz]]
+- [[Ulrich Kilian]]
+- [[Marco Roeleven]]

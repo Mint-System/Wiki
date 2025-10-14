@@ -4,6 +4,7 @@ tags:
 responsibilities:
   - Infrastruktur
 ---
+
 # Laszlo Krajnikovszkij
 
 Benutzername: `laszlokr`\

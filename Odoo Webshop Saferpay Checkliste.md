@@ -1,6 +1,6 @@
 ---
 tags:
-- Prozess
+  - Prozess
 ---
 
 # Odoo Webshop Saferpay Checkliste

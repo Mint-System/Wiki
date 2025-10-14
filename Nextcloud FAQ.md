@@ -5,6 +5,7 @@ kind:
   - explain
 section: product
 ---
+
 # Nextcloud FAQ
 
 ## Offen
@@ -13,7 +14,7 @@ section: product
 
 Frage: Finanzlegungsstandard erfordern, dass Finanzdokumente nachweislich nicht verändert oder gelöscht wurden (audit-proof). Gibt es eine solchen Mechanismus in Nextcloud?
 
-Antwort: 
+Antwort:
 
 ## Beantwortet
 
@@ -39,4 +40,4 @@ Antwort: Mit [Full text search - Files - Tesseract OCR](https://apps.nextcloud.c
 
 Frage: Wie können verschiedene Dokumentversionen anhand einer ID identifiziert und gebündelt werden?
 
-Antwort: Eine explizite Versionierung ist mit Nextcloud nicht möglich. 
+Antwort: Eine explizite Versionierung ist mit Nextcloud nicht möglich.

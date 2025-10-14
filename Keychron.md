@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Keychron
 
 Website: <https://www.keychron.com/>

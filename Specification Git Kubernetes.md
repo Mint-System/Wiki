@@ -7,6 +7,7 @@ kind:
   - explain
 section: specification
 ---
+
 # Specification Git Kubernetes
 
 Context: Odoo shop for mint-cloud.ch
@@ -30,7 +31,7 @@ classDiagram
 	Repo --> Account
 	RepoBranch --> Repo
 	Repo --> User
-	
+
     class User {
 		char name required
 		char ssh_private_key
@@ -39,11 +40,11 @@ classDiagram
 
 	class Account {
 		char name required
-		
+
 		many2one forge_id
 		char local_path
 	}
-	
+
 	class Forge {
 		char name required
 		char hostname required
@@ -63,7 +64,7 @@ classDiagram
 		text cmd_input
 		file cmd_input_file
 		text cmd_output
-		
+
 		many2one account_id
 		many2one user_id
 		one2many branch_ids
@@ -82,24 +83,26 @@ description:
 
 Runs git commands in the home folder of Odoo. The ssh key is stored in the Odoo user entry. On every operation it is written as a temporary file.
 
-
 ![[Git Base Repo UI.excalidraw]]
 
 Forge Provider:
-* GitHub: github.com
-* GitLab: gitlab.com
-* Gitea: gitea.com
-* Codeberg: codeberg.org
-* Codey: codey.ch
+
+- GitHub: github.com
+- GitLab: gitlab.com
+- Gitea: gitea.com
+- Codeberg: codeberg.org
+- Codey: codey.ch
 
 Commands:
-* git status
-* git log
-* git add .
-* git clean -fd
-* git commit -m "$1"
+
+- git status
+- git log
+- git add .
+- git clean -fd
+- git commit -m "$1"
 
 Branches:
+
 - prod: production
 - int: integration
 - test: testing

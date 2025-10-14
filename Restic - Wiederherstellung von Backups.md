@@ -4,6 +4,7 @@ tags:
 kind:
   - howto
 ---
+
 # Restic - Wiederherstellung von Backups
 
 In diesem Dokument wird das Vorgehen zur Wiederherstellung aus einem Backup beschrieben.
@@ -15,6 +16,7 @@ Auf dem Host ist restic installiert und der Zugriff auf die Snapshots funktionie
 Alle Dienste sind installiert und bereit zur Wiederherstellung.
 
 ## Wiederherstellung
+
 ### Restic Restore
 
 Als erstes gilt es mit restic die Backups vom restic-Server herunterzuladen.

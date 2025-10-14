@@ -5,14 +5,15 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Zeiterfassung
 
 Tätigkeiten:
 
-* Stundensätze für interne Kosten festlegen
-* Validierungs-Prozess definieren
-* Formular für Zeiterfassung erweitern
-* Projekte und Dienstleistungen konfigurieren
+- Stundensätze für interne Kosten festlegen
+- Validierungs-Prozess definieren
+- Formular für Zeiterfassung erweitern
+- Projekte und Dienstleistungen konfigurieren
 
 Ergebnis: Dienstleistungen und Projekte sind für Arbeitszeit-Rapportierung bereit.
 
@@ -20,14 +21,14 @@ Ergebnis: Dienstleistungen und Projekte sind für Arbeitszeit-Rapportierung bere
 
 **Stundensätze**
 
-* Haben Sie unterschiedliche Stundensätze je nach Kunde / Projekt / Aufgabe / Mitarbeitende?
-* Führen Sie eine interne Kostenrechnung?
-* Haben Mitarbeitende einen internen Stundensatz?
+- Haben Sie unterschiedliche Stundensätze je nach Kunde / Projekt / Aufgabe / Mitarbeitende?
+- Führen Sie eine interne Kostenrechnung?
+- Haben Mitarbeitende einen internen Stundensatz?
 
 **Zuschläge**
 
-* Gibt es Zuschläge Wochenend- oder Sonntagsarbeit?
-* Wie werden die Zuschläge berechnet?
+- Gibt es Zuschläge Wochenend- oder Sonntagsarbeit?
+- Wie werden die Zuschläge berechnet?
 
 ## Arbeitsrapport erstellen
 
@@ -41,6 +42,6 @@ Ergebnis: Dienstleistungen und Projekte sind für Arbeitszeit-Rapportierung bere
 
 **Organisation**
 
-* Werden die Stundenzettel der Mitarbeitenden validiert? ⭐
-* Wer validiert die Stundenzettel?
-* Wer verrechnet die Stundenzettel?
+- Werden die Stundenzettel der Mitarbeitenden validiert? ⭐
+- Wer validiert die Stundenzettel?
+- Wer verrechnet die Stundenzettel?

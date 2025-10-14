@@ -1,8 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
-# Jupyter
 
+# Jupyter
 
 Website: <https://jupyter.org/>

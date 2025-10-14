@@ -4,6 +4,7 @@ tags:
 kind: reference
 section: infrastructure
 ---
+
 # Wireguard
 
 Website: <https://www.wireguard.com/>

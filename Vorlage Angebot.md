@@ -5,22 +5,24 @@ section: template
 kind:
   - reference
 ---
+
 # Vorlage Angebot
+
 Übersetzung: [[Offer Template]]
 
 ## Struktur
 
 Ein Angebot hat diese Struktur:
 
-* Beschreibung: Einleitungstext
-* Auftragszeilen:
-	* Abschnitt: Projektarbeit (Abrechnung nach Aufwand)
-	* Abschnitt: Zusätzliche Lizenzkosten
-	* Abschnitt: Monatliche Kosten
-		* Produkt mit Notiz *Details zum Produkt: HTTPS_LINK*
-* Optionen:
-	* Produkt mit Notiz *Details zum Produkt: HTTPS_LINK*
-* Bedingungen und Konditionen 	
+- Beschreibung: Einleitungstext
+- Auftragszeilen:
+  - Abschnitt: Projektarbeit (Abrechnung nach Aufwand)
+  - Abschnitt: Zusätzliche Lizenzkosten
+  - Abschnitt: Monatliche Kosten
+    - Produkt mit Notiz _Details zum Produkt: HTTPS_LINK_
+- Optionen:
+  - Produkt mit Notiz _Details zum Produkt: HTTPS_LINK_
+- Bedingungen und Konditionen
 
 ## Textbausteine
 
@@ -36,6 +38,7 @@ Der Kunde unterstützt den Auftragnehmer bei der Erbringung der vereinbarten Le
 
 Vertraulichkeit:  
 Informationen wie Firmen-und Personendaten, die vom Kunden zur Erbringung der Leistungen zur Verfügung gestellt werden, werden vom Auftragnehmer absolut vertraulich behandelt.
+
 ### Wartung und Support
 
 Kosten Wartung und Support:
@@ -61,7 +64,7 @@ Subunternehmer:
 Die UNTERNEHMENSNAME agiert bei der Auftragsabwicklung als Subunternehmer. Sie unterstützen die Mint System GmbH bei der Erbringung der offerierten Leistungen. Die Verrechnung der erbrachten Leistungen erfolgt ausschliesslich durch die Mint System GmbH.
 
 Mint System als Subunternehmen:
-Die Mint System GmbH tritt als Subunternehmen für die UNTERNEHMENSNAME auf. Die angefallen Leistungen werden zu einem definierten Stundensatz and UNTERNEHMENSNAME verrechnet. 
+Die Mint System GmbH tritt als Subunternehmen für die UNTERNEHMENSNAME auf. Die angefallen Leistungen werden zu einem definierten Stundensatz and UNTERNEHMENSNAME verrechnet.
 
 ### Fakturierungen
 
@@ -69,7 +72,7 @@ Fakturierung:
 Die Fakturierung der Leistungen sowie allfälliger Spesen inkl. MwSt. erfolgt monatlich nach effektivem Aufwand unter Beilage eines detaillierten Arbeitsrapportes bis zur Erreichung des Kostendaches.
 
 Kostendach:  
-Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostendach abgedeckt sind, wird der Kunde seitens Mint System frühzeitig informiert. Der Entscheid, ob und in welchem Rahmen die Mehrarbeit geleistet wird, liegt bei dem Kunden in Absprache mit Mint System. 
+Zeichnen sich im Laufe der Projektarbeit Änderungen ab, welche eine Mehrleistung erfordern, die nicht durch das Kostendach abgedeckt sind, wird der Kunde seitens Mint System frühzeitig informiert. Der Entscheid, ob und in welchem Rahmen die Mehrarbeit geleistet wird, liegt bei dem Kunden in Absprache mit Mint System.
 
 Fakturierung Projektphase:  
 Die Fakturierung der Leistungen inkl. MwSt. erfolgt nach Abschluss einer Projektphase.

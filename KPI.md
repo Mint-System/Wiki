@@ -5,6 +5,7 @@ section: organisation
 kind:
   - reference
 ---
+
 # KPI
 
 ## Monatlicher Umsatz
@@ -20,4 +21,3 @@ Damit die Auftragslage stimmt, müssen pro Monat 3 Angebot für Odoo-Projekte ge
 ## Abrechenbare Stunden pro Woche
 
 Individuelles Ziel festlegen. Beispielsweise 4h pro Arbeitstag.
-

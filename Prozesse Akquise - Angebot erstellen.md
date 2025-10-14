@@ -5,30 +5,35 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Akquise - Angebot erstellen
 
 ## Odoo-Lizenz-Angebot erstellen
+
 Kontakt mit Odoo-Partner.
 
 Arbeitsschritte:
-* Lizenzierung festlegen: Community oder Enterprise
-* [[Odoo Hosting]] definieren
-* Schätzung Aufwand für Customizations
-* Daten speichern in Projektordner
-	* Kontakt Kunde
-	* Unternehmen mit MWST
-	* Hosting-Modell Daten
-	* Liste der Apps gemäss [https://www.odoo.com/pricing](https://www.odoo.com/pricing)
-* Angebot von [[Odoo S.A.]] erstellen lassen
+
+- Lizenzierung festlegen: Community oder Enterprise
+- [[Odoo Hosting]] definieren
+- Schätzung Aufwand für Customizations
+- Daten speichern in Projektordner
+  - Kontakt Kunde
+  - Unternehmen mit MWST
+  - Hosting-Modell Daten
+  - Liste der Apps gemäss [https://www.odoo.com/pricing](https://www.odoo.com/pricing)
+- Angebot von [[Odoo S.A.]] erstellen lassen
 
 ## Mint System Angebot erstellen
+
 Mit dem Odoo Verkäufe-App ein Angebot erstellen.
 
 Arbeitsschritte:
-* App Verkäufe öffnen
-* Neues Angebot erstellen
-* Ablaufdatum 1 Monat
-* Kostenstelle festlegen
-* Kunde mit MWST. hinzufügen
-* Positionen einfügen und Beschreibung anpassen
-* Validieren durch Mitarbeiter
+
+- App Verkäufe öffnen
+- Neues Angebot erstellen
+- Ablaufdatum 1 Monat
+- Kostenstelle festlegen
+- Kunde mit MWST. hinzufügen
+- Positionen einfügen und Beschreibung anpassen
+- Validieren durch Mitarbeiter

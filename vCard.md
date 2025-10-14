@@ -1,7 +1,8 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
+
 # vCard
 
 Statt Visitenkarten haben wir QR-Codes.

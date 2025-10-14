@@ -5,6 +5,7 @@ section: template
 kind:
   - reference
 ---
+
 # Aufwandsschätzung Odoo Upgrade XX.0
 
 Mit diesem Angebot offerieren wir ein Upgrade für die Odoo-Installation von ==KUNDE==. Das Upgrade umfasst zwei Versionssprünge von Version XX.0 auf XX.0. Das Odoo Upgrade ist in unserem Wiki im Detail beschrieben: <https://wiki.mint-system.ch/odoo-upgrade.html>.
@@ -22,15 +23,15 @@ Die Kalkulation basiert auf folgender Aufwandsschätzung:
 
 Liste der installierten Module von Dritten:
 
-* account_followup_email_from
-* account_general_ledger_contra_accounts
-* account_move_line_contra_accounts
-* base_recursion_limit
-* bocco-custom
-* contract
-* contract_format_date_marker
-* gds_import
-* gds_import_custom
-* gds_invoice
-* l10n_ch_invoice_reports
-* odoo/studio
+- account_followup_email_from
+- account_general_ledger_contra_accounts
+- account_move_line_contra_accounts
+- base_recursion_limit
+- bocco-custom
+- contract
+- contract_format_date_marker
+- gds_import
+- gds_import_custom
+- gds_invoice
+- l10n_ch_invoice_reports
+- odoo/studio

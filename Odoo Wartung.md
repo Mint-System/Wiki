@@ -5,6 +5,7 @@ kind:
   - explain
 section: product
 ---
+
 # Odoo Wartung
 
 Als Odoo-Hoster fallen unabhängig von der Hosting-Lösung Kosten für den Unterhalt der Odoo-Module an.

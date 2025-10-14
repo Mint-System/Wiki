@@ -5,6 +5,7 @@ lang: en
 kind:
   - reference
 ---
+
 # TOTP Auth
 
 Time-based One-time Password.

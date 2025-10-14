@@ -5,6 +5,7 @@ kind: tutorial
 draft: true
 section: dev
 ---
+
 # Odoo Build - Create an OCA module
 
 This tutorial is based on <https://github.com/OCA/maintainer-tools>.
@@ -57,7 +58,7 @@ touch cron_log/__manifest__.py
 
 Copy the content of another `__manifest__.py` file in the repo and adjust it.
 
-**__manifest__.py**
+****manifest**.py**
 
 ```python
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).

@@ -5,6 +5,7 @@ section: account
 kind:
   - reference
 ---
+
 # Mint Bot
 
 ![[bot_icon.png]]

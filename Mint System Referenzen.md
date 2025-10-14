@@ -1,7 +1,8 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
+
 # Mint System Referenzen
 
 Die Kundenreferenzen werden unserer Website dargestellt: https://www.mint-system.ch/referenzen

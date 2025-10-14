@@ -1,20 +1,19 @@
 ---
-
 excalidraw-plugin: parsed
 tags: [excalidraw]
-
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 Mastodon ^Wjq2ptHz
 
 Manage your Mastdon account ... ^iMt6wut0
 
-In Social >  ^dPAtdRtc
+In Social > ^dPAtdRtc
 
 In Social > Settings > Social Media it should look like this: ^U8eIvL8K
 
@@ -33,6 +32,7 @@ Post: Mastodon ^q7rvyOMn
 Mastodon Logo ^jCjMf5j8
 
 ## Embedded Files
+
 1d1c4589af01cb7c557d731924f39ca1d2a7291c: [[odoo-social-accounts.png]]
 
 17ad0cc99f15a42318cebabdeeaa13eca8058f99: [[odoo-social-feed.png]]
@@ -40,7 +40,9 @@ Mastodon Logo ^jCjMf5j8
 86c3c9763fe040511f6053bc5ea8d263688f2cec: [[linked-in.png]]
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBObR4aOiCEfQQOKGZuAG1wMFAwYogSbggATQAtAGkAdgBRSQAZAGEaloAGegARABYAWQApHoB1IwAFFOLIWERywn1opH4S
 
@@ -126,4 +128,5 @@ IYSNwElIiwtxXwJsJ8PFgPZRQBfbkBUDkwbhFE4UK4Aq3CjzwgxJQIwNUUUndciEBASRFCERrXzzgc2d
 
 PkQGHmGqIAq6dxVhlMWXlhAUAGRM5KtXwq7ADMaGkD1XRwASV20LZXqspWyD/UEFRgH/GqJ91wVydDtmEGCCSUHpXS0BPoFOV8Z2FfstDpfA/jcR/VCAQNaiEnmN5wAJGNssEGOhZ0qIQAA=
 ```
+
 %%

@@ -4,16 +4,17 @@ tags:
 kind:
   - reference
 ---
+
 # Sidebery
 
 Repository: <https://github.com/mbnuqw/sidebery>
 
 ## Export panels and tabs
 
-Go to *Settings / Snapshots* and create a snapshot.
+Go to _Settings / Snapshots_ and create a snapshot.
 
 ## Import snapshot
 
-Go to *Settings / Snapshots* and click *View snapshots*. Select *Import snapshot*.
+Go to _Settings / Snapshots_ and click _View snapshots_. Select _Import snapshot_.
 
-Then click *Open all windows*. Close the old browser windows.
+Then click _Open all windows_. Close the old browser windows.

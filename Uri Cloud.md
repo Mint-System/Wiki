@@ -3,6 +3,7 @@ draft: true
 kind: explain
 section: project
 ---
+
 # Uri Cloud
 
 ::: warning
@@ -15,7 +16,7 @@ Top Softwarelösungen aus der Region anbieten. Software-Partner und Betreiber vo
 
 Infomaniak Domains:
 
-* uri-cloud.ch
+- uri-cloud.ch
 
 ## Übersicht
 
@@ -24,6 +25,7 @@ Infomaniak Domains:
 ## Business Case
 
 Siehe [[VSHN Application Marketplace]].
+
 ## Szenarios
 
 **Szenario Steinbock**
@@ -76,6 +78,7 @@ Mitarbeiter der Uri Cloud setzen sich mit dem Amt für Informatik und Bedag in V
 Ein einmaliger Betrag an diese Partner ausbezahlt:
 
 - Uri Cloud für den Koordinationsauftrag
+
 ## Spezifikation
 
 Die [[Specification Uri Cloud]] ist eine Weiterentwicklung der [[Spezifikation Mint Cloud]].

@@ -2,6 +2,7 @@
 tags:
   - Definition
 ---
+
 # Managed Kubernetes
 
 | Anbieter       | Produkt                         |

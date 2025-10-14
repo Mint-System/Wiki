@@ -4,6 +4,7 @@ tags:
 kind: reference
 section: organisation
 ---
+
 # Dienstleistungen
 
 Übersetzung: [[Services]]
@@ -68,12 +69,12 @@ Preis: 180 CHF pro Stunde
 
 ## Geschäftsanalyse
 
-![[odoo_icon_people.png]] 
+![[odoo_icon_people.png]]
 
 Umfasst diese Dienstleistungen:
 
-* Methodische Umsetzung des Beratungsprojekts
-* Erstellen Dokumentation zur Projektabwicklung
+- Methodische Umsetzung des Beratungsprojekts
+- Erstellen Dokumentation zur Projektabwicklung
 
 Preis: 180 CHF pro Stunde
 
@@ -83,12 +84,14 @@ Preis: 180 CHF pro Stunde
 
 Entwicklung Datenmodell
 Umfasst folgende Dienstleistungen:
+
 - Aufbereitung und Normalisierung von Daten
 - Entwicklung ERM
 - Implementation Transformationsprozesse für Daten
 
 Datenmigration
 Umfasst folgende Dienstleistungen
+
 - Export Daten aus Quellsystem
 - Transformation Daten in neues Format
 - Import Daten in Zielsystem
@@ -100,11 +103,13 @@ Preis: 180 CHF pro Stunde
 ![[odoo_icon_tool.png]]
 
 Umfasst folgende Dienstleistungen:
+
 - Odoo Customizing
 - Technische Integration in kundenspezifische Umgebung
 - Odoo Modulkonfigurationen
 
 Umfasst folgende Dienstleistungen:
+
 - Installation und Konfiguration Managed Server
 - Bereitstellung Hosting
 - Technische Integration mit Umsystemen

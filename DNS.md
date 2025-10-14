@@ -5,6 +5,7 @@ section: infrastructure
 kind:
   - reference
 ---
+
 # DNS
 
 Dokumentation zur DNS-Konfiguration der Mint System Dienste.
@@ -20,20 +21,25 @@ Jeder Server erhält einen DNS-Namen. Diese Namen werden als Alias für weitere 
 ## Zonen
 
 Dokumentation der verwaltet DNS-Zonen/Domänen.
+
 ### mint-system.com
 
 Unter dieser Domäne werden die Server registriert. Beispielsweise zeigt der Eintrag `zeus.mint-system.com` auf den Zeus Server.
 
 Diese Einträge werden für CNAME- und ALIAS-Einträge in anderen Domains verwendet.
+
 ### mint-system.ch
 
-Unter  dieser Zone werden die Einträge der Mint System für interne und externe Dienste verwaltet.
+Unter dieser Zone werden die Einträge der Mint System für interne und externe Dienste verwaltet.
+
 ### mintsystem.ch
 
 Das ist eine Alias-Domain und wird nach `www.mint-system.ch` umgeleitet.
+
 ### mint-systems.ch
 
 Das ist eine Alias-Domain und wird nach `www.mint-system.ch` umgeleitet.
+
 ### mintsys.ch
 
 Unter dieser Domäne werden die [[Demoumgebungen]] der Mint System gehostet.

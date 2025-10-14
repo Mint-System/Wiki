@@ -6,6 +6,7 @@ kind:
   - explain
 section: blog
 ---
+
 # Odoo Monitoring mit Prometheus und Grafana
 
 ### Odoo
@@ -15,4 +16,3 @@ section: blog
 ### Prometheus
 
 ### Grafana
-

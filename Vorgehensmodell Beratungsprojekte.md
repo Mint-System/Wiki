@@ -5,6 +5,7 @@ kind:
   - explain
 section: methodology
 ---
+
 # Vorgehensmodell Beratungsprojekte
 
 Beschreibt wie die Mint System GmbH Beratungsprojekte abwickelt.
@@ -49,13 +50,13 @@ in der Regel der CEO oder CFO des Kunden die das Projekt finanziell verantworten
 
 ### Kick-off Meeting
 
-Die Teilnehmer starten das Beratungsprojekt gemeinsam mit einem Kick-off Meeting. In Form eines Workshops werden die Ziele definiert und reduziert. Der Projektrahmen wird abgegrenzt und die Stakeholder sind definiert. 
+Die Teilnehmer starten das Beratungsprojekt gemeinsam mit einem Kick-off Meeting. In Form eines Workshops werden die Ziele definiert und reduziert. Der Projektrahmen wird abgegrenzt und die Stakeholder sind definiert.
 
 Das Meeting bildet die Grundlage für eine erfolgreiche Zusammenarbeit. Spezielle Bedinungen und Erwartungen werden hier deponiert und besprochen.
 
 ### Interviews mit Stakeholder
 
-Nun gilt es ein klares Bild von den Arbeitsabläufen der Organisation zu bekommen. Mithilfe von vordefiniert Interviews werden die Stakeholder zu ihrer Arbeit und den Prozessen befragt. Wir verfolgen dabei "bottom-up"-Ansatz. Wir möchten verstehen wie gearbeitet wird und nicht wie gearbeitet werden soll. 
+Nun gilt es ein klares Bild von den Arbeitsabläufen der Organisation zu bekommen. Mithilfe von vordefiniert Interviews werden die Stakeholder zu ihrer Arbeit und den Prozessen befragt. Wir verfolgen dabei "bottom-up"-Ansatz. Wir möchten verstehen wie gearbeitet wird und nicht wie gearbeitet werden soll.
 
 Bestehende Prozessdokumentation und Richtlinien werden in dieser Phase ausgeblendet.
 

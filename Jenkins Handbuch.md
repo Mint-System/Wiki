@@ -5,6 +5,7 @@ kind:
   - howto
 section: product
 ---
+
 # Jenkins Handbuch
 
 ## Jenkinks mit Docker Agent bereitstellen
@@ -17,15 +18,15 @@ Jenkins starten.
 task start cd
 ```
 
-Einloggen und Plugins *docker* und *Docker Pipeline* via `/manage` installieren.
+Einloggen und Plugins _docker_ und _Docker Pipeline_ via `/manage` installieren.
 
-Via `/manage` eine Cloud *docker* mit Option *Docker* hinzufügen. Als *Docker Host URI* `tcp://dind:2375` verwenden und die Optionen *Enabled* und *Expose DOCKER_HOST* aktivieren.
+Via `/manage` eine Cloud _docker_ mit Option _Docker_ hinzufügen. Als _Docker Host URI_ `tcp://dind:2375` verwenden und die Optionen _Enabled_ und _Expose DOCKER_HOST_ aktivieren.
 
-Anschliessend ein *Docker Agent template* hinzufügen mit Label `jenkins-agent`, Enabled, Name `agent` und Docker Image `jenkins/agent`.
+Anschliessend ein _Docker Agent template_ hinzufügen mit Label `jenkins-agent`, Enabled, Name `agent` und Docker Image `jenkins/agent`.
 
 ## SSH-Schlüssel einrichten
 
-Navigieren Sie nach *Dashboard > Jenkins verwalten > Zugangsdaten > System > Globale Zugangsdaten* und fügen Sie einen Eintrag hinzu:
+Navigieren Sie nach _Dashboard > Jenkins verwalten > Zugangsdaten > System > Globale Zugangsdaten_ und fügen Sie einen Eintrag hinzu:
 
 ID: `jenkins-ssh-credentials`\
 Username: `bot-mintsys`
@@ -58,13 +59,13 @@ pipeline {
 }
 ```
 
-Mit *Jetzt bauen* den Build-Prozess starten
+Mit _Jetzt bauen_ den Build-Prozess starten
 
 ## Git mit Submodules auschecken
 
-Installieren Sie das Plugin *SSH Agent*.
+Installieren Sie das Plugin _SSH Agent_.
 
-Erstellen Sie eine neue Pipeline *Git*.
+Erstellen Sie eine neue Pipeline _Git_.
 
 Das Repo <git@github.com:sozialinfo/odoo-cd.git> enthält Submodule und wird wie folgt geklont:
 

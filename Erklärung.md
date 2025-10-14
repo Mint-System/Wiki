@@ -3,11 +3,12 @@ tags:
   - Meta
 kind: explain
 ---
+
 # Erklärung
 
-* [[Odoo]]
-* [[Unternehmensentwicklung]]
-* [[Partner]]
-* [[Philosophie]]
-* [[Technologien]]
-* [[Vorgehensmodell]]
+- [[Odoo]]
+- [[Unternehmensentwicklung]]
+- [[Partner]]
+- [[Philosophie]]
+- [[Technologien]]
+- [[Vorgehensmodell]]

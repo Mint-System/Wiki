@@ -18,6 +18,7 @@ Die Mint Cloud Hosting-Platform basiert auf Odoo und Kubernetes.
 ## Technisch
 
 Der Kern der Architektur bildet der Odoo Webshop. Er ist die Schnittstelle nach Aussen zum Kunden und nach Innen zu den Kubernetes-Umgebungen.
+
 ### Odoo Webshop
 
 [[Specification Website Sale Helm]]
@@ -25,15 +26,19 @@ Der Kern der Architektur bildet der Odoo Webshop. Er ist die Schnittstelle nach 
 ### Ansible
 
 Die Manifest-Dateien kommen aus dem [[Ansible Build]] Projekt. Der Odoo Kubernetes-Controller verwendet somit die gleichen Manifest-Dateien wie Ansible.
+
 ### Mailgun
 
 Mit Mailgun können Absender-Domain registriert werden: [[Mailgun#Create a domain]].
+
 ### Exoscale
 
 [[Exoscale]] ist nur einer von Möglichen "Managed Kubernetes Providern".
+
 ### Payrexx
 
 [[Payrexx]] ist ein Schweizer Zahlungsanbieter. Es gibt bereits Integrationen für Odoo.
+
 ### Codey
 
 Codey ist ein Projekt der [[VSHN AG]] und soll eine Schweizer Alternative zu GitHub und Co beiten.
@@ -47,21 +52,21 @@ System: Odoo, Kubernetes
 ConfigMap erfassen:
 
 1. Der Operator loggt sicht im Odoo Backend ein
-2. Er erfasst unter *Kubernetes > ConfigMaps* einen Eintrag
+2. Er erfasst unter _Kubernetes > ConfigMaps_ einen Eintrag
 3. Er legt fest, ob die ConfigMap eine Vorlage ist
 
 Manifest erfassen:
 
 1. Der Operator loggt sicht im Odoo Backend ein
-2. Er erfasst unter *Kubernetes > Manifests* einen Eintrag
+2. Er erfasst unter _Kubernetes > Manifests_ einen Eintrag
 3. Ein Manifest hat einen Titel und eine URL auf die YAML-Datei
 4. Odoo zeigt eine Vorschau der Manifest-Datei, wenn die URL eingetragen wird
 
 Hosting-Produkt erfassen:
 
-1. Anschliessend öffnet er *Website > Produkte*
-2. Er erfasst ein neues Produkt *Odoo-Hosting* als Subscription
-3. Im Tab *Kubernetes* wählt er die Vorlage ConfigMap, Environment und Manfeste zur Anwendung aus
+1. Anschliessend öffnet er _Website > Produkte_
+2. Er erfasst ein neues Produkt _Odoo-Hosting_ als Subscription
+3. Im Tab _Kubernetes_ wählt er die Vorlage ConfigMap, Environment und Manfeste zur Anwendung aus
 
 Hosting einkaufen:
 
@@ -90,7 +95,7 @@ ConfigMap exportieren:
 
 1. Der Operator loggt sich im Odoo Backend ein
 2. Er zeigt die Kubernetes Apps an und öffnen einen Eintrag
-3. Mit einem Klick auf *Aktion > Export ConfigMAp* erhält er ein Ansible `vars.yml`
+3. Mit einem Klick auf _Aktion > Export ConfigMAp_ erhält er ein Ansible `vars.yml`
 
 Manuelles Deployment:
 

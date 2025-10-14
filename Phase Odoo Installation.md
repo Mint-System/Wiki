@@ -5,16 +5,17 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Odoo Installation
 
 Tätigkeiten:
 
-* Den Odoo Mandanten aufsetzen
-* DNS-Konfiguration vornehmen
-* Odoo Mail-Account einrichten und integrieren
-* Mail-Header (DKIM, SPF) prüfen
-* Die Benutzer in Odoo bereitstellen
-* Odoo Module von Drittanbieter installieren
+- Den Odoo Mandanten aufsetzen
+- DNS-Konfiguration vornehmen
+- Odoo Mail-Account einrichten und integrieren
+- Mail-Header (DKIM, SPF) prüfen
+- Die Benutzer in Odoo bereitstellen
+- Odoo Module von Drittanbieter installieren
 
 Ergebnis: Odoo steht für die Initialisierung bereit.
 
@@ -35,7 +36,7 @@ Grundlegende Informationen werden erarbeitet und Odoo installiert.
 - Welche Hosting-Variante wird gewählt? ⭐
 
 **Domains**
- 
+
 - Wie heisst die Domain? (Standard Schema $NAME.mint-system.ch)
 
 **eMail-System**

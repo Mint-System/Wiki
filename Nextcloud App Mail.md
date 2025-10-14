@@ -5,6 +5,7 @@ kind:
   - reference
 section: communication
 ---
+
 # Nextcloud App Mail
 
 Das ist ein Webclient für den Zugriff auf ein Mail-Postfach.

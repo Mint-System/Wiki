@@ -12,14 +12,14 @@ section: process
 
 Arbeitsschritte:
 
-* In Infomaniak ein Postfach und Kalender erstellen
-	* Kalender an alle internen Benutzer freigeben
-* In Infomaniak einen Account mit Rolle "Extern" erstellen
-* In Keycloak einen Benutzer anlegen
-	* `access` Zugriff auf `erp.mint-system.ch` und `cloud.mint-system.ch` erteilen
-* In Odoo einen Benutzer mit Rolle "Shared" anlegen
-* In Odoo einen Mitarbeiter anlegen und mit "Shared" taggen
-* Mail an Freelancer%In schicken:
+- In Infomaniak ein Postfach und Kalender erstellen
+  - Kalender an alle internen Benutzer freigeben
+- In Infomaniak einen Account mit Rolle "Extern" erstellen
+- In Keycloak einen Benutzer anlegen
+  - `access` Zugriff auf `erp.mint-system.ch` und `cloud.mint-system.ch` erteilen
+- In Odoo einen Benutzer mit Rolle "Shared" anlegen
+- In Odoo einen Mitarbeiter anlegen und mit "Shared" taggen
+- Mail an Freelancer%In schicken:
 
 ```
 Hallo $VORNAME
@@ -55,8 +55,8 @@ Viele Grüsse
 
 Arbeitsschritte:
 
-* Passwort in der Nextcloud Passwort-App im Ordner "Shared" anlegen
+- Passwort in der Nextcloud Passwort-App im Ordner "Shared" anlegen
 
 ![[Nextcloud Passwort Shared.png]]
 
-* Den Eintrag mit dem Benutzer teilen
+- Den Eintrag mit dem Benutzer teilen

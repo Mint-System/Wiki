@@ -1,6 +1,6 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
 
 # Mint System Login

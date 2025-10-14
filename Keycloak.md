@@ -5,6 +5,7 @@ section: product
 kind:
   - reference
 ---
+
 # Keycloak
 
 Website: <https://www.keycloak.org/>
@@ -15,9 +16,9 @@ Vercel Domains:
 
 Weiterführende Links:
 
-* [[Keycloak Assessment]]
-* [[Keycloak Upgrade]]
-* [[Keycloak Troubleshooting]]
-* [[Keycloak Security]]
-* [[Keycloak Hosting]]
-* [[Keycloak Handbuch]]
+- [[Keycloak Assessment]]
+- [[Keycloak Upgrade]]
+- [[Keycloak Troubleshooting]]
+- [[Keycloak Security]]
+- [[Keycloak Hosting]]
+- [[Keycloak Handbuch]]

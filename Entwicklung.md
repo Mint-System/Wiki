@@ -4,6 +4,7 @@ tags:
 kind:
   - reference
 ---
+
 # Entwicklung
 
 Wird synonym mit [[Softwareentwicklung]] verwendet.

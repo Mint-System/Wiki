@@ -3,6 +3,7 @@ tags:
   - Note
 kind: explain
 ---
+
 # Mail Bounce
 
 When sending E-Mails the client or the server may define a `Return-Path` header. This tells the receiving mail server in case the mail cannot be delivered, where to return the mail.

@@ -1,7 +1,8 @@
 ---
 tags:
-- HowTo
+  - HowTo
 ---
+
 # Office 365 Exchange für Odoo konfigurieren
 
 Damit Odoo E-Mail mit einem Office 365 Postfach versenden kann, müssen bestimmte Vorbereitungen getroffen werden.
@@ -15,15 +16,14 @@ graph LR
   A((Odoo)) -->|SMTP| B((Exchange))
 ```
 
-
-* Login unter [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home) und öffnen *Admin Center > Exchange*
-* Navigation nach *Nachrichtenfluss > Connectors*
-* Neuer Connector erfassen und mit *Weiter* bestätigen
+- Login unter [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home) und öffnen _Admin Center > Exchange_
+- Navigation nach _Nachrichtenfluss > Connectors_
+- Neuer Connector erfassen und mit _Weiter_ bestätigen
 
 ![[Office 365 Connector.png]]
 
-* Als Name *Odoo Connector* eintragen
-* Option *IP-Adresse* auswählen und die Adresse des Odoo Server eintragen
+- Als Name _Odoo Connector_ eintragen
+- Option _IP-Adresse_ auswählen und die Adresse des Odoo Server eintragen
 
 Die IP-Adresse des Odoo Server können Sie mit diesem Befehl anzeigen:
 
@@ -31,7 +31,7 @@ Die IP-Adresse des Odoo Server können Sie mit diesem Befehl anzeigen:
 nslookup erp.example.com
 ```
 
-* Mit *Weiter* und *Speichern* den Vorgang abschliessen
+- Mit _Weiter_ und _Speichern_ den Vorgang abschliessen
 
 ## Odoo Postfach
 
@@ -43,16 +43,16 @@ graph LR
   B((Exchange)) -->|IMAP/SMTP| C((Odoo))
 ```
 
-* Login unter [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home) und öffnen *Benutzer > Aktive Benutzer*
-* Postfach für Odoo erstellen
+- Login unter [https://portal.office.com/adminportal/home](https://portal.office.com/adminportal/home) und öffnen _Benutzer > Aktive Benutzer_
+- Postfach für Odoo erstellen
 
 ## Catchall Mail
 
 Odoo kann unter anderen Adressen Mails versenden und Empfangen. Dazu braucht es eine catchall-Adresse.
 
-* Öffnen Office 365 Admin Center
-* Naivgation nach *Benutzer > Aktive Benuter > Auswahl Odoo Account* und mit Rechtsklick *Benutzernamen und E-Mail verwalten* auswählen
-* Die Adresse `catchall@example.com` hinzufügen
+- Öffnen Office 365 Admin Center
+- Naivgation nach _Benutzer > Aktive Benuter > Auswahl Odoo Account_ und mit Rechtsklick _Benutzernamen und E-Mail verwalten_ auswählen
+- Die Adresse `catchall@example.com` hinzufügen
 
 ## Odoo eingehender Mail-Server
 
@@ -68,18 +68,18 @@ Login information: Bentzername und Passwort des Odoo Postfach
 
 Odoo unterscheidet zwischen eingehenden und ausgehen Mails. Für den Versand von Mails muss eine SMTP-Verbindung konfiguriert werden.
 
-* Adresse für Mail-Server anzeigen
+- Adresse für Mail-Server anzeigen
 
 ```
 dig example.ch MX +short
 0 example-ch.mail.protection.outlook.com.
 ```
 
-* Mail-Account mit diesen Informaionen erfassen:
+- Mail-Account mit diesen Informaionen erfassen:
 
 Beschreibung: `Office365 Outgoing`\
 Postausgang-Server: `example-ch.mail.protection.outlook.com`\
 SMTP-Port: `25`\
 Verbindungssicherheit: `Keine`
 
-* Die Verbindung testen und den Vorgang abschliessen
+- Die Verbindung testen und den Vorgang abschliessen

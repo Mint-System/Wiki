@@ -1,14 +1,14 @@
 ---
-
 excalidraw-plugin: parsed
 tags: [excalidraw]
-
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
+
 ## Text Elements
+
 Odoo-Build ^CmEuTqd8
 
 Mint-System ^UBD3A1gN
@@ -95,9 +95,9 @@ GitHub ^xFFjx1py
 
 Forge: ^bRzN2ug7
 
- git@github.com:Mint-System/Odoo-Build.git  ^r6oUIixI
+git@github.com:Mint-System/Odoo-Build.git ^r6oUIixI
 
- git@github.com:Mint-System/Odoo-Build.git  ^tRHZRskE
+git@github.com:Mint-System/Odoo-Build.git ^tRHZRskE
 
 https://github.com/Mint-System ^yx1pnQyH
 
@@ -134,12 +134,15 @@ mintsys-bot ^IipT2XIa
 Remote Origin ^18QUGJqp
 
 ## Element Links
+
 r6oUIixI: ssh://git
 
 tRHZRskE: ssh://git
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4IAAZCAGkAawArTSiAfTYADklnACEAWQaAGQAxYgANJH5S2EQKwOwojmVg1JLI
 
@@ -375,4 +378,5 @@ Xw0ANA/Ns0FddLWkjZG3SNNyfdaAgkbeG2PXgobIwLXOVqta3WMgBKxAhQ6JOALWmVjEBFAutNACz7DK
 
 mA2N3AE42REXgFk3cs5EEMphNzDdvXM4QdclW4AHoK6n5fCmBjA0YCGy5gfVujb1XzFIgDI3wFyAAf0TN4QCgBEdIcMw27ABoF+JmAUUE7Q4ARbMCgaN4zalUp4Gx0YAQIdaCackNqQTCBggGx2dyN1tEAMAn10JFtzqs8TbRAMDEGH83AtvIxDXIkb1bTBBkXMCAA==
 ```
+
 %%

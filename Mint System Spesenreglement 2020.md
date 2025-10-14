@@ -4,6 +4,7 @@ tags:
 kind:
   - explain
 ---
+
 # Spesenreglement
 
 Mint System GmbH\

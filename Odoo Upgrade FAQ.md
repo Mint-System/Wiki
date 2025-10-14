@@ -7,7 +7,7 @@ kind:
 
 # Odoo Upgrade FAQ
 
-**Upgrade-Zyklus
+\*\*Upgrade-Zyklus
 
 > Inzwischen ist ja sogar Odoo 18 raus. Ab wann würden Sie da zum Update raten?
 

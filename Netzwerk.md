@@ -1,7 +1,8 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
+
 # Netzwerk
 
 ## Off-Premise

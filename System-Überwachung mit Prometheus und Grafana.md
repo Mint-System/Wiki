@@ -5,13 +5,14 @@ section: blog
 kind:
   - explain
 ---
+
 # Systemüberwachung mit Prometheus und Grafana
 
 Die Mint System bietet für Kunden das Cloud-Hosting [[Mint Cloud]] an. Zum Betrieb werden Server in existieren Rechenzentern gemietet. Der Hosting-Partner stellt sicher, dass die phyischen Server funktionieren und ist für Ausfälle verantwortlich. Für alle Software, die auf dem Server installiert wird, ist jedoch die Mint System verantwortlich. Auch wir müssen sicherstellen, dass die Software einwandfrei funktioniert. Dazu betreiben wir einen Überwachungs- bzw. Monitoringsystem. Dieses meldet uns wenn biespielsweise die Festplatte auf einem Server vollläuft. In diesem Beitrag möchten wir dieses System genauer erklären.
 
 ## Architektur
 
-Das Monitoringsystem besteht aus mehreren Bausteinen. Im Kern ist Prometheus. Prometheus ist ein Datenbanksystem und ist speziell gut darin, metrische Daten zu verarbeiten. Mit Grafana werden die Daten visualisiert. Beispielsweise kann man ein Diagramm zur Metrik *Freier Festplattenspeicher* erstellen. Im Weiteren kann man Regeln für Alarme hinzufügen. Erreicht beispielsweise der *Freie Festplattenspeicher* eine bestimmte Zahl, kann man ein Email an den verantwortlichen Techniker versenden.
+Das Monitoringsystem besteht aus mehreren Bausteinen. Im Kern ist Prometheus. Prometheus ist ein Datenbanksystem und ist speziell gut darin, metrische Daten zu verarbeiten. Mit Grafana werden die Daten visualisiert. Beispielsweise kann man ein Diagramm zur Metrik _Freier Festplattenspeicher_ erstellen. Im Weiteren kann man Regeln für Alarme hinzufügen. Erreicht beispielsweise der _Freie Festplattenspeicher_ eine bestimmte Zahl, kann man ein Email an den verantwortlichen Techniker versenden.
 
 Diese Grafik gibt eine Übersicht zum den Systembausteinen:
 

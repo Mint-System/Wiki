@@ -5,11 +5,13 @@ section: template
 kind:
   - reference
 ---
+
 # Vorlage Datenmigration
 
 Arbeitsschritte zum Export und Import von Daten müssen detailliert und nachvollziehbar festgehalten werden. Für jedes Geschäftsobjekt, das migriert wird, wird eine Dokumentation angelegt.
 
 Prozess der Datenmigraton:
+
 1. **Export**: Beschreibt wie die Daten aus dem Quellsystem exportiert werden
 2. **Input**: Benennt die Input-Daten
 3. **Prozess**: Verarbeitungsschritte der Input-Daten
@@ -24,20 +26,20 @@ Wir werden die Daten aus dem Quellsystem exportiert?
 
 Welche Input-Daten stehen zur Verfügung und wie heissen die Dateien?
 
-* Lieferanten.xlsx
+- Lieferanten.xlsx
 
 ## Prozess
 
 Wie müssen die Input-Daten transformiert werden? Wie heissen die transformierten Dateien?
 
-* partner.csv
-	* Add first row with external id
+- partner.csv
+  - Add first row with external id
 
 ## Output
 
 Welches Sie die Output-Daten aus dem Transformationsprozess? Wie heissen die Output-Dateien?
 
-* partner.output.csv
+- partner.output.csv
 
 ## Import
 

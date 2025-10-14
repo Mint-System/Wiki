@@ -5,6 +5,7 @@ section: communication
 kind:
   - explain
 ---
+
 # Odoo Connector
 
 Website: <https://odoo-connector.com/>

@@ -6,7 +6,6 @@ kind:
 section: product
 ---
 
-
 # Ansible Troubleshooting
 
 ## Legacy setup failed

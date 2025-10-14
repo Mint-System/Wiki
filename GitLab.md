@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # GitLab
 
 Auf GitHub verwaltet die Mint System ihre privaten Projekte.

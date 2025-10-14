@@ -6,6 +6,7 @@ kind:
   - explain
 section: blog
 ---
+
 # Bauteile mit Odoo zertifizieren
 
 Aerolite AG in Ennetbürgen ist Meister in der Entwicklung und Zulassung von Flugzeugbauteilen.
@@ -21,5 +22,3 @@ Ergebnis des Projekts war der Certificate Planner. Dieser Unterstützt Mitarbeit
 Die sog. Master Document List gibt den Behörden einen Überlick über den Stand der Zulassung eines Produkts.
 
 Mit dem Certificate Planner konnte der Administrationsaufwand extrem reduziert werden.
-
-

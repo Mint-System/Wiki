@@ -5,6 +5,7 @@ kind:
   - explain
 section: service
 ---
+
 # Technischer Support
 
 Als Kunde der Mint System braucht man nicht nur einen zuverlässigen Partner. Man braucht die Garantie, dass bei einem Systemausfall oder Beeinträchtigung der Verfügbarkeit jemand erreichbar ist. Auch im Daily-Business braucht es im entscheidenden Moment rasche Beratung.

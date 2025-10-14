@@ -3,6 +3,7 @@ tags:
   - Website
 kind: reference
 ---
+
 # Visual Studio Code
 
 Website: <https://code.visualstudio.com/>
@@ -11,9 +12,9 @@ Website: <https://code.visualstudio.com/>
 
 Eine Lister der wichtigsten Plugins:
 
-* Prettier - Code formatter
-* Dracula Official
-* XML Tools
-* YAML
-* Docker
-* Remote - Container
+- Prettier - Code formatter
+- Dracula Official
+- XML Tools
+- YAML
+- Docker
+- Remote - Container

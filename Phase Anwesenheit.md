@@ -5,14 +5,15 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Anwesenheit
 
 Tätigkeiten:
 
-* Überzeitenmanagement mit Startdatum aktivieren
-* Arbeitszeiten einrichten
-* Bericht Vergleich Soll- und Ist-Zeit einsehen
-* Kioskmodus auf Touchscreen starten
+- Überzeitenmanagement mit Startdatum aktivieren
+- Arbeitszeiten einrichten
+- Bericht Vergleich Soll- und Ist-Zeit einsehen
+- Kioskmodus auf Touchscreen starten
 
 Ergebnis: Mitarbeitende können ihr Anwesenheit erfassen.
 
@@ -20,11 +21,11 @@ Ergebnis: Mitarbeitende können ihr Anwesenheit erfassen.
 
 **Arbeitszeitmodelle**
 
-* Welche Arbeitszeitmodelle haben Sie im Einsatz? ⭐
-* Haben Sie Mitarbeitende im Stundenlohn?
+- Welche Arbeitszeitmodelle haben Sie im Einsatz? ⭐
+- Haben Sie Mitarbeitende im Stundenlohn?
 
 ## Berichte anzeigen
 
 **Überstunden**
 
-* Erhalten Mitarbeitende einen monatlichen Bericht zur Anwesenheit?
+- Erhalten Mitarbeitende einen monatlichen Bericht zur Anwesenheit?

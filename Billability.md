@@ -6,6 +6,7 @@ kind:
   - explain
 section: term
 ---
+
 # Billability
 
 New employees at Mint System have to learn new methodologies, understand previous design decisions and most of all learn to work with Odoo.

@@ -5,6 +5,7 @@ kind:
   - howto
 section: vendor
 ---
+
 # Hetzner - Server zu neuem Standort migrieren
 
 ## Neue Server bereitstellen

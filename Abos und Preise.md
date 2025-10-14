@@ -8,6 +8,7 @@ section: product
 ![[subscription banner.jpg]]
 
 # Abo und Preise
+
 Version: 2025-04-07
 
 Unsere Leistungen werden pro Stunde gemäss untenstehender Preisliste verrechnet. Mit einem Supportabo **MINT** sichern Sie sich Rabatte auf all unsere Stundensätze. Wählen Sie das Abo, welches Ihre Bedürfnisse am besten deckt und die Folgekosten für Sie tief hält.
@@ -15,7 +16,7 @@ Unsere Leistungen werden pro Stunde gemäss untenstehender Preisliste verrechnet
 ## Supportabo
 
 | Abovariante | Preis pro Jahr |
-| ----------- | --------------:|
+| ----------- | -------------: |
 | Ohne Abo    |          0 CHF |
 | MINT        |       1000 CHF |
 | MINT+       |      2'500 CHF |

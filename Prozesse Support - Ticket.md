@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Support - Ticket
 
 ## Ticket erstellen

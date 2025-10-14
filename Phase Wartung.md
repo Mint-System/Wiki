@@ -5,13 +5,14 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Wartung
 
 Tätigkeiten:
 
-* Wartunsprozess definieren
-* Wartungsteams festhalten
-* Geräte zur regelmässigen Prüfung erfassen
+- Wartunsprozess definieren
+- Wartungsteams festhalten
+- Geräte zur regelmässigen Prüfung erfassen
 
 Ergebnis: Geräte und Wartungsprozess ist eingerichtet
 

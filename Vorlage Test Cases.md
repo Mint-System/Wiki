@@ -5,6 +5,7 @@ section: template
 kind:
   - reference
 ---
+
 # Test Cases
 
 Test the MODULENAME.
@@ -15,8 +16,8 @@ T1 - Description
 
 **Action**
 
-* Step 1
-* Step 2
+- Step 1
+- Step 2
 
 **Expecation**
 
@@ -35,6 +36,7 @@ If test case fails report as bug.
 Open bugs.
 
 ### B1 - Description
+
 Date: YYYY-MM-DD\
 Case: [[#T1 - Description]]
 
@@ -49,6 +51,7 @@ Unrlelated improvments for the system.
 ## Open
 
 ### MI1 - Description
+
 Date: YYYY-MM-DD
 
 Details here.

@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Odoo App Fertigung Tabletansicht
 
 Die Tabletansicht der Fertigungsaufträge ist eine spezielle Lösung von Odoo. Sie erfordert eine Erläuterung.

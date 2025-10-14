@@ -1,12 +1,11 @@
-
 # Migrate OCA module to XX.0
 
 See migration guide for details:
 
-* [Migration to version 16.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0)
-* [Migration to version 17.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0)
-* [Migration to version 18.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0)
-  
+- [Migration to version 16.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0)
+- [Migration to version 17.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0)
+- [Migration to version 18.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0)
+
 ## Prepare
 
 Set env vars.
@@ -47,7 +46,7 @@ source task source
 cd "oca/$REPO"
 ```
 
-## Migrate 
+## Migrate
 
 Create the migration branch.
 
@@ -58,7 +57,7 @@ git format-patch --keep-subject --stdout origin/$ODOO_TARGET_VERSION..origin/$OD
 
 Run pre commit checks.
 
-```bash 
+```bash
 pre-commit run -a
 ```
 
@@ -79,9 +78,9 @@ task init-module "oca/$REPO/$MODULE"
 
 Follow migation guide to update the module:
 
-* [Migration to verison 16.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0#tasks-to-do-in-the-migration)
-* [Migration to verison 17.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0#tasks-to-do-in-the-migration)
-* [Migration to verison 18.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0#tasks-to-do-in-the-migration)
+- [Migration to verison 16.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0#tasks-to-do-in-the-migration)
+- [Migration to verison 17.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0#tasks-to-do-in-the-migration)
+- [Migration to verison 18.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0#tasks-to-do-in-the-migration)
 
 ## Submit
 

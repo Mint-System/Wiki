@@ -1,5 +1,6 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # One Time Password Authentication

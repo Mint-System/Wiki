@@ -8,6 +8,7 @@ section: organisation
 tags:
   - Definition
 ---
+
 # Kurt Gisler
 
 Benutzername: `kurtgisler`\

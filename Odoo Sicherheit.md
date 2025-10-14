@@ -4,6 +4,7 @@ tags:
 kind: reference
 section: dev
 ---
+
 # Odoo Sicherheit
 
 Beschreibung wie die Odoo Sicherheit regelt.

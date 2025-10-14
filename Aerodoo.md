@@ -5,6 +5,7 @@ section: project
 kind:
   - reference
 ---
+
 # Aerodoo
 
 Infomaniak Domains:

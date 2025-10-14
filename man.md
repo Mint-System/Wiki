@@ -5,15 +5,16 @@ kind:
   - reference
 section: dev
 ---
+
 # man
 
 Hilfestellung für Kommandozeilenbefehle.
 
-* [[man psql]]
-* [[man sql]]
-* [[man git]]
-* [[man docker]]
-* [[man gpg]]
-* [[man ripgrep]]
-* [[man netcat]]
-* [[man apt]]
+- [[man psql]]
+- [[man sql]]
+- [[man git]]
+- [[man docker]]
+- [[man gpg]]
+- [[man ripgrep]]
+- [[man netcat]]
+- [[man apt]]

@@ -5,7 +5,9 @@ section: blog
 kind:
   - explain
 ---
+
 # Odoo 15 und die Odoo Partner Days
+
 Wir waren bei Odoo vor Ort und haben ein innovatives Unternehmen kennen gelernt.
 
 Mit der Veröffentlichung von Odoo 15 wurden im Rahmen der "Odoo Partner Days" Odoo Partner aus der ganzen Welt nach Belgien ins Hauptquartier eingeladen. Im letzten Oktober sind wir mit Zug und Auto nach Ottignies-Louvain-la-Neuve gereist und haben dort zwei Nächte verbracht.

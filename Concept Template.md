@@ -15,11 +15,11 @@ kind:
 
 Headings:
 
-* Introduction
-	* Situation
-* Proposal
-* Procedure
-* Estimations
+- Introduction
+  - Situation
+- Proposal
+- Procedure
+- Estimations
 
 ## Textblocks
 

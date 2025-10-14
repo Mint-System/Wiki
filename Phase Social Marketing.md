@@ -5,14 +5,15 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Social Marketing
 
 Tätigkeiten:
 
-* Konto-Verbindungen einrichten
-* Kampagnen und initiale Beiträge erfassen
-* Freigabeprozess und Posting validieren
-* Präsentation auf Website konfigurieren
+- Konto-Verbindungen einrichten
+- Kampagnen und initiale Beiträge erfassen
+- Freigabeprozess und Posting validieren
+- Präsentation auf Website konfigurieren
 
 Ergebnis: Social Media Mitteilungen können mit Odoo erfasst und publiziert werden.
 
@@ -24,25 +25,25 @@ Ergebnis: Social Media Mitteilungen können mit Odoo erfasst und publiziert werd
 
 **Kanäle**
 
-* Auf welchen Kanälen möchten Sie Beiträge publizieren?
+- Auf welchen Kanälen möchten Sie Beiträge publizieren?
 
 **Verlinkung**
 
-* Soll die Kampagne zu Produktverkäufen im Webshop führen?
+- Soll die Kampagne zu Produktverkäufen im Webshop führen?
 
 ## Beiträge publizieren
 
 **Freigabe**
 
-* Wie sieht der Freigabeprozess der Beiträge aus? ⭐
+- Wie sieht der Freigabeprozess der Beiträge aus? ⭐
 
 **Auswertung**
 
-* Wie werden die Zugriff auf die Beiträge ausgewertet?
+- Wie werden die Zugriff auf die Beiträge ausgewertet?
 
 ## Kommentare moderieren
 
 **Moderation**
 
-* Gibt es Community-Guidelines auf den Kanälen?
-* Wie werden Antworten zu Kommentaren koordiniert?
+- Gibt es Community-Guidelines auf den Kanälen?
+- Wie werden Antworten zu Kommentaren koordiniert?

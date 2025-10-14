@@ -5,6 +5,7 @@ section: infrastructure
 kind:
   - reference
 ---
+
 # Telefonie
 
 Aktuell ist [[peoplefone]] für die Telefonie im Einsatz.

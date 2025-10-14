@@ -2,6 +2,7 @@
 tags:
   - HowTo
 ---
+
 # Document Management - Archive files
 
 Open the root folder in your terminal.
@@ -26,7 +27,7 @@ do
     pushd . > /dev/null
     echo "Check if files exists for archiving in $folder"
     cd "$folder"
-    files=$(find ./ -not -name "*-archive.tar.gz")    
+    files=$(find ./ -not -name "*-archive.tar.gz")
     if [ "$files" != "./" ]; then
     	echo "Step into parent folder of $folder"
         cd ..

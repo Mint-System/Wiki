@@ -5,23 +5,25 @@ kind:
   - reference
 section: organisation
 ---
+
 # Stellenprofile
 
 | Beschreibung                                           | [[Support Engineer]] | [[Open Source Expert]] |
 | :----------------------------------------------------- | :------------------: | :--------------------: |
-| *Ausbildung*                                           |                      |                        |
+| _Ausbildung_                                           |                      |                        |
 | Wirtschaftsinformatik (oder vergleichbar)              |          X           |           X            |
-| *Erfahrung*                                            |                      |                        |
+| _Erfahrung_                                            |                      |                        |
 | Mehrjährige Erfahrung in einer vergleichbaren Position |          O           |           X            |
-| *Hauptaufgaben*                                        |                      |                        |
+| _Hauptaufgaben_                                        |                      |                        |
 | Projektleitung                                         |          O           |           X            |
 | Implementierungsarbeiten gemäss Vorgehensmodell        |          X           |           X            |
 | Module entwickeln                                      |          O           |           X            |
 | Anforderungen spezifizieren                            |          X           |           X            |
 | Customizing                                            |          X           |           X            |
 | Telefonsupport                                         |          X           |           O            |
-| *Verkauf*                                              |                      |                        |
+| _Verkauf_                                              |                      |                        |
 | Akquise neue Projekte                                  |          O           |           X            |
-| *Geschäftsentwicklung*                                 |                      |                        |
-| Aufbau neue Geschäftsfelder                            |          O           |           X            
+| _Geschäftsentwicklung_                                 |                      |                        |
+| Aufbau neue Geschäftsfelder                            |          O           |           X            |
+
 Detailllierte Aufsttellung der Skill: [[Odoo Implementation Skilltree]].

@@ -6,8 +6,9 @@ kind:
   - reference
 section: process
 ---
+
 # Prozesse Dokumentenmanagement
 
 Dokumentation der Dokumentenmanagement-Prozesse.
 
-* [[Prozesse Dokumentenmanagement - Dokumente archivieren]]
+- [[Prozesse Dokumentenmanagement - Dokumente archivieren]]

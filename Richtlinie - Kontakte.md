@@ -5,6 +5,7 @@ kind:
   - explain
 section: policy
 ---
+
 # Richtlinie - Kontakte
 
 Die Mint System Kontakte werden in Odoo geführt. Für die Verwendung im Mail-Client steht ein Infomaniak Adressbuch zur Verfügung.

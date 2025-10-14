@@ -5,6 +5,7 @@ kind:
   - explain
 section: term
 ---
+
 # SBOM
 
-Die *Software Bill of Materials (SBOM)* ist eine Liste von Softwarekomponenten.
+Die _Software Bill of Materials (SBOM)_ ist eine Liste von Softwarekomponenten.

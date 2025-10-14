@@ -28,6 +28,7 @@ function help() {
     printf "$COLUMN" "convert-canvas" "" "Convert canvas files to svg."
     printf "$COLUMN" "generate-bases-view" "" "Generate markdown tables from bases."
     printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
+    printf "$COLUMN" "lint" "" "Lint code with prettier."
 }
 
 if [ -d "$HOME/taskfile.build/bin" ]; then
@@ -118,6 +119,10 @@ function convert-files() {
 
 function convert-canvas() {
     node build.js canvas
+}
+
+function lint() {
+    pnpm exec prettier . --write
 }
 
 if declare -f "$1" > /dev/null; then

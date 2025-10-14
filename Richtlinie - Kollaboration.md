@@ -5,6 +5,7 @@ kind:
   - explain
 section: policy
 ---
+
 # Richtlinie - Kollaboration
 
 Regelt die Zusammenarbeit mit externen Kunden und internen Mitarbeiter.
@@ -17,10 +18,10 @@ Dokumente werden mit [[OnlyOffice]] auf der Nextcloud erstellt und können gemei
 
 Projektordner dürfen**nicht** mit Dritten geteilt werden. Wenn man mit Externen ein Projekt teilen möchte muss dieses aufgeteilt werden.
 
-Beispielsweise existieren für das Projekt *ERP Velomanufaktur AG* diese Ordner:
+Beispielsweise existieren für das Projekt _ERP Velomanufaktur AG_ diese Ordner:
 
-* ERP Velomanufaktur AG Private
-* ERP Velomanufaktur AG Shared
+- ERP Velomanufaktur AG Private
+- ERP Velomanufaktur AG Shared
 
 **Gruppenberechtigungen**
 

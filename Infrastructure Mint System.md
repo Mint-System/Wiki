@@ -5,49 +5,56 @@ section: infrastructure
 kind:
   - explain
 ---
+
 ## Infrastructure Mint System
 
 A short introduction into the infrastructure of Mint System.
 
 ---
+
 ### Drivers
 
 Early on we wanted to be able to self-host web application.
 
 ERP-Systems are operating system for companies
-* They have to be hosted reliably
-* Companies want know where their data is
+
+- They have to be hosted reliably
+- Companies want know where their data is
 
 Infrastructure as Code:
-* Every system / server can be rebuilt from code
-* The deployment of configuration must be automated
+
+- Every system / server can be rebuilt from code
+- The deployment of configuration must be automated
 
 Run apps with Docker containers:
-* Manage containers not apps
-* Every decent web app provides Docker images
+
+- Manage containers not apps
+- Every decent web app provides Docker images
 
 ---
+
 ### Hardware
 
 We don't want to manage hardware. We use these providers:
 
-* Hetzner
-* Exoscale
-* Infomaniak
-* Ungleich
+- Hetzner
+- Exoscale
+- Infomaniak
+- Ungleich
 
 And service partners.
 
 ---
+
 ### Ansible
 
 Everything is done with Ansible. There is a role for that: <https://ansible.build/#roles>
 
-* Install and configure the OS
-* Manage firewalls and access rights
-* Deploy Docker containers
-* Manage backups and cron jobs
-* Build Wireguard networks
+- Install and configure the OS
+- Manage firewalls and access rights
+- Deploy Docker containers
+- Manage backups and cron jobs
+- Build Wireguard networks
 
 ---
 
@@ -60,6 +67,7 @@ Every customer has a server. No shared environments.
 Every application is a hosting offer.
 
 ---
+
 ### Scripts
 
 For things that cannot be automated there are scripts: <https://ansible.build/scripts.html>
@@ -67,6 +75,7 @@ For things that cannot be automated there are scripts: <https://ansible.build/sc
 Ansible roles rely on these helper scripts. Helper scripts work independent of Ansible.
 
 ---
+
 ### Monitoring
 
 To monitor servers, containers and applications we use Prometheus/Grafana.
@@ -74,17 +83,19 @@ To monitor servers, containers and applications we use Prometheus/Grafana.
 Prometheus provides "Exporters" for many applications. Data collection and visualization is simple.
 
 ---
+
 ### Backup
 
 Backups are defined in Ansible and are done using [[Restic]].
 
-* In Ansible inventory a backup set is defined
-* Ansible creates a cron job to run the backup
-* The backup job uses helper scripts to create local backups
-* The local backups are snapshoted with restic to the backup server
-* All backup data on the backup server is mirrored to an S3 bucket
+- In Ansible inventory a backup set is defined
+- Ansible creates a cron job to run the backup
+- The backup job uses helper scripts to create local backups
+- The local backups are snapshoted with restic to the backup server
+- All backup data on the backup server is mirrored to an S3 bucket
 
 ---
+
 ### Proxy
 
 On every server there is Nginx-instance running.
@@ -96,6 +107,7 @@ Some roles require specific configs: <https://ansible.build/roles/collabora_code
 Certificates are managed with certbot and let's encrypt.
 
 ---
+
 ### Auth
 
 We a running Keycloak and integrate it using OAuth/OpenID Connect.
@@ -103,17 +115,19 @@ We a running Keycloak and integrate it using OAuth/OpenID Connect.
 It is possible to manage all Keycloak config in Ansible.
 
 ---
+
 ### Security
 
 We try to apply best practices:
 
-* Update our applications / Docker images
-* Linux server patching
-* Basics: fail2ban, ssh pubkey, named users
+- Update our applications / Docker images
+- Linux server patching
+- Basics: fail2ban, ssh pubkey, named users
 
 Nginx WAF with OWASP has been tried. It was too much effort to train.
 
 ---
+
 ### Challenges
 
 **Configuration drift**

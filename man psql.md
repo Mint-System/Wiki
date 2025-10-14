@@ -5,6 +5,7 @@ kind:
   - reference
 section: dev
 ---
+
 # man psql
 
 Alle Datenbanken anzeigen.\
@@ -15,4 +16,3 @@ Datenbank auswählen.\
 
 Definitionen einer Tabelle anzeigen.\
 `\d+ public.product_template`
-

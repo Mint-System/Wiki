@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Infrastruktur - Nextcloud bereitstellen
 
 Bereistellung Nextcloud-Umgebung.
@@ -13,5 +14,5 @@ Bereistellung Nextcloud-Umgebung.
 
 Arbeitsschritte:
 
-* Nextcloud-Konfiguration in [[Ansible Inventory]] erstellen
-* Nextcloud-Playbook ausführen
+- Nextcloud-Konfiguration in [[Ansible Inventory]] erstellen
+- Nextcloud-Playbook ausführen

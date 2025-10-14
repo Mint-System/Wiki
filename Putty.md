@@ -4,6 +4,7 @@ tags:
 lang: en
 section: tool
 ---
+
 # PuTTY
 
 PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
@@ -12,7 +13,7 @@ Website: <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>
 
 ## Howto
 
-### Generate  ssh keys
+### Generate ssh keys
 
 - Open PuttyGen
 - Click Load
@@ -24,24 +25,24 @@ Website: <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>
 
 Setup PuTTY Connection.
 
-* Session:
-	* Host Name: `geras.mint-system.com`
-	* Port: `22`
-* Connection > Data:
-	* Auto-login username: `marcusmenzel`
-* Connection > Proxy:
-	* Proxy type: `SSH to proxy and use port forwarding`
-	* Proxy hostname: `jump.mint-system.com`
-	* Port: `22`
-	* Username: `marcusmenzel`
-* Connection > SSH > Tunnels:
-	* dev
-		* Source port: `58443`
-		* Destination: `odoo-dev.allnet.ch:443`
-	* prod
-		* Source port: `59443`
-		* Destination: `odoo-dev.allnet.ch:443`
-* Connection > SSH > Auth > Credentials:
-	* Private key for the authentication: Private-Key-Datei auswählen
-* Session > Logging:
-	* Session logging: `All session output`
+- Session:
+  - Host Name: `geras.mint-system.com`
+  - Port: `22`
+- Connection > Data:
+  - Auto-login username: `marcusmenzel`
+- Connection > Proxy:
+  - Proxy type: `SSH to proxy and use port forwarding`
+  - Proxy hostname: `jump.mint-system.com`
+  - Port: `22`
+  - Username: `marcusmenzel`
+- Connection > SSH > Tunnels:
+  - dev
+    - Source port: `58443`
+    - Destination: `odoo-dev.allnet.ch:443`
+  - prod
+    - Source port: `59443`
+    - Destination: `odoo-dev.allnet.ch:443`
+- Connection > SSH > Auth > Credentials:
+  - Private key for the authentication: Private-Key-Datei auswählen
+- Session > Logging:
+  - Session logging: `All session output`

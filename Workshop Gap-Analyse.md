@@ -1,15 +1,17 @@
 ---
 tags:
-- Prozess
+  - Prozess
 ---
+
 # Workshop Gap-Analyse
 
 Orientiert sich sich an der [[Gap-Analyse]].
 
 ## Inhalt
+
 **Begriff**
 
-*ROI* steht für *Return on Investment*.
+_ROI_ steht für _Return on Investment_.
 
 > Das ist eine betriebswirtschaftliche Kennzahl zur Messung der Rendite einer unternehmerischen Tätigkeit, gemessen am Erfolg im Verhältnis zum eingesetzten Kapital. (Quelle: Wikipedia)
 
@@ -20,10 +22,12 @@ Für das vorliegende Projekt bedeutet das die Beantwortung der folgenden Frage: 
 Alles ist möglich. Die Umsetzung bestimmter Anforderungen ist aber nicht machbar, weil die dafür notwendigen Ressourcen fehlen (Zeit, Geld, Personal).
 
 ## Ziele
+
 Aus dem Workshop erwarten wir die Grundlagen um:
--   einen genauen Plan und ein Budget erstellen zu können
--   die Spezifikationen in Bezug auf die Software zu überprüfen
--   Zweifel an der Durchführbarkeit des Projekts auszuräumen
+
+- einen genauen Plan und ein Budget erstellen zu können
+- die Spezifikationen in Bezug auf die Software zu überprüfen
+- Zweifel an der Durchführbarkeit des Projekts auszuräumen
 
 ## Vorgehen
 
@@ -35,7 +39,7 @@ Wir unterscheiden MUSS- und KANN-Anforderungen. Es ist sehr wichtig, dass wir un
 
 **Fragenkatalog Implementierung**
 
-Die Managementsoftware Odoo bietet einen riesigen Fuktionsumfang. Im Implementierungs-Projekt werden die spezifischen Kundenbedürfnisse identifiziert um die notwendigen Apps zu installieren und zu parametrisieren. Die dafür notwendigen Informationen erhalten wir über die Beantwortung der relevanten Fragen des *Fragenkatalog Implementierung* gemäss [[Odoo-Projekte]]. Die Antworten werden im Dokument *Implementierung* festgehalten. Wir konzentrieren uns im Workshop auf die *Kernfragen* (Treiber für Auftwand/Kosten).
+Die Managementsoftware Odoo bietet einen riesigen Fuktionsumfang. Im Implementierungs-Projekt werden die spezifischen Kundenbedürfnisse identifiziert um die notwendigen Apps zu installieren und zu parametrisieren. Die dafür notwendigen Informationen erhalten wir über die Beantwortung der relevanten Fragen des _Fragenkatalog Implementierung_ gemäss [[Odoo-Projekte]]. Die Antworten werden im Dokument _Implementierung_ festgehalten. Wir konzentrieren uns im Workshop auf die _Kernfragen_ (Treiber für Auftwand/Kosten).
 
 **Interview**
 
@@ -47,7 +51,7 @@ Anforderungen die im Standard Funktionsumfang abgebildet werden können sind bez
 
 **Erweiterter Funktionsumfang**
 
-Das Delta zwischen dem was Odoo bietet und den speziellen Bedürfnissen des Kunden wird in der Liste *Zusatzanforderungen* dokumentiert.
+Das Delta zwischen dem was Odoo bietet und den speziellen Bedürfnissen des Kunden wird in der Liste _Zusatzanforderungen_ dokumentiert.
 
 Zu den kritischen und nicht-erfüllten Anforderungen (Gaps) werden Lösungsansätze skizziert. Sie werden bezüglich Kosten und Nutzen bewertet.
 
@@ -60,5 +64,6 @@ Zu den kritischen und nicht-erfüllten Anforderungen (Gaps) werden Lösungsansä
 ## Projektrisiken
 
 Die folgenden zwei wesentlichen Projektrisiken müssen beachtet werden:
+
 1. Die Liste der Zusatzanforderungen ist unvollständig
 2. Zu viele KANN-Anforderungen werden berücksichtigt

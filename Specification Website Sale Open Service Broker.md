@@ -7,6 +7,7 @@ kind:
   - explain
 section: specification
 ---
+
 # Specification Website Sale Open Service Broker
 
 Repository: `Mint-System/Odoo-Apps-Sale-Workflow`\

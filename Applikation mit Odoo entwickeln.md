@@ -5,6 +5,7 @@ section: blog
 kind:
   - explain
 ---
+
 # Applikation mit Odoo entwickeln
 
 In Odoo sind verschiedenste Anwendung verpackt, die zusammen, aber auch alleine funktionieren. Beispielsweise speichert die Kontake-App alle Adressdaten des Unternehmens. Die Anwendung Personal zur Verwaltung der Mitarbeiter oder das CRM greifen auf diesee Adressdaten zu. So werden auch technische Features wie die Zugriffsverwaltung, das Generieren von Berichten, die Datenverwaltung oder Auswertungen unter einer einheitlichen Oberfläche von Odoo verpackt. Diese Features können von Software-Entwickler ohne hohen Entwicklungsaufwand verwendet werden. Blitzschnell können so neue Anwendungen oder Erweiterungen zu bestehenden Apps entwickelt werden.

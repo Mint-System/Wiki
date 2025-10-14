@@ -4,6 +4,7 @@ draft: false
 kind: howto
 section: dev
 ---
+
 # Odoo.sh Upgrade Script Module
 
 During the Upgrade process there will be issues such as shown here:
@@ -42,11 +43,12 @@ Here is an example of what the module structure might look like:
 }
 ```
 
-**__init__.py**
+****init**.py**
 
 ```python
 # empty
 ```
+
 ### upgrade branch (17.0)
 
 **manifest.py**
@@ -67,7 +69,7 @@ Here is an example of what the module structure might look like:
 }
 ```
 
-**__init__.py**
+****init**.py**
 
 ```
 # empty

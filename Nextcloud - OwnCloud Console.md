@@ -6,13 +6,14 @@ kind:
   - howto
 lang: en
 ---
+
 # Nextcloud: OwnCloud Console
 
 This is the nextcloud command line tool.
 
 ## Usage
 
-Show help 
+Show help
 `docker exec -u www-data nextcloud01 php occ --help`
 
 Get system config  

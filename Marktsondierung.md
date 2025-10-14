@@ -4,6 +4,7 @@ tags:
 kind: explain
 section: methodology
 ---
+
 # Marksondierung
 
 Markanalyse und Differenzierungsstrategien.

@@ -5,6 +5,7 @@ section: account
 kind:
   - reference
 ---
+
 # Odoo Mint System
 
 Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für produktive Umgebungen.
@@ -14,5 +15,5 @@ Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für produktive
 
 Mail aliases:
 
-* catchall@mint-system.ch
-* support@mint-system.ch
+- catchall@mint-system.ch
+- support@mint-system.ch

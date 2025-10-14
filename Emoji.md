@@ -5,6 +5,7 @@ kind:
   - reference
 section: meta
 ---
+
 # Emoji
 
 Emoji-Index.
@@ -30,6 +31,7 @@ Configure
 💡
 
 Troubleshooting
+
 ## Status
 
 ### 🎒
@@ -47,6 +49,7 @@ In Arbeit
 ### 💬
 
 Feedback
+
 ### ✅
 
 Erledigt
@@ -106,6 +109,7 @@ Test / Testing
 ### 🔗
 
 Integration
+
 ### 🚀
 
 Produktion

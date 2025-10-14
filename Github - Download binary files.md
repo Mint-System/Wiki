@@ -5,13 +5,14 @@ section: dev
 kind:
   - howto
 ---
+
 # Github - Download binary files
 
 First, to get a list of the assets for the latest release:
 
 ```
 curl -H "Authorization: token YOURGITHUBTOKEN" \
-    https://api.github.com/repos/NAME/REPO/releases/latest 
+    https://api.github.com/repos/NAME/REPO/releases/latest
 ```
 
 Then in the JSON, look up the url of the asset you want. For example it would look like:

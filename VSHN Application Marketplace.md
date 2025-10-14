@@ -17,6 +17,6 @@ Details: <https://products.vshn.ch/marketplace/csp.html>
 
 Have an app than can be deployed to Kubernetes.
 
-Example: [[Mint Cloud]] with [[Odoo]], [[Inventage]] with [[Keycloak]]. 
+Example: [[Mint Cloud]] with [[Odoo]], [[Inventage]] with [[Keycloak]].
 
 Details: <https://products.vshn.ch/marketplace/isv.html>

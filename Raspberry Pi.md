@@ -5,6 +5,7 @@ kind:
   - reference
 section: tool
 ---
+
 # Raspberry Pi
 
 ## Fernwartung

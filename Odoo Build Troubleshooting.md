@@ -11,7 +11,7 @@ section: product
 
 ## Run
 
-### inotify instance limit reached 
+### inotify instance limit reached
 
 **Problem**
 
@@ -91,7 +91,7 @@ The local Odoo package needs to be updated:
 
 ```bash
 source task source
-pip install -e odoo 
+pip install -e odoo
 ```
 
 ### sqlite3 module not found

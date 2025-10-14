@@ -4,6 +4,7 @@ tags:
 kind: reference
 section: communication
 ---
+
 # Odoo App Management System
 
 Odoo for Management Systems (ISO, IEC, BS, EASA).

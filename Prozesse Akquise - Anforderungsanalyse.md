@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Akquise - Anforderungsanalyse
 
 Anforderungsanalyse efolgt gemäss "[[Basiswissen Requirements Engineering]] - Klaus Pohl". In Zusammenarbeit mit dem Kunden wird ein Anforderungskatalog erstellt.
@@ -12,15 +13,16 @@ Anforderungsanalyse efolgt gemäss "[[Basiswissen Requirements Engineering]] - K
 ## Anforderungskatalog erstellen
 
 Arbeitsschritte:
-* Erfassen der Anforderung durch Interview und Dokumentanalyse
-* Erstellen Dokument mit tabellarischer Darstellung der Anforderungen
+
+- Erfassen der Anforderung durch Interview und Dokumentanalyse
+- Erstellen Dokument mit tabellarischer Darstellung der Anforderungen
 
 Jede Anforderungen wird mit diesen Attributen beschrieben:
 
-* ID: Eindeutiger Bezeichner
-* Name: Kurzer Titel zur Anforderung
-* Beschreibung: Ausführliche Beschreibung der Afnorderung
-* Priorität: Muss- oder Soll-Kriterium
+- ID: Eindeutiger Bezeichner
+- Name: Kurzer Titel zur Anforderung
+- Beschreibung: Ausführliche Beschreibung der Afnorderung
+- Priorität: Muss- oder Soll-Kriterium
 
 **Beispiel**
 

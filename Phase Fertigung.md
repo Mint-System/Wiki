@@ -5,19 +5,20 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Fertigung
 
 Tätigkeiten:
 
-* Die Arbeitsplätze erfassen
-* Die Fertigungs-Routen definieren
-* Arbeitspläne erfassen
-* Notwendige Qualitätsschritte einfügen
-* Relationen auf verwendetes Equipment sicherstellen
-* Die Strategie zur Verwendung von Varianten festlegen
+- Die Arbeitsplätze erfassen
+- Die Fertigungs-Routen definieren
+- Arbeitspläne erfassen
+- Notwendige Qualitätsschritte einfügen
+- Relationen auf verwendetes Equipment sicherstellen
+- Die Strategie zur Verwendung von Varianten festlegen
 
 Ergebnis: Alle Daten zum Fertigen der Produkte sind bereit.
-  
+
 Für praktisch alle Aspekte der Implementierung ist es wichtig, dass Produkte im System vorhanden sind. Deshalb werden bereits in der ersten Phase die Produkte thematisiert. Etwas speziell ist, dass bereits im ersten Schritt die Arbeitsplätze eingerichtet werden. Weil Sie zur Definition der Vorgänge in den Stücklisten benötigt werden, wird dieses Thema bereits zu Beginn thematisiert.
 
 ## Arbeitsplätze einrichten
@@ -64,8 +65,8 @@ Die Arbeitsplätze werden in den Vorgängen referenziert. Deshalb müssen Sie fr
 - Werden Schritte verwendet? ⭐
 - Welche Typen von Schritten werden verwendet?
 - Wie werden Arbeitsblätter verwendet? (Zu bestimmter Seite scrollen?)
-- Wie wird das Feld *Anleitung* verwendet?
-- Wie wird das Feld *Notizen* verwendet?
+- Wie wird das Feld _Anleitung_ verwendet?
+- Wie wird das Feld _Notizen_ verwendet?
 
 **Fertigungsbereitschaft**
 

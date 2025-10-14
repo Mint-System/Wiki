@@ -1,8 +1,10 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Odoo Community Apps
+
 Die Funktionalität von Odoo kann mit Apps erweitert werden.
 
 Website: <https://odoo-community.org/shop>

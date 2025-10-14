@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Mettler Toledo
 
 Website: <https://www.mt.com>

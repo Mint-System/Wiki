@@ -5,6 +5,7 @@ section: contact
 kind:
   - reference
 ---
+
 # inosca
 
 Interkantonale Entwicklungsgemeinschaft für elektronische Bewilligungsprozesse

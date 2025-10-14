@@ -4,6 +4,7 @@ tags:
 kind: howto
 section: product
 ---
+
 # Odoo Troubleshooting
 
 ## Client
@@ -75,7 +76,7 @@ Reset the translated name of the report.
 
 ![[Odoo troubleshooting - wrong translation.png]]
 
-###  Python OSError
+### Python OSError
 
 **Problem**
 
@@ -90,12 +91,13 @@ OSError: [Errno 8] Exec format error: '/usr/local/bin/libreoffice'
 Apply shebang line `#!/bin/sh` in shell script.
 
 ## Server
+
 ### wkhtmlpdf unpatched
 
 **Problem**
 
 ```
-wkhtmltopdf: b'The switch --header-spacing, is not support using unpatched qt, and will be ignored.The switch --header-html, is not support using unpatched qt, and will be ignored.The switch --footer-html, is not support using unpatched qt, and will be ignored.'  
+wkhtmltopdf: b'The switch --header-spacing, is not support using unpatched qt, and will be ignored.The switch --header-html, is not support using unpatched qt, and will be ignored.The switch --footer-html, is not support using unpatched qt, and will be ignored.'
 ```
 
 **Solution**
@@ -147,8 +149,8 @@ Temporary:
 sudo sysctl fs.inotify.max_user_watches=524288
 ```
 
-
 ## Upgrade
+
 ### Cannot change data type from numeric to double precision
 
 **Problem**

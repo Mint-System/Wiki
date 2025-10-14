@@ -1,6 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Groupware
+
 Sammelbegriff für E-Mail, Kalender und Kontakte.

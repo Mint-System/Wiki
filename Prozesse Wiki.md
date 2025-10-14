@@ -6,8 +6,9 @@ kind:
   - reference
 section: process
 ---
+
 # Prozesse Wiki
 
 Dokumentation der Wiki-Prozesse.
 
-* [[Prozesse Wiki - Mitarbeit]]
+- [[Prozesse Wiki - Mitarbeit]]

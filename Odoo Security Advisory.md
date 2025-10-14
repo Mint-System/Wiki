@@ -3,6 +3,7 @@ lang: en
 kind:
   - reference
 ---
+
 # Odoo Security Advisory
 
 Responsible disclosure policy for Odoo security vulnerabilities.

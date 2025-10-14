@@ -1,14 +1,14 @@
 ---
-
 excalidraw-plugin: parsed
 tags: [excalidraw]
-
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
+
 ## Text Elements
+
 Odoo SaaS ^862l04wg
 
 Odoo PaaS ^tGIrSMo1
@@ -98,7 +98,9 @@ Odoo Upgrade wird für Enterprise als zusätzliche Dienstleistung angeboten [5].
 Odoo Upgrade wird für Enterprise als zusätzliche Dienstleistung angeboten [5]. ^MWSPfcdq
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4IAFVsABkAeQAOAGYARhqAUQBWFoBxAFkAKR4ekgQYZ1SSyFhECsDsKI5lYMnS
 
@@ -310,4 +312,5 @@ qrVDkIGyBQirvOq2xy/ZPFBJQMRBINGA4sHKRkSDAAQAVwEmi6hbyDuNkMqDHg/4x2gTjlUNMuxAOSVN
 
 MIDTWwcOPGzDdgDqwLAzAOyDLoOAhdJHDmI3XwQQCwC94IA8sOLDmKYw78hhAwQGyORJCgwKAGA5Q64gbFMGTQTcQbI4wCcjCIHJLcDTEDnrhADhPshxgQAA
 ```
+
 %%

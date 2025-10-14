@@ -4,6 +4,7 @@ tags:
 kind: reference
 section: infrastructure
 ---
+
 # Cloud Mint System
 
 Nextcloud Datenablage.

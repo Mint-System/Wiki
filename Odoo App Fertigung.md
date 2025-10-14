@@ -5,14 +5,15 @@ kind:
   - explain
 section: communication
 ---
+
 # Odoo App Fertigung
 
 Eine der Stärken von Odoo ist die Fertigung.
 
 Weitere Apps der Fertigung:
 
-* [[Odoo App PDM]]
-* [[Odoo App Fertigung Tabletansicht]]
+- [[Odoo App PDM]]
+- [[Odoo App Fertigung Tabletansicht]]
 
 ## Themen
 

@@ -3,6 +3,7 @@ section: methodology
 kind:
   - tutorial
 ---
+
 # Projektarbeit
 
 Die Projektarbeit ist die Hauptbeschäftigung der Mint System Odoo Experten. In der Projektarbeit durchlaufen Aufgaben aus dem Backlog des Projekts bis in den Erledigt-Status.
@@ -27,30 +28,29 @@ Wählt man ein Projekt aus gelangt man die Projekt-Ansicht. Hier sind alle Aufga
 
 Hier sehen Sie die ihnen zugewiesenen Aufgaben über alle Projekte. Es ist der zentrale Arbeitsbereich.
 
-
 ## Ablauf
 
 ### Backlog
 
 Anforderungen an die Definition der Aufgabe:
 
-* Titel: Ja
-* Zugewiesen: Nein
-* Beschreibung: Nein
-* Verkaufsauftragsposition: Nein
+- Titel: Ja
+- Zugewiesen: Nein
+- Beschreibung: Nein
+- Verkaufsauftragsposition: Nein
 
 ### Backlog -> Bereit
 
 Anforderungen an die Definition der Aufgabe:
 
-* Titel: Ja
-* Zugewiesen: Ja
-* Beschreibung: Ja
-* Verkaufsauftragsposition: Ja
+- Titel: Ja
+- Zugewiesen: Ja
+- Beschreibung: Ja
+- Verkaufsauftragsposition: Ja
 
 ### Bereit -> In Arbeit
 
-Der Bearbeiter startet den Timer und verschiebt die Aufgabe in den Status *In Arbeit*.
+Der Bearbeiter startet den Timer und verschiebt die Aufgabe in den Status _In Arbeit_.
 
 Er kann den Timer stoppen, die Aufgabe stehen lassen und zu einem späteren Zeitpunkt fortführen.
 

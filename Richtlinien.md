@@ -4,55 +4,56 @@ tags:
 kind: reference
 section: policy
 ---
+
 # Richtlinien
 
 Richtlinien der Mint System.
 
 ## Mitarbeit
 
-* [[Richtlinie - Arbeitszeit]]
-* [[Richtlinie - Zeiterfassung]]
-* [[Richtlinie - Spesenreglement]]  
-* [[Richtlinie - Smartphone]]
+- [[Richtlinie - Arbeitszeit]]
+- [[Richtlinie - Zeiterfassung]]
+- [[Richtlinie - Spesenreglement]]
+- [[Richtlinie - Smartphone]]
 
 ## Softwareentwicklung
 
-* [[Richtlinie - Code Sharing]]  
-* [[Richtlinie - Softwareentwicklung]]
-* [[Richtlinie - Odoo Modulentwicklung]]
-* [[Richtlinie - Odoo Snippet]]
+- [[Richtlinie - Code Sharing]]
+- [[Richtlinie - Softwareentwicklung]]
+- [[Richtlinie - Odoo Modulentwicklung]]
+- [[Richtlinie - Odoo Snippet]]
 
 ## Infrastruktur
 
-* [[Richtlinie - Namenskonventionen]]  
-* [[Richtlinie - Passwortmanager]]  
+- [[Richtlinie - Namenskonventionen]]
+- [[Richtlinie - Passwortmanager]]
 
 ## Kommunikation
 
-* [[Richtlinie - Website]]  
-* [[Richtlinie - Kommunikation]]
+- [[Richtlinie - Website]]
+- [[Richtlinie - Kommunikation]]
 
 ## Dokumentenmanagement
 
-* [[Richtlinie - Calc Dokumente]]
-* [[Richtlinie - DMS]]  
-* [[Richtlinie - Obsidian]]
-* [[Richtlinie - Datenschutz]]
+- [[Richtlinie - Calc Dokumente]]
+- [[Richtlinie - DMS]]
+- [[Richtlinie - Obsidian]]
+- [[Richtlinie - Datenschutz]]
 
 ## Finanzen
 
-* [[Richtlinie - Finanzen]]
+- [[Richtlinie - Finanzen]]
 
 ## Projektmanagement
 
-* [[Richtlinie - Projektmanagement]]
-* [[Richtlinie - Aufgabenverwaltung]]
-* [[Richtlinie - Todos]]
+- [[Richtlinie - Projektmanagement]]
+- [[Richtlinie - Aufgabenverwaltung]]
+- [[Richtlinie - Todos]]
 
 ## Kollaboration
 
-* [[Richtlinie - E-Mail]]  
-* [[Richtlinie - Kollaboration]]
-* [[Richtlinie - Konferenz]]  
-* [[Richtlinie - Kontakte]]
-* [[Richtlinie - Kalender]]
+- [[Richtlinie - E-Mail]]
+- [[Richtlinie - Kollaboration]]
+- [[Richtlinie - Konferenz]]
+- [[Richtlinie - Kontakte]]
+- [[Richtlinie - Kalender]]

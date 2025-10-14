@@ -1,10 +1,11 @@
 ---
 tags:
-- HowTo
+  - HowTo
 ---
+
 # Odoo Module Test Instructions
 
-As an alternative to add demo data and writing actual tests, a developer or business analyst can add a file `tests/TEST_INSTRUCTIONS.rst` to the module. 
+As an alternative to add demo data and writing actual tests, a developer or business analyst can add a file `tests/TEST_INSTRUCTIONS.rst` to the module.
 
 > The test instructions should be written in manner so that they could be translated to actual code.
 

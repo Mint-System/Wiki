@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Terraform
 
 Infrastruktur automatisiert bereitstellen.

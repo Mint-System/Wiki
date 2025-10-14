@@ -5,6 +5,7 @@ kind:
   - explain
 section: methodology
 ---
+
 # Vorgehensmodell
 
 Implementierte Vorgehensmodelle:

@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Grafana
 
 Dashboard for Promethus metrics.

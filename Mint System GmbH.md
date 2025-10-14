@@ -1,7 +1,8 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
+
 # Mint System GmbH
 
 Website: [https://www.mint-system.ch](https://www.mint-system.ch)
@@ -24,20 +25,21 @@ Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[G
 
 ## Mitarbeitende
 
-* [[Janik von Rotz]]
-* [[Kurt Gisler]]
-* [[Ulrich Kilian]]
-* [[Marcus Menzel]]
-* [[Gerit Tänzer]]
+- [[Janik von Rotz]]
+- [[Kurt Gisler]]
+- [[Ulrich Kilian]]
+- [[Marcus Menzel]]
+- [[Gerit Tänzer]]
 
 ## Freischaffende
 
-* [[Marcus Menzel]]
+- [[Marcus Menzel]]
 
 ### Ehemalige
 
-* [[Marco Roeleven]]
-* [[Laszlo Krajnikovszkij]]
+- [[Marco Roeleven]]
+- [[Laszlo Krajnikovszkij]]
+
 ## Zahlungsinformationen
 
 CHF ISR Subscription Number: 01-013066-4

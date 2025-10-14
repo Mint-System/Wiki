@@ -5,18 +5,19 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Personalbeschaffung
 
 Tätigkeiten:
 
-* Stellenausschreibungen definieren
-* Qualifizierungsstufen festlegen 
-* Bewerbungsformular erweitern
-* Bewerbungsprozess abwickeln
+- Stellenausschreibungen definieren
+- Qualifizierungsstufen festlegen
+- Bewerbungsformular erweitern
+- Bewerbungsprozess abwickeln
 
 Ergebnis: Der Bewerbungsprozess wird mit Odoo umgesetzt.
 
-## Stellenausschreibungen definieren 
+## Stellenausschreibungen definieren
 
 **Stellenbeschreibung**
 
@@ -34,18 +35,18 @@ Ergebnis: Der Bewerbungsprozess wird mit Odoo umgesetzt.
 
 **Absage**
 
-* Wie wird eine Absage kommuniziert?
+- Wie wird eine Absage kommuniziert?
 
 **Zusage**
 
-* Wie erfolgt Zusage an den Bewerbenden?
+- Wie erfolgt Zusage an den Bewerbenden?
 
 ## Onboarding durchführen
 
 **Aufgaben**
 
-* Wie koordinieren Sie die Onboarding-Aufgaben? ⭐
+- Wie koordinieren Sie die Onboarding-Aufgaben? ⭐
 
 **Personal**
 
-* Welche Personalinformationen werden erfasst?
+- Welche Personalinformationen werden erfasst?

@@ -5,6 +5,7 @@ kind:
   - howto
 section: dev
 ---
+
 # Nginx Troubleshooting
 
 ## Issues

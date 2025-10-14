@@ -9,6 +9,7 @@ section: policy
 # Richtlinie - Kommunikation
 
 Regel die Art und Weise wie wir kommunizieren.
+
 ## Instant Messaging
 
 Wir unterscheiden zwischen interner und externer Kommunikation.
@@ -33,6 +34,6 @@ Für die externe Kommunikation haben wir eine Matrix-Instanz.
 
 Das ist das bevorzugte Tool zur Kommunikation mit Kunden.
 
-Es existieren keine maximalen Antwortzeiten. Jemanden ins CC nehmen bedeutet ihn zu informieren. 
+Es existieren keine maximalen Antwortzeiten. Jemanden ins CC nehmen bedeutet ihn zu informieren.
 
 Für die interne Kommunikation gilt: Keine Antwort ist auch eine Antwort.

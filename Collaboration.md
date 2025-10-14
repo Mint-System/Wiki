@@ -4,6 +4,7 @@ tags:
 kind: reference
 section: tool
 ---
+
 # Collaboration
 
 Für die Mail-Kommunikation verwendet wir [[Infomaniak]].

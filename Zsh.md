@@ -5,6 +5,7 @@ section: tool
 kind:
   - reference
 ---
+
 # Zsh
 
 Website: <https://www.zsh.org/>

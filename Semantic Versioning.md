@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Semantic Versioning
 
 Website: <https://semver.org/>

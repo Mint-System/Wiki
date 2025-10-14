@@ -4,21 +4,22 @@ tags:
 kind: reference
 section: template
 ---
+
 # Vorlage Spezifikation Modul
 
 Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereich müssen in der Spezifikation berücksichtigt werden:
 
-* **[[#Beschreibung]]**: Beschreibung der Modul-Funktion.
-* **[[#User Stories]]**: Handlungen aus Sicht des Benutzers
-* **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
-* **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
-* **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
-* **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
-* **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
-* **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
-* **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
-* **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
-* **[[#Bestehende Ansichten]]**: Anpassungen auf Ansichten
+- **[[#Beschreibung]]**: Beschreibung der Modul-Funktion.
+- **[[#User Stories]]**: Handlungen aus Sicht des Benutzers
+- **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
+- **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
+- **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
+- **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
+- **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
+- **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
+- **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
+- **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
+- **[[#Bestehende Ansichten]]**: Anpassungen auf Ansichten
 
 ## Beschreibung
 
@@ -33,17 +34,17 @@ Die User Stories erläutern den Anwendungsfall aus Sicht des Benutzers. Dazu zwe
 
 ### Skonto auf Rechnung erfassen
 
-1. Der Benutzer erstellen eine Lieferantenrechnung und wählt im Feld *Zahlungsbediungen Skonto* den Eintrag "10 Tage / 10%" aus.
-2. Er sieht dass das Feld *Fälligkeit Skonto* entsprechend angepasst wurde (Rechnungsdatum + 10 Tage). Nun überschreibt er das Feld mit -1 Tag.
-3. Nun wählt der Benutzer *Aktion > Skonto aktualiseren*.
+1. Der Benutzer erstellen eine Lieferantenrechnung und wählt im Feld _Zahlungsbediungen Skonto_ den Eintrag "10 Tage / 10%" aus.
+2. Er sieht dass das Feld _Fälligkeit Skonto_ entsprechend angepasst wurde (Rechnungsdatum + 10 Tage). Nun überschreibt er das Feld mit -1 Tag.
+3. Nun wählt der Benutzer _Aktion > Skonto aktualiseren_.
 4. Der Benutzer sieht, dass eine neue Rechnungszeile gemäss Einstellungen und Zahlungsbedingung hinzugefügt wurde und der Rechnungsbetrag korrekt angepasst wurde.
 
 ### Lieferantenzahlungen mit Skonto bezahlen
 
 1. Am Donnerstag zeigt der Benutzer die Lieferantezahlungen an und sortiert nach Fälligkeit Skonto.
-2. Er wählt den Filter *Rechnungen ohne Skontozeile*, markiert die aufgelistet Rechungen und wählt Aktion > Skonto aktualisieren.
+2. Er wählt den Filter _Rechnungen ohne Skontozeile_, markiert die aufgelistet Rechungen und wählt Aktion > Skonto aktualisieren.
 3. Er entfernt den Filter und markiert alle Lieferantenrechnungen zur Zahlung.
-4. Der Benutzer wählt *Aktion > Zahlung erfassen*.
+4. Der Benutzer wählt _Aktion > Zahlung erfassen_.
 
 ## Rahmenbedingungen
 
@@ -62,9 +63,10 @@ Die Entwicklung des Moduls erfolgt auf Englisch. Es soll eine Übersetzung für 
 | Name             | Technischer Name                             | Modell             | Beschreibung                        |
 | ---------------- | -------------------------------------------- | ------------------ | ----------------------------------- |
 | Rechnungsadresse | `partner_invoice_id = many2one: res.partner` | sale.blanket.order | Rechnungsadresse für Rahmenaufträge |
+
 ### Rechnungsadresse
 
-Wird die Aktion *Verkaufsauftrag Erstellen* ausgewählt, wird die Rechnungsadresse an den Verkaufsauftrag auf das Feld `partner_invoice_id` übertragen.
+Wird die Aktion _Verkaufsauftrag Erstellen_ ausgewählt, wird die Rechnungsadresse an den Verkaufsauftrag auf das Feld `partner_invoice_id` übertragen.
 
 ## Bestehende Felder
 
@@ -73,14 +75,15 @@ Wird die Aktion *Verkaufsauftrag Erstellen* ausgewählt, wird die Rechnungsadres
 | Name    | Technischer Name    | Modell             |
 | ------- | ------------------- | ------------------ |
 | Zustand | `state (selection)` | sale.blanket.order |
+
 Der Zustand des Rahmenauftrags soll auf vier Stufen umgesetzt werden:
 
-*	Entwurf -> Angebot
-*	-> Angebot gesendet
-*	Offen -> Angebot gesendet
-*	Abgelaufen
+- Entwurf -> Angebot
+- -> Angebot gesendet
+- Offen -> Angebot gesendet
+- Abgelaufen
 
-Der Zustand *Angebot gesendet* verwendet die Aktion *Angebot versenden*.
+Der Zustand _Angebot gesendet_ verwendet die Aktion _Angebot versenden_.
 
 ## Neue Aktionen
 
@@ -89,6 +92,7 @@ Der Zustand *Angebot gesendet* verwendet die Aktion *Angebot versenden*.
 | Name                 | Technischer Name    | Modell             | Beschreibung                         |
 | -------------------- | ------------------- | ------------------ | ------------------------------------ |
 | Per E-Mail Versenden | `action_order_send` | sale.blanket.order | Rahmenauftrag als Angebot versenden. |
+
 Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
 
 ## Bestehende Aktion
@@ -99,7 +103,7 @@ Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenau
 | ------ | ---------------- | ------------ |
 | Buchen | `action_post`    | account.move |
 
-Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt Kommunkations-Standard auf der Währung der Rechnung generiert werden. 
+Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt Kommunkations-Standard auf der Währung der Rechnung generiert werden.
 
 ## Neue Suchfelder und Filter
 
@@ -116,13 +120,14 @@ Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt
 | Name           | Technischer Name      | Beschreibung                                  |
 | -------------- | --------------------- | --------------------------------------------- |
 | Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
+
 Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
 
 ## Bestehende Ansichten
 
 ### Formular Ticket mit Tab Aufgaben
 
-Auf der Formularansicht des Ticket gibt es einen neuen Tab *Aufgaben*. Hier können Aufgaben verlinkt oder erstellt werden.
+Auf der Formularansicht des Ticket gibt es einen neuen Tab _Aufgaben_. Hier können Aufgaben verlinkt oder erstellt werden.
 
 Zusätzlich werden die verknüpften Aufgaben als Smart-Button angezeigt.
 
@@ -137,4 +142,3 @@ Die Formularansicht der Projektaufgabe zeigt einen Smart-Button mit Anzahl der v
 | Klasse                 | Funktionsname | Beschreibung                                               |
 | ---------------------- | ------------- | ---------------------------------------------------------- |
 | StockBarcodeController | main_menu     | Die Funktion soll auch den Arbeitsauftrag anzeigen können. |
-

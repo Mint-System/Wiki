@@ -6,11 +6,12 @@ section: template
 kind:
   - reference
 ---
+
 # Template Troubleshooting
 
 ## Open
 
-Issues with status *open*.
+Issues with status _open_.
 
 ### Title of issue
 
@@ -32,7 +33,6 @@ Source: <http://example.com>
 
 ## Resolved
 
-Issues with status *resolved*.
+Issues with status _resolved_.
 
 ### Title of issue
-

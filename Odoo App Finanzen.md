@@ -5,6 +5,7 @@ section: communication
 kind:
   - reference
 ---
+
 # Odoo App Finanzen
 
 Finanzen sind in Odoo über verschiedene Module abgebildet.
@@ -14,7 +15,8 @@ Finanzen sind in Odoo über verschiedene Module abgebildet.
 Mit Odoo Finanzen können Rechnung einfach analysiert und importiert werden.
 
 Die folgenden Apps müssen dazu installiert sein:
-* `account_invoice_extract`
+
+- `account_invoice_extract`
 
 ## Kostenstellen
 

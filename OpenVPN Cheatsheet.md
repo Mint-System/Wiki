@@ -1,12 +1,14 @@
 ---
 tags:
-- HowTo
+  - HowTo
 ---
+
 # OpenVPN Cheatsheet
 
 Requirement:
-* .ovpn configuration file
-* openvpn installed
+
+- .ovpn configuration file
+- openvpn installed
 
 Load the configuration file\
 `openvpn2 --config janik_vonrotz@vpn.example.ch.ovpn`

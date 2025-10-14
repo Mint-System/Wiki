@@ -5,6 +5,7 @@ kind:
   - explain
 section: communication
 ---
+
 # Odoo App Abwesenheitszeiten
 
 ## Beschreibung

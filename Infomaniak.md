@@ -5,6 +5,7 @@ kind:
   - reference
 section: vendor
 ---
+
 # Infomaniak
 
 Website: <https://www.infomaniak.com/>
@@ -30,5 +31,5 @@ Dieser muss man wieder aktivieren lassen.
 
 E-Mails mit bestimmten Begriffen im Betreff werden blockiert:
 
-* Rechnung
-* Sicherheit
+- Rechnung
+- Sicherheit

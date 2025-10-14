@@ -5,6 +5,7 @@ kind:
   - reference
 section: template
 ---
+
 # Vorlage Konzept
 
 Übersetzung: [[Concept Template]]
@@ -18,31 +19,31 @@ Author: Janik von Rotz
 
 **Inhaltsverzeichnis**
 
-* Einleitung
-	* Ausgangslage
-	* Systeme im Einsatz
-	* [[Begriffe]]
-* Inputs
-	* Gap-Analyse
-	* Anforderungen
-	* IT-Architektur
-	* Daten
-* Lösungsvorschlag
-	* Abgrenzung
-	* Organisation
-	* Architektur
-* Anforderungen
-	* Systeme im Einsatz
-	* Systemkontext
-	* Stakeholder
-	* Verfügbarkeit
-* Prozesse
-* Vorgehen
-	* Phase N: Beschreibung
-* Aufwandsschätzung
-* Referenzen
-* Projektmanagement
-* Anhang
+- Einleitung
+  - Ausgangslage
+  - Systeme im Einsatz
+  - [[Begriffe]]
+- Inputs
+  - Gap-Analyse
+  - Anforderungen
+  - IT-Architektur
+  - Daten
+- Lösungsvorschlag
+  - Abgrenzung
+  - Organisation
+  - Architektur
+- Anforderungen
+  - Systeme im Einsatz
+  - Systemkontext
+  - Stakeholder
+  - Verfügbarkeit
+- Prozesse
+- Vorgehen
+  - Phase N: Beschreibung
+- Aufwandsschätzung
+- Referenzen
+- Projektmanagement
+- Anhang
 
 ## Textbausteine
 
@@ -83,8 +84,8 @@ Mitarbeiter: 3
 
 Bezüglich der Lizenzierung von Odoo steht der Kunde direkt mit Odoo S.A. in Verbindung. Deshalb setzt sich das Angebot aus den folgenden zwei Offerten zusammen:
 
-* Dienstleistung von Mint System GmbH zur Implementierung von Odoo (S00037)
-* Odoo Enterprise Lizenz und technischer Support von Odoo S.A.
+- Dienstleistung von Mint System GmbH zur Implementierung von Odoo (S00037)
+- Odoo Enterprise Lizenz und technischer Support von Odoo S.A.
 
 ### Vorgehen
 

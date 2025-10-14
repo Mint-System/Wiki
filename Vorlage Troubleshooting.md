@@ -7,11 +7,12 @@ kind:
 ---
 
 # Vorlage Troubleshooting
+
 Übersetzung: [[Troubleshooting Template]]
 
 ## Offen
 
-Issues mit Status *Offen*.
+Issues mit Status _Offen_.
 
 ### Titel des Issues
 
@@ -33,6 +34,6 @@ Quelle: <http://example.com>
 
 ## Gelöst
 
-Issues mit Status *Gelöst*.
+Issues mit Status _Gelöst_.
 
 ### Titel des Issues

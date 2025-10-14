@@ -5,17 +5,18 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Odoo.sh - Modul Migration
 
 Damit Sie Module für ein Odoo.sh Projekt/Repsitory migrieren können müssen Sie die folgenden Prozesse zur Vorbereitung ausführen:
 
-* [[Prozesse Odoo.sh - Projekt bereitstellen#Odoo.sh Repository einrichten]]
-* [[Prozesse Odoo.sh - Upgrade Implementation#Upgrade-Branch einrichten]]
+- [[Prozesse Odoo.sh - Projekt bereitstellen#Odoo.sh Repository einrichten]]
+- [[Prozesse Odoo.sh - Upgrade Implementation#Upgrade-Branch einrichten]]
 
 Wenn Sie den Upgrade-Branch eingerichtet haben, können Sie Submodule in der neuen Version hinzufügen und Module migrieren:
 
-* [[Prozesse Odoo.sh - Projekt bereitstellen#Submodul hinzufügen]]
-* [[Prozesse Odoo - Modul Migration#Modul migrieren]]
+- [[Prozesse Odoo.sh - Projekt bereitstellen#Submodul hinzufügen]]
+- [[Prozesse Odoo - Modul Migration#Modul migrieren]]
 
 Wenn Sie Module migriert haben und diese bereitstellen möchten, führen Sie [[#Submodul aktualisieren]] aus.
 
@@ -23,10 +24,10 @@ Wenn Sie Module migriert haben und diese bereitstellen möchten, führen Sie [[#
 
 Arbeitsschritte:
 
-* Klone das Odoo.sh Git Repo
-* Klone die Submodule mit `git submodule update --init`
-* Öffne das Odoo.sh Git Repo in VSCode
-* Aktualisiere das ausgewählte Submodul
+- Klone das Odoo.sh Git Repo
+- Klone die Submodule mit `git submodule update --init`
+- Öffne das Odoo.sh Git Repo in VSCode
+- Aktualisiere das ausgewählte Submodul
 
 ![[Odoo.sh Submodule.png]]
 
@@ -38,7 +39,7 @@ git switch 16.0
 git pull
 ```
 
-* Stage die neue Submodule-Referenz und committe die Änderung im Git Repo
+- Stage die neue Submodule-Referenz und committe die Änderung im Git Repo
 
 ```bash
 git add doo-apps-manufacture

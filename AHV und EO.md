@@ -5,8 +5,9 @@ kind:
   - explain
 section: organisation
 ---
+
 # AHV und EO
 
-## Abrechnung 
+## Abrechnung
 
-Die AHV Abrechnung des vergangenen Geschäftsjahr wird Anfangs des darauf folgenden  Jahr elektronisch über das Portal der Finanzverwaltung mit dem Link <https://www.eadminportal.ch/register/?login&language=de> abgegeben. Der Benutzername und Passwort für die Anmeldung sind im Keepass abgelegt.
+Die AHV Abrechnung des vergangenen Geschäftsjahr wird Anfangs des darauf folgenden Jahr elektronisch über das Portal der Finanzverwaltung mit dem Link <https://www.eadminportal.ch/register/?login&language=de> abgegeben. Der Benutzername und Passwort für die Anmeldung sind im Keepass abgelegt.

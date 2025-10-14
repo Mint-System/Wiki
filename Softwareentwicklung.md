@@ -5,6 +5,7 @@ section: organisation
 kind:
   - reference
 ---
+
 # Softwareentwicklung
 
 Aspekte der Softwareentwicklung.
@@ -19,7 +20,7 @@ Wir verwenden [[Zsh]] als Shell.
 
 ## IDE
 
-Als Integrated Development Environment (IDE) verwenden wir  [[Helix]], [[Emacs]] oder [[VSCodium]].
+Als Integrated Development Environment (IDE) verwenden wir [[Helix]], [[Emacs]] oder [[VSCodium]].
 
 ## [[LLM]]
 

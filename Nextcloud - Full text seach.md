@@ -10,26 +10,26 @@ section: dev
 
 ## Voraussetung
 
-* Elasticsearch index mit *ingest-attachment* plugin
-* Elasticsearch nextcloud user
+- Elasticsearch index mit _ingest-attachment_ plugin
+- Elasticsearch nextcloud user
 
 ## Setup
 
 Install these Nextcloud apps:
 
-* Full text search:  Diese App bietet die Grundfunktionen zur Volltextsuche
-* Full text search - Files: Erweitert die Dateien-App um die Volltextsuche.
-* Full text search - Elasticsearch Platform: Dies stellt die Verbindung zur Suchmaschine her.
-* Full text search - Files - Tesseract OCR: Verbindung zu Tesseract.
+- Full text search: Diese App bietet die Grundfunktionen zur Volltextsuche
+- Full text search - Files: Erweitert die Dateien-App um die Volltextsuche.
+- Full text search - Elasticsearch Platform: Dies stellt die Verbindung zur Suchmaschine her.
+- Full text search - Files - Tesseract OCR: Verbindung zu Tesseract.
 
 ## Konfiguration
 
-Unter *Einstellungen > Volltextsuche* diese Einstellungen machen:
+Unter _Einstellungen > Volltextsuche_ diese Einstellungen machen:
 
-* **Suchplattform**: Elasticsearch
-* **Navigations-Symbol**: Aktiviert
-* **Adresse des Servlets**: <http://nextcloud:hwii4mie3Egha9ooro5@elastic01:9200/>
-* **index**: nextcloud
+- **Suchplattform**: Elasticsearch
+- **Navigations-Symbol**: Aktiviert
+- **Adresse des Servlets**: <http://nextcloud:hwii4mie3Egha9ooro5@elastic01:9200/>
+- **index**: nextcloud
 
 ## Index generieren
 

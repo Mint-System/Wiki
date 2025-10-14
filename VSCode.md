@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # VSCode
 
 Synonym für [[Visual Studio Code]].

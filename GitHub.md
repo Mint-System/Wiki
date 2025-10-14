@@ -5,6 +5,7 @@ section: infrastructure
 kind:
   - reference
 ---
+
 # GitHub
 
 Auf GitHub verwaltet die Mint System ihre öffentlichen [[Repository|Repositories]] und [[Odoo.sh]] Projekte.

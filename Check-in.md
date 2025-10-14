@@ -4,6 +4,7 @@ tags:
 kind: explain
 section: organisation
 ---
+
 # Check-in
 
 Das "Einchecken" ist im Kontext der Governance nicht ein `git add`, sondern eine kurze Austauschrunde.

@@ -6,13 +6,14 @@ kind:
 draft: false
 section: blog
 ---
+
 # Odoo Customizing ohne unvorhergesehene Upgradekosten
 
 Jede Anpassung in Odoo birgt ein Risiko für unvorgesehene Upgradekosten.
 
 Der folgende Artikel beschreibt, wie wir als Integratoren das Odoo-System den Bedürfnissen des Kunden anpassen und gleichzeitig sicherstellen, dass in Zukunft keine funktionalen Einschränkungen oder Regressionen entstehen.
 
-Eine Regression im Kontext der Softwareentwicklung bezieht sich auf einen Fehler in einem Feature. Dazu ein Beispiel: Das Feature *Login mit Google-Account* hat vor der Aktualisierung der Systemumgebung funktioniert, danach nicht mehr. Es ist ein Bug entstanden, ohne dass am Softwarecode des Features etwas geändert wurde.
+Eine Regression im Kontext der Softwareentwicklung bezieht sich auf einen Fehler in einem Feature. Dazu ein Beispiel: Das Feature _Login mit Google-Account_ hat vor der Aktualisierung der Systemumgebung funktioniert, danach nicht mehr. Es ist ein Bug entstanden, ohne dass am Softwarecode des Features etwas geändert wurde.
 
 Diese Art von Fehler möchte man auf jeden Fall vermeiden. Falls er trotzdem auftritt, möchte man ihn schnell beheben können. Dieses Problemszenario lässt sich verallgemeinern. Als Odoo-Integratoren müssen wir sicherstellen, dass jede Änderung die wir heute an einer Odoo-Installation vornehmen, in Zukunft so wenig Fehler wie möglich verursacht.
 

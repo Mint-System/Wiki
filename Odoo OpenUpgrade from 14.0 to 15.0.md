@@ -39,6 +39,7 @@ odoo-restore -f tmp/$COMPANY/$DATABASE.zip
 Login and check the Odoo log.
 
 Remove [[Unsupported Modules#Odoo 15.0]].
+
 ## Upgrade
 
 Checkout target Odoo environment.
@@ -108,12 +109,12 @@ odoo-restore -f tmp/$COMPANY/$DATABASE-$ODOO_TARGET_VERSION.zip -d $DATABASE -r 
 When starting the Odoo database the following error is thrown:
 
 ```bash
-UndefinedColumn: column res_company.scss_modif_timestamp does not exist 
+UndefinedColumn: column res_company.scss_modif_timestamp does not exist
 ```
 
 **Solution**
 
-Update *Web Company Color*.
+Update _Web Company Color_.
 
 ```bash
 task init-module $DATABASE web_company_color

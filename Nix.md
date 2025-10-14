@@ -1,13 +1,15 @@
 ---
 lang: en
 tags:
-- Definition
+  - Definition
 ---
+
 # Nix
 
-Declarative builds and deployments. 
+Declarative builds and deployments.
 
 Website: <https://nixos.org/>
+
 ## Setup
 
 Follow <https://nixos.org/download/#download-nix>

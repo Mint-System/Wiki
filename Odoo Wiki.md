@@ -4,6 +4,7 @@ tags:
 kind:
   - reference
 ---
+
 # Odoo Wiki
 
 Website: <https://www.odoo-wiki.org>
@@ -16,7 +17,6 @@ Infomaniak Domains:
 
 - odoowiki.org
 - odoo-wiki.org
-
 
 Das Odoo Wiki ist ein erweitertes Angebot für unsere Kunden. Die Mint System dokumentiert dort ein Referenzsystem und die dazugehörigen Arbeitsprozesse.
 

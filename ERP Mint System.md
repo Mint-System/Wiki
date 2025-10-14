@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # ERP Mint System
 
 Odoo-Installation der Mint System.

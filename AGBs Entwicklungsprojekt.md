@@ -5,11 +5,12 @@ section: product
 kind:
   - reference
 ---
-Mint System GmbH - AGB Entwicklungsprojekt
-===
+
+# Mint System GmbH - AGB Entwicklungsprojekt
+
 Version: 1.18
 
-## I. Geltung der AGB  
+## I. Geltung der AGB
 
 ### Art. 1
 
@@ -20,8 +21,8 @@ Version: 1.18
 
 ### Art. 2
 
-1. Der Vertragsgegenstand ist im Projektvertrag und im Pflichtenheft definiert.  
-2. Mehrkosten, die durch ein mangelhaftes oder unvollständiges Pflichtenheft verursacht werden, gehen zu Lasten des Kunden.  
+1. Der Vertragsgegenstand ist im Projektvertrag und im Pflichtenheft definiert.
+2. Mehrkosten, die durch ein mangelhaftes oder unvollständiges Pflichtenheft verursacht werden, gehen zu Lasten des Kunden.
 
 ### Art. 3
 
@@ -41,7 +42,7 @@ Version: 1.18
 
 ## IV. Mitwirkungspflichten des Kunden
 
-### Art. 5  
+### Art. 5
 
 Der Kunde wird im Hinblick auf die Entwicklung die im Pflichtenheft vereinbarten Mitwirkungspflichten ordnungsgemäss und termingerecht erbringen.
 
@@ -62,9 +63,9 @@ Der Kunde wird im Hinblick auf die Entwicklung die im Pflichtenheft vereinbarten
 1. Nach Auslieferung des Produkts leistet Mint System Gewähr dafür, dass diese während 24 Kalendermonaten ab Datum der Lieferung die im Pflichtenheft vereinbarten Anforderungen erfüllt.
 2. Mint System wird die vom Kunden während der Gewährleistungsfrist festgestellten und sofort schriftlich gerügten Abweichungen vom Pflichtenheft innert angemessener Frist ab der Mitteilung durch den Kunden beheben.
 3. Schlägt die Korrektur der gerügten Abweichungen fehl, so kann der Kunde innert 10 Kalendertagen wahlweise  
-3.1. die Korrektur der Abweichungen durch
-Mint System innert einer vom Kunden angesetzten angemessenen Frist verlangen; oder  
-3.2. von Mint System wegen des Minderwerts der Software eine angemessene Rückzahlung der Vergütung verlangen.
+   3.1. die Korrektur der Abweichungen durch
+   Mint System innert einer vom Kunden angesetzten angemessenen Frist verlangen; oder  
+   3.2. von Mint System wegen des Minderwerts der Software eine angemessene Rückzahlung der Vergütung verlangen.
 4. Mint System ist von seiner Gewährleistungspflicht in dem Umfange entbunden, als Mängel und sonstige Abweichungen auf nicht von ihm zu vertretende Umstände zurückzuführen ist. Die Gewährleistung durch Mint System gilt überdies nicht, wenn der Kunde eigene Modifikationen am Produkt im Zusammenhang mit der Abweichung vorgenommen hat.
 
 ## VI. Rechtsgewährleistung

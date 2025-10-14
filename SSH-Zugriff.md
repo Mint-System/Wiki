@@ -5,6 +5,7 @@ kind:
   - explain
 section: communication
 ---
+
 # SSH-Zugriff
 
 Die Verwaltung eines Linux-Server erfolgt mit einer [[Kommandozeile]]. Es gibt also keine grafische Oberfläche um die Einstellungen und Software auf dem zu steuern. SSH erlaubt den Fernzugriff auf die Kommandozeile.
@@ -24,8 +25,9 @@ Jeder Benutzer der sich mit SSH auf einem Server anmelden möchte, muss seinen �
 Solange der SSH-Schlüssel des Benutzers nicht abhanden kommt ist ein Login durch einen nicht autorisierten Benutzer nahezu unmöglich.
 
 ![[SSH-Login with key.png]]
+
 ## Jump-Host
 
-Es wird empfohlen, dass der SSH-Zugriff nicht direkt auf den Server erfolgt, sondern via Jump-Host. Ein Jump-Host agiert als Proxy für die SSH-Verbindung. Der SSH-Port auf dem Ziel-Server kann so nur für die IP-Adresse des Jump-Host authorisiert werden. 
+Es wird empfohlen, dass der SSH-Zugriff nicht direkt auf den Server erfolgt, sondern via Jump-Host. Ein Jump-Host agiert als Proxy für die SSH-Verbindung. Der SSH-Port auf dem Ziel-Server kann so nur für die IP-Adresse des Jump-Host authorisiert werden.
 ![[SSH Jump-Host.png]]
 Mit dieser Massnahme lässt sich die Authorisierung für den SSH-Zugriff zentralisieren und der Angriffvektor auf den Server wird reduziert.

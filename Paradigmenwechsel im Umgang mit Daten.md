@@ -5,14 +5,16 @@ section: blog
 kind:
   - explain
 ---
+
 # Paradigmenwechsel im Umgang mit Daten
+
 Wem gehören denn jetzt meine Daten?
 
 Das Thema Datenschutz ist in aller Munde. Private und sensible Daten müssen passend geschützt werden. Beim Betrieb eines ERP-System fallen sensible sowie private Daten an. Mit verschiedenen Massnahmen wie beispielsweise der laufenden Aktualisierung der Software, stellt auch die Mint System sicher, dass kein Datenleck entsteht.
 
 Über den Umgang mit privaten Daten wird in der Öffentlichkeit kontrovers diskutiert. Jeder äussert Bedenken zum Umgang mit privaten Daten, die meisten geben diese jedoch bedenkenlos über Social Media an Dritte weiter. Eine Kontroverse die man oft im Raum stehen lässt.
 
-Vielleicht braucht es eine neue Betrachtungsweise auf die Daten, Apps und Benutzer? Neue Ideen im Umgang mit Daten bestehen bereits und müssen nur noch verbreitet werden. Eine Idee gefällt uns besonders und diese möchten wir hier präsentieren. Es handelt sich um die sogenannten *Zero Data Apps*.
+Vielleicht braucht es eine neue Betrachtungsweise auf die Daten, Apps und Benutzer? Neue Ideen im Umgang mit Daten bestehen bereits und müssen nur noch verbreitet werden. Eine Idee gefällt uns besonders und diese möchten wir hier präsentieren. Es handelt sich um die sogenannten _Zero Data Apps_.
 
 ## Der traditionelle Weg
 

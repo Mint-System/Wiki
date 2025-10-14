@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Mint System Website
 
 Unsere Website wurde mit [[Hugo]] erstellt.

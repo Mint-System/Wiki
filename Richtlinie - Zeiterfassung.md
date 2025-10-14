@@ -5,6 +5,7 @@ kind:
   - explain
 section: policy
 ---
+
 # Richtlinie - Zeiterfassung
 
 ## Keine Arbeit ohne Zeiterfassung
@@ -19,6 +20,6 @@ Die Zeiterfassung erfolgt wenn immer möglich auf einer Aufgabe. Daraus folgt, d
 
 Die Beschreibung eines Zeiterfassung-Eintrags versteht sich als Rechtfertigung für die aufgewendete Zeit. Bei der Erfassung gelten die folgenden Regeln:
 
-* Sprache ist Deutsch
-* Die Formulierung ist im Passiv.
-* Um so länger die Dauer um so detaillierter die Beschreibung
+- Sprache ist Deutsch
+- Die Formulierung ist im Passiv.
+- Um so länger die Dauer um so detaillierter die Beschreibung

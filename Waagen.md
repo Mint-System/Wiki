@@ -1,7 +1,8 @@
 ---
 tags:
-- Hardware
+  - Hardware
 ---
+
 # Waagen
 
 ## [[Mettler Toledo]]

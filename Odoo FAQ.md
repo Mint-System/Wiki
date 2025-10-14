@@ -5,6 +5,7 @@ section: product
 kind:
   - explain
 ---
+
 # Odoo FAQ
 
 Offene Fragen rund um Odoo.
@@ -15,7 +16,7 @@ Offene Fragen rund um Odoo.
 
 Frage: Wie kann man einem bestehenden und abgeschlossenen Verkaufsauftrag ein neues Auftragselement hinzufügen, darüber Zeit buchen und dann in Rechnung stellen?
 
-Antwort: 
+Antwort:
 
 # Fertigung
 
@@ -64,4 +65,4 @@ Antwort:
 
 Frage: Verwalten von öffentlichen Feiertagen und berücksichtigung in Abwesenheitszeiten.
 
-Antwort: 
+Antwort:

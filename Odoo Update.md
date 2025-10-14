@@ -5,6 +5,7 @@ section: communication
 kind:
   - explain
 ---
+
 # Odoo Update
 
 Notizen zum Update von Odoo.

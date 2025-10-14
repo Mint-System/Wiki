@@ -7,6 +7,7 @@ kind:
   - explain
 section: specification
 ---
+
 # Specification Website Sale Kubernetes Subscription OCA
 
 Context: Odoo shop for mint-cloud.ch
@@ -46,14 +47,14 @@ classDiagram
     class App{
 		char name required
 		char hostname required
-		
+
 		many2one namespace_id requried
 		many2one subscription_line_id requried
 
 		many2one environment_id related
 		many2one product_id related
 		many2one partner_id related
-		
+
 		many2many config_map_ids
 		many2many secret_ids
     }
@@ -69,7 +70,7 @@ classDiagram
 		bool is_template
 		many2many key_value_ids
     }
-    
+
     class Secret{
 		char name required
 		bool is_template
@@ -84,7 +85,7 @@ classDiagram
 	}
 
     class ConfigValue{
-		char value required 
+		char value required
     }
 
     class Namespace{
@@ -112,10 +113,10 @@ classDiagram
     class Product{
 		char name required
 		bool kubernetes_ok
-		
+
 		many2one config_map_templ_id
 		many2one secret_templ_id
-		
+
 		many2many manifest_ids
 		many2many environment_ids
     }
@@ -147,6 +148,7 @@ Manage config maps and apps.
 Applies the config map key values to the manifest files.
 
 environments:
+
 - prod: production
 - int: integration
 - test: testing
@@ -158,12 +160,13 @@ kubernetes.app:
 - name r4ts-int
 - hostname: ﻿﻿r4ts-int.mint-cloud.ch
 - config_map_ids:
-	- KUBERNETES_ENVIRONMENT: int
-	- KUBERNETES_IMAGE: mintsystem:odoo-17.0.20241104
-	- KUBERNETES_GIT_REPOS: git@github.com/mint-cloud/r4ts.git
-	- KUBERNETES_PIP_INSTALL: fastapi
+  - KUBERNETES_ENVIRONMENT: int
+  - KUBERNETES_IMAGE: mintsystem:odoo-17.0.20241104
+  - KUBERNETES_GIT_REPOS: git@github.com/mint-cloud/r4ts.git
+  - KUBERNETES_PIP_INSTALL: fastapi
 
 Products:
+
 - Odoo Community Edition
 - Odoo Enterprise Edition
 

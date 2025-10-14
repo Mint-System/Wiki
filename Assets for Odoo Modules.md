@@ -5,6 +5,7 @@ kind:
   - reference
 section: dev
 ---
+
 # Assets for Odoo Modules
 
 url: <https://raw.githubusercontent.com/Mint-System/Wiki/main/attachments/mint-system-logo.png>
@@ -24,5 +25,3 @@ url: <https://raw.githubusercontent.com/Mint-System/Wiki/main/attachments/mint-s
 Until Odoo 17.0 the default icons is:
 
 url: <https://raw.githubusercontent.com/Mint-System/Wiki/master/assets/icon-box.png>
-
-

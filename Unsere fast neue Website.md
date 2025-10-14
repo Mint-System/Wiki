@@ -6,7 +6,9 @@ kind:
   - explain
 section: blog
 ---
+
 # Unsere fast neue Website
+
 "Fast" im Sinne von Schnell.
 
 Wir haben eine neue Website! Wir hoffen Sie merken es nicht, weil diese sollte genau so aussehen wie vorher.

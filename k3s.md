@@ -1,8 +1,9 @@
 ---
 lang: en
 tags:
-- Definition
+  - Definition
 ---
+
 # k3s
 
 Lightweight Kubernetes.

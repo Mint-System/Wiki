@@ -4,6 +4,7 @@ tags:
 kind: reference
 section: contact
 ---
+
 # Odoo Community Association
 
 Nonprofit Organization zur Weiterentwicklung und Unterstützung der [[Odoo Community Edition]].

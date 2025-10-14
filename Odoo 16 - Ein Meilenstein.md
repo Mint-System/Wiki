@@ -6,6 +6,7 @@ kind:
 draft: false
 section: blog
 ---
+
 # Odoo 16 - Ein Meilenstein
 
 > Wir waren an der Odoo Experience 2022 und haben spannende Neuigkeiten.
@@ -18,7 +19,7 @@ section: blog
 
 ## Benutzeroberfläche
 
-**Keine Leseansicht**: Die Formularansicht der Geschäftsobjekte wird jetzt immer im Bearbeitungsmodus geöffnet. Dass heisst, es gibt keinen Lese-/Bearbeitungsmodus mehr. Änderungen kann man so direkter und schneller machen. Zugegeben braucht es eine gewisse Umgewöhnungszeit. 
+**Keine Leseansicht**: Die Formularansicht der Geschäftsobjekte wird jetzt immer im Bearbeitungsmodus geöffnet. Dass heisst, es gibt keinen Lese-/Bearbeitungsmodus mehr. Änderungen kann man so direkter und schneller machen. Zugegeben braucht es eine gewisse Umgewöhnungszeit.
 
 **Darkmode**: Odoo-Benutzer, die lieber in der Nacht arbeiten haben jetzt den Darkmode. Die Farben der Oberfläche werden im Darkmode invertiert, was die Augen schonen soll.
 

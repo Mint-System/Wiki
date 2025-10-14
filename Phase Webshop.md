@@ -5,16 +5,17 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Webshop
 
 Tätigkeiten:
 
-* Den Seitenaufbau definieren (Startseite und weitere Seiten)
-* Das Layout (Farbkonzept, Schriftarten) bestimmen
-* Die Inhalte erfassen
-* Die Inhalte mit den Produkten erweitern
-* Den Warenkorb einrichten
-* Die Zahlungsmittel einrichten
+- Den Seitenaufbau definieren (Startseite und weitere Seiten)
+- Das Layout (Farbkonzept, Schriftarten) bestimmen
+- Die Inhalte erfassen
+- Die Inhalte mit den Produkten erweitern
+- Den Warenkorb einrichten
+- Die Zahlungsmittel einrichten
 
 Ergebnis: Es sind Produkte im Webshop bestellbar.
 
@@ -26,14 +27,14 @@ Ergebnis: Es sind Produkte im Webshop bestellbar.
 
 **Existierende Logins**
 
--  Sollen bestehende Kunden-Registration übernommen werden? ⭐
+- Sollen bestehende Kunden-Registration übernommen werden? ⭐
 
 ## Webshop gliedern
 
 **Landingpage**
 
-* Wie sieht die Landingpage aus?
-* Mit welchen Unterseiten ergänzen?
+- Wie sieht die Landingpage aus?
+- Mit welchen Unterseiten ergänzen?
 
 **Weiterleitung**
 
@@ -62,6 +63,6 @@ Was soll für ein Bild/Page nach der Bestellung angezeigt werden? Zum Beispiel d
 
 **Zahlungssysteme**
 
-* Mit welchen Zahlungsmittel können Kunden die Bestellung bezahlen?
-* Werden Bestellungen als bezahlt markiert?
-* Welchen Zahlungs-Provider verwenden Sie? ⭐
+- Mit welchen Zahlungsmittel können Kunden die Bestellung bezahlen?
+- Werden Bestellungen als bezahlt markiert?
+- Welchen Zahlungs-Provider verwenden Sie? ⭐

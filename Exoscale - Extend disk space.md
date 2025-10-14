@@ -4,33 +4,34 @@ tags:
 lang: en
 kind: explain
 ---
+
 # Exoscale - Extend disk space
 
 ## Create block storage
 
-* Login into Exoscale
-* Got to *Compute > Block Storage*
-* Create a new entry in the same zone as the server
-* Add a label `name` with value `$ALIAS.mint-system.com`
-* Attach it to the server
-* Get disk path from `/dev/disk/by-id/$DISK_ID`
-* Format the disk `sudo mkfs.ext4 /dev/vdb`
+- Login into Exoscale
+- Got to _Compute > Block Storage_
+- Create a new entry in the same zone as the server
+- Add a label `name` with value `$ALIAS.mint-system.com`
+- Attach it to the server
+- Get disk path from `/dev/disk/by-id/$DISK_ID`
+- Format the disk `sudo mkfs.ext4 /dev/vdb`
 
 ### Mount block storage
 
-* Create a mount point
+- Create a mount point
 
 ```bash
 sudo mkdir -p /mnt/sdb
 ```
 
-* Mount the disk
+- Mount the disk
 
 ```bash
 sudo mount /dev/vdb /mnt/sdb
 ```
 
-* Add `/etc/fstab` entry:
+- Add `/etc/fstab` entry:
 
 ```
 /dev/vdb /mnt/sdb ext4 discard,nofail,defaults 0 0
@@ -38,7 +39,7 @@ sudo mount /dev/vdb /mnt/sdb
 
 ## Mount block storage with Ansible
 
-* In Ansible create a fstab entry:
+- In Ansible create a fstab entry:
 
 ```yml
 fstab_mounts:
@@ -49,7 +50,7 @@ fstab_mounts:
     fstype: ext4
 ```
 
-* Mount the fstab:
+- Mount the fstab:
 
 ```bash
 aplaybook -i inventories/setup/ plays/setup.yml -t fstab -l $ALIAS

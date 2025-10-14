@@ -5,6 +5,7 @@ section: contact
 kind:
   - reference
 ---
+
 # Syscoon GmbH
 
 Website: <https://syscoon.com/>

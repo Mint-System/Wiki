@@ -5,6 +5,7 @@ kind:
   - reference
 section: vendor
 ---
+
 # Hetzner
 
 Deutscher Hosting-Anbieter.

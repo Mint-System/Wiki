@@ -3,42 +3,44 @@ tags:
   - Asset
 kind: explain
 ---
+
 # Partner
 
 Geschäftsbeziehungen der Mint System.
 
 ## Odoo
 
-* [[Odoo S.A.]]
-* [[OCA]]
+- [[Odoo S.A.]]
+- [[OCA]]
+
 ## Odoo Partner
 
-* [[nivels GmbH]]
-* [[giordano.ch ag]]
-* [[Equitania Software GmbH]]
-* [[Syscoon GmbH]]
+- [[nivels GmbH]]
+- [[giordano.ch ag]]
+- [[Equitania Software GmbH]]
+- [[Syscoon GmbH]]
 
 ## Odoo Treuhänder
 
-* [[Gaapex]]
-* [[OPTEX Treuhand AG]]
+- [[Gaapex]]
+- [[OPTEX Treuhand AG]]
 
 ## Management Luftfahrt
 
-* [[dbpConcepts GmbH]]
+- [[dbpConcepts GmbH]]
 
 ## [[Nextcloud Partner]]
 
-* [[Nextcloud GmbH]]
+- [[Nextcloud GmbH]]
 
 ## Infrastruktur
 
-* [[VSHN AG]]
+- [[VSHN AG]]
 
 ## Softwareentwicklung
 
-* [[BINARY one GmbH]]
+- [[BINARY one GmbH]]
 
 ## Trägerschaften
 
-* [[inosca]]
+- [[inosca]]

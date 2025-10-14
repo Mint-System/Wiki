@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # OpenVPN
 
 VPN client.
@@ -9,8 +10,9 @@ VPN client.
 Website: <https://openvpn.net/download-open-vpn/>
 
 Related:
-* [[OpenVPN Cheatsheet]]
-* [[OpenVPN Handbook]]
+
+- [[OpenVPN Cheatsheet]]
+- [[OpenVPN Handbook]]
 
 ## HowTos
 

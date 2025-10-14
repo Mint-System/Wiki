@@ -5,6 +5,7 @@ kind:
   - explain
 section: methodology
 ---
+
 # Vorgehensmodell Odoo Projekte
 
 ## Einleitung
@@ -20,21 +21,23 @@ In der Projektarbeit sind auf Seite Mint System und Kunde unterschiedliche Rolle
 Der Projektleiter ist der Hauptentscheidungsträger des Projekts. Er ist gleichzeitig Projektmanager, Business Analyst und Produktexperte.
 
 Als Projektmanager leitet er das Projekt durch:
-* die Definition des Projektplans und dessen konsequenten Umsetzung
-* die Fokussierung auf die Hauptziele
-* den Miteinbezug des SPoC (Single Point of Contact) in das Projekt
-* den richtigen Einsatz von Ressourcen
-* die Berücksichtigung der Risiken
+
+- die Definition des Projektplans und dessen konsequenten Umsetzung
+- die Fokussierung auf die Hauptziele
+- den Miteinbezug des SPoC (Single Point of Contact) in das Projekt
+- den richtigen Einsatz von Ressourcen
+- die Berücksichtigung der Risiken
 
 Als Business Analyst und Produktexperte hat er das Ziel, die Dinge möglichst einfach zu halten.
 
 Seine Aufgaben sind:
-* Entscheiden, wie bestimmte Anforderungen umgesetzt werden können    
-* die Wünsche des Kunden hinterfragen und seine Erwartungen lenken
-* Konfiguration von Odoo
-* Datenmigration
-* das Schreiben der Spezifikationen für zusätzliche Funktionen (falls Entwicklungen erforderlich sind)
- 
+
+- Entscheiden, wie bestimmte Anforderungen umgesetzt werden können
+- die Wünsche des Kunden hinterfragen und seine Erwartungen lenken
+- Konfiguration von Odoo
+- Datenmigration
+- das Schreiben der Spezifikationen für zusätzliche Funktionen (falls Entwicklungen erforderlich sind)
+
 Der Projektleiter ist der Hauptansprechpartner für den Kunden während des gesamten Projekts.
 
 ### Projektdirektor (Mint System)
@@ -42,8 +45,9 @@ Der Projektleiter ist der Hauptansprechpartner für den Kunden während des gesa
 Bei grösseren Projekten oder in einem hochpolitischen Umfeld wird ein Projektdirektor ergänzend zum Projektleiter eingesetzt. Während sich der Projektleiter auf die Umsetzung des Projektes konzentriert, hilft der Projektdirektor bei der Kommunikation des Projekts und lenkt die Erwartungen der Führungskräfte auf einer abstrakteren Ebene.
 
 Seine Rolle besteht darin, die Entscheidungsträger auf dem Laufenden zu halten und er übernimmt folgende Aufgaben:
-* Berichterstattung über den Projektfortschritt an das Steering Committee
-* Verfolgung der Effizienz des Projekts und (falls erforderlich) Umsetzung von Massnahmen
+
+- Berichterstattung über den Projektfortschritt an das Steering Committee
+- Verfolgung der Effizienz des Projekts und (falls erforderlich) Umsetzung von Massnahmen
 
 Im Gegensatz zum Projektleiter arbeitet der Projektdirektor nicht Vollzeit an einem Projekt, aber er überblickt es von Anfang bis Ende. Bei kleineren Projekten wird diese Rolle in der Regel direkt vom Projektleiter übernommen.
 
@@ -64,19 +68,22 @@ Nicht alle Projekte erfordern Entwickler. Sie werden situativ beigezogen wenn ku
 Um die Umsetzung so schnell, einfach und kosteneffizient wie möglich zu machen, braucht es einen starken Ansprechpartner auf der Seite der Kunden. Diese Person muss die erforderlichen Fachkenntnisse mitbringen Der Projektleiter arbeitet eng mit dem SPoC eng zusammen.
 
 Der SPoC fokussiert darauf,
-* das Projekt eng zu begleiten
-* ein Botschafter für das Projekt zu sein, der die Endbenutzer überzeugt
-* die Projektplanung mit der Agenda des Unternehmens abzustimmen
+
+- das Projekt eng zu begleiten
+- ein Botschafter für das Projekt zu sein, der die Endbenutzer überzeugt
+- die Projektplanung mit der Agenda des Unternehmens abzustimmen
 
 Als Koordinator auf Seiten Kunde hat der SPoC den vollen Überblick über das Projekt. Er kümmert sich um folgende Aufgaben:
-* Sammlung und Bewertung der Projektanforderungen
-* Schulung der Endbenutzer mit der Unterstützung des Projektleiters (es gibt keinen besseren Ausbilder als ein Kollege, der die internen Prozesse kennt)
-* ein interner Odoo-Experte zu werden (und damit erste Ansprechperson für die Unterstützung der Kollegen)
+
+- Sammlung und Bewertung der Projektanforderungen
+- Schulung der Endbenutzer mit der Unterstützung des Projektleiters (es gibt keinen besseren Ausbilder als ein Kollege, der die internen Prozesse kennt)
+- ein interner Odoo-Experte zu werden (und damit erste Ansprechperson für die Unterstützung der Kollegen)
 
 Entscheidende Anforderungen an den SPoC sind:
-* für das Projekt verfügbar sein
-* die Kompetenz haben, Entscheidungen zu treffen
-* bei MitarbeiterInnen anerkannt
+
+- für das Projekt verfügbar sein
+- die Kompetenz haben, Entscheidungen zu treffen
+- bei MitarbeiterInnen anerkannt
 
 ### Extra-Rollen (Kunde)
 
@@ -120,17 +127,17 @@ Vertreter von Mint System treffen sich mit dem potentiellen Kunden und diskutier
 
 **Ziele**
 
-* Die Kundenanforderungen sind mit den Möglichkeiten der Software abgeglichen
-* Zweifel an der Durchführbarkeit des Projekts sind ausgeräumt
-* Der designierte Projektleiter hat ein klares Bild über das Projekt
-* Die Projektplanung und das Budget sind diskutiert
+- Die Kundenanforderungen sind mit den Möglichkeiten der Software abgeglichen
+- Zweifel an der Durchführbarkeit des Projekts sind ausgeräumt
+- Der designierte Projektleiter hat ein klares Bild über das Projekt
+- Die Projektplanung und das Budget sind diskutiert
 
 **Ergebnisse**
 
-* Mapping zwischen Geschäftsanforderungen und Produktmerkmalen
-* Projektplan Makro
-* Budget
-* [[Proof of Concept]] (POC): Demo der wichtigsten Geschäftsabläufe
+- Mapping zwischen Geschäftsanforderungen und Produktmerkmalen
+- Projektplan Makro
+- Budget
+- [[Proof of Concept]] (POC): Demo der wichtigsten Geschäftsabläufe
 
 ### Kick-Off
 
@@ -138,10 +145,10 @@ _Beteiligte mit Vorgehensmodell vertraut machen und Grundlagen schulen_
 
 **Ziele**
 
-* Der SPoC ist mit der Methodik vertraut und identifiziert sich mit den Projekt-Visionen
-* Gap-Analyse mit Machbarkeitsbeurteilung (falls noch nicht vorhanden)
-* Projektplan Makro
-* Der SPoC ist motiviert und bereit, Zeit in das Erlernen von Odoo zu investieren
+- Der SPoC ist mit der Methodik vertraut und identifiziert sich mit den Projekt-Visionen
+- Gap-Analyse mit Machbarkeitsbeurteilung (falls noch nicht vorhanden)
+- Projektplan Makro
+- Der SPoC ist motiviert und bereit, Zeit in das Erlernen von Odoo zu investieren
 
 ### Implementierung
 
@@ -187,10 +194,10 @@ Gleichzeitig ist der Kunde dafür verantwortlich das Benutzerhandbuch zu schreib
 
 Wenn es an der Zeit ist den Schalter umzulegen, könnten unerwartete Probleme auftauchen. Oft sind Sie auf zwei Ursachen zurückzuführen:
 
-* Die Datenbank ist nicht vollständig getestet  
-    Es muss sichergestellt sein, dass die Super-User alle Prozesse getestet haben
-* Die Anwender sind nicht gut geschult:  
-    Wenn die Schulung vor Monaten durchgeführt wurden, ist inzwischen vielleicht Vieles vergessen worden. Wenn Sie nicht selbst geübt haben, haben Sie möglicherweise kritische Schritte verpasst.
+- Die Datenbank ist nicht vollständig getestet  
+   Es muss sichergestellt sein, dass die Super-User alle Prozesse getestet haben
+- Die Anwender sind nicht gut geschult:  
+   Wenn die Schulung vor Monaten durchgeführt wurden, ist inzwischen vielleicht Vieles vergessen worden. Wenn Sie nicht selbst geübt haben, haben Sie möglicherweise kritische Schritte verpasst.
 
 ### Second Deployment
 

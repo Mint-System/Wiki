@@ -5,6 +5,7 @@ kind:
   - explain
 section: policy
 ---
+
 # Richtlinie - Spesenreglement
 
 Für Grundlagen siehe [[Spesenreglement]]

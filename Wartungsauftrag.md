@@ -5,6 +5,7 @@ kind:
   - explain
 section: product
 ---
+
 # Wartungsauftrag
 
 Revision: 2024-02-14
@@ -23,13 +24,13 @@ Die folgende Grafik gibt eine Übersicht über die Leistungen im Rahmen des ITIL
 
 Für jedes Hosting gibt es eine Servicebeschreibung:
 
-* [[Odoo Hosting#Servicebeschreibung]]
-* [[Keycloak Hosting#Servicebeschreibung]]
-* [[Moodle Hosting#Servicebeschreibung]]
-* [[Matomo Hosting#Servicebeschreibung]]
-* [[Wordpress Hosting#Servicebeschreibung]]
-* [[Nextcloud Hosting#Servicebeschreibung]]
-* [[Jenkins Hosting#Servicebeschreibung]]
+- [[Odoo Hosting#Servicebeschreibung]]
+- [[Keycloak Hosting#Servicebeschreibung]]
+- [[Moodle Hosting#Servicebeschreibung]]
+- [[Matomo Hosting#Servicebeschreibung]]
+- [[Wordpress Hosting#Servicebeschreibung]]
+- [[Nextcloud Hosting#Servicebeschreibung]]
+- [[Jenkins Hosting#Servicebeschreibung]]
 
 ## Intervalle
 

@@ -4,6 +4,7 @@ kind:
   - explain
 draft: true
 ---
+
 # Odoo mit ihrer Bank verbinden
 
 Odoo Enterprise bietet eine Drittanbieter-Integration zur Verbindung von Odoo mit einem Bankkonto.
@@ -33,6 +34,7 @@ EBICS bedeutet "Electronic Banking Internet Communication Standard".
 https://www.ebics.org/
 
 https://www.raiffeisen.ch/rch/de/firmenkunden/liquiditaet-und-zahlungsverkehr/electronic-banking/ebics.html
+
 ## EBICS für Odoo einrichten
 
 Der initialie Aufwand um die Verbindung einzurichten ist hoch.
@@ -58,4 +60,3 @@ Diesen Teilen Sie der Bank mit.
 Die Bank registriert die von Odoo generieren Zertifikate.
 
 Wenn die Freigabe erteilt ist, können Sie alle Zahlungen herunterladen.
-

@@ -5,6 +5,7 @@ section: contact
 kind:
   - reference
 ---
+
 # giordano.ch ag
 
 Website: <https://www.giordano.ch/>

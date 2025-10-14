@@ -23,8 +23,8 @@ Weiterführende Links:
 [[Nextcloud Upgrade]]\
 
 ## HowTos
- 
- [[Nextcloud - OwnCloud Console]]\
+
+[[Nextcloud - OwnCloud Console]]\
  [[Nextcloud - Restore password manager from backup]]\
  [[Nextcloud - Configure ignored files]]\
  [[Nextcloud - Set default locale and language]]\

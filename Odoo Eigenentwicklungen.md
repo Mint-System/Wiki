@@ -4,6 +4,7 @@ tags:
 kind: reference
 section: communication
 ---
+
 # Odoo Eigenentwicklungen
 
 Odoo kann als Entwicklungsframework für jegliche Art von Geschäftsapplikationen verwendet werden.
@@ -14,42 +15,42 @@ Die Mint System bietet dazu eine [[Odoo Entwicklungsumgebung]].
 
 Vorteile Entwicklung einer Applikation im Kontext von Odoo:
 
-* Benutzer- und Zugriffsverwaltung durch Odoo
-* Verküpfung mit allen Odoo-Entitäten
-* Vordefinierte Elemente für UI
+- Benutzer- und Zugriffsverwaltung durch Odoo
+- Verküpfung mit allen Odoo-Entitäten
+- Vordefinierte Elemente für UI
 
 ## Projektphasen
 
 ### Phase 1 - Offerte
 
-* Kontakt
-* Interview Stakeholder
-* Grobkonzept
-* Offerte mit Schätzung
+- Kontakt
+- Interview Stakeholder
+- Grobkonzept
+- Offerte mit Schätzung
 
 ### Phase 2 - Analyse
 
-* Detaillierte Anforderungen
-* Schnittstellenanalyse
-* Interview Stakeholder
-* Machbarkeitsnachweis (Proof of Concept)
+- Detaillierte Anforderungen
+- Schnittstellenanalyse
+- Interview Stakeholder
+- Machbarkeitsnachweis (Proof of Concept)
 
 ### Phase 3 - Realisierung
 
-* Iterative Entwicklung
-	* Implementation
-	* Testen
-	* Planen
-	* Anforderungsanalyse
-	* Systemdesign
-	* Implementation
-	* ...
-* Bereitstellung and Integration
+- Iterative Entwicklung
+  - Implementation
+  - Testen
+  - Planen
+  - Anforderungsanalyse
+  - Systemdesign
+  - Implementation
+  - ...
+- Bereitstellung and Integration
 
 ### Phase 4 - Support
 
-* Support und Beratung
-* Betrieb und Überwachung
+- Support und Beratung
+- Betrieb und Überwachung
 
 ## Ressourcen
 

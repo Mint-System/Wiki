@@ -5,14 +5,16 @@ kind:
   - reference
 section: template
 ---
+
 # Template Worklog
 
 ```markdown
 ---
-date: {{DATE}}
-author: {{VALUE:author}}
+date: { { DATE } }
+author: { { VALUE:author } }
 kind: worklog
 ---
+
 # {{NAME}}
 
 ## Vorbereitung

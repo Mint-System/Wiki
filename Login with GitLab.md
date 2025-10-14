@@ -4,6 +4,7 @@ tags:
 kind:
   - reference
 ---
+
 # Login with GitLab
 
 Install `auth_oidc` module.

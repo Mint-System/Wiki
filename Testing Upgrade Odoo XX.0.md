@@ -14,6 +14,6 @@ section: template
 
 Arbeitsschritte:
 
-* Öffnen App *Verkauf*
-* Erstellen neues Angebot
-* Klick auf "Produktset hinzufügen"
+- Öffnen App _Verkauf_
+- Erstellen neues Angebot
+- Klick auf "Produktset hinzufügen"

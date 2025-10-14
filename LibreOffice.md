@@ -1,11 +1,12 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # LibreOffice
 
 [[LibreOffice Handbuch]]
 
 Produkte:
-* [[LibreOffice Impress]]
 
+- [[LibreOffice Impress]]

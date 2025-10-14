@@ -4,11 +4,13 @@ tags:
 kind: explain
 section: organisation
 ---
+
 # Steuern
 
-Die Steuern setzen sich zusammen aus 
+Die Steuern setzen sich zusammen aus
+
 - Kantons- und Gemeindesteuern
-- direkte Bundesteuer 
+- direkte Bundesteuer
 
 Das Steuerformular wird in Papaierform vom kantonalen Steueramt der Gesellschaft zugestellt. Eine Excel-Vorlage steht auf der Website des Kantons als Download zur Verfügung. Eingabetermin ist jeweils der 30. Juli.
 

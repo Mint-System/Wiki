@@ -5,19 +5,21 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Produkte
 
 Tätigkeiten:
 
-* Alle Produkte importieren
-* Stücklisten, Kits und Sets definieren
-* Die Zuordnung von Produktbezeichnungen einrichten
-* Beschreibungen für Verkauf und Einkauf festlegen
-* Zusätzliche Attribute wie Zolltarifnummer definieren
+- Alle Produkte importieren
+- Stücklisten, Kits und Sets definieren
+- Die Zuordnung von Produktbezeichnungen einrichten
+- Beschreibungen für Verkauf und Einkauf festlegen
+- Zusätzliche Attribute wie Zolltarifnummer definieren
 
 Ergebnis: Alle Produkte sind definiert.
 
 ## Produkte einrichten (Stufe 1)
+
 In einer ersten Stufe werden die wichtigsten Daten erfasst. Nach einer Phase der Validierung erfolgt in der zweiten Stufe die finale Definition und Import.
 
 Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die Daten aus dem [Prozess Produktentwicklung](https://www.odoo-wiki.org/prozess-produktentwicklung.html) sind deshalb die Grundlage zur Definition der Produkte auf Stufe 1.
@@ -32,7 +34,7 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 **Verkaufsartikel/Einkaufsartikel**
 
- [Beschreibung im Wiki](https://www.odoo-wiki.org/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
+[Beschreibung im Wiki](https://www.odoo-wiki.org/fertigung-stammdaten.html#Verkaufsartikel/Einkaufsartikel)
 
 - Welche Produkte können verkauft werden?
 - Welche Produkte können eingekauft werden?
@@ -49,8 +51,8 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 
 - Werden die Produkte mit einem Strichcode bezeichnet? ⭐
 - Wie setzt sich der Strichcode zusammen? ⭐
-- Wird für die Generierung eine spezielle App verwendet? (Vorschlag: *Product Barcode Generator* von Cybrosys)
-  
+- Wird für die Generierung eine spezielle App verwendet? (Vorschlag: _Product Barcode Generator_ von Cybrosys)
+
 **Ursprungsland**
 
 - Ist die Angabe des Urspungslands gefordert?
@@ -73,8 +75,8 @@ Die grundsätzliche Definition der Produkte erfolgt durch das Engineering. Die D
 **Produktzeichnungen**
 
 - Wollen Sie pro Produkt jeweils eine Step-Datei und eine Zeichnung speichern? ⭐
-- Wo sollen die Zeichnungsdateien gespeichert werden?  
-- Sollen die Zeichnungsdateien den Lieferanten über das Portal und den RFQ/PO zugänglich gemacht werden? ⭐  
+- Wo sollen die Zeichnungsdateien gespeichert werden?
+- Sollen die Zeichnungsdateien den Lieferanten über das Portal und den RFQ/PO zugänglich gemacht werden? ⭐
 - Soll in der Tablet-Ansicht den Zugriff auf die Zeichnungsdatei möglich sein? ⭐
 
 **Produktvarianten**

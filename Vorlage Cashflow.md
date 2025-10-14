@@ -5,6 +5,7 @@ section: template
 kind:
   - reference
 ---
+
 # Vorlage Cashflow
 
 | Datum      | Bemerkung  | Betrag | Saldo                         |

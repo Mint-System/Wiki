@@ -4,6 +4,7 @@ tags:
 kind: explain
 section: term
 ---
+
 # DMS
 
 Dokumentmanagementsystem. Definiert den Lebenszyklus von Dokumenten.

@@ -5,15 +5,16 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Odoo Berichte
 
 Tätigkeiten:
 
-* Anpassen Odoo Berichte gemäss Anforderungen
-* Analyse Anforderungen Bericht
-* Entwicklung neuer Bericht gemäss Anforderungen
-* Layout entsprechend Corporate Design anpassen
-* Globale Formatvorlagen erfassen
+- Anpassen Odoo Berichte gemäss Anforderungen
+- Analyse Anforderungen Bericht
+- Entwicklung neuer Bericht gemäss Anforderungen
+- Layout entsprechend Corporate Design anpassen
+- Globale Formatvorlagen erfassen
 
 Ergebnis: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
 
@@ -30,9 +31,9 @@ Ergebnis: Der Odoo Bericht ist gemäss Anforderungen umgesetzt.
 **Berichtsvorlagen**
 
 - Haben Sie eine Vorlage zu einem Dokumenttyp:
-	- Packvorgang
-	- Lieferschein
-	- Rechnung
-	- Verkaufsauftrag
-	- Fertigungsauftrag
+  - Packvorgang
+  - Lieferschein
+  - Rechnung
+  - Verkaufsauftrag
+  - Fertigungsauftrag
 - Welche Anpassungen sind entscheidend (nicht nur nice-to-have)?

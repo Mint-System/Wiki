@@ -6,6 +6,7 @@ kind:
   - explain
 section: blog
 ---
+
 # Spam reduzieren mit SPF, DKIM und DMARC
 
 Mit diesem Beitrag möchten wir einen Einblick in eine komplexe Thematik geben: Spam.

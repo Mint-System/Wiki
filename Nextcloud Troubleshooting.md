@@ -5,13 +5,14 @@ kind:
   - howto
 section: product
 ---
+
 # Nextcloud Troubleshooting
 
 ## Upgrade
 
 ### Argument must be of type array
 
-**Problem** 
+**Problem**
 
 Nextcloud upgrade failed with `array_filter(): Argument #1 ($array) must be of type array, null given` error.
 
@@ -40,7 +41,7 @@ Manually repeate the upgrade and disable maintenance mode
 
 ```bash
 docker exec --user www-data nextcloud02 php occ upgrade
-docker exec --user www-data nextcloud02 php occ maintenance:mode --off   
+docker exec --user www-data nextcloud02 php occ maintenance:mode --off
 ```
 
 ## Integration
@@ -84,4 +85,4 @@ On the Nextcloud sync client is not started automatically.
 
 **Solution**
 
-Install *GNOME Tweaks* and add Nextcloud to the *Startup Applications*.
+Install _GNOME Tweaks_ and add Nextcloud to the _Startup Applications_.

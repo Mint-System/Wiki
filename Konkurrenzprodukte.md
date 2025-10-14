@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Korrenzprodukte
 
 ## Odoo
@@ -12,7 +13,7 @@ Korrenzprodukte zu Odoo. Dazu der [Competitors Quick Guide](https://docs.google.
 
 Bexio ist eine Schweizer Management-Software und die grösste Konkurrenz. Sie sind erfolgreich und führen Schweizweit Werbekampagnen durch. Zudem hat Sie eine Partnerschaft mit Swiss Life.
 
-Seit 2018 gehört Bexio der Versicherungsgesellschaft "die Mobilar". 
+Seit 2018 gehört Bexio der Versicherungsgesellschaft "die Mobilar".
 
 Kurzgesagt:
 
@@ -20,9 +21,9 @@ Kurzgesagt:
 
 Gemeinsamkeiten mit Odoo:
 
-* Online Tutorial
-* App-Markt
-* Webapplikation
+- Online Tutorial
+- App-Markt
+- Webapplikation
 
 Im Vergleich mit Odoo:
 
@@ -30,23 +31,25 @@ Im Vergleich mit Odoo:
 ➖ Bexio kann nicht [[Odoo Hosting - On-Premise|On-Premise]] gehostet werden  
 ➖ Bexio bietet nicht den gleichen Funktionsumfang  
 ➖ Bexio ist nicht modular  
-➖ Bietet keine mobile App  
+➖ Bietet keine mobile App
 
 ➕ Buchhaltung und Lohnbuchhaltung für Schweizer KMU  
 ➕ Schnittstellen zu Schweizer Banken  
 ➕ "Swissness" und Schweizer Lokalisierung  
-➕ Treuhänder-Angebot  
+➕ Treuhänder-Angebot
 
-### Select Line 
+### Select Line
+
 SelectLine bietet ähnlich viele Module wie Odoo an und ist ein Kaufmodel das mit einem Updatevetrag verknüpft ist.
 
-Folgende Module stehen in SelectLine zur Verfügung und sind Mandantenfähig: 
-Auftrag, CRM, Leistung verrechnen, PC-Kasse, Artikelmanager, EDI, RMA für Warenrücksendungen, Versandmodul, SL.mobile, Lagerbewirtschaftung, Webanwendung, Produktion, Finanzbuchhaltung, Anlagenbuchhaltung, Lohn, 
-Debitoren-/Kreditorenverwaltung, EBanking,  Archivierung SelectLine, BDE, Zeit- und Serviceerfassung
+Folgende Module stehen in SelectLine zur Verfügung und sind Mandantenfähig:
+Auftrag, CRM, Leistung verrechnen, PC-Kasse, Artikelmanager, EDI, RMA für Warenrücksendungen, Versandmodul, SL.mobile, Lagerbewirtschaftung, Webanwendung, Produktion, Finanzbuchhaltung, Anlagenbuchhaltung, Lohn,
+Debitoren-/Kreditorenverwaltung, EBanking, Archivierung SelectLine, BDE, Zeit- und Serviceerfassung
 
 Die Preisliste steht hier zum Download: <http://www.ddiag.ch/upload/pdf/dokumente/Preisliste%20SelectLine%20Software%20AG_ab%2008.05.2020.pdf>
 
 ### Abas ERP
+
 ABAS ERP ist eine deutsche ERP Software mit Modulen zu Themen wie Finanzen und Produktion. ABAS hat in der Schweiz eine Vertretung.
 
 Link zu ABAS ERP: <https://abas-erp.com/de/>

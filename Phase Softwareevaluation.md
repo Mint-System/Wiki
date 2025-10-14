@@ -5,13 +5,14 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Softwareevaluation
 
 Tätigkeiten:
 
-* Erstellen Bewertungsmatrix mit Kriterien und Gewichtung
-* Zusammenstellen Kandidaten und Alternativen
-* Kandidaten bewerten
-* Ergebnisse als Empfehlung festhalten
+- Erstellen Bewertungsmatrix mit Kriterien und Gewichtung
+- Zusammenstellen Kandidaten und Alternativen
+- Kandidaten bewerten
+- Ergebnisse als Empfehlung festhalten
 
 Ergebnis: Anhand des Lastenhefts wurde eine passende Software evaluiert.

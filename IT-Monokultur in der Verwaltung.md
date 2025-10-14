@@ -5,14 +5,16 @@ section: blog
 kind:
   - explain
 ---
+
 # IT-Monokultur in der Verwaltung
+
 Nicht nur in der Landwirtschaft ist die Monokultur ein Problem.
 
 Der Druck auf die Arbeitsmethodik in öffentlichen Verwaltungen und Institutionen steigt. Innovation und Kreativität ist gefordert. Ein Paradebeispiel war das Bundesamt für Gesundheit (BAG). Im vergangenen Sommer wurde die systematische Erfassung von Statistiken zu Corona-Fallzahlen gefordert. Zu dieser Zeit war das Hauptkommunikationsmittel beim BAG der Fax. Die Fallzahlen wurden von den Spitälern und Ärzten nach Bern telefoniert. Entsprechend Hoch waren die Fehlerraten und entsprechend Einfach die Falsifizierung der Daten. Mit Unterstützung von privaten Unternehmen konnte der Zustand inzwischen verbessert werden.
 
 ### Alle sind betroffen
 
-Was das BAG erlebt hat, erwartet nun die öffentliche Verwaltung auf allen Ebenen. Egal ob Kommunal, Kantonal oder eben auf Bundesebene, Sie alle müssen innovativ und *digital natives* sein. Es werden hohe Anforderungen gestellt und wer diesen gerecht werden möchte, braucht nicht nur gut bezahlte Fachkräfte, sondern auch die richtige IT-Landschaft. Die IT-Landschaft ist die Summe der eingesetzten IT-Systeme und Technologien. Und hier darf man durchaus einen direkten Vergleich mit der Landwirtschaft machen.
+Was das BAG erlebt hat, erwartet nun die öffentliche Verwaltung auf allen Ebenen. Egal ob Kommunal, Kantonal oder eben auf Bundesebene, Sie alle müssen innovativ und _digital natives_ sein. Es werden hohe Anforderungen gestellt und wer diesen gerecht werden möchte, braucht nicht nur gut bezahlte Fachkräfte, sondern auch die richtige IT-Landschaft. Die IT-Landschaft ist die Summe der eingesetzten IT-Systeme und Technologien. Und hier darf man durchaus einen direkten Vergleich mit der Landwirtschaft machen.
 
 ### Das Spannungsfeld
 

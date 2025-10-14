@@ -11,8 +11,8 @@ Alles zu Git Forks.
 
 In diesem Beispiel haben wir einen Fork:
 
-* Upstream: https://github.com/Mint-System/Odoo-Build/
-* Origin: https://github.com/sozialinfo/Odoo-Build
+- Upstream: https://github.com/Mint-System/Odoo-Build/
+- Origin: https://github.com/sozialinfo/Odoo-Build
 
 Und möchten diesen einrichten und aktualisieren.
 
@@ -53,7 +53,7 @@ git checkout main odoo.conf.template versions/16.0 versions/18.0
 git stash
 ```
 
-Branch neu anlegen und Fork-Dateien wieder einfügen. 
+Branch neu anlegen und Fork-Dateien wieder einfügen.
 
 ```bash
 git branch -D main

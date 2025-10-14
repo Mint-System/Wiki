@@ -4,6 +4,7 @@ tags:
 kind: explain
 section: communication
 ---
+
 # Odoo App Product Lifecycle Management
 
 Das Unternehmen [[OmniaSolutions]] entwickelt die Odoo App [Product Lifecycle Managment](https://apps.odoo.com/apps/modules/15.0/plm/).
@@ -14,7 +15,7 @@ Der PLM Cient ist auf Sourceforge verfügbar: <https://sourceforge.net/projects/
 
 ## Zusammenfassung
 
-Odoo ist ein ERP-System / Managementsystem / Framework für Webapplikationen und ist im Kern OSS.  
+Odoo ist ein ERP-System / Managementsystem / Framework für Webapplikationen und ist im Kern OSS.
 
 Der kommerzielle Anbieter Odoo S.A. vertreibt Odoo Enterprise: [https://www.odoo.com](https://www.odoo.com)
 
@@ -25,6 +26,6 @@ Entwicklungen aus der Community werden von der Odoo Community Assocation geförd
 Eine dieser Community-Entwicklungen ist OdooPLM: [https://odooplm.omniasolutions.website/](https://odooplm.omniasolutions.website/)  
 OdooPLM besteht aus zwei Teilen:
 
-- Server: Eine Odoo-Erweiterung um den PDM-Prozess abzubilden: [https://odooplm.omniasolutions.website/server](https://odooplm.omniasolutions.website/server)  
+- Server: Eine Odoo-Erweiterung um den PDM-Prozess abzubilden: [https://odooplm.omniasolutions.website/server](https://odooplm.omniasolutions.website/server)
 
 - Client: Ein Windows-Client um CAD-Daten mit der Odo- Erweiterung zu synchronisieren: [https://odooplm.omniasolutions.website/client](https://odooplm.omniasolutions.website/client)

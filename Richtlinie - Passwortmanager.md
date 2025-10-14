@@ -5,6 +5,7 @@ kind:
   - explain
 section: policy
 ---
+
 # Richtlinie - Passwortmanager
 
 Passwörter und Zugangsdaten zu Accounts der Mint System werden in einem [[Passwortmanager]] gespeichert.
@@ -31,9 +32,9 @@ Passwörter dürfen nicht in Unterordner separiert werden.
 
 Jedes Passwort muss mit mindestens folgenden Attributen erfasst werden:
 
-* **Titel**: Das Format ist `Bezeichnung - Unternehmensname`, Beispiel: `Infomaniak Manager Adminsrator - Mint System GmbH`
-* **Benutzername**: Eingabe für Login-Feld
-* **Passwort**: Eingabe für Passwort-Feld
-* **URL**: Url auf Resource
+- **Titel**: Das Format ist `Bezeichnung - Unternehmensname`, Beispiel: `Infomaniak Manager Adminsrator - Mint System GmbH`
+- **Benutzername**: Eingabe für Login-Feld
+- **Passwort**: Eingabe für Passwort-Feld
+- **URL**: Url auf Resource
 
-Optional ist das Feld *Notiz*.
+Optional ist das Feld _Notiz_.

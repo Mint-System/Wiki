@@ -1,7 +1,8 @@
 ---
 tags:
-- HowTo
+  - HowTo
 ---
+
 # Markdown Tutorial
 
 Markdown ist eine vereinfachte Auszeichnungssprache. Markdown-Dateien sind einfache Text-Dateien, die zur Darstellung in HTML-Seiten umgewandelt werden. Das Markdown-Markup hat zum Ziel als Textdatei und als HTML-Seite leserlich zu bleiben.
@@ -17,6 +18,7 @@ Alle Text-Formatierungen.
 ### Überschriften
 
 Markup:
+
 ```
 # Überschrift 1
 ## Überschrift 2
@@ -27,13 +29,17 @@ Normal
 Output:
 
 # Überschrift 1
+
 ## Überschrift 2
+
 ### Überschrift 3
+
 Normal
 
 ### Fett
 
 Markup:
+
 ```
 **Lorem** ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 ```
@@ -45,13 +51,14 @@ Output:
 ### Kursiv
 
 Markup:
+
 ```
 *Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 ```
 
 Output:
 
-*Lorem* ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+_Lorem_ ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 ## Erweiterungen
 
@@ -66,6 +73,7 @@ Das Set an Markdown-Befehlen wurde von Dritten erweitert. [[Vuepress]] können z
 Um Inhalte speziell zu markieren gibt es diese Optionen.
 
 Markup:
+
 ```
 ::: tip
 Info
@@ -95,6 +103,7 @@ GitHub ist eine Kollaborationsplattform zur Entwicklung von Software. Es erweite
 Aufgaben können auf GitHub direkt bearbeitet werden.
 
 Markup:
+
 ```
 - [ ] foo
 - bar
@@ -102,9 +111,10 @@ Markup:
 - [] bam <~ not working
   - [ ] bim
   - [ ] lim
-````
+```
 
 Output:
+
 - [ ] foo
 - bar
 - [x] baz
@@ -114,12 +124,13 @@ Output:
 
 ### Mermaid
 
-Mit [mermaid](https://mermaid-js.github.io/mermaid/) erstellt man  Diagramme basierend auf Markdown-inspierten Textdefinitionen.
+Mit [mermaid](https://mermaid-js.github.io/mermaid/) erstellt man Diagramme basierend auf Markdown-inspierten Textdefinitionen.
 
 #### Flowchart
 
 Markup:
-~~~
+
+````
 ```mermaid
 graph TD;
     A-->B;
@@ -127,7 +138,7 @@ graph TD;
     B-->D;
     C-->D;
 ```
-~~~
+````
 
 Output:
 

@@ -5,6 +5,7 @@ kind:
   - reference
 section: template
 ---
+
 # Template Meeting
 
 ````markdown
@@ -14,14 +15,17 @@ participants:
 {{VALUE:participants}}
 kind: meeting
 ---
+
 ```js quickadd
 const enteredParticipants = [];
 let participant = "";
 
 // Keep prompting until user enters empty string
 while (participant !== null) {
-  participant = await this.quickAddApi.inputPrompt("Enter participant name (leave empty to finish):");
-  
+  participant = await this.quickAddApi.inputPrompt(
+    "Enter participant name (leave empty to finish):",
+  );
+
   if (participant && participant.trim() !== "") {
     enteredParticipants.push(participant.trim());
   } else {
@@ -29,17 +33,18 @@ while (participant !== null) {
   }
 }
 
-const participantsYaml = enteredParticipants.map(p => `  - ${p}`).join('\n');
+const participantsYaml = enteredParticipants.map((p) => `  - ${p}`).join("\n");
 this.variables.participants = participantsYaml;
 ```
+
 # {{NAME}}
 
 ## Input
 
 Folgende Themen werden besprochen:
 
-* ==Punkt 1==
-* ==Punkt 2==
+- ==Punkt 1==
+- ==Punkt 2==
 
 ## Notizen
 

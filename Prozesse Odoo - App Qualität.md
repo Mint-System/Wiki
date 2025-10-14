@@ -5,7 +5,9 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Odoo - App Qualität
+
 Installation Modul Qualität `quality_control`.
 
 ## Installation
@@ -13,4 +15,5 @@ Installation Modul Qualität `quality_control`.
 MRP Erweiterungen nach Bedarf installieren.
 
 Auswahl:
-* MRP-Funktionen für Qualitätskontrolle `quality_mrp_workorder`
+
+- MRP-Funktionen für Qualitätskontrolle `quality_mrp_workorder`

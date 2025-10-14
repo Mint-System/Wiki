@@ -4,6 +4,7 @@ tags:
 kind: howto
 section: product
 ---
+
 # Docker - Move Docker data directory to new location
 
 The standard data directory used for docker is `/var/lib/docker`, and since this directory will store all your images, volumes, etc. it can become quite large.
@@ -26,8 +27,8 @@ sudo vi /etc/docker/daemon.json
 And set the data root:
 
 ```json
-{ 
-   "data-root": "/mnt/sdb/docker"
+{
+  "data-root": "/mnt/sdb/docker"
 }
 ```
 

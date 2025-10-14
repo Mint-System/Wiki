@@ -5,9 +5,10 @@ kind:
   - explain
 section: product
 ---
+
 # Odoo Hosting - Off-Premise
 
-Mit Mint System installiert Odoo auf einem Server bei einem ICT-Partner des Kunden. 
+Mit Mint System installiert Odoo auf einem Server bei einem ICT-Partner des Kunden.
 
 ## Systemanforderungen
 
@@ -24,8 +25,8 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 ### Software
 
 **Betriebssystem**: Die Linux-basierten Betriebsysteme Ubuntu, Debian, CentOS werden unterstützt.  
-**Container-Support**: Die Odoo Webapplikation wird als Docker-Container betrieben.   
-**Berechtigungen**: Zur Installation der benötigten Software werden Root-Rechte benötigt.  
+**Container-Support**: Die Odoo Webapplikation wird als Docker-Container betrieben.  
+**Berechtigungen**: Zur Installation der benötigten Software werden Root-Rechte benötigt.
 
 ### Zugriff
 

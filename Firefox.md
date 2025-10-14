@@ -5,13 +5,14 @@ kind:
   - reference
 section: tool
 ---
+
 # Firefox
 
 Website: <https://www.mozilla.org/de/firefox/>
 
 Weiterführende Links:
 
-* [[Firefox Handbuch]]
+- [[Firefox Handbuch]]
 
 ## Erweiterung
 

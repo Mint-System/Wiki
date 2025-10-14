@@ -5,6 +5,7 @@ kind:
   - reference
 section: template
 ---
+
 # Aufwandsschätzung
 
 Übersetzung: [[Estimation]]
@@ -24,7 +25,7 @@ Der Aufwand für die Projektphasen wurde wie folgt geschätzt:
 |                                    |                         |       |
 | **Odoo Implementation**            |                         |    16 |
 |                                    |                         |       |
-| Odoo  Entwicklung                  |                       8 |       |
+| Odoo Entwicklung                   |                       8 |       |
 | **Entwicklung**                    |                         |     8 |
 |                                    |                         |       |
 | **Implementation und Entwicklung** |                         |    24 |

@@ -5,7 +5,9 @@ kind:
   - explain
 section: policy
 ---
+
 # Richtlinie - Projektmanagement
+
 Übersetzung: [[Policy Project Management]]
 
 Die Umsetzung von Projekten unterliegt bestimmten Richtlinien.

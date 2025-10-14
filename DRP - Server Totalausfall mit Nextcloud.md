@@ -5,6 +5,7 @@ kind:
   - howto
 section: infrastructure
 ---
+
 # DRP - Server Totalausfall mit Nextcloud
 
 Der Managed Server eines Kunden ist nicht mehr verfügbar und kann nicht wiederhergestellt werden. Auf dem Server ist Nextcloud installiert und somit kann der Kunde nicht mehr Arbeiten.

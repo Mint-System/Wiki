@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Support
 
 Die Mint System bietet ein [[Technischer Support]].

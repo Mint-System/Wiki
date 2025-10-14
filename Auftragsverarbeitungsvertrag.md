@@ -7,6 +7,7 @@ kind:
 ---
 
 Quelle: [Schärer Rechtsanwälte](https://www.5001.ch/)
+
 # Auftragsverarbeitungsvertrag
 
 zwischen
@@ -18,11 +19,12 @@ und
 ==NAME, ADRESSE==, (nachfolgend "Dienstleister"),
 
 zusammen "die Parteien".
+
 ## Präambel
 
 Der Dienstleister erbringt für den Verantwortlichen gestützt auf ein separates Vertragsverhältnis Dienstleistungen ==als Internet Service Provider (ISP) in den Bereichen WebHosting, Mail-Services und DNS-Services==.
 
-Dieser Vertrag ermöglicht es den Parteien, ihren Verpflichtungen nach dem anwendbaren  Datenschutzrecht, insbesondere nach Art. 28 DSGVO, nachzukommen, wenn der Dienstleister für den Verantwortlichen Personendaten bearbeitet.
+Dieser Vertrag ermöglicht es den Parteien, ihren Verpflichtungen nach dem anwendbaren Datenschutzrecht, insbesondere nach Art. 28 DSGVO, nachzukommen, wenn der Dienstleister für den Verantwortlichen Personendaten bearbeitet.
 
 ## 1. Angaben zur Datenverarbeitung und Dauer des Auftrags
 
@@ -91,6 +93,7 @@ Kopien oder Duplikate der Daten dürfen nur mit Zustimmung des Verantwortlichen 
 Nach Abschluss der Erbringung der Verarbeitungsleistung muss der Dienstleister sämtliche in seinen Besitz gelangten Unterlagen, erstellte Verarbeitungs- und Nutzungsergebnisse sowie Datenbestände, die im Zusammenhang mit dem Verarbeitungsvertrag stehen, nach Wahl des Verantwortlichen entweder löschen oder diesem zurückgeben; vorbehalten bleibt eine gesetzliche Aufbewahrungspflicht (vgl. Abs. 2 hiervor). Gleiches gilt für Test- und Ausschussmaterial. Das Protokoll der Löschung ist auf Anforderung vorzulegen und dauerhaft zu speichern.
 
 Dokumentationen, die dem Nachweis der auftrags- und ordnungsgemäßen Datenverarbeitung dienen, sind durch den Dienstleister entsprechend der jeweiligen Aufbewahrungsfristen über das Vertragsende hinaus aufzubewahren. Er kann sie zu seiner Entlastung bei Vertragsende dem Verantwortlichen übergeben.
+
 ## 8. Weitere Bestimmungen
 
 Eine gesonderte Vergütung oder Kostenerstattung an den Dienstleister aufgrund der ihm gestützt auf diesen Vertrag auferlegten Pflichten (und damit zusammenhängenden Kostenfolgen) erfolgt nicht.
@@ -129,7 +132,7 @@ Datum: ==TT/MM/JJJJ==
 
 <br/>
 
-Unterauftragsverarbeiter:  ==NAME==
+Unterauftragsverarbeiter: ==NAME==
 
 Name: ==Vorname, Nachname==
 

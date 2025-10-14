@@ -4,6 +4,7 @@ tags:
 lang: en
 kind: reference
 ---
+
 # Odoo Build
 
 Website: <https://odoo.build>\
@@ -21,5 +22,5 @@ Vercel Domains:
 
 ## HowTos
 
-* [[Odoo Build - Create an OCA module]]
-* [[Odoo Build Troubleshooting]]
+- [[Odoo Build - Create an OCA module]]
+- [[Odoo Build Troubleshooting]]

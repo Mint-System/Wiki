@@ -6,7 +6,8 @@ kind:
 lang: en
 section: tool
 ---
-# Git Handbook 
+
+# Git Handbook
 
 ## Push until specific commit
 

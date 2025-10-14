@@ -3,6 +3,7 @@ kind:
   - explain
 section: vendor
 ---
+
 # Infomaniak Migration
 
 ## Beschreibung

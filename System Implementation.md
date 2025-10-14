@@ -3,6 +3,7 @@ tags:
   - Definition
 kind: explain
 ---
+
 # System Implementation
 
 Als Unternehmen implementieren wir das Management-System Odoo bei Kunden. Diese Art von System-Implementation lässt sich allgemein darstellen. Die folgende Grafik zeigt wie das System Odoo im Unternehmen implementiert wird:
@@ -16,8 +17,8 @@ Die Systemgrenzen definieren die Leistungsgrenzen der Systeme. Bei der Implement
 
 ## Anpassung Prozesse
 
-Im wesentlichen erfolgt hier eine Prozessoptimierung. Es werden bestehende Prozesse analysiert und dokumentiert. Die Prozessdefinition wird iterativ verbessert, umgesetzt und validiert. 
+Im wesentlichen erfolgt hier eine Prozessoptimierung. Es werden bestehende Prozesse analysiert und dokumentiert. Die Prozessdefinition wird iterativ verbessert, umgesetzt und validiert.
+
 ## Erweiterung Funktionalität
 
 Die Erweiterung der Systemfunktionalität hängt von der Flexibilität des Systems ab. Systeme wie Odoo sind hochflexibel. Sie können mittels Customizing und Entwicklung beliebig erweitert werden.
-

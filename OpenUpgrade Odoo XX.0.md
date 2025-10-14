@@ -118,6 +118,7 @@ Fix filestore permissions.
 docker exec -u root "$CONTAINER" chown -R odoo:odoo "/var/lib/odoo/filestore/$DATABASE"
 docker exec -u root "$CONTAINER" chown -R odoo:odoo "/var/lib/odoo/sessions"
 ```
+
 ## Cleanup
 
 Disable the OpenUpgrade env vars.

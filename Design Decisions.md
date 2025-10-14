@@ -4,6 +4,7 @@ tags:
 kind: tutorial
 section: methodology
 ---
+
 # Design Decisions
 
 Technische und komplexe Fragestellungen werden hier systematisch bewertet und beantwortet.
@@ -49,13 +50,15 @@ Auf dem [GitHub-Repo](https://github.com/odoo/enterprise) von Odoo Enterprise is
 Jedes Modul soll versioniert als Zip-Datei mit [[Ansible]] auf dem Sever installiert werden.
 
 Pro:
-* Kontrolle der Modul-Versionen
-* Kunde kann nicht nach Bedarf Apps installieren
-* Das Auto-Install-Flag in den Modulen kann deaktivert werden
-* Entwicklung Verständnis für die Modul-Struktur
+
+- Kontrolle der Modul-Versionen
+- Kunde kann nicht nach Bedarf Apps installieren
+- Das Auto-Install-Flag in den Modulen kann deaktivert werden
+- Entwicklung Verständnis für die Modul-Struktur
 
 Con:
-* Hoher Verwaltungsaufwand der Pakete
-* Kunde erhält nicht den gesamten Code
+
+- Hoher Verwaltungsaufwand der Pakete
+- Kunde erhält nicht den gesamten Code
 
 ### Lösungsvorschlag 2: Git Repo

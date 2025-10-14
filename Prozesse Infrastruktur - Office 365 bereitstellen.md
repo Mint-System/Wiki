@@ -5,14 +5,15 @@ tags:
   - Prozess
 section: process
 ---
+
 # Prozesse Infrastruktur - Office 365 bereitstellen
 
 ## Odoo-Postfach einrichten
 
 Arbeitsschritte:
 
-* Festlegen Name des Postfachs
-* Zusammenstellen der benötigten Informationen und Mail an Kunde
+- Festlegen Name des Postfachs
+- Zusammenstellen der benötigten Informationen und Mail an Kunde
 
 ```
 Damit Odoo mit Office 365 E-Mails versenden kann, muss Odoo als OAuth-App registriert werden: https://www.odoo-wiki.org/settings-oauth.html#odoo-als-oauth-app-auf-azure-registrieren

@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Wissensdomäne
 
 Wissensbereich eines Mitarbeitenden.

@@ -5,18 +5,19 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Lager
 
 Tätigkeiten:
 
-* Alle Lager und Lagerorte einrichten
-* Die Lager-Routen definieren
-* Die Lager beschriften
-* Den Verpackungs-Vorgang einrichten
-* Das Barcode Scanning aktivieren
-* Vorgang zur Identifikation und Dokumentation von Gefahrenstoffen definieren
-* Spezielle Lagerbedingungen umsetzen
-* Die Prüfmittelüberwachung implementieren
+- Alle Lager und Lagerorte einrichten
+- Die Lager-Routen definieren
+- Die Lager beschriften
+- Den Verpackungs-Vorgang einrichten
+- Das Barcode Scanning aktivieren
+- Vorgang zur Identifikation und Dokumentation von Gefahrenstoffen definieren
+- Spezielle Lagerbedingungen umsetzen
+- Die Prüfmittelüberwachung implementieren
 
 Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
@@ -31,7 +32,7 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 **Einrichtungs-Schema**
 
-- Werden verschiedene Lagerorte  verwendet? ⭐
+- Werden verschiedene Lagerorte verwendet? ⭐
 - Nach welchem Schema werden die Lagerorte definiert? ⭐
 
 **Beschriftungs-Schema**
@@ -68,9 +69,9 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 - Wie wird Material für den Produktionsprozess bereitgestellt?
 
- **Anzahl Schritte für ausgehende Lieferungen**
- 
- [Erklärung im Wiki](https://www.odoo-wiki.org/best-practice-lager-konfigurieren.html#standard-routen-fur-lieferungen)
+  **Anzahl Schritte für ausgehende Lieferungen**
+
+[Erklärung im Wiki](https://www.odoo-wiki.org/best-practice-lager-konfigurieren.html#standard-routen-fur-lieferungen)
 
 - In wievielen Schritten werden ausgehende Lieferungen abgehandelt?
 
@@ -96,7 +97,7 @@ Ergebnis: Die Lager sind eingerichtet, beschriftet und alle Routen programmiert.
 
 **Verpackung**
 
-- Wird die Funktion *Verpacken* verwendet?
+- Wird die Funktion _Verpacken_ verwendet?
 
 ## Gefahrenstoffe organisieren
 

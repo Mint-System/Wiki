@@ -5,13 +5,14 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Login
 
 Tätigkeiten:
 
-* Odoo mit LDAP integrieren
-* Odoo mit OAuth integrieren
-* Vorlage für neue Benutzer konfigurieren
+- Odoo mit LDAP integrieren
+- Odoo mit OAuth integrieren
+- Vorlage für neue Benutzer konfigurieren
 
 Ergebnis: Benutzer können sich via Login-Provider in Odoo einloggen.
 
@@ -19,7 +20,5 @@ Ergebnis: Benutzer können sich via Login-Provider in Odoo einloggen.
 
 **Provider**
 
-* Haben Sie einen Login-Provider im Einsatz?
-* Welches Protokoll verwendet der Login-Provider?
-
-
+- Haben Sie einen Login-Provider im Einsatz?
+- Welches Protokoll verwendet der Login-Provider?

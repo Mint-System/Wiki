@@ -5,13 +5,14 @@ kind:
   - explain
 section: organisation
 ---
+
 # Support Engineer
 
 ## Wer wir sind
 
 Wir meinen es ernst mit Open Source. Unsere Produkte, die Systeme auf unseren Computern, unser Code ist alles Open Source - sogar unser Wissen!
 Mint System ist der Überzeugung, dass nur **Open Source Software** (OSS) den Zahn der Zeit übersteht und sich daher jede Investition in OSS auszahlt.
-Wir sind als **Remote-First** Unternehmen gestartet und begleiten heute Unternehmen bei der Integration von Software-Lösungen. Inbesondere gefällt uns das **ERP-System Odoo**. 
+Wir sind als **Remote-First** Unternehmen gestartet und begleiten heute Unternehmen bei der Integration von Software-Lösungen. Inbesondere gefällt uns das **ERP-System Odoo**.
 Bei der Mint System arbeiten erfahrene Leute, die es kaum erwarten können die nächste Herausforderung anzupacken.
 
 ## Wo wir stehen
@@ -38,10 +39,10 @@ Bei der Mint System bist du nicht nur MitarbeiterIn, sondern **GestalterIn**. Du
 
 Schreib eine Mail an <jobs@mint-system.ch> und teile uns Folgendes mit:
 
-* Wo stehst du gerade beruflich und im Leben?
-* Welche Erwartungen an die Stelle hast du?
-* Was kannst du bereits und was möchtest du lernen?
-* Wo und in welcher Funktion hast du gearbeitet und vor allem was hat dir besonders Spass gemacht?
+- Wo stehst du gerade beruflich und im Leben?
+- Welche Erwartungen an die Stelle hast du?
+- Was kannst du bereits und was möchtest du lernen?
+- Wo und in welcher Funktion hast du gearbeitet und vor allem was hat dir besonders Spass gemacht?
 
 Dazu gehört ein Lebenslauf, aber kein Motivationsschreiben.
 

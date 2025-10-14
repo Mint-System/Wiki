@@ -3,6 +3,7 @@ tags:
   - Definition
 section: tool
 ---
+
 # Emacs
 
 Website: <https://www.gnu.org/software/emacs/>

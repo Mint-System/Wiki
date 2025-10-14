@@ -10,7 +10,7 @@ kind:
 
 # Managed Server
 
-Der *Managed Server* ist ein Produkt der Mint System.
+Der _Managed Server_ ist ein Produkt der Mint System.
 
 ## Leistungsbeschreibung
 
@@ -66,4 +66,3 @@ Die Installation und Aufrechterhaltung der Betriebsbereitschaft von Applikatione
 
 [[Managed Server Kalkulation]]\
 [[Managed Server Konfiguration]]
-

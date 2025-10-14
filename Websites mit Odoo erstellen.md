@@ -5,9 +5,11 @@ kind:
   - explain
 section: blog
 ---
+
 ![[Odoo Website Builder.png]]
 
 # Websites mit Odoo erstellen
+
 > Der Website-Builder von Odoo im Detail.
 
 Odoo ist nicht nur ein sehr leistungsfähiges Management-System, sondern auch ein ausgezeichneter Website-Builder. Mit der Odoo Website-App können Sie ganz natürlich ihre Unternehmenswebsite gestalten. Viele Features wie Blogs oder Webshops sind "out-of-the-box" enthalten. In diesem Beitrag möchten wir zeigen, was alles mit der Odoo Website-App möglich ist.
@@ -57,7 +59,7 @@ Nicht nur das Erstellen von Inhalten geht blitzschnell, sondern auch die Gestalt
 
 Offizielle Beispiele sind [hier aufgelistet](https://www.odoo.com/de_DE/website-builder-showcase) und hier sind Websites von Kunden:
 
-* <https://shop.stiärbiär.ch/> Webshop von Kleinbrauerei Stiär Biär AG
-* https://www.microstech.com/ Produziert Kosmetik-Produkte
-* https://www.gelso.ch/ Portal für die KMU-Industrie
-* Und natürlich diese Website :)
+- <https://shop.stiärbiär.ch/> Webshop von Kleinbrauerei Stiär Biär AG
+- https://www.microstech.com/ Produziert Kosmetik-Produkte
+- https://www.gelso.ch/ Portal für die KMU-Industrie
+- Und natürlich diese Website :)

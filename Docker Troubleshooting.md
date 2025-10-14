@@ -5,6 +5,7 @@ kind:
   - howto
 section: product
 ---
+
 # Odoo Troubleshooting
 
 ## Docker containers not available
@@ -56,7 +57,6 @@ Clear the container logs:
 ```bash
 docker ps -q | xargs -I {} sh -c 'truncate -s 0 $(docker inspect --format="{{.LogPath}}" {})'
 ```
-
 
 ## Unexpected keyword
 

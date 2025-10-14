@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Personal - Offboarding
 
 ## Personal
@@ -21,7 +22,7 @@ Guten Tag
 
 Wir werden in Kürze ihr Mint System Login und Zugriffe auf Mint System Dienste deaktiveren.
 
-Wir bitten Sie Unternehmens- und Projekt-Daten, sofern diese nicht öffentlich oder privat sind, von ihren Geräten zu entfernen. Insbesondere bitten wir Sie die KeePass-Datenbank und den Datenbank-Schlüssel zu löschen. Dazu gehören auch Zugangsdaten, die vom Browser gspeichert werden. 
+Wir bitten Sie Unternehmens- und Projekt-Daten, sofern diese nicht öffentlich oder privat sind, von ihren Geräten zu entfernen. Insbesondere bitten wir Sie die KeePass-Datenbank und den Datenbank-Schlüssel zu löschen. Dazu gehören auch Zugangsdaten, die vom Browser gspeichert werden.
 
 In einem zweiten Schritt werden ihre Daten in unseren Systemen archivieren und ggf. entfernen.
 
@@ -29,6 +30,7 @@ Wir danken für die Kooperation.
 
 Das Mint System Team
 ```
+
 ## Technisch
 
 ### Logins Mint System deaktivieren

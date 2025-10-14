@@ -6,6 +6,7 @@ kind:
   - reference
 section: template
 ---
+
 # Template Report on Odoo Customization
 
 ```markdown
@@ -14,6 +15,7 @@ date:
 autor:
 kind: report
 ---
+
 # Report on Odoo Customization
 
 The report is for the Odoo project <https://example.com>.
@@ -38,7 +40,7 @@ Check if the custom modules follow some good practice and if the version is trac
 
 **Comment**
 
-### Custom  Fields
+### Custom Fields
 
 Lookup field names that start with `x_studio` and are of type base fields.
 

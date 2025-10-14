@@ -5,20 +5,22 @@ section: training
 kind:
   - tutorial
 ---
+
 # Odoo Schulung Finanzen
 
 Das sind einfache Schlungsunterlagen für die Odoo Finanzen-App.
 
 ## Ziele
 
-* Das Konzept der Odoo-Buchhaltung ist verstanden
-* Eine Buchhaltung kann eröffnet, geführt und abgeschlossen werden
-* Der Zahlungsprozess mit Odoo ist bekannt
-* Berichte wie Bilanz und Erfolgsrechnung können erstellt werden
+- Das Konzept der Odoo-Buchhaltung ist verstanden
+- Eine Buchhaltung kann eröffnet, geführt und abgeschlossen werden
+- Der Zahlungsprozess mit Odoo ist bekannt
+- Berichte wie Bilanz und Erfolgsrechnung können erstellt werden
 
 ## Programm
 
 Das Schulungsprogramm sieht wie folgt aus:
+
 1. Betrachten Odoo Finanzen und desse Konfigurationen
 2. Konfigurieren Kontenplan, Steuern und Perioden
 3. Anpassen Bank-Journal mit Bankkonto
@@ -32,11 +34,11 @@ Das Schulungsprogramm sieht wie folgt aus:
 
 ## Vorbereitung
 
-* Testumgebung ist bereit
-* Daten zu Bankkonto sind bekannt
-* Beispiel für Ein- und Ausgangsrechnungen vorhanden
-* Kontenplan ist definiert
-* XML-Datei für Import Kontoauszug generiert
+- Testumgebung ist bereit
+- Daten zu Bankkonto sind bekannt
+- Beispiel für Ein- und Ausgangsrechnungen vorhanden
+- Kontenplan ist definiert
+- XML-Datei für Import Kontoauszug generiert
 
 ## Inhalt
 
@@ -142,13 +144,13 @@ Betrachten Sie die Buchungszeilen der Zahlung.
 
 ## Diskussion
 
-* Berichte für Revisionsstelle
-* Lieferantenrechnungen digitalisieren
-* Ausblenden Rechnungen
-* Import Lohnbuchungen
+- Berichte für Revisionsstelle
+- Lieferantenrechnungen digitalisieren
+- Ausblenden Rechnungen
+- Import Lohnbuchungen
 
 ## Weiterführende Inhalte
 
 Englisch:
 
-* [Odoo Kurse - Accounting](https://www.odoo.com/de_DE/slides/accounting-19)
+- [Odoo Kurse - Accounting](https://www.odoo.com/de_DE/slides/accounting-19)

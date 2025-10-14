@@ -6,6 +6,7 @@ lang: en
 kind:
   - explain
 ---
+
 # Develope an Odoo module
 
 When developing an Odoo module the best way to get started is by adopting the [[OCA]] and [[Odoo S.A.]] best practices.
@@ -34,10 +35,8 @@ The OCA modules are bootstraped from <https://github.com/OCA/oca-addons-repo-tem
 
 ## Odoo Linting
 
-The Copier template ships a [[pre-commit]] configuration, that uses [[pylint]] for linting. Pylint is extended with <https://github.com/OCA/pylint-odoo>. 
+The Copier template ships a [[pre-commit]] configuration, that uses [[pylint]] for linting. Pylint is extended with <https://github.com/OCA/pylint-odoo>.
 
 ## Python Linting
 
 The linting uses tool like [[prettier]]. The template ships with a lot more quality tools. The config files for these tools are stored in the root of each repo and branch. Here is an example <https://github.com/OCA/sale-workflow/blob/16.0>.
-
-

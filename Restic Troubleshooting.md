@@ -5,6 +5,7 @@ kind:
   - howto
 section: product
 ---
+
 # Restic Troubleshooting
 
 ## Snapshots
@@ -16,7 +17,6 @@ section: product
 ```
 Fatal: config cannot be loaded: unsupported repository version.
 ```
-
 
 **Cause**
 

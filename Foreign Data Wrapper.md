@@ -2,6 +2,7 @@
 kind: reference
 section: dev
 ---
+
 # Foreign Data Wrapper
 
 Postgres Foreign Data Wrapper allows to connect to external data sources.

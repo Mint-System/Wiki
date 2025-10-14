@@ -5,6 +5,7 @@ kind:
   - howto
 section: infrastructure
 ---
+
 # DRP - Server Totalausfall mit Odoo
 
 Der Managed Server eines Kunden ist nicht mehr verfügbar und kann nicht wiederhergestellt werden. Auf dem Server ist Odoo installiert und somit kann der Kunde nicht mehr Arbeiten.
@@ -25,7 +26,7 @@ Aus Tests dauert diese Ausführung ca. 1 Stunde.
 
 Beim [[Hosting Provider]] einen neuen Server bereitstellen. Dabei sicherstellen, dass dasselbe [[Betriebssystem]] ausgewählt wird.
 
-Einen temporären Namen mit der korrekten Subdomain wählen `erp.janikv.dev`. Die Domain sollte bereits bei [[Vercel]] registriert sein.  DNS-Eintrag erstellen und Verbindung testen.
+Einen temporären Namen mit der korrekten Subdomain wählen `erp.janikv.dev`. Die Domain sollte bereits bei [[Vercel]] registriert sein. DNS-Eintrag erstellen und Verbindung testen.
 
 ### Host-Konfigurationen umleiten
 

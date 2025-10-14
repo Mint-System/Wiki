@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Web Analytics
 
 We use [[Plausible]] for Webanalytics.

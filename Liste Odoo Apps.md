@@ -4,6 +4,7 @@ section: bases
 ---
 
 # Odoo Apps
+
 | file.name                                       | kind      | section       |
 | ----------------------------------------------- | --------- | ------------- |
 | [[Odoo App Abwesenheitszeiten]]                 | explain   | communication |

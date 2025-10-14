@@ -7,7 +7,7 @@ section: methodology
 
 ## Beschreibung
 
-Die Ressourcen sind Mitarbeitende der Mint System. Die Ressourcenplanung erfolgt Quartalsweise. Ziel ist es die Stellenprozente auf die laufenden Projekt aufzuteilen. 
+Die Ressourcen sind Mitarbeitende der Mint System. Die Ressourcenplanung erfolgt Quartalsweise. Ziel ist es die Stellenprozente auf die laufenden Projekt aufzuteilen.
 
 ## Teilnehmer
 

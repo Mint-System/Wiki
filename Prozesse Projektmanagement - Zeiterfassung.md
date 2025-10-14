@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Projektmanagement - Zeiterfassung
 
 Stundenrapport auf externe und interne Projekte.
@@ -23,4 +24,4 @@ Wenn der Zeitaufwand nicht verrechnet, aber ausgewiesen soll, gibt es zur Rappor
 
 ## Verrechenbaren Stunden anzeigen
 
- Navigiere nach *Projekt > Übersicht > Zeiterfassung > Favoriten > Verrechnung*. Dann zeigt es dir alle validierten verrechenbaren Stunden an, die noch nicht verrechnet wurden.
+Navigiere nach _Projekt > Übersicht > Zeiterfassung > Favoriten > Verrechnung_. Dann zeigt es dir alle validierten verrechenbaren Stunden an, die noch nicht verrechnet wurden.

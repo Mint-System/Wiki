@@ -5,20 +5,21 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Personal
 
 Tätigkeiten:
 
-* Adressen des Personals erfassen
-* Arbeitsverträge einrichten
-* Organisation und Genehmigungsprozess abbilden
-* Abteilungen erfassen inklusive der Hierarchie
-* Die Adressen des Personals importieren
-* Mitarbeiter erfassen und mit Odoo-Benutzer verknüpfen
-* Rollen und Berechtigungen erteilen
-* Arbeitszeiten festlegen
-* Die Funktions- und Kompetenzmatrix einrichten
-* Die Schulungsplanung und -Überwachung definieren
+- Adressen des Personals erfassen
+- Arbeitsverträge einrichten
+- Organisation und Genehmigungsprozess abbilden
+- Abteilungen erfassen inklusive der Hierarchie
+- Die Adressen des Personals importieren
+- Mitarbeiter erfassen und mit Odoo-Benutzer verknüpfen
+- Rollen und Berechtigungen erteilen
+- Arbeitszeiten festlegen
+- Die Funktions- und Kompetenzmatrix einrichten
+- Die Schulungsplanung und -Überwachung definieren
 
 Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 
@@ -40,7 +41,7 @@ Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 
 **Prozess**
 
-- Ist eine Onboarding-Checklisten definiert?  ⭐
+- Ist eine Onboarding-Checklisten definiert? ⭐
 - Halten Sie Probezeitgespräche fest?
 
 **Konfiguration**
@@ -51,7 +52,7 @@ Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 
 **Umfragen**
 
-- Werden Mitarbeiterumfragen durchgeführt?  ⭐
+- Werden Mitarbeiterumfragen durchgeführt? ⭐
 
 **Mitarbeitergespräche**
 
@@ -63,7 +64,7 @@ Ergebnis: Die Personaldaten der Mitarbeitenden sind erfasst.
 
 **Planung, Durchführung, Nachweise**
 
-- Gibt es Weiterbildungsprogramme für Mitarbeitende?  ⭐
+- Gibt es Weiterbildungsprogramme für Mitarbeitende? ⭐
 - Führen Sie interne Schlungen durch?
 - Werden Schulungsnachweise erstellt und abgelegt?
 

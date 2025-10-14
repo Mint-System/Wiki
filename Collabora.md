@@ -4,6 +4,7 @@ tags:
 kind:
   - reference
 ---
+
 # Collabora
 
 Online Dokumentbearbeitung.

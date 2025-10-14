@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Infrastruktur - Serverwartung
 
 Wartung eines Servers.
@@ -13,7 +14,7 @@ Wartung eines Servers.
 
 Arbeitsschritte:
 
-* Mitteilung an Kunde via Odoo Dialog oder E-Mail
+- Mitteilung an Kunde via Odoo Dialog oder E-Mail
 
 ```
 Guten Tag

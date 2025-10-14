@@ -5,11 +5,12 @@ kind:
   - howto
 section: vendor
 ---
+
 # Infomaniak Handbuch
 
 ## 2-Faktor-Authentisierung forcieren
 
-Im Manager navigieren Sie nach *Einstellungen > Sicherheit*. Aktivieren Sie die Option *Obligatorische zweistufige Überprüfung (2FA)*.
+Im Manager navigieren Sie nach _Einstellungen > Sicherheit_. Aktivieren Sie die Option _Obligatorische zweistufige Überprüfung (2FA)_.
 
 ## Autoresponder einschalten
 
@@ -21,9 +22,9 @@ Infomaniak generiert automatisch eine Abwesenheitsnachricht.
 
 ## VPS Memory anpassen
 
-In der Produktverwaltung wählen Sie *Cloud Computing > VPS* und den entsprechenden Server.
+In der Produktverwaltung wählen Sie _Cloud Computing > VPS_ und den entsprechenden Server.
 
-ImTab *Informationen* klicken Sie bei den Spezifikationen auf *Bearbeiten*.
+ImTab _Informationen_ klicken Sie bei den Spezifikationen auf _Bearbeiten_.
 
 ![[Infomaniak VPS.png]]
 

@@ -1,15 +1,14 @@
 ---
-
 excalidraw-plugin: parsed
 tags: [excalidraw]
-
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 Helm ^cE8HDQTu
 
 kubectl ^GbCxSOph
@@ -31,6 +30,7 @@ product.product ^xkUKJRFI
 sale.order.line ^BFg6ciDo
 
 cart with:
+
 - project name
 - cluster
 - consulting partner
@@ -50,7 +50,7 @@ define available consulting partners ^IfOV2BcH
 
 helm.chart ^zWAWGcrU
 
-new rank type for provider 
+new rank type for provider
 and consulting partner ^O05HWHpt
 
 res.partner ^Nn21nOTD
@@ -66,7 +66,9 @@ kubectl.namespace ^iRrpSSfc
 kubectl.namespace ^iYMU2yHO
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGAAYEmjoghH0EDihmbgBtcDBQMBKIEm4IXABVAGYAcQBOGoAOAGV6ADZnBoAZDosoHrqACQB9VJLIWEQK3FJSNip+Usxu
 
@@ -288,4 +290,5 @@ ErTbU6NMdT2PCPlzTU0/oBHYmskok9TO0wtMZABoK9VLj4YLYajEk02tPFkfQYFOfVj07tP6Ar6tqUgE
 
 OLMqwsNo8AAAlGaByoygIWBzAFUYLO4AIsxl28AGs/o1izbkHLN4zq0zQwxIPGIygVKclAj0IAcqKWBCoLY/Ybszr0LxVFKhAFwa8VpXRPEhgMqKLL/+jvu/DCMmgNkqYwzAK0Aw4cAMzMk0bM5ZGczYoIyiMAl8GwAcgGM3tQKZu2NshA4QygYDfTaMEGNXR2YAYDn2wQJjDKaaVehY7QBczHNxz+2B+EJcX0FI3hASkAlAgACUEAA=
 ```
+
 %%

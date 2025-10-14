@@ -3,6 +3,7 @@ section: dev
 kind:
   - reference
 ---
+
 # Meilisearch
 
 Website: <https://www.meilisearch.com/>

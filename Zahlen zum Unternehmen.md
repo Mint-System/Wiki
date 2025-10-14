@@ -27,4 +27,4 @@ Wir sind nun mehr als **3** Jahre alt.
 
 **x** Benutzer-Lizenzen verkauf.
 
-**200** Odoo Apps 
+**200** Odoo Apps

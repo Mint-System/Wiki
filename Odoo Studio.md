@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Odoo Studio
 
 ## HowTos
@@ -14,7 +15,7 @@ Im Dokument `odoo/addons/web/views/report_templates.xml` findet man alle Bericht
 
 Die `templates` können als Vorlagen für eigene Anpassungen verwendet werden.
 
-Um einfach neue Berichtsvorlagen anzupassen. Öffnet man den Bericht *Vorschau externer Bericht* mit Odoo Studio, fügt eine Anpassung ein und öffnet die XML-Ansicht des Berichts. Nun kann im Live-Code-Modus Anpassungen einfügen und erhält dazu die Vorschau.
+Um einfach neue Berichtsvorlagen anzupassen. Öffnet man den Bericht _Vorschau externer Bericht_ mit Odoo Studio, fügt eine Anpassung ein und öffnet die XML-Ansicht des Berichts. Nun kann im Live-Code-Modus Anpassungen einfügen und erhält dazu die Vorschau.
 
 Am Ende muss man die Anpassung als Odoo-Modul speichern und zur Installation bereitstellen.
 

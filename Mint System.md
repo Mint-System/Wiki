@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Mint System
 
 Unternehmensname ohne GmbH.

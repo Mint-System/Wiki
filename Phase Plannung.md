@@ -5,12 +5,13 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Plannung
 
 Tätigkeiten:
 
-* Arbeitsorganisation und Ressourcen erfassen
-* Kapazitätsplanung durchführen
+- Arbeitsorganisation und Ressourcen erfassen
+- Kapazitätsplanung durchführen
 
 Ergebnis: Projektaufgaben können für Mitarbeitende anhand Kapazitäten geplant werden.
 
@@ -18,23 +19,23 @@ Ergebnis: Projektaufgaben können für Mitarbeitende anhand Kapazitäten geplant
 
 **Personal**
 
-* Gibt es klare Arbeitszeiten für die einzelnen Mitarbeitenden? ⭐
-* Wie werden Abwesenheiten kommuniziert?
+- Gibt es klare Arbeitszeiten für die einzelnen Mitarbeitenden? ⭐
+- Wie werden Abwesenheiten kommuniziert?
 
 **Material**
 
-* Werden zur Verrichtung der Arbeiten Werkzeuge / Materialen benötigt?
+- Werden zur Verrichtung der Arbeiten Werkzeuge / Materialen benötigt?
 
 ## Projekte planen
 
 **Aufträge**
 
-* Erfolgt die Ressourcenplanung auf Ebene Projekte oder Aufgaben? ⭐
+- Erfolgt die Ressourcenplanung auf Ebene Projekte oder Aufgaben? ⭐
 
 **Rollen**
 
-* Ist die Projektleitung und Ressourcenplanung rollenmässig getrennt?
+- Ist die Projektleitung und Ressourcenplanung rollenmässig getrennt?
 
 **Kommunikation**
 
-* Wie wird die Ressourcenplanung kommuniziert?
+- Wie wird die Ressourcenplanung kommuniziert?

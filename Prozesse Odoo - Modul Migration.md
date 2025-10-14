@@ -5,37 +5,38 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Odoo - Modul Migration
 
 ## Submodule-Branch initialisieren
 
 Arbeitsschritte:
 
-* Navigation in das Submodule 
+- Navigation in das Submodule
 
 ```bash
 cd addons/$REPO
 ```
 
-* Neuer Branch erstellen
+- Neuer Branch erstellen
 
 ```bash
 git switch --orphan $TARGET_VERSION
 ```
 
-* Alle Dateien entfernen
+- Alle Dateien entfernen
 
 ```bash
 rm -rf ./*
 ```
 
-* Template-Dateien kopieren und `README.md` Datei aktualisieren 
+- Template-Dateien kopieren und `README.md` Datei aktualisieren
 
 ```bash
 task template-repo addons/$REPO
 ```
 
-* Änderungen committen
+- Änderungen committen
 
 ```bash
 git add --all
@@ -43,58 +44,58 @@ git commit -m "feat: init $(git branch --show-current)"
 git push --set-upstream origin $(git branch --show-current)
 ```
 
-* Submodule auf Odoo Build hinzufügen
+- Submodule auf Odoo Build hinzufügen
 
 ```bash
 task add-git-submodule git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO
 ```
 
-* Änderungen auf Odoo Build committen
-* Register repo to <https://apps.odoo.com/apps/dashboard/repos>
+- Änderungen auf Odoo Build committen
+- Register repo to <https://apps.odoo.com/apps/dashboard/repos>
 
 ## Modul migrieren
 
 Arbeitsschritte:
 
-* In Odoo-Build die neue Odoo Version auschecken: 
+- In Odoo-Build die neue Odoo Version auschecken:
 
 ```bash
 task load-version $TARGET_VERSION
 ```
 
-* Auschecken Modul von vorhergehender Version
+- Auschecken Modul von vorhergehender Version
 
 ```bash
 cd addons/$REPO
 git checkout $SOURCE_VERSION $MODULE`
 ```
 
-* Modul-Code und Version in `__manifest__.py` aktualisieren
+- Modul-Code und Version in `__manifest__.py` aktualisieren
 
 ```bash
 task upgrade-module addons/$REPO/$MODULE
 ```
 
-* Generate module doc file.
+- Generate module doc file.
 
 ```bash
 task generate-module-docs addons/$REPO/$MODULE
 ```
 
-* Modul linten und Repo aktualisieren:
+- Modul linten und Repo aktualisieren:
 
 ```bash
 cd addons/$REPO/
 task all
 ```
 
-* Modul installieren und testen
+- Modul installieren und testen
 
 ```bash
 task init-module addons/$REPO/$MODULE
 ```
 
-* If required migrate the attrs definition with this prompt.
+- If required migrate the attrs definition with this prompt.
 
 ```bash
 TASK=$(cat << EOF
@@ -193,19 +194,19 @@ EOF
 task update-with-llm addons/$REPO/$MODULE/models/*.py "$TASK"
 ```
 
-* Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
-* Migration committen
+- Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
+- Migration committen
 
 ```bash
 git -C addons/$REPO add --all
 git -C addons/$REPO commit -m "feat($MODULE): migrate
 ```
 
-* Optional einen Pull-Request erstellen:
-	* Feature branch erstellen `git switch -c mig-$MODULE`
-	* Und mit dem CLI einen PR erstellen `gh pr create`
-	* Wenn PR gemerged ist, das Submodule-Repo deployen
-* Änderungen pushen
+- Optional einen Pull-Request erstellen:
+  - Feature branch erstellen `git switch -c mig-$MODULE`
+  - Und mit dem CLI einen PR erstellen `gh pr create`
+  - Wenn PR gemerged ist, das Submodule-Repo deployen
+- Änderungen pushen
 
 ```bash
 git push
@@ -215,18 +216,18 @@ git push
 
 Arbeitsschritte:
 
-* Go to the repo and create a fork
-* Navigate into the local repo`cd oca/sale-workflow
-* Add the fork as remote `git remote add mint-system git@github.com:Mint-System/sale-workflow.git`
-* Checkout a customer branch `git switc -c $BRANCH-$PROJECT_CODE`
-* Push a branch to the remote with `git push mint-system $BRANCH-$PROJECT_CODE`
+- Go to the repo and create a fork
+- Navigate into the local repo`cd oca/sale-workflow
+- Add the fork as remote `git remote add mint-system git@github.com:Mint-System/sale-workflow.git`
+- Checkout a customer branch `git switc -c $BRANCH-$PROJECT_CODE`
+- Push a branch to the remote with `git push mint-system $BRANCH-$PROJECT_CODE`
 
 ## OCA-Modul migrieren
 
 Arbeitsschritte:
 
-* Prüfen ob für das gesuchte Modul ein Pull-Request existiert, der alle Tests erfüllt
-	* Denn Branch des Pull-Request bereitstellen 
-* Prüfen ob die OCA plant das Modul auf die Odoo Zielversion upzugraden
-	* Modul gemäss Anleitung [[Migrate OCA module to XX.0]] migrieren
-	* Den Branch des Ppull-Request bereitstellen
+- Prüfen ob für das gesuchte Modul ein Pull-Request existiert, der alle Tests erfüllt
+  - Denn Branch des Pull-Request bereitstellen
+- Prüfen ob die OCA plant das Modul auf die Odoo Zielversion upzugraden
+  - Modul gemäss Anleitung [[Migrate OCA module to XX.0]] migrieren
+  - Den Branch des Ppull-Request bereitstellen

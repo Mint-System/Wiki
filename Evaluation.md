@@ -4,6 +4,7 @@ tags:
 kind: tutorial
 section: methodology
 ---
+
 # Evaluation
 
 Evaluation einer Softwarelösung.
@@ -12,17 +13,17 @@ Evaluation einer Softwarelösung.
 
 Kriterien zur Evaluation einer Lösung.
 
-* Funktionale Anforderungen
-* Qualitative Anforderungen
-* Randbedingungen
+- Funktionale Anforderungen
+- Qualitative Anforderungen
+- Randbedingungen
 
 ## Evaluationen
 
 Erledigte Evaluationen:
 
-* [[Evaluation IaaS]]
-* [[Evaluation Odoo Report]]
-* [[Evaluation Telefonieanbieter]]
-* [[Evaluation Nextcloud Office]]
-* [[Odoo Drucken#Evaluation]]
-* [[Evaluation Odoo Hardware]]
+- [[Evaluation IaaS]]
+- [[Evaluation Odoo Report]]
+- [[Evaluation Telefonieanbieter]]
+- [[Evaluation Nextcloud Office]]
+- [[Odoo Drucken#Evaluation]]
+- [[Evaluation Odoo Hardware]]

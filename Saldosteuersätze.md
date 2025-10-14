@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Saldosteuersätze
 
 Saldosteuersätze ab 1. Januar 2025:
@@ -23,6 +24,7 @@ Saldosteuersätze ab 1. Januar 2024:
 | Hosting                | 6.2% |
 | Entwicklung            | 6.8% |
 | Support / EDV-Beratung | 6.8% |
+
 Quelle: <https://www.fedlex.admin.ch/eli/cc/2010/874/de#art_1>
 
 Bis 2023:

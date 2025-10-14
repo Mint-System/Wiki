@@ -6,8 +6,10 @@ kind:
   - reference
 section: process
 ---
+
 # Prozesse Support
+
 Dokumentation der Support Prozesse.
 
-* [[Prozesse Support - Ticket]]
-* [[Prozesse Support - Benachrichtigungen]]
+- [[Prozesse Support - Ticket]]
+- [[Prozesse Support - Benachrichtigungen]]

@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # terra computer
 
 Website: <https://terra-computer.ch>

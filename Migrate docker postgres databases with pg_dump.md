@@ -6,6 +6,7 @@ kind:
   - howto
 section: dev
 ---
+
 # Migrate docker postgres databases with pg_dump
 
 ## The secure way
@@ -45,7 +46,7 @@ postgres_image: postgres:12-alpine
 Deploy database container with version 12.
 
 ```bash
-aplaybook -i inventories/odoo odoo.yml -l apollo -t postgres  
+aplaybook -i inventories/odoo odoo.yml -l apollo -t postgres
 ```
 
 Restore the data.
@@ -61,7 +62,6 @@ Restart the application container.
 ```bash
 docker restart $APP_CONTAINER
 ```
-
 
 ## The insecure way
 

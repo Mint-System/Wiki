@@ -5,6 +5,7 @@ section: communication
 kind:
   - explain
 ---
+
 # Odoo App Verkauf
 
 ## Verkaufsgruppen und Baugruppen
@@ -13,11 +14,10 @@ Wie werden die Verkaufsgruppen von Baugruppen unterschieden?
 
 Odoo bildet die Produkte zur Fertigung in folgenden Schema ab.
 
-
 ![[Verkaufsgruppen und Baugruppen.png]]
 
 **Beispiel Produkt Stuhl**
- 
+
 Stuhl A kann als Option auch mit Rollen ausgestattet werden.
 Das Produkt Stuhl würde man mit dem Attribut Rollen (Ja/Nein) ausstatten.
 Es entstehen bei der Produktkonfiguration zwei Varianten.
@@ -30,7 +30,6 @@ Der Käufer sieht schlussendlich nur den Stuhl A mit oder ohne Rollen zur Auswah
 Die Unterscheidung der Gruppe lässt sich festlegen:
 
 ![[Stücklisten Typ.png]]
-
 
 ## Rahmenaufträge
 

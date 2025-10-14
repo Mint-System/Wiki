@@ -3,13 +3,14 @@ tags:
   - Asset
 kind:
 ---
+
 # Philosophie
 
 Wir sind:
 
-* Zielorientiert
-* Modern
-* Transparent
+- Zielorientiert
+- Modern
+- Transparent
 
 Unsere Lösungen sind [[Open Source]].
 

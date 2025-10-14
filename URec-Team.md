@@ -6,9 +6,10 @@ kind:
 draft: false
 section: blog
 ---
+
 # URec-Team
 
-Das URec-Team mit Janik von Rotz, Ulrich Kilian und Michael Ziege hat sich heute getroffen und den Stand der Entwicklungen für das Inosca-eBau-Caluma-Projekt besprochen 💪 Toll können wir Teil dieses eindrücklichen Projekts sein! 🙌 
+Das URec-Team mit Janik von Rotz, Ulrich Kilian und Michael Ziege hat sich heute getroffen und den Stand der Entwicklungen für das Inosca-eBau-Caluma-Projekt besprochen 💪 Toll können wir Teil dieses eindrücklichen Projekts sein! 🙌
 
 Was ist das URec-Team und das Inosca-eBau-Caluma-Projekt?
 

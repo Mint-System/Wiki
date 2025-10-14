@@ -5,18 +5,20 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Versand
 
 Tätigkeiten:
 
-* Die Lieferfirmen integrieren
-* Die Beauftragung für den Versand einrichten
+- Die Lieferfirmen integrieren
+- Die Beauftragung für den Versand einrichten
 
 Ergebnis: Die Schnittstelle zu den Lieferfirmen ist etabliert
 
 ## Versand einrichten
 
 **Beschreibung Verpackungsgrösse**
+
 - In welcher Einheit werden Höhe, Breite und Länge angegeben?
 
 **Qualitätssicherung**

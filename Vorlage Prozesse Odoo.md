@@ -5,6 +5,7 @@ section: template
 kind:
   - reference
 ---
+
 # Prozesse Odoo - App APPNAME
 
 Installation von APPNAME.

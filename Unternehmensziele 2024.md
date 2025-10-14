@@ -4,42 +4,43 @@ tags:
 kind: explain
 section: organisation
 ---
+
 # Unternehmensziele 2024
 
 Personal:
 
-* Status quo (3 Mitarbeitende)
+- Status quo (3 Mitarbeitende)
 
 Netzwerk:
 
-* Treuhänder mit Odoo-Wissen
-* 3 [[Freischaffende Mitarbeitende]] beschäftigt
+- Treuhänder mit Odoo-Wissen
+- 3 [[Freischaffende Mitarbeitende]] beschäftigt
 
 Kunden:
 
-* 3 neue Odoo Kunden
-* 1 Odoo PaaS Kunde
+- 3 neue Odoo Kunden
+- 1 Odoo PaaS Kunde
 
 Projekte:
 
-* Aufbau Odoo PaaS Plattform mit Partner
-* NRP-Projekt für Luftfahrt
+- Aufbau Odoo PaaS Plattform mit Partner
+- NRP-Projekt für Luftfahrt
 
 Infrastruktur:
 
-* Keine Odoo 14 Installationen
-* Max 3 Monate alte Odoo Revisionen
+- Keine Odoo 14 Installationen
+- Max 3 Monate alte Odoo Revisionen
 
 Entwicklung:
 
-* Odoo Images mit Nix/PiPy-Pakete
-* Deployment nach OpenShift/Kubernetes
+- Odoo Images mit Nix/PiPy-Pakete
+- Deployment nach OpenShift/Kubernetes
 
 Marketing:
 
-* Neue Website in Hugo
-* Odoo Roadshow / Odoo Ready Partner
+- Neue Website in Hugo
+- Odoo Roadshow / Odoo Ready Partner
 
 Finanzen:
 
-* Reserven für 4 Monate
+- Reserven für 4 Monate

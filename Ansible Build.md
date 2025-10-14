@@ -5,6 +5,7 @@ kind:
   - reference
 section: infrastructure
 ---
+
 # Ansible Build
 
 The Mint System collection of Ansible playbooks and roles.

@@ -4,6 +4,7 @@ kind:
 lang: en
 section: methodology
 ---
+
 # Kanban
 
 ## Visualizing Work
@@ -17,8 +18,6 @@ section: methodology
 > Stop Starting, Start Finishing
 
 ![[Kanban WIP.canvas|Kanban WIP]]
-
-
 
 ## Managing Flow
 

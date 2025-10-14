@@ -6,6 +6,7 @@ kind:
   - reference
 section: process
 ---
+
 # Prozesse Projektmanagement
 
 Dokumentation der Projektmanagement Prozesse.
@@ -18,13 +19,13 @@ graph LR;
     D-->E[Zeiterfassung]
 ```
 
-* [[Prozesse Projektmanagement - Konzept]]
-* [[Prozesse Projektmanagement - Aufwandsschätzung]]
-* [[Prozesse Projektmanagement - Projektdefinition]]
-* [[Prozesse Projektmanagement - Odoo]]
-* [[Prozesse Projektmanagement - Zeiterfassung]]
-* [[Prozesse Projektmanagement - Aufgaben]]
-* [[Prozesse Projektmanagement - Business Requirement]]
-* [[Prozesse Projektmanagement - Ressourcenplanung]]
-* [[Prozesse Projektmanagement - Archivierung]]
-* [[Prozesse Projektmanagement - Freelancer%In]]
+- [[Prozesse Projektmanagement - Konzept]]
+- [[Prozesse Projektmanagement - Aufwandsschätzung]]
+- [[Prozesse Projektmanagement - Projektdefinition]]
+- [[Prozesse Projektmanagement - Odoo]]
+- [[Prozesse Projektmanagement - Zeiterfassung]]
+- [[Prozesse Projektmanagement - Aufgaben]]
+- [[Prozesse Projektmanagement - Business Requirement]]
+- [[Prozesse Projektmanagement - Ressourcenplanung]]
+- [[Prozesse Projektmanagement - Archivierung]]
+- [[Prozesse Projektmanagement - Freelancer%In]]

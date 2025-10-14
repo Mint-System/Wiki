@@ -1,7 +1,8 @@
 ---
 tags:
-- Ideation
+  - Ideation
 ---
+
 # Odoo Nextcloud Filestore
 
 A good example of how Odoo attachments can be stored externally: https://github.com/camptocamp/odoo-cloud-platform/tree/16.0/attachment_s3
@@ -18,15 +19,15 @@ The filetype will be converted from binary to url.
 
 It will generate a folder structure like this:
 
-* Odoo/
-	* {model}/
-		* {id}/
-			* {filename}
+- Odoo/
+  - {model}/
+    - {id}/
+      - {filename}
 
-* Odoo
-	* project.task
-		* 3724
-			* image.png
+- Odoo
+  - project.task
+    - 3724
+      - image.png
 
 The Nextcloud-File-ID will be stored in the `ir.attachment`.
 If the filename changes it will be updated in Nextcloud.

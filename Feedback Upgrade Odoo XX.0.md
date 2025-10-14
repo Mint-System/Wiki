@@ -5,13 +5,14 @@ kind:
   - reference
 section: template
 ---
+
 # Feedback Upgrade Odoo XX.0
 
 ## Verkauf
 
 ### Verkauf lässt sich nicht öffnen ✅
 
-Wenn ich versuche die App *Verkauf* zu öffnen, erscheint dieser Fehler:
+Wenn ich versuche die App _Verkauf_ zu öffnen, erscheint dieser Fehler:
 
 ```
 Caused by: Error: "sale.order"."partner_sale_id" field is undefined.

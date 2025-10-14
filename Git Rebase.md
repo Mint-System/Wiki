@@ -7,6 +7,7 @@ kind:
 ---
 
 # Git - Rebase
+
 ## Resolve rebase conflicts
 
 Here is a common scenario when rebasing a branch from the main branch causes a conflict:
@@ -72,7 +73,7 @@ Could not apply 65775af... feat: use convert datetime from mixin
 Two conflicts could be resolved automatically. The file `education_professional_event.py` has a conflict that needs to be resolved.
 
 ![[git rebase conflict.png]]
-We selected *Accept Incoming Change* which is the change you made in the branch. When trying to continue the rebase the following message might show up:
+We selected _Accept Incoming Change_ which is the change you made in the branch. When trying to continue the rebase the following message might show up:
 
 ```
 ➜  sozialinfo git:(03c8a41) ✗ git rebase --continue

@@ -6,6 +6,7 @@ kind:
 draft: false
 section: blog
 ---
+
 # E-Mails mit Odoo versenden und empfangen
 
 > Alles zur Mail-Integration mit Odoo.
@@ -19,9 +20,7 @@ graph LR
     C --> D[Empfänger]
 ```
 
-
 Damit diese Art der E-Mail-Kommunikation funktioniert, muss Odoo in der Lage sein, E-Mails im Namen einer bestimmten Mail-Domain (z. B. `yourcompany.com`) zu versenden. Standardmässig erfolgt die Integration über ein vorhandenes E-Mail-Postfach. Odoo erhält Zugriff auf ein festgelegtes Postfach, beispielsweise `odoo@yourcompany.com`, und kann damit E-Mails senden, empfangen und verarbeiten.
-
 
 ```mermaid
 graph LR
@@ -29,12 +28,11 @@ graph LR
     B --> C[Postfach]
 ```
 
-
 Was zunächst einfach klingt, wird bei bestimmten Mail-Providern – insbesondere Microsoft 365 und Google Gmail – schnell komplex. Diese Anbieter erlauben keine klassische Authentifizierung über Benutzername und Passwort. Stattdessen muss Odoo als sogenannte OAuth-App registriert werden. Erst dann gestatten Microsoft oder Google den Zugriff auf bestimmte Ressourcen wie SMTP für den Versand und IMAP für den Empfang von E-Mails.
 
 ```mermaid
 graph LR
-    A[Odoo] --> B[OAuth] 
+    A[Odoo] --> B[OAuth]
     B --> C[Mail-Server]
     C --> D[Postfach]
 ```
@@ -47,7 +45,7 @@ Wenn Sie E-Mails aus einem persönlichen geschäftlichen Postfach versenden, han
 
 ```mermaid
 graph LR
-    A[Mail-Server A] --> B[Spamfilter] 
+    A[Mail-Server A] --> B[Spamfilter]
     B --> C[Mail-Server B]
 ```
 
@@ -57,14 +55,13 @@ In der Praxis empfiehlt es sich daher, geschäftliche E-Mails und transaktionale
 
 ```mermaid
 graph LR
-    A[Odoo] --> B[Mail-Server mail.yourcompany.com] 
-    C[Mitarbeiter] --> D[Mail-Server yourcompany.com] 
+    A[Odoo] --> B[Mail-Server mail.yourcompany.com]
+    C[Mitarbeiter] --> D[Mail-Server yourcompany.com]
 ```
 
 ## Mailgun und Odoo Mailgate
 
 Anstatt `mail.yourcompany.com` bei einem klassischen Mail-Provider zu registrieren und ein Postfach für Odoo einzurichten, können Sie einen spezialisierten Mail-Relay-Dienst wie **Mailgun** verwenden. Mailgun ist auf den Massenversand von E-Mails ausgelegt und bietet umfangreiche Integrationsmöglichkeiten sowie Metriken zur Überwachung des Versandvolumens.
-
 
 ```mermaid
 graph LR
@@ -72,13 +69,11 @@ graph LR
     B --> C[Empfänger]
 ```
 
-
 Mit Mailgun können Sie E-Mails aus Odoo versenden – ganz ohne eigenes Postfach. Der Empfang von E-Mails ist jedoch nicht möglich. Hier kommt **Odoo Mailgate** ins Spiel.
 
 Odoo bringt eine eigene Logik zur Verarbeitung eingehender E-Mails mit. Normalerweise liest Odoo E-Mails aus einem Postfach und verarbeitet sie entsprechend. Stattdessen können E-Mails aber auch direkt über das Odoo Mailgate weitergeleitet und verarbeitet werden.
 
 **Odoo Mailgate** ist ein separater Dienst, der Zugriff auf Ihre Odoo-Datenbank hat. Die Adresse des Mailgates wird als Mail-Server veröffentlicht. Wenn eine E-Mail an das Mailgate gesendet wird, leitet dieses sie automatisch an Odoo weiter, wo sie wie gewohnt verarbeitet wird.
-
 
 ```mermaid
 graph LR

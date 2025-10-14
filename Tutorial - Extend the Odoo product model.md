@@ -6,6 +6,7 @@ kind:
 section: dev
 lang: en
 ---
+
 # Tutorial: Extend the Odoo product model
 
 Let's add a new field to the product model step by step.
@@ -14,19 +15,19 @@ Let's add a new field to the product model step by step.
 
 ### Step 0: Install manufacturing app
 
-* Navigate to *Apps*
-* Install the `mrp` app
+- Navigate to _Apps_
+- Install the `mrp` app
 
 ### Step 1: Start developer mode
 
-* Navigate to *Settings*
-* Click *Activate the developer mode* on the bottom
+- Navigate to _Settings_
+- Click _Activate the developer mode_ on the bottom
 
 ### Step 2: Update model
 
-* Navigate to *Settings > Technical > Datbase structure > Models*
-* Open *product.template*
-* Add a line
+- Navigate to _Settings > Technical > Datbase structure > Models_
+- Open _product.template_
+- Add a line
 
 Field Name: `x_images`\
 Field Type: `many2many`\
@@ -35,10 +36,10 @@ Related Model: `ir.attachment`
 
 ### Step 3: Update the view
 
-* Navigate to *Settings > Technical > User Interface > Views*
-* Search for `product.template.common.form`
-* Open *Interhited Views*
-* Add new line
+- Navigate to _Settings > Technical > User Interface > Views_
+- Search for `product.template.common.form`
+- Open _Interhited Views_
+- Add new line
 
 View Name: `Mint System: Add images field`
 Architecture:
@@ -52,7 +53,7 @@ Architecture:
 </data>
 ```
 
-* Return to the product view
+- Return to the product view
 
 ## Next steps
 

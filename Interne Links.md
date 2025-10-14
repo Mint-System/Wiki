@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Interne Links
 
 Die wichtigsten Links der Mint System.

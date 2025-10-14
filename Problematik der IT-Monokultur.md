@@ -5,6 +5,7 @@ section: blog
 kind:
   - explain
 ---
+
 # Problematik der IT-Monokultur
 
 ## Keine Wahl
@@ -23,12 +24,13 @@ Die Produktpalette von Microsoft zu installieren hat nichts mit Innovation zu tu
 
 ## Verwaltungen von Bund und Kanton: Ein Vorbild?
 
-Die Verwaltungen auf Stufe Bund oder Kanton sind für viele Organisationen ein Vorbild. Zum Beispiel für Schulen oder Gemeindeverwaltungen. Wenn dort innovative Lösungen entwickelt werden, dann hat das Strahlkraft. 
+Die Verwaltungen auf Stufe Bund oder Kanton sind für viele Organisationen ein Vorbild. Zum Beispiel für Schulen oder Gemeindeverwaltungen. Wenn dort innovative Lösungen entwickelt werden, dann hat das Strahlkraft.
 
 Von einer Verwaltung darf man Innovation erwarten. Es sind unsere Steuergelder die investiert werden. Diese Investitionen sollen unter anderem zu technischem Fortschritt führen, damit Sie der Gesellschaft einen nachhaltigen Nutzen bringen.
 
 Wir dürfen von Verwaltungen auf auf Stufe Bund und Kanton erwarten, dass
-* durch den Einsatz von alternativen Produkten die Abhängigkeit von Microsoft reduziert wird.
-* in den Verwaltungen nicht eine IT-Monokultur gepflegt wird
+
+- durch den Einsatz von alternativen Produkten die Abhängigkeit von Microsoft reduziert wird.
+- in den Verwaltungen nicht eine IT-Monokultur gepflegt wird
 
 Damit unsere IT-Systeme innovativer, sicherer und kostengünstiger sind.

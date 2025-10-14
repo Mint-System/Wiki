@@ -5,11 +5,12 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Infrastruktur - Upgrade Odoo.sh
 
 ## Produktives Upgrade durchführen
 
-* Nachricht an den Kunden schicken:
+- Nachricht an den Kunden schicken:
 
 ```
 Guten Tag
@@ -23,10 +24,10 @@ Mit freundlichen Grüssen
 Mint System Team
 ```
 
-* Drehbuch bis zum Abschnitt "Upgrade" ausführen
-* Im Tab *Upgrade* die Ziel-Version wählen
-* Upgrade-Porzess starten
-* Upgrade-Prozess auslösen indem man den `upgrade` Branch auf den `main` Branch pusht:
+- Drehbuch bis zum Abschnitt "Upgrade" ausführen
+- Im Tab _Upgrade_ die Ziel-Version wählen
+- Upgrade-Porzess starten
+- Upgrade-Prozess auslösen indem man den `upgrade` Branch auf den `main` Branch pusht:
 
 ```bash
 cd $ODOO_SH_GIT_PROJECT
@@ -48,9 +49,9 @@ git commit -m "Trigger Upgrade" --allow-empty
 git push origin +upgrade:main
 ```
 
-* Gemäss Drehbuch das Upgrade fertigstellen
-* Den `backup-main` Branch lokal löschen
-* Nachricht an den Kunden:
+- Gemäss Drehbuch das Upgrade fertigstellen
+- Den `backup-main` Branch lokal löschen
+- Nachricht an den Kunden:
 
 ```
 Guten Tag

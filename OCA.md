@@ -5,6 +5,7 @@ section: contact
 kind:
   - reference
 ---
+
 # OCA
 
 [[Odoo Community Association]]

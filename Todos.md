@@ -1,7 +1,8 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # Todos
 
 Todos sind Aufgabenchecklisten.

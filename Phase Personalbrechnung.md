@@ -5,15 +5,16 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Personalbrechnung
 
 Tätigkeiten:
 
-* Das Personal erfassen
-* Die Verträge erfassen und zuweisen
-* Die Abzüge der Arbeitgeber/Arbeitnehmer in den Stammdaten eintragen
-* Die Konfiguration der Lohnarten vornehmen
-* Die datev-Schnittstelle einrichten
+- Das Personal erfassen
+- Die Verträge erfassen und zuweisen
+- Die Abzüge der Arbeitgeber/Arbeitnehmer in den Stammdaten eintragen
+- Die Konfiguration der Lohnarten vornehmen
+- Die datev-Schnittstelle einrichten
 
 Ergebnis: Lohnabrechnung mit Odoo.
 
@@ -21,20 +22,20 @@ Ergebnis: Lohnabrechnung mit Odoo.
 
 **Anstellung**
 
-* Sind Mitarbeitende im Stundenlohn angestellt?
+- Sind Mitarbeitende im Stundenlohn angestellt?
 
 **Organisation**
 
-* Werden Sie bei der Lohnabrechnung von einer TreuhänderIn unterstützt? ⭐
+- Werden Sie bei der Lohnabrechnung von einer TreuhänderIn unterstützt? ⭐
 
 **Buchhaltung**
 
-* Führen Sie für die Sozialversicherung ein Akkonto?
-* Welche Lohnarten werden berechnet?
+- Führen Sie für die Sozialversicherung ein Akkonto?
+- Welche Lohnarten werden berechnet?
 
 **Lohnblatt**
 
-* Wie sieht das Lohnblatt für die Mitarbeitenden aus?
+- Wie sieht das Lohnblatt für die Mitarbeitenden aus?
 
 **Lohnabrechnung**
 
@@ -44,9 +45,9 @@ Ergebnis: Lohnabrechnung mit Odoo.
 
 **Zahlungsdatei**
 
-* Wie werden die Zahlungen im eBanking erfasst?
+- Wie werden die Zahlungen im eBanking erfasst?
 
 **Abstimmung**
 
-* Haben Sie ein Durchlaufkonto für die Lohnzahlungen?
-* Wie stimmen Sie die Lohnzahlungen ab.
+- Haben Sie ein Durchlaufkonto für die Lohnzahlungen?
+- Wie stimmen Sie die Lohnzahlungen ab.

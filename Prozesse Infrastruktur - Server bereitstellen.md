@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Infrastruktur - Server bereitstellen
 
 Bereitstellung eines neuen Server.
@@ -13,20 +14,20 @@ Bereitstellung eines neuen Server.
 
 Arbeitsschritte:
 
-* Im Portal von [[Hetzner]] einloggen
-* Server gemäss [[Managed Server Kalkulation]] erstellen
-* Volume mit Name `$ALIAS.mint-system.com` erstellen
-* SSH-Key auswählen
-* Als Name `$ALIAS.mint-system.com` eingeben
+- Im Portal von [[Hetzner]] einloggen
+- Server gemäss [[Managed Server Kalkulation]] erstellen
+- Volume mit Name `$ALIAS.mint-system.com` erstellen
+- SSH-Key auswählen
+- Als Name `$ALIAS.mint-system.com` eingeben
 
 ## Server mit Ansible bereitstellen
 
 Arbeitsschritte:
 
-* Alias und Hostname in `setup/hosts.yml` Inventory erfassen
-* Sicherheitsregeln für SSH-Port prüfen
-* Bereitstellung mit `plays/setup.yml` Playbook
-* Erstellen Fstab- und Nginx-Konfiguration in `setup/host_vars/$ALIAS.yml`
+- Alias und Hostname in `setup/hosts.yml` Inventory erfassen
+- Sicherheitsregeln für SSH-Port prüfen
+- Bereitstellung mit `plays/setup.yml` Playbook
+- Erstellen Fstab- und Nginx-Konfiguration in `setup/host_vars/$ALIAS.yml`
 
 Prüfe mit diesem Befehl die freien Host-Nummern:
 
@@ -34,14 +35,14 @@ Prüfe mit diesem Befehl die freien Host-Nummern:
 rg -I "^nginx_hostname: nginx" inventories  | sort -h
 ```
 
-* Bereitstellung mit `plays/proxy.yml` Playbook
-* Aktualisieren Prometheus-Konfiguration
-* Verifizieren Server erscheint in Monitoring
+- Bereitstellung mit `plays/proxy.yml` Playbook
+- Aktualisieren Prometheus-Konfiguration
+- Verifizieren Server erscheint in Monitoring
 
 ## Passwordless Sudo einrichten
 
 Arbeitsschritte:
 
-* Einloggen auf Server mit Benutzername und Login
-* Erstellen Eintrag `$USERNAME ALL=(ALL) NOPASSWD: ALL` in `/etc/sudoers`
-* Session neustarten und Passwordless Sudo testen
+- Einloggen auf Server mit Benutzername und Login
+- Erstellen Eintrag `$USERNAME ALL=(ALL) NOPASSWD: ALL` in `/etc/sudoers`
+- Session neustarten und Passwordless Sudo testen

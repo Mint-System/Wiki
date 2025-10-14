@@ -5,6 +5,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Akquise - Kontaktaufnahme
 
 Kontakaufnahme mit dem Kunden.
@@ -14,6 +15,7 @@ Kontakaufnahme mit dem Kunden.
 Vorgehen Kalt-Akquise.
 
 Arbeitsschritte:
-* Bereitstellen Kontaktliste mit Telefonnummern
-* Direkte Anfrage zu Interessen
-* Aufnahme der Mail-Adresse im [[Prozesse Marketing - Newsletter und Blog|Newsletter]]
+
+- Bereitstellen Kontaktliste mit Telefonnummern
+- Direkte Anfrage zu Interessen
+- Aufnahme der Mail-Adresse im [[Prozesse Marketing - Newsletter und Blog|Newsletter]]

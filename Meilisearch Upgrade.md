@@ -4,6 +4,7 @@ kind:
   - tutorial
 lang: en
 ---
+
 # Meilisearch Upgrade
 
 This is a step by step tutorial for the [Meilisearch dump upgrade](https://www.meilisearch.com/docs/learn/update_and_migration/updating#using-a-dump).
@@ -60,7 +61,7 @@ task connect-host eros
 Enter the Meilisearch container.
 
 ```bash
-docker exec 
+docker exec
 ```
 
 Import the dump.

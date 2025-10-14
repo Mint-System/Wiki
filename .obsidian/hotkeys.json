@@ -1,10 +1,7 @@
 {
   "file-explorer:reveal-active-file": [
     {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
+      "modifiers": ["Mod", "Shift"],
       "key": "R"
     }
   ]

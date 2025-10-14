@@ -5,11 +5,13 @@ kind:
   - explain
 section: product
 ---
+
 # Odoo Hosting - On-Premise
 
 Mit Mint System installiert Odoo auf einem Server in der Umgebung des Kunden
 
 ## Systemanforderungen
+
 Der Kunde stellt einen Server zur Installation von Odoo bereit. Die Mint System konfiguriert den Server gemäss dem Angebot [[Managed Server]] und installiert die Anwendung [[Odoo]].
 
 ### Hardware
@@ -18,20 +20,20 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 
 **vCPU**: 2 Cores  
 **RAM**: 4 GB  
-**Disk**: 40 GB  
+**Disk**: 40 GB
 
 ### Software
 
 **Betriebssystem**: Linux-basierten Betriebssysteme wie Ubuntu, Debian, CentOS, Fedora werden unterstützt. Die bevorzugte Distribution ist Debian.
-**Container-Support**: Die Odoo Webapplikation wird als Docker-Container betrieben.   
-**Berechtigungen**: Zur Installation der benötigten Software werden Root-Rechte benötigt.  
+**Container-Support**: Die Odoo Webapplikation wird als Docker-Container betrieben.  
+**Berechtigungen**: Zur Installation der benötigten Software werden Root-Rechte benötigt.
 
 ### Zugriff
 
 **DNS**: Der Server soll unter einem Hostname, beispielsweise `odoo.example.com`, erreichbar sein.\
 **Extern**: Wenn der Server und die Odoo Webapplikation nicht vom Kunden verwaltet wird, muss der Server von extern erreichbar sein.\
 **SSH**: Der Remote-Zugriff erfolgt mit SSH. Mehr dazu unter [[SSH-Zugriff]].\
-**Repositories**: Zur Installation von Software kann der Server auf die externen Repositories der jeweiligen Linux-Distribution zugreifen.  
+**Repositories**: Zur Installation von Software kann der Server auf die externen Repositories der jeweiligen Linux-Distribution zugreifen.
 
 ### Integration
 

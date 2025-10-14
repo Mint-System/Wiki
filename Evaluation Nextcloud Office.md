@@ -1,7 +1,8 @@
 ---
 tags:
-- Asset
+  - Asset
 ---
+
 # Evaluation Nextcloud Office
 
 Which one is better [[Collabora]] or [[OnlyOffice]]?
@@ -9,6 +10,7 @@ Which one is better [[Collabora]] or [[OnlyOffice]]?
 ## Collabora
 
 Installed Nextcloud apps:
+
 - Collabora Online (supported)
 - Collabora Online - Built-in CODE Server (unsupported)
 
@@ -19,6 +21,7 @@ Cannot be used as of 08.12.2020: <https://help.nextcloud.com/t/web-interface-ver
 ## OnlyOffice
 
 Installed Nextcloud apps:
+
 - OnlyOffice (supported)
 - Community Document Server (unsupported)
 
@@ -27,11 +30,9 @@ The communiy document server still does not work as of 08.12.2020. Decided to te
 Docker image seems to work.
 
 Cons:
-* Dokumentmetadaten werden nur in .docx  unterstützt
+
+- Dokumentmetadaten werden nur in .docx unterstützt
 
 ## Descision
 
 Use OnlyOffice.
-
-
-

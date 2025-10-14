@@ -4,6 +4,7 @@ tags:
 kind:
   - reference
 ---
+
 # Mailhog
 
 SMTP-Mail catcher.

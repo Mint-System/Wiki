@@ -3,6 +3,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Sicherheit - Odoo Security Advisory
 
 ## Odoo Security Advisory verarbeiten
@@ -11,9 +12,9 @@ Auslöser: Odoo versende eine Mail mit einer [[Odoo Security Advisory]].
 
 Arbeitsschritte:
 
-* Die Liste der CVEs festhatlten
-* Eine Liste der betroffenen Kunden erstellen
-* Die betroffenen Kunden informieren:
+- Die Liste der CVEs festhatlten
+- Eine Liste der betroffenen Kunden erstellen
+- Die betroffenen Kunden informieren:
 
 ```
 Betreff: [Odoo Security Advisory] ODOO-SA-YYYY-MM-DD Update
@@ -28,5 +29,5 @@ Als Massnahme werden wir eure Odoo Umgebung auf die neuste Revision YYYYMMDD akt
 Freundliche Grüsse
 ```
 
-* Für die betroffenen Odoo Versionen wird eine neue Revision erstellen
-* Das Revisions-Upgrade wird geplant
+- Für die betroffenen Odoo Versionen wird eine neue Revision erstellen
+- Das Revisions-Upgrade wird geplant

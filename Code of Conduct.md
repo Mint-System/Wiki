@@ -5,6 +5,7 @@ section: organisation
 kind:
   - explain
 ---
+
 # Code of Conduct
 
 **Abhängigkeiten werden vermieden**

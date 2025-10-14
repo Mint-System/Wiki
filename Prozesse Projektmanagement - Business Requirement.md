@@ -6,6 +6,7 @@ kind:
   - howto
 section: process
 ---
+
 # Prozesse Projektmanagement - Business Requirement
 
 ## Stakeholder Story formulieren
@@ -23,15 +24,15 @@ Arbeitsschritte:
 2. Produkt "A" (Storable Product) mit Strückliste anlegen
 3. Produkt "B" in Stückliste eintragen
 4. Bei Produkt "B" im WH/Stock Bestand 1 anlegen
-5. Fertigungsauftrag 1 für A mit Scheduled Date [Heute] anlegen und bestätigen  
+5. Fertigungsauftrag 1 für A mit Scheduled Date [Heute] anlegen und bestätigen
 6. Im Upstream Picking "Verfügbarkeit prüfen" (--> Product B ist reserviert, im Fertigungsauftrag erscheint B als "Available)
 7. Fertigungsauftrag 2 für A mit Scheduled Date [Heute - 1] anlegen und bestätigen (--> im Fertigungsauftrag 2 erscheint B als "Available und im Fertigungsauftrag 1 als "Not available)
 ```
 
-Dazu wird formuliert wie eine technische Lösung für das Problem aussieht. 
+Dazu wird formuliert wie eine technische Lösung für das Problem aussieht.
 
 ## Massnahme formulieren
 
-In Rücksprache mit Stakeholder des  Projekts wird eine Massnahme formuliert. Die Massnahme ist die Aufgabenbeschreibung und richtet sich an den Entwickler oder Integrator, welcher die Lösung implementiert.
+In Rücksprache mit Stakeholder des Projekts wird eine Massnahme formuliert. Die Massnahme ist die Aufgabenbeschreibung und richtet sich an den Entwickler oder Integrator, welcher die Lösung implementiert.
 
 Ist das Business Requirement bestätigt, wird eine Aufgabe angelegt und die Massnahme wird 1:1 auf die Beschreibung der Aufgabe übertragen.

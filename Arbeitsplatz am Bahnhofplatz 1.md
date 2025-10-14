@@ -5,7 +5,9 @@ section: blog
 kind:
   - explain
 ---
+
 # Arbeitsplatz am Bahnhofplatz 1
+
 Nach langer Zeit im Home Office haben wir ein tolles Büro gefunden.
 
 ### Braucht man heute ein gemeinsames Büro?
@@ -29,9 +31,8 @@ Im neuen Gebäude "Bahnofplatz 1" am [Kantonsbahnhof Altdorf](https://bahnhofpla
 
 ### Ein Meilenstein erreicht
 
-Wir werden uns auch im gemeinsamen Büro am BHF#1 die Arbeit per Mausklick weiterreichen. Schreibzeug, Papier oder einen Drucker haben wir nicht. Aber der analoge zwischenmenschliche Dialog mit allen seinen Unschärfen und unerwarteten Wendungen bringt einen wichtigen Mehrwert. 
+Wir werden uns auch im gemeinsamen Büro am BHF#1 die Arbeit per Mausklick weiterreichen. Schreibzeug, Papier oder einen Drucker haben wir nicht. Aber der analoge zwischenmenschliche Dialog mit allen seinen Unschärfen und unerwarteten Wendungen bringt einen wichtigen Mehrwert.
 
 Der Einzug in ein gemeinsames Büro war ein Jahresziel 2022. Mit dem Einzug im BHF#1 haben wir nicht nur dieses Ziel erreicht, sondern mit den Möglichkeiten der zentralen Lage und den Zusatzleistungen des Innovationsbiotops haben wir einen Meilenstein für die Entwicklung unserer Firma erreicht.
 
 Selbstverständlich profitieren unsere Kunden davon. Wir freuen uns darauf, Sie für ein Meeting hier begrüssen zu dürfen.
-

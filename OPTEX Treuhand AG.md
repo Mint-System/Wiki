@@ -5,6 +5,7 @@ section: contact
 kind:
   - reference
 ---
-# OPTEX Treuhand AG 
+
+# OPTEX Treuhand AG
 
 Website: <https://optexag.ch>

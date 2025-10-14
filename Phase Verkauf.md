@@ -5,15 +5,16 @@ kind:
   - explain
 section: service
 ---
+
 # Phase Verkauf
 
 Tätigkeiten:
 
-* Angebotsvorlagen und Produktsets erstellen
-* Lieferbedingungen festlegen und auf Kontakte hinterlegen
-* Allgemeine Geschäftsbedingungen formulieren
-* Anpassen Bericht und E-Mail-Vorlagen
-* Festlegen lieferbare Produkte und Dienstleistungen
+- Angebotsvorlagen und Produktsets erstellen
+- Lieferbedingungen festlegen und auf Kontakte hinterlegen
+- Allgemeine Geschäftsbedingungen formulieren
+- Anpassen Bericht und E-Mail-Vorlagen
+- Festlegen lieferbare Produkte und Dienstleistungen
 
 Ergebnis: Der kann mit Odoo Verkaufsverträge abschliessen
 
@@ -31,7 +32,7 @@ Ergebnis: Der kann mit Odoo Verkaufsverträge abschliessen
 
 **Kosten**
 
-- Wie wird die Funktion *Berechnung des Preises aus Stückliste* verwendet?
+- Wie wird die Funktion _Berechnung des Preises aus Stückliste_ verwendet?
 
 **Fakturierungsregel**
 
@@ -43,5 +44,5 @@ Ergebnis: Der kann mit Odoo Verkaufsverträge abschliessen
 
 **Online Signature**
 
-- Wird die Funktion *Online Signature* verwendet?
+- Wird die Funktion _Online Signature_ verwendet?
 - Soll ein automatisches Bestätigungs-eMail ausgelöst werden?

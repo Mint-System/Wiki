@@ -5,6 +5,7 @@ section: communication
 kind:
   - explain
 ---
+
 # Odoo Lager
 
 ## Themen
@@ -24,6 +25,3 @@ Stichworte:
 - Inventory Report für abgelaufene Produkte (16:40)
 - Scanner im Offline-Modus (24:50)
 - Empfehlung Printer: Zebra TC20
-
-
- 

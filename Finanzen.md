@@ -3,12 +3,13 @@ tags:
   - Asset
 section: organisation
 ---
+
 # Finanzen
 
 Siehe [[Prozesse Finanzen]].
 
 Weitere Themen:
 
-* [[AHV und EO]]
-* [[Förderbeiträge]]
-* [[Steuern]]
+- [[AHV und EO]]
+- [[Förderbeiträge]]
+- [[Steuern]]

@@ -4,27 +4,28 @@ tags:
 kind:
   - explain
 ---
+
 # Evaluation IaaS
 
 Plattformen zur Bereitstellung von Applikationen und Container gibt es unzählige. Grundsätzlich gilt umso grösser der Anbieter umso günstiger das Angebot. Aus Erfahrung gibt es aber grosse Qualitätsunterschiede.
 
 Hier eine Auswahl von Anbietern:
 
-* https://www.hostpoint.ch/
-* https://www.hoststar.ch/de
-* https://www.hetzner.de/
-* https://www.infomaniak.com/de
-* https://azure.microsoft.com/de-de/
-* https://cloud.google.com/
-* https://aws.amazon.com/de/
-* https://www.heroku.com/
-* https://zeit.co
-* https://www.rackspace.com/
-* https://www.digitalocean.com/
-* https://www.swisscom.ch/de/business/kmu/it-cloud.html
-* https://www.hosttech.ch
-* https://www.exoscale.com
-* https://www.cloudscale.ch/
+- https://www.hostpoint.ch/
+- https://www.hoststar.ch/de
+- https://www.hetzner.de/
+- https://www.infomaniak.com/de
+- https://azure.microsoft.com/de-de/
+- https://cloud.google.com/
+- https://aws.amazon.com/de/
+- https://www.heroku.com/
+- https://zeit.co
+- https://www.rackspace.com/
+- https://www.digitalocean.com/
+- https://www.swisscom.ch/de/business/kmu/it-cloud.html
+- https://www.hosttech.ch
+- https://www.exoscale.com
+- https://www.cloudscale.ch/
 
 ## Entscheidungskriterien
 

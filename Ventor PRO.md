@@ -5,6 +5,7 @@ kind:
   - reference
 section: product
 ---
+
 # Ventor Pro
 
 App zur effizienten Lager- und Warehouseverwaltung.

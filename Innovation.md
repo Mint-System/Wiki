@@ -4,6 +4,7 @@ tags:
   - Unternehmensentwicklung
 section: organisation
 ---
+
 # Innovation
 
 Ideen für Innovationen werden in [[Ideation]] mitgeteilt.

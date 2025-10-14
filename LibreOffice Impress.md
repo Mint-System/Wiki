@@ -1,9 +1,12 @@
 ---
 tags:
-- Definition
+  - Definition
 ---
+
 # LibreOffice Presentation
+
 ## Update slide master
+
 To select the slide master for modification:
 
 1. Select: View > Master Slide
@@ -11,4 +14,4 @@ To select the slide master for modification:
 
 ## Remove bullet list
 
-Right-click on menu bar. Select *Customize Toolbar* and inser the *Bullets* command.
+Right-click on menu bar. Select _Customize Toolbar_ and inser the _Bullets_ command.

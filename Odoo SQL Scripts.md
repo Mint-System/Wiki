@@ -5,6 +5,7 @@ kind: howto
 lang: en
 section: dev
 ---
+
 # Odoo SQL Scripts
 
 Log into Odoo psql.
@@ -46,7 +47,7 @@ ALTER TABLE ir_ui_view ENABLE TRIGGER ALL;
 Remove SQL constraint.
 
 ```sql
-ALTER TABLE google_shop 
+ALTER TABLE google_shop
   DROP google_shop_field_mapping_id_fkey;
 ```
 
