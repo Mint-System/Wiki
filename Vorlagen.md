@@ -24,7 +24,6 @@ kind:
 | [[Template Weekly]]                       |
 | [[Template Worklog]]                      |
 | [[Testing Upgrade Odoo XX.0]]             |
-| [[Upgrade Odoo XX.0]]                     |
 | [[Vorlage Anforderungen]]                 |
 | [[Vorlage Anforderungsanalyse]]           |
 | [[Vorlage Angebot]]                       |

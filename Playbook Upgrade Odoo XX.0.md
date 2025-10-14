@@ -15,7 +15,6 @@ The playbook supports two modes: test and production. When executing the product
 Start a command line and copy these env vars:
 
 ```bash
-export CUSTOMER="Mint System"
 export SERVER="zeus.mint-system.com"
 export PORT=22
 
@@ -30,11 +29,10 @@ export TARGET_POSTGRES_CONTAINER="postgres02"
 export TARGET_DATABASE="upgrade"
 ```
 
-Backup database and restore database if target Postgres container is different.
+Backup database.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
-ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" -r
+ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
 ```
 
 ## Upgrade ⬆️
@@ -42,26 +40,33 @@ ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER"
 Drop the target database.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-postgres-drop -c "$TARGET_POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
+ssh -p "$PORT" "$SERVER" docker-postgres-drop -c "$POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
 ```
 
 Run upgrade script in test mode.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION"
+ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION"
 ```
 
 Run upgrade script in production mode.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
+ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
+```
+
+Backup database and restore database if target postgres container is different.
+
+```bash
+ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
+ssh "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$TARGET_DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$TARGET_DATABASE.sql" -r
 ```
 
 Copy filestore if test mode or target Odoo container is different.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-volume-copy -s "$ODOO_CONTAINER:/filestore/$DATABASE" -t "$TARGET_ODOO_CONTAINER:/filestore/$TARGET_DATABASE" -f
-ssh -p "$PORT" "$SERVER" bash -c "docker exec -u root -it \"$TARGET_ODOO_CONTAINER\" chown -R odoo:odoo \"/var/lib/odoo/filestore/$TARGET_DATABASE\""
+# ssh -p "$PORT" "$SERVER" bash -c "docker exec -u root -it \"$TARGET_ODOO_CONTAINER\" chown -R odoo:odoo \"/var/lib/odoo/filestore/$TARGET_DATABASE\""
 ```
 
 ## Configure ⚙️

@@ -5,6 +5,7 @@ import { plausiblePlugin } from './plausible'
 import { mermaidPlugin } from './mermaid'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
 import { defineUserConfig } from 'vuepress'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
     bundler: viteBundler(),
@@ -28,9 +29,12 @@ export default defineUserConfig({
         ]
     }),
     plugins: [
-        slimsearchPlugin({
-            indexContent: true,
-            suggestion: false
+        // slimsearchPlugin({
+        //     indexContent: true,
+        //     suggestion: false
+        // }),
+        searchPlugin({
+            maxSuggestions: 10
         }),
         plausiblePlugin({
             'domain': 'wiki.mint-system.ch'
