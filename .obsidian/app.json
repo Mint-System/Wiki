@@ -12,10 +12,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "userIgnoreFilters": [
-    "node_modules/",
-    "src/"
-  ],
+  "userIgnoreFilters": ["node_modules/", "src/"],
   "showInlineTitle": false,
   "propertiesInDocument": "visible",
   "vimMode": false,

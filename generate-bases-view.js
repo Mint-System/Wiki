@@ -193,28 +193,31 @@ section: bases
 
     if (view.type === 'cards') {
       // Generate cards view as CSS grid with 3 columns
-      output += '<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin: 2rem 0;">\n'
-      
+      output +=
+        '<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin: 2rem 0;">\n'
+
       tableData.forEach((row) => {
         const fileName = row['file.name']
-        
+
         output += `  <div style="border: 1px solid #eaecef; padding: 1.5rem;">\n`
         output += `    <strong><a href="${fileName}.html">${fileName}</a></strong><br/><br/>\n`
-        
+
         // Dynamically add all fields from order (except file.name)
         columnNames.forEach((column) => {
           if (column !== 'file.name') {
             const value = row[column]
             if (value) {
-              const displayValue = Array.isArray(value) ? value.join(', ') : value
+              const displayValue = Array.isArray(value)
+                ? value.join(', ')
+                : value
               output += `    <strong>${column}:</strong> ${displayValue}<br/>\n`
             }
           }
         })
-        
+
         output += `  </div>\n`
       })
-      
+
       output += '</div>\n\n'
     } else {
       // Generate table view (default)
