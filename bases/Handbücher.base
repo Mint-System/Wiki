@@ -1,5 +1,5 @@
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       or:
