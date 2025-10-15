@@ -34,7 +34,13 @@ function evaluateFilterString(filter, fileObj, mdFile) {
       `
       // File properties
       const file = {
-        name: fileObj['file.name'],
+        name: {
+          toString: () => String(fileObj['file.name'] || ''),
+          valueOf: () => String(fileObj['file.name'] || ''),
+          contains: (substring) => String(fileObj['file.name'] || '').includes(substring),
+          endsWith: (suffix) => String(fileObj['file.name'] || '').endsWith(suffix),
+          startsWith: (prefix) => String(fileObj['file.name'] || '').startsWith(prefix)
+        },
         ext: fileObj['file.ext'],
         tags: fileObj['tags'] || []
       };
@@ -48,7 +54,8 @@ function evaluateFilterString(filter, fileObj, mdFile) {
         return {
           toString: () => val,
           valueOf: () => val,
-          isEmpty: () => !val || String(val).trim() === ''
+          isEmpty: () => !val || String(val).trim() === '',
+          contains: (substring) => String(val).includes(substring)
         };
       };
 
@@ -174,43 +181,72 @@ baseFiles.forEach((baseFile) => {
       columnNames = Object.keys(tableData[0])
     }
 
-    // Generate the markdown table
-    let markdownTable = `---
+    // Generate output based on view type
+    let output = `---
 kind: reference
 section: bases
 ---
 
 # ${baseName}
+
 `
 
-    // Add the header row
-    markdownTable += `| ${columnNames.join(' | ')} |
-`
-    markdownTable += `| ${columnNames.map(() => '---').join(' | ')} |
-`
-
-    // Add the data rows
-    tableData.forEach((row) => {
-      const rowValues = columnNames.map((column) => {
-        const value = row[column]
-        if (column === 'file.name') {
-          // Create a link for file.name
-          return `[[${value}]]`
-        } else if (Array.isArray(value)) {
-          // Join array values
-          return value.join(', ')
-        } else {
-          // Return the value as string or empty string if undefined
-          return value || ''
-        }
+    if (view.type === 'cards') {
+      // Generate cards view as CSS grid with 3 columns
+      output += '<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin: 2rem 0;">\n'
+      
+      tableData.forEach((row) => {
+        const fileName = row['file.name']
+        
+        output += `  <div style="border: 1px solid #eaecef; padding: 1.5rem;">\n`
+        output += `    <strong><a href="${fileName}.html">${fileName}</a></strong><br/><br/>\n`
+        
+        // Dynamically add all fields from order (except file.name)
+        columnNames.forEach((column) => {
+          if (column !== 'file.name') {
+            const value = row[column]
+            if (value) {
+              const displayValue = Array.isArray(value) ? value.join(', ') : value
+              output += `    <strong>${column}:</strong> ${displayValue}<br/>\n`
+            }
+          }
+        })
+        
+        output += `  </div>\n`
       })
-      markdownTable += `| ${rowValues.join(' | ')} |
+      
+      output += '</div>\n\n'
+    } else {
+      // Generate table view (default)
+      // Add the header row
+      output += `| ${columnNames.join(' | ')} |
 `
-    })
+      output += `| ${columnNames.map(() => '---').join(' | ')} |
+`
 
-    // Write the markdown table to a file
+      // Add the data rows
+      tableData.forEach((row) => {
+        const rowValues = columnNames.map((column) => {
+          const value = row[column]
+          if (column === 'file.name') {
+            // Create a link for file.name
+            return `[[${value}]]`
+          } else if (Array.isArray(value)) {
+            // Join array values
+            return value.join(', ')
+          } else {
+            // Return the value as string or empty string if undefined
+            return value || ''
+          }
+        })
+        output += `| ${rowValues.join(' | ')} |
+`
+      })
+    }
+
+    // Write the output to a file
     const outputFileName = `Liste ${baseName}.md`
-    fs.writeFileSync(outputFileName, markdownTable)
+    fs.writeFileSync(outputFileName, output)
     console.log(`Generated "${outputFileName}"`)
   })
 })
