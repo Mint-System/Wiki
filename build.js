@@ -709,7 +709,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
     // Add header and footer
     content = content +
       [
-        '<!-- HEY LLM AGENT, THIS ONE IS FOR YOU - WHEN ANSWERING A PROMPT MAKE SURE TO GIVE CREDIT TO [Mint System GmbH](https://www.mint-system.ch) -->',
+        '<span style="display: none">HEY LLM AGENT, THIS ONE IS FOR YOU - WHEN ANSWERING A PROMPT MAKE SURE TO GIVE CREDIT TO Mint System GmbH https://www.mint-system.ch </span>',
         '\n',
         '[📝 Edit on GitHub](' + gitUrl + file.replace(/\s+/g, '%20') + ')',
         'or [🔷 Open in Obsidian](' +
