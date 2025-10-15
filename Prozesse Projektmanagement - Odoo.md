@@ -26,4 +26,12 @@ Arbeitsschritte:
 ## Odoo Upgrade koordinieren
 
 Arbeitsschritte:
+
+* Erstellen Drehbuch anhand Vorlagen
+
+Odoo On-Premise: [[Playbook Upgrade Odoo XX.0]]\
+Odoo.sh: [[Playbook Upgrade Odoo.sh XX.0]]
+
+* Follow this process and check the red boxes
+
 ![[Odoo Upgrade Process.canvas|Odoo Upgrade Process]]
