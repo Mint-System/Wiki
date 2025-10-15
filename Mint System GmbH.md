@@ -21,7 +21,7 @@ Vercel Domains:
 
 UID: CHE-150.248.608
 
-Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]]
+Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]], [[Mint System Website]]
 
 ## Mitarbeitende
 
@@ -39,10 +39,6 @@ Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[G
 
 - [[Marco Roeleven]]
 - [[Laszlo Krajnikovszkij]]
-
-## Zahlungsinformationen
-
-CHF ISR Subscription Number: 01-013066-4
 
 ## Schreibweise
 
