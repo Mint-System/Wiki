@@ -67,7 +67,7 @@ task load-version $TARGET_VERSION
 
 ```bash
 cd addons/$REPO
-git checkout $SOURCE_VERSION $MODULE`
+git checkout $SOURCE_VERSION $MODULE
 ```
 
 - Modul-Code und Version in `__manifest__.py` aktualisieren
@@ -99,7 +99,7 @@ task init-module addons/$REPO/$MODULE
 
 ```bash
 TASK=$(cat << EOF
-Migrate this view from Odoo 16.0 to 17.0.
+Migrate view definitions from Odoo 16.0 to 17.0.
 For example:
 <field name="test_field_1" attrs="{'invisible': [('active', '=', True)]}"/>
 <field name="test_field_2" attrs="{'invisible': [('zip', '!=', 123)]}"/>
@@ -116,12 +116,12 @@ Or for example:
 	<field name="activity_ids"/>
 	<field name="message_ids"/>
 </div>
-EOF
 To:
 <chatter/>
+EOF
 )
 
-task update-with-llm addons/$REPO/$MODULE/views/*.xml "$TASK"
+	task update-with-llm addons/$REPO/$MODULE/views/*.xml "$TASK"
 ```
 
 ```bash
