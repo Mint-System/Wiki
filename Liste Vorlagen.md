@@ -15,7 +15,7 @@ section: bases
 | [[Drehbuch Migration Infomaniak]] | reference | template |
 | [[Estimation]] | reference | template |
 | [[Feedback Upgrade Odoo XX.0]] | reference | template |
-| [[Migrate Modules to Odoo XX.0]] | reference | template |
+| [[Migrate modules to Odoo XX.0]] | reference | template |
 | [[Minor Improvements Template]] | reference | template |
 | [[Offer Template]] | reference | template |
 | [[Playbook Upgrade Odoo XX.0]] | reference | template |

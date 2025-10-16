@@ -27,7 +27,7 @@ Arbeitsschritte:
 - Auf Server einloggen `ssh $ALIAS.mint-system.com`
 - Modulliste generieren `docker-odoo-cloc -c $CONTAINER -d $DATABASE`
 - Modulname aus Konsole kopieren und filtern
-- Vorlage [[Migrate Modules to Odoo XX.0]] kopieren
+- Vorlage [[Migrate modules to Odoo XX.0]] kopieren
 - Modulnamen einfügen
 
 ## Module prüfen

@@ -7,7 +7,7 @@ kind:
   - reference
 ---
 
-# Migrate Modules to Odoo XX.0
+# Migrate modules to Odoo XX.0
 
 States:
 

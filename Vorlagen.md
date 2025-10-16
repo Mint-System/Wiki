@@ -15,7 +15,7 @@ kind:
 | [[Bestandsaufnahme Office 365]]           |
 | [[Drehbuch Migration Infomaniak]]         |
 | [[Feedback Upgrade Odoo XX.0]]            |
-| [[Migrate Modules to Odoo XX.0]]          |
+| [[Migrate modules to Odoo XX.0]]          |
 | [[Minor Improvements Template]]           |
 | [[Playbook Upgrade Odoo XX.0]]            |
 | [[Playbook Upgrade Odoo.sh XX.0]]         |
