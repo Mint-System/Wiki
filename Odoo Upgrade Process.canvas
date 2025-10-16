@@ -32,7 +32,7 @@
 		{"id":"16216b157f8b187e","type":"text","text":"Create tickets for vendors","x":140,"y":320,"width":200,"height":60,"color":"3"},
 		{"id":"5abfc11228727c77","type":"text","text":"Publish the production upgrade","x":-100,"y":430,"width":200,"height":80,"color":"3"},
 		{"id":"09850aaea396af08","type":"text","text":"Rollback if upgrade failed","x":140,"y":430,"width":200,"height":80,"color":"3"},
-		{"id":"ff6a0f78b8223968","type":"text","text":"Deploy and install module","x":-100,"y":95,"width":180,"height":60,"color":"3"},
+		{"id":"ff6a0f78b8223968","type":"text","text":"Deploy and install module","x":-100,"y":95,"width":200,"height":60,"color":"3"},
 		{"id":"0a3d09e5665ee29b","type":"text","text":"Track timesheet","x":140,"y":95,"width":180,"height":60,"color":"3"}
 	],
 	"edges":[

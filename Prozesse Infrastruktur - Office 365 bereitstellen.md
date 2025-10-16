@@ -32,7 +32,7 @@ Zur Validierung der OAuth-Konfiguration brauchen wir noch einen:
 - Screenshot der OAuth-App Berechtigungen
 - Screenshot der Redirect URIs
 
-Diese Punkte werden oft falsch konfiguriert und erschweren die Fehlernalyse.
+Diese Punkte werden oft falsch konfiguriert und erschweren die Fehlernanalyse.
 
-Vielen Dank für die Infromationen
+Vielen Dank für die Infromationen.
 ```
