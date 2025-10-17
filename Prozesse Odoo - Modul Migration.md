@@ -73,7 +73,7 @@ git checkout $SOURCE_VERSION $MODULE
 - Modul-Code und Version in `__manifest__.py` aktualisieren
 
 ```bash
-task upgrade-module addons/$REPO/$MODULE
+task migrate-module addons/$REPO/$MODULE
 ```
 
 - Generate module doc file.
