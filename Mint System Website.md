@@ -1,6 +1,10 @@
 ---
 tags:
   - Definition
+lang: en
+kind:
+  - reference
+section: communication
 ---
 
 # Mint System Website
@@ -10,6 +14,12 @@ Unsere Website wurde mit [[Hugo]] erstellt.
 Repository: https://github.com/Mint-System/Website
 
 ## Texte
+
+## Description
+
+EN: As management software specialists with industry leadership and engineering expertise, we deliver proven solutions — built on open-source technology — for maximum value.
+
+### About us
 
 EN: We are a team of management software specialists. With our leadership experience in the industry and expertise in software engineering, we know which solutions deliver real results. We implement systems using open-source software to offer the best value for your investment.
 
