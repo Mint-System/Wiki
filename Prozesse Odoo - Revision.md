@@ -31,7 +31,7 @@ Guten Tag
 
 Die Revision dieser Odoo Installation wird innerhalb der nächsten halben Stunde aktualisiert.
 
-Bei der Aktualisierung kann es zu einem kurzen Unterbruch (< 5 Min) kommen.
+Bei der Aktualisierung kann es zu einem kurzen Unterbruch (maximal 5 Minuten) kommen.
 
 Mit freundlichen Grüssen
 
