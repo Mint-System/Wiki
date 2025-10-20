@@ -22,7 +22,8 @@ Status Draft:
 [[Lizenzmanagement mit Odoo]]\
 [[URec-Team]]\
 [[Fünf Fünf Fünf]]\
-[[Odoo mit ihrer Bank verbinden]]
+[[Odoo mit ihrer Bank verbinden]]\
+[[Beispiel für Abhängigkeit zu Amazon AWS]]
 
 Publiziert:
 
