@@ -41,6 +41,7 @@ https://wiki.mint-system.ch/basiswissen-requirements-engineering.html
 https://wiki.mint-system.ch/bauteile-mit-odoo-zertifizieren.html
 https://wiki.mint-system.ch/begriffe.html
 https://wiki.mint-system.ch/behalten-sie-ihre-unternehmensdaten-mit-nextcloud-im-griff.html
+https://wiki.mint-system.ch/beispiel-für-abhängigkeit-zu-amazon-aws.html
 https://wiki.mint-system.ch/beratungsprojekte.html
 https://wiki.mint-system.ch/besser-als-alternativ.html
 https://wiki.mint-system.ch/bestandsaufnahme-office-365.html
@@ -296,9 +297,9 @@ https://wiki.mint-system.ch/mermaidjs.html
 https://wiki.mint-system.ch/methodik.html
 https://wiki.mint-system.ch/mettler-toledo.html
 https://wiki.mint-system.ch/microsoft-authenticator.html
-https://wiki.mint-system.ch/migrate-modules-to-odoo-xx.0.html
 https://wiki.mint-system.ch/migrate-oca-module-to-xx.0.html
 https://wiki.mint-system.ch/migrate-docker-postgres-databases-with-pg_dump.html
+https://wiki.mint-system.ch/migrate-modules-to-odoo-xx.0.html
 https://wiki.mint-system.ch/minor-improvements-template.html
 https://wiki.mint-system.ch/mint-bot.html
 https://wiki.mint-system.ch/mint-cloud-kubernetes-clusters.html

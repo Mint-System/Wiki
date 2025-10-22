@@ -10,6 +10,7 @@ section: bases
 | [[Affiliate-Marketing]] | reference | communication |
 | [[Develope an Odoo module]] | explain | communication |
 | [[Mail Security]] | explain | communication |
+| [[Mint System Website]] | reference | communication |
 | [[Nextcloud App Elektronische Signaturen]] | reference | communication |
 | [[Nextcloud App Mail]] | reference | communication |
 | [[Nextcloud App Social Login]] | reference | communication |

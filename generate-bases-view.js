@@ -200,7 +200,7 @@ section: bases
         const fileName = row['file.name']
 
         output += `  <div style="border: 1px solid #eaecef; padding: 1.5rem;">\n`
-        output += `    <strong><a href="${fileName}.html">${fileName}</a></strong><br/><br/>\n`
+        output += `    <strong>[[${fileName}]]">$</a></strong><br/><br/>\n`
 
         // Dynamically add all fields from order (except file.name)
         columnNames.forEach((column) => {
