@@ -8,6 +8,8 @@ section: vendor
 
 # Infomaniak Handbuch
 
+[[TOC]]
+
 ## 2-Faktor-Authentisierung forcieren
 
 Im Manager navigieren Sie nach _Einstellungen > Sicherheit_. Aktivieren Sie die Option _Obligatorische zweistufige Überprüfung (2FA)_.

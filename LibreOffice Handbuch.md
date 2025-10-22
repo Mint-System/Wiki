@@ -8,6 +8,8 @@ section: product
 
 # LibreOffice Handbuch
 
+[[TOC]]
+
 ## Duplikate entfernen
 
 Standardfilter anlegen und unter _Options_ die Option _No duplications_ auswählen.

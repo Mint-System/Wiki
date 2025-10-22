@@ -8,6 +8,8 @@ section: product
 
 # KeePassXC Handbuch
 
+[[TOC]]
+
 ## TOTP-Secret eintragen
 
 Mit KeePassXC kannst du den Code für eine 2-Faktor-Authentisierung generieren. Dazu brauchst du das TOTP Secret und gehst wie folgt vor.

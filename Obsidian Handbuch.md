@@ -10,6 +10,8 @@ section: product
 
 ![[Obsidian Logo.png]]
 
+[[TOC]]
+
 ## Inhaltsverzeichnis anzeigen
 
 Navigieren Sie nach **Settings > Core plugin** und aktivieren Sie die Option **Outline**.

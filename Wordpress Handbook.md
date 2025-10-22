@@ -8,6 +8,8 @@ section: vendor
 
 # Wordpress Handbook
 
+[[TOC]]
+
 ## List plugins
 
 Connect to the database.

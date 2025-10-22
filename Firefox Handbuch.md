@@ -8,6 +8,8 @@ section: vendor
 
 # Firefox Handbuch
 
+[[TOC]]
+
 ## Netzwerkzugriff aufzeichnen
 
 Um den Netzwerkzugriff aufzuzeichnen gehen Sie wie folgt vor.

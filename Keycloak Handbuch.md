@@ -8,6 +8,8 @@ section: product
 
 # Keycloak Handbuch
 
+[[TOC]]
+
 ## 2-Faktor-Authentisierung aktivieren
 
 Wählen im ausgewählten Realm _Manager > Users_ und zeigen Sie einen Bentuzer an. Im Bereich _Required actions_ wählen Sie _Configure TOTP_. Beim nächsten Login wird der Benutzer aufgefordert die 2FA zu aktivieren.

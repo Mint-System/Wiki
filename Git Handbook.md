@@ -9,6 +9,8 @@ section: tool
 
 # Git Handbook
 
+[[TOC]]
+
 ## Push until specific commit
 
 This how you can push until a specific commit (hash):
