@@ -3,6 +3,15 @@ const path = require('path')
 const yaml = require('js-yaml')
 const matter = require('gray-matter')
 
+function sanitizeName(file) {
+  return file
+    .toLocaleLowerCase()
+    .replace(/\s+/g, '-')
+    .replace('---', '-')
+    .replace('--', '-')
+    .replace("'", '-')
+}
+
 // Function to evaluate filters recursively
 function evaluateFilters(filters, fileObj, mdFile) {
   if (filters.and) {
@@ -199,8 +208,8 @@ section: bases
       tableData.forEach((row) => {
         const fileName = row['file.name']
 
-        output += `  <div style="border: 1px solid #eaecef; padding: 1.5rem;">\n`
-        output += `    <strong>[[${fileName}]]</strong><br/><br/>\n`
+        output += `<div style="border: 1px solid #eaecef; padding: 1.5rem;">\n`
+        output += `<strong><a href="${sanitizeName(fileName)}.html">${fileName}</a></strong><br/><br/>\n`
 
         // Dynamically add all fields from order (except file.name)
         columnNames.forEach((column) => {
@@ -210,12 +219,12 @@ section: bases
               const displayValue = Array.isArray(value)
                 ? value.join(', ')
                 : value
-              output += `    <strong>${column}:</strong> ${displayValue}<br/>\n`
+              output += `<strong>${column}:</strong> ${displayValue}<br/>\n`
             }
           }
         })
 
-        output += `  </div>\n`
+        output += `</div>\n`
       })
 
       output += '</div>\n\n'

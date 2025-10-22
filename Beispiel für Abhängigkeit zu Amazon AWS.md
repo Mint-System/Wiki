@@ -1,5 +1,3 @@
-
-
 # Beispiel für Abhängigkeit zu Amazon AWS
 
 Am 20.10.2025
@@ -11,6 +9,7 @@ https://www.tomsguide.com/news/live/amazon-outage-october-2025
 https://health.aws.amazon.com/health/status
 
 ![[Status AWS.png]]
+
 ## Vercel
 
 https://www.vercel-status.com/
