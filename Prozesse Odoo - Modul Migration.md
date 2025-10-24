@@ -121,7 +121,7 @@ To:
 EOF
 )
 
-	task update-with-llm addons/$REPO/$MODULE/views/*.xml "$TASK"
+task update-with-llm addons/$REPO/$MODULE/views/*.xml "$TASK"
 ```
 
 ```bash

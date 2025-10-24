@@ -1,6 +1,8 @@
 ---
 kind:
   - howto
+lang: en
+section: template
 ---
 
 # Playbook Upgrade Odoo.sh XX.0

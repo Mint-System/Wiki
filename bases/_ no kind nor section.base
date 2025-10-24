@@ -8,12 +8,12 @@ views:
             - kind.isEmpty()
             - section.isEmpty()
         - '!file.name.endsWith("excalidraw")'
-        - file.name.contains("odoo")
     order:
       - file.name
       - kind
       - section
       - file.tags
+      - lang
     sort:
       - property: kind
         direction: DESC

@@ -6,6 +6,11 @@ section: template
 kind:
   - reference
 ---
+```
+---
+project: Project XY
+---
+```
 
 # Migrate modules to Odoo XX.0
 
