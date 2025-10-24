@@ -2,6 +2,9 @@
 lang: en
 tags:
   - Richtlinien
+kind:
+  - explain
+section: policy
 ---
 
 # Policy - Project Management

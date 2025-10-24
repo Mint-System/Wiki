@@ -2,6 +2,9 @@
 tags:
   - Asset
 lang: en
+kind:
+  - reference
+section: infrastructure
 ---
 
 # Kubernetes Build

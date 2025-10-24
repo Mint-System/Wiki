@@ -1,7 +1,7 @@
 ---
 tags:
   - Definition
-section: infrastructure
+section: vendor
 kind:
   - reference
 ---

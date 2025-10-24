@@ -2,6 +2,7 @@
 kind:
   - reference
 lang: en
+section: term
 ---
 
 # Large Language Models

@@ -3,6 +3,8 @@ tags:
   - Definition
 lang: en
 section: tool
+kind:
+  - reference
 ---
 
 # PuTTY

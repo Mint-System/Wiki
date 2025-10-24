@@ -4,6 +4,7 @@ tags:
 lang: en
 kind:
   - reference
+section: term
 ---
 
 # TOTP Auth

@@ -4,6 +4,7 @@ tags:
 kind:
   - howto
 lang: en
+section: tool
 ---
 
 # Microsoft Authenticator
