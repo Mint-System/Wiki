@@ -152,7 +152,7 @@ For example:
 	</div>
 </div>
 To:
-<block name="integration" position="inside">
+<block id="integration" position="inside">
 	<setting help="Integrate with SSH.">
 		<field name="module_ssh"/>
 		<div invisible="not module_ssh">
