@@ -10,7 +10,7 @@ section: process
 
 Bereitstellung Odoo-Umgebung.
 
-## Odoo-Umgebung bereitstellen
+## Odoo mit Ansible bereitstellen
 
 Arbeitsschritte:
 
@@ -18,3 +18,15 @@ Arbeitsschritte:
 - Odoo-Umgebung deployen
 - Proxy-Konfiguration in [[Ansible Inventory]] erstellen
 - Odoo-Datenbank initialisieren
+
+## Odoo mit Helm bereitstellen
+
+Arbeitsschritte:
+
+* Auf [[Mint Cloud]] einloggen
+* Das Odoo Chart anzeigen
+* Einen neuen Release erstellen
+	* Als "Release Name" den Name des Kunden verwenden
+	* Als Namespace den Domainnamen verwenden
+* Den Output von "Values.yaml" kopieren
+* Im [[Kubernetes Build]] repo unter `values` eine Datei erstellen

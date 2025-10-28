@@ -11,9 +11,10 @@ kind:
 Definition des Arbeitsplatzes.
 
 - Bring your own Device
-- OS ist [[Pop_OS]]
+- OS ist Linux-basiert
 - Browser [[Firefox]] / [[LibreWolf]]
 - Mail [[Thunderbird]]
 - Command Line [[Zsh]]
+- Editor [[Zed]]
 
 Siehe [[Workplace Hardware]] und [[Workplace Software]].

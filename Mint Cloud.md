@@ -8,6 +8,8 @@ section: project
 
 Ist ein Hosting-[[Angebot]] der Mint System.
 
+Website: <https://www.mint-cloud.ch/>
+
 Infomaniak Domains:
 
 - hosting-odoo.ch
