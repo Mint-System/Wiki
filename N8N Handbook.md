@@ -3,7 +3,7 @@ tags:
   - handbook
 kind:
   - howto
-section: product
+section: handbook
 ---
 
 # N8N Handbook

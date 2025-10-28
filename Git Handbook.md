@@ -4,7 +4,7 @@ tags:
 kind:
   - howto
 lang: en
-section: tool
+section: handbook
 ---
 
 # Git Handbook

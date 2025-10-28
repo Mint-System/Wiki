@@ -2,7 +2,7 @@
 kind:
   - howto
 lang: en
-section: tool
+section: handbook
 ---
 
 # OpenVPN Handbook

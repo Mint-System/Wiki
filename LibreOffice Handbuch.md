@@ -3,7 +3,7 @@ tags:
   - Handbuch
 kind:
   - howto
-section: product
+section: handbook
 ---
 
 # LibreOffice Handbuch

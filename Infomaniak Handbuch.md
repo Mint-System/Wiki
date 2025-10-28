@@ -3,7 +3,7 @@ tags:
   - Handbuch
 kind:
   - howto
-section: vendor
+section: handbook
 ---
 
 # Infomaniak Handbuch

@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       or:
-        - section == "handbook"
+        - section == "guide"
     order:
       - file.name
       - kind

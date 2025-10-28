@@ -3,7 +3,7 @@ tags:
   - handbook
 kind:
   - howto
-section: vendor
+section: handbook
 ---
 
 # Wordpress Handbook

@@ -3,7 +3,7 @@ kind:
   - howto
 tags:
   - Handbuch
-section: product
+section: handbook
 ---
 
 # KeePassXC Handbuch
