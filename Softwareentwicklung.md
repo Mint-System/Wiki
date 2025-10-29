@@ -10,6 +10,8 @@ kind:
 
 Aspekte der Softwareentwicklung.
 
+[[Cursed Knowledge]]
+
 ## Programmiersprache
 
 Wir verwenden Python für alle Projekte.
