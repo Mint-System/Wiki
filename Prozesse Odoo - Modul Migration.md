@@ -79,7 +79,13 @@ task migrate-module addons/$REPO/$MODULE
 - Generate module doc file.
 
 ```bash
-task generate-module-docs addons/$REPO/$MODULE
+task generate-module-docs $!
+```
+
+- Modul installieren und testen
+
+```bash
+task init-module $!
 ```
 
 - Modul linten und Repo aktualisieren:
@@ -87,12 +93,6 @@ task generate-module-docs addons/$REPO/$MODULE
 ```bash
 cd addons/$REPO/
 task all
-```
-
-- Modul installieren und testen
-
-```bash
-task init-module addons/$REPO/$MODULE
 ```
 
 - If required migrate the attrs definition with this prompt.
