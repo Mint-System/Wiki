@@ -23,7 +23,7 @@ Status Draft:
 [[URec-Team]]\
 [[Fünf Fünf Fünf]]\
 [[Odoo mit ihrer Bank verbinden]]\
-[[Beispiel für Abhängigkeit zu Amazon AWS]]
+[[Ausfall Amazon AWS und Microsoft Azure]]
 
 Publiziert:
 
