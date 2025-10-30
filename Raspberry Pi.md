@@ -3,7 +3,7 @@ tags:
   - Definition
 kind:
   - reference
-section: tool
+section: hardware
 ---
 
 # Raspberry Pi

@@ -2,6 +2,7 @@
 tags:
   - Definition
 kind: reference
+section: hardware
 ---
 
 # Link 2500 Portable Flex

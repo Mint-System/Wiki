@@ -3,12 +3,12 @@ views:
     name: Table
     filters:
       and:
-        - file.name.startsWith("Odoo App")
-        - file.ext.endsWith("md")
+        - section == "hardware"
     order:
       - file.name
       - kind
       - section
     sort: []
     columnSize:
-      file.name: 610
+      file.name: 347
+      note.kind: 212
