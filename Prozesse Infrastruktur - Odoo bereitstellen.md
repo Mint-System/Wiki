@@ -29,7 +29,7 @@ Arbeitsschritte:
 	* Als "Release Name" den Name des Kunden verwenden
 	* Als Namespace den Domainnamen verwenden
 * Den Output von "Values.yaml" kopieren
-* Im [[Kubernetes Build]] repo unter `values` eine Datei erstellen
+* Im [[Helm Values]] repo eine Datei erstellen
 * Deployment mit Kuberentes Build ausführen:
 	* Namespace erstellen
 	* Secrets gemäss Odoo Chart erstellen

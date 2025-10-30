@@ -31,6 +31,10 @@ Wir danken für die Kooperation.
 Das Mint System Team
 ```
 
+## Projektmanagement
+
+### 
+
 ## Technisch
 
 ### Logins Mint System deaktivieren
@@ -43,7 +47,7 @@ Arbeitsschritte:
 - Keycloak-Benutzer deaktivieren
 - Meldung Terminierung Benutzer-Accounts an private Mail-Adresse
 
-## Zugriff entfernen
+### Zugriff entfernen
 
 - GitHub-Benutzer aus der [[GitHub#Organisation]] entfernen
 - GitHub-Benutzer aus Organisationen von Dritten entfernen
