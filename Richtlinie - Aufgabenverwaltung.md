@@ -15,11 +15,18 @@ Jede Aufgabe ist verrechenbar oder nicht verrechenbar und erhält einen Aufgaben
 Jede Aufgabe durchläuft die folgenden Stufen:
 
 - **Backlog [[Emoji#🎒|🎒]]** Hier werden neue Aufgaben erstellt und Ideen gesammelt.
-- **Bereit 🏁** Die Aufgabe ist bereit, zugewiesen und priorisiert.
+	- Aufgaben sind nicht zugewiesen
+	- Aufgaben sind nicht priorisiert
+- **Bereit 🏁** Die Aufgabe ist bereit zur Bearbeitung.
+	- Aufgabe ist zugewiesen
+	- Aufgabe ist priorisiert
 - **In Arbeit 🧑‍💻** Die Aufgabe befindet sich in Bearbeitung.
+	- Aufgabe hat Zeiterfassungs-Einträge
 - **Feedback 💬** Die Aufgabe ist blockiert oder wartet auf Rückmeldung von Kunden.
 - **Erledigt ✅** Die Aufgabe ist erledigt und kann archiviert werden.
 - **Postlog ♻️** Die Aufgabe steht permanent zur Zeiterfassung zur Verfügung.
+	- Aufgabe ist zugewiesen
+	- Aufgabe ist farblich markiert
 
 ## Verkaufsauftragsposition festlegen
 
