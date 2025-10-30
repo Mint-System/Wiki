@@ -15,7 +15,7 @@ Jede Aufgabe ist verrechenbar oder nicht verrechenbar und erhält einen Aufgaben
 Jede Aufgabe durchläuft die folgenden Stufen:
 
 - **Backlog [[Emoji#🎒|🎒]]** Hier werden neue Aufgaben erstellt und Ideen gesammelt.
-- **Bereit 🏁** Die Aufgabe ist bereit und hat alle Informationen zur Bearbeitung hinterlegt.
+- **Bereit 🏁** Die Aufgabe ist bereit, zugewiesen und priorisiert.
 - **In Arbeit 🧑‍💻** Die Aufgabe befindet sich in Bearbeitung.
 - **Feedback 💬** Die Aufgabe ist blockiert oder wartet auf Rückmeldung von Kunden.
 - **Erledigt ✅** Die Aufgabe ist erledigt und kann archiviert werden.
