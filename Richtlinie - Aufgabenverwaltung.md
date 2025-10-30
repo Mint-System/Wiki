@@ -8,7 +8,7 @@ section: policy
 
 # Richtlinie - Aufgabenverwaltung
 
-Jede Aufgabe ist verrechenbar oder nicht verrechenbar und erhält einen Aufgabenstatus.
+Jede Aufgabe ist verrechenbar oder nicht verrechenbar und hat einen Aufgabenstatus.
 
 ## Aufgabenstatus festlegen
 
