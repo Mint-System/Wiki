@@ -104,7 +104,7 @@
 | [[Prozesse Odoo - Demoumgebung bereitstellen]]                 | howto     | Prozess |
 | [[Prozesse Odoo - Entwicklung]]                                |           | Prozess |
 | [[Prozesse Odoo - Lizenzierung]]                               | reference | Prozess |
-| [[Prozesse Odoo - Modul Migration]]                            | howto     | Prozess |
+| [[Prozesse Odoo - Migration Module]]                            | howto     | Prozess |
 | [[Prozesse Odoo - Produktionsumgebung bereitstellen]]          | howto     | Prozess |
 | [[Prozesse Odoo - Revision]]                                   | reference | Prozess |
 | [[Prozesse Odoo - Snippets]]                                   |           | Prozess |

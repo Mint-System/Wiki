@@ -23,7 +23,7 @@ Technische Dokumentation der Odoo Prozesse.
 - [[Prozesse Odoo - Snippets]]
 - [[Prozesse Odoo - Datenmigration]]
 - [[Prozesse Odoo - Lizenzierung]]
-- [[Prozesse Odoo - Modul Migration]]
+- [[Prozesse Odoo - Migration Module]]
 - [[Prozesse Odoo - Revision]]
 
 ## Upgrade

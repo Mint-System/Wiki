@@ -6,7 +6,7 @@ kind:
 section: process
 ---
 
-# Prozesse Odoo - Modul Migration
+# Prozesse Odoo - Migration Module
 
 ## Submodule-Branch initialisieren
 
