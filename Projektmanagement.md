@@ -29,8 +29,12 @@ Jede Woche wird dem Kunden der aktuelle Projektstatus, abgeschlossene Aufgaben u
 
 ## Umsetzung
 
-Mint System nutzt für die Umsetzung des Projekts Odoo und Nextcloud. Das Projekt wird gemäss Phasen und Aufwandsschätzung im Projektmanagementtool abgebildet. Auf Wunsch kann der Kunde Zugriff auf das Projekt-Portal haben.
+Mint System nutzt für die Umsetzung des Projekts Odoo und Nextcloud. Das Projekt wird gemäss Phasen und Aufwandsschätzung in Odoo abgebildet. Auf Wunsch kann der Kunde Zugriff auf das Projekt-Portal haben.
 
 ## Kollaboration
 
 Der Dateiaustausch und Kollaboration an Dokumenten erfolgt mit Nextcloud. Der Kunde erhält einen Link mit Schreibzugriff auf alle Projektunterlagen.
+
+## Priorisierung
+
+Projektaufgaben werden laufend neu priorisiert. In Odoo werden Aufgaben mit einem klick auf den ⭐ Stern priorisiert. 

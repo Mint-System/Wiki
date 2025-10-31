@@ -56,7 +56,11 @@ Erledigt
 
 ### ♻️
 
-Postlog
+Postlog⭐
+
+⭐
+
+Priorität
 
 ## Farben
 
