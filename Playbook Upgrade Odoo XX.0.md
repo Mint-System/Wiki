@@ -36,6 +36,12 @@ Backup database.
 ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
 ```
 
+Stop the container if **production** mode.
+
+```bash
+ssh "$SERVER" docker stop "$ODOO_CONTAINER"
+```
+
 ## Upgrade ⬆️
 
 Drop the target database.
@@ -63,11 +69,10 @@ ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$TARGET_D
 ssh "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$TARGET_DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$TARGET_DATABASE.sql" -r
 ```
 
-Copy filestore if **test** mode or target Odoo container is different.
+Copy filestore.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-volume-copy -s "$ODOO_CONTAINER:/filestore/$DATABASE" -t "$TARGET_ODOO_CONTAINER:/filestore/$TARGET_DATABASE" -f
-# ssh -p "$PORT" "$SERVER" bash -c "docker exec -u root -it \"$TARGET_ODOO_CONTAINER\" chown -R odoo:odoo \"/var/lib/odoo/filestore/$TARGET_DATABASE\""
 ```
 
 ## Configure ⚙️
