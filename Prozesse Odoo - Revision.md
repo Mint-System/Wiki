@@ -16,9 +16,16 @@ Arbeitsschritte:
 
 - Aufrufen Docker Tag <https://hub.docker.com/_/odoo/tags> mit ausgewählter Odoo Version
 - Neuster Release-Tag notieren
-- Neuer Eintrag in [[Odoo Build]] mit Release-Tag erstellen `task create-revision 18.0.20250819`
-- Release commiten `task commit-revision`
-- Mit tags pushen `git push --tags`
+- Neue Revision in Odoo Build erstellen
+
+```bash
+task create-revision 18.0.20251008
+```
+
+- Release committen `task commit-and-push-revision
+- Dokumentation mit Odoo Revisionen aktualisieren
+	- [[Odoo Build]]
+	- [[Kubernetes Build]]
 
 ## Odoo Revision installieren
 
