@@ -13,10 +13,10 @@ Repository: <https://github.com/Mint-System/Odoo-Development>
 Infomaniak Domains:
 
 - odoo-build.ch
+- odoo.build
 
 Vercel Domains:
 
-- odoo.build
 - doo-build.org
 - odoo-build.com
 

@@ -62,7 +62,7 @@ Run upgrade script in **production** mode.
 ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
 ```
 
-Backup database and restore **database** if target postgres container is different.
+Backup database and restore database if target postgres container is different.
 
 ```bash
 ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
