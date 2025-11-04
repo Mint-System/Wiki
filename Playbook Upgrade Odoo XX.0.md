@@ -53,13 +53,13 @@ ssh -p "$PORT" "$SERVER" docker-postgres-drop -c "$POSTGRES_CONTAINER" -d "$TARG
 Run upgrade script in **test** mode.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION"
+ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION"
 ```
 
 Run upgrade script in **production** mode.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
+ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
 ```
 
 Copy filestore.
