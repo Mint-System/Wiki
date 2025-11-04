@@ -30,10 +30,11 @@ export TARGET_POSTGRES_CONTAINER="postgres02"
 export TARGET_DATABASE="upgrade"
 ```
 
-Backup database.
+Backup and restore database if postgres container is different.
 
 ```bash
 ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
+ssh "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" -r
 ```
 
 Stop the container if **production** mode.
@@ -41,7 +42,6 @@ Stop the container if **production** mode.
 ```bash
 ssh "$SERVER" docker stop "$ODOO_CONTAINER"
 ```
-
 ## Upgrade ⬆️
 
 Drop the target database.
@@ -60,13 +60,6 @@ Run upgrade script in **production** mode.
 
 ```bash
 ssh -p "$PORT" "$SERVER" docker-odoo-upgrade -c "$POSTGRES_CONTAINER" -d "$DATABASE" -s "$ODOO_VERSION" -n "$TARGET_DATABASE" -t "$TARGET_ODOO_VERSION" -m production
-```
-
-Backup database and restore database if target postgres container is different.
-
-```bash
-ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
-ssh "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$TARGET_DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$TARGET_DATABASE.sql" -r
 ```
 
 Copy filestore.
