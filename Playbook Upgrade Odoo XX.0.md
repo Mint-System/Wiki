@@ -30,6 +30,8 @@ export TARGET_POSTGRES_CONTAINER="postgres02"
 export TARGET_DATABASE="upgrade"
 ```
 
+Create credentials file with `task create-odoo-env "$COMPANY"`. Test connection with `task test-xmlrpc "$COMPANY"`.
+
 Backup and restore database if postgres container is different.
 
 ```bash
@@ -87,6 +89,13 @@ Update all modules.
 ```bash
 ssh -p "$PORT" "$SERVER" docker-odoo-update -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE" -u all
 ssh -p "$PORT" "$SERVER" docker-odoo-clear-assets -c "$TARGET_ODOO_CONTAINER" -d "$TARGET_DATABASE"
+```
+
+Update snippets.
+
+```bash
+task disable-snippet $COMPANY snippets/sale.report_saleorder_document.add_note_space.xml
+task disable-snippet $COMPANY snippets/sale.report_saleorder_document.add_signature_note.xml
 ```
 
 ## Testing 🔬
