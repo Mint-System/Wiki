@@ -36,6 +36,6 @@ T-Shirt Grössen sind eine Grobe Schätzung wie lange die Umsetzung einer Aufgab
 
 * XS: 30 Minuten
 * S: 1 Stunden
-* M: 4 Stunden
-* L: 1 Tag
-* XL: 3 Tage
+* M: <1 Arbeitstage
+* L: ~1 Arbeitsag
+* XL: >1 Arbeitstag
