@@ -1,34 +1,41 @@
 ---
-tags:
-  - Vorlagen
+section: methodology
 kind:
-  - reference
-section: template
+  - explain
 ---
-
 # Aufwandsschätzung
 
-Übersetzung: [[Estimation]]
+Dieses Dokumente beantwortet wie Aufwand für Softwareentwicklung geschätzt wird.
 
-## Standardprojekt
+## Erfahrung
 
-Der Aufwand für die Projektphasen wurde wie folgt geschätzt:
+Grundsätzlich sind Erfahrungswerte aus vergangen Projekten und Implementation entscheidend. Wenn man bereits Feature X umgesetzt hat und Feature Y viele Ähnlichkeiten hat, dann ist die Stundenzahl ungefähr gleich.
 
-| Phase                              | Aufwand Mint System [h] | Total |
-| ---------------------------------- | ----------------------: | ----: |
-| Phase Server bereitstellen         |                       2 |       |
-| Phase Odoo installieren            |                       4 |       |
-| **Initalisierierung**              |                         |     6 |
-| Phase Kontakte                     |                       2 |       |
-| Phase Verkauf                      |                       8 |       |
-| **Verkauf**                        |                         |    10 |
-|                                    |                         |       |
-| **Odoo Implementation**            |                         |    16 |
-|                                    |                         |       |
-| Odoo Entwicklung                   |                       8 |       |
-| **Entwicklung**                    |                         |     8 |
-|                                    |                         |       |
-| **Implementation und Entwicklung** |                         |    24 |
-| **Projektleitung**                 |                         |    10 |
+## Risiko
 
-Siehe [[Prozesse Projektmanagement - Aufwandsschätzung]].
+Die Entwicklung von Software bergen Risiken:
+
+- Limitation des Entwicklungs-Frameworks
+- Komplexe Anforderungen und Kalkulationen
+- Aufbau technische Schulden
+- Konflikt mit Standard-Prozessen
+
+Diese Risiken in Aufwandsschätzungen korrekt auszweisen ist schwierig. Deshalb werden Softwareprojekte agil und Etappen-weise abgewickelt. Mit Kostendächer und Orientierungspunkten werden die Risiken von Budget-Überschreitungen dem Kunden kommuniziert.
+
+## Extern und Intern
+
+Dem Kunden möchten wir eine möglichst genaue Aufwandsschätzung präsentieren. Deshalb werden in Angeboten Stunden oder Tage genannt. Für die interne agile Projektplanung ist diese Einheit aber ungeeignet. Hier kommen die sog. T-Shirt Grössen zum Einsatz. 
+
+## Stunden oder Tage
+
+Für kleinere und mittlere Implementations-Projekte (5'000 CHF bis 30'000 CHF) sollen Aufwandsschätzungen in Stunden angegeben werden. Für grössere Projekte (ab 30'000 CHF) können Personentage als Einheit verwendet werden.
+
+## T-Shirt Grössen
+
+T-Shirt Grössen sind eine Grobe Schätzung wie lange die Umsetzung einer Aufgabe braucht. Die Skala ist frei wählbar, dazu ein Beispiel:
+
+* XS: 30 Minuten
+* S: 1 Stunden
+* M: 4 Stunden
+* L: 1 Tag
+* XL: 3 Tage

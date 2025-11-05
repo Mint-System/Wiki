@@ -20,3 +20,4 @@ Methodisches Vorgehen.
 - [[Prozessdokumentation]]
 - [[Datenverarbeitung]]
 - [[Ressourcenplanung]]
+- [[Aufwandsschätzung]]

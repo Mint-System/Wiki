@@ -9,11 +9,11 @@ section: bases
 | --- | --- | --- |
 | [[Auftragsverarbeitungsvertrag]] | reference | template |
 | [[Aufwandsschätzung Odoo Upgrade XX.0]] | reference | template |
-| [[Aufwandsschätzung]] | reference | template |
+| [[Voralge Aufwandsschätzung]] | reference | template |
 | [[Bestandsaufnahme Office 365]] | reference | template |
 | [[Concept Template]] | reference | template |
 | [[Drehbuch Migration Infomaniak]] | reference | template |
-| [[Estimation]] | reference | template |
+| [[Template Estimation]] | reference | template |
 | [[Feedback Upgrade Odoo XX.0]] | reference | template |
 | [[Migrate OCA module to XX.0]] | reference | template |
 | [[Migrate modules to Odoo XX.0]] | reference | template |

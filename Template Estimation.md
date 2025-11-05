@@ -6,7 +6,7 @@ kind:
 section: template
 ---
 
-# Estimation
+# Template Estimation
 
 ## Standard Project
 

@@ -11,7 +11,7 @@ kind:
 | Name                                      |
 | ----------------------------------------- |
 | [[Aufwandsschätzung Odoo Upgrade XX.0]]   |
-| [[Aufwandsschätzung]]                     |
+| [[Voralge Aufwandsschätzung]]                     |
 | [[Bestandsaufnahme Office 365]]           |
 | [[Drehbuch Migration Infomaniak]]         |
 | [[Feedback Upgrade Odoo XX.0]]            |
