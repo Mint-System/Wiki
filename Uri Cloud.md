@@ -41,15 +41,15 @@ Solange das Hosting-Abo läuft wird der Betrag an diese Partner ausbezahlt:
 
 **Szenario Gemeinde Isleten**
 
-Die Gemeinde Isleten braucht eine neue Website. Ubiq bietet eine Umsetzungsprojekt an. Es stellt sich die Frage wo das gehostet werden soll.
+Die Gemeinde Isleten braucht eine neue Website. Zottermedia bietet eine Umsetzungsprojekt an. Es stellt sich die Frage wo das gehostet werden soll.
 
-Die Gemeinde Isleten besucht [www.uri-cloud.ch](http://www.uri-cloud.ch/) und kauft ein Website-Hosting von Ubiq ein. Als Cloud-Provider wählen sie Comed.
+Die Gemeinde Isleten besucht [www.uri-cloud.ch](http://www.uri-cloud.ch/) und kauft ein Website-Hosting von Zottermedia ein. Als Cloud-Provider wählen sie Comed.
 
 Die Uri Cloud stellt innert Sekunden eine Website-Umgebung bereit: isleten.uri-cloud.ch
 
 Solange das Hosting-Abo läuft wird der Betrag an diese Partner ausbezahlt:
 
-- Ubiq für Unterhalt Software
+- Zottermedia für Unterhalt Software
 - Comed für Unterhalt Rechenzentrum
 
 **Szenario KMSU**
