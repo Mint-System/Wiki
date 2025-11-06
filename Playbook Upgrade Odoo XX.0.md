@@ -9,7 +9,7 @@ kind:
 
 # Playbook Upgrade Odoo XX.0
 
-The playbook supports two modes: test and production. When executing the production mode the production database will be replaced with the upgraded database at the very end.
+The playbook supports two modes: **test** and **production**. When executing the production mode the production database will be replaced with the upgraded database at the very end.
 
 ## Prepare 📝
 
@@ -35,8 +35,8 @@ Create credentials file with `task create-odoo-env "$COMPANY"`. Test connection 
 Backup and restore database if postgres container is different.
 
 ```bash
-ssh "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
-ssh "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" -r
+ssh -p "$PORT" "$SERVER" sudo docker-postgres-backup -c "$POSTGRES_CONTAINER" -d "$DATABASE"
+ssh -p "$PORT" "$SERVER" docker-postgres-restore -c "$TARGET_POSTGRES_CONTAINER" -d "$DATABASE" -f "/var/tmp/$POSTGRES_CONTAINER/$DATABASE.sql" -r
 ```
 
 Stop the container if **production** mode.
