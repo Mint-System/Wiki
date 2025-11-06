@@ -66,7 +66,7 @@ Zur Kommunikation braucht Odoo ein eigenes Postfach.
 
 Unser Vorschlag: odoo@$DOMAIN_KUNDE
 
-Wir haben festgestellt, dass ihre E-Mail-Provider Office 365 ist. Damit Odoo das Postfach verwenden kann, muss Odoo als OAuth-App registriert werden: https://www.odoo-wiki.org/settings-oauth.html#odoo-als-oauth-app-auf-azure-registrieren
+Das Passwort können Sie mit einem kPaste-Link verlinken: https://kpaste.infomaniak.com/
 
 Sind diese Angaben ausreichend?
 
@@ -76,3 +76,5 @@ Freundlicher Gruss
 
 $VORNAME $NACHNAME
 ```
+
+* Falls E-Mail bei Office 365 ist, dann gilt [[Prozesse Infrastruktur - Office 365 bereitstellen#Odoo-Postfach einrichten]]
