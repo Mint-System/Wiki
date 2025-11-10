@@ -34,8 +34,10 @@ Für kleinere und mittlere Implementations-Projekte (5'000 CHF bis 30'000 CHF) s
 
 T-Shirt Grössen sind eine Grobe Schätzung wie lange die Umsetzung einer Aufgabe braucht. Die Skala ist frei wählbar, dazu ein Beispiel:
 
-* XS: 30 Minuten
-* S: 1 Stunden
-* M: <1 Arbeitstage
+* XXS: 15 Minuten
+* XS: 1 Stunde
+* S: 2 Stunden
+* M: <1 Arbeitstag
 * L: ~1 Arbeitsag
 * XL: >1 Arbeitstag
+* XXL: 5 Arbeitsage
