@@ -24,7 +24,7 @@ kind: issue
 
 ## Analysis
 
-==ument the problem analysis here.==
+==Document the problem analysis here.==
 
 ## Workaround
 
