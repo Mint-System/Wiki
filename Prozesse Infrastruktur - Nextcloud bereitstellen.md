@@ -16,3 +16,4 @@ Arbeitsschritte:
 
 - Nextcloud-Konfiguration in [[Ansible Inventory]] erstellen
 - Nextcloud-Playbook ausführen
+- 

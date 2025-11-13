@@ -11,7 +11,7 @@ section: process
 
 ## Bereitstellung
 
-- [[Prozesse Nextcloud - Produktionsumgebung initalisieren]]
+- [[Prozesse Nextcloud - Produktionsumgebung initialisieren]]
 
 ## Verwaltung
 

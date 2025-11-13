@@ -62,7 +62,7 @@
 | [[Prozesse Migration - Von Microsoft zu Infomaniak migrieren]] | howto     | Prozess |
 | [[Prozesse Migration]]                                         | reference |         |
 | [[Prozesse Nextcloud - Desktop Client]]                        |           | Prozess |
-| [[Prozesse Nextcloud - Produktionsumgebung initalisieren]]     | howto     | Prozess |
+| [[Prozesse Nextcloud - Produktionsumgebung initialisieren]]     | howto     | Prozess |
 | [[Prozesse Nextcloud - Upgrade]]                               |           | Prozess |
 | [[Prozesse Nextcloud]]                                         |           | Prozess |
 | [[Prozesse Odoo - App Abonnements]]                            |           | Prozess |
