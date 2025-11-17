@@ -12,7 +12,7 @@ section: template
 
 ### Produktset verkaufen
 
-Arbeitsschritte:
+Prüfschritte:
 
 - Öffnen App _Verkauf_
 - Erstellen neues Angebot
