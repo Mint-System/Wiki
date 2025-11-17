@@ -11,7 +11,7 @@ section: process
 
 Rechnungen erstellen und versenden.
 
-## Arbeitsrapport validieren
+## Arbeitsrapport Projekte validieren
 
 Arbeitsrapport werden jeweils am Ende des Monats validiert, daraus werden die Ausgangsrechnungen generiert.
 
@@ -20,7 +20,7 @@ Arbeitsschritte:
 - Ansicht _Zeiterfassung > Alle Zeiterfassungen_ öffnen
 - Filtern nach _Meine Projekte_, _Entwurf_ und letzter Monat
 - Gruppieren nach Projekt und abrechenbarer Typ (Preis)
-- Sortieren nach aufgewendete Stunden
+- Sortieren nach aufgewendeten Stunden
 - Aufgewendete Stunden pro Projekt prüfen
 - Einträge bei Bedarf korrigieren und validieren
 
