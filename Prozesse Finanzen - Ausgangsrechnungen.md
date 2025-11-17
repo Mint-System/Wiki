@@ -24,6 +24,11 @@ Arbeitsschritte:
 - Aufgewendete Stunden pro Projekt prüfen
 - Einträge bei Bedarf korrigieren und validieren
 
+
+::: tip
+Das Projekt *Support* enthält alle Zeiterfassungen aus dem Kundendienst. Der Projektmanager validiert Einträge aus allen Kundendienst-Tickets.
+:::
+
 ## Verkaufsaufträge abrechnen
 
 Arbeitsschritte:
