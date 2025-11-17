@@ -11,7 +11,7 @@ section: process
 
 Rechnungen erstellen und versenden.
 
-## Arbeitsrapport Projekte validieren
+## Arbeitsrapport validieren
 
 Arbeitsrapport werden jeweils am Ende des Monats validiert, daraus werden die Ausgangsrechnungen generiert.
 
