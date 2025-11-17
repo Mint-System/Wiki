@@ -49,7 +49,7 @@ ssh "$SERVER" docker stop "$ODOO_CONTAINER"
 Drop the target database.
 
 ```bash
-ssh -p "$PORT" "$SERVER" docker-postgres-drop -c "$POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
+ssh -p "$PORT" "$SERVER" docker-postgres-drop -c "$TARGET_POSTGRES_CONTAINER" -d "$TARGET_DATABASE"
 ```
 
 Run upgrade script in **test** mode.

@@ -179,24 +179,26 @@ task update-with-llm addons/$REPO/$MODULE/views/*.xml $task
 
 ```bash
 task=$(cat << EOF
-Migrate model fields state definitions:
-For example:
-    READONLY_STATES = {
-        "draft": [("readonly", False)],
-        "initialized": [("readonly", True)],
-        "connected": [("readonly", True)],
-        "deleted": [("readonly", False)],
-    }
-    name = fields.Char(required=True, states=READONLY_STATES)
-    key = fields.Char(
-        states={"draft": [("readonly", False)], "assigned": [("deleted", False)]},
-        tracking=True,
-    )
+Migrate model fields state definitions.
+Replace this kind of conditions:
 
-To a single function:
-    def _is_readonly(self):
-        self.ensure_one()
-        return self.state in ['initialized', 'connected']
+READONLY_STATES = {
+	"draft": [("readonly", False)],
+	"initialized": [("readonly", True)],
+	"connected": [("readonly", True)],
+	"deleted": [("readonly", False)],
+}
+name = fields.Char(states=READONLY_STATES)
+key = fields.Char(
+	readonly=True
+	states={"draft": [("readonly", False)], "assigned": [("deleted", False)]},
+)
+
+With a form view definitions of the respective model:
+
+<field name="name" readonly="state in ['initialized', 'connected']"/>
+<field name="key" readonly="state not in ['draft', 'deleted']"/>
+
 EOF
 )
 
