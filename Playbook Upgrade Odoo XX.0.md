@@ -30,7 +30,7 @@ export TARGET_POSTGRES_CONTAINER="postgres02"
 export TARGET_DATABASE="upgrade"
 ```
 
-Create credentials file with `task create-odoo-env "$COMPANY"`. Test connection with `task test-xmlrpc "$COMPANY"`.
+Create credentials file with `task create-odoo-env odoo.example.com`. Test connection with `task test-xmlrpc odoo.example.com`.
 
 Backup and restore database if postgres container is different.
 
