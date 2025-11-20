@@ -46,10 +46,13 @@ Mint System Team
 ```
 
 - In Ansible-Inventar die Informationen zur Odoo Revision aktualisieren
-- Auf Server einloggen und ein Odoo-Backup triggern `run-cron-job -n "Backup job odoo backup $DATENBANK"`
-- Den Odoo-Container neu deployment `ansible-playbook -i inventories/odoo plays/odoo.yml -t odoo -l $ALIAS`
-- Nach erfolgreichem Deployment das Base-Modul aktualisieren `docker-odoo-update -c $CONTAINER -d $DATABASE -u base`
-- Auf Odoo einloggen und auf Fehlermeldungen prüfen
+- Den Odoo-Container neu deployment `ansible-playbook -i inventories/odoo plays/odoo.yml -l $ALIAS`
+- Nach erfolgreichem Deployment die Aktion *Apps > Auto-Upgrade Modules* ausführen
+
+::: warning
+Damit diese Aktion verfügbar ist, muss das Modul `module_auto_update` installiert werden.
+:::
+
 - Mitteilung an Kunde via Odoo Dialog
 
 ```
