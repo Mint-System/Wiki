@@ -1,3 +1,8 @@
+---
+section: organisation
+kind:
+  - reference
+---
 
 # Michael Ziege
 

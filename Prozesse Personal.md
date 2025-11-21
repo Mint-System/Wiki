@@ -13,4 +13,5 @@ Dokumentation der Personal-Prozesse.
 
 - [[Prozesse Personal - Bewerbung]]
 - [[Prozesse Personal - Onboarding]]
+- [[Prozesse Personal - Einrichten Arbeitsplatz]]
 - [[Prozesse Personal - Offboarding]]

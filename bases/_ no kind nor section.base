@@ -15,6 +15,8 @@ views:
       - file.tags
       - lang
     sort:
+      - property: file.tags
+        direction: ASC
       - property: kind
         direction: DESC
     columnSize:

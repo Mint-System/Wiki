@@ -3,6 +3,8 @@ tags:
   - Definition
 responsible: Entwickler
 section: organisation
+kind:
+  - reference
 ---
 
 # Ulrich Kilian
