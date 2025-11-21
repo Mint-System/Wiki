@@ -30,6 +30,7 @@ Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[G
 - [[Ulrich Kilian]]
 - [[Marcus Menzel]]
 - [[Gerit Tänzer]]
+- [[Michael Ziege]]
 
 ## Freischaffende
 

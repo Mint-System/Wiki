@@ -21,7 +21,7 @@ Arbeitsschritte:
 
 ## Technisch
 
-### Logins Mint System erstellen
+### Login Infomaniak erstellen
 
 Arbeitsschritte:
 
@@ -29,8 +29,13 @@ Arbeitsschritte:
 - Infomaniak Account mit Rolle "Benutzer" erstellen
 - Infomaniak Account dem Team "Mint System GmbH" hinzufügen
 - E-Mail-Adresse gemäss Wiki-Definition erstellen
-- In Infomaniak "Verwaltung der Kalender" den Kalender des Benutzers mit der Organisation teilen
 - Einladungs-Informationen an private Mail-Adresse schicken
+- In Infomaniak "Verwaltung der Kalender" den Kalender des Benutzers mit der Organisation teilen
+
+### Login Mint System erstellen
+
+Arbeitsschritte:
+
 - Matrix-Benutzer erstellen
 - Keycloak-Benutzer anlegen
 - Rolle hinzufügen:
@@ -52,7 +57,7 @@ Ich habe für dich unter der Adresse ﻿﻿vorname.nachname@mint-system.ch﻿﻿
 
 Der erste Schritt ist die Einrichtung des Postfachs. Ich habe auf deine private Mail-Adresse eine Einladungsmails mit den Details geschickt.
 
-In einem zweiten Schritt kannst du das Password für das Login Mint System festlegen: https://login.mint-system.ch/realms/mint-system.ch/account
+In einem zweiten Schritt kannst du das Passwort für das Login Mint System festlegen: https://login.mint-system.ch/realms/mint-system.ch/account
 Mit diesem Login kannst dich auf den folgenden Diensten einloggen:
 
 - https://erp.mint-system.ch/
@@ -60,6 +65,8 @@ Mit diesem Login kannst dich auf den folgenden Diensten einloggen:
 - https://monitor.mint-system.ch/
 
 Anstatt den Benutzernamen und Passwort einzugeben, wählst du jeweils den Knopf "Login Mint System".
+
+Lieber Gruss
 ```
 
 ### Zugriff erteilen
@@ -69,7 +76,9 @@ Arbeitsschritte:
 - Benutzernamen für Git und SSH-Schlüssel erfragen
 
 ```
-Gerne möchten wir dir Zugriff auf die Organisations-Accounts von Mint System erteilen und nach Bedarf Zugriff auf die verwalteten Server geben. Dazu brauchen wir die folgenden Informationen:
+Hallo Vorname
+
+Gerne möchten wir dir Zugriff auf die Organisations-Accounts von Mint System geben und bei Bedarf Zugriff auf die verwalteten Server erteilen. Um den Zugriff einzurichten brauchen wir die folgenden Informationen:
 
 - GitHub Benutzernamen
 - GitLab Benutzernamen
