@@ -19,11 +19,12 @@ Arbeitsschritte:
 - Neue Revision in Odoo Build erstellen
 
 ```bash
-task create-revision 18.0.20251008
+task checkout 18.0
+task create-revision 18.0.20251121
+task commit-and-push-revision
 ```
 
-- Release committen `task commit-and-push-revision
-- Dokumentation mit Odoo Revisionen aktualisieren
+- Dokumentationen mit Odoo Revisionen aktualisieren
 	- [[Odoo Build]]
 	- [[Kubernetes Build]]
 
