@@ -25,6 +25,7 @@ States:
 - **Missing**: The source of the module could be found
 - **Deprecated**: This module must be removed before upgrade
 
-| Module Name             | State   | Comment                                              |
-| ----------------------- | ------- | ---------------------------------------------------- |
-| account_invoice_carrier | Migrate | Mint System Module: Upgrade from Version 14.0 needed |
+| Module Name               | State | Provider   | Comment |
+| ------------------------- | ----- | ---------- | ------- |
+| account_invoice_timesheet |       | Thirdparty |         |
+| auditlog                  |       | OCA        |         |

@@ -20,16 +20,6 @@ Arbeitsschritte:
 - Erstellen Liste der aktiven Snippets
 - Upgrade-Strategy wählen: [[Odoo Enterprise Upgrade]] oder [[Odoo Community Upgrade]]
 
-## Modulliste erstellen
-
-Arbeitsschritte:
-
-- Auf Server einloggen `ssh $ALIAS.mint-system.com`
-- Modulliste generieren `docker-odoo-cloc -c $CONTAINER -d $DATABASE`
-- Modulname aus Konsole kopieren und filtern
-- Vorlage [[Migrate modules to Odoo XX.0]] kopieren
-- Modulnamen einfügen
-
 ## Module prüfen
 
 Arbeitsschritte:
