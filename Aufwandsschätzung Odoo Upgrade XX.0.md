@@ -10,17 +10,17 @@ kind:
 
 Mit diesem Angebot offerieren wir ein Upgrade für die Odoo-Installation von ==KUNDE==. Das Upgrade umfasst ==zwei== Versionssprünge von Version ==XX==.0 auf ==XX==.0. Das Odoo Upgrade ist in unserem Wiki im Detail beschrieben: <https://wiki.mint-system.ch/odoo-upgrade.html>.
 
-Die Kalkulation basiert auf folgender Aufwandsschätzung:
+Die Kalkulation des Angebots basiert auf folgender Aufwandsschätzung:
 
-| Phase                       | Faktor                          | Berechnung                                                                   | Aufwand \[h\] |
-| --------------------------- | ------------------------------- | :--------------------------------------------------------------------------- | ------------- |
-| Bereitstellung Umgebung     | Managed oder Unmanaged Hosting  | 2h Managed Server<br>4h Unmanaged Server                                     | 2             |
-| Modul-Prüfung               | Module von bekannten Dritten.   | 15min pro Modul von bekannten Providern (OCA, Mint System, Cetmix).          | 47*0.25=12    |
-| Modul-Migration             | Module von unbekannten Dritten. | 1h pro Modul von unbekannten Providern.                                      | 27            |
-| Upgrade Datenbank           | Versions-Sprünge                | 2h x Version (Odoo 14, 15, 16, 17, 18, 19)                                   | 6             |
-| Bereinigung Anpassungen     | Snippets / Studio               | Anzahl Snippets x 5min (ohne Studio)<br>Anzahl Snippets x 15min (mit Studio) | 0             |
-| Re-Implementation Workflows | Odoo-Workflow                   | 4h für Re-Implementation Odoo Workflow.                                      | 4             |
-|                             |                                 | **Summe:**                                                                   | **38**        |
+| Phase                       | Faktor                          | Berechnung                                                         | Aufwand \[h\] |
+| --------------------------- | ------------------------------- | :----------------------------------------------------------------- | ------------- |
+| Bereitstellung Umgebung     | Managed oder Unmanaged Hosting  | 2h Managed Hosting<br>4h Unmanaged Hosting                         | 2             |
+| Modul-Prüfung               | Module von bekannten Dritten.   | 15min pro Modul von bekannten Providern (OCA, Mint System, Cetmix) | 47x0.25~=12   |
+| Modul-Migration             | Module von unbekannten Dritten. | 1h pro Modul von unbekannten Providern                             | 27            |
+| Upgrade Datenbank           | Versions-Sprünge                | 2h x Version (Odoo 14, 15, 16, 17, 18, 19)                         | 6             |
+| Bereinigung Anpassungen     | Snippets / Studio-Edits         | Anzahl Snippets/Edits x 15min<br>                                  | 0             |
+| Re-Implementation Workflows | Odoo-Workflow                   | 4h für Re-Implementation Odoo Workflow                             | 4             |
+|                             |                                 | **Summe:**                                                         | **38**        |
 
 Liste der installierten Module von Dritten:
 

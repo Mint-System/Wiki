@@ -6,11 +6,10 @@ section: template
 kind:
   - reference
 ---
-```
 ---
 project: Project XY
 ---
-```
+
 
 # Migrate modules to Odoo XX.0
 
@@ -25,7 +24,7 @@ States:
 - **Missing**: The source of the module could be found
 - **Deprecated**: This module must be removed before upgrade
 
-| Module Name               | State | Provider   | Comment |
-| ------------------------- | ----- | ---------- | ------- |
-| account_invoice_timesheet |       | Thirdparty |         |
-| auditlog                  |       | OCA        |         |
+| Module Name               | Provider   | State | Comment |
+| ------------------------- | ---------- | ----- | ------- |
+| account_invoice_timesheet | Thirdparty |       |         |
+| auditlog                  | OCA        |       |         |
