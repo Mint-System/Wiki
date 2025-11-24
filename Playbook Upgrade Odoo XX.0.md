@@ -16,6 +16,7 @@ The playbook supports two modes: **test** and **production**. When executing the
 Start a command line and copy these env vars:
 
 ```bash
+export HOST=upgrade.example.com
 export SERVER="zeus.mint-system.com"
 export PORT=22
 
@@ -30,7 +31,7 @@ export TARGET_POSTGRES_CONTAINER="postgres02"
 export TARGET_DATABASE="upgrade"
 ```
 
-Create credentials file with `task create-odoo-env odoo.example.com`. Test connection with `task test-xmlrpc odoo.example.com`.
+Create credentials file with `task create-odoo-env $HOST`. Test connection with `task test-xmlrpc $HOST.
 
 Backup and restore database if postgres container is different.
 
@@ -94,8 +95,8 @@ ssh -p "$PORT" "$SERVER" docker-odoo-clear-assets -c "$TARGET_ODOO_CONTAINER" -d
 Update snippets.
 
 ```bash
-task disable-snippet $COMPANY snippets/sale.report_saleorder_document.add_note_space.xml
-task disable-snippet $COMPANY snippets/sale.report_saleorder_document.add_signature_note.xml
+task disable-snippet $HOST snippets/sale.report_saleorder_document.add_note_space.xml
+task disable-snippet $HOST snippets/sale.report_saleorder_document.add_signature_note.xml
 ```
 
 ## Testing 🔬
