@@ -46,6 +46,10 @@ Bereit
 
 In Arbeit
 
+### ▶️
+
+Btrieb
+
 ### 💬
 
 Feedback
@@ -61,6 +65,10 @@ Postlog⭐
 ⭐
 
 Priorität
+
+### 🛑
+
+Abgebrochen
 
 ## Farben
 
