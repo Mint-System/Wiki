@@ -16,7 +16,7 @@ The playbook supports two modes: **test** and **production**. When executing the
 Start a command line and copy these env vars:
 
 ```bash
-export HOST=u'pgrade.example.com'
+export HOST='upgrade.example.com'
 export SERVER='zeus.mint-system.com'
 export PORT=22
 
