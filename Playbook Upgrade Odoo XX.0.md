@@ -16,19 +16,19 @@ The playbook supports two modes: **test** and **production**. When executing the
 Start a command line and copy these env vars:
 
 ```bash
-export HOST=upgrade.example.com
-export SERVER="zeus.mint-system.com"
+export HOST=u'pgrade.example.com'
+export SERVER='zeus.mint-system.com'
 export PORT=22
 
-export ODOO_CONTAINER="odoo01"
-export ODOO_VERSION="16.0"
-export POSTGRES_CONTAINER="postgres01"
-export DATABASE="odoo"
+export ODOO_CONTAINER='odoo01'
+export ODOO_VERSION='16.0'
+export POSTGRES_CONTAINER='postgres01'
+export DATABASE='odoo'
 
-export TARGET_ODOO_CONTAINER="odoo02"
-export TARGET_ODOO_VERSION="18.0"
-export TARGET_POSTGRES_CONTAINER="postgres02"
-export TARGET_DATABASE="upgrade"
+export TARGET_ODOO_CONTAINER='odoo02'
+export TARGET_ODOO_VERSION='18.0'
+export TARGET_POSTGRES_CONTAINER='postgres02'
+export TARGET_DATABASE='upgrade'
 ```
 
 Create credentials file with `task create-odoo-env $HOST`. Test connection with `task test-xmlrpc $HOST.
