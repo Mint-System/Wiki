@@ -96,7 +96,7 @@ Update snippets.
 
 ```bash
 task disable-snippet $HOST snippets/sale.report_saleorder_document.add_note_space.xml
-task disable-snippet $HOST snippets/sale.report_saleorder_document.add_signature_note.xml
+task install-snippet $HOST snippets/sale.report_saleorder_document.add_signature_note.xml
 ```
 
 ## Testing 🔬
