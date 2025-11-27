@@ -14,16 +14,16 @@ The playbook supports two modes: test and production. When executing the product
 Set env vars for the Odoo.sh branch.
 
 ```bash
-export COMPANY="gelso"
+export HOST="gelso.odoo.com"
 export ODOO_DATABASE="gelsoag-upgrade-17425638"
 export ODOO_URL=https://$ODOO_DATABASE.dev.odoo.com
 export ODOO_USERNAME=login@mint-system.ch
 export ODOO_PASSWORD=***
 ```
 
-Create credentials file with `task create-odoo-env "$COMPANY"`.
+Create credentials file with `task create-env "$HOST" odoo`.
 
-Test connection with `task test-xmlrpc "$COMPANY"`.
+Test connection with `task test-xmlrpc "$HOST"`.
 
 Backup database in Odoo.sh project.
 
