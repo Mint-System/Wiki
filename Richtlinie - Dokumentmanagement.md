@@ -5,7 +5,7 @@ kind: explain
 section: policy
 ---
 
-# Richtlinie - DMS
+# Richtlinie - Dokumentmanagement
 
 [[DMS]] der Mint System.
 

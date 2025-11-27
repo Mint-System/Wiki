@@ -12,7 +12,7 @@ section: bases
 | [[Richtlinie - Aufgabenverwaltung]] | explain | policy |
 | [[Richtlinie - Calc Dokumente]] | explain | policy |
 | [[Richtlinie - Code Sharing]] | explain | policy |
-| [[Richtlinie - DMS]] | explain | policy |
+| [[Richtlinie - Dokumentmanagement]] | explain | policy |
 | [[Richtlinie - Datenschutz]] | explain | policy |
 | [[Richtlinie - E-Mail]] | explain | policy |
 | [[Richtlinie - Finanzen]] | explain | policy |

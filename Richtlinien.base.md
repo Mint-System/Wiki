@@ -7,7 +7,7 @@
 | [[Richtlinie - Calc Dokumente]]        | explain   |
 | [[Richtlinie - Code Sharing]]          | explain   |
 | [[Richtlinie - Datenschutz]]           | explain   |
-| [[Richtlinie - DMS]]                   | explain   |
+| [[Richtlinie - Dokumentmanagement]]                   | explain   |
 | [[Richtlinie - E-Mail]]                | explain   |
 | [[Richtlinie - Finanzen]]              | explain   |
 | [[Richtlinie - Kalender]]              | explain   |
