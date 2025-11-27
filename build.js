@@ -110,7 +110,7 @@ function renderEdge(edge) {
   const color = mapColor(edge['color'])
   const fromSide = edge['fromSide']
   const toSide = edge['toSide']
-  const fontFamily = 'DejaVu Sans Mono, Consolas, SF Mono'
+  const fontFamily = '"DejaVu Sans Mono", Consolas, "SF Mono", Monaco, "Courier New", monospace';
   const fontSize = 15
   const fontColor = '#2c2d2c'
   const fillColor = '#fff'
@@ -262,7 +262,7 @@ function formatText(text) {
 function renderNode(node) {
   const strockWidth = 4
   const fontWeight = 'normal'
-  const fontFamily = 'DejaVu Sans Mono, Consolas, SF Mono'
+  const fontFamily = '"DejaVu Sans Mono", Consolas, "SF Mono", Monaco, "Courier New", monospace';
 
   let textOffsetX = 15
   let textOffsetY = 7
@@ -347,7 +347,7 @@ function renderNode(node) {
 function renderGroup(group) {
   const strockWidth = 4
   const fontWeight = 'bold'
-  const fontFamily = 'DejaVu Sans Mono, Consolas, SF Mono'
+  const fontFamily = '"DejaVu Sans Mono", Consolas, "SF Mono", Monaco, "Courier New", monospace';
 
   let textOffsetX = 15
   let textOffsetY = -15
