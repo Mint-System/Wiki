@@ -8,13 +8,16 @@ views:
             - kind.isEmpty()
             - section.isEmpty()
         - '!file.name.endsWith("excalidraw")'
+        - '!file.name.endsWith("base")'
     order:
       - file.name
       - kind
       - section
-      - file.tags
       - lang
+      - file.tags
     sort:
+      - property: file.name
+        direction: ASC
       - property: file.tags
         direction: ASC
       - property: kind

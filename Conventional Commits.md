@@ -1,6 +1,9 @@
 ---
 tags:
   - Definition
+section: dev
+kind:
+  - reference
 ---
 
 # Conventional Commits

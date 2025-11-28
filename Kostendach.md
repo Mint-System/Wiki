@@ -1,6 +1,9 @@
 ---
 tags:
   - Definition
+kind:
+  - explain
+section: term
 ---
 
 # Kostendach

@@ -1,6 +1,9 @@
 ---
 tags:
   - Definition
+section: infrastructure
+kind:
+  - reference
 ---
 
 # terra computer

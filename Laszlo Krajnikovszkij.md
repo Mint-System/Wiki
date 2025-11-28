@@ -3,6 +3,9 @@ tags:
   - Definition
 responsibilities:
   - Infrastruktur
+kind:
+  - reference
+section: organisation
 ---
 
 # Laszlo Krajnikovszkij

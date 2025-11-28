@@ -1,6 +1,9 @@
 ---
 tags:
   - Prozess
+kind:
+  - howto
+section: guide
 ---
 
 # Odoo On-Premise Checkliste

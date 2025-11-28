@@ -23,7 +23,6 @@ Erledigte Evaluationen:
 
 - [[Evaluation IaaS]]
 - [[Evaluation Odoo Report]]
-- [[Evaluation Telefonieanbieter]]
 - [[Evaluation Nextcloud Office]]
 - [[Odoo Drucken#Evaluation]]
 - [[Evaluation Odoo Hardware]]

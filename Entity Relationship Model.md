@@ -1,6 +1,9 @@
 ---
 tags:
   - Definition
+section: term
+kind:
+  - explain
 ---
 
 # Entity Relationship Model

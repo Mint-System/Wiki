@@ -32,7 +32,7 @@ section: bases
 | [[Thunderbird Appointment]] |  | tool |
 | [[Tools]] | reference | tool |
 | [[VSCodium]] |  | tool |
-| [[Workplace Software]] |  | tool |
+| [[Arbeitsplatz Software]] |  | tool |
 | [[Zed]] | reference | tool |
 | [[Zellj]] |  | tool |
 | [[Zsh]] | reference | tool |

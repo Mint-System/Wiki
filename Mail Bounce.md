@@ -2,6 +2,7 @@
 tags:
   - Note
 kind: explain
+section: term
 ---
 
 # Mail Bounce

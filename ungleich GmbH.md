@@ -2,6 +2,7 @@
 tags:
   - Website
 kind: reference
+section: vendor
 ---
 
 # ungleich GmbH

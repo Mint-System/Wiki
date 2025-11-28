@@ -3,7 +3,7 @@ tags:
   - Prozess
 kind:
   - howto
-section: communication
+section: guide
 ---
 
 # Odoo App PoS Checkliste

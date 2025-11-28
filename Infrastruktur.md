@@ -2,6 +2,7 @@
 tags:
   - Asset
 kind: reference
+section: infrastructure
 ---
 
 # Infrastruktur
@@ -17,7 +18,7 @@ Beinhaltet:
 - [[DNS]]
 - [[Monitoring]]
 - [[Service Accounts]]
-- [[Mail]]
+- [[Mail-Hosting]]
 - [[Terraform]]
 - [[Kubernetes]]
 - [[Nix]]

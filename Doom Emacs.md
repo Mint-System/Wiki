@@ -1,6 +1,9 @@
 ---
 tags:
   - Definition
+section: tool
+kind:
+  - reference
 ---
 
 # Doom Emacs

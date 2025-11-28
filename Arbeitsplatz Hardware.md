@@ -1,17 +1,20 @@
 ---
 tags:
   - Asset
+section: infrastructure
+kind:
+  - reference
 ---
 
-# Workplace Hardware
+# Arbeitsplatz Hardware
 
 ## Lieferant
 
-Wir beziehen Hardware vorzugsweise von [[terra computer]].
+Wir beziehen Hardware vorzugsweise von [[TUXEDO Computers]] oder [[terra computer]].
 
 ## Laptop
 
-Wir empfehlen einen Laptop von [[System76]], beispielsweise den [Lemur Pro](https://system76.com/laptops/lemur).
+Wir empfehlen einen Laptop von [[TUXEDO Computers]].
 
 ## Keyboard
 

@@ -1,6 +1,9 @@
 ---
 tags:
   - Definition
+kind:
+  - reference
+section: term
 ---
 
 # Groupware

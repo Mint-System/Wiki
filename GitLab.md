@@ -1,6 +1,9 @@
 ---
 tags:
   - Definition
+section: vendor
+kind:
+  - reference
 ---
 
 # GitLab

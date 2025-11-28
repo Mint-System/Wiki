@@ -10,11 +10,10 @@ kind:
 
 Definition des Arbeitsplatzes.
 
-- Bring your own Device
+- Bring your own Device: [[Arbeitsplatz Hardware]]
 - OS ist Linux-basiert
 - Browser [[Firefox]] / [[LibreWolf]]
 - Mail [[Thunderbird]]
 - Command Line [[Zsh]]
 - Editor [[Zed]]
 
-Siehe [[Workplace Hardware]] und [[Workplace Software]].

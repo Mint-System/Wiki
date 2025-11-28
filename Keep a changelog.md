@@ -1,3 +1,8 @@
+---
+kind:
+  - reference
+section: dev
+---
 # Keep a changelog
 
 Website: <https://keepachangelog.com/>
