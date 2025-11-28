@@ -1,3 +1,8 @@
+---
+section: meta
+kind:
+  - explain
+---
 # Agents
 
 ## Taskfile
