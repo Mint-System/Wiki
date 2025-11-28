@@ -10,12 +10,14 @@ section: bases
 | [[Assets for Odoo Modules]] | reference | dev |
 | [[Caluma]] | reference | dev |
 | [[Compare coding agents]] | explain | dev |
+| [[Conventional Commits]] | reference | dev |
 | [[Copier]] | reference | dev |
 | [[Cursed Knowledge]] | explain | dev |
 | [[Evaluation Odoo Report]] | explain | dev |
 | [[Foreign Data Wrapper]] | reference | dev |
 | [[Github - Download binary files]] | howto | dev |
 | [[Hugo]] | reference | dev |
+| [[Keep a changelog]] | reference | dev |
 | [[Keycloak Upgrade]] | tutorial | dev |
 | [[Large Language Model Agents]] | reference | dev |
 | [[Mailpit]] | reference | dev |
@@ -43,6 +45,7 @@ section: bases
 | [[PostgreSQL Upgrade]] | howto | dev |
 | [[PostgreSQL]] | reference | dev |
 | [[Qwen Coder]] | reference | dev |
+| [[Semantic Versioning]] | reference | dev |
 | [[Test FDW with Odoo]] | tutorial | dev |
 | [[Test Odoo Mail Flow]] | explain | dev |
 | [[Tutorial - Create App with Odoo Studio]] | tutorial | dev |

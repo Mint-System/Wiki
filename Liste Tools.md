@@ -12,8 +12,10 @@ section: bases
 | [[BPMN]] | explain | tool |
 | [[Collaboration]] | reference | tool |
 | [[CrowdSec]] | reference | tool |
-| [[Emacs]] |  | tool |
-| [[Excalidraw]] |  | tool |
+| [[Doom Emacs]] | reference | tool |
+| [[Emacs]] | reference | tool |
+| [[Excalidraw]] | reference | tool |
+| [[Exoscale cli]] | howto | tool |
 | [[Fernwartung]] |  | tool |
 | [[Firefox]] | reference | tool |
 | [[Helix]] | reference | tool |
@@ -32,11 +34,11 @@ section: bases
 | [[Thunderbird Appointment]] |  | tool |
 | [[Tools]] | reference | tool |
 | [[VSCodium]] |  | tool |
-| [[Arbeitsplatz Software]] |  | tool |
 | [[Zed]] | reference | tool |
 | [[Zellj]] |  | tool |
 | [[Zsh]] | reference | tool |
 | [[bpmn.io]] | reference | tool |
+| [[diagrams.net]] | reference | tool |
 | [[dotfiles]] | reference | tool |
 | [[rustdesk]] | reference | tool |
 | [[tmux]] | reference | tool |

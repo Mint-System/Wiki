@@ -126,6 +126,7 @@ section: bases
 | [[Prozesse Odoo.sh - Upgrade Implementation]] | howto | process |
 | [[Prozesse Odoo.sh]] | reference | process |
 | [[Prozesse Personal - Bewerbung]] | howto | process |
+| [[Prozesse Personal - Einrichten Arbeitsplatz]] | howto | process |
 | [[Prozesse Personal - Offboarding]] | howto | process |
 | [[Prozesse Personal - Onboarding]] | howto | process |
 | [[Prozesse Personal]] | reference | process |

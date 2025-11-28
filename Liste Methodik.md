@@ -10,6 +10,7 @@ section: bases
 | [[Akquise]] | explain |
 | [[Anforderungsanalyse]] | reference |
 | [[Aufgabenplanung]] | explain |
+| [[Aufwandsschätzung]] | explain |
 | [[Basiswissen Requirements Engineering]] | explain |
 | [[Datenverarbeitung]] | explain |
 | [[Design Decisions]] | tutorial |

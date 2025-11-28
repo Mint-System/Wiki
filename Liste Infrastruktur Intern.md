@@ -12,6 +12,7 @@ section: bases
 | [[Ansible Inventory]] | reference | infrastructure |
 | [[Ansible Vault]] | reference | infrastructure |
 | [[Ansible]] | reference | infrastructure |
+| [[Arbeitsplatz Hardware]] | reference | infrastructure |
 | [[Arbeitsplatz]] | reference | infrastructure |
 | [[Backup Replication]] | explain | infrastructure |
 | [[Backup]] | explain | infrastructure |
@@ -23,12 +24,17 @@ section: bases
 | [[FireHOL]] | reference | infrastructure |
 | [[Helm Values]] | reference | infrastructure |
 | [[Infrastructure Mint System]] | explain | infrastructure |
+| [[Infrastruktur]] | reference | infrastructure |
 | [[Innernet]] | reference | infrastructure |
+| [[Keychron]] | reference | infrastructure |
 | [[Kubernetes Build]] | reference | infrastructure |
+| [[Mail-Hosting]] |  | infrastructure |
 | [[Mailgun]] | howto | infrastructure |
 | [[Main Build]] | reference | infrastructure |
+| [[Mintsys]] | reference | infrastructure |
 | [[Server]] | reference | infrastructure |
 | [[Servers]] | reference | infrastructure |
 | [[Telefonie]] | reference | infrastructure |
 | [[Wireguard]] | reference | infrastructure |
 | [[autossh]] | explain | infrastructure |
+| [[terra computer]] | reference | infrastructure |

@@ -9,6 +9,7 @@ section: bases
 | --- | --- | --- |
 | [[Exoscale - Extend disk space]] | howto | vendor |
 | [[GitHub]] | reference | vendor |
+| [[GitLab]] | reference | vendor |
 | [[Hetzner - Festplattenspeicher erweitern]] | howto | vendor |
 | [[Hetzner - Projekt verwalten]] | howto | vendor |
 | [[Hetzner - RAM-Speicher erhöhen]] | howto | vendor |
@@ -18,5 +19,9 @@ section: bases
 | [[Infomaniak Kubernetes]] | howto | vendor |
 | [[Infomaniak Migration]] | explain | vendor |
 | [[Infomaniak]] | reference | vendor |
+| [[Inventage]] | reference | vendor |
+| [[Nine]] | reference | vendor |
+| [[TUXEDO Computers]] | reference | vendor |
 | [[Worldline]] | reference | vendor |
 | [[peoplefone]] | reference | vendor |
+| [[ungleich GmbH]] | reference | vendor |

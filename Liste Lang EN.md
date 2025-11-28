@@ -13,7 +13,7 @@ section: bases
 | [[Cursed Knowledge]] | explain | dev |
 | [[Develope an Odoo module]] | explain | communication |
 | [[Exoscale - Extend disk space]] | howto | vendor |
-| [[Exoscale cli]] |  |  |
+| [[Exoscale cli]] | howto | tool |
 | [[Git Handbook]] | howto | handbook |
 | [[Git Rebase]] | howto |  |
 | [[Hetzner Troubleshooting]] | howto | vendor |

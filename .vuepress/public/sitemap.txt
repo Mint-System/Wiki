@@ -22,6 +22,7 @@ https://wiki.mint-system.ch/ansible-vault.html
 https://wiki.mint-system.ch/ansible.html
 https://wiki.mint-system.ch/apache-superset.html
 https://wiki.mint-system.ch/applikation-mit-odoo-entwickeln.html
+https://wiki.mint-system.ch/arbeitsplatz-hardware.html
 https://wiki.mint-system.ch/arbeitsplatz-am-bahnhofplatz-1.html
 https://wiki.mint-system.ch/arbeitsplatz.html
 https://wiki.mint-system.ch/assets-for-odoo-modules.html
@@ -31,6 +32,7 @@ https://wiki.mint-system.ch/aufgabenplanung.html
 https://wiki.mint-system.ch/auftragsverarbeitungsvertrag.html
 https://wiki.mint-system.ch/aufwandsschätzung-odoo-upgrade-xx.0.html
 https://wiki.mint-system.ch/aufwandsschätzung.html
+https://wiki.mint-system.ch/ausfall-amazon-aws-und-microsoft-azure.html
 https://wiki.mint-system.ch/binary-business.html
 https://wiki.mint-system.ch/binary-one-gmbh.html
 https://wiki.mint-system.ch/bpmn.html
@@ -41,7 +43,6 @@ https://wiki.mint-system.ch/basiswissen-requirements-engineering.html
 https://wiki.mint-system.ch/bauteile-mit-odoo-zertifizieren.html
 https://wiki.mint-system.ch/begriffe.html
 https://wiki.mint-system.ch/behalten-sie-ihre-unternehmensdaten-mit-nextcloud-im-griff.html
-https://wiki.mint-system.ch/beispiel-für-abhängigkeit-zu-amazon-aws.html
 https://wiki.mint-system.ch/beratungsprojekte.html
 https://wiki.mint-system.ch/besser-als-alternativ.html
 https://wiki.mint-system.ch/bestandsaufnahme-office-365.html
@@ -70,6 +71,7 @@ https://wiki.mint-system.ch/copier.html
 https://wiki.mint-system.ch/corporate-design.html
 https://wiki.mint-system.ch/crossplane.html
 https://wiki.mint-system.ch/crowdsec.html
+https://wiki.mint-system.ch/cursed-knowledge.html
 https://wiki.mint-system.ch/dkim.html
 https://wiki.mint-system.ch/dmarc.html
 https://wiki.mint-system.ch/dms.html
@@ -111,12 +113,10 @@ https://wiki.mint-system.ch/entity-relationship-model.html
 https://wiki.mint-system.ch/entwicklung.html
 https://wiki.mint-system.ch/equitania-software-gmbh.html
 https://wiki.mint-system.ch/erklärung.html
-https://wiki.mint-system.ch/estimation.html
 https://wiki.mint-system.ch/evaluation-iaas.html
 https://wiki.mint-system.ch/evaluation-nextcloud-office.html
 https://wiki.mint-system.ch/evaluation-odoo-hardware.html
 https://wiki.mint-system.ch/evaluation-odoo-report.html
-https://wiki.mint-system.ch/evaluation-telefonieanbieter.html
 https://wiki.mint-system.ch/evaluation.html
 https://wiki.mint-system.ch/excalidraw.html
 https://wiki.mint-system.ch/exoscale-extend-disk-space.html
@@ -152,12 +152,10 @@ https://wiki.mint-system.ch/google-ads.html
 https://wiki.mint-system.ch/governance.html
 https://wiki.mint-system.ch/grafana-dashboard.html
 https://wiki.mint-system.ch/grafana.html
-https://wiki.mint-system.ch/green.html
 https://wiki.mint-system.ch/groupware.html
 https://wiki.mint-system.ch/hack4socialgood-2024.html
-https://wiki.mint-system.ch/hades.html
 https://wiki.mint-system.ch/helix.html
-https://wiki.mint-system.ch/hermes.html
+https://wiki.mint-system.ch/helm-values.html
 https://wiki.mint-system.ch/hetzner-festplattenspeicher-erweitern.html
 https://wiki.mint-system.ch/hetzner-projekt-verwalten.html
 https://wiki.mint-system.ch/hetzner-ram-speicher-erhöhen.html
@@ -207,8 +205,6 @@ https://wiki.mint-system.ch/keycloak-upgrade.html
 https://wiki.mint-system.ch/keycloak.html
 https://wiki.mint-system.ch/kollaboration.html
 https://wiki.mint-system.ch/kommandozeile.html
-https://wiki.mint-system.ch/konkurrenten.html
-https://wiki.mint-system.ch/konkurrenzprodukte.html
 https://wiki.mint-system.ch/konzepte.html
 https://wiki.mint-system.ch/koordination-wartung.html
 https://wiki.mint-system.ch/kostendach.html
@@ -235,14 +231,19 @@ https://wiki.mint-system.ch/link-2500-portable-flex.html
 https://wiki.mint-system.ch/linux-server-patching-dokumentation.html
 https://wiki.mint-system.ch/linux-server-patching.html
 https://wiki.mint-system.ch/linux.html
+https://wiki.mint-system.ch/liste-0-no-kind-nor-section.html
 https://wiki.mint-system.ch/liste-accounts.html
+https://wiki.mint-system.ch/liste-anleitungen.html
 https://wiki.mint-system.ch/liste-begriffe.html
 https://wiki.mint-system.ch/liste-blog.html
 https://wiki.mint-system.ch/liste-dienstleistung.html
 https://wiki.mint-system.ch/liste-handbücher.html
-https://wiki.mint-system.ch/liste-infrastruktur.html
+https://wiki.mint-system.ch/liste-hardware.html
+https://wiki.mint-system.ch/liste-infrastruktur-extern.html
+https://wiki.mint-system.ch/liste-infrastruktur-intern.html
 https://wiki.mint-system.ch/liste-kommunikation.html
 https://wiki.mint-system.ch/liste-kontakte.html
+https://wiki.mint-system.ch/liste-lang-en.html
 https://wiki.mint-system.ch/liste-manpages.html
 https://wiki.mint-system.ch/liste-meta.html
 https://wiki.mint-system.ch/liste-methodik.html
@@ -257,8 +258,8 @@ https://wiki.mint-system.ch/liste-softwareentwicklung.html
 https://wiki.mint-system.ch/liste-spezifikationen.html
 https://wiki.mint-system.ch/liste-tools.html
 https://wiki.mint-system.ch/liste-troubleshooting.html
+https://wiki.mint-system.ch/liste-unternehmen.html
 https://wiki.mint-system.ch/liste-vorlagen.html
-https://wiki.mint-system.ch/liste-_-no-kind-nor-section.html
 https://wiki.mint-system.ch/liste-übersicht.html
 https://wiki.mint-system.ch/lizenzmanagement-mit-odoo.html
 https://wiki.mint-system.ch/login-mint-system.html
@@ -270,7 +271,7 @@ https://wiki.mint-system.ch/mail-bounce.html
 https://wiki.mint-system.ch/mail-hosting.html
 https://wiki.mint-system.ch/mail-security.html
 https://wiki.mint-system.ch/mail-accounts.html
-https://wiki.mint-system.ch/mail.html
+https://wiki.mint-system.ch/mail-hosting.html
 https://wiki.mint-system.ch/mailgun.html
 https://wiki.mint-system.ch/mailhog.html
 https://wiki.mint-system.ch/mailpit.html
@@ -295,7 +296,7 @@ https://wiki.mint-system.ch/meilisearch-upgrade.html
 https://wiki.mint-system.ch/meilisearch.html
 https://wiki.mint-system.ch/mermaidjs.html
 https://wiki.mint-system.ch/methodik.html
-https://wiki.mint-system.ch/mettler-toledo.html
+https://wiki.mint-system.ch/michael-ziege.html
 https://wiki.mint-system.ch/microsoft-authenticator.html
 https://wiki.mint-system.ch/migrate-oca-module-to-xx.0.html
 https://wiki.mint-system.ch/migrate-docker-postgres-databases-with-pg_dump.html
@@ -303,6 +304,7 @@ https://wiki.mint-system.ch/migrate-modules-to-odoo-xx.0.html
 https://wiki.mint-system.ch/minor-improvements-template.html
 https://wiki.mint-system.ch/mint-bot.html
 https://wiki.mint-system.ch/mint-cloud-kubernetes-clusters.html
+https://wiki.mint-system.ch/mint-cloud-odoo-erste-schritte.html
 https://wiki.mint-system.ch/mint-cloud.html
 https://wiki.mint-system.ch/mint-saas.html
 https://wiki.mint-system.ch/mint-system-gmbh.html
@@ -367,6 +369,7 @@ https://wiki.mint-system.ch/obsidian-web-clipper.html
 https://wiki.mint-system.ch/obsidian.html
 https://wiki.mint-system.ch/odoo-15-und-die-odoo-partner-days.html
 https://wiki.mint-system.ch/odoo-16-ein-meilenstein.html
+https://wiki.mint-system.ch/odoo-accounting-specialist.html
 https://wiki.mint-system.ch/odoo-app-abwesenheitszeiten.html
 https://wiki.mint-system.ch/odoo-app-anwesenheitszeiten.html
 https://wiki.mint-system.ch/odoo-app-barcode.html
@@ -456,7 +459,6 @@ https://wiki.mint-system.ch/odoo-python-scripts.html
 https://wiki.mint-system.ch/odoo-revisionen.html
 https://wiki.mint-system.ch/odoo-s.a..html
 https://wiki.mint-system.ch/odoo-sql-scripts.html
-https://wiki.mint-system.ch/odoo-saferpay-app.html
 https://wiki.mint-system.ch/odoo-schulung-finanzen.html
 https://wiki.mint-system.ch/odoo-schulung.html
 https://wiki.mint-system.ch/odoo-scripts.html
@@ -475,8 +477,6 @@ https://wiki.mint-system.ch/odoo-upgrade-faq.html
 https://wiki.mint-system.ch/odoo-upgrade-service.html
 https://wiki.mint-system.ch/odoo-upgrade.html
 https://wiki.mint-system.ch/odoo-wartung.html
-https://wiki.mint-system.ch/odoo-webshop-payrexx-checkliste.html
-https://wiki.mint-system.ch/odoo-webshop-saferpay-checkliste.html
 https://wiki.mint-system.ch/odoo-webshop.html
 https://wiki.mint-system.ch/odoo-website-css.html
 https://wiki.mint-system.ch/odoo-wiki.html
@@ -611,7 +611,6 @@ https://wiki.mint-system.ch/plausible.html
 https://wiki.mint-system.ch/playbook-upgrade-odoo-xx.0.html
 https://wiki.mint-system.ch/playbook-upgrade-odoo.sh-xx.0.html
 https://wiki.mint-system.ch/policy-project-management.html
-https://wiki.mint-system.ch/pop_os.html
 https://wiki.mint-system.ch/postgresql-upgrade.html
 https://wiki.mint-system.ch/postgresql.html
 https://wiki.mint-system.ch/problemanalyse-support.html
@@ -687,7 +686,7 @@ https://wiki.mint-system.ch/prozesse-marketing.html
 https://wiki.mint-system.ch/prozesse-migration-von-microsoft-zu-infomaniak-migrieren.html
 https://wiki.mint-system.ch/prozesse-migration.html
 https://wiki.mint-system.ch/prozesse-nextcloud-desktop-client.html
-https://wiki.mint-system.ch/prozesse-nextcloud-produktionsumgebung-initalisieren.html
+https://wiki.mint-system.ch/prozesse-nextcloud-produktionsumgebung-initialisieren.html
 https://wiki.mint-system.ch/prozesse-nextcloud-upgrade.html
 https://wiki.mint-system.ch/prozesse-nextcloud.html
 https://wiki.mint-system.ch/prozesse-odoo-app-abonnements.html
@@ -729,7 +728,7 @@ https://wiki.mint-system.ch/prozesse-odoo-datenmigration.html
 https://wiki.mint-system.ch/prozesse-odoo-demoumgebung-bereitstellen.html
 https://wiki.mint-system.ch/prozesse-odoo-entwicklung.html
 https://wiki.mint-system.ch/prozesse-odoo-lizenzierung.html
-https://wiki.mint-system.ch/prozesse-odoo-modul-migration.html
+https://wiki.mint-system.ch/prozesse-odoo-migration-module.html
 https://wiki.mint-system.ch/prozesse-odoo-produktionsumgebung-bereitstellen.html
 https://wiki.mint-system.ch/prozesse-odoo-revision.html
 https://wiki.mint-system.ch/prozesse-odoo-snippets.html
@@ -744,6 +743,7 @@ https://wiki.mint-system.ch/prozesse-odoo.sh-projekt-entwickeln.html
 https://wiki.mint-system.ch/prozesse-odoo.sh-upgrade-implementation.html
 https://wiki.mint-system.ch/prozesse-odoo.sh.html
 https://wiki.mint-system.ch/prozesse-personal-bewerbung.html
+https://wiki.mint-system.ch/prozesse-personal-einrichten-arbeitsplatz.html
 https://wiki.mint-system.ch/prozesse-personal-offboarding.html
 https://wiki.mint-system.ch/prozesse-personal-onboarding.html
 https://wiki.mint-system.ch/prozesse-personal.html
@@ -788,8 +788,8 @@ https://wiki.mint-system.ch/richtlinie-arbeitszeit.html
 https://wiki.mint-system.ch/richtlinie-aufgabenverwaltung.html
 https://wiki.mint-system.ch/richtlinie-calc-dokumente.html
 https://wiki.mint-system.ch/richtlinie-code-sharing.html
-https://wiki.mint-system.ch/richtlinie-dms.html
 https://wiki.mint-system.ch/richtlinie-datenschutz.html
+https://wiki.mint-system.ch/richtlinie-dokumentmanagement.html
 https://wiki.mint-system.ch/richtlinie-e-mail.html
 https://wiki.mint-system.ch/richtlinie-finanzen.html
 https://wiki.mint-system.ch/richtlinie-kalender.html
@@ -874,15 +874,16 @@ https://wiki.mint-system.ch/synchronisations-meeting.html
 https://wiki.mint-system.ch/syscoon-gmbh.html
 https://wiki.mint-system.ch/system-implementation.html
 https://wiki.mint-system.ch/system-überwachung-mit-prometheus-und-grafana.html
-https://wiki.mint-system.ch/system76.html
 https://wiki.mint-system.ch/systemadministrator%in.html
 https://wiki.mint-system.ch/toc.html
 https://wiki.mint-system.ch/totp-auth.html
+https://wiki.mint-system.ch/tuxedo-computers.html
 https://wiki.mint-system.ch/tags.html
 https://wiki.mint-system.ch/talend-open-studio.html
 https://wiki.mint-system.ch/technischer-support.html
 https://wiki.mint-system.ch/technologien.html
 https://wiki.mint-system.ch/telefonie.html
+https://wiki.mint-system.ch/template-estimation.html
 https://wiki.mint-system.ch/template-issue.html
 https://wiki.mint-system.ch/template-meeting.html
 https://wiki.mint-system.ch/template-report-on-odoo-customization.html
@@ -940,6 +941,7 @@ https://wiki.mint-system.ch/vision.html
 https://wiki.mint-system.ch/visual-studio-code.html
 https://wiki.mint-system.ch/von-bexio-nach-odoo.html
 https://wiki.mint-system.ch/von-microsoft-zu-infomaniak-migrieren.html
+https://wiki.mint-system.ch/voralge-aufwandsschätzung.html
 https://wiki.mint-system.ch/vorgehensmodell-beratungsprojekte.html
 https://wiki.mint-system.ch/vorgehensmodell-hosting.html
 https://wiki.mint-system.ch/vorgehensmodell-odoo-projekte.html
@@ -963,7 +965,6 @@ https://wiki.mint-system.ch/vorlage-use-cases.html
 https://wiki.mint-system.ch/vorlage-zusatzanforderungen.html
 https://wiki.mint-system.ch/vorlagen.html
 https://wiki.mint-system.ch/vuepress.html
-https://wiki.mint-system.ch/waagen.html
 https://wiki.mint-system.ch/wartungsauftrag.html
 https://wiki.mint-system.ch/wartungsvertrag.html
 https://wiki.mint-system.ch/wasmtime.html
@@ -985,13 +986,12 @@ https://wiki.mint-system.ch/wissentransfer.html
 https://wiki.mint-system.ch/wordpress-handbook.html
 https://wiki.mint-system.ch/wordpress-hosting.html
 https://wiki.mint-system.ch/wordpress.html
-https://wiki.mint-system.ch/workplace-hardware.html
-https://wiki.mint-system.ch/workplace-software.html
 https://wiki.mint-system.ch/workshop-gap-analyse.html
 https://wiki.mint-system.ch/workshops.html
 https://wiki.mint-system.ch/worldline.html
 https://wiki.mint-system.ch/xpath.html
 https://wiki.mint-system.ch/zahlen-zum-unternehmen.html
+https://wiki.mint-system.ch/zed.html
 https://wiki.mint-system.ch/zellj.html
 https://wiki.mint-system.ch/zero-trust-architektur.html
 https://wiki.mint-system.ch/ziele.html

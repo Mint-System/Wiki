@@ -32,7 +32,6 @@ section: bases
 | [[Odoo App Management System]] | reference | communication |
 | [[Odoo App Order Positions]] | tutorial | communication |
 | [[Odoo App PDM]] | reference | communication |
-| [[Odoo App PoS Checkliste]] | howto | communication |
 | [[Odoo App PoS Hardware]] | explain | communication |
 | [[Odoo App PoS]] | explain | communication |
 | [[Odoo App Product Lifecycle Management]] | explain | communication |

@@ -7,6 +7,7 @@ section: bases
 
 | file.name | kind | section |
 | --- | --- | --- |
+| [[Liste 0 no kind nor section]] | reference | bases |
 | [[Liste Accounts]] | reference | bases |
 | [[Liste Anleitungen]] | reference | bases |
 | [[Liste Begriffe]] | reference | bases |
@@ -33,6 +34,6 @@ section: bases
 | [[Liste Spezifikationen]] | reference | bases |
 | [[Liste Tools]] | reference | bases |
 | [[Liste Troubleshooting]] | reference | bases |
+| [[Liste Unternehmen]] | reference | bases |
 | [[Liste Vorlagen]] | reference | bases |
-| [[Liste _ no kind nor section]] | reference | bases |
 | [[Liste Übersicht]] | reference | bases |

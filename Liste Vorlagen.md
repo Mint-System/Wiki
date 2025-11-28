@@ -9,11 +9,9 @@ section: bases
 | --- | --- | --- |
 | [[Auftragsverarbeitungsvertrag]] | reference | template |
 | [[Aufwandsschätzung Odoo Upgrade XX.0]] | reference | template |
-| [[Voralge Aufwandsschätzung]] | reference | template |
 | [[Bestandsaufnahme Office 365]] | reference | template |
 | [[Concept Template]] | reference | template |
 | [[Drehbuch Migration Infomaniak]] | reference | template |
-| [[Template Estimation]] | reference | template |
 | [[Feedback Upgrade Odoo XX.0]] | reference | template |
 | [[Migrate OCA module to XX.0]] | reference | template |
 | [[Migrate modules to Odoo XX.0]] | reference | template |
@@ -21,6 +19,7 @@ section: bases
 | [[Offer Template]] | reference | template |
 | [[Playbook Upgrade Odoo XX.0]] | reference | template |
 | [[Playbook Upgrade Odoo.sh XX.0]] | howto | template |
+| [[Template Estimation]] | reference | template |
 | [[Template Issue]] | reference | template |
 | [[Template Meeting]] | reference | template |
 | [[Template Report on Odoo Customization]] | reference | template |
@@ -28,6 +27,7 @@ section: bases
 | [[Template Worklog]] | reference | template |
 | [[Testing Upgrade Odoo XX.0]] | reference | template |
 | [[Troubleshooting Template]] | reference | template |
+| [[Voralge Aufwandsschätzung]] | reference | template |
 | [[Vorlage Anforderungen]] | reference | template |
 | [[Vorlage Anforderungsanalyse]] | reference | template |
 | [[Vorlage Angebot]] | reference | template |

@@ -6,6 +6,7 @@ import { mermaidPlugin } from './mermaid'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
 import { defineUserConfig } from 'vuepress'
 import { searchPlugin } from '@vuepress/plugin-search'
+import markdownItMark from 'markdown-it-mark'
 
 export default defineUserConfig({
   bundler: viteBundler(),
@@ -29,6 +30,9 @@ export default defineUserConfig({
       },
     ],
   }),
+  extendsMarkdown: (md) => {
+    md.use(markdownItMark)
+  },
   plugins: [
     // slimsearchPlugin({
     //     indexContent: true,
