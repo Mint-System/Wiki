@@ -19,11 +19,10 @@ Arbeitsschritte:
 
 - Ansicht _Zeiterfassung > Alle Zeiterfassungen_ öffnen
 - Filtern nach _Meine Projekte_, _Entwurf_ und letzter Monat
-- Gruppieren nach Projekt und abrechenbarer Typ (Preis)
+- Gruppieren nach *Projekt* und *Abrechenbarer Typ (Preis)*
 - Sortieren nach aufgewendeten Stunden
 - Aufgewendete Stunden pro Projekt prüfen
 - Einträge bei Bedarf korrigieren und validieren
-
 
 ::: tip
 Das Projekt *Support* enthält alle Zeiterfassungen aus dem Kundendienst. Der Projektmanager validiert Einträge aus allen Kundendienst-Tickets.
@@ -33,9 +32,9 @@ Das Projekt *Support* enthält alle Zeiterfassungen aus dem Kundendienst. Der Pr
 
 Arbeitsschritte:
 
-- Aufrufen abzurechnende Aufträge
-- Gruppieren nach Vertriebsmitarbeiter
-- Einen oder mehrere Aufträge eines Kunden markieren
+- Aufrufen *Abzurechnende Aufträge*
+- Gruppieren nach *Vertriebsmitarbeiter* und *Projekt*
+- Alle Aufträge eines Pprojekts markieren
 - _Aktion > Rechnungen erstellen_ ausführen
 - Auf der Rechnung den Bericht _Zeitnachweis-Einträge_ drucken
 - Die Datei im Projekt-Ordner ablegen, öffnen und die Angaben des Zeitraum kopieren
