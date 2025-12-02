@@ -28,40 +28,4 @@ o
 
 **Solution**
 
-Compile Python 3.8 directly on the server.
-
-```bash
-# Install dependencies for building Python
-sudo apt update
-sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev wget
-
-# Download Python 3.8
-cd /tmp
-wget https://www.python.org/ftp/python/3.8.18/Python-3.8.18.tgz
-tar -xf Python-3.8.18.tgz
-cd Python-3.8.18
-
-# Configure and compile
-./configure --enable-optimizations
-make -j $(nproc)
-
-# Install (this will take some time)
-sudo make altinstall
-
-# Verify installation
-python3.8 --version
-```
-
-If the update command fails, replace the sources list.
-
-```bash
-sudo vi /etc/apt/sources.list
-```
-
-With the Debian archive:
-
-```text
-# Debian Buster (EOL) - Archive repos only
-deb http://archive.debian.org/debian buster main contrib non-free
-deb http://archive.debian.org/debian-security buster/updates main contrib non-free
-```
+Set Python version `3.10` and reinstall the Ansible dependencies.
