@@ -51,3 +51,17 @@ sudo make altinstall
 # Verify installation
 python3.8 --version
 ```
+
+If the update command fails, replace the sources list.
+
+```bash
+sudo vi /etc/apt/sources.list
+```
+
+With the Debian archive:
+
+```text
+# Debian Buster (EOL) - Archive repos only
+deb http://archive.debian.org/debian buster main contrib non-free
+deb http://archive.debian.org/debian-security buster/updates main contrib non-free
+```
