@@ -23,7 +23,8 @@ Status Draft:
 [[URec-Team]]\
 [[Fünf Fünf Fünf]]\
 [[Odoo mit ihrer Bank verbinden]]\
-[[Ausfall Amazon AWS und Microsoft Azure]]
+[[Ausfall Amazon AWS und Microsoft Azure]]\
+[[List of must have Odoo modules]]
 
 Publiziert:
 
