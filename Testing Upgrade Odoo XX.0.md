@@ -10,9 +10,9 @@ section: template
 
 Die folgenden Aspekte sind für as Testing "out-of-scope":
 
-- Chatter
-- Odoo UI
-- Layout Berichte
+- Übersetzungen
+- Odoo Benutzeroberfäche
+- Layout der Berichte
 
 ## Testfälle 🔬
 
