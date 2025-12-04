@@ -18,9 +18,10 @@ Der Kunde stellt einen Server zur Installation von Odoo bereit. Die Mint System 
 
 Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Benutzer:
 
-**vCPU**: 2 Cores  
-**RAM**: 4 GB  
-**Disk**: 40 GB
+**vCPU**: 2 Cores\
+**RAM**: 4 GB\
+**Disk Root**: 20 GB\
+**Disk Data**: 40 GB
 
 ### Software
 
