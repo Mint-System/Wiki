@@ -42,6 +42,9 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 * gitlab.com
 * codeberg.com
 * mint.app.codey.ch
+* debian.org
+* init7.net
+* quad9.net
 
 ### Integration
 
