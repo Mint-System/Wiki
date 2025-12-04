@@ -14,7 +14,7 @@ Arbeitsschritte:
 
 - In Hetzner Cloud Console den Server anzeigen
 - Im Register _Volumes_ ein neus Volume erstellen
-- Bennen nach schema `$ALIAS-disk$N`, beispielsweise `zeus-disk2`
+- Bennen nach gleichen Name wie der Server
 - Aktion _Volume Anhängen_ ausführen
 - Das Volume mit Ansible mounten
 - Mit [[Docker - Move Docker data directory to new location]] weiterfahren.

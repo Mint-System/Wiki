@@ -12,7 +12,7 @@ Deutscher Hosting-Anbieter.
 
 Website: https://www.hetzner.com/
 
-[[Hetzner Troubleshooting]]
+Links: [[Hetzner Troubleshooting]]
 
 ## HowTos
 
