@@ -33,7 +33,7 @@ sudo mkdir -p /mnt/sdb
 sudo mount /dev/vdb /mnt/sdb
 ```
 
-- Add `/etc/fstab` entry:
+- Add `/etc/fstab` entry
 
 ```
 /dev/vdb /mnt/sdb ext4 discard,nofail,defaults 0 0
