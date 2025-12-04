@@ -34,7 +34,14 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 **DNS**: Der Server soll unter einem Hostname, beispielsweise `odoo.example.com`, erreichbar sein.\
 **Extern**: Wenn der Server und die Odoo Webapplikation nicht vom Kunden verwaltet wird, muss der Server von extern erreichbar sein.\
 **SSH**: Der Remote-Zugriff erfolgt mit SSH. Mehr dazu unter [[SSH-Zugriff]].\
-**Repositories**: Zur Installation von Software kann der Server auf die externen Repositories der jeweiligen Linux-Distribution zugreifen.
+**Repositories**: Zur Installation von Software kann der Server auf externe Repositories zugreifen. Dazu eine Liste von Hosts zur Freigabe:
+* docker.com
+* docker.io
+* odoo.com
+* github.com
+* gitlab.com
+* codeberg.com
+* mint.app.codey.ch
 
 ### Integration
 
