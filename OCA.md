@@ -1,11 +1,10 @@
 ---
-tags:
-  - Definition
+kind: reference
+repository: https://github.com/OCA/management-system
 section: contact
-kind:
-  - reference
+tags:
+- Definition
 ---
-
 # OCA
 
 [[Odoo Community Association]]
@@ -13,8 +12,6 @@ kind:
 Details of the OCA modules:
 
 ## Management System
-
-Repository: <https://github.com/OCA/management-system>
 
 ## Web timeline
 

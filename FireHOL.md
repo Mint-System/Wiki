@@ -1,9 +1,6 @@
 ---
-kind:
-  - reference
+kind: reference
 section: infrastructure
+website: https://firehol.org/
 ---
-
 # FireHOL
-
-Website: <https://firehol.org/>

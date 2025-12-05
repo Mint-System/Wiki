@@ -1,20 +1,18 @@
 ---
-lang: en
-tags:
-  - Specification
 deprecated: true
-kind:
-  - explain
+kind: explain
+lang: en
+repository: https://github.com/Mint-System/Odoo-Apps-Vertical-SaaS
 section: specification
+tags:
+- Specification
 ---
-
 # Specification Website Sale Kubernetes Subscription OCA
 
 Context: Odoo shop for mint-cloud.ch
 
 Goal: Extend website sale module so registered users can buy an Odoo App subscription that is automatically deployed to Kubernetes.
 
-Repository: <https://github.com/Mint-System/Odoo-Apps-Vertical-SaaS>\
 Version: 18
 
 ## Modules

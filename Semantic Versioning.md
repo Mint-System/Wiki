@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: dev
-kind:
-  - reference
+tags:
+- Definition
+website: https://semver.org/
 ---
-
 # Semantic Versioning
-
-Website: <https://semver.org/>

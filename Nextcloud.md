@@ -1,13 +1,11 @@
 ---
-tags:
-  - Website
 kind: reference
 section: product
+tags:
+- Website
+website: https://nextcloud.com/
 ---
-
 # Nextcloud
-
-Website: <https://nextcloud.com/>
 
 Vercel Domains:
 

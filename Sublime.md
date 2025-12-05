@@ -1,9 +1,7 @@
 ---
-section: tool
-kind:
-  - reference
+kind: reference
 lang: en
+section: tool
+website: https://www.sublimetext.com/
 ---
 # Sublime
-
-Website: <https://www.sublimetext.com/>

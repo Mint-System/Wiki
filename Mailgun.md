@@ -1,13 +1,11 @@
 ---
-tags:
-  - Website
 kind: howto
 section: infrastructure
+tags:
+- Website
+website: https://www.mailgun.com/
 ---
-
 # Mailgun
-
-Website: <https://www.mailgun.com/>
 
 ## HowTo
 

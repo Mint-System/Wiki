@@ -1,11 +1,8 @@
 ---
+kind: reference
 section: dev
-kind:
-  - reference
+website: https://www.meilisearch.com/
 ---
-
 # Meilisearch
-
-Website: <https://www.meilisearch.com/>
 
 Weiterführende Links: [[Meilisearch Upgrade]]

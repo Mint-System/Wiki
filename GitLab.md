@@ -1,16 +1,13 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: vendor
-kind:
-  - reference
+tags:
+- Definition
+website: https://gitlab.com
 ---
-
 # GitLab
 
 Auf GitHub verwaltet die Mint System ihre privaten Projekte.
-
-Website: <https://gitlab.com>
 
 ## Applikationen
 

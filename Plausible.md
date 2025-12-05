@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: tool
-kind:
-  - reference
+tags:
+- Definition
+website: https://plausible.io/
 ---
-
 # Plausible
-
-Website: <https://plausible.io/>

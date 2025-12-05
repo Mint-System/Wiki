@@ -1,14 +1,11 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: dev
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.pgadmin.org/
 ---
-
 # pgAdmin
-
-Website: <https://www.pgadmin.org/>
 
 ## HowTo
 

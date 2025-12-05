@@ -1,14 +1,11 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.equitania.de
 ---
-
 # Equitania Software GmbH
-
-Website: <https://www.equitania.de>
 
 Die Equitania Software GmbH ist ein Partner der [[Mint System GmbH]].
 

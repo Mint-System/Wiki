@@ -1,13 +1,10 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://syscoon.com/
 ---
-
 # Syscoon GmbH
-
-Website: <https://syscoon.com/>
 
 Die Syscoon GmbH ist Partner der [[Mint System GmbH]].

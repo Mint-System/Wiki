@@ -1,9 +1,8 @@
 ---
-kind:
-  - reference
+kind: reference
 section: dev
 lang: en
 ---
-# Odoo Build Vault
 
-Website: 
+# Odoo Build Vault
+ 

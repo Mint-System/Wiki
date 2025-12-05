@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - "!website.isEmpty()"
+        - "!repository.isEmpty()"
+    order:
+      - file.name
+      - website
+      - repository
+    sort: []
+    columnSize:
+      file.name: 610

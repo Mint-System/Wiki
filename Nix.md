@@ -1,14 +1,12 @@
 ---
 lang: en
 tags:
-  - Definition
+- Definition
+website: https://nixos.org/
 ---
-
 # Nix
 
 Declarative builds and deployments.
-
-Website: <https://nixos.org/>
 
 ## Setup
 

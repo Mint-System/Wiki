@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://fonts.google.com/specimen/Open+Sans
 ---
-
 # Open Sans
-
-Website: <https://fonts.google.com/specimen/Open+Sans>

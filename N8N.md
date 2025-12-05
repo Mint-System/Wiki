@@ -1,12 +1,10 @@
 ---
-tags:
-  - Website
 kind: reference
 section: tool
+tags:
+- Website
+website: https://n8n.io/
 ---
-
 # N8N
-
-Website: <https://n8n.io/>
 
 Weiterführende Links: [[N8N Handbook]]

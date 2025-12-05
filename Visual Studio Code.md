@@ -1,12 +1,10 @@
 ---
-tags:
-  - Website
 kind: reference
+tags:
+- Website
+website: https://code.visualstudio.com/
 ---
-
 # Visual Studio Code
-
-Website: <https://code.visualstudio.com/>
 
 ## Plugins
 

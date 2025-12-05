@@ -1,10 +1,7 @@
 ---
+kind: reference
 tags:
-  - Website
-kind:
-  - reference
+- Website
+website: https://www.infomaniak.com/en/hosting/public-cloud/kubernetes
 ---
-
 # Kubernetes Service
-
-Website: <https://www.infomaniak.com/en/hosting/public-cloud/kubernetes>

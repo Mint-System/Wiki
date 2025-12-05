@@ -1,13 +1,10 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: product
-kind:
-  - reference
+tags:
+- Definition
+website: https://moodle.org/
 ---
-
 # Moodle
-
-Website: <https://moodle.org/>
 
 [[Moodle Hosting]]

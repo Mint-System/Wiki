@@ -1,10 +1,9 @@
 ---
+kind: explain
 lang: en
-kind:
-  - explain
+repository: https://github.com/Mint-System/Odoo-Apps-Social
 section: specification
 ---
-
 # Specification Social Mastodon
 
 Connect Odoo with one or more Mastodon accounts. Publish social media posts on mastodon.
@@ -12,8 +11,6 @@ Connect Odoo with one or more Mastodon accounts. Publish social media posts on m
 Target Version: 16.0
 
 Technical name: `social_mastodon`
-
-Repository: <https://github.com/Mint-System/Odoo-Apps-Social>
 
 ## Description
 

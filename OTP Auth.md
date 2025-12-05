@@ -1,12 +1,9 @@
 ---
-kind:
-  - reference
+kind: reference
 tags:
-  - Website
+- Website
+website: https://apps.apple.com/ch/app/otp-auth/id659877384
 ---
-
 # OTP Auth
 
 2-Faktor-Auth App für iOS.
-
-Website: <https://apps.apple.com/ch/app/otp-auth/id659877384>

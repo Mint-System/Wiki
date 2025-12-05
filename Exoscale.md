@@ -1,16 +1,13 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.exoscale.com/
 ---
-
 # Exoscale
 
 Schweizer Hosting-Anbieter.
-
-Website: <https://www.exoscale.com/>
 
 Links: [[Exoscale cli]]
 

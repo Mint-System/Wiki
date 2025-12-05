@@ -1,13 +1,10 @@
 ---
-tags:
-  - Definition
-kind:
-  - reference
+kind: reference
 section: contact
+tags:
+- Definition
+website: https://www.hosttech.ch/
 ---
-
 # hosttech
 
 Schweizer Hosting-Anbieter.
-
-Website: https://www.hosttech.ch/

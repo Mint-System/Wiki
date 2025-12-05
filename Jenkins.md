@@ -1,11 +1,9 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://www.jenkins.io/
 ---
-
 # Jenkins
-
-Website: <https://www.jenkins.io/>
 
 Weiterführende Links:
 

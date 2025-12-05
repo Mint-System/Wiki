@@ -1,12 +1,10 @@
 ---
-tags:
-  - Definition
 kind: reference
+tags:
+- Definition
+website: https://wordpress.org/
 ---
-
 # Wordpress
-
-Website: <https://wordpress.org/>
 
 Weiterführende Links: [[Wordpress Handbook]]
 

@@ -1,8 +1,6 @@
 ---
 tags:
-  - Asset
+- Asset
+website: https://login.mint-system.ch
 ---
-
 # Mint System Login
-
-Website: <https://login.mint-system.ch>

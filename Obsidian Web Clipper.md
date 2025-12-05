@@ -1,10 +1,7 @@
 ---
+kind: reference
 tags:
-  - Website
-kind:
-  - reference
+- Website
+website: https://obsidian.md/clipper
 ---
-
 # Obsidian Web Clipper
-
-Website: <https://obsidian.md/clipper>

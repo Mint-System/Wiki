@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://www.openservicebrokerapi.org/
 ---
-
 # Open Service Broker API
-
-Website: <https://www.openservicebrokerapi.org/>

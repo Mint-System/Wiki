@@ -1,9 +1,7 @@
 ---
-title: S3
 tags:
-  - Organisation
+- Organisation
+title: S3
+website: https://sociocracy30.org/
 ---
-
 # Sociocracy 3.0
-
-Website: <https://sociocracy30.org/>

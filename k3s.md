@@ -1,14 +1,12 @@
 ---
 lang: en
 tags:
-  - Definition
+- Definition
+website: https://k3s.io/
 ---
-
 # k3s
 
 Lightweight Kubernetes.
-
-Website: <https://k3s.io/>
 
 ## Setup
 

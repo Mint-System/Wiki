@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://mattermost.com
 ---
-
 # Mattermost
-
-Website: <https://mattermost.com>

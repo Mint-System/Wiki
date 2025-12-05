@@ -1,13 +1,10 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.vshn.ch
 ---
-
 # VSHN AG
-
-Website: <https://www.vshn.ch>
 
 Siehe [[VSHN Application Marketplace]], [[VSHN Central Control Plane]], [[APPUiO]]

@@ -1,16 +1,13 @@
 ---
-tags:
-  - Asset
-kind:
-  - explain
+kind: explain
 section: product
+tags:
+- Asset
+website: https://www.mint-system.ch/odoo-zeiterfassung
 ---
-
 # Odoo Zeiterfassung
 
 Die _Odoo Zeiterfassung_ ist ein [[Angebot]] der [[Mint System GmbH]].
-
-Website: <https://www.mint-system.ch/odoo-zeiterfassung>
 
 Die Zeiterfassungs-Lösung basierend auf Odoo. Die Lösung besteht aus mehreren Komponenten:
 

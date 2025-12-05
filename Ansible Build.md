@@ -1,11 +1,10 @@
 ---
 tags:
   - Definition
-kind:
-  - reference
+kind: reference
 section: infrastructure
 website: https://ansible.build
-Repository: https://github.com/mint-system/ansible-build
+repository: https://github.com/mint-system/ansible-build
 ---
 
 # Ansible Build

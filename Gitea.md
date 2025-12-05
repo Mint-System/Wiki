@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: product
-kind:
-  - reference
+tags:
+- Definition
+website: https://gitea.io
 ---
-
 # Gitea
-
-Website: <https://gitea.io>

@@ -1,13 +1,10 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.giordano.ch/
 ---
-
 # giordano.ch ag
-
-Website: <https://www.giordano.ch/>
 
 Die giordano ag ist ein Partner der [[Mint System GmbH]].

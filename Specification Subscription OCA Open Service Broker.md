@@ -1,15 +1,13 @@
 ---
-tags:
-  - Specification
-lang: en
 draft: true
-kind:
-  - explain
+kind: explain
+lang: en
+repository: '`mint-system/odoo-apps/contract`\'
 section: specification
+tags:
+- Specification
 ---
-
 # Specification Subscription OCA Open Service Broker
 
-Repository: `mint-system/odoo-apps/contract`\
 Technical Name: `subscription_oca_open_service_broker`\
 Summary: Manage lifecycle of OSB service with subscription.

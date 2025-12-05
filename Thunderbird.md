@@ -1,11 +1,9 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://www.thunderbird.net
 ---
-
 # Thunderbird
-
-Website: <https://www.thunderbird.net>
 
 ## Extensions
 

@@ -1,11 +1,8 @@
 ---
-tags:
-  - Website
-kind:
-  - reference
+kind: reference
 section: vendor
+tags:
+- Website
+website: https://nine.ch/
 ---
-
 # Nine
-
-Website: <https://nine.ch/>

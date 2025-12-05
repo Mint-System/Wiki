@@ -1,11 +1,9 @@
 ---
 tags:
-  - Asset
+- Asset
+website: https://restic.net/
 ---
-
 # Restic
-
-Website: <https://restic.net/>
 
 Infomaniak Domains:
 

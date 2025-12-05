@@ -1,13 +1,10 @@
 ---
+kind: reference
 tags:
-  - Website
-kind:
-  - reference
+- Website
+website: https://joinmastodon.org/
 ---
-
 # Mastodon
-
-Website: <https://joinmastodon.org/>
 
 Wir empfehlen die Instanz [[Fosstodon]].
 

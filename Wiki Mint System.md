@@ -1,10 +1,7 @@
 ---
-kind:
-  - reference
+kind: reference
 tags:
-  - Website
+- Website
+website: https://wiki.mint-system.ch/
 ---
-
 # Wiki Mint System
-
-Website: <https://wiki.mint-system.ch/>

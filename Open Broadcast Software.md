@@ -1,13 +1,11 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://obsproject.com/
 ---
-
 # Open Broadcast Software
 
 OBS is broadcast software for professional presentations.
-
-Website: <https://obsproject.com/>
 
 ## Plugins
 

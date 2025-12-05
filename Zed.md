@@ -1,11 +1,9 @@
 ---
+kind: reference
 section: tool
-kind:
-  - reference
+website: https://zed.dev/
 ---
 # Zed
-
-Website: <https://zed.dev/>
 
 ## Extensions
 

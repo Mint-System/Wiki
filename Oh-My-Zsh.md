@@ -1,12 +1,9 @@
 ---
-tags:
-  - Definition
-section: tool
-kind:
-  - reference
+kind: reference
 lang: en
+section: tool
+tags:
+- Definition
+website: https://ohmyz.sh/
 ---
-
 # Oh-My-Zsh
-
-Website: <https://ohmyz.sh/>

@@ -1,13 +1,10 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: tool
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.gnu.org/software/emacs/
 ---
-
 # Emacs
-
-Website: <https://www.gnu.org/software/emacs/>
 
 To get started see [[Doom Emacs]] and <https://emacs.sexy/>.

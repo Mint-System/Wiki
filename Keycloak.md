@@ -1,14 +1,11 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: product
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.keycloak.org/
 ---
-
 # Keycloak
-
-Website: <https://www.keycloak.org/>
 
 Vercel Domains:
 

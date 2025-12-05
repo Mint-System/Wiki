@@ -1,10 +1,8 @@
 ---
-tags:
-  - Website
 kind: reference
 section: dev
+tags:
+- Website
+website: https://prettier.io/
 ---
-
 # prettier
-
-Website: <https://prettier.io/>

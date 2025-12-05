@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://www.keycloak.org/security.html
 ---
-
 # Keycloak Security
-
-Website: <https://www.keycloak.org/security.html>

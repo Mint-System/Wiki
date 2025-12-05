@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://matomo.org/
 ---
-
 # Matomo
-
-Website: <https://matomo.org/>

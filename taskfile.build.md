@@ -1,10 +1,8 @@
 ---
+kind: reference
 section: dev
-kind:
-  - reference
+website: https://taskfile.build/
 ---
 # taskfile.build
 
 Spezifikation für das [[taskfile]] Skript.
-
-Website: <https://taskfile.build/>

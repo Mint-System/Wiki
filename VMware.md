@@ -1,12 +1,10 @@
 ---
-tags:
-  - Website
 kind: reference
+tags:
+- Website
+website: https://www.vmware.com/
 ---
-
 # VMware
-
-Website: <https://www.vmware.com/>
 
 ## HowTo
 

@@ -1,16 +1,13 @@
 ---
-tags:
-  - Definition
-kind:
-  - reference
+kind: reference
 section: product
+tags:
+- Definition
+website: https://ventor.app
 ---
-
 # Ventor Pro
 
 App zur effizienten Lager- und Warehouseverwaltung.
-
-Website: <https://ventor.app>
 
 ## Installation
 

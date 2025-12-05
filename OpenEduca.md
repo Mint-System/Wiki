@@ -1,14 +1,11 @@
 ---
-tags:
-  - Definition
-kind:
-  - reference
+kind: reference
 section: communication
+tags:
+- Definition
+website: https://openeduca.ch
 ---
-
 # OpenEduca
-
-Website: <https://openeduca.ch>
 
 Infomaniak Domains:
 

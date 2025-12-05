@@ -1,10 +1,8 @@
 ---
-tags:
-  - Website
 kind: reference
 section: dev
+tags:
+- Website
+website: https://pre-commit.com/
 ---
-
 # pre-commit
-
-Website: <https://pre-commit.com/>

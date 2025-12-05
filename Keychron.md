@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: infrastructure
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.keychron.com/
 ---
-
 # Keychron
-
-Website: <https://www.keychron.com/>

@@ -3,6 +3,6 @@ tags:
   - Website
 kind: reference
 section: dev
-website: https://copier.readthedocs.io/en/latest/>\
-Repository: https://github.com/copier-org/copier
+website: https://copier.readthedocs.io/en/latest/
+repository: https://github.com/copier-org/copier
 ---

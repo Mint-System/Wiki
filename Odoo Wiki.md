@@ -1,13 +1,10 @@
 ---
+kind: reference
 tags:
-  - Website
-kind:
-  - reference
+- Website
+website: https://www.odoo-wiki.org
 ---
-
 # Odoo Wiki
-
-Website: <https://www.odoo-wiki.org>
 
 Infomaniak Domains:
 

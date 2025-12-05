@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://jupyter.org/
 ---
-
 # Jupyter
-
-Website: <https://jupyter.org/>

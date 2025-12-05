@@ -1,16 +1,13 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: vendor
-kind:
-  - reference
+tags:
+- Definition
+website: https://github.com/
 ---
-
 # GitHub
 
 Auf GitHub verwaltet die Mint System ihre öffentlichen [[Repository|Repositories]] und [[Odoo.sh]] Projekte.
-
-Website: <https://github.com/>
 
 ## HowTos
 

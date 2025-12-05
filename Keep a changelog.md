@@ -1,11 +1,9 @@
 ---
-kind:
-  - reference
+kind: reference
 section: dev
+website: https://keepachangelog.com/
 ---
 # Keep a changelog
-
-Website: <https://keepachangelog.com/>
 
 ## HowTo
 

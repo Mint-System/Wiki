@@ -1,9 +1,6 @@
 ---
-kind:
-  - reference
+kind: reference
 section: vendor
+website: https://inventage.com/
 ---
-
 # Inventage
-
-Website: <https://inventage.com/>

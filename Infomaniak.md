@@ -1,14 +1,11 @@
 ---
-tags:
-  - Definition
-kind:
-  - reference
+kind: reference
 section: vendor
+tags:
+- Definition
+website: https://www.infomaniak.com/
 ---
-
 # Infomaniak
-
-Website: <https://www.infomaniak.com/>
 
 Die Mail-Postfächer der Mint-System werden von Infomaniak verwaltet.
 

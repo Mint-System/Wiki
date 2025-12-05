@@ -1,12 +1,9 @@
 ---
+kind: reference
 tags:
-  - Website
-kind:
-  - reference
+- Website
+website: https://github.com/mailhog/MailHog
 ---
-
 # Mailhog
 
 SMTP-Mail catcher.
-
-Website: <https://github.com/mailhog/MailHog>

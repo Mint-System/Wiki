@@ -1,13 +1,11 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://vercel.com/mint-system
 ---
-
 # Vercel
 
 Mit Vercel verwaltet Mint System die DNS-Einträge, Domains und statische Websites.
-
-Website: <https://vercel.com/mint-system>
 
 ## Client
 

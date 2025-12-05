@@ -1,16 +1,13 @@
 ---
-tags:
-  - Website
-kind:
-  - reference
+kind: reference
 section: vendor
+tags:
+- Website
+website: https://www.hetzner.com/
 ---
-
 # Hetzner
 
 Deutscher Hosting-Anbieter.
-
-Website: https://www.hetzner.com/
 
 Links: [[Hetzner Troubleshooting]]
 

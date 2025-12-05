@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.nivels.ch/
 ---
-
 # nivels GmbH
-
-Website: <https://www.nivels.ch/>

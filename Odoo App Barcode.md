@@ -1,8 +1,7 @@
 ---
 tags:
   - Definition
-kind:
-  - explain
+kind: explain
 section: communication
 ---
 

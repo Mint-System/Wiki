@@ -1,14 +1,12 @@
 ---
-tags:
-  - Definition
 lang: en
+tags:
+- Definition
+website: https://oca.github.io/OpenUpgrade/
 ---
-
 # Odoo Community Upgrade
 
 Also known as [[OpenUpgrade]]
-
-Website: <https://oca.github.io/OpenUpgrade/>
 
 A step by step guide to upgrade an [[Odoo Community Edition]] using [[Odoo Build]].
 

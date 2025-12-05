@@ -1,11 +1,8 @@
 ---
-kind:
-  - reference
+kind: reference
 section: dev
+website: https://mailpit.axllent.org/
 ---
-
 # Mailpit
 
 SMTP-Mail catcher.
-
-Website: <https://mailpit.axllent.org/>

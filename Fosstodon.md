@@ -1,5 +1,6 @@
+---
+website: https://fosstodon.org
+---
 # Fosstodon
-
-Website: <https://fosstodon.org>
 
 Die Instanz ist "Invite Only".

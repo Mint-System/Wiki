@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://www.redhat.com/en/technologies/cloud-computing/openshift
 ---
-
 # OpenShift
-
-Website: <https://www.redhat.com/en/technologies/cloud-computing/openshift>

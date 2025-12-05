@@ -1,20 +1,18 @@
 ---
-lang: en
-tags:
-  - Specification
 draft: true
-kind:
-  - explain
+kind: explain
+lang: en
+repository: https://github.com/Mint-System/Odoo-Apps-Connector
 section: specification
+tags:
+- Specification
 ---
-
 # Specification Git Kubernetes
 
 Context: Odoo shop for mint-cloud.ch
 
 Goal: Create a git branch for every Kubernetes app / environment.
 
-Repository: <https://github.com/Mint-System/Odoo-Apps-Connector>\
 Version: 18
 
 ## Modules

@@ -1,12 +1,10 @@
 ---
-tags:
-  - Definition
 section: tool
+tags:
+- Definition
+website: https://vscodium.com/
 ---
-
 # VSCodium
-
-Website: <https://vscodium.com/>
 
 ## Plugins
 

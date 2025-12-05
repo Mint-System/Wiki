@@ -1,13 +1,11 @@
 ---
-tags:
-  - Website
 kind: reference
 section: tool
+tags:
+- Website
+website: https://mermaid.js.org/
 ---
-
 # Mermaid.js
-
-Website: <https://mermaid.js.org/>
 
 Example of state diagram:
 

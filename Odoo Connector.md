@@ -1,14 +1,11 @@
 ---
-tags:
-  - Definition
+kind: explain
 section: communication
-kind:
-  - explain
+tags:
+- Definition
+website: https://odoo-connector.com/
 ---
-
 # Odoo Connector
-
-Website: <https://odoo-connector.com/>
 
 ## Beschreibung
 

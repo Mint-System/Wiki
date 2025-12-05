@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://www.jenkins.io/security/
 ---
-
 # Jenkins Security
-
-Website: <https://www.jenkins.io/security/>

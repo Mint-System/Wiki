@@ -1,14 +1,11 @@
 ---
-tags:
-  - Definition
-  - Alias
+kind: reference
 section: tool
-kind:
-  - reference
+tags:
+- Definition
+- Alias
+website: https://excalidraw.com/
 ---
-
 # Excalidraw
-
-Website: <https://excalidraw.com/>
 
 ![[Beispiel Excalidraw.excalidraw]]

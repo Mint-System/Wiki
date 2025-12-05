@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://letsencrypt.org
 ---
-
 # Let's Encrypt
-
-Website: <https://letsencrypt.org>

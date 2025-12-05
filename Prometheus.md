@@ -1,10 +1,8 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://prometheus.io/
 ---
-
 # Prometheus
 
 Datenbanksystem für Metriken und Monitoring-Systeme.
-
-Website: <https://prometheus.io/>

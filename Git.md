@@ -1,16 +1,13 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: term
-kind:
-  - reference
+tags:
+- Definition
+website: https://git-scm.com/
 ---
-
 # Git
 
 Git ist eine freie Software zur verteilten Versionsverwaltung von Dateien, die durch Linus Torvalds initiiert wurde.
-
-Website: <https://git-scm.com/>
 
 Weiterführende Links: [[Git Handbook]], [[Git Rebase]], [[Git Forks]]
 

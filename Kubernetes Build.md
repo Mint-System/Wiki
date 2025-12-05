@@ -1,17 +1,14 @@
 ---
-tags:
-  - Asset
+kind: reference
 lang: en
-kind:
-  - reference
 section: infrastructure
+tags:
+- Asset
+website: https://kubernetes.build
 ---
-
 # Kubernetes Build
 
 The Mint System collection of Helm Charts.
-
-Website: <https://kubernetes.build>
 
 Vercel Domains:
 

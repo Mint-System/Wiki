@@ -1,10 +1,7 @@
 ---
-kind:
-  - reference
+kind: reference
+website: https://webassembly.org/
 ---
-
 # WebAssembly
-
-Website: <https://webassembly.org/>
 
 [[Wasmtime]]

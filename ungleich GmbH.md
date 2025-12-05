@@ -1,10 +1,8 @@
 ---
-tags:
-  - Website
 kind: reference
 section: vendor
+tags:
+- Website
+website: https://ungleich.ch/
 ---
-
 # ungleich GmbH
-
-Website: <https://ungleich.ch/>

@@ -1,15 +1,12 @@
 ---
-tags:
-  - Website
-kind:
-  - reference
+kind: reference
 lang: en
 section: tool
+tags:
+- Website
+website: https://librewolf.net/
 ---
-
 # LibreWolf
-
-Website: <https://librewolf.net/>
 
 ## Usage
 

@@ -1,13 +1,10 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: dev
-kind:
-  - reference
+tags:
+- Definition
+website: https://gohugo.io
 ---
-
 # Hugo
 
 A Fast and Flexible Static Site Generator built with love in Go.
-
-Website: <https://gohugo.io>

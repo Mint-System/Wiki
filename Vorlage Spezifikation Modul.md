@@ -1,10 +1,10 @@
 ---
-tags:
-  - Vorlagen
 kind: reference
+repository: '`Odoo-Apps-Account-Invoicing`'
 section: template
+tags:
+- Vorlagen
 ---
-
 # Vorlage Spezifikation Modul
 
 Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereich müssen in der Spezifikation berücksichtigt werden:
@@ -24,7 +24,6 @@ Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgen
 ## Beschreibung
 
 Technischer Name: `account_currency_communication`\
-Repository: `Odoo-Apps-Account-Invoicing`
 
 Dieses Odoo Modul erlaubt die Konfiguration des Kommunikations-Standards auf der Währung. Abhäning davon welche Währung für die Rechnung verwendet wird.
 

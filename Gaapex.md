@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://www.gaapex.ch/
 ---
-
 # Gaapex
-
-Website: <https://www.gaapex.ch/>

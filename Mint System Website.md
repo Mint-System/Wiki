@@ -1,17 +1,14 @@
 ---
-tags:
-  - Definition
+kind: reference
 lang: en
-kind:
-  - reference
+repository: https://github.com/Mint-System/Website
 section: communication
+tags:
+- Definition
 ---
-
 # Mint System Website
 
 Unsere Website wurde mit [[Hugo]] erstellt.
-
-Repository: https://github.com/Mint-System/Website
 
 ## Texte
 

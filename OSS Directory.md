@@ -1,9 +1,7 @@
 ---
 kind: reference
 tags:
-  - Website
+- Website
+website: https://www.ossdirectory.com/
 ---
-
 # OSS Directory
-
-Website: <https://www.ossdirectory.com/>

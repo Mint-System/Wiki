@@ -1,9 +1,7 @@
 ---
-tags:
-  - Website
 kind: reference
+tags:
+- Website
+website: https://gparted.org/
 ---
-
 # GParted
-
-Website: <https://gparted.org/>

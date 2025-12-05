@@ -1,13 +1,11 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://www.terraform.io/
 ---
-
 # Terraform
 
 Infrastruktur automatisiert bereitstellen.
-
-Website: <https://www.terraform.io/>
 
 ## Hetzner
 

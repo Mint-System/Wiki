@@ -1,15 +1,13 @@
 ---
-tags:
-  - Specification
-lang: en
 draft: true
-kind:
-  - explain
+kind: explain
+lang: en
+repository: '`Mint-System/Odoo-Apps-Vertical-SaaS`\'
 section: specification
+tags:
+- Specification
 ---
-
 # Specification Open Service Broker Client
 
-Repository: `Mint-System/Odoo-Apps-Vertical-SaaS`\
 Technical Name: `open_service_broker_client`\
 Summary: Client to communicate with Open Service Broker API.

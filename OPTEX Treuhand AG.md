@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://optexag.ch
 ---
-
 # OPTEX Treuhand AG
-
-Website: <https://optexag.ch>

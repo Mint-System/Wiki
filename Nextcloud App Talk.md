@@ -1,13 +1,10 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: communication
-kind:
-  - reference
+tags:
+- Definition
+website: https://nextcloud.com/talk/
 ---
-
 # Nextcloud App Talk
-
-Website: <https://nextcloud.com/talk/>
 
 Für den effizienten Betrieb braucht es einen [[Turn-Server#Nextcloud Talk]].

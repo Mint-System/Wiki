@@ -1,14 +1,12 @@
 ---
-tags:
-  - Asset
 section: project
+tags:
+- Asset
+website: https://www.mint-cloud.ch/
 ---
-
 # Mint Cloud
 
 Ist ein Hosting-[[Angebot]] der Mint System.
-
-Website: <https://www.mint-cloud.ch/>
 
 Infomaniak Domains:
 

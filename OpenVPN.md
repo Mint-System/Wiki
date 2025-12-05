@@ -1,13 +1,11 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://openvpn.net/download-open-vpn/
 ---
-
 # OpenVPN
 
 VPN client.
-
-Website: <https://openvpn.net/download-open-vpn/>
 
 Related:
 

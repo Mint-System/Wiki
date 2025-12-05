@@ -1,8 +1,6 @@
 ---
 tags:
-  - Definition
+- Definition
+website: https://connect.jfrog.io
 ---
-
 # JFrog Connect
-
-Website: <https://connect.jfrog.io>

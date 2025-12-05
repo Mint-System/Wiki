@@ -1,12 +1,10 @@
 ---
 tags:
-  - Asset
+- Asset
+website: https://chat.mint-system.ch
 ---
-
 # Matrix Server
 
 Matrix-Instanz der Mint System.
-
-Website: <https://chat.mint-system.ch>
 
 Administration: <https://admin.matrix.ungleich.cloud>

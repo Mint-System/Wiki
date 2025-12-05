@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: contact
-kind:
-  - reference
+tags:
+- Definition
+website: https://ddpconcepts.ch/
 ---
-
 # dbpConcepts GmbH
-
-Website: <https://ddpconcepts.ch/>

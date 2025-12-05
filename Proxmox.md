@@ -1,9 +1,7 @@
 ---
-tags:
-  - Website
 kind: reference
+tags:
+- Website
+website: https://www.proxmox.com/
 ---
-
 # Proxmox
-
-Website: <https://www.proxmox.com/>

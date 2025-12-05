@@ -1,10 +1,8 @@
 ---
-tags:
-  - Website
 kind: reference
 section: tool
+tags:
+- Website
+website: https://helix-editor.com/
 ---
-
 # Helix
-
-Website: <https://helix-editor.com/>

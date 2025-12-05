@@ -1,8 +1,6 @@
 ---
-kind:
-  - reference
+kind: reference
 section: vendor
+website: https://www.tuxedocomputers.com/
 ---
 # TUXEDO Computers
-
-Website: <https://www.tuxedocomputers.com/>

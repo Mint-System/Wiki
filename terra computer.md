@@ -1,11 +1,8 @@
 ---
-tags:
-  - Definition
+kind: reference
 section: infrastructure
-kind:
-  - reference
+tags:
+- Definition
+website: https://terra-computer.ch
 ---
-
 # terra computer
-
-Website: <https://terra-computer.ch>

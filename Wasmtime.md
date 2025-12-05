@@ -1,11 +1,8 @@
 ---
-kind:
-  - reference
+kind: reference
+website: https://wasmtime.dev/
 ---
-
 # Wasmtime
-
-Website: <https://wasmtime.dev/>
 
 Infomaniak Domains:
 
