@@ -39,6 +39,7 @@ Arbeitsschritte:
 - Rechnung prüfen und bestätigen
 - Auf der Rechnung _Senden & Drucken_ aufsühren
 - Das E-Mail prüfen und versenden
+
 ## Abonnements abrechnen
 
 Die Abonnments erzeugen automatisch eine Rechnung.
