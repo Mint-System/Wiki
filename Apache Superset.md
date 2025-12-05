@@ -2,11 +2,10 @@
 kind:
   - reference
 section: product
+website: https://superset.apache.org/
 ---
 
 # Apache Superset
-
-Website: <https://superset.apache.org/>
 
 ## Videos
 

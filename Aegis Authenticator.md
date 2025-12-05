@@ -4,8 +4,7 @@ tags:
 kind:
   - reference
 section: tool
+website: https://getaegis.app/
 ---
 
 # Aegis Authenticator
-
-Website: <https://getaegis.app/>

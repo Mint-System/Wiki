@@ -5,11 +5,10 @@ kind:
   - explain
 lang: en
 section: infrastructure
+website: https://linux.die.net/man/1/autossh
 ---
 
 # autossh
-
-Website: [https://linux.die.net/man/1/autossh](https://linux.die.net/man/1/autossh)
 
 ## Ansible role
 

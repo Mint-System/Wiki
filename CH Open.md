@@ -4,8 +4,7 @@ tags:
 section: contact
 kind:
   - reference
+website: https://www.ch-open.ch/
 ---
 
 # CH Open
-
-Website: <https://www.ch-open.ch/>

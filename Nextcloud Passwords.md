@@ -6,4 +6,4 @@ kind: reference
 
 # Nextcloud Passwords
 
-Repo: <https://github.com/marius-wieschollek/passwords>
+Repository: <https://github.com/marius-wieschollek/passwords>

@@ -4,6 +4,7 @@ tags:
 section: tool
 kind:
   - reference
+lang: en
 ---
 
 # Oh-My-Zsh

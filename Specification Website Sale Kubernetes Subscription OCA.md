@@ -14,7 +14,7 @@ Context: Odoo shop for mint-cloud.ch
 
 Goal: Extend website sale module so registered users can buy an Odoo App subscription that is automatically deployed to Kubernetes.
 
-Repo: <https://github.com/Mint-System/Odoo-Apps-Vertical-SaaS>\
+Repository: <https://github.com/Mint-System/Odoo-Apps-Vertical-SaaS>\
 Version: 18
 
 ## Modules

@@ -3,8 +3,8 @@ tags:
   - Website
 kind: reference
 section: infrastructure
+website: ttps://www.appuio.ch/
 ---
 
 # APPUiO
 
-Website: <https://www.appuio.ch/>

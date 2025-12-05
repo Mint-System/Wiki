@@ -4,8 +4,7 @@ tags:
 section: dev
 kind:
   - reference
+website: https://www.conventionalcommits.org/
 ---
 
 # Conventional Commits
-
-Website: <https://www.conventionalcommits.org/>

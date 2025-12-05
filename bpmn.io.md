@@ -4,8 +4,7 @@ tags:
 section: tool
 kind:
   - reference
+website: https://bpmn.io/
 ---
 
 # bpmn.io
-
-Website: <https://bpmn.io/>

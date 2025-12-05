@@ -25,8 +25,9 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- Auschecken [[Ansible Build]] und [[Ansible Inventory]] Projekt
-- Auschecken [[Odoo Build]] Projekt
+- Installation [[Mint System Dotfiles]]
+- Auschecken [[Ansible Inventory]] und [[Ansible Build]] Projekt
+- Auschecken [[Odoo Build Vault]] und [[Odoo Build]] Projekt
 
 ### Website Profil aktualisieren
 

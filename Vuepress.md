@@ -11,4 +11,3 @@ Ist eine Frontend-Technologie, die im Gegensatz zu React und Angular von der Com
 
 Website: <https://vuepress.vuejs.org/>
 
-Die Suche auf [[Odoo Wiki]] und [[Wiki Mint System]] machen wir mit [[Algolia]].

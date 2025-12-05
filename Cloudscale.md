@@ -4,8 +4,7 @@ tags:
 section: contact
 kind:
   - reference
+website: https://www.cloudscale.ch/
 ---
 
 # Cloudscale
-
-Website: <https://www.cloudscale.ch/>

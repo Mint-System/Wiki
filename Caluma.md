@@ -4,8 +4,7 @@ tags:
 section: dev
 kind:
   - reference
+website: https://caluma.io/
 ---
 
 # Caluma
-
-Website: <https://caluma.io/>

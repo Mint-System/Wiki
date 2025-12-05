@@ -7,6 +7,6 @@ kind:
 
 Shell-Setup für Mitarbeitende.
 
-Repo: <https://github.com/Mint-System/Dotfiles>
+Repository: <https://github.com/Mint-System/Dotfiles>
 
 Das Repo enthält [[dotfiles]] und ein [[taskfile]].

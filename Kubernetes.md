@@ -1,12 +1,14 @@
 ---
 tags:
   - Definition
+section: technology
+kind:
+  - reference
+website: https://kubernetes.io/
 ---
 
 # Kubernetes
 
 Production-Grade Container Orchestration.
-
-Website: <https://kubernetes.io/>
 
 Weiterführende links: [[k3s]], [[Managed Kubernetes]].

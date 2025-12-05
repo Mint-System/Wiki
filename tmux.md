@@ -6,4 +6,4 @@ section: tool
 
 # tmux
 
-Repo: <https://github.com/tmux/tmux>
+Repository: <https://github.com/tmux/tmux>

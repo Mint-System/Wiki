@@ -14,7 +14,7 @@ Context: Odoo shop for mint-cloud.ch
 
 Goal: Create a git branch for every Kubernetes app / environment.
 
-Repo: <https://github.com/Mint-System/Odoo-Apps-Connector>\
+Repository: <https://github.com/Mint-System/Odoo-Apps-Connector>\
 Version: 18
 
 ## Modules

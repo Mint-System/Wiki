@@ -5,4 +5,4 @@ kind:
 ---
 # Helm Values
 
-Repo: <https://mint.app.codey.ch/Mint-System/Helm-Values>
+Repository: <https://mint.app.codey.ch/Mint-System/Helm-Values>

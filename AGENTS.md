@@ -1,14 +1,17 @@
 ---
 section: meta
-kind:
-  - explain
+kind: explain
 ---
-# Agents
+# AGENTS.md
 
-## Taskfile
+These are instructions and rules for the LLM agent when answering a prompt.
+
+## Environment & tooling
+
+### Taskfile
 
 This project uses the <https://taskfile.build/> standard.
 
-Always try to run a command with the `./task` file script.
-
 The `./task` file is a bash script that provides all functions necessary to work with this project.
+
+**Execute**: Always try to run a command with the `./task` file script.
