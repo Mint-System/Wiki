@@ -34,15 +34,11 @@ Arbeitsschritte:
 
 - Aufrufen *Abzurechnende Aufträge*
 - Gruppieren nach *Vertriebsmitarbeiter* und *Projekt*
-- Alle Aufträge eines Pprojekts markieren
+- Alle Aufträge eines Projekts markieren
 - _Aktion > Rechnungen erstellen_ ausführen
-- Auf der Rechnung den Bericht _Zeitnachweis-Einträge_ drucken
-- Die Datei im Projekt-Ordner ablegen, öffnen und die Angaben des Zeitraum kopieren
-- Auf der Rechnung _Senden & Drucken_ ausühren
-- Den Zeitnachweis anhängen und den Zeitraum einfügen
-- Die Anrede- und Grusszeile anpassen
-- Die Rechnung verschicken
-
+- Rechnung prüfen und bestätigen
+- Auf der Rechnung _Senden & Drucken_ aufsühren
+- Das E-Mail prüfen und versenden
 ## Abonnements abrechnen
 
 Die Abonnments erzeugen automatisch eine Rechnung.
