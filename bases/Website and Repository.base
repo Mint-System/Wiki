@@ -9,6 +9,8 @@ views:
       - file.name
       - website
       - repository
-    sort: []
+    sort:
+      - property: repository
+        direction: ASC
     columnSize:
       file.name: 610
