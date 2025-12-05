@@ -1,8 +1,8 @@
 ---
+title: AGENTS.md
 section: meta
 kind: explain
 ---
-# AGENTS.md
 
 These are instructions and rules for the LLM agent when answering a prompt.
 

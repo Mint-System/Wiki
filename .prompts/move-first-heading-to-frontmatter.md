@@ -1,5 +1,5 @@
 
-Read the `AGENTS.md`. The task is to move the first heading which is the name of the file and the title of the document to the frontmatter/metadata. Here is an example:
+Read the `AGENTS.md` to get an understanding of the project. The task is to move the first heading which is the name of the file and the title of the document to the frontmatter/metadata. Here is an example:
 
 The entry `CrowdSec.md` looks like this:
 

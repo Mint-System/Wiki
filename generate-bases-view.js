@@ -80,6 +80,8 @@ function evaluateFilterString(filter, fileObj, mdFile) {
       const date = createPropertyObject(get('date'));
       const author = createPropertyObject(get('author'));
       const lang = createPropertyObject(get('lang'));
+      const website = createPropertyObject(get('website'));
+      const repository = createPropertyObject(get('repository'));
 
       // For equality comparisons, we need to handle the object wrapper
       const originalSection = section;
