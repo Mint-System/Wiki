@@ -14,8 +14,8 @@ Funktioniert am besten mit [[Oh-My-Zsh]].
 
 ## Terminal Multiplexer
 
-[[Zellj]], [[tmux]]
+Es ist empfohlen mit einem multiplexer zu arbeiten: [[Zellj]], [[tmux]]
 
 ## Dotfiles
 
-Entwickler haben ihre eigenen [[dotfiles]].
+Es gibt die [[Mint System Dotfiles]]
