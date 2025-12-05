@@ -1,8 +1,6 @@
 ---
 section: infrastructure
-kind:
-  - reference
+kind: reference
+repository: https://mint.app.codey.ch/Mint-System/Helm-Values
 ---
 # Helm Values
-
-Repository: <https://mint.app.codey.ch/Mint-System/Helm-Values>

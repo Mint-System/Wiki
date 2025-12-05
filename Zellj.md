@@ -2,8 +2,8 @@
 tags:
   - Definition
 section: tool
+website: https://zellij.dev/
 ---
 
 # Zsh
 
-Website: <https://zellij.dev/>

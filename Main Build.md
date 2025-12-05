@@ -1,15 +1,13 @@
 ---
-kind:
-  - reference
+kind: reference
 section: infrastructure
+website: https://main.build
+repository: https://codeberg.org/Mint-System/Main-Build
 ---
 
 # Main Build
 
 Linking page for .build projects.
-
-Website: https://main.build\
-Repository: https://codeberg.org/Mint-System/Main-Build
 
 Infomaniak Domains:
 

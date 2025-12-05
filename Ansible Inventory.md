@@ -2,10 +2,9 @@
 tags:
   - Definition
 section: infrastructure
-kind:
-  - reference
+kind: reference
+repository: https://gitlab.com/mint-system/ansible-inventories
 ---
 
 # Ansible Inventory
 
-Repository: <https://gitlab.com/mint-system/ansible-inventories>

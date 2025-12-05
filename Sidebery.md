@@ -1,13 +1,11 @@
 ---
 tags:
   - Website
-kind:
-  - reference
+kind: reference
+repository: https://github.com/mbnuqw/sidebery
 ---
 
 # Sidebery
-
-Repository: <https://github.com/mbnuqw/sidebery>
 
 ## Export panels and tabs
 

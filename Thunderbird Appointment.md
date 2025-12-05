@@ -2,10 +2,9 @@
 tags:
   - Definition
 section: tool
+website: https://appointment.day/
+repository: https://github.com/thunderbird/appointment
 ---
 
 # Thunderbird Appointment
 
-Website: <https://appointment.day/>
-
-Repository: <https://github.com/thunderbird/appointment>

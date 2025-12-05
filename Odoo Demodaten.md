@@ -1,6 +1,7 @@
 ---
 tags:
   - Definition
+repository: https://github.com/Mint-System/Odoo-Demodaten
 ---
 
 # Odoo Demodaten
@@ -9,4 +10,3 @@ Die Mint System verwaltet ein öffentliches Git-Projekt mit Odoo Demodaten. Dies
 
 Die [[Velo Manufaktur]] ist ein fiktives Unternehmen.
 
-Repository: https://github.com/Mint-System/Odoo-Demodaten

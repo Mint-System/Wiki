@@ -1,9 +1,8 @@
 ---
-kind:
-  - reference
+kind: reference
 section: tool
+website: https://rustdesk.com/
 ---
 
 # rustdesk
 
-Website: <https://rustdesk.com/>

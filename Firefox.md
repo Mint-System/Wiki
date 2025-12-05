@@ -1,14 +1,12 @@
 ---
 tags:
   - Definition
-kind:
-  - reference
+kind: reference
 section: tool
+website: https://www.mozilla.org/de/firefox/
 ---
 
 # Firefox
-
-Website: <https://www.mozilla.org/de/firefox/>
 
 Weiterführende Links:
 

@@ -1,12 +1,10 @@
 ---
-kind:
-  - reference
+kind: reference
 section: tool
+website: https://crowdsec.net/
 ---
 
 # CrowdSec
-
-Website: <https://crowdsec.net/>
 
 ## Beschreibung
 
