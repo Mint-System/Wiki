@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Template Issue
+kind: reference
 section: template
 ---
-
-# Template Issue
 
 ```markdown
 ---

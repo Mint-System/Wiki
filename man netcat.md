@@ -1,7 +1,5 @@
 ---
-kind:
-  - reference
+title: man netcat
+kind: reference
 section: dev
 ---
-
-# man netcat

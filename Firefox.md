@@ -1,10 +1,9 @@
 ---
+title: Firefox
 kind: reference
 section: tool
 website: https://www.mozilla.org/de/firefox/
 ---
-
-# Firefox
 
 Weiterführende Links:
 

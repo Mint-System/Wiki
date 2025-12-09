@@ -1,11 +1,9 @@
 ---
-kind:
-  - explain
+title: Den eigenen Login-Anbieter mit Keycloak betreiben
+kind: explain
 draft: false
 section: blog
 ---
-
-# Den eigenen Login-Anbieter mit Keycloak betreiben
 
 Welche Software heutzutage für Login-Dienste zum Einsatz kommt.
 

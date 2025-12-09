@@ -1,11 +1,9 @@
 ---
-kind:
-  - explain
+title: E-Mails mit Odoo versenden und empfangen
+kind: explain
 draft: false
 section: blog
 ---
-
-# E-Mails mit Odoo versenden und empfangen
 
 > Alles zur Mail-Integration mit Odoo.
 

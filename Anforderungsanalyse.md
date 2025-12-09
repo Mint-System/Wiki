@@ -1,9 +1,7 @@
 ---
+title: Anforderungsanalyse
 section: methodology
-kind:
-  - reference
+kind: reference
 ---
-
-# Anforderungsanalyse
 
 Methodik zu Analyse von [[Anforderungen]].

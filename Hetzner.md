@@ -1,9 +1,9 @@
 ---
+title: Hetzner
 kind: reference
 section: vendor
 website: https://www.hetzner.com/
 ---
-# Hetzner
 
 Deutscher Hosting-Anbieter.
 

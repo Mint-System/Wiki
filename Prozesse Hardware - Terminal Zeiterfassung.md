@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Hardware - Terminal Zeiterfassung
+kind: howto
 section: process
 ---
-
-# Prozesse Hardware - Terminal Zeiterfassung
 
 ## Terminal vorbereiten
 

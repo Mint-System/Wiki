@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo.sh - Upgrade Implementation
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo.sh - Upgrade Implementation
 
 ## Branch einrichten
 

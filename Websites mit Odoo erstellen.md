@@ -1,12 +1,8 @@
 ---
-kind:
-  - explain
+title: Websites mit Odoo erstellen
+kind: explain
 section: blog
 ---
-
-![[Odoo Website Builder.png]]
-
-# Websites mit Odoo erstellen
 
 > Der Website-Builder von Odoo im Detail.
 

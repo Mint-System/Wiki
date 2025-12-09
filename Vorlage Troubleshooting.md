@@ -1,10 +1,8 @@
 ---
+title: Vorlage Troubleshooting
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlage Troubleshooting
 
 Übersetzung: [[Troubleshooting Template]]
 

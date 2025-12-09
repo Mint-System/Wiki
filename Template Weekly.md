@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Template Weely
+kind: reference
 section: template
 ---
-
-# Template Weely
 
 ````markdown
 ---

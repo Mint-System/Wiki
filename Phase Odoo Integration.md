@@ -1,9 +1,8 @@
 ---
+title: Phase Odoo Integration
 kind: explain
 section: service
 ---
-
-# Phase Odoo Integration
 
 Tätigkeiten:
 

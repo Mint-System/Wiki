@@ -1,10 +1,8 @@
 ---
+title: Michael Ziege
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Michael Ziege
 
 Benutzername: `michaelziege`\
 Alias: `mzi`\

@@ -1,7 +1,7 @@
 ---
+title: Open Broadcast Software
 website: https://obsproject.com/
 ---
-# Open Broadcast Software
 
 OBS is broadcast software for professional presentations.
 

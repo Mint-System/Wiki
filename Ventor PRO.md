@@ -1,9 +1,9 @@
 ---
+title: Ventor Pro
 kind: reference
 section: product
 website: https://ventor.app
 ---
-# Ventor Pro
 
 App zur effizienten Lager- und Warehouseverwaltung.
 

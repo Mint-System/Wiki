@@ -1,11 +1,9 @@
 ---
+title: Template Report on Odoo Customization
 lang: en
-kind:
-  - reference
+kind: reference
 section: template
 ---
-
-# Template Report on Odoo Customization
 
 ```markdown
 ---

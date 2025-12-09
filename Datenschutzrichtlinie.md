@@ -1,8 +1,7 @@
 ---
+title: Datenschutzrichtlinie
 section: organisation
 ---
-
-# Datenschutzrichtlinie
 
 Datum des Inkrafttretens: 20.03.2024
 

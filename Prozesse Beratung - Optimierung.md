@@ -1,7 +1,5 @@
 ---
-kind:
-  - howto
+title: Prozesse Beratung - Optimierung
+kind: howto
 section: process
 ---
-
-# Prozesse Beratung - Optimierung

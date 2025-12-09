@@ -1,9 +1,8 @@
 ---
+title: Akquise
 kind: explain
 section: methodology
 ---
-
-# Akquise
 
 Empfehlungen für die Akquise von Projekten.
 

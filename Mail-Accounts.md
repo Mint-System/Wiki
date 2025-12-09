@@ -1,8 +1,6 @@
 ---
-
+title: Mail-Accounts
 ---
-
-# Mail-Accounts
 
 Die Mint System verwaltet Mail-Accounts für verschiedene Organisation.
 

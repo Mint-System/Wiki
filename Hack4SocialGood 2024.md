@@ -1,13 +1,9 @@
 ---
+title: Hack4SocialGood 2024
 draft: false
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-![[caritas.png]]
-
-# Hack4SocialGood 2024
 
 Die Mint System war am Hack4SocialGood vertreten.
 

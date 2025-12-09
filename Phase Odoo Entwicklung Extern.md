@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Odoo Entwicklung Extern
+kind: explain
 section: service
 ---
-
-# Phase Odoo Entwicklung Extern
 
 Tätigkeiten:
 

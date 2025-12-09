@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo.sh - Projekt bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo.sh - Projekt bereitstellen
 
 ## Initialisierung
 

@@ -1,11 +1,9 @@
 ---
+title: Prozesse Projektmanagement
 responsible: Kurt Gisler
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Projektmanagement
 
 Dokumentation der Projektmanagement Prozesse.
 

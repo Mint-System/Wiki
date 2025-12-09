@@ -1,10 +1,8 @@
 ---
+title: Mint Bot
 section: account
-kind:
-  - reference
+kind: reference
 ---
-
-# Mint Bot
 
 ![[bot_icon.png]]
 

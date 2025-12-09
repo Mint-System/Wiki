@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Mehrwertsteuerabrechnung
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Mehrwertsteuerabrechnung
 
 ## Saldosteuern berechnen
 

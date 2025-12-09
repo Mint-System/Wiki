@@ -1,8 +1,6 @@
 ---
-
+title: Debian
 ---
-
-# Debian
 
 ## Lifecycle
 

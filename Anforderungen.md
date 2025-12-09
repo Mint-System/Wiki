@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Anforderungen
+kind: reference
 section: term
 ---
-
-# Anforderungen
 
 Siehe [[Prozesse Akquise - Anforderungsanalyse]].

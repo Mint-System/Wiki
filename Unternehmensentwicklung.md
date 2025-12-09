@@ -1,9 +1,8 @@
 ---
+title: Unternehmensentwicklung
 kind: explain
 section: organisation
 ---
-
-# Unternehmensentwicklung
 
 Mehr dazu unter: [[Roadmap]]
 

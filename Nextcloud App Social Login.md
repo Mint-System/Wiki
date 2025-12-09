@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Nextcloud App Social Login
+kind: reference
 section: communication
 ---
-
-# Nextcloud App Social Login
 
 Integration Login-Anbieter mit OpenID Connect.
 

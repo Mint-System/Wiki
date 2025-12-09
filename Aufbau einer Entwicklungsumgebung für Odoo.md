@@ -1,8 +1,6 @@
 ---
+title: Aufbau einer Entwicklungsumgebung für Odoo
 draft: true
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-# Aufbau einer Entwicklungsumgebung für Odoo

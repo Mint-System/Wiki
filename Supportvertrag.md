@@ -1,10 +1,6 @@
 ---
-
+title: Supportvertrag
 ---
-
-![[support-banner.jpg]]
-
-# Supportvertrag
 
 Revision: 2024-01-01
 

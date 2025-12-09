@@ -1,8 +1,8 @@
 ---
+title: Wordpress
 kind: reference
 website: https://wordpress.org/
 ---
-# Wordpress
 
 Weiterführende Links: [[Wordpress Handbook]]
 

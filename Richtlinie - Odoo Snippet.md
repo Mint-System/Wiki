@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Odoo Snippet
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Odoo Snippet
 
 ## Reservierte Bezeichnungen
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Smarthpone
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Smarthpone
 
 ## Keine Arbeitsgeräte
 

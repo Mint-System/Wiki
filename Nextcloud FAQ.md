@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Nextcloud FAQ
+kind: explain
 section: product
 ---
-
-# Nextcloud FAQ
 
 ## Offen
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Template Meeting
+kind: reference
 section: template
 ---
-
-# Template Meeting
 
 ````markdown
 ---

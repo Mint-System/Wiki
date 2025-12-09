@@ -1,10 +1,8 @@
 ---
-kind:
-  - tutorial
+title: Nextcloud Upgrade
+kind: tutorial
 section: dev
 ---
-
-# Nextcloud Upgrade
 
 Description of the Nextcloud upgrade process.
 

@@ -1,4 +1,5 @@
 ---
+title: Kurt Gisler
 kind: reference
 responsibilities:
   - Unternehmensentwicklung
@@ -6,8 +7,6 @@ responsibilities:
   - Strategie
 section: organisation
 ---
-
-# Kurt Gisler
 
 Benutzername: `kurtgisler`\
 Alias: `kgi`\

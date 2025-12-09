@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Coaching Odoo Entwicklung
+kind: explain
 section: service
 ---
-
-# Phase Coaching Odoo Entwicklung
 
 Tätigkeiten:
 

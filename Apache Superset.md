@@ -1,11 +1,9 @@
 ---
-kind:
-  - reference
+title: Apache Superset
+kind: reference
 section: product
 website: https://superset.apache.org/
 ---
-
-# Apache Superset
 
 ## Videos
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Go-Live
+kind: explain
 section: service
 ---
-
-# Phase Go-Live
 
 Tätigkeiten:
 

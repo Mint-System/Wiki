@@ -1,8 +1,7 @@
 ---
+title: Website
 kind: reference
 ---
-
-# Website
 
 Die Mint System Website ist <https://www.mint-system.ch/>
 

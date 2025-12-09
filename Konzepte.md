@@ -1,3 +1,5 @@
-# Konzepte
+---
+title: Konzepte
+---
 
 [[Uri Cloud]]

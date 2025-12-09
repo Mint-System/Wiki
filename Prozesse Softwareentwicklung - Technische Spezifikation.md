@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Softwareentwicklung - Technische Spezifikation
+kind: howto
 section: process
 ---
-
-# Prozesse Softwareentwicklung - Technische Spezifikation
 
 ## Dokument erstellen
 

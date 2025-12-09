@@ -1,9 +1,8 @@
 ---
+title: Richtlinien
 kind: reference
 section: policy
 ---
-
-# Richtlinien
 
 Richtlinien der Mint System.
 

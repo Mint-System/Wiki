@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Bestandsaufnahme Microsoft Office 365
+kind: reference
 section: template
 ---
-
-# Bestandsaufnahme Microsoft Office 365
 
 ## Office Produkte
 

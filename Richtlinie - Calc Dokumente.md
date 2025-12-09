@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Calc Dokumente
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Calc Dokumente
 
 Die inhaltiche von Excel- oder Calc Dokumenten muss explizit festgelegt werden.
 

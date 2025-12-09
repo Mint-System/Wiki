@@ -1,9 +1,7 @@
 ---
+title: Sicherheit
 section: term
-kind:
-  - reference
+kind: reference
 ---
-
-# Sicherheit
 
 Ist Teil von [[Security]].

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Kontakte
+kind: explain
 section: service
 ---
-
-# Phase Kontakte
 
 Tätigkeiten:
 

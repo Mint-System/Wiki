@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Angebot erstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Angebot erstellen
 
 ## Odoo-Lizenz-Angebot erstellen
 

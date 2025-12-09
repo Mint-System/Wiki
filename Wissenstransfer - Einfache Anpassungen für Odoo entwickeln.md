@@ -1,11 +1,9 @@
 ---
-kind:
-  - tutorial
+title: Wissenstransfer - Einfache Anpassungen für Odoo entwickeln
+kind: tutorial
 section: organisation
 ---
-
-# Wissenstransfer: Einfache Anpassungen für Odoo entwickeln
-
+ 
 Ziele:
 
 - Der Integrator eines [[Odoo-Projekte|Odoo-Projekt]] hat die Kompetenz Anpassungen an der Odoo-Oberfläche vorzunehmen und diese mit [[Git]] festzuhalten.

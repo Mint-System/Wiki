@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Vorgehensmodell Hosting
+kind: explain
 section: methodology
 ---
-
-# Vorgehensmodell Hosting
 
 Das vorliegende Vorgehensmodell erläutert beschreibt wie die Mint System GmbH Hosting-Projekte umsetzt.
 

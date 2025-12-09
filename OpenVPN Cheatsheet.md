@@ -1,8 +1,6 @@
 ---
-
+title: OpenVPN Cheatsheet
 ---
-
-# OpenVPN Cheatsheet
 
 Requirement:
 

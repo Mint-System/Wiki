@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Softwareentwicklungsprojekte
+kind: reference
 ---
-
-# Softwareentwicklungsprojekte
 
 ## [[Phasen]]
 

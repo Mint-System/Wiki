@@ -1,9 +1,7 @@
 ---
+title: Terminal
 section: tool
-kind:
-  - explain
+kind: explain
 ---
-
-# Terminal
 
 Siehe [[Kommandozeile]].

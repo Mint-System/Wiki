@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Dokumentenmanagement - Dokumente archivieren
+kind: howto
 section: process
 ---
-
-# Prozesse Dokumentenmanagement - Dokumente archivieren
 
 ## Archivierung durchführen
 

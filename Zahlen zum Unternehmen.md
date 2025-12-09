@@ -1,11 +1,9 @@
 ---
+title: Zahlen zum Unternehmen
 draft: true
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-# Zahlen zum Unternehmen
 
 Wir sind nun mehr als **3** Jahre alt.
 

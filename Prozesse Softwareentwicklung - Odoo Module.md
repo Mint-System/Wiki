@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Softwareentwicklung - Odoo Module
+kind: howto
 section: process
 ---
-
-# Prozesse Softwareentwicklung - Odoo Module
 
 ## Modul initialisieren
 

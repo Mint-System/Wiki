@@ -1,10 +1,8 @@
 ---
+title: Odoo Drucken
 section: dev
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Drucken
 
 Direkt aus Odoo drucken.
 

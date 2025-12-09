@@ -1,11 +1,11 @@
 ---
+title: Specification Git Kubernetes
 draft: true
 kind: explain
 lang: en
 repository: https://github.com/Mint-System/Odoo-Apps-Connector
 section: specification
 ---
-# Specification Git Kubernetes
 
 Context: Odoo shop for mint-cloud.ch
 

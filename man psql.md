@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: man psql
+kind: reference
 section: dev
 ---
-
-# man psql
 
 Alle Datenbanken anzeigen.\
 `\l`

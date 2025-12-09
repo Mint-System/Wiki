@@ -1,8 +1,6 @@
 ---
-
+title: Netzwerk
 ---
-
-# Netzwerk
 
 ## Off-Premise
 

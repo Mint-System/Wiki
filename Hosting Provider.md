@@ -1,8 +1,6 @@
 ---
-
+title: Hosting Provider
 ---
-
-# Hosting Provider
 
 Wir setzen auf [[Hetzner]], [[Infomaniak]] und [[Exoscale]].
 

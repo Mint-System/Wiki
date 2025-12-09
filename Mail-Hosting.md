@@ -1,8 +1,7 @@
 ---
+title: Mail-Hosting
 section: infrastructure
 ---
-
-# Mail-Hosting
 
 Mail-Hosting ist bei [[Infomaniak]].
 

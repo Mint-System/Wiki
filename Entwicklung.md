@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Entwicklung
+kind: reference
 ---
-
-# Entwicklung
 
 Wird synonym mit [[Softwareentwicklung]] verwendet.
 

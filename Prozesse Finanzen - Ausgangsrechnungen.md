@@ -1,11 +1,9 @@
 ---
+title: Prozesse Finanzen - Ausgangsrechnungen
 responsible: Controller
-kind:
-  - howto
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Ausgangsrechnungen
 
 Rechnungen erstellen und versenden.
 

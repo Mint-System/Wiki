@@ -1,10 +1,8 @@
 ---
+title: Ziele
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Ziele
 
 Jahresziele der Mint System. Wir messen diese [[KPI]].
 

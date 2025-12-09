@@ -1,10 +1,8 @@
 ---
+title: Nextcloud Apps
 section: communication
-kind:
-  - reference
+kind: reference
 ---
-
-# Nextcloud Apps
 
 - [[Nextcloud App Mail]]
 - [[Nextcloud App Social Login]]

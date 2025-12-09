@@ -1,11 +1,9 @@
 ---
+title: Policy - Project Management
 lang: en
-kind:
-  - explain
+kind: explain
 section: policy
 ---
-
-# Policy - Project Management
 
 ## Project folders
 

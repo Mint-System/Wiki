@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase PoS
+kind: explain
 section: service
 ---
-
-# Phase PoS
 
 Tätigkeiten:
 

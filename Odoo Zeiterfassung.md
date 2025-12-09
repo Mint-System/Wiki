@@ -1,9 +1,9 @@
 ---
+title: Odoo Zeiterfassung
 kind: explain
 section: product
 website: https://www.mint-system.ch/odoo-zeiterfassung
 ---
-# Odoo Zeiterfassung
 
 Die _Odoo Zeiterfassung_ ist ein [[Angebot]] der [[Mint System GmbH]].
 

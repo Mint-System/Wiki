@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Personal - Bewerbung
+kind: howto
 section: process
 ---
-
-# Prozesse Personal - Bewerbung
 
 ## Bewerbung prüfen
 

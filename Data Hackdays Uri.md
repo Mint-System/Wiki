@@ -1,9 +1,9 @@
 ---
+title: Data Hackdays Uri
 kind: reference
 section: project
 website: https://data-hackdays-uri.ch
 ---
-# Data Hackdays Uri
 
 Infomaniak Domains:
 

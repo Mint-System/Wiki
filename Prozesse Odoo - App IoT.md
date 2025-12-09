@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App IoT
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App IoT
 
 Installation Modul Kundenverwaltung `iot`.
 

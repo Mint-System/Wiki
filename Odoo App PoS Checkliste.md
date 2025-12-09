@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Odoo App PoS Checkliste
+kind: howto
 section: guide
 ---
-
-# Odoo App PoS Checkliste
 
 Diese Checkliste richtet sich an Kunden, welche [[Odoo App PoS]] in Betrieb nehmen wollen.
 

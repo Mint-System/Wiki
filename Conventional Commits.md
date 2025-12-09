@@ -1,8 +1,6 @@
 ---
+title: Conventional Commits
 section: dev
-kind:
-  - reference
+kind: reference
 website: https://www.conventionalcommits.org/
 ---
-
-# Conventional Commits

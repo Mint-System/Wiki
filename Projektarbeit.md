@@ -1,10 +1,8 @@
 ---
+title: Projektarbeit
 section: methodology
-kind:
-  - tutorial
+kind: tutorial
 ---
-
-# Projektarbeit
 
 Die Projektarbeit ist die Hauptbeschäftigung der Mint System Odoo Experten. In der Projektarbeit durchlaufen Aufgaben aus dem Backlog des Projekts bis in den Erledigt-Status.
 

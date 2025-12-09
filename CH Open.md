@@ -1,8 +1,6 @@
 ---
+title: CH Open
 section: contact
-kind:
-  - reference
+kind: reference
 website: https://www.ch-open.ch/
 ---
-
-# CH Open

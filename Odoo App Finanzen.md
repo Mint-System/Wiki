@@ -1,10 +1,8 @@
 ---
+title: Odoo App Finanzen
 section: communication
-kind:
-  - reference
+kind: reference
 ---
-
-# Odoo App Finanzen
 
 Finanzen sind in Odoo über verschiedene Module abgebildet.
 

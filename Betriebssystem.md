@@ -1,11 +1,9 @@
 ---
+title: Betriebssystem
 ref:
-kind:
-  - reference
+kind: reference
 section: term
 ---
-
-# Betriebssystem
 
 ## Server
 

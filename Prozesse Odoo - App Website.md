@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Website
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Website
 
 Installation Module Website `website`.
 

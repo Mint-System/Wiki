@@ -1,8 +1,7 @@
 ---
+title: System Implementation
 kind: explain
 ---
-
-# System Implementation
 
 Als Unternehmen implementieren wir das Management-System Odoo bei Kunden. Diese Art von System-Implementation lässt sich allgemein darstellen. Die folgende Grafik zeigt wie das System Odoo im Unternehmen implementiert wird:
 

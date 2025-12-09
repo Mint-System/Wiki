@@ -1,11 +1,9 @@
 ---
+title: Steuerungskreis
 responsible: Kurt Gisler
-kind:
-  - explain
+kind: explain
 section: organisation
 ---
-
-# Steuerungskreis
 
 Kreise:
 

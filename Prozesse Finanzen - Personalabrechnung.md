@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Personalabrechnung
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Personalabrechnung
 
 Prozesse zur Personalabrechung der Mint System.
 

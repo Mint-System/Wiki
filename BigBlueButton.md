@@ -1,10 +1,8 @@
 ---
+title: BigBlueButton
 section: product
-kind:
-  - howto
+kind: howto
 ---
-
-# BigBlueButton
 
 BigBlueButton ist eine zuverlässige und umfangreiche Videokonferenzlösung.
 

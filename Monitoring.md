@@ -1,7 +1,7 @@
 ---
+title: Monitoring
 website: https://monitor.mint-system.ch
 ---
-# Monitoring
 
 Für das Monitoring der Systeme setzt Mint System [[Grafana]] and [[Prometheus]] ein.
 

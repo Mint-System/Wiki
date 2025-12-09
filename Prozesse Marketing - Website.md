@@ -1,10 +1,8 @@
 ---
+title: Prozesse Marketing - Website
 section: process
-kind:
-  - howto
+kind: howto
 ---
-
-# Prozesse Marketing - Website
 
 ## Referenzen aktualisieren
 

@@ -1,8 +1,6 @@
 ---
+title: Cloudscale
 section: contact
-kind:
-  - reference
+kind: reference
 website: https://www.cloudscale.ch/
 ---
-
-# Cloudscale

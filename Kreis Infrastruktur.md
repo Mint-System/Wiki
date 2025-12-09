@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Kreis Infrastruktur
+kind: explain
 section: organisation
 ---
-
-# Kreis Infrastruktur
 
 Besetzt von:
 

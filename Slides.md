@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Slides
+kind: reference
 section: meta
 ---
-
-# Slides
 
 Mit [[Obsidian]] können auch Präsentationen erstellt werden.
 

@@ -1,7 +1,5 @@
 ---
-kind:
-  - howto
+title: Prozesse Sicherheit - Assessment
+kind: howto
 section: process
 ---
-
-# Prozesse Sicherheit - Assessment

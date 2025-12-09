@@ -1,10 +1,8 @@
 ---
+title: Vorlage Interviews Gap-Analyse
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlage Interviews Gap-Analyse
 
 ## Bereich
 

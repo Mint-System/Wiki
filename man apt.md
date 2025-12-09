@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: man apt
+kind: reference
 section: dev
 ---
-
-# man apt
 
 List repositories.
 

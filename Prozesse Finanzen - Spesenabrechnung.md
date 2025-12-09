@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Spesenabrechnung
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Spesenabrechnung
 
 Prozesse zur Spesenabrechnung der Mint System.
 

@@ -1,8 +1,6 @@
 ---
-
+title: Odoo Studio - Konvertierung zu Odoo Modul
 ---
-
-# Odoo Studio: Konvertierung zu Odoo Modul
 
 Mit dieser Anleitung konvertieren Sie eine Anpassung von Odoo Studio zu einem Odoo Modul.
 

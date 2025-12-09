@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Webshop
+kind: explain
 section: service
 ---
-
-# Phase Webshop
 
 Tätigkeiten:
 

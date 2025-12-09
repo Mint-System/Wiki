@@ -1,10 +1,8 @@
 ---
+title: Odoo FAQ
 section: product
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo FAQ
 
 Offene Fragen rund um Odoo.
 

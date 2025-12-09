@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Projekt
+kind: explain
 section: service
 ---
-
-# Phase Projekt
 
 Tätigkeiten:
 

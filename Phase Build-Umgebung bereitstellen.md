@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Build-Umgebung bereitstellen
+kind: explain
 section: service
 ---
-
-# Phase Build-Umgebung bereitstellen
 
 Tätigkeiten:
 

@@ -1,10 +1,8 @@
 ---
+title: Softwareentwicklung
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Softwareentwicklung
 
 Aspekte der Softwareentwicklung.
 

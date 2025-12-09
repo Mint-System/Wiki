@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Nextcloud - Desktop Client
+kind: howto
 section: process
 ---
-
-# Prozesse Nextcloud - Desktop Client
 
 ## Desktop Client installieren
 

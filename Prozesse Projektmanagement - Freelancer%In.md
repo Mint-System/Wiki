@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Projektmanagement - Freelancer%In
+kind: howto
 section: process
 ---
-
-# Prozesse Projektmanagement - Freelancer%In
 
 ## Onboarding
 

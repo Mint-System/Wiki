@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Odoo Upgrade
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Odoo Upgrade
 
 ## Upgrade-Umgebung einrichten
 

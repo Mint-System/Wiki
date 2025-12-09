@@ -1,11 +1,9 @@
 ---
+title: Spam reduzieren mit SPF, DKIM und DMARC
 draft: false
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-# Spam reduzieren mit SPF, DKIM und DMARC
 
 Mit diesem Beitrag möchten wir einen Einblick in eine komplexe Thematik geben: Spam.
 

@@ -1,12 +1,8 @@
 ---
+title: Open Source Software = Sicherheit
 section: blog
-kind:
-  - explain
+kind: explain
 ---
-
-![](https://assets-global.website-files.com/5debb9b4f88fbc3f702d579e/5e08f5a0ad6badbed8b60617_a1bfa4bb08384e1aa414cada9a6d5e0b.jpeg)
-
-# Open Source Software = Sicherheit
 
 Warum ist Open Source Software sicherer als Closed Source Software?
 

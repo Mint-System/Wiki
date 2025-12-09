@@ -1,9 +1,7 @@
 ---
-kind:
-  - explain
+title: Odoo Upgrade FAQ
+kind: explain
 ---
-
-# Odoo Upgrade FAQ
 
 \*\*Upgrade-Zyklus
 

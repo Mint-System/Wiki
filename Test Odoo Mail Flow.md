@@ -1,11 +1,9 @@
 ---
+title: Test Odoo Mail Flow
 lang: en
 section: dev
-kind:
-  - explain
+kind: explain
 ---
-
-# Test Odoo Mail Flow
 
 This document explains how to setup the Odoo development environment to test the Odoo mail communication.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Raspberry Pi
+kind: reference
 section: hardware
 ---
-
-# Raspberry Pi
 
 ## Fernwartung
 

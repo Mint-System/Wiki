@@ -1,8 +1,6 @@
 ---
-
+title: Storage Bucket
 ---
-
-# Storage Bucket
 
 S3-kompatible Storage Buckets.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Entwicklung Ansible Rollen
+kind: explain
 section: service
 ---
-
-# Phase Entwicklung Ansible Rollen
 
 Tätigkeiten:
 

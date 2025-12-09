@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Wiki - Mitarbeit
+kind: howto
 section: process
 ---
-
-# Prozesse Wiki - Mitarbeit
 
 Technische Konfigurationen damit Sie an der Wissensdatenbank mitarbeiten können.
 

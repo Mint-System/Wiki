@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Dialog
+kind: explain
 section: service
 ---
-
-# Phase Dialog
 
 Tätigkeiten:
 

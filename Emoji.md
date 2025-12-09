@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Emoji
+kind: reference
 section: meta
 ---
-
-# Emoji
 
 Emoji-Index.
 

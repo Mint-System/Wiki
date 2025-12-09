@@ -1,8 +1,7 @@
 ---
+title: Odoo Community Edition
 kind: reference
 ---
-
-# Odoo Community Edition
 
 Open Source ERP-System.
 

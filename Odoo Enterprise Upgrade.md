@@ -1,10 +1,8 @@
 ---
+title: Odoo Enterprise Upgrade
 lang: en
-kind:
-  - reference
+kind: reference
 ---
-
-# Odoo Enterprise Upgrade
 
 With the [[Odoo Enterprise Edition]] customer have access to the [[Odoo Upgrade Service]].
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Serverwartung
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Serverwartung
 
 Wartung eines Servers.
 

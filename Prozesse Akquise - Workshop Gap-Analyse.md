@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Workshop Gap-Analyse
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Workshop Gap-Analyse
 
 ## Workshop vorbereiten
 

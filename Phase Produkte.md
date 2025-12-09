@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Produkte
+kind: explain
 section: service
 ---
-
-# Phase Produkte
 
 Tätigkeiten:
 

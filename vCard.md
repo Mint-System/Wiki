@@ -1,8 +1,6 @@
 ---
-
+title: vCard
 ---
-
-# vCard
 
 Statt Visitenkarten haben wir QR-Codes.
 

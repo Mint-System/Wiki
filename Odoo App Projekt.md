@@ -1,10 +1,8 @@
 ---
+title: Odoo App Projekt
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo App Projekt
 
 Odoo Projekt verbindet Projektmanagement mit Verkauf, Einkauf, Plannung und Finanzen.
 

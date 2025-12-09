@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Aussendienst
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Aussendienst
 
 Installation Modul Lager `industry_fsm`.
 

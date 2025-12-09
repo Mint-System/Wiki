@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Mail-Account Kunde
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Mail-Account Kunde
 
 Mailing-Dienste bereitstellen oder integrieren.
 

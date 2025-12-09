@@ -1,8 +1,6 @@
 ---
-
+title: Produktive Umgebungen
 ---
-
-# Produktive Umgebungen
 
 Siblings: [[Testumgebungen]], [[Demoumgebungen]]
 

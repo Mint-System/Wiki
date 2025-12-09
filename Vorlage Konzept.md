@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Vorlage Konzept
+kind: reference
 section: template
 ---
-
-# Vorlage Konzept
 
 Übersetzung: [[Concept Template]]
 

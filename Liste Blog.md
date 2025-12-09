@@ -20,6 +20,7 @@ section: bases
 | [[Der eigene Messenger für ihre Schule]] | explain | blog |
 | [[E-Mails mit Odoo versenden und empfangen]] | explain | blog |
 | [[Eine Sache des guten Geschmacks]] | explain | blog |
+| [[Empfehlungen für Odoo Module]] | reference | blog |
 | [[Fünf Fünf Fünf]] | explain | blog |
 | [[Hack4SocialGood 2024]] | explain | blog |
 | [[IT-Monokultur in der Verwaltung]] | explain | blog |

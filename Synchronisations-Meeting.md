@@ -1,8 +1,7 @@
 ---
+title: Synchronisations-Meeting
 kind: explain
 section: organisation
 ---
-
-# Synchronisations-Meeting
 
 [[Weekly-Meeting]]

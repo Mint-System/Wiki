@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Namenskonventionen
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Namenskonventionen
 
 ## Cloud Mint System
 

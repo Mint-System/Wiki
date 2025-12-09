@@ -1,10 +1,8 @@
 ---
+title: Uses Cases
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Uses Cases
 
 ## UC1 - Title
 

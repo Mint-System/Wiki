@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Kundenverwaltung
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Kundenverwaltung
 
 Installation Modul Kundenverwaltung `crm`.
 

@@ -1,11 +1,9 @@
 ---
+title: Prozesse Dokumentenmanagement
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Dokumentenmanagement
 
 Dokumentation der Dokumentenmanagement-Prozesse.
 

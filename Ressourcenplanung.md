@@ -1,9 +1,8 @@
 ---
+title: Ressourcenplanung
 kind: explain
 section: methodology
 ---
-
-# Ressourcenplanung
 
 ## Beschreibung
 

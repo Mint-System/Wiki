@@ -1,9 +1,8 @@
 ---
+title: Affiliate-Marketing
 kind: reference
 section: communication
 ---
-
-# Affiliate-Marketing
 
 Wir platzieren Affiliate-Links zu Dienstleistungen und Produkten von Dritten.
 

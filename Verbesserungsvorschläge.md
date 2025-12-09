@@ -1,8 +1,7 @@
 ---
+title: Verbesserungvorschläge
 kind: reference
 ---
-
-# Verbesserungvorschläge
 
 ## Prozesse
 

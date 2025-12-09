@@ -1,9 +1,9 @@
 ---
+title: OpenEduca
 kind: reference
 section: communication
 website: https://openeduca.ch
 ---
-# OpenEduca
 
 Infomaniak Domains:
 

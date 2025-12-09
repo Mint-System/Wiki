@@ -1,9 +1,9 @@
 ---
+title: Odoo Hosting - Online
 kind: explain
 section: product
 website: https://www.odoo.com/
 ---
-# Odoo Hosting - Online
 
 Dieses Odoo Hosting ist bekannt als [[Odoo Online]].
 

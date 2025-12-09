@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Vorlage Aufwandsschätzung
+kind: reference
 section: template
 ---
-
-# Vorlage Aufwandsschätzung
 
 Übersetzung: [[Template Estimation]]
 

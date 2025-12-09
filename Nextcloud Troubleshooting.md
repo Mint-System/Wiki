@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Nextcloud Troubleshooting
+kind: howto
 section: product
 ---
-
-# Nextcloud Troubleshooting
 
 ## Upgrade
 

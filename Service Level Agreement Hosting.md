@@ -1,10 +1,6 @@
 ---
-
+title: Service Level Agreement Hosting
 ---
-
-![[Banner Hosting SLA.png]]
-
-# Service Level Agreement Hosting
 
 Revision: 2024-01-04
 

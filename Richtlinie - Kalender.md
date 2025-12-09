@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Kalender
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Kalender
 
 ## Standardmässig Offen
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Plannung
+kind: explain
 section: service
 ---
-
-# Phase Plannung
 
 Tätigkeiten:
 

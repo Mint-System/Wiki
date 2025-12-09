@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Aufgabenverwaltung
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Aufgabenverwaltung
 
 Jede Aufgabe ist verrechenbar oder nicht verrechenbar und hat einen Aufgabenstatus.
 

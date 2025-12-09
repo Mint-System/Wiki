@@ -1,18 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Odoo Proof of Concept
+kind: explain
 section: service
 ---
-
----
-
-tags:
-
-- Phasen
-
----
-
-# Phase Odoo Proof of Concept
 
 Tätigkeiten:
 

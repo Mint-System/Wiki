@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Wartung
+kind: explain
 section: service
 ---
-
-# Phase Wartung
 
 Tätigkeiten:
 

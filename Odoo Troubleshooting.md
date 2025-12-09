@@ -1,9 +1,8 @@
 ---
+title: Odoo Troubleshooting
 kind: howto
 section: product
 ---
-
-# Odoo Troubleshooting
 
 ## Client
 

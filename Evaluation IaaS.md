@@ -1,9 +1,7 @@
 ---
-kind:
-  - explain
+title: Evaluation IaaS
+kind: explain
 ---
-
-# Evaluation IaaS
 
 Plattformen zur Bereitstellung von Applikationen und Container gibt es unzählige. Grundsätzlich gilt umso grösser der Anbieter umso günstiger das Angebot. Aus Erfahrung gibt es aber grosse Qualitätsunterschiede.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Terminal Zeiterfassung
+kind: explain
 section: product
 ---
-
-# Terminal Zeiterfassung
 
 Das _Terminal Zeiterfassung_ ist ein Produkt der [[Mint System GmbH]].
 

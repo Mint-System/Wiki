@@ -1,10 +1,8 @@
 ---
+title: Rollen Projektmanagement
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Rollen Projektmanagement
 
 Allgemein gültige Rollendefinitionen für interne Organisation und Projektorganisation.
 

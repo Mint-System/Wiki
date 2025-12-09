@@ -1,10 +1,8 @@
 ---
+title: Vorlagen
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlagen
 
 | Name                                      |
 | ----------------------------------------- |

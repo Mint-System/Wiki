@@ -1,7 +1,5 @@
 ---
-
+title: Todos
 ---
-
-# Todos
 
 Todos sind Aufgabenchecklisten.

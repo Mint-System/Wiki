@@ -1,10 +1,8 @@
 ---
+title: Git - Rebase
 lang: en
-kind:
-  - howto
+kind: howto
 ---
-
-# Git - Rebase
 
 ## Resolve rebase conflicts
 

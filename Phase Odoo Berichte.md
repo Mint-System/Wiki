@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Odoo Berichte
+kind: explain
 section: service
 ---
-
-# Phase Odoo Berichte
 
 Tätigkeiten:
 

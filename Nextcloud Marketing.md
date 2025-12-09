@@ -1,8 +1,6 @@
 ---
-
+title: Nextcloud Marketing
 ---
-
-# Nextcloud Marketing
 
 Marketinginhalte für Nextcloud.
 

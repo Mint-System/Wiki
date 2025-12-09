@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Drehbuch Migration Infomaniak
+kind: reference
 section: template
 ---
-
-# Drehbuch Migration Infomaniak
 
 ## Vorbereitung
 

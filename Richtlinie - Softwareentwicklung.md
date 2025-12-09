@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Softwareentwicklung
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Softwareentwicklung
 
 ## Versionierung
 

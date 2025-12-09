@@ -1,8 +1,6 @@
 ---
-
+title: Odoo.sh
 ---
-
-# Odoo.sh
 
 Siehe [[Odoo.sh Entwicklung]], [[Odoo.sh Projekte]], [[Odoo.sh Upgrade]].
 

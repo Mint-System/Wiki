@@ -1,9 +1,9 @@
 ---
+title: Mailgun
 kind: howto
 section: infrastructure
 website: https://www.mailgun.com/
 ---
-# Mailgun
 
 ## HowTo
 

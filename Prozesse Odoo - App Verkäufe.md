@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Verkäufe
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Verkäufe
 
 Installation Modul Verkäufe `sale_management`.
 

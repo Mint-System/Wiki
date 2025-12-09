@@ -1,11 +1,9 @@
 ---
+title: Bauteile mit Odoo zertifizieren
 draft: true
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-# Bauteile mit Odoo zertifizieren
 
 Aerolite AG in Ennetbürgen ist Meister in der Entwicklung und Zulassung von Flugzeugbauteilen.
 

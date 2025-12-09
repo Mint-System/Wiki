@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Umfrage
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Umfrage
 
 Installation Modul Umfrage `survey`
 

@@ -1,11 +1,9 @@
 ---
+title: Prozesse Softwareentwicklung
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Softwareentwicklung
 
 Dokumentation der Softwareentwicklungs-Prozesse.
 

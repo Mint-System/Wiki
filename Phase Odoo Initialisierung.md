@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Odoo Initialisierung
+kind: explain
 section: service
 ---
-
-# Phase Odoo Initialisierung
 
 Tätigkeiten:
 

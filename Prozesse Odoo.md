@@ -1,11 +1,9 @@
 ---
+title: Prozesse Odoo
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Odoo
 
 Technische Dokumentation der Odoo Prozesse.
 

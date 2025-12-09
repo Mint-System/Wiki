@@ -1,8 +1,6 @@
 ---
-kind:
-  - reference
+title: Testumgebungen
+kind: reference
 ---
-
-# Testumgebungen
 
 Siblings: [[Produktive Umgebungen]], [[Demoumgebungen]]

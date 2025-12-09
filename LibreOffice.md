@@ -1,8 +1,6 @@
 ---
-
+title: LibreOffice
 ---
-
-# LibreOffice
 
 [[LibreOffice Handbuch]]
 

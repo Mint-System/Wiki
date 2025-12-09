@@ -1,10 +1,8 @@
 ---
+title: Arbeitsplatz
 section: infrastructure
-kind:
-  - reference
+kind: reference
 ---
-
-# Arbeitsplatz
 
 Definition des Arbeitsplatzes.
 

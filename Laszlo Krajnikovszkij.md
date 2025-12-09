@@ -1,12 +1,10 @@
 ---
+title: Laszlo Krajnikovszkij
 responsibilities:
   - Infrastruktur
-kind:
-  - reference
+kind: reference
 section: organisation
 ---
-
-# Laszlo Krajnikovszkij
 
 Benutzername: `laszlokr`\
 Alias: `lkr`\

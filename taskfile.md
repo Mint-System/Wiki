@@ -1,9 +1,8 @@
 ---
+title: taskfile
 section: dev
-kind:
-  - reference
+kind: reference
 ---
-# taskfile
 
 Skript zur Ausführung eines Software-Projekts.
 

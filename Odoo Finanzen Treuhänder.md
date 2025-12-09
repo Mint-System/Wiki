@@ -1,10 +1,8 @@
 ---
+title: Odoo Finanzen Treuhänder
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Finanzen Treuhänder
 
 Notizen Thema Odoo Finanzen & Treuhänder.
 

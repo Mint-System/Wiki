@@ -1,6 +1,5 @@
 ---
-kind:
-  - tutorial
+kind: tutorial
 section: dev
 lang: en
 ---

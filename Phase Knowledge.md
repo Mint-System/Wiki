@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Knowledge
+kind: explain
 section: service
 ---
-
-# Phase Knowledge
 
 Tätigkeiten:
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Proof of Concept
+kind: explain
 section: service
 ---
-
-# Phase Proof of Concept
 
 Tätigkeiten:
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Hetzner - Projekt verwalten
+kind: howto
 section: vendor
 ---
-
-# Hetzner - Projekt verwalten
 
 ## Projekt teilen
 

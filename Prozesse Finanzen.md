@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Prozesse Finanzen
+kind: reference
 section: process
 ---
-
-# Prozesse Finanzen
 
 Dokumentation der Finanz-Prozesse.
 

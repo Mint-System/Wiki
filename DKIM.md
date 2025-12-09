@@ -1,10 +1,8 @@
 ---
+title: DKIM
 section: term
-kind:
-  - explain
+kind: explain
 ---
-
-# DKIM
 
 DomainKeys Identified Mail (DKIM) ist ein Identifikationsprotokoll zur Sicherstellung der Authentizität von E-Mail-Absendern.
 

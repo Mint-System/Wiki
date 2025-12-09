@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Odoo App PoS
+kind: explain
 section: communication
 ---
-
-# Odoo App PoS
 
 Kassentsystem von Odoo.
 

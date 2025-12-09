@@ -1,4 +1,6 @@
-# Odoo Lizenzierung, Hosting und Upgrade
+---
+title: Odoo Lizenzierung, Hosting und Upgrade
+---
 
 Die Wahl des Odoo Hosting-Modells und Edition hat Auswirkung auf die Auswahl der Odoo-Apps und Upgrade-Dienstleistung. Abhängig vom Lizenz- und Hosting-Modell entstehen unterschiedliche Preise und Kosten.
 

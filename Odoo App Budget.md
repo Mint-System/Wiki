@@ -1,10 +1,8 @@
 ---
+title: Odoo App Budget
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo App Budget
 
 Die Budgetplanung in Odoo ist verbunden mit der Finanzbuchhaltung und Kostenrechnung.
 

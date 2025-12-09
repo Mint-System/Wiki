@@ -1,11 +1,9 @@
 ---
+title: Specification Website Sale Helm
 lang: en
-kind:
-  - explain
+kind: explain
 section: specification
 ---
-
-# Specification Website Sale Helm
 
 ## Module structure
 

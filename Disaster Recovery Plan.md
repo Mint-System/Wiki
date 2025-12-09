@@ -1,10 +1,8 @@
 ---
+title: Disaster Recovery Plan
 section: term
-kind:
-  - explain
+kind: explain
 ---
-
-# Disaster Recovery Plan
 
 Im Disaster Recover Plan (DRP) werden Ausfallszenarios und das Vorgehen zur Wiederherstellung eines Dienstes beschrieben.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Domains
+kind: reference
 section: infrastructure
 ---
-
-# Domains
 
 There are two domain registrars: Vercel and Infomaniak
 

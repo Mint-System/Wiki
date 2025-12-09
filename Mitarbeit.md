@@ -1,8 +1,6 @@
 ---
-
+title: Mitarbeit
 ---
-
-# Mitarbeit
 
 > Wie können Dritte und Mitarbeiter der [[Mint System GmbH]] diese Wissensdatenbank bearbeiten?
 
@@ -42,6 +40,7 @@ Die folgenden Dateien gehören zum Obsidian Projekt:
 * [[Übersicht.base]]
 * [[Unternehmen.base]]
 * [[Vorlagen.base]]
+* [[Website and Repository.base]]
 
 ## VuePress
 
@@ -54,3 +53,5 @@ Die folgenden Dateien gehören zum Vuepress Projekt:
 * [[pnpm-lock.yaml]]
 * [[LICENSE]]
 * [[review-note.csv]]
+* [[generate-bases-view.js]]
+* [[convert-canvas-to-svg.js]]

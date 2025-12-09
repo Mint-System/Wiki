@@ -1,10 +1,8 @@
 ---
+title: KPI
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# KPI
 
 ## Monatlicher Umsatz
 

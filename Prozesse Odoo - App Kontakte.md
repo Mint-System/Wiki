@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Kontakte
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Kontakte
 
 Installation Modul Kontakte `contacts`.
 

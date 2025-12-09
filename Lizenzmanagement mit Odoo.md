@@ -1,8 +1,6 @@
 ---
+title: Lizenzmanagement mit Odoo
 draft: false
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-# Lizenzmanagement mit Odoo

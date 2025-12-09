@@ -1,9 +1,7 @@
 ---
+title: BPMN
 section: tool
-kind:
-  - explain
+kind: explain
 ---
-
-# BPMN
 
 Siehe [[Business Process Model and Notation]].

@@ -1,7 +1,6 @@
 ---
+title: Virutalisierung
 kind: reference
 ---
-
-# Virutalisierung
 
 [[VMware]]

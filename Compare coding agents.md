@@ -1,12 +1,10 @@
 ---
-kind:
-  - explain
+title: Compare coding agents
+kind: explain
 lang: en
 author: Janik von Rotz
 section: dev
 ---
-
-# Compare coding agents
 
 Comparing LLM agents is difficult. I wanted to build a simple feature this Obsidian Wiki. Obsidian features _bases_, these are basically queries for the entire markdown file structure. There is no other output format, except for the bases view of Obsidian. The coding agent should build a simple js script that renders the bases view definitions to markdown tables.
 

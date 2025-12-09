@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Office 365 bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Office 365 bereitstellen
 
 ## Odoo-Postfach einrichten
 

@@ -1,8 +1,6 @@
 ---
-
+title: VSCode
 ---
-
-# VSCode
 
 Synonym für [[Visual Studio Code]].
 

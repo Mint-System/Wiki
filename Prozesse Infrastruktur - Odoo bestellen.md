@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Odoo bestellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Odoo bestellen
 
 Bestellung einer Odoo-Installation.
 

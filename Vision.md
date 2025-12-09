@@ -1,10 +1,9 @@
 ---
+title: Vision
 kind: explain
 draft: true
 section: organisation
 ---
-
-# Vision
 
 ::: warning
 Diese Seite befindet sich in der Entwurfsphase. Der Inhalt ist vorläufig und kann jederzeit überarbeitet oder aktualisiert werden.

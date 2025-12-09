@@ -1,8 +1,6 @@
 ---
-kind:
-  - reference
+title: Collabora
+kind: reference
 ---
-
-# Collabora
 
 Online Dokumentbearbeitung.

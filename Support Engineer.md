@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Support Engineer
+kind: explain
 section: organisation
 ---
-
-# Support Engineer
 
 ## Wer wir sind
 

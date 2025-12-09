@@ -1,10 +1,8 @@
 ---
+title: Docker
 section: product
-kind:
-  - reference
+kind: reference
 ---
-
-# Docker
 
 ## HowTos
 

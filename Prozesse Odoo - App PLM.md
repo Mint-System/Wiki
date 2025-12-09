@@ -1,9 +1,7 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App PLM
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App PLM
 
 Installation Modul Produktlebenszyklusverwaltung (PLZ) `mrp_plm`

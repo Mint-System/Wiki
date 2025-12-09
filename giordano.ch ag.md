@@ -1,8 +1,8 @@
 ---
+title: giordano.ch ag
 kind: reference
 section: contact
 website: https://www.giordano.ch/
 ---
-# giordano.ch ag
 
 Die giordano ag ist ein Partner der [[Mint System GmbH]].

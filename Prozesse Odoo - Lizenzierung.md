@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - Lizenzierung
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - Lizenzierung
 
 ## Wechsel auf Enterprise Edition
 

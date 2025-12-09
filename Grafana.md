@@ -1,7 +1,7 @@
 ---
+title: Grafana
 website: https://grafana.com
 ---
-# Grafana
 
 Dashboard for Promethus metrics.
 

@@ -1,10 +1,8 @@
 ---
+title: Odoo Development Guidelines
 section: dev
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Development Guidelines
 
 ## Odoo Modules
 

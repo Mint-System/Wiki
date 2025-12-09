@@ -1,8 +1,7 @@
 ---
+title: Finanzen
 section: organisation
 ---
-
-# Finanzen
 
 Siehe [[Prozesse Finanzen]].
 

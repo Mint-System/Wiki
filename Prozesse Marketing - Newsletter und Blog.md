@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Marketing - Newsletter und Blog
+kind: howto
 section: process
 ---
-
-# Prozesse Marketing - Newsletter und Blog
 
 ## Newsletter vorbereiten
 

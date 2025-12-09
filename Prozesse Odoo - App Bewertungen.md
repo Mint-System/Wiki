@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Bewertungen
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Bewertungen
 
 Installation Modul Bewertungen `hr_appraisal`
 

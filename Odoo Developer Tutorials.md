@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Odoo Developer Tutorials
+kind: reference
 section: dev
 ---
-
-# Odoo Developer Tutorials
 
 - [[Tutorial - Install Odoo Studio]]
 - [[Tutorial - Create App with Odoo Studio]]

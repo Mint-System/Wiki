@@ -1,8 +1,7 @@
 ---
+title: Odoo Website CSS
 kind: howto
 ---
-
-# Odoo Website CSS
 
 Website customizations with CSS.
 

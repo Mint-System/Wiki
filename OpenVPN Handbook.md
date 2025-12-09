@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: OpenVPN Handbook
+kind: howto
 lang: en
 section: handbook
 ---
-
-# OpenVPN Handbook
 
 [[TOC]]

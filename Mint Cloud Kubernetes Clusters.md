@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Mint Cloud Kubernetes Clusters
+kind: reference
 ---
-
-# Mint Cloud Kubernetes Clusters
 
 Every cluster available in the Mint Cloud should be accessible with a three letter subdomain.
 

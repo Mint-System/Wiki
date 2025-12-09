@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Infomaniak Handbuch
+kind: howto
 section: handbook
 ---
-
-# Infomaniak Handbuch
 
 [[TOC]]
 

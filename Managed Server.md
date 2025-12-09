@@ -1,12 +1,8 @@
 ---
+title: Managed Server
 section: product
-kind:
-  - explain
+kind: explain
 ---
-
-![[Banner Managed Server.jpg]]
-
-# Managed Server
 
 Der _Managed Server_ ist ein Produkt der Mint System.
 

@@ -1,8 +1,6 @@
 ---
-
+title: Terraform mit Hetzner
 ---
-
-# Terraform mit Hetzner
 
 ## Vorbereitung
 

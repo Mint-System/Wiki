@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Service Accounts
+kind: reference
 section: account
 ---
-
-# Service Accounts
 
 Es existieren die folgenden Service-Accounts:
 

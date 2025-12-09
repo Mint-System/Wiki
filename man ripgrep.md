@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: man ripgrep
+kind: reference
 section: dev
 ---
-
-# man ripgrep
 
 Text in allen Dateien ersetzen.\
 

@@ -1,8 +1,7 @@
 ---
+title: Mint System als Subunternehmen
 section: organisation
 ---
-
-# Mint System als Subunternehmen
 
 Die Mint System arbeitet als Subunternehmen für Sie bzw. ihr Projekt.
 

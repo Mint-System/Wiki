@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - Upgrade Implementation
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - Upgrade Implementation
 
 ## Prozess initialisieren
 

@@ -1,11 +1,9 @@
 ---
-kind:
-  - tutorial
+title: Tutorial - Extend the Odoo product model
+kind: tutorial
 section: dev
 lang: en
 ---
-
-# Tutorial: Extend the Odoo product model
 
 Let's add a new field to the product model step by step.
 

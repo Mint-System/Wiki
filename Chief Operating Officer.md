@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Chief Operating Officer
+kind: explain
 section: organisation
 ---
-
-# Chief Operating Officer
 
 ## Wer wir sind
 

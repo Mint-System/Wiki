@@ -1,4 +1,6 @@
-# Login mit login.mint-system.ch
+---
+title: Login mit login.mint-system.ch
+---
 
 Wenn Sie ihren [[Login Mint System]] Benutzer verwalten möchten, rufen Sie den Link <https://login.mint-system.ch/auth/realms/mint-system.ch/account/> auf und loggen sich ein.
 

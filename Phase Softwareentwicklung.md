@@ -1,6 +1,5 @@
 ---
-kind:
-  - explain
+kind: explain
 section: service
 ---
 

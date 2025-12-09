@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Support - Benachrichtigungen
+kind: howto
 section: process
 ---
-
-# Prozesse Support - Benachrichtigungen
 
 Support-Benachrichtigungen verwalten.
 

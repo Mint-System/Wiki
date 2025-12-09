@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Odoo bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Odoo bereitstellen
 
 Bereitstellung Odoo-Umgebung.
 

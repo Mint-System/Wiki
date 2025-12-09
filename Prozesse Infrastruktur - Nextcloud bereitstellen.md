@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Nextcloud bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Nextcloud bereitstellen
 
 Bereistellung Nextcloud-Umgebung.
 

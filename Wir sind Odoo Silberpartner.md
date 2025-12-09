@@ -1,11 +1,9 @@
 ---
+title: Wir sind Odoo Silber-Partner
 draft: true
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-# Wir sind Odoo Silber-Partner
 
 > Nach 3 Jahren mit Odoo konnten wir unseren Partnerschaftsstatus verbessern
 

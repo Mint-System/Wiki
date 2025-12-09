@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Projekteingabe
+kind: explain
 section: service
 ---
-
-# Phase Projekteingabe
 
 Tätigkeiten:
 

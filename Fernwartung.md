@@ -1,8 +1,7 @@
 ---
+title: Fernwartung
 section: tool
 ---
-
-# Fernwartung
 
 ## Deskop
 

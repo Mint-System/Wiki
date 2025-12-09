@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Infomaniak Kubernetes
+kind: howto
 section: vendor
 ---
-
-# Infomaniak Kubernetes
 
 ## Konfiguration
 

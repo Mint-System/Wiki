@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Fertigung
+kind: explain
 section: service
 ---
-
-# Phase Fertigung
 
 Tätigkeiten:
 

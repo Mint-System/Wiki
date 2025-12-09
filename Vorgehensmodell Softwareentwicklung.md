@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Vorgehensmodell Softwareentwicklung
+kind: explain
 section: methodology
 ---
-
-# Vorgehensmodell Softwareentwicklung
 
 Hier beschreibt die [[Mint System GmbH]] ihr Vorgehensmodell zum Softwareentwicklungsprozess.
 

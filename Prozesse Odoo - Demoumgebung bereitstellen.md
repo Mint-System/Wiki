@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - Demoumgebung bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - Demoumgebung bereitstellen
 
 Beschreibt wie man eine [[Odoo Demoumgebung]] bereitstellt.
 

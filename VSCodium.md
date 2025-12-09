@@ -1,8 +1,8 @@
 ---
+title: VSCodium
 section: tool
 website: https://vscodium.com/
 ---
-# VSCodium
 
 ## Plugins
 

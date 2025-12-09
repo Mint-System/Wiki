@@ -1,10 +1,9 @@
 ---
+title: Odoo Build - Create an OCA module
 kind: tutorial
 draft: true
 section: dev
 ---
-
-# Odoo Build - Create an OCA module
 
 This tutorial is based on <https://github.com/OCA/maintainer-tools>.
 

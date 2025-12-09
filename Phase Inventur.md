@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Inventur
+kind: explain
 section: service
 ---
-
-# Phase Inventur
 
 Tätigkeiten:
 

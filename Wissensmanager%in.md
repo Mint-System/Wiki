@@ -1,7 +1,5 @@
 ---
+title: Wissensmanager%in
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
-
-# Wissensmanager%in

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Datenmigration
+kind: explain
 section: service
 ---
-
-# Phase Datenmigration
 
 Tätigkeiten:
 

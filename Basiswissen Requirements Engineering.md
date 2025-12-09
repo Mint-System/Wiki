@@ -1,10 +1,8 @@
 ---
+title: Basiswissen Requirements Engineering
 section: methodology
-kind:
-  - explain
+kind: explain
 ---
-
-# Basiswissen Requirements Engineering
 
 Die Anforderungen werden in folgende Kategorien unterteilt:
 

@@ -1,10 +1,8 @@
 ---
+title: Entity Relationship Model
 section: term
-kind:
-  - explain
+kind: explain
 ---
-
-# Entity Relationship Model
 
 Synomym zu Entity Relationship Diagram (ERD).
 

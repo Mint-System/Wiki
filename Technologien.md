@@ -1,9 +1,8 @@
 ---
+title: Technologien
 kind: explain
 section: meta
 ---
-
-# Technologien
 
 Technologien im Einsatz der Mint System.
 

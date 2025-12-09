@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Testing Upgrade Odoo XX.0
+kind: reference
 section: template
 ---
-
-# Testing Upgrade Odoo XX.0
 
 ## Abgrenzung 🔭
 

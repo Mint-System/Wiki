@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: LibreOffice Handbuch
+kind: howto
 section: handbook
 ---
-
-# LibreOffice Handbuch
 
 [[TOC]]
 

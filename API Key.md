@@ -1,9 +1,7 @@
 ---
-kind:
-  - explain
+title: API Key
+kind: explain
 section: term
 ---
-
-# API Key
 
 Geheimer Schlüssel für Zugriff auf Schnittstelle.

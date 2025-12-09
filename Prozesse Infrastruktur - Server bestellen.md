@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Server bestellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Server bestellen
 
 Server bei [[Kreis Infrastruktur]] bestellen.
 

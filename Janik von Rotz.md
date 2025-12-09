@@ -1,14 +1,12 @@
 ---
+title: Janik von Rotz
 responsibilities:
   - Infrastruktur
   - Development
   - Finanzen
-kind:
-  - reference
+kind: reference
 section: organisation
 ---
-
-# Janik von Rotz
 
 Benutzername: `janikvonrotz`\
 Alias: `jvr`\

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: AHV und EO
+kind: explain
 section: organisation
 ---
-
-# AHV und EO
 
 ## Abrechnung
 

@@ -1,10 +1,10 @@
 ---
+title: PuTTY
 kind: reference
 lang: en
 section: tool
 website: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 ---
-# PuTTY
 
 PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 

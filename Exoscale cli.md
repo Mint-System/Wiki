@@ -1,10 +1,10 @@
 ---
+title: Exoscale cli
 kind: howto
 lang: en
 section: tool
 website: https://community.exoscale.com/community/tools/exoscale-command-line-interface/
 ---
-# Exoscale cli
 
 Every Exoscale resource can be managed with the `exo` cli.
 

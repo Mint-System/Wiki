@@ -1,10 +1,8 @@
 ---
+title: Problematik der IT-Monokultur
 section: blog
-kind:
-  - explain
+kind: explain
 ---
-
-# Problematik der IT-Monokultur
 
 ## Keine Wahl
 

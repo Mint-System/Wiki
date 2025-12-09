@@ -1,9 +1,8 @@
 ---
+title: Richtlinie - Dokumentmanagement
 kind: explain
 section: policy
 ---
-
-# Richtlinie - Dokumentmanagement
 
 [[DMS]] der Mint System.
 

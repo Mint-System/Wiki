@@ -1,10 +1,8 @@
 ---
+title: Vorlage Angebot
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlage Angebot
 
 Übersetzung: [[Offer Template]]
 

@@ -1,10 +1,8 @@
 ---
+title: Mail Hosting
 section: product
-kind:
-  - explain
+kind: explain
 ---
-
-# Mail Hosting
 
 ## Leistungsbeschreibung
 

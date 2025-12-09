@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Projektmanagement
+kind: explain
 section: service
 ---
-
-# Phase Projektmanagement
 
 Tätigkeiten:
 

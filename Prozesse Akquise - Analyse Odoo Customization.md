@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Analyse Odoo Customization
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Analyse Odoo Customization
 
 Zustand eines Odoo Projekts bewerten.
 

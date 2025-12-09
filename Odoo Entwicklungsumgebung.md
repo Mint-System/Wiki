@@ -1,8 +1,7 @@
 ---
+title: Odoo Entwicklungsumgebung
 kind: reference
 ---
-
-# Odoo Entwicklungsumgebung
 
 Mint System hat zur Entwicklung von Odoo die [[Odoo Build]] Umgebung.
 

@@ -1,8 +1,6 @@
 ---
-
+title: Keycloak Assessment
 ---
-
-# Keycloak Assessment
 
 Tech questions:
 

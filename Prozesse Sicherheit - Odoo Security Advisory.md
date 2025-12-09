@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Sicherheit - Odoo Security Advisory
+kind: howto
 section: process
 ---
-
-# Prozesse Sicherheit - Odoo Security Advisory
 
 ## Odoo Security Advisory verarbeiten
 

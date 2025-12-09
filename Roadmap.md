@@ -1,8 +1,6 @@
 ---
-
+title: Roadmap
 ---
-
-# Roadmap
 
 Was für die Produkte und Dienstleistung von Mint System ansteht.
 

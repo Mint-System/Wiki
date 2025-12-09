@@ -1,8 +1,7 @@
 ---
+title: Partner
 kind: explain
 ---
-
-# Partner
 
 Geschäftsbeziehungen der Mint System.
 

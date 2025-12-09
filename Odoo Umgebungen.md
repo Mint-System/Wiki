@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Odoo Umgebungen
+kind: reference
 ---
-
-# Odoo Umgebungen
 
 Zur Entwicklung und Präsentation von Odoo-Anwendungen braucht es eine Hosting-Lösung. Es soll möglich sein Odoo-Instanzen nach Bedarf bereitzustellen.
 Falls die Entwicklung von Odoo-Anwendungen eine grössere Bedeutung erhält, müssen zusätzliche Dienste für die Softwareentwicklung bereitgestellt werden.

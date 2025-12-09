@@ -1,9 +1,8 @@
 ---
+title: Innovation
 kind: tutorial
 section: organisation
 ---
-
-# Innovation
 
 Ideen für Innovationen werden in [[Ideation]] mitgeteilt.
 

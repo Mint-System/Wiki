@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Angebot
+kind: reference
 section: product
 ---
-
-# Angebot
 
 Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösungen und Produkte.
 

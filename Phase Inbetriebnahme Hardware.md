@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Inbetriebnahme Hardware
+kind: explain
 section: service
 ---
-
-# Phase Inbetriebnahme Hardware
 
 Tätigkeiten:
 

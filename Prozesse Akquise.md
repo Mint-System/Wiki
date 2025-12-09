@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Prozesse Akquise
+kind: reference
 section: process
 ---
-
-# Prozesse Akquise
 
 Dokumentation der Akquise Prozesse.
 

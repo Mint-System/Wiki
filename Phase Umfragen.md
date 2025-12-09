@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Umfragen
+kind: explain
 section: service
 ---
-
-# Phase Umfragen
 
 Tätigkeiten:
 

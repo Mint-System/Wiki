@@ -1,9 +1,8 @@
 ---
+title: Mint Cloud Odoo - Erste Schritte
 section: guide
-kind:
-  - tutorial
+kind: tutorial
 ---
-# Mint Cloud Odoo - Erste Schritte
 
 Du hast eine E-Mail mit den Anmeldedaten für Odoo in der Mint Cloud erhalten. Wir helfen dir die ersten wichtige Schritte mit Odoo zu machen.
 

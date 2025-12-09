@@ -1,11 +1,9 @@
 ---
+title: Migrate docker postgres databases with pg_dump
 archive: true
-kind:
-  - howto
+kind: howto
 section: dev
 ---
-
-# Migrate docker postgres databases with pg_dump
 
 ## The secure way
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Upgrade Odoo.sh
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Upgrade Odoo.sh
 
 ## Produktives Upgrade durchführen
 

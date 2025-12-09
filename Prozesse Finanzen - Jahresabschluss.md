@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Jahresabschluss
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Jahresabschluss
 
 Arbeitsschritte zum Erstellen des Jahresabschlusses.
 

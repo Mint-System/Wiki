@@ -1,10 +1,8 @@
 ---
+title: DNS
 section: infrastructure
-kind:
-  - reference
+kind: reference
 ---
-
-# DNS
 
 Dokumentation zur DNS-Konfiguration der Mint System Dienste.
 

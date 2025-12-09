@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Server-Zugriff verwalten
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Server-Zugriff verwalten
 
 Zugriff der Benutzer auf Server verwalten.
 

@@ -1,9 +1,7 @@
 ---
+title: BINARY one GmbH
 section: contact
-kind:
-  - reference
+kind: reference
 website: https://www.binaryone.ch/
 ---
-
-# BINARY one GmbH
 

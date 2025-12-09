@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Zeiterfassung
+kind: explain
 section: service
 ---
-
-# Phase Zeiterfassung
 
 Tätigkeiten:
 

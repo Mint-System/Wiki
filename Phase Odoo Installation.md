@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Odoo Installation
+kind: explain
 section: service
 ---
-
-# Phase Odoo Installation
 
 Tätigkeiten:
 

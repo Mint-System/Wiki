@@ -1,9 +1,8 @@
 ---
+title: Odoo Eigenentwicklungen
 kind: reference
 section: communication
 ---
-
-# Odoo Eigenentwicklungen
 
 Odoo kann als Entwicklungsframework für jegliche Art von Geschäftsapplikationen verwendet werden.
 

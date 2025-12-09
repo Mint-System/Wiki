@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Odoo Demoumgebung
+kind: explain
 section: service
 ---
-
-# Phase Odoo Demoumgebung
 
 Tätigkeiten:
 

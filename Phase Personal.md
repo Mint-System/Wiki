@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Personal
+kind: explain
 section: service
 ---
-
-# Phase Personal
 
 Tätigkeiten:
 

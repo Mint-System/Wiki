@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Backstage Hosting
+kind: explain
 section: service
 ---
-
-# Phase Backstage Hosting
 
 Tätigkeiten:
 

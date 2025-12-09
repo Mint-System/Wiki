@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Präsentation
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Präsentation
 
 Vorbereitung für eine Präsentation beim Kunden.
 

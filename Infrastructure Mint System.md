@@ -1,7 +1,6 @@
 ---
 section: infrastructure
-kind:
-  - explain
+kind: explain
 ---
 
 ## Infrastructure Mint System

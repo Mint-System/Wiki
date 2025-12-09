@@ -1,10 +1,8 @@
 ---
+title: Backup
 section: infrastructure
-kind:
-  - explain
+kind: explain
 ---
-
-# Backup
 
 ## Vorschlag
 

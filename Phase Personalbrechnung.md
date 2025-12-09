@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Personalbrechnung
+kind: explain
 section: service
 ---
-
-# Phase Personalbrechnung
 
 Tätigkeiten:
 

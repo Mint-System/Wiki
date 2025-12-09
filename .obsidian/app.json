@@ -16,7 +16,7 @@
     "node_modules/",
     "src/"
   ],
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "propertiesInDocument": "visible",
   "vimMode": false,
   "promptDelete": false,

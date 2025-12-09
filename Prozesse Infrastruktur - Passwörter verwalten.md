@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Passwörter verwalten
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Passwörter verwalten
 
 ## Passwort-Speicher anlegen
 

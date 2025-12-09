@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phasen
+kind: explain
 section: term
 ---
-
-# Phasen
 
 Phasen regeln das **Was**. Die Phasen basieren auf der [[Vorlage Phase]].
 

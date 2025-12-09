@@ -1,11 +1,9 @@
 ---
-kind:
-  - howto
+title: Microsoft Authenticator
+kind: howto
 lang: en
 section: tool
 ---
-
-# Microsoft Authenticator
 
 ## TOTP 2FA aktivieren
 

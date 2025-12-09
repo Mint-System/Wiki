@@ -1,10 +1,8 @@
 ---
+title: Blog-Posts
 section: blog
-kind:
-  - reference
+kind: reference
 ---
-
-# Blog-Posts
 
 Hier entstehen neue Blog-Posts:
 

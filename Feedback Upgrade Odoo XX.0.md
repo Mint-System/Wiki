@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Feedback Upgrade Odoo XX.0
+kind: reference
 section: template
 ---
-
-# Feedback Upgrade Odoo XX.0
 
 ## Verkauf
 

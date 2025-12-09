@@ -1,9 +1,7 @@
 ---
+title: Upgrade
 section: term
-kind:
-  - explain
+kind: explain
 ---
-
-# Upgrade
 
 Aktualisierung eines Major-Release einer Software.

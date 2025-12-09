@@ -1,11 +1,9 @@
 ---
+title: Ulrich Kilian
 responsible: Entwickler
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Ulrich Kilian
 
 Benutzername: `ulrichkilian`\
 Alias: `uki`\

@@ -1,10 +1,9 @@
 ---
+title: Uri Cloud
 draft: true
 kind: explain
 section: project
 ---
-
-# Uri Cloud
 
 ::: warning
 Diese Seite befindet sich in der Entwurfsphase. Der Inhalt ist vorläufig und kann jederzeit überarbeitet oder aktualisiert werden.

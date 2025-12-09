@@ -1,11 +1,9 @@
 ---
+title: Eine Sache des guten Geschmacks
 draft: false
 section: blog
-kind:
-  - explain
+kind: explain
 ---
-
-# Eine Sache des guten Geschmacks
 
 > Odoo funktioniert auch in der Fischzucht.
 

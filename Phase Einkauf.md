@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Einkauf
+kind: explain
 section: service
 ---
-
-# Phase Einkauf
 
 Tätigkeiten:
 

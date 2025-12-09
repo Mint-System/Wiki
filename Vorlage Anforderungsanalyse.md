@@ -1,10 +1,8 @@
 ---
+title: Vorlage Anforderungsanalyse
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlage Anforderungsanalyse
 
 Ein [[Anforderungsanalyse]] hat die folgende Struktur:
 

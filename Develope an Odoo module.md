@@ -1,11 +1,9 @@
 ---
+title: Develope an Odoo module
 section: communication
 lang: en
-kind:
-  - explain
+kind: explain
 ---
-
-# Develope an Odoo module
 
 When developing an Odoo module the best way to get started is by adopting the [[OCA]] and [[Odoo S.A.]] best practices.
 

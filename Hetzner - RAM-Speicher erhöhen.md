@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Hetzner - RAM-Speicher erhöhen
+kind: howto
 section: vendor
 ---
-
-# Hetzner - RAM-Speicher erhöhen
 
 ## Servertyp ändern
 

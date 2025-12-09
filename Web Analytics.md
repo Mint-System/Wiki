@@ -1,7 +1,5 @@
 ---
-
+title: Web Analytics
 ---
-
-# Web Analytics
 
 We use [[Plausible]] for Webanalytics.

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Anpassungen Website
+kind: explain
 section: service
 ---
-
-# Phase Anpassungen Website
 
 Tätigkeiten:
 

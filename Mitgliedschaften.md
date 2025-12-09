@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Mitgliedschaften
+kind: reference
 section: organisation
 ---
-
-# Mitgliedschaften
 
 Die Mint System ist Mitglied bei:
 

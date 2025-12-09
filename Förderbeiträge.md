@@ -1,9 +1,7 @@
 ---
+title: Förderbeiträge
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Förderbeiträge
 
 [[Neue Regionalpolitik]]

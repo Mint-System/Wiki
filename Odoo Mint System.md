@@ -1,10 +1,8 @@
 ---
+title: Odoo Mint System
 section: account
-kind:
-  - reference
+kind: reference
 ---
-
-# Odoo Mint System
 
 Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für produktive Umgebungen.
 

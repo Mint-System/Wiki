@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Code Sharing
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Code Sharing
 
 ## Öffentlich
 

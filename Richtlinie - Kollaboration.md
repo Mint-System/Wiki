@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Kollaboration
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Kollaboration
 
 Regelt die Zusammenarbeit mit externen Kunden und internen Mitarbeiter.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Aufwand
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Aufwand
 
 Installation Modul Aufwand `hr_expense`
 

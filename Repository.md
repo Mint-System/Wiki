@@ -1,9 +1,7 @@
 ---
+title: Repository
 section: term
-kind:
-  - reference
+kind: reference
 ---
-
-# Repository
 
 Ein Repository ist eine [[Git]]-Projekt.

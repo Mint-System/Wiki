@@ -1,10 +1,8 @@
 ---
+title: Digital cluster Uri Bot
 section: account
-kind:
-  - reference
+kind: reference
 ---
-
-# Digital cluster Uri Bot
 
 Der Digital Cluster Uri Service-Benutzer.
 

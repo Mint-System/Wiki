@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Anleitung
+kind: reference
 section: meta
 ---
-
-# Anleitung
 
 - [[Prozesse]]
 - [[Git Handbook]]

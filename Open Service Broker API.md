@@ -1,4 +1,4 @@
 ---
+title: Open Service Broker API
 website: https://www.openservicebrokerapi.org/
 ---
-# Open Service Broker API

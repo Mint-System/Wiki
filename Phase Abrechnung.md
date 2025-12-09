@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Abrechnung
+kind: explain
 section: service
 ---
-
-# Phase Abrechnung
 
 Tätigkeiten:
 

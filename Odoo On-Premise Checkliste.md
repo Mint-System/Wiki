@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Odoo On-Premise Checkliste
+kind: howto
 section: guide
 ---
-
-# Odoo On-Premise Checkliste
 
 Checkliste für On-Premise Installation.
 

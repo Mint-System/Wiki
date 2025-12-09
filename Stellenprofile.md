@@ -1,9 +1,8 @@
 ---
-kind:
-  - reference
+title: Stellenprofile
+kind: reference
 section: organisation
 ---
-# Stellenprofile
 
 | Beschreibung                                           | [[Support Engineer]] | [[Open Source Expert]] | [[Odoo Accounting Specialist]] |
 | :----------------------------------------------------- | :------------------: | :--------------------: | ------------------------------ |

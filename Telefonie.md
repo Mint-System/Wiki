@@ -1,10 +1,8 @@
 ---
+title: Telefonie
 section: infrastructure
-kind:
-  - reference
+kind: reference
 ---
-
-# Telefonie
 
 Aktuell ist [[peoplefone]] für die Telefonie im Einsatz.
 

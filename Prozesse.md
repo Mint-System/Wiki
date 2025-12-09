@@ -1,11 +1,9 @@
 ---
+title: Prozesse
 responsible: Kurt Gisler
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse
 
 Prozesse regeln das **Wie**.
 

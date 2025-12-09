@@ -1,9 +1,7 @@
 ---
+title: Nextcloud GmbH
 section: contact
-kind:
-  - reference
+kind: reference
 ---
-
-# Nextcloud GmbH
 
 Vertreibt das Produkt [[Nextcloud]].

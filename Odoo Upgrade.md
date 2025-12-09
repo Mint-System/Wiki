@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Odoo Upgrade
+kind: explain
 section: communication
 ---
-
-# Odoo Upgrade
 
 ## Beschreibung
 

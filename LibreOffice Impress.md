@@ -1,8 +1,6 @@
 ---
-
+title: LibreOffice Presentation
 ---
-
-# LibreOffice Presentation
 
 ## Update slide master
 

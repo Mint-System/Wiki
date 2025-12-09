@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Odoo Troubleshooting
+kind: howto
 section: product
 ---
-
-# Odoo Troubleshooting
 
 ## Docker containers not available
 

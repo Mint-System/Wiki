@@ -1,10 +1,8 @@
 ---
+title: Vorlage Phase
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlage Phase
 
 Beispiel: [[Phase Webshop]]
 

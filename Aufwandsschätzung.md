@@ -1,9 +1,8 @@
 ---
+title: Aufwandsschätzung
 section: methodology
-kind:
-  - explain
+kind: explain
 ---
-# Aufwandsschätzung
 
 Dieses Dokumente beantwortet wie Aufwand für Softwareentwicklung geschätzt wird.
 

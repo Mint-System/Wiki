@@ -1,17 +1,9 @@
 ---
+title: Migrate OCA module to XX.0
 section: template
-kind:
-  - reference
+kind: reference
 lang: en
 ---
-
-```
----
-project: Project XY
----
-```
-
-# Migrate OCA module to XX.0
 
 See migration guide for details:
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Wordpress Hosting
+kind: explain
 section: service
 ---
-
-# Phase Wordpress Hosting
 
 Tätigkeiten:
 

@@ -1,8 +1,8 @@
 ---
+title: Mastodon
 kind: reference
 website: https://joinmastodon.org/
 ---
-# Mastodon
 
 Wir empfehlen die Instanz [[Fosstodon]].
 

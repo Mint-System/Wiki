@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Linux Sever Patching
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Linux Sever Patching
 
 Konfiguration Linux Server Patching.
 

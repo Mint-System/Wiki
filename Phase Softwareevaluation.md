@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Softwareevaluation
+kind: explain
 section: service
 ---
-
-# Phase Softwareevaluation
 
 Tätigkeiten:
 

@@ -1,9 +1,8 @@
 ---
+title: Sidebery
 kind: reference
 repository: https://github.com/mbnuqw/sidebery
 ---
-
-# Sidebery
 
 ## Export panels and tabs
 

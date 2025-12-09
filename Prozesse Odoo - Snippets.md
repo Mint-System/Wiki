@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - Snippets
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - Snippets
 
 ## Snippet einfügen
 

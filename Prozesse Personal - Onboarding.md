@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Personal - Onboarding
+kind: howto
 section: process
 ---
-
-# Prozesse Personal - Onboarding
 
 ## Personal
 

@@ -94,7 +94,7 @@ function update() {
 
 function dev-vuepress() {
     pnpm run pre-build
-    pnpm run dev
+    open-url-with-delay 'http://localhost:8081/' & pnpm run dev
 }
 
 function build-vuepress() {

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Projektmanagement - Ressourcenplanung
+kind: howto
 section: process
 ---
-
-# Prozesse Projektmanagement - Ressourcenplanung
 
 ## Mitarbeiter auf Projekte planen
 

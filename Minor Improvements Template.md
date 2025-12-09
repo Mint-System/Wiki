@@ -1,11 +1,9 @@
 ---
+title: Minor Improvements
 lang: en
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Minor Improvements
 
 ## Open
 

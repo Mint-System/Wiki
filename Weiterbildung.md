@@ -1,8 +1,7 @@
 ---
+title: Weiterbildung
 kind: explain
 ---
-
-# Weiterbildung
 
 Mitarbeitende bilden sich laufen "on-the-job" weiter.
 

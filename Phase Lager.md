@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Lager
+kind: explain
 section: service
 ---
-
-# Phase Lager
 
 Tätigkeiten:
 

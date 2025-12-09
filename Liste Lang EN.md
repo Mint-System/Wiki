@@ -37,7 +37,8 @@ section: bases
 | [[Nextcloud Destkop Client]] | tutorial | tool |
 | [[Nix]] |  |  |
 | [[Odoo Build Troubleshooting]] | howto | product |
-| [[Odoo Build]] | reference |  |
+| [[Odoo Build Vault]] | reference | dev |
+| [[Odoo Build]] | reference | dev |
 | [[Odoo Community Upgrade]] |  |  |
 | [[Odoo Enterprise Upgrade]] | reference |  |
 | [[Odoo Module Testing]] | howto |  |
@@ -46,6 +47,7 @@ section: bases
 | [[Odoo.sh Upgrade Script Module]] | howto | dev |
 | [[Odoo.sh Upgrade]] |  |  |
 | [[Offer Template]] | reference | template |
+| [[Oh-My-Zsh]] | reference | tool |
 | [[OpenVPN Handbook]] | howto | handbook |
 | [[Playbook Upgrade Odoo XX.0]] | reference | template |
 | [[Playbook Upgrade Odoo.sh XX.0]] | howto | template |
@@ -64,6 +66,7 @@ section: bases
 | [[Specification Website Sale Helm]] | explain | specification |
 | [[Specification Website Sale Kubernetes Subscription OCA]] | explain | specification |
 | [[Specification Website Sale Open Service Broker]] | explain | specification |
+| [[Sublime]] | reference | tool |
 | [[TOTP Auth]] | reference | term |
 | [[Template Report on Odoo Customization]] | reference | template |
 | [[Test Odoo Mail Flow]] | explain | dev |

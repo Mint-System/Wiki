@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Auf Open Source wechseln
+kind: explain
 section: blog
 ---
-
-# Auf Open Source wechseln
 
 Das ist eine Sammlung von Open Source Alternativen zu etablierten proprietären Produkten.
 

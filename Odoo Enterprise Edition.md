@@ -1,7 +1,5 @@
 ---
-
+title: Odoo Enterprise Edition
 ---
-
-# Odoo Enterprise Edition
 
 Ist ein Alias für [[Odoo Enterprise]].

@@ -1,5 +1,3 @@
 ---
-
+title: One Time Password Authentication
 ---
-
-# One Time Password Authentication

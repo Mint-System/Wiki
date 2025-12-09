@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Kubernetes Cluster
+kind: explain
 section: service
 ---
-
-# Phase Kubernetes Cluster
 
 Tätigkeiten:
 

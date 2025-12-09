@@ -1,11 +1,9 @@
 ---
+title: Template Troubleshooting
 lang: en
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Template Troubleshooting
 
 ## Open
 

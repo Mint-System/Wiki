@@ -1,9 +1,7 @@
 ---
-kind:
-  - explain
+title: Odoo Testumgebung
+kind: explain
 ---
-
-# Odoo Testumgebung
 
 Damit neue Odoo Features oder Änderungen getestet werden können, wird für jede Odoo-Installation eine Testumgebung angeboten.
 

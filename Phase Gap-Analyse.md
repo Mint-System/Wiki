@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Gap-Analyse
+kind: explain
 section: service
 ---
-
-# Phase Gap-Analyse
 
 Tätigkeiten:
 

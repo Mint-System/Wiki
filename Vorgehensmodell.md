@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Vorgehensmodell
+kind: explain
 section: methodology
 ---
-
-# Vorgehensmodell
 
 Implementierte Vorgehensmodelle:
 

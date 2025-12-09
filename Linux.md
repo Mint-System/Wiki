@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Linux
+kind: reference
 section: term
 ---
-
-# Linux
 
 ## Lifecycle
 

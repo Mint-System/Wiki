@@ -1,9 +1,8 @@
 ---
+title: Weekly-Meeting
 kind: explain
 section: organisation
 ---
-
-# Weekly-Meeting
 
 Im Weekly-Meeting ...
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - DNS-Einträge erstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - DNS-Einträge erstellen
 
 ## DNS-Einträge für Server erstellen
 

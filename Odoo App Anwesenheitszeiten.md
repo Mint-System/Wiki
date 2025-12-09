@@ -1,10 +1,8 @@
 ---
+title: Odoo App Anwesenheitszeiten
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo App Anwesenheitszeiten
 
 ## Beschreibung
 

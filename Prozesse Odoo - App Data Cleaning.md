@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Data Cleaning
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Data Cleaning
 
 Installation Modul Data Cleaning `data_cleaning`.
 

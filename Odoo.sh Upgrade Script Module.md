@@ -1,11 +1,10 @@
 ---
+title: Odoo.sh Upgrade Script Module
 lang: en
 draft: false
 kind: howto
 section: dev
 ---
-
-# Odoo.sh Upgrade Script Module
 
 During the Upgrade process there will be issues such as shown here:
 

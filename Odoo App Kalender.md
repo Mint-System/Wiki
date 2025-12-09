@@ -1,10 +1,8 @@
 ---
+title: Odoo Kalender
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Kalender
 
 Der Odoo Kalender kann mit Google synchronisiert werden.
 

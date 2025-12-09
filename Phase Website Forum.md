@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Website Forum
+kind: explain
 section: service
 ---
-
-# Phase Website Forum
 
 Tätigkeiten:
 

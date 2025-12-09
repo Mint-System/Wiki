@@ -1,8 +1,7 @@
 ---
+title: Services
 lang: en
 ---
-
-# Services
 
 ## Software-Development
 

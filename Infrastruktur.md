@@ -1,9 +1,8 @@
 ---
+title: Infrastruktur
 kind: reference
 section: infrastructure
 ---
-
-# Infrastruktur
 
 Beinhaltet:
 

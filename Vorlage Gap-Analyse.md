@@ -1,10 +1,8 @@
 ---
+title: Vorlage Gap-Analyse
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlage Gap-Analyse
 
 <img src="https://www.mint-system.ch/theme_mint_system/static/img/logo.svg" width="200" />
 

@@ -1,9 +1,9 @@
 ---
+title: OCA
 kind: reference
 repository: https://github.com/OCA/management-system
 section: contact
 ---
-# OCA
 
 [[Odoo Community Association]]
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Prozesse Marketing
+kind: reference
 section: process
 ---
-
-# Prozesse Marketing
 
 Dokumentation der Marketing Prozesse.
 

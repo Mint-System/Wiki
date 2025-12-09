@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Personal - Offboarding
+kind: howto
 section: process
 ---
-
-# Prozesse Personal - Offboarding
 
 ## Personal
 

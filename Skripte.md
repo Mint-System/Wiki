@@ -1,10 +1,8 @@
 ---
+title: Skripte
 section: tool
-kind:
-  - reference
+kind: reference
 ---
-
-# Skripte
 
 - [[SMTP-Skripte]]
 - [[Odoo SQL Scripts]]

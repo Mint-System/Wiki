@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Anforderungsanalyse
+kind: explain
 section: service
 ---
-
-# Phase Anforderungsanalyse
 
 Tätigkeiten:
 

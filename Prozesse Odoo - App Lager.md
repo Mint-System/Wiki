@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Lager
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Lager
 
 Installation Modul Lager `stock`.
 

@@ -1,11 +1,9 @@
 ---
+title: Prozesse Hardware
 responsible: Kurt Gisler
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Hardware
 
 Dokumentation der Hardware-Prozesse.
 

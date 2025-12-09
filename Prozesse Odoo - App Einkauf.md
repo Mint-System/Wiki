@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Einkauf
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Einkauf
 
 Installation Modul Einkauf `purchase`
 

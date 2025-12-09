@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - OS Migration
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - OS Migration
 
 ## Vorbereiten
 

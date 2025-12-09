@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo.sh - Projekt entwickeln
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo.sh - Projekt entwickeln
 
 ## Odoo.sh Repository einrichten
 

@@ -1,8 +1,6 @@
 ---
-
+title: Grafana Dashboard
 ---
-
-# Grafana Dashboard
 
 Dokumentation der Grafana Dashboards.
 

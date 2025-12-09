@@ -1,11 +1,10 @@
 ---
+title: Ansible Build
 kind: reference
 section: infrastructure
 website: https://ansible.build
 repository: https://github.com/mint-system/ansible-build
 ---
-
-# Ansible Build
 
 The Mint System collection of Ansible playbooks and roles.
 

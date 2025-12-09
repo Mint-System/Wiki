@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Dokumente
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Dokumente
 
 Installation Modul CRM `documents`.
 

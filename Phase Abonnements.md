@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Abonnements
+kind: explain
 section: service
 ---
-
-# Phase Abonnements
 
 Tätigkeiten:
 

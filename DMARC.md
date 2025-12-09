@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: DMARC
+kind: explain
 section: term
 ---
-
-# DMARC
 
 DMARC steht für „Domain-based Message Authentification, Reporting and Conformance“. Es wurde zur Reduzierung von E-Mail-Missbrauch entwickelt. Diese Technologie setzt hierbei auf die Spezifikationen für DKIM (Domain Keys Identified Mail) und SPF (Sender Policy Framework).
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Keycloak Handbuch
+kind: howto
 section: handbook
 ---
-
-# Keycloak Handbuch
 
 [[TOC]]
 

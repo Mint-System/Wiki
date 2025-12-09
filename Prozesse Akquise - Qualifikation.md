@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Qualifikation
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Qualifikation
 
 Qualifizierung des Kunden.
 

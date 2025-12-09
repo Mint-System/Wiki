@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Odoo Kontakt
+kind: reference
 ---
-
-# Odoo Kontakt
 
 Die Kontaktverwaltung von Odoo.
 

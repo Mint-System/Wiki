@@ -1,10 +1,8 @@
 ---
+title: Odoo Development Workflow
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Development Workflow
 
 This workflow describes the how a business analyst collaborates with an Odoo developer.
 

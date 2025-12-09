@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Demoumgebungen
+kind: reference
 ---
-
-# Demoumgebungen
 
 Demoumgebungen der Mint System.
 

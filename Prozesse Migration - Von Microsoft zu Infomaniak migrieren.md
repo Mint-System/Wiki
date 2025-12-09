@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Migration - Von Microsoft zu Infomaniak migrieren
+kind: howto
 section: process
 ---
-
-# Prozesse Migration - Von Microsoft zu Infomaniak migrieren
 
 ## Migrations-Projekt initalisieren
 

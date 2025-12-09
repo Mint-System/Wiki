@@ -1,10 +1,8 @@
 ---
+title: Odoo Schulung
 section: training
-kind:
-  - reference
+kind: reference
 ---
-
-# Odoo Schulung
 
 Bereiche:
 

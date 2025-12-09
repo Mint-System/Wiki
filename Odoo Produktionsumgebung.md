@@ -1,6 +1,4 @@
 ---
-kind:
-  - explain
+title: Odoo Produktionsumgebung
+kind: explain
 ---
-
-# Odoo Produktionsumgebung

@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Login with GitLab
+kind: reference
 ---
-
-# Login with GitLab
 
 Install `auth_oidc` module.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Ausfall Amazon AWS und Microsoft Azure
+kind: explain
 section: blog
 ---
-
-# Ausfall Amazon AWS und Microsoft Azure
 
 ## Was ist passiert?
 

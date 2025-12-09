@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Template Worklog
+kind: reference
 section: template
 ---
-
-# Template Worklog
 
 ```markdown
 ---

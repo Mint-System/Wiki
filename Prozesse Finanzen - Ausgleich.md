@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Ausgleich
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Ausgleich
 
 Kontostand eBanking mit Odoo abgleichen.
 

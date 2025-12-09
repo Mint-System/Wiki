@@ -1,11 +1,9 @@
 ---
+title: Odoo Monitoring mit Prometheus und Grafana
 draft: false
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-# Odoo Monitoring mit Prometheus und Grafana
 
 ### Odoo
 

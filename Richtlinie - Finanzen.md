@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Finanzen
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Finanzen
 
 ## Ausgleich Bank-Buchungen
 

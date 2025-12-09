@@ -1,10 +1,8 @@
 ---
+title: Odoo Lager
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Lager
 
 ## Themen
 

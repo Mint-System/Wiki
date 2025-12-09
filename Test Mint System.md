@@ -1,10 +1,8 @@
 ---
+title: Test Mint System
 section: account
-kind:
-  - reference
+kind: reference
 ---
-
-# Test Mint System
 
 Service Account zum Versenden von Mails aus Odoo. Ist im Einsatz für Test-Umgebungen.
 

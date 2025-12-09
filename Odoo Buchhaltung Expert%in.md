@@ -1,7 +1,5 @@
 ---
-kind:
-  - explain
+title: Odoo Buchhaltung Expert%in
+kind: explain
 section: organisation
 ---
-
-# Odoo Buchhaltung Expert%in

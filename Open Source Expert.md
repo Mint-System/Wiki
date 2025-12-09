@@ -1,10 +1,8 @@
 ---
+title: Open Source Expert
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
-
-# Open Source Expert
 
 ## Wer wir sind
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Server Bereitstellung
+kind: explain
 section: service
 ---
-
-# Phase Server Bereitstellung
 
 Tätigkeiten:
 

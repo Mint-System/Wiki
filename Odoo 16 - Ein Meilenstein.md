@@ -1,11 +1,9 @@
 ---
-kind:
-  - explain
+title: Odoo 16 - Ein Meilenstein
+kind: explain
 draft: false
 section: blog
 ---
-
-# Odoo 16 - Ein Meilenstein
 
 > Wir waren an der Odoo Experience 2022 und haben spannende Neuigkeiten.
 

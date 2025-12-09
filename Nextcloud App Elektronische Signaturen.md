@@ -1,10 +1,8 @@
 ---
+title: Nextcloud App Elektronische Signaturen
 section: communication
-kind:
-  - reference
+kind: reference
 ---
-
-# Nextcloud App Elektronische Signaturen
 
 Nextcloud bietet eine App für elektronische Signaturen: <https://apps.nextcloud.com/apps/electronicsignatures>
 

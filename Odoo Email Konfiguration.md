@@ -1,9 +1,7 @@
 ---
-kind:
-  - howto
+title: Odoo Email Konfiguration
+kind: howto
 ---
-
-# Odoo Email Konfiguration
 
 Um diese Funktion einzurichten müssen folgende Einstellung gemacht werden:
 

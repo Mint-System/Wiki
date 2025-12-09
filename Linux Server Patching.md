@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Linux Server Patching
+kind: explain
 section: product
 ---
-
-# Linux Server Patching
 
 Eine flexible Lösung um ihre [[Linux]] Server aktuell zu halten.
 

@@ -1,8 +1,7 @@
 ---
+title: Signaturen
 kind: reference
 ---
-
-# Signaturen
 
 ## Eigenwerbung
 

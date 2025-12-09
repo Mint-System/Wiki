@@ -1,9 +1,8 @@
 ---
+title: Test FDW with Odoo
 kind: tutorial
 section: dev
 ---
-
-# Test FDW with Odoo
 
 The following script syncs the `res_users` table between two Odoo databases. There is the `16.0` and the `sozialinfo` database. Both dbs have been initialized.
 

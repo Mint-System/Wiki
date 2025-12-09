@@ -1,8 +1,8 @@
 ---
+title: Odoo Community Upgrade
 lang: en
 website: https://oca.github.io/OpenUpgrade/
 ---
-# Odoo Community Upgrade
 
 Also known as [[OpenUpgrade]]
 

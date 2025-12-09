@@ -1,6 +1,4 @@
 ---
-kind:
-  - explain
+title: Odoo Demoumgebung
+kind: explain
 ---
-
-# Odoo Demoumgebung

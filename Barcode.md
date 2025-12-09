@@ -1,10 +1,8 @@
 ---
+title: Barcode
 section: term
-kind:
-  - explain
+kind: explain
 ---
-
-# Barcode
 
 ## Codes
 

@@ -1,8 +1,7 @@
 ---
+title: Odoo.sh Upgrade
 lang: en
 ---
-
-# Odoo.sh Upgrade
 
 [[Odoo.sh]] provides a custom workflow to execute the upgrade process.
 

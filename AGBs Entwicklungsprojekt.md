@@ -1,10 +1,8 @@
 ---
+title: Mint System GmbH - AGB Entwicklungsprojekt
 section: product
-kind:
-  - reference
+kind: reference
 ---
-
-# Mint System GmbH - AGB Entwicklungsprojekt
 
 Version: 1.18
 

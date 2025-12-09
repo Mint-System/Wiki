@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - Produktionsumgebung bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - Produktionsumgebung bereitstellen
 
 Auf der [[Odoo Produktionsumgebung]] arbeitet der Kunde. Diese Umgebung muss immer verfügbar und gesichert sein.
 

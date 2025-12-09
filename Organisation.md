@@ -1,8 +1,6 @@
 ---
-
+title: Organisation
 ---
-
-# Organisation
 
 Eine Visualisierung der Mint System GmbH Organisation:
 

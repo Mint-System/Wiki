@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Marcus Menzel
+kind: reference
 section: organisation
 ---
-
-# Marcus Menzel
 
 Benutzername: `marcusmenzel`\
 Alias: `mam`\

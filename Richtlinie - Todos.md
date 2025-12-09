@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Todos
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Todos
 
 Todos sind die Aufgabenbeschreibung mit Checkboxen.
 

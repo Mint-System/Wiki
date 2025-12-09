@@ -1,10 +1,8 @@
 ---
+title: Prozesse Odoo - App APPNAME
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Prozesse Odoo - App APPNAME
 
 Installation von APPNAME.
 

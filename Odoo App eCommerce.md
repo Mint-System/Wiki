@@ -1,10 +1,8 @@
 ---
+title: Odoo App eCommerce
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo App eCommerce
 
 Odoo nennt den Webshop _eCommerce_.
 

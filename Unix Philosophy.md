@@ -1,8 +1,6 @@
 ---
-
+title: Unix Philosophy
 ---
-
-# Unix Philosophy
 
 The _Unix philosophy_ originated with Ken Thompson's early meditations on how to design a small but capable operating system with a clean service interface. It grew as the Unix culture learned things about how to get maximum leverage out of Thompson's design. It absorbed lessons from many sources along the way.
 

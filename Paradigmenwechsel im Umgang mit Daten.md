@@ -1,10 +1,8 @@
 ---
+title: Paradigmenwechsel im Umgang mit Daten
 section: blog
-kind:
-  - explain
+kind: explain
 ---
-
-# Paradigmenwechsel im Umgang mit Daten
 
 Wem gehören denn jetzt meine Daten?
 

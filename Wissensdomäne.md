@@ -1,7 +1,5 @@
 ---
-
+title: Wissensdomäne
 ---
-
-# Wissensdomäne
 
 Wissensbereich eines Mitarbeitenden.

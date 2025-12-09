@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Nextcloud - Upgrade
+kind: howto
 section: process
 ---
-
-# Prozesse Nextcloud - Upgrade
 
 ## Upgrade Nextcloud durchführen
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Server bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Server bereitstellen
 
 Bereitstellung eines neuen Server.
 

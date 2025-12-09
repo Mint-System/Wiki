@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Odoo App Abwesenheitszeiten
+kind: explain
 section: communication
 ---
-
-# Odoo App Abwesenheitszeiten
 
 ## Beschreibung
 

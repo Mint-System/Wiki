@@ -1,9 +1,7 @@
 ---
+title: Neue Regionalpolitik
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Neue Regionalpolitik
 
 [[Uri Cloud]]

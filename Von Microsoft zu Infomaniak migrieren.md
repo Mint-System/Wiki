@@ -1,10 +1,9 @@
 ---
+title: Von Microsoft zu Infomaniak migrieren
 draft: false
 kind: explain
 section: blog
 ---
-
-# Von Microsoft zu Infomaniak migrieren
 
 Die Abhängigkeit zu Microsoft ist aktuell ein grosses Problem [^1]. Viele Unternehmen und Organisation setzen auf die Produkte und Dienstleistungen von Microsoft, inbesondere betrifft das die Office Suite [^2]. Aufgrund dieser Abhängigkeit entstehen komplexe Fragestellungen zu Souveränität, Datenschutz und Machtstrukturen. Für Unternehmen in Europa ist Microsoft der falsche Partner. Dazu die wichtigsten Kritikpunkte:
 

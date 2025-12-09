@@ -1,8 +1,6 @@
 ---
-
+title: Icons
 ---
-
-# Icons
 
 Zu Generierung von Icons wird <https://spilymp.github.io/ibo/> verwendet.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Projektmanagement - Aufwandsschätzung
+kind: howto
 section: process
 ---
-
-# Prozesse Projektmanagement - Aufwandsschätzung
 
 Vorgehen für die Aufwandsschätzung.
 

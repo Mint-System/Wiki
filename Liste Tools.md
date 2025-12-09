@@ -8,7 +8,6 @@ section: bases
 | file.name | kind | section |
 | --- | --- | --- |
 | [[Aegis Authenticator]] | reference | tool |
-| [[Algolia]] | reference | tool |
 | [[BPMN]] | explain | tool |
 | [[Collaboration]] | reference | tool |
 | [[CrowdSec]] | reference | tool |
@@ -30,6 +29,7 @@ section: bases
 | [[Putty]] | reference | tool |
 | [[SMTP-Skripte]] |  | tool |
 | [[Skripte]] | reference | tool |
+| [[Sublime]] | reference | tool |
 | [[Terminal]] | explain | tool |
 | [[Thunderbird Appointment]] |  | tool |
 | [[Tools]] | reference | tool |

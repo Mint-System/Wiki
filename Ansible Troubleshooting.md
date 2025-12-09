@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Ansible Troubleshooting
+kind: howto
 section: product
 ---
-
-# Ansible Troubleshooting
 
 ## Minimum Python version
 

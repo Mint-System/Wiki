@@ -1,8 +1,8 @@
 ---
+title: Mint Cloud
 section: project
 website: https://www.mint-cloud.ch/
 ---
-# Mint Cloud
 
 Ist ein Hosting-[[Angebot]] der Mint System.
 

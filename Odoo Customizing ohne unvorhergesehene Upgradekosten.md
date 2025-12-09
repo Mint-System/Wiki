@@ -1,11 +1,9 @@
 ---
-kind:
-  - explain
+title: Odoo Customizing ohne unvorhergesehene Upgradekosten
+kind: explain
 draft: false
 section: blog
 ---
-
-# Odoo Customizing ohne unvorhergesehene Upgradekosten
 
 Jede Anpassung in Odoo birgt ein Risiko für unvorgesehene Upgradekosten.
 

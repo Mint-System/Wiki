@@ -1,8 +1,6 @@
 ---
+title: bpmn.io
 section: tool
-kind:
-  - reference
+kind: reference
 website: https://bpmn.io/
 ---
-
-# bpmn.io

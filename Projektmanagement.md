@@ -1,9 +1,8 @@
 ---
+title: Projektmanagent
 kind: explain
 section: methodology
 ---
-
-# Projektmanagent
 
 Eine Zusammenfassung wie bei Mint System das Projektmanagement erfolgt.
 

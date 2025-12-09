@@ -1,11 +1,9 @@
 ---
+title: Prozesse Infrastruktur
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Infrastruktur
 
 Dokumentation der Infrastruktur Prozesse.
 

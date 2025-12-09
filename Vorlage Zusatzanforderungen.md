@@ -1,10 +1,8 @@
 ---
+title: Vorlage Zusatzanforderungen
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlage Zusatzanforderungen
 
 Diese Tabelle kann als Excel erstellt werden:
 

@@ -1,10 +1,8 @@
 ---
+title: Odoo Security
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Security
 
 Odoo verwaltet besonderns schützenswerte Daten und ist zugleich über das Internet erreichbar. Das setzt besondere Anforderungen an die Security voraus.
 

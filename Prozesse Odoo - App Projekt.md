@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Projekt
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Projekt
 
 Installation Modul Projekt `project`
 

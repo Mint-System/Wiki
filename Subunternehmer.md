@@ -1,8 +1,6 @@
 ---
-
+title: Subunternehmer
 ---
-
-# Subunternehmer
 
 Sie sind ein eigenständiges Unternehmen und arbeiten mit Mint System an einem Projekt.
 

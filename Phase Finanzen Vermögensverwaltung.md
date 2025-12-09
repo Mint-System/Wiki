@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Finanzen Vermögensverwaltung
+kind: explain
 section: service
 ---
-
-# Phase Finanzen Vermögensverwaltung
 
 Tätigkeiten:
 

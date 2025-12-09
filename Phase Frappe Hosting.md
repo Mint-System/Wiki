@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Frappe Hosting
+kind: explain
 section: service
 ---
-
-# Phase Frappe Hosting
 
 Tätigkeiten:
 

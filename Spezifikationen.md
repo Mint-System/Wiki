@@ -1,9 +1,8 @@
 ---
+title: Spezifikationen
 kind: reference
 section: specification
 ---
-
-# Spezifikationen
 
 Die folgenden Spezifikationen sind öffentlich und Teil von Mint System Innovationen.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Konzept erstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Konzept erstellen
 
 Arbeitsschritte:
 

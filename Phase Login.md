@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Login
+kind: explain
 section: service
 ---
-
-# Phase Login
 
 Tätigkeiten:
 

@@ -1,7 +1,5 @@
 ---
+title: Odoo Entwickler%in
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Entwickler%in

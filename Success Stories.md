@@ -1,7 +1,5 @@
 ---
-
+title: Success Stories
 ---
-
-# Success Stories
 
 [[Success Story Kleinbrauerei Stiärbiär AG]]

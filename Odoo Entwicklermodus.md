@@ -1,5 +1,3 @@
 ---
-
+title: Odoo Entwicklermodus
 ---
-
-# Odoo Entwicklermodus

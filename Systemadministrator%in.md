@@ -1,7 +1,5 @@
 ---
+title: Systemadministrator%in
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
-
-# Systemadministrator%in

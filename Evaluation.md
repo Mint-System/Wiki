@@ -1,9 +1,8 @@
 ---
+title: Evaluation
 kind: tutorial
 section: methodology
 ---
-
-# Evaluation
 
 Evaluation einer Softwarelösung.
 

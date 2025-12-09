@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Nextcloud Handbuch
+kind: howto
 section: handbook
 ---
-
-# Nextcloud Handbuch
 
 ![[Nextcloud Logo.png]]
 

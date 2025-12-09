@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Projektmanagement - Odoo
+kind: howto
 section: process
 ---
-
-# Prozesse Projektmanagement - Odoo
 
 Aus einem Angebot ein Projekt erstellen.
 

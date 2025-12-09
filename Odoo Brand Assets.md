@@ -1,9 +1,7 @@
 ---
+title: Odoo Brand Assets
 section: communication
-kind:
-  - reference
+kind: reference
 ---
-
-# Odoo Brand Assets
 
 See <https://www.odoo.com/de_DE/page/brand-assets>.

@@ -1,8 +1,7 @@
 ---
+title: Kollaboration
 section: organisation
 ---
-
-# Kollaboration
 
 Wie wir mit [[Partner]] zusammenarbeiten.
 

@@ -1,10 +1,8 @@
 ---
+title: Vorlage Cashflow
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Vorlage Cashflow
 
 | Datum      | Bemerkung  | Betrag | Saldo                         |
 | ---------- | ---------- | ------ | ----------------------------- |

@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Tags
+kind: reference
 section: meta
 ---
-
-# Tags
 
 Mit [[Obsidian]] können Artikel getagt `#tagname` werden. Tags werden jedoch von [[Vuepress]] nicht unterstützt. Daher werden die Tags nur zur Verwaltung der Artikel verwendet. Folgende Tags stehen zur verfügung:
 

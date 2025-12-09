@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Mail-Account Intern
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Mail-Account Intern
 
 Mail-Accounts werden von [[Infomaniak]] gehostet.
 

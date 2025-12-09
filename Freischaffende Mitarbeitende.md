@@ -1,10 +1,8 @@
 ---
+title: Freischaffende Mitarbeitende
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
-
-# Freischaffende Mitarbeitende
 
 Sie arbeiten im Namen Mint System und stellen eine Rechnung für ihre Aufwände.
 

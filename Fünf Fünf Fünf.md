@@ -1,7 +1,5 @@
 ---
-kind:
-  - explain
+title: Fünf Fünf Fünf
+kind: explain
 section: blog
 ---
-
-# Fünf Fünf Fünf

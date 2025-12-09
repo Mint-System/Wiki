@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Website Event
+kind: explain
 section: service
 ---
-
-# Phase Website Event
 
 Tätigkeiten:
 

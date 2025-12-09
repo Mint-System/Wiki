@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Odoo Checklisten
+kind: reference
 section: guide
 ---
-
-# Odoo Checklisten
 
 Zum Betrieb von Odoo gibt es für Kunden ausgewählte Checklisten.
 

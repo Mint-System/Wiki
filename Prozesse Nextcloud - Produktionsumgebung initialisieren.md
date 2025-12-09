@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Nextcloud - Produktionsumgebung initialisieren
+kind: howto
 section: process
 ---
-
-# Prozesse Nextcloud - Produktionsumgebung initialisieren
 
 ## Installation
 

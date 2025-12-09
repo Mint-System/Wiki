@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Nginx Troubleshooting
+kind: howto
 section: dev
 ---
-
-# Nginx Troubleshooting
 
 ## Issues
 

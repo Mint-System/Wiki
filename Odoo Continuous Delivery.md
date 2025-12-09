@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Odoo Continuous Delivery
+kind: explain
 section: product
 ---
-
-# Odoo Continuous Delivery
 
 Zur Entwicklung von Odoo-Modulen und Bereitstellung in der Serverumgebung verwendet mit Mint System Continuous Delivery Platform [[Jenkins]].
 

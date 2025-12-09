@@ -1,9 +1,8 @@
 ---
+title: Beratungsprojekte
 kind: reference
 section: product
 ---
-
-# Beratungsprojekte
 
 ## [[Phasen]]
 

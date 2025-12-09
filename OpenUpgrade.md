@@ -1,7 +1,5 @@
 ---
-
+title: OpenUpgrade
 ---
-
-# OpenUpgrade
 
 See: [[Odoo Community Upgrade]]

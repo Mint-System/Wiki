@@ -1,10 +1,9 @@
 ---
+title: Odoo SQL Scripts
 kind: howto
 lang: en
 section: dev
 ---
-
-# Odoo SQL Scripts
 
 Log into Odoo psql.
 

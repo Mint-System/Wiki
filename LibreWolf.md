@@ -1,10 +1,10 @@
 ---
+title: LibreWolf
 kind: reference
 lang: en
 section: tool
 website: https://librewolf.net/
 ---
-# LibreWolf
 
 ## Usage
 

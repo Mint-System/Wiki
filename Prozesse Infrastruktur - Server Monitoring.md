@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Server Monitoring
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Server Monitoring
 
 Server in Monitoring einbinden.
 

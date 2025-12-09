@@ -1,9 +1,9 @@
 ---
+title: Git
 kind: reference
 section: term
 website: https://git-scm.com/
 ---
-# Git
 
 Git ist eine freie Software zur verteilten Versionsverwaltung von Dateien, die durch Linus Torvalds initiiert wurde.
 

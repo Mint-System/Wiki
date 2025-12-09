@@ -1,11 +1,9 @@
 ---
+title: Prozesse Projektmanagement - Business Requirement
 responsible: Projektleiter
-kind:
-  - howto
+kind: howto
 section: process
 ---
-
-# Prozesse Projektmanagement - Business Requirement
 
 ## Stakeholder Story formulieren
 

@@ -1,9 +1,8 @@
 ---
+title: Odoo
 kind: explain
 section: product
 ---
-
-# Odoo
 
 Odoo ist eine Management-Software. Es ist Teil des [[Angebot|Angebots]] der [[Mint System]]. Odoo wird mit verschiedenen [[Hosting-Modelle|Hosting-Modellen]] angeboten.
 

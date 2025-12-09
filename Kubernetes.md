@@ -1,11 +1,9 @@
 ---
+title: Kubernetes
 section: technology
-kind:
-  - reference
+kind: reference
 website: https://kubernetes.io/
 ---
-
-# Kubernetes
 
 Production-Grade Container Orchestration.
 

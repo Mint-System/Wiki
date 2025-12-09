@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: KeePassXC Handbuch
+kind: howto
 section: handbook
 ---
-
-# KeePassXC Handbuch
 
 [[TOC]]
 

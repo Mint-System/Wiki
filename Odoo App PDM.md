@@ -1,9 +1,8 @@
 ---
+title: Odoo App PDM
 kind: reference
 section: communication
 ---
-
-# Odoo App PDM
 
 Für die Synchronisierung der Produktdaten von CAD-Programmen ins Odoo gibt es:
 

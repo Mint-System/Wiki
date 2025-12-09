@@ -1,9 +1,7 @@
 ---
-kind:
-  - explain
+title: Kubernetes Cluster
+kind: explain
 ---
-
-# Kubernetes Cluster
 
 Mint System is maintaining a Kubernetes cluster.
 

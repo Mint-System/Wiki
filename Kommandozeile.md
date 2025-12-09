@@ -1,10 +1,8 @@
 ---
+title: Kommandozeile
 section: term
-kind:
-  - explain
+kind: explain
 ---
-
-# Kommandozeile
 
 Die Kommandozeile oder Befehlszeile ist ein Teil eines Computerprogramms, das eine Textzeile als Eingabe vom Benutzer entgegennimmt und im Kontext als Kommando interpretiert.
 

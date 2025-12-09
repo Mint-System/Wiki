@@ -1,8 +1,6 @@
 ---
+title: Caluma
 section: dev
-kind:
-  - reference
+kind: reference
 website: https://caluma.io/
 ---
-
-# Caluma

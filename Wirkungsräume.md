@@ -1,9 +1,8 @@
 ---
+title: Wirkungsräume
 kind: explain
 section: organisation
 ---
-
-# Wirkungsräume
 
 ## Operativer Raum
 

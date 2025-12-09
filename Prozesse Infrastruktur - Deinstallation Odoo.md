@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Deinstallation Odoo
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Deinstallation Odoo
 
 Odoo-Umgebung entfernen.
 

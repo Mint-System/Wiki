@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Produkt erfassen
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Produkt erfassen
 
 ## Hardware erfassen
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Aussendienst
+kind: explain
 section: service
 ---
-
-# Phase Aussendienst
 
 Tätigkeiten:
 

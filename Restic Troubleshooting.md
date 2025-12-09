@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Restic Troubleshooting
+kind: howto
 section: product
 ---
-
-# Restic Troubleshooting
 
 ## Snapshots
 

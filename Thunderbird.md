@@ -1,7 +1,7 @@
 ---
+title: Thunderbird
 website: https://www.thunderbird.net
 ---
-# Thunderbird
 
 ## Extensions
 

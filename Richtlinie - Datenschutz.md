@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Datenschutz
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Datenschutz
 
 ## Personendaten markieren
 

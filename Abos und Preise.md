@@ -1,11 +1,8 @@
 ---
+title: Abo und Preise
 kind: reference
 section: product
 ---
-
-![[subscription banner.jpg]]
-
-# Abo und Preise
 
 Version: 2025-04-07
 

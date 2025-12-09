@@ -1,9 +1,9 @@
 ---
+title: Infomaniak
 kind: reference
 section: vendor
 website: https://www.infomaniak.com/
 ---
-# Infomaniak
 
 Die Mail-Postfächer der Mint-System werden von Infomaniak verwaltet.
 

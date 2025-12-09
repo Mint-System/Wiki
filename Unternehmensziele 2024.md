@@ -1,9 +1,8 @@
 ---
+title: Unternehmensziele 2024
 kind: explain
 section: organisation
 ---
-
-# Unternehmensziele 2024
 
 Personal:
 

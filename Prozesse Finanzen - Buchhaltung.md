@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Buchhaltung
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Buchhaltung
 
 Führung der Buchhaltung der Mint System.
 

@@ -1,7 +1,6 @@
 ---
+title: Dokumentation
 kind: reference
 ---
-
-# Dokumentation
 
 Weiterführende Links: [[Excalidraw]]

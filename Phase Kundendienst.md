@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Kundendienst
+kind: explain
 section: service
 ---
-
-# Phase Kundendienst
 
 Tätigkeiten:
 

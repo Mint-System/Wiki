@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Matomo Hosting
+kind: explain
 section: service
 ---
-
-# Phase Matomo Hosting
 
 Tätigkeiten:
 

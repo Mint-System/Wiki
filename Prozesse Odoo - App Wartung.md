@@ -1,9 +1,7 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Wartung
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Wartung
 
 Installation Modul Wartung `maintenance`.

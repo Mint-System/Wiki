@@ -1,5 +1,3 @@
 ---
-
+title: Monitoring Server
 ---
-
-# Monitoring Server

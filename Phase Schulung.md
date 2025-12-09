@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Schulung
+kind: explain
 section: service
 ---
-
-# Phase Schulung
 
 Tätigkeiten:
 

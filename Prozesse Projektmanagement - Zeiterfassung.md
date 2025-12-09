@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Projektmanagement - Zeiterfassung
+kind: howto
 section: process
 ---
-
-# Prozesse Projektmanagement - Zeiterfassung
 
 Stundenrapport auf externe und interne Projekte.
 

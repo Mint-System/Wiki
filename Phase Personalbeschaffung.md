@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Personalbeschaffung
+kind: explain
 section: service
 ---
-
-# Phase Personalbeschaffung
 
 Tätigkeiten:
 

@@ -1,10 +1,8 @@
 ---
+title: Aerodoo
 section: project
-kind:
-  - reference
+kind: reference
 ---
-
-# Aerodoo
 
 Infomaniak Domains:
 

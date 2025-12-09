@@ -1,11 +1,9 @@
 ---
+title: Spam
 lang: en
-kind:
-  - explain
+kind: explain
 section: term
 ---
-
-# Spam
 
 Receiving malicious emails is an alltime problem for users.
 

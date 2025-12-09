@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: docker
+kind: reference
 section: dev
 ---
-
-# docker
 
 Enter docker container.\
 `docker exec -it $CONTAINER_NAME bash`

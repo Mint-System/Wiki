@@ -1,8 +1,7 @@
 ---
+title: Produktentwicklung
 section: organisation
 ---
-
-# Produktentwicklung
 
 Mint System Produktentwicklung.
 

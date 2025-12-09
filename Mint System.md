@@ -1,8 +1,6 @@
 ---
-
+title: Mint System
 ---
-
-# Mint System
 
 Unternehmensname ohne GmbH.
 

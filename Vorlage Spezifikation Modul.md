@@ -1,9 +1,9 @@
 ---
+title: Vorlage Spezifikation Modul
 kind: reference
 repository: '`Odoo-Apps-Account-Invoicing`'
 section: template
 ---
-# Vorlage Spezifikation Modul
 
 Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereich müssen in der Spezifikation berücksichtigt werden:
 

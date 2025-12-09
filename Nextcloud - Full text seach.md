@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Nextcloud - Volltextsuche
+kind: howto
 section: dev
 ---
-
-# Nextcloud: Volltextsuche
 
 ## Voraussetung
 

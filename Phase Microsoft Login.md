@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Microsoft Login
+kind: explain
 section: service
 ---
-
-# Phase Microsoft Login
 
 Tätigkeiten:
 

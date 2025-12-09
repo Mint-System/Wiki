@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Firefox Handbuch
+kind: howto
 section: handbook
 ---
-
-# Firefox Handbuch
 
 [[TOC]]
 

@@ -1,11 +1,9 @@
 ---
+title: Prozesse Personal
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Personal
 
 Dokumentation der Personal-Prozesse.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Anforderungsanalyse
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Anforderungsanalyse
 
 Anforderungsanalyse efolgt gemäss "[[Basiswissen Requirements Engineering]] - Klaus Pohl". In Zusammenarbeit mit dem Kunden wird ein Anforderungskatalog erstellt.
 

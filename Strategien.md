@@ -1,5 +1,4 @@
 ---
+title: Strategien
 section: organisation
 ---
-
-# Strategien

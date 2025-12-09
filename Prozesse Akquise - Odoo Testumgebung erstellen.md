@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Odoo Testumgebung erstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Odoo Testumgebung erstellen
 
 ## Odoo Testumgebung erstellen
 

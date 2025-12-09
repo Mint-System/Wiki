@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Managed Server Kalkulation
+kind: explain
 section: product
 ---
-
-# Managed Server Kalkulation
 
 Genaueres zur Kalkulation des Angebot _Managed Server_.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - DNS-Verwaltung
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - DNS-Verwaltung
 
 ## Externe DNS-Einträge definieren
 

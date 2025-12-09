@@ -1,10 +1,8 @@
 ---
+title: Github - Download binary files
 section: dev
-kind:
-  - howto
+kind: howto
 ---
-
-# Github - Download binary files
 
 First, to get a list of the assets for the latest release:
 

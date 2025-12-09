@@ -1,11 +1,9 @@
 ---
+title: Spezifikation Mint Cloud
 draft: true
 section: specification
-kind:
-  - explain
+kind: explain
 ---
-
-# Spezifikation Mint Cloud
 
 Die Mint Cloud Hosting-Platform basiert auf Odoo und Kubernetes.
 

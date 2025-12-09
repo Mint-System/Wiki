@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Produktionsplanung
+kind: explain
 section: service
 ---
-
-# Phase Produktionsplanung
 
 Tätigkeiten:
 

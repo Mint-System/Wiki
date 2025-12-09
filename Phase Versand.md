@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Versand
+kind: explain
 section: service
 ---
-
-# Phase Versand
 
 Tätigkeiten:
 

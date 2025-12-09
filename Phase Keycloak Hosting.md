@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Keycloak Hosting
+kind: explain
 section: service
 ---
-
-# Phase Keycloak Hosting
 
 Tätigkeiten:
 

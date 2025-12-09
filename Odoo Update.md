@@ -1,10 +1,8 @@
 ---
+title: Odoo Update
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo Update
 
 Notizen zum Update von Odoo.
 

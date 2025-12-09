@@ -1,9 +1,8 @@
 ---
+title: Methodik
 kind: tutorial
 section: methodology
 ---
-
-# Methodik
 
 Methodisches Vorgehen.
 

@@ -1,11 +1,9 @@
 ---
+title: Odoo mit ihrer Bank verbinden
 section: blog
-kind:
-  - explain
+kind: explain
 draft: true
 ---
-
-# Odoo mit ihrer Bank verbinden
 
 Odoo Enterprise bietet eine Drittanbieter-Integration zur Verbindung von Odoo mit einem Bankkonto.
 

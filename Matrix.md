@@ -1,7 +1,7 @@
 ---
+title: Matrix
 website: https://matrix.org/
 ---
-# Matrix
 
 Protokoll für dezentrale Kommunikation.
 

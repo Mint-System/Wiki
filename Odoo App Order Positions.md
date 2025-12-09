@@ -1,10 +1,8 @@
 ---
-kind:
-  - tutorial
+title: Odoo App Order Positions
+kind: tutorial
 section: communication
 ---
-
-# Odoo App Order Positions
 
 Eine Sammlung von mehreren Modulen und Snippets.
 

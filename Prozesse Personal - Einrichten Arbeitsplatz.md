@@ -1,9 +1,8 @@
 ---
+title: Prozesse Personal - Einrichten Arbeitsplatz
 section: process
-kind:
-  - howto
+kind: howto
 ---
-# Prozesse Personal - Einrichten Arbeitsplatz
 ### Desktop einrichten
 
 Arbeitsschritte:

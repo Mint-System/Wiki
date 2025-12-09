@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Verkauf
+kind: explain
 section: service
 ---
-
-# Phase Verkauf
 
 Tätigkeiten:
 

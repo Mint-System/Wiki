@@ -1,8 +1,6 @@
 ---
-
+title: Gap-Analyse
 ---
-
-# Gap-Analyse
 
 Je nach Grösse des Projekts kann Sie zwischen 1 und 5 Tagen dauern. Bei sehr kleinen Projekten ist die Gap-Analyse keine eigene Phase, sondern wird während der Kick-Off-Phase durchgeführt.
 

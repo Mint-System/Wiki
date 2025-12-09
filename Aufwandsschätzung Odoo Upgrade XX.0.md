@@ -1,10 +1,8 @@
 ---
+title: Aufwandsschätzung Odoo Upgrade XX.0
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Aufwandsschätzung Odoo Upgrade XX.0
 
 Mit diesem Angebot offerieren wir ein Upgrade für die Odoo-Installation von ==KUNDE==. Das Upgrade umfasst ==zwei== Versionssprünge von Version ==XX==.0 auf ==XX==.0. Das Odoo Upgrade ist in unserem Wiki im Detail beschrieben: <https://wiki.mint-system.ch/odoo-upgrade.html>.
 

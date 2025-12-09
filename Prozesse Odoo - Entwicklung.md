@@ -1,10 +1,8 @@
 ---
+title: Prozesse Entwicklung
 responsible: Janik von Rotz
-kind:
-  - howto
+kind: howto
 section: process
 ---
-
-# Prozesse Entwicklung
 
 Dokumentation der Entwicklungs-Prozesse.

@@ -1,8 +1,7 @@
 ---
+title: Mythen über Open Source
 draft: true
 ---
-
-# Mythen über Open Source
 
 Wir hören es leider all zu oft:
 

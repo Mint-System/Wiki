@@ -1,8 +1,6 @@
 ---
-
+title: Update custom Odoo module
 ---
-
-# Update custom Odoo module
 
 Depending on the changes some adjustments are needed:
 

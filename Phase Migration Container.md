@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Migration Container
+kind: explain
 section: service
 ---
-
-# Phase Migration Container
 
 Tätigkeiten:
 

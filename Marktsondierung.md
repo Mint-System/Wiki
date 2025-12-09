@@ -1,9 +1,8 @@
 ---
+title: Marksondierung
 kind: explain
 section: methodology
 ---
-
-# Marksondierung
 
 Marktanalyse und Differenzierungsstrategien.
 

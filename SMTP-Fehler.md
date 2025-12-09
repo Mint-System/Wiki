@@ -1,8 +1,6 @@
 ---
-
+title: SMTP-Fehler
 ---
-
-# SMTP-Fehler
 
 SMTP-Fehlermeldungen im Zusammenhang mit der [[Odoo Email Konfiguration]].
 

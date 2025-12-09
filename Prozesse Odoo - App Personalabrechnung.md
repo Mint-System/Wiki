@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Personalabrechnung
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Personalabrechnung
 
 Installation Modul Personalabrechnung `hr_payroll`.
 

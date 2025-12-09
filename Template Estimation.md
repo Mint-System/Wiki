@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Template Estimation
+kind: reference
 section: template
 ---
-
-# Template Estimation
 
 ## Standard Project
 

@@ -1,7 +1,7 @@
 ---
+title: Vercel
 website: https://vercel.com/mint-system
 ---
-# Vercel
 
 Mit Vercel verwaltet Mint System die DNS-Einträge, Domains und statische Websites.
 

@@ -1,9 +1,8 @@
 ---
+title: Tools
 kind: reference
 section: tool
 ---
-
-# Tools
 
 Werkzeuge im Einsatz der Mint System.
 

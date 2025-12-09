@@ -1,10 +1,8 @@
 ---
+title: Crossplane
 section: technology
-kind:
-  - reference
+kind: reference
 website: https://www.crossplane.io/
 ---
-
-# Crossplane
 
 Framework zur Verwaltung von [[Kubernetes Control Planes]].

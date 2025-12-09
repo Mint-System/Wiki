@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Terminal Zeiterfassung
+kind: explain
 section: service
 ---
-
-# Phase Terminal Zeiterfassung
 
 Tätigkeiten:
 

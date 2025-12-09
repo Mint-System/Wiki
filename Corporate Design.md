@@ -1,8 +1,7 @@
 ---
+title: Corporate Design
 kind: reference
 ---
-
-# Corporate Design
 
 Corporate Design der Mint System.
 

@@ -1,10 +1,8 @@
 ---
+title: Marco Roeleven
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Marco Roeleven
 
 Benutzername: `marcoroeleven`\
 Alias: `mro`

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Innernet bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Innernet bereitstellen
 
 Bereistellung Innernet-Umgebung.
 

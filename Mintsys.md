@@ -1,10 +1,8 @@
 ---
+title: Mintsys
 section: infrastructure
-kind:
-  - reference
+kind: reference
 ---
-
-# Mintsys
 
 Infomaniak Domains:
 

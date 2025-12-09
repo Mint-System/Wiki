@@ -1,9 +1,7 @@
 ---
-kind:
-  - tutorial
+title: Git Forks
+kind: tutorial
 ---
-
-# Git Forks
 
 Alles zu Git Forks.
 

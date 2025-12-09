@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Passwortmanager
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Passwortmanager
 
 Passwörter und Zugangsdaten zu Accounts der Mint System werden in einem [[Passwortmanager]] gespeichert.
 

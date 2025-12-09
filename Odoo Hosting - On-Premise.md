@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Odoo Hosting - On-Premise
+kind: explain
 section: product
 ---
-
-# Odoo Hosting - On-Premise
 
 Mit Mint System installiert Odoo auf einem Server in der Umgebung des Kunden
 

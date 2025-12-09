@@ -1,7 +1,7 @@
 ---
+title: OpenVPN
 website: https://openvpn.net/download-open-vpn/
 ---
-# OpenVPN
 
 VPN client.
 

@@ -1,10 +1,8 @@
 ---
+title: Code of Conduct
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
-
-# Code of Conduct
 
 **Abhängigkeiten werden vermieden**
 

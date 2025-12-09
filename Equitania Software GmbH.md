@@ -1,9 +1,9 @@
 ---
+title: Equitania Software GmbH
 kind: reference
 section: contact
 website: https://www.equitania.de
 ---
-# Equitania Software GmbH
 
 Die Equitania Software GmbH ist ein Partner der [[Mint System GmbH]].
 

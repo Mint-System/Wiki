@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Website Blog
+kind: explain
 section: service
 ---
-
-# Phase Website Blog
 
 Tätigkeiten:
 

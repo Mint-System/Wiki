@@ -1,11 +1,9 @@
 ---
+title: TOTP Auth
 lang: en
-kind:
-  - reference
+kind: reference
 section: term
 ---
-
-# TOTP Auth
 
 Time-based One-time Password.
 

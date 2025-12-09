@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Fertigung
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Fertigung
 
 Installation Modul Fertigung `mrp`
 

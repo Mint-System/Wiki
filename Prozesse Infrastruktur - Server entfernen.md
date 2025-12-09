@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Server entfernen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Server entfernen
 
 Einen Server entfernen.
 

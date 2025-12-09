@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Infomaniak Migration
+kind: explain
 section: vendor
 ---
-
-# Infomaniak Migration
 
 ## Beschreibung
 

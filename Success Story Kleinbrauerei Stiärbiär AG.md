@@ -1,10 +1,8 @@
 ---
+title: Success Story Kleinbrauerei Stiärbiär AG
 section: blog
-kind:
-  - explain
+kind: explain
 ---
-
-# Success Story Kleinbrauerei Stiärbiär AG
 
 ![[Kleinbrauerei Stiärbiär AG Logo.png]]
 

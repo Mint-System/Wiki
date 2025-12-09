@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - BigBlueButton bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - BigBlueButton bereitstellen
 
 Arbeitsschritte:
 

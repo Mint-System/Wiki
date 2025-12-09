@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase E-Mail-Marketing
+kind: explain
 section: service
 ---
-
-# Phase E-Mail-Marketing
 
 Tätigkeiten:
 

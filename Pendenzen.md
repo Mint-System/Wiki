@@ -1,9 +1,8 @@
 ---
+title: Pendenzen
 kind: explain
 section: methodology
 ---
-
-# Pendenzen
 
 Mitarbeiter der Mint System GmbH verwalten ihre Aufgaben ausschliesslich mit Odoo. Wir unterscheiden zwischen verschiedenen Aufgabentypen.
 

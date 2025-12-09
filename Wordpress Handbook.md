@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Wordpress Handbook
+kind: howto
 section: handbook
 ---
-
-# Wordpress Handbook
 
 [[TOC]]
 

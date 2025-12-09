@@ -1,7 +1,7 @@
 ---
+title: Restic
 website: https://restic.net/
 ---
-# Restic
 
 Infomaniak Domains:
 

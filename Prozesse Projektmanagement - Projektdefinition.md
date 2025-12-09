@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Projektmanagement - Projektdefinition
+kind: howto
 section: process
 ---
-
-# Prozesse Projektmanagement - Projektdefinition
 
 Ein Projekt definieren.
 

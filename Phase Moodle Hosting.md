@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Moodle Hosting
+kind: explain
 section: service
 ---
-
-# Phase Moodle Hosting
 
 Tätigkeiten:
 

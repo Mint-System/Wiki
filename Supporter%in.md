@@ -1,7 +1,5 @@
 ---
+title: Supporter%in
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
-
-# Supporter%in

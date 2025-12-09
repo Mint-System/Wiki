@@ -1,11 +1,9 @@
 ---
+title: Prozesse Beratung
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Beratung
 
 Dokumentation der Beratungsprozesse.
 

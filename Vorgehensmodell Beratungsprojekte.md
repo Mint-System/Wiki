@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Vorgehensmodell Beratungsprojekte
+kind: explain
 section: methodology
 ---
-
-# Vorgehensmodell Beratungsprojekte
 
 Beschreibt wie die Mint System GmbH Beratungsprojekte abwickelt.
 

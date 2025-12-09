@@ -1,9 +1,8 @@
 ---
+title: Phase Odoo Upgrade
 kind: explain
 section: service
 ---
-
-# Phase Odoo Upgrade
 
 Tätigkeiten:
 

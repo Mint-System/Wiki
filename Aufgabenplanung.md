@@ -1,9 +1,8 @@
 ---
+title: Aufgabenplanung
 kind: explain
 section: methodology
 ---
-
-# Aufgabenplanung
 
 Mitarbeiter der Mint System GmbH planen ihre Aufgaben mit Odoo.
 

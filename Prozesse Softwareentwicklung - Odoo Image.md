@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Softwareentwicklung - Odoo Image
+kind: howto
 section: process
 ---
-
-# Prozesse Softwareentwicklung - Odoo Image
 
 ## Odoo Image bauen
 

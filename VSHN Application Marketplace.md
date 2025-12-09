@@ -1,7 +1,7 @@
 ---
+title: VSHN Application Marketplace
 website: https://www.vshn.ch/produkte/marketplace/
 ---
-# VSHN Application Marketplace
 
 A marketplace for Kubernetes Apps. Bridge between Cloud Service Provider (CSP) and Independent Software Vendors (ISV).
 

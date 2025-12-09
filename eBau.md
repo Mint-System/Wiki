@@ -1,7 +1,5 @@
 ---
-
+title: eBau
 ---
-
-# eBau
 
 Basiert auf

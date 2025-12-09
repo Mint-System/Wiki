@@ -1,11 +1,9 @@
 ---
+title: Prozesse Support
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Support
 
 Dokumentation der Support Prozesse.
 

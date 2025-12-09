@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Finanzen
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Finanzen
 
 Installation Modul Finanzen `account_accountant`.
 

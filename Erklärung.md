@@ -1,9 +1,8 @@
 ---
+title: Erklärung
 kind: explain
 section: meta
 ---
-
-# Erklärung
 
 - [[Odoo]]
 - [[Unternehmensentwicklung]]

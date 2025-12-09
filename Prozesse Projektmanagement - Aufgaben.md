@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Projektmanagement - Aufgaben
+kind: howto
 section: process
 ---
-
-# Prozesse Projektmanagement - Aufgaben
 
 Aufgabenverwaltung in Odoo.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Continuous Delivery
+kind: explain
 section: service
 ---
-
-# Phase Continuous Delivery
 
 Tätigkeiten:
 

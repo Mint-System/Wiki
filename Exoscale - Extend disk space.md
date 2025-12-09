@@ -1,11 +1,9 @@
 ---
+title: Exoscale - Extend disk space
 lang: en
-kind:
-  - howto
+kind: howto
 section: vendor
 ---
-
-# Exoscale - Extend disk space
 
 ## Create block storage
 

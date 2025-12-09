@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Projektplanung
+kind: explain
 section: service
 ---
-
-# Phase Projektplanung
 
 Tätigkeiten:
 

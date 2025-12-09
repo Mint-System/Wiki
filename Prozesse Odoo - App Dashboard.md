@@ -1,9 +1,7 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Dashboard
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Dashboard
 
 Installation Modul Dashboard `dashboard`.

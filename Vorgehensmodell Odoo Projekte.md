@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Vorgehensmodell Odoo Projekte
+kind: explain
 section: methodology
 ---
-
-# Vorgehensmodell Odoo Projekte
 
 ## Einleitung
 

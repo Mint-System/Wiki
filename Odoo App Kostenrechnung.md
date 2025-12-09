@@ -1,10 +1,8 @@
 ---
+title: Odoo App Kostenrechnung
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo App Kostenrechnung
 
 Damit die Kostenrechnung funktioniert müssen folgende Bedienungen erfüllt sein:
 

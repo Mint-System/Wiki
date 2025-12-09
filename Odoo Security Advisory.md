@@ -1,9 +1,9 @@
 ---
+title: Odoo Security Advisory
 kind: reference
 lang: en
 website: https://www.odoo.com/de_DE/security-report
 ---
-# Odoo Security Advisory
 
 Responsible disclosure policy for Odoo security vulnerabilities.
 

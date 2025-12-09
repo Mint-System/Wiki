@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Social Login
+kind: explain
 section: service
 ---
-
-# Phase Social Login
 
 Tätigkeiten:
 

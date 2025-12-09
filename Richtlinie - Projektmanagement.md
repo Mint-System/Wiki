@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Projektmanagement
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Projektmanagement
 
 Übersetzung: [[Policy Project Management]]
 

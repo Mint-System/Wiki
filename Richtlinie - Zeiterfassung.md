@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Zeiterfassung
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Zeiterfassung
 
 ## Keine Arbeit ohne Zeiterfassung
 

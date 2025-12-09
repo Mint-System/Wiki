@@ -1,7 +1,7 @@
 ---
+title: Matrix Server
 website: https://chat.mint-system.ch
 ---
-# Matrix Server
 
 Matrix-Instanz der Mint System.
 

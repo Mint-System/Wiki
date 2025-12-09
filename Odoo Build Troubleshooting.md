@@ -1,11 +1,9 @@
 ---
+title: Odoo Build Troubleshooting
 lang: en
-kind:
-  - howto
+kind: howto
 section: product
 ---
-
-# Odoo Build Troubleshooting
 
 ## Run
 

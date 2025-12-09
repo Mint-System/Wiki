@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Roadmap
+kind: explain
 section: service
 ---
-
-# Phase Roadmap
 
 Tätigkeiten:
 

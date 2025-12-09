@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Arbeitszeit
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Arbeitszeit
 
 ## Arbeitszeiten ungestört
 

@@ -24,6 +24,7 @@ section: bases
 | [[Meilisearch Upgrade]] | tutorial | dev |
 | [[Meilisearch]] | reference | dev |
 | [[Migrate docker postgres databases with pg_dump]] | howto | dev |
+| [[Mint System Dotfiles]] | reference | dev |
 | [[Nextcloud - Configure ignored files]] | howto | dev |
 | [[Nextcloud - Full text seach]] | howto | dev |
 | [[Nextcloud - OwnCloud Console]] | howto | dev |
@@ -34,6 +35,8 @@ section: bases
 | [[Nginx]] | reference | dev |
 | [[Odoo Assets]] | explain | dev |
 | [[Odoo Build - Create an OCA module]] | tutorial | dev |
+| [[Odoo Build Vault]] | reference | dev |
+| [[Odoo Build]] | reference | dev |
 | [[Odoo Developer Tutorials]] | reference | dev |
 | [[Odoo Development Guidelines]] | explain | dev |
 | [[Odoo Drucken]] | explain | dev |
@@ -65,3 +68,5 @@ section: bases
 | [[pre-commit]] | reference | dev |
 | [[prettier]] | reference | dev |
 | [[pylint]] | reference | dev |
+| [[taskfile.build]] | reference | dev |
+| [[taskfile]] | reference | dev |

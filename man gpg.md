@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: man gpg
+kind: reference
 section: dev
 ---
-
-# man gpg
 
 QR-Code von public gpg key generieren.\
 

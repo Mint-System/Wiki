@@ -1,11 +1,9 @@
 ---
+title: Nextcloud - OwnCloud Console
 section: dev
-kind:
-  - howto
+kind: howto
 lang: en
 ---
-
-# Nextcloud: OwnCloud Console
 
 This is the nextcloud command line tool.
 

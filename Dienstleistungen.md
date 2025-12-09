@@ -1,9 +1,8 @@
 ---
+title: Dienstleistungen
 kind: reference
 section: organisation
 ---
-
-# Dienstleistungen
 
 Übersetzung: [[Services]]
 

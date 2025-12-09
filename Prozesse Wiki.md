@@ -1,11 +1,9 @@
 ---
+title: Prozesse Wiki
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Wiki
 
 Dokumentation der Wiki-Prozesse.
 

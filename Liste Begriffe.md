@@ -13,7 +13,6 @@ section: bases
 | [[Betriebssystem]] | reference | term |
 | [[Billability]] | explain | term |
 | [[Business Process Model and Notation]] | explain | term |
-| [[Containervirtualisierung]] | reference | term |
 | [[Continuous Delivery]] | explain | term |
 | [[DKIM]] | explain | term |
 | [[DMARC]] | explain | term |

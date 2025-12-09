@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Jenkins Handbuch
+kind: howto
 section: handbook
 ---
-
-# Jenkins Handbuch
 
 [[TOC]]
 

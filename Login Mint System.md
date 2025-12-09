@@ -1,8 +1,6 @@
 ---
-
+title: Login Mint System
 ---
-
-# Login Mint System
 
 Login Mint System ist ein Identitäts-Anbieter, der unter https://login.mint-system.ch verfügbar ist.
 

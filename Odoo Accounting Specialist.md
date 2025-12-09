@@ -1,9 +1,8 @@
 ---
+title: Odoo Accounting Specialist
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
-# Odoo Accounting Specialist
 
 
 

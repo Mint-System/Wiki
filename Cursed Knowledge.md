@@ -1,10 +1,9 @@
 ---
+title: Cursed Knowledge
 lang: en
 section: dev
-kind:
-  - explain
+kind: explain
 ---
-# Cursed Knowledge
 
 Here we document "cursed knowledge". This are solutions to difficult problems that are so niche that we never have to solve this problem again and thus the knowledge is already obsolete.
 

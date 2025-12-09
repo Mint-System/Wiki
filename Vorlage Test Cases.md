@@ -1,10 +1,8 @@
 ---
+title: Test Cases
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Test Cases
 
 Test the MODULENAME.
 

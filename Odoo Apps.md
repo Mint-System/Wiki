@@ -1,9 +1,9 @@
 ---
+title: Odoo Apps
 kind: reference
 section: communication
 website: https://apps.odoo.com/
 ---
-# Odoo Apps
 
 Die Funktionalität von Odoo kann mit Apps erweitert werden.
 

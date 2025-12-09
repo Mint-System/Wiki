@@ -1,8 +1,8 @@
 ---
+title: k3s
 lang: en
 website: https://k3s.io/
 ---
-# k3s
 
 Lightweight Kubernetes.
 

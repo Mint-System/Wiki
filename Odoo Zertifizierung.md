@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Odoo Zertifizierung
+kind: explain
 section: dev
 ---
-
-# Odoo Zertifizierung
 
 Für jede Odoo-Version werden Zertifizierungen angeboten.
 

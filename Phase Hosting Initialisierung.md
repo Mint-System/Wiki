@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Hosting Initialisierung
+kind: explain
 section: service
 ---
-
-# Phase Hosting Initialisierung
 
 Tätigkeiten:
 

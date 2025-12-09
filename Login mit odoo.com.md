@@ -1,8 +1,6 @@
 ---
-
+title: Login mit odoo.com
 ---
-
-# Login mit odoo.com
 
 _Login mit Odoo.com_ ist ein Login-Anbieter von Odoo.com, der unter https://accounts.odoo.com/oauth2/auth erreichbar ist.
 

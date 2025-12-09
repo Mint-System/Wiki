@@ -1,10 +1,8 @@
 ---
+title: Evaluation Odoo Report
 section: dev
-kind:
-  - explain
+kind: explain
 ---
-
-# Evaluation Odoo Report
 
 ## Kandidaten
 

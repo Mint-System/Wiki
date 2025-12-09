@@ -1,8 +1,8 @@
 ---
+title: Nix
 lang: en
 website: https://nixos.org/
 ---
-# Nix
 
 Declarative builds and deployments.
 

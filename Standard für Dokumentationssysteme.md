@@ -1,8 +1,7 @@
 ---
+title: Standard für Dokumentationssysteme
 kind: reference
 ---
-
-# Standard für Dokumentationssysteme
 
 [Diátaxis](https://diataxis.fr/) ist ein Framework Dokumentationssysteme. Es unterteilt Dokumentationen in vier Typen. Die vier Typen erfüllen unterschiedliche Anforderungen und haben bestimmten Zweck.
 

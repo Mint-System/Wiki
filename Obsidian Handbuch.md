@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Obsidian Handbuch
+kind: howto
 section: handbook
 ---
-
-# Obsidian Handbuch
 
 ![[Obsidian Logo.png]]
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Finanzen Budget
+kind: explain
 section: service
 ---
-
-# Phase Finanzen Budget
 
 Tätigkeiten:
 

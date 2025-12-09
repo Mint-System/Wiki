@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Kundenverwaltung
+kind: explain
 section: service
 ---
-
-# Phase Kundenverwaltung
 
 Tätigkeiten:
 

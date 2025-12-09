@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Fonts
+kind: reference
 ---
-
-# Fonts
 
 Auf der Website verwenden wir [[New Rubrik Edge]].
 

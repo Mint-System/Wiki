@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Akquise - Kontaktaufnahme
+kind: howto
 section: process
 ---
-
-# Prozesse Akquise - Kontaktaufnahme
 
 Kontakaufnahme mit dem Kunden.
 

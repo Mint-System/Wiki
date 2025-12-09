@@ -1,10 +1,8 @@
 ---
+title: Anforderungen
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-# Anforderungen
 
 ## Abkärung 🔍
 

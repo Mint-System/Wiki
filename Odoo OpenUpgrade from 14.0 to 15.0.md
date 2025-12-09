@@ -1,4 +1,6 @@
-# Odoo OpenUpgrade from 14.0 to 15.0
+---
+title: Odoo OpenUpgrade from 14.0 to 15.0
+---
 
 ## Prepare
 

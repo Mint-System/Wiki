@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: man
+kind: reference
 section: dev
 ---
-
-# man
 
 Hilfestellung für Kommandozeilenbefehle.
 

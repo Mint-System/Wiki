@@ -1,9 +1,9 @@
 ---
+title: Mint System Dotfiles
 section: dev
 kind: reference
 repository: https://github.com/Mint-System/Dotfiles
 ---
-# Mint System Dotfiles
 
 Shell-Setup für Mitarbeitende.
 

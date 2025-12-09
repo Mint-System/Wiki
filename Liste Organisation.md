@@ -1,9 +1,8 @@
 ---
+title: Organisation
 kind: reference
 section: bases
 ---
-
-# Organisation
 
 | file.name | kind | file.tags |
 | --- | --- | --- |

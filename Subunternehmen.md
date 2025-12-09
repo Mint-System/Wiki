@@ -1,8 +1,7 @@
 ---
+title: Subunternehmen
 section: organisation
 ---
-
-# Subunternehmen
 
 In diesem Artikel werden verschiedene Formen der Zusammenarbeit betrachtet.
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Eingangsrechnungen
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Eingangsrechnungen
 
 Lieferantenrechnungen verbuchen.
 

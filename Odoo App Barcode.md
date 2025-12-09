@@ -1,9 +1,8 @@
 ---
+title: Odoo App Strichcode
 kind: explain
 section: communication
 ---
-
-# Odoo App Strichcode
 
 Einführung zu Odoo Barcode: https://www.youtube.com/watch?v=OTfss3WF0jI
 

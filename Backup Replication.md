@@ -1,9 +1,7 @@
 ---
+title: Backup Replication
 section: infrastructure
-kind:
-  - explain
+kind: explain
 ---
-
-# Backup Replication
 
 Alle Backups werden zusätzlich auf einem [[Storage Bucket]] gespeichert.

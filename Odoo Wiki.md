@@ -1,8 +1,8 @@
 ---
+title: Odoo Wiki
 kind: reference
 website: https://www.odoo-wiki.org
 ---
-# Odoo Wiki
 
 Infomaniak Domains:
 

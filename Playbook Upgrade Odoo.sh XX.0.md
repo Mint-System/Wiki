@@ -1,11 +1,9 @@
 ---
-kind:
-  - howto
+title: Playbook Upgrade Odoo.sh XX.0
+kind: howto
 lang: en
 section: template
 ---
-
-# Playbook Upgrade Odoo.sh XX.0
 
 The playbook supports two modes: test and production. When executing the production mode you have to set the env vars for the production branch.
 

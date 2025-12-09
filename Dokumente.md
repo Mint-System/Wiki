@@ -1,9 +1,8 @@
 ---
+title: Dokumente
 kind: reference
 section: meta
 ---
-
-# Dokumente
 
 [[Signaturen]]\
 [[AGBs Entwicklungsprojekt]]\

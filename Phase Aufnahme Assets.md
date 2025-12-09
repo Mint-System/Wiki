@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Aufnahme Assets
+kind: explain
 section: service
 ---
-
-# Phase Aufnahme Assets
 
 Tätigkeiten:
 

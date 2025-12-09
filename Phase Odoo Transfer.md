@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Odoo Transfer
+kind: explain
 section: service
 ---
-
-# Phase Odoo Transfer
 
 Tätigkeiten:
 

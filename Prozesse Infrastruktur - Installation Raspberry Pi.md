@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Raspberry Pi bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Raspberry Pi bereitstellen
 
 Bereitstellung Raspberry Pi.
 

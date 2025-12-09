@@ -1,9 +1,7 @@
 ---
-kind:
-  - reference
+title: Odoo-Projekte
+kind: reference
 ---
-
-# Odoo-Projekte
 
 ## [[Phasen]]
 

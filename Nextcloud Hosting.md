@@ -1,10 +1,8 @@
 ---
+title: Nextcloud Hosting
 section: product
-kind:
-  - explain
+kind: explain
 ---
-
-# Nextcloud Hosting
 
 [[Nextcloud]] ist eine Open-Source-Plattform für die Zusammenarbeit und den Dateiaustausch. Sie ermöglicht es Benutzern, ihre eigenen Cloud-Speicherdienste zu betreiben, um Dateien zu speichern, zu teilen, zu synchronisieren und auf sie zuzugreifen.
 

@@ -1,8 +1,7 @@
 ---
+title: Personal
 section: organisation
 ---
-
-# Personal
 
 Siehe [[Prozesse Personal]].
 

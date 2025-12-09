@@ -1,11 +1,9 @@
 ---
+title: Prozesse Odoo.sh
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Odoo.sh
 
 Technische Dokumentation der Odoo.sh Prozesse.
 

@@ -1,12 +1,10 @@
 ---
-kind:
-  - explain
+title: autossh
+kind: explain
 lang: en
 section: infrastructure
 website: https://linux.die.net/man/1/autossh
 ---
-
-# autossh
 
 ## Ansible role
 

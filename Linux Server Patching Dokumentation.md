@@ -1,5 +1,3 @@
 ---
-
+title: Linux Server Patching Dokumentation
 ---
-
-# Linux Server Patching Dokumentation

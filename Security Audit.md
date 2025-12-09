@@ -1,10 +1,8 @@
 ---
+title: Security Audit
 section: service
-kind:
-  - explain
+kind: explain
 ---
-
-# Security Audit
 
 ## Leistungsbeschreibung
 

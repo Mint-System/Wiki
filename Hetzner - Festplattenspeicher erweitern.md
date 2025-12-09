@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Hetzner - Festplattenspeicher erweitern
+kind: howto
 section: vendor
 ---
-
-# Hetzner - Festplattenspeicher erweitern
 
 ## Volume erstellen
 

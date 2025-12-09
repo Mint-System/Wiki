@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Kick-Off
+kind: explain
 section: service
 ---
-
-# Phase Kick-Off
 
 Tätigkeiten:
 

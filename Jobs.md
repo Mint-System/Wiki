@@ -1,10 +1,8 @@
 ---
+title: Jobs
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
-
-# Jobs
 
 Stellen werden hier ausgeschrieben:
 

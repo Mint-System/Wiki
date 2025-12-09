@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Personal
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Personal
 
 Installation Modul Odoo Personal `hr`.
 

@@ -1,10 +1,8 @@
 ---
+title: Systemüberwachung mit Prometheus und Grafana
 section: blog
-kind:
-  - explain
+kind: explain
 ---
-
-# Systemüberwachung mit Prometheus und Grafana
 
 Die Mint System bietet für Kunden das Cloud-Hosting [[Mint Cloud]] an. Zum Betrieb werden Server in existieren Rechenzentern gemietet. Der Hosting-Partner stellt sicher, dass die phyischen Server funktionieren und ist für Ausfälle verantwortlich. Für alle Software, die auf dem Server installiert wird, ist jedoch die Mint System verantwortlich. Auch wir müssen sicherstellen, dass die Software einwandfrei funktioniert. Dazu betreiben wir einen Überwachungs- bzw. Monitoringsystem. Dieses meldet uns wenn biespielsweise die Festplatte auf einem Server vollläuft. In diesem Beitrag möchten wir dieses System genauer erklären.
 

@@ -1,9 +1,8 @@
 ---
+title: Unternehmensziele 2022
 kind: explain
 section: organisation
 ---
-
-# Unternehmensziele 2022
 
 - Büro in Altdorf
 - 1 neue/r Mitarbeitende (Teil- oder Vollzeitpensum)

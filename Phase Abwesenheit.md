@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Abwesenheit
+kind: explain
 section: service
 ---
-
-# Phase Abwesenheit
 
 Tätigkeiten:
 

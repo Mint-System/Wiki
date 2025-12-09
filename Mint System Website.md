@@ -1,10 +1,10 @@
 ---
+title: Mint System Website
 kind: reference
 lang: en
 repository: https://github.com/Mint-System/Website
 section: communication
 ---
-# Mint System Website
 
 Unsere Website wurde mit [[Hugo]] erstellt.
 

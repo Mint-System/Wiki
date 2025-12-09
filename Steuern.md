@@ -1,9 +1,8 @@
 ---
+title: Steuern
 kind: explain
 section: organisation
 ---
-
-# Steuern
 
 Die Steuern setzen sich zusammen aus
 

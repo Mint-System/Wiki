@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Website
+kind: explain
 section: service
 ---
-
-# Phase Website
 
 Tätigkeiten:
 

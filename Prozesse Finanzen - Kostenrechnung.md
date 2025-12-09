@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Finanzen - Kostenrechnung
+kind: howto
 section: process
 ---
-
-# Prozesse Finanzen - Kostenrechnung
 
 Arbeitsschritte zum Erstellen der Kostenrechnung.
 

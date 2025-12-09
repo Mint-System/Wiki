@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: sql
+kind: reference
 section: dev
 ---
-
-# sql
 
 Constraints entfernen.\
 

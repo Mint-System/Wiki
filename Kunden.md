@@ -1,8 +1,6 @@
 ---
-
+title: Kunden
 ---
-
-# Kunden
 
 Ressourcen für Kunden.
 

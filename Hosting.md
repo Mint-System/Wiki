@@ -1,10 +1,8 @@
 ---
+title: Hosting
 section: product
-kind:
-  - explain
+kind: explain
 ---
-
-# Hosting
 
 ## Leistungsbeschreibung
 

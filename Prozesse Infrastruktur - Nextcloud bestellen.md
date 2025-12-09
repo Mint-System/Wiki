@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Nextcloud bestellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Nextcloud bestellen
 
 Bestellung einer Odoo-Installation.
 

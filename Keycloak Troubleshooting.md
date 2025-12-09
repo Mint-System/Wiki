@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Keycloak Troubleshooting
+kind: howto
 section: product
 ---
-
-# Keycloak Troubleshooting
 
 ## Resolved
 

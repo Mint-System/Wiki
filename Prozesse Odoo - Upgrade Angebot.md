@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - Upgrade Angebot
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - Upgrade Angebot
 
 ## Modulliste erstellen
 

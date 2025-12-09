@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Restic Handbuch
+kind: howto
 section: handbook
 ---
-
-# Restic Handbuch
 
 [[TOC]]
 

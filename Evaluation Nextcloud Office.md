@@ -1,8 +1,6 @@
 ---
-
+title: Evaluation Nextcloud Office
 ---
-
-# Evaluation Nextcloud Office
 
 Which one is better [[Collabora]] or [[OnlyOffice]]?
 

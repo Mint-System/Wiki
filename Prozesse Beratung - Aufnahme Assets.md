@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Beratung - Aufnahme Assets
+kind: howto
 section: process
 ---
-
-# Prozesse Beratung - Aufnahme Assets
 
 ## Stakeholder interviewen
 

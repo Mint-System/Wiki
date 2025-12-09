@@ -1,8 +1,6 @@
 ---
-
+title: Twint
 ---
-
-# Twint
 
 Mit Twint können Zahlungen mittels QR-Code erledigt werden.
 

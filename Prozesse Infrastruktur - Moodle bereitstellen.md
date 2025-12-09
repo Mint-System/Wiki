@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Infrastruktur - Installation Moodle bereitstellen
+kind: howto
 section: process
 ---
-
-# Prozesse Infrastruktur - Installation Moodle bereitstellen
 
 Inbetriebnahme einer Moodle-Installation.
 

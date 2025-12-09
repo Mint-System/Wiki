@@ -10,7 +10,6 @@ https://wiki.mint-system.ch/aegis-authenticator.html
 https://wiki.mint-system.ch/aerodoo.html
 https://wiki.mint-system.ch/affiliate-marketing.html
 https://wiki.mint-system.ch/akquise.html
-https://wiki.mint-system.ch/algolia.html
 https://wiki.mint-system.ch/anforderungen.html
 https://wiki.mint-system.ch/anforderungsanalyse.html
 https://wiki.mint-system.ch/angebot.html
@@ -64,7 +63,6 @@ https://wiki.mint-system.ch/collabora.html
 https://wiki.mint-system.ch/collaboration.html
 https://wiki.mint-system.ch/compare-coding-agents.html
 https://wiki.mint-system.ch/concept-template.html
-https://wiki.mint-system.ch/containervirtualisierung.html
 https://wiki.mint-system.ch/continuous-delivery.html
 https://wiki.mint-system.ch/conventional-commits.html
 https://wiki.mint-system.ch/copier.html
@@ -108,6 +106,7 @@ https://wiki.mint-system.ch/eine-sache-des-guten-geschmacks.html
 https://wiki.mint-system.ch/element.html
 https://wiki.mint-system.ch/emacs.html
 https://wiki.mint-system.ch/emoji.html
+https://wiki.mint-system.ch/empfehlungen-für-odoo-module.html
 https://wiki.mint-system.ch/end-of-life.html
 https://wiki.mint-system.ch/entity-relationship-model.html
 https://wiki.mint-system.ch/entwicklung.html
@@ -175,7 +174,6 @@ https://wiki.mint-system.ch/infomaniak-kubernetes.html
 https://wiki.mint-system.ch/infomaniak-migration.html
 https://wiki.mint-system.ch/infomaniak.html
 https://wiki.mint-system.ch/infrastructure-mint-system.html
-https://wiki.mint-system.ch/infrastruktur.base.html
 https://wiki.mint-system.ch/infrastruktur.html
 https://wiki.mint-system.ch/inkscape.html
 https://wiki.mint-system.ch/innernet.html
@@ -260,6 +258,7 @@ https://wiki.mint-system.ch/liste-tools.html
 https://wiki.mint-system.ch/liste-troubleshooting.html
 https://wiki.mint-system.ch/liste-unternehmen.html
 https://wiki.mint-system.ch/liste-vorlagen.html
+https://wiki.mint-system.ch/liste-website-and-repository.html
 https://wiki.mint-system.ch/liste-übersicht.html
 https://wiki.mint-system.ch/lizenzmanagement-mit-odoo.html
 https://wiki.mint-system.ch/login-mint-system.html
@@ -307,6 +306,7 @@ https://wiki.mint-system.ch/mint-cloud-kubernetes-clusters.html
 https://wiki.mint-system.ch/mint-cloud-odoo-erste-schritte.html
 https://wiki.mint-system.ch/mint-cloud.html
 https://wiki.mint-system.ch/mint-saas.html
+https://wiki.mint-system.ch/mint-system-dotfiles.html
 https://wiki.mint-system.ch/mint-system-gmbh.html
 https://wiki.mint-system.ch/mint-system-login.html
 https://wiki.mint-system.ch/mint-system-odoo.html
@@ -399,6 +399,7 @@ https://wiki.mint-system.ch/odoo-brand-assets.html
 https://wiki.mint-system.ch/odoo-buchhaltung-expert%in.html
 https://wiki.mint-system.ch/odoo-build-create-an-oca-module.html
 https://wiki.mint-system.ch/odoo-build-troubleshooting.html
+https://wiki.mint-system.ch/odoo-build-vault.html
 https://wiki.mint-system.ch/odoo-build.html
 https://wiki.mint-system.ch/odoo-checklisten.html
 https://wiki.mint-system.ch/odoo-community-apps.html
@@ -820,7 +821,6 @@ https://wiki.mint-system.ch/spf.html
 https://wiki.mint-system.ch/ssh-zugriff.html
 https://wiki.mint-system.ch/ssh.html
 https://wiki.mint-system.ch/saas.html
-https://wiki.mint-system.ch/saferpay.html
 https://wiki.mint-system.ch/saldosteuersätze.html
 https://wiki.mint-system.ch/scalable-kubernetes-service.html
 https://wiki.mint-system.ch/security-audit.html
@@ -862,6 +862,7 @@ https://wiki.mint-system.ch/steuerungskreis.html
 https://wiki.mint-system.ch/storage-bucket.html
 https://wiki.mint-system.ch/strategien.html
 https://wiki.mint-system.ch/struktur-kostenstellen.html
+https://wiki.mint-system.ch/sublime.html
 https://wiki.mint-system.ch/subunternehmen.html
 https://wiki.mint-system.ch/subunternehmer.html
 https://wiki.mint-system.ch/success-stories.html
@@ -1023,6 +1024,8 @@ https://wiki.mint-system.ch/pre-commit.html
 https://wiki.mint-system.ch/prettier.html
 https://wiki.mint-system.ch/pylint.html
 https://wiki.mint-system.ch/rustdesk.html
+https://wiki.mint-system.ch/taskfile.build.html
+https://wiki.mint-system.ch/taskfile.html
 https://wiki.mint-system.ch/terra-computer.html
 https://wiki.mint-system.ch/tmux.html
 https://wiki.mint-system.ch/ungleich-gmbh.html

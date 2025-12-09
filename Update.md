@@ -1,9 +1,7 @@
 ---
+title: Update
 section: term
-kind:
-  - explain
+kind: explain
 ---
-
-# Update
 
 Aktualisierung einer Minor-Version einer Software.

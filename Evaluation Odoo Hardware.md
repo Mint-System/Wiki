@@ -1,8 +1,7 @@
 ---
+title: Evaluation Odoo Hardware
 kind: reference
 ---
-
-# Evaluation Odoo Hardware
 
 ## Kriterien
 

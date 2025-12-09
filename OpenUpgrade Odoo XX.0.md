@@ -1,4 +1,6 @@
-# OpenUpgrade Odoo XX.0
+---
+title: OpenUpgrade Odoo XX.0
+---
 
 ## Prepare
 

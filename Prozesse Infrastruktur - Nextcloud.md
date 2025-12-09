@@ -1,10 +1,8 @@
 ---
+title: Prozesse Infrastruktur - Nextcloud
 section: process
-kind:
-  - howto
+kind: howto
 ---
-
-# Prozesse Infrastruktur - Nextcloud
 
 ## Apps aktualisieren
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Kommunikation
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Kommunikation
 
 Regel die Art und Weise wie wir kommunizieren.
 

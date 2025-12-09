@@ -1,10 +1,8 @@
 ---
+title: Begriffe
 section: meta
-kind:
-  - reference
+kind: reference
 ---
-
-# Begriffe
 
 **ERP-System**: Die Abkürzung ERP steht für Enterprise Ressource Planning. Ein ERP-System unterstützt sämtliche Geschäftsprozesse in einer Unternehmung und ermöglicht so die effiziente Planung, Steuerung und Abwicklung der betrieblichen Ressourcen. [^1]
 

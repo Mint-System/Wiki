@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Spesenreglement
+kind: explain
 section: organisation
 ---
-
-# Spesenreglement
 
 Mint System GmbH\
 Seedorferstrasse 29\

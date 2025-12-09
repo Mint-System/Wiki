@@ -1,10 +1,9 @@
 ---
+title: CrowdSec
 kind: reference
 section: tool
 website: https://crowdsec.net/
 ---
-
-# CrowdSec
 
 ## Beschreibung
 

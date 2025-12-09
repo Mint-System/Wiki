@@ -1,11 +1,9 @@
 ---
+title: Prozesse Sicherheit
 responsible: Janik von Rotz
-kind:
-  - reference
+kind: reference
 section: process
 ---
-
-# Prozesse Sicherheit
 
 Dokumentation der Sicherheit-Prozesse.
 

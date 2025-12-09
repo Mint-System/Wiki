@@ -1,8 +1,6 @@
 ---
-
+title: Saldosteuersätze
 ---
-
-# Saldosteuersätze
 
 Saldosteuersätze ab 1. Januar 2025:
 

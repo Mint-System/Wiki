@@ -1,10 +1,8 @@
 ---
+title: Odoo Mobile App
 section: communication
-kind:
-  - reference
+kind: reference
 ---
-
-# Odoo Mobile App
 
 Die offizielle App von Odo für iOS und Android-Geräte.
 

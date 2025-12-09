@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Anwesenheit
+kind: explain
 section: service
 ---
-
-# Phase Anwesenheit
 
 Tätigkeiten:
 

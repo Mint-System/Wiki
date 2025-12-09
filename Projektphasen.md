@@ -1,8 +1,6 @@
 ---
-kind:
-  - explain
+title: Projektphasen
+kind: explain
 ---
-
-# Projektphasen
 
 Projektphasen sind [[Phasen]].

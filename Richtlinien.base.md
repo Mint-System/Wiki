@@ -1,4 +1,6 @@
-# Richtlinien
+---
+title: Richtlinien
+---
 
 | file.name                              | kind      |
 | -------------------------------------- | --------- |

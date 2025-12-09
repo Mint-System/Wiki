@@ -1,11 +1,9 @@
 ---
+title: PostgreSQL Upgrade
 archive: true
-kind:
-  - howto
+kind: howto
 section: dev
 ---
-
-# PostgreSQL Upgrade
 
 These instructions are based on [docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade).
 

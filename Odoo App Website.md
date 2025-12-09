@@ -1,10 +1,8 @@
 ---
+title: Odoo App Website
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo App Website
 
 ## Themes
 

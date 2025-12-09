@@ -1,9 +1,7 @@
 ---
+title: Software Engineering
 section: service
-kind:
-  - explain
+kind: explain
 ---
-
-# Software Engineering
 
 Dienstleistung der Mint System.

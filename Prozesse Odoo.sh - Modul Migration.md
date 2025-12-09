@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo.sh - Modul Migration
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo.sh - Modul Migration
 
 Damit Sie Module für ein Odoo.sh Projekt/Repsitory migrieren können müssen Sie die folgenden Prozesse zur Vorbereitung ausführen:
 

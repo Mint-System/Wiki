@@ -1,8 +1,6 @@
 ---
+title: BINARY business
 section: contact
-kind:
-  - reference
+kind: reference
 website: https://www.binary-business.ch/
 ---
-
-# BINARY business

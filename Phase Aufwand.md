@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Phase Aufwand
+kind: explain
 section: service
 ---
-
-# Phase Aufwand
 
 Tätigkeiten:
 

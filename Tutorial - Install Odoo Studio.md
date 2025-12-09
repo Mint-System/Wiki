@@ -1,11 +1,9 @@
 ---
+title: Tutorial - Install Odoo Studio
 section: dev
 lang: en
-kind:
-  - tutorial
+kind: tutorial
 ---
-
-# Tutorial: Install Odoo Studio
 
 Install and customize a view with Odoo Studio.
 

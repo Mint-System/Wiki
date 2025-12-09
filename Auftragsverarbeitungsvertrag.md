@@ -1,12 +1,8 @@
 ---
+title: Auftragsverarbeitungsvertrag
 section: template
-kind:
-  - reference
+kind: reference
 ---
-
-Quelle: [Schärer Rechtsanwälte](https://www.5001.ch/)
-
-# Auftragsverarbeitungsvertrag
 
 zwischen
 

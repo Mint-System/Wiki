@@ -1,8 +1,7 @@
 ---
+title: Marketing
 kind: reference
 ---
-
-# Marketing
 
 Bereiche:
 

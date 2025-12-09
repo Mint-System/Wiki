@@ -1,8 +1,8 @@
 ---
+title: Visual Studio Code
 kind: reference
 website: https://code.visualstudio.com/
 ---
-# Visual Studio Code
 
 ## Plugins
 

@@ -1,8 +1,6 @@
 ---
-
+title: Ubuntu
 ---
-
-# Ubuntu
 
 ## Lifecycle
 

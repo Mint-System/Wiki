@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Softwareentwicklung - Git-Repository
+kind: howto
 section: process
 ---
-
-# Prozesse Softwareentwicklung - Git-Repository
 
 ## Profil einrichten
 

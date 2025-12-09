@@ -1,11 +1,9 @@
 ---
-kind:
-  - howto
+title: Hetzner Troubleshooting
+kind: howto
 lang: en
 section: vendor
 ---
-
-# Hetzner Troubleshooting
 
 ## Cannot connect after server rebuild
 

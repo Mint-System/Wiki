@@ -1,11 +1,9 @@
 ---
+title: Unsere fast neue Website
 draft: false
-kind:
-  - explain
+kind: explain
 section: blog
 ---
-
-# Unsere fast neue Website
 
 "Fast" im Sinne von Schnell.
 

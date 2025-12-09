@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Kundendienst
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Kundendienst
 
 Installation Modul Kundendienst `helpdesk`.
 

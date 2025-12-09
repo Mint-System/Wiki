@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Richtlinie - Obsidian
+kind: explain
 section: policy
 ---
-
-# Richtlinie - Obsidian
 
 ## Obsidian Einstellungen
 

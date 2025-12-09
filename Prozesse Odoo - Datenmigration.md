@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - Datenmigration
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - Datenmigration
 
 ## Initialisierung
 

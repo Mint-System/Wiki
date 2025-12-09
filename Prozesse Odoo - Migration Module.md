@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - Migration Module
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - Migration Module
 
 ## Submodule-Branch initialisieren
 

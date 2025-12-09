@@ -1,10 +1,8 @@
 ---
+title: Odoo Schulung Finanzen
 section: training
-kind:
-  - tutorial
+kind: tutorial
 ---
-
-# Odoo Schulung Finanzen
 
 Das sind einfache Schlungsunterlagen für die Odoo Finanzen-App.
 

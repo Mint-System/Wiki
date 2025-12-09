@@ -1,9 +1,8 @@
 ---
+title: Odoo Python Scripts
 kind: howto
 section: dev
 ---
-
-# Odoo Python Scripts
 
 ## Basics
 

@@ -1,10 +1,8 @@
 ---
-kind:
-  - explain
+title: Odoo App Fertigung
+kind: explain
 section: communication
 ---
-
-# Odoo App Fertigung
 
 Eine der Stärken von Odoo ist die Fertigung.
 

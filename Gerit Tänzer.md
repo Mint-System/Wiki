@@ -1,10 +1,8 @@
 ---
-kind:
-  - reference
+title: Gerit Tänzer
+kind: reference
 section: organisation
 ---
-
-# Gerit Tänzer
 
 Benutzername: `gerittaenzer`\
 Alias: `get`\

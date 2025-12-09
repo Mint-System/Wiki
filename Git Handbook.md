@@ -1,11 +1,9 @@
 ---
-kind:
-  - howto
+title: Git Handbook
+kind: howto
 lang: en
 section: handbook
 ---
-
-# Git Handbook
 
 [[TOC]]
 

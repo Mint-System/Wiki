@@ -1,10 +1,8 @@
 ---
+title: Odoo App Verkauf
 section: communication
-kind:
-  - explain
+kind: explain
 ---
-
-# Odoo App Verkauf
 
 ## Verkaufsgruppen und Baugruppen
 

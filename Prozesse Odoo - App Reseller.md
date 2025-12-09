@@ -1,10 +1,8 @@
 ---
-kind:
-  - howto
+title: Prozesse Odoo - App Reseller
+kind: howto
 section: process
 ---
-
-# Prozesse Odoo - App Reseller
 
 Installation Modul Reseller Comissions `partner_comission`.
 

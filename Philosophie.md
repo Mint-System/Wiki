@@ -1,8 +1,7 @@
 ---
+title: Philosophie
 kind:
 ---
-
-# Philosophie
 
 Wir sind:
 

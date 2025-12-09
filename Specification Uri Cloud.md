@@ -1,12 +1,10 @@
 ---
+title: Specification Uri Cloud
 lang: en
 draft: true
-kind:
-  - explain
+kind: explain
 section: specification
 ---
-
-# Specification Uri Cloud
 
 The Uri Cloud is communication to the [[VSHN Central Control Plane]] using the [[Open Service Broker API]].
 

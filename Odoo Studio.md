@@ -1,8 +1,6 @@
 ---
-
+title: Odoo Studio
 ---
-
-# Odoo Studio
 
 ## HowTos
 

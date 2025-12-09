@@ -1,9 +1,7 @@
 ---
-kind:
-  - howto
+title: Restic - Wiederherstellung von Backups
+kind: howto
 ---
-
-# Restic - Wiederherstellung von Backups
 
 In diesem Dokument wird das Vorgehen zur Wiederherstellung aus einem Backup beschrieben.
 

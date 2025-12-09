@@ -1,12 +1,8 @@
 ---
-kind:
-  - explain
+title: Odoo Hosting - Mint Cloud
+kind: explain
 section: product
 ---
-
-![[Banner Odoo Hosting Mint Cloud.jpg]]
-
-# Odoo Hosting - Mint Cloud
 
 Mint System hostet die Odoo auf dem Server eines ausgewählten [[Hosting Provider]].
 
