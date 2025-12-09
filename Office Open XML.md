@@ -1,6 +1,5 @@
 ---
-tags:
-  - Definition
+
 ---
 
 # Office Open XML

@@ -1,6 +1,6 @@
-Read the `AGENTS.md` and `task` to get an understanding of the project. The task is to update the `build.js` file so that the header of the not is built from the frontmatter data.
+Read the `AGENTS.md` and `task` to get an understanding of the project. The task is to update the `build.js` file so that the header of the entries is built from the frontmatter data.
 
-The `function convert(content, file)` converts the mardown files outputs them in the `src` folder.
+The `function convert(content, file)` converts the mardown files and outputs them in the `src` folder.
 
 Here is an example of the `./CrowdSec.md` file.
 
@@ -52,9 +52,9 @@ This page is maintained by [Mint System GmbH](https://www.mint-system.ch)
 </footer>
 ```
 
-The frontmatter fields are `title`, `website` and `repository`.
+The processed frontmatter fields are `title`, `website` and `repository`.
 
-If there is `website` and `repository` in the frontmatter the output looks like this:
+If there is a `website` and a `repository` field in the frontmatter, the output looks like this:
 
 ```markdown
 # CrowdSec

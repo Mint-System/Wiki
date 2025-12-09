@@ -1,6 +1,4 @@
 ---
-tags:
-  - Website
 kind:
   - explain
 lang: en

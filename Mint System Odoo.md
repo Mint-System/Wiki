@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-- Asset
 website: https://odoo.build/image/
 ---
 # Mint System Odoo

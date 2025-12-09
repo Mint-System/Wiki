@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: dev
-tags:
-- Definition
 website: https://www.pgadmin.org/
 ---
 # pgAdmin

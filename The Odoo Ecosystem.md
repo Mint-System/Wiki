@@ -1,6 +1,5 @@
 ---
-tags:
-  - Slide
+
 ---
 
 ## Presentation - The Odoo Ecosystem

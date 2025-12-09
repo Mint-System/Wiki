@@ -1,6 +1,4 @@
 ---
-tags:
-  - HowTo
 section: product
 kind:
   - explain

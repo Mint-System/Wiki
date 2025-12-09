@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://odoo-community.org/shop
 ---
 # Odoo Community Apps

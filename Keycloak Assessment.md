@@ -1,6 +1,5 @@
 ---
-tags:
-  - Definition
+
 ---
 
 # Keycloak Assessment

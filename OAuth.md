@@ -1,7 +1,5 @@
 ---
 kind: explain
-tags:
-- Definition
 website: https://oauth.net/2/
 ---
 # OAuth

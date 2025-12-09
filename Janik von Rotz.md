@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 responsibilities:
   - Infrastruktur
   - Development

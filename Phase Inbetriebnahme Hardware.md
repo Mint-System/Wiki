@@ -1,12 +1,10 @@
 ---
-tags:
-  - Phasen
 kind:
   - explain
 section: service
 ---
 
-# Phase Odoo Initialisierung
+# Phase Inbetriebnahme Hardware
 
 Tätigkeiten:
 

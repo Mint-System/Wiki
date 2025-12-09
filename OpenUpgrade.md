@@ -1,6 +1,5 @@
 ---
-tags:
-  - Alias
+
 ---
 
 # OpenUpgrade

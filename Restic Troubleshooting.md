@@ -1,6 +1,4 @@
 ---
-tags:
-  - restic
 kind:
   - howto
 section: product

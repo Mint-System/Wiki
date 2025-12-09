@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: communication
-tags:
-- Definition
 website: https://nextcloud.com/talk/
 ---
 # Nextcloud App Talk

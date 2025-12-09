@@ -1,6 +1,4 @@
 ---
-tags:
-  - Prozess
 section: communication
 kind:
   - reference

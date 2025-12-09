@@ -1,6 +1,4 @@
 ---
-tags:
-  - Troubleshooting
 kind:
   - howto
 section: dev

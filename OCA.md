@@ -2,8 +2,6 @@
 kind: reference
 repository: https://github.com/OCA/management-system
 section: contact
-tags:
-- Definition
 ---
 # OCA
 

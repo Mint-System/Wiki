@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 section: tool
 kind: reference
 repository: https://github.com/doomemacs/doomemacs

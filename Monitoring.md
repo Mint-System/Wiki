@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://monitor.mint-system.ch
 ---
 # Monitoring

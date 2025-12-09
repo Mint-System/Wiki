@@ -1,6 +1,4 @@
 ---
-tags:
-  - Document
 kind: reference
 section: specification
 ---

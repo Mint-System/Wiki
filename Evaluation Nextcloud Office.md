@@ -1,6 +1,5 @@
 ---
-tags:
-  - Asset
+
 ---
 
 # Evaluation Nextcloud Office

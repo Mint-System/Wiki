@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-  - Definition
 kind:
   - reference
 ---

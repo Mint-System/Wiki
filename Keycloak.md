@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: product
-tags:
-- Definition
 website: https://www.keycloak.org/
 ---
 # Keycloak

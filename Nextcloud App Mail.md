@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: communication
-tags:
-- Definition
 website: https://apps.nextcloud.com/apps/mail
 ---
 # Nextcloud App Mail

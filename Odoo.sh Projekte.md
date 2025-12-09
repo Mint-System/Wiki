@@ -1,6 +1,5 @@
 ---
-tags:
-  - Asset
+
 ---
 
 # Odoo.sh Projekte

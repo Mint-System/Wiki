@@ -1,6 +1,4 @@
 ---
-tags:
-  - Prozess
 kind: explain
 section: methodology
 ---

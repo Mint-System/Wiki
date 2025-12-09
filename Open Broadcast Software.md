@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://obsproject.com/
 ---
 # Open Broadcast Software

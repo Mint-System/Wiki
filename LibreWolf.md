@@ -2,8 +2,6 @@
 kind: reference
 lang: en
 section: tool
-tags:
-- Website
 website: https://librewolf.net/
 ---
 # LibreWolf

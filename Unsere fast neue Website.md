@@ -1,7 +1,5 @@
 ---
 draft: false
-tags:
-  - Blog
 kind:
   - explain
 section: blog

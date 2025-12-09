@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 ref:
 kind:
   - reference

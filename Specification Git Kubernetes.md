@@ -4,8 +4,6 @@ kind: explain
 lang: en
 repository: https://github.com/Mint-System/Odoo-Apps-Connector
 section: specification
-tags:
-- Specification
 ---
 # Specification Git Kubernetes
 

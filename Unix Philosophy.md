@@ -1,6 +1,5 @@
 ---
-tags:
-  - Definition
+
 ---
 
 # Unix Philosophy

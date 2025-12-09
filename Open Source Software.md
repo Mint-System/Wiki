@@ -1,7 +1,5 @@
 ---
 kind: reference
-tags:
-- Website
 website: https://opensourcesoftware.ch
 ---
 # Open Source Software

@@ -1,6 +1,4 @@
 ---
-tags:
-- Asset
 website: https://restic.net/
 ---
 # Restic

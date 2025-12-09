@@ -1,6 +1,5 @@
 ---
-tags:
-  - Asset
+
 ---
 
 # Jenkins Hosting

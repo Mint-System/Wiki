@@ -1,6 +1,4 @@
 ---
-tags:
-  - Job
 kind:
   - explain
 section: organisation

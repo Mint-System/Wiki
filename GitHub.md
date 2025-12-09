@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: vendor
-tags:
-- Definition
 website: https://github.com/
 ---
 # GitHub

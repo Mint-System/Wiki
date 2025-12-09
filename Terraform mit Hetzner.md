@@ -1,6 +1,5 @@
 ---
-tags:
-  - HowTo
+
 ---
 
 # Terraform mit Hetzner

@@ -1,6 +1,5 @@
 ---
-tags:
-  - HowTo
+
 ---
 
 # Odoo Studio: Konvertierung zu Odoo Modul

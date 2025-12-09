@@ -1,6 +1,4 @@
 ---
-tags:
-  - HowTo
 lang: en
 kind:
   - tutorial

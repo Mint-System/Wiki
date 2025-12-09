@@ -1,8 +1,6 @@
 ---
 kind: explain
 section: product
-tags:
-- Asset
 website: https://www.odoo.com/
 ---
 # Odoo Hosting - Online

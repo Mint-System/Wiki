@@ -1,6 +1,5 @@
 ---
-tags:
-  - Asset
+
 ---
 
 ![[Banner Hosting SLA.png]]

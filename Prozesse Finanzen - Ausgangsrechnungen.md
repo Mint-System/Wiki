@@ -1,6 +1,4 @@
 ---
-tags:
-  - Prozess
 responsible: Controller
 kind:
   - howto

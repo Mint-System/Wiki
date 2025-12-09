@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 kind: tutorial
 section: methodology
 ---

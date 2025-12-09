@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-- Definition
 website: https://nixos.org/
 ---
 # Nix

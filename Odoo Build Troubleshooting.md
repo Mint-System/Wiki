@@ -1,6 +1,4 @@
 ---
-tags:
-  - Troubleshooting
 lang: en
 kind:
   - howto

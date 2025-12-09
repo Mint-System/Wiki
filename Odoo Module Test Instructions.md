@@ -1,6 +1,5 @@
 ---
-tags:
-  - HowTo
+
 ---
 
 # Odoo Module Test Instructions

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Asset
 lang: en
 section: term
 kind:

@@ -1,6 +1,5 @@
 ---
-tags:
-  - Definition
+
 ---
 
 # Odoo E-Mail Integration

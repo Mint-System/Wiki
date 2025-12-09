@@ -1,6 +1,5 @@
 ---
-tags:
-  - Definition
+
 ---
 
 # GNU GPLv3 Lizenz

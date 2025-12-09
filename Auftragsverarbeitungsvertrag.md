@@ -1,6 +1,4 @@
 ---
-tags:
-  - Asset
 section: template
 kind:
   - reference

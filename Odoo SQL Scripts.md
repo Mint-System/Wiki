@@ -1,6 +1,4 @@
 ---
-tags:
-  - Manpage
 kind: howto
 lang: en
 section: dev

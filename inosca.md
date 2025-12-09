@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 section: contact
 kind: reference
 website: https://inosca.ch/

@@ -1,8 +1,6 @@
 ---
 kind:
   - explain
-tags:
-  - Richtlinien
 section: policy
 ---
 

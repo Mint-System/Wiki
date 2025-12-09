@@ -14,7 +14,6 @@ views:
       - kind
       - section
       - lang
-      - file.tags
     sort:
       - property: file.name
         direction: ASC

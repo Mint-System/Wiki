@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 section: methodology
 kind:
   - explain

@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: contact
-tags:
-- Definition
 website: https://www.giordano.ch/
 ---
 # giordano.ch ag

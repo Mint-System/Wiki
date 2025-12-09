@@ -1,6 +1,4 @@
 ---
-tags:
-  - Website
 kind: reference
 section: dev
 website: https://copier.readthedocs.io/en/latest/

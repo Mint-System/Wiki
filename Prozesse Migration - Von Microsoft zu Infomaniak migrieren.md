@@ -1,8 +1,6 @@
 ---
 kind:
   - howto
-tags:
-  - Prozess
 section: process
 ---
 

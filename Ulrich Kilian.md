@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 responsible: Entwickler
 section: organisation
 kind:

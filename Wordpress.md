@@ -1,7 +1,5 @@
 ---
 kind: reference
-tags:
-- Definition
 website: https://wordpress.org/
 ---
 # Wordpress

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Templates
 kind:
   - reference
 section: template

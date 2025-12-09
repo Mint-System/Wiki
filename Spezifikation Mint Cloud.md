@@ -1,6 +1,4 @@
 ---
-tags:
-  - Spezifikation
 draft: true
 section: specification
 kind:

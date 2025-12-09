@@ -1,7 +1,5 @@
 ---
 section: project
-tags:
-- Asset
 website: https://www.mint-cloud.ch/
 ---
 # Mint Cloud

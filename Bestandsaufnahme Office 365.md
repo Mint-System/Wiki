@@ -1,8 +1,6 @@
 ---
 kind:
   - reference
-tags:
-  - Vorlagen
 section: template
 ---
 

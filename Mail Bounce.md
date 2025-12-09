@@ -1,6 +1,4 @@
 ---
-tags:
-  - Note
 kind: explain
 section: term
 ---

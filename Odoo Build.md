@@ -1,6 +1,4 @@
 ---
-tags:
-  - Website
 lang: en
 kind: reference
 section: dev

@@ -1,7 +1,4 @@
 ---
-tags:
-  - Meta
-  - Alias
 kind:
   - reference
 section: meta

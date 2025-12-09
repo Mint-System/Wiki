@@ -1,6 +1,4 @@
 ---
-tags:
-  - Unternehmensentwicklung
 kind: explain
 ---
 

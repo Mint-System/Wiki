@@ -1,6 +1,5 @@
 ---
-tags:
-  - Definition
+
 ---
 
 # End-of-life

@@ -1,6 +1,4 @@
 ---
-tags:
-  - handbook
 lang: en
 kind:
   - howto

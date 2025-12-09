@@ -3,8 +3,6 @@ kind: reference
 lang: en
 repository: https://github.com/Mint-System/Website
 section: communication
-tags:
-- Definition
 ---
 # Mint System Website
 

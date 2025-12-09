@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: term
-tags:
-- Definition
 website: https://git-scm.com/
 ---
 # Git

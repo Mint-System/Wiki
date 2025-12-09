@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: tool
-tags:
-- Definition
 website: https://app.diagrams.net/
 ---
 # diagrams.net

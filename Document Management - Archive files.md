@@ -1,6 +1,5 @@
 ---
-tags:
-  - HowTo
+
 ---
 
 # Document Management - Archive files

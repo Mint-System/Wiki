@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 website: https://www.odoo.com
 repository: https://github.com/odoo/enterprise
 ---

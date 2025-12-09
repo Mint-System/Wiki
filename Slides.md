@@ -1,6 +1,4 @@
 ---
-tags:
-  - Slide
 kind:
   - reference
 section: meta

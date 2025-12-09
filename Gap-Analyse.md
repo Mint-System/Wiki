@@ -1,6 +1,5 @@
 ---
-tags:
-  - Prozess
+
 ---
 
 # Gap-Analyse

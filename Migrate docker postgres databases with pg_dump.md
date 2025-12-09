@@ -1,6 +1,4 @@
 ---
-tags:
-  - HowTo
 archive: true
 kind:
   - howto

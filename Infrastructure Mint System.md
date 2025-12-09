@@ -1,6 +1,4 @@
 ---
-tags:
-  - Slide
 section: infrastructure
 kind:
   - explain

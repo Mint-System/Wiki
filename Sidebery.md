@@ -1,6 +1,4 @@
 ---
-tags:
-  - Website
 kind: reference
 repository: https://github.com/mbnuqw/sidebery
 ---

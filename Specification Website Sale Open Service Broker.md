@@ -3,8 +3,6 @@ deprecated: true
 kind: explain
 lang: en
 section: specification
-tags:
-  - Specification
 ---
 # Specification Website Sale Open Service Broker
 

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Slide
 kind: explain
 section: blog
 ---

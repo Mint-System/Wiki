@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: communication
-tags:
-- Definition
 website: https://apps.odoo.com/
 ---
 # Odoo Apps

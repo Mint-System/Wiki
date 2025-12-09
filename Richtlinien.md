@@ -1,6 +1,4 @@
 ---
-tags:
-  - Richtlinien
 kind: reference
 section: policy
 ---

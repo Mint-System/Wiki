@@ -1,7 +1,5 @@
 ---
 section: tool
-tags:
-- Definition
 website: https://vscodium.com/
 ---
 # VSCodium

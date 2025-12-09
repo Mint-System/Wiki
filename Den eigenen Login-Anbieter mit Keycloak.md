@@ -1,6 +1,4 @@
 ---
-tags:
-  - Blog
 kind:
   - explain
 draft: false

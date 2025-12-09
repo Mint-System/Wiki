@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://obsidian.md/
 ---
 # Obsidian

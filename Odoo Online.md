@@ -1,6 +1,4 @@
 ---
-tags:
-- Asset
 website: https://www.odoo.com/
 ---
 # Odoo Online

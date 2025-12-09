@@ -1,7 +1,4 @@
 ---
-tags:
-  - Asset
-  - Job
 kind:
   - explain
 section: organisation

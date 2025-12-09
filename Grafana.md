@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://grafana.com
 ---
 # Grafana

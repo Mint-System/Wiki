@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: product
-tags:
-- Website
 website: https://nextcloud.com/
 ---
 # Nextcloud

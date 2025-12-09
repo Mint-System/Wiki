@@ -1,8 +1,6 @@
 ---
 kind: explain
 section: communication
-tags:
-- Definition
 website: https://odoo-connector.com/
 ---
 # Odoo Connector

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 repository: https://github.com/Mint-System/Ansible-Playbooks/tree/master/roles/odoo-scripts
 ---
 

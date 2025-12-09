@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 section: organisation
 kind:
   - reference

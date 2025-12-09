@@ -1,6 +1,5 @@
 ---
-tags:
-  - HowTo
+
 ---
 
 # OpenVPN Cheatsheet

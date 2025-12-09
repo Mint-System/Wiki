@@ -1,6 +1,5 @@
 ---
-tags:
-  - Slide
+
 ---
 
 ## Odoo Documents / Nextcloud

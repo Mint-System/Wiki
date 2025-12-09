@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-- Definition
 website: https://oca.github.io/OpenUpgrade/
 ---
 # Odoo Community Upgrade

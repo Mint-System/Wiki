@@ -1,7 +1,5 @@
 ---
 kind: reference
-tags:
-- Website
 website: https://www.odoo-wiki.org
 ---
 # Odoo Wiki

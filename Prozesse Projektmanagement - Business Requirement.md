@@ -1,6 +1,4 @@
 ---
-tags:
-  - Prozess
 responsible: Projektleiter
 kind:
   - howto

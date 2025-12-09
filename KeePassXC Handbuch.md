@@ -1,8 +1,6 @@
 ---
 kind:
   - howto
-tags:
-  - Handbuch
 section: handbook
 ---
 

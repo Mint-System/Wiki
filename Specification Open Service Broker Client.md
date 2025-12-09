@@ -3,8 +3,6 @@ draft: true
 kind: explain
 lang: en
 section: specification
-tags:
-  - Specification
 ---
 # Specification Open Service Broker Client
 

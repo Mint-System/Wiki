@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: contact
-tags:
-- Website
 website: https://digital-cluster-uri.ch/
 ---
 # Digital Cluster Uri

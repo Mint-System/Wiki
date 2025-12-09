@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-  - Richtlinien
 kind:
   - explain
 section: policy

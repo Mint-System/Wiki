@@ -2,8 +2,6 @@
 kind: reference
 lang: en
 section: dev
-tags:
-- Website
 website: https://www.postgresql.org/
 ---
 # PostgreSQL

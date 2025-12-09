@@ -1,6 +1,5 @@
 ---
-tags:
-  - Asset
+
 ---
 
 # Proof of Concept

@@ -1,8 +1,6 @@
 ---
 kind: howto
 section: infrastructure
-tags:
-- Website
 website: https://www.mailgun.com/
 ---
 # Mailgun

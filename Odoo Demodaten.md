@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 repository: https://github.com/Mint-System/Odoo-Demodaten
 ---
 

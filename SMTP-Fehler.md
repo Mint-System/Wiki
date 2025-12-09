@@ -1,6 +1,5 @@
 ---
-tags:
-  - Asset
+
 ---
 
 # SMTP-Fehler

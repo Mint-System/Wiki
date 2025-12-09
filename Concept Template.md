@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-  - Templates
 section: template
 kind:
   - reference

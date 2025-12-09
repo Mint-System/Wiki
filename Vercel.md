@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://vercel.com/mint-system
 ---
 # Vercel

@@ -1,6 +1,4 @@
 ---
-tags:
-  - HowTo
 section: communication
 lang: en
 kind:

@@ -1,6 +1,5 @@
 ---
-tags:
-  - Asset
+
 ---
 
 # Managed Server Konfiguration

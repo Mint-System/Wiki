@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 kind:
   - howto
 lang: en

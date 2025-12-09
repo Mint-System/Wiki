@@ -1,6 +1,5 @@
 ---
-tags:
-  - Ideation
+
 ---
 
 # Odoo Nextcloud Filestore

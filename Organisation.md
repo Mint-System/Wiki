@@ -1,6 +1,5 @@
 ---
-tags:
-  - Organisation
+
 ---
 
 # Organisation

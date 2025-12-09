@@ -1,6 +1,4 @@
 ---
-tags:
-  - Asset
 section: blog
 kind:
   - reference

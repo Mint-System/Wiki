@@ -1,6 +1,4 @@
 ---
-tags:
-  - Job
 section: organisation
 kind:
   - reference

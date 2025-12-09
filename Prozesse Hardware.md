@@ -1,6 +1,4 @@
 ---
-tags:
-  - Prozess
 responsible: Kurt Gisler
 kind:
   - reference

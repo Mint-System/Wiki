@@ -1,6 +1,4 @@
 ---
-tags:
-  - Website
 kind: reference
 section: contact
 website: https://odoo-community.org/

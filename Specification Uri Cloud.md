@@ -1,6 +1,4 @@
 ---
-tags:
-  - Specification
 lang: en
 draft: true
 kind:

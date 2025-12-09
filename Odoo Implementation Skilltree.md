@@ -1,6 +1,5 @@
 ---
-tags:
-  - explain
+
 ---
 
 # Odoo Implementation Skilltree

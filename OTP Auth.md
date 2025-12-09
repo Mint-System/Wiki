@@ -1,7 +1,5 @@
 ---
 kind: reference
-tags:
-- Website
 website: https://apps.apple.com/ch/app/otp-auth/id659877384
 ---
 # OTP Auth

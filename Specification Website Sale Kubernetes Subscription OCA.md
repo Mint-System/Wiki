@@ -4,8 +4,6 @@ kind: explain
 lang: en
 repository: https://github.com/Mint-System/Odoo-Apps-Vertical-SaaS
 section: specification
-tags:
-- Specification
 ---
 # Specification Website Sale Kubernetes Subscription OCA
 

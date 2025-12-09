@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: tool
-tags:
-- Website
 website: https://mermaid.js.org/
 ---
 # Mermaid.js

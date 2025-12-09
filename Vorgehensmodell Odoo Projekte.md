@@ -1,6 +1,4 @@
 ---
-tags:
-  - Methodik
 kind:
   - explain
 section: methodology

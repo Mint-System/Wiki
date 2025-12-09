@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-  - HowTo
 section: dev
 kind:
   - explain

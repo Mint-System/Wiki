@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://openvpn.net/download-open-vpn/
 ---
 # OpenVPN

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Phasen
 kind:
   - explain
 section: term

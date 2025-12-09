@@ -1,6 +1,4 @@
 ---
-tags:
-- Asset
 website: https://chat.mint-system.ch
 ---
 # Matrix Server

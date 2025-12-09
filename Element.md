@@ -1,6 +1,4 @@
 ---
-tags:
-- HowTo
 website: https://element.io/
 ---
 # Element

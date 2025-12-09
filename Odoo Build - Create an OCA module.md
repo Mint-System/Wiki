@@ -1,6 +1,4 @@
 ---
-tags:
-  - Odoo
 kind: tutorial
 draft: true
 section: dev

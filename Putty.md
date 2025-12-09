@@ -2,8 +2,6 @@
 kind: reference
 lang: en
 section: tool
-tags:
-- Definition
 website: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 ---
 # PuTTY

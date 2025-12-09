@@ -1,6 +1,4 @@
 ---
-tags:
-  - HowTo
 kind:
   - tutorial
 section: dev

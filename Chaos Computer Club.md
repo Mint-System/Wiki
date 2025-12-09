@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 kind: reference
 section: contact
 website: https://www.ccc.de/

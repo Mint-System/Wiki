@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-  - Note
 ---
 
 # Odoo.sh Upgrade

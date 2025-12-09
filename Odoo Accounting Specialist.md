@@ -2,8 +2,6 @@
 section: organisation
 kind:
   - explain
-tags:
-  - Job
 ---
 # Odoo Accounting Specialist
 

@@ -1,6 +1,4 @@
 ---
-tags:
-  - HowTo
 kind:
   - reference
 section: dev

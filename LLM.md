@@ -1,9 +1,6 @@
 ---
 kind: explain
 section: term
-tags:
-- Definition
-- Tools
 website: https://datasette.io/tools/llm
 ---
 # LLM

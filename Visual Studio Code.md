@@ -1,7 +1,5 @@
 ---
 kind: reference
-tags:
-- Website
 website: https://code.visualstudio.com/
 ---
 # Visual Studio Code

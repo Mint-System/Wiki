@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 lang: en
 kind:
   - reference

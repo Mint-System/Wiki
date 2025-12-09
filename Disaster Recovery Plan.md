@@ -1,6 +1,4 @@
 ---
-tags:
-  - Asset
 section: term
 kind:
   - explain

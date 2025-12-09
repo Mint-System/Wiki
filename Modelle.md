@@ -1,6 +1,4 @@
 ---
-tags:
-  - Meta
 kind: explain
 ---
 

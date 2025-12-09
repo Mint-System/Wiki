@@ -1,6 +1,4 @@
 ---
-tags:
-  - Blog
 kind:
   - explain
 section: blog

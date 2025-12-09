@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vorlagen
 section: methodology
 kind:
   - reference

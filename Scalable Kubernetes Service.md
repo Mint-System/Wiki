@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://www.exoscale.com/sks/
 ---
 # Scalable Kubernetes Service

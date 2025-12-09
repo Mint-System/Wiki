@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 section: infrastructure
 kind:
   - explain

@@ -1,6 +1,4 @@
 ---
-tags:
-- Definition
 website: https://erp.mint-system.ch
 ---
 # ERP Mint System

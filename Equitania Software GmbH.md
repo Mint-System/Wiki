@@ -1,8 +1,6 @@
 ---
 kind: reference
 section: contact
-tags:
-- Definition
 website: https://www.equitania.de
 ---
 # Equitania Software GmbH

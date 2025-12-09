@@ -1,7 +1,5 @@
 ---
 lang: en
-tags:
-- Definition
 website: https://k3s.io/
 ---
 # k3s

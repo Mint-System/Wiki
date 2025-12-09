@@ -1,6 +1,5 @@
 ---
-tags:
-  - Definition
+
 ---
 
 # Problemanalyse Support

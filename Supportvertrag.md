@@ -1,6 +1,5 @@
 ---
-tags:
-  - Asset
+
 ---
 
 ![[support-banner.jpg]]

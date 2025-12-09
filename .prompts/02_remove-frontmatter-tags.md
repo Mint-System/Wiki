@@ -4,13 +4,15 @@ Here is a simple example for `bpmn.io.md`:
 
 ```markdown
 ---
-tags: 
+tags:
+  - Definition
 section: tool
-kind: 
-website: "https://bpmn.io/"
-title: bpmn.io
+kind:
+  - reference
+website: https://bpmn.io/
 ---
 
+# bpmn.io
 ```
 
 After the change:
@@ -18,9 +20,10 @@ After the change:
 ```markdown
 ---
 section: tool
-kind: 
-website: "https://bpmn.io/"
-title: bpmn.io
+kind:
+  - reference
+website: https://bpmn.io/
 ---
 
+# bpmn.io
 ```

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Definition
 section: dev
 kind:
   - reference
