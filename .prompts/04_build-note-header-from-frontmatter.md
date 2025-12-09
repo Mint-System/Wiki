@@ -59,7 +59,7 @@ If there is a `website` and a `repository` field in the frontmatter, the output 
 ```markdown
 # CrowdSec
 
-Website: <https://crowdsec.net/>
+Website: <https://crowdsec.net/>\
 Respoitory: <https://github.com/crowdsec>
 ...
 ```

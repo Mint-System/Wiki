@@ -15,3 +15,7 @@ This project uses the <https://taskfile.build/> standard.
 The `./task` file is a bash script that provides all functions necessary to work with this project.
 
 **Execute**: Always try to run a command with the `./task` file script.
+
+### Helper scripts
+
+If you create helper scripts to complete the task, ensure that the helper scripts are removed once the task has been completed.

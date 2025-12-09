@@ -1,5 +1,7 @@
 
-Read the `AGENTS.md` to get an understanding of the project. The task is to move the first heading which is the name of the file and the title of the document to the frontmatter/metadata. Here is an example:
+Read the `AGENTS.md` to get an understanding of the project.
+
+The task is to move the first heading which is the name of the file and the title of the document to the frontmatter/metadata. Here is an example:
 
 The entry `CrowdSec.md` looks like this:
 
@@ -42,6 +44,6 @@ Diese Komponente kommuniziert mit der CrowdSec Security Engine und konfiguriert 
 
 ```
 
-Keep track of all files that start with a `^# Heading`.
+Keep track of all files that start with a `^# Heading`. Simpl prepend the `title` field to the frontmatter.
 
-If `website, tags, repository, section or kind` is not given. Do not add it.
+Ensure that existing fields such as `kind`, `section`, `website` and `repository` are preserved.
