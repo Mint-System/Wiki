@@ -3,17 +3,7 @@ title: Prozesse Infrastruktur - Passwörter verwalten
 kind: howto
 section: process
 ---
-
-## Passwort-Speicher anlegen
-
-Arbeitsschritte:
-
-- [[KeePassXC]] öffnen und Datenbank erstellen
-- Keyfile generieren und auf Nextcloud abspeichern
-- Passwort festlegen und in Master-Keystore speichern
-- Datenbank auf [[Cloud Mint System]] speichern
-
-## Passwortmanager einrichten
+## Passwort-Datenbank öffnen
 
 Arbeitsschritte:
 
@@ -27,6 +17,16 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- Die Mint System Passwort-Datei öffnen
+- Eien Mint System Passwort-Datenbank öffnen
 - Ein neue Eintrag gemäss [[Richtlinie - Passwortmanager]] erstellen
 - Speichern und Datenbank synchronisieren
+
+## Neue Passwort-Datenbank anlegen
+
+Arbeitsschritte:
+
+- [[KeePassXC]] öffnen und Datenbank erstellen
+- Keyfile generieren und auf Nextcloud abspeichern
+- Passwort festlegen und in Master-Keystore speichern
+- Datenbank auf [[Cloud Mint System]] speichern
+
