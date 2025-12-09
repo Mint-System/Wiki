@@ -14,7 +14,6 @@ Arbeitsschritte:
 
 - Wählen Sie das Odoo-Projekt under _Projekt > Konfiguration_ aus.
 - Wählen Sie _Aktion > Archiv_
-
 * In der Nextcloud-Ablage verschieben Sie die Projekt-Ordner nach _Archiviert_
 
 ## Referenz entfernen
@@ -30,7 +29,7 @@ Arbeitsschritte:
 Arbeitsschritte:
 
 - In Ansicht *Alle Aufgaben* die Spalte *Erledigt* aufklappen
-- Aktion *Alle archivieren* ausführen
+- Aktion *Alle archivieren* ausführen (mehrmals ausführen)
 - In Listenansicht wechseln
 - Filtern nach Stufe *Feedaback* und Auswahl Filter *Stillstand für 30 Tage+*
 - Alle Aufgaben markieren und in Stufe *Erledigt* verschieben
