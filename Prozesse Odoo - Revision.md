@@ -21,7 +21,7 @@ while IFS= read -r version; do
     [[ -z "$version" ]] && continue
     echo "Create revision: $version.$revision"
     task checkout "$version"
-    task create "$version.$revision"
+    task create-revision "$version.$revision"
     git add --all
     task commit-and-push-revision
 done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
