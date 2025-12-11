@@ -12,17 +12,17 @@ Wir unterscheiden zwischen interner und externer Kommunikation.
 
 Für die interne Kommunikation verwenden wir den Odoo Dialog und die folgenden Channels:
 
-| Channel        | Inhalte                           |
-| -------------- | --------------------------------- |
-| Akquise        | Neue Verkaufschancen              |
-| Allgemein      | News für Alle                     |
-| Entwicklung    | Inputs zur Softwareentwicklung    |
-| Finanzen       | Updates für die Buchhaltung       |
-| Infrastruktur  | Status-Updates Infrastruktur      |
-| Produkte       | Diskussion zu Produkten           |
-| Projekte       | Diskussion zu laufenden Projekten |
-| Know-how       | Fachliche Inputs                  |
-| Administrators | Nur für System Administratoren    |
+| Channel            | Inhalte                           |
+| ------------------ | --------------------------------- |
+| Administrators     | Nur für System Administratoren    |
+| Akquise            | Neue Verkaufschancen              |
+| Allgemein          | News für Alle                     |
+| Finanzen           | Updates für die Buchhaltung       |
+| Infrastruktur      | Status-Updates Infrastruktur      |
+| Know-how           | Fachliche Inputs                  |
+| Projekte           | Diskussion zu laufenden Projekten |
+| Softareentwicklung | Inputs zur Softwareentwicklung    |
+| Support            | Interner Support                  |
 
 Für die externe Kommunikation haben wir eine Matrix-Instanz.
 

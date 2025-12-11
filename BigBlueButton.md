@@ -2,6 +2,7 @@
 title: BigBlueButton
 section: product
 kind: howto
+website: https://bigbluebutton.org/
 ---
 
 BigBlueButton ist eine zuverlässige und umfangreiche Videokonferenzlösung.
