@@ -15,9 +15,15 @@ Arbeitsschritte:
 - Neue Revision in Odoo Build erstellen
 
 ```bash
-task checkout 18.0
-task create-revision 18.0.20251121
-task commit-and-push-revision
+revision="20251121"
+
+versions=$(task list-versions | sed '/13.0/d')
+for version in "${versions[@]}"; do
+    git checkout "$version"
+    git checkout -b "$version.$revision" 
+    git add --all
+    task commit-and-push-revision
+done
 ```
 
 - Dokumentationen mit Odoo Revisionen aktualisieren
