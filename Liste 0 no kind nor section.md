@@ -8,7 +8,7 @@ section: bases
 | file.name | kind | section | lang |
 | --- | --- | --- | --- |
 | [[Git Forks]] | tutorial |  |  |
-| [[Collabora]] | reference |  |  |
+| [[Collabora Online]] | reference |  |  |
 | [[Corporate Design]] | reference |  |  |
 | [[Demoumgebungen]] | reference |  |  |
 | [[Dokumentation]] | reference |  |  |

@@ -1,6 +1,7 @@
 ---
 title: Testumgebungen
 kind: reference
+section: communication
 ---
 
-Siblings: [[Produktive Umgebungen]], [[Demoumgebungen]]
+Weiterführende Links: [[Produktive Umgebungen]], [[Demoumgebungen]]

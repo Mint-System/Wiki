@@ -1,11 +1,12 @@
 ---
 title: Demoumgebungen
 kind: reference
+section: communication
 ---
 
 Demoumgebungen der Mint System.
 
-Siblings: [[Produktive Umgebungen]], [[Testumgebungen]]
+Weiterführende Links: [[Produktive Umgebungen]], [[Testumgebungen]]
 
 ## Odoo
 

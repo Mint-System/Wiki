@@ -11,3 +11,4 @@ views:
     sort: []
     columnSize:
       file.name: 610
+      note.kind: 416

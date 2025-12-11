@@ -8,5 +8,10 @@ section: process
 
 Arbeitsschritte:
 
-- Root-Folder in Terminal öffnen
-- Das Skript [[Document Management - Archive files]] ausführen
+- Nextcloud Root-Folder in Terminal öffnen
+
+```bash
+cd ~/cloud.mint-system.ch/Mint\ System
+```
+
+- Den Befehl `move-archived-files` ausführen

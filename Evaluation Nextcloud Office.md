@@ -2,7 +2,7 @@
 title: Evaluation Nextcloud Office
 ---
 
-Which one is better [[Collabora]] or [[OnlyOffice]]?
+Which one is better [[Collabora Online]] or [[OnlyOffice]]?
 
 ## Collabora
 

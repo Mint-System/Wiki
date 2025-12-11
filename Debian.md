@@ -1,5 +1,8 @@
 ---
 title: Debian
+kind:
+  - reference
+section: vendor
 ---
 
 ## Lifecycle
