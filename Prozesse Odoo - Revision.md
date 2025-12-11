@@ -17,13 +17,14 @@ Arbeitsschritte:
 ```bash
 revision="20251121"
 
-versions=$(task list-versions | sed '/13.0/d')
-for version in "${versions[@]}"; do
-    git checkout "$version"
-    git checkout -b "$version.$revision" 
+while IFS= read -r version; do
+    [[ -z "$version" ]] && continue
+    echo "Create revision: $version.$revision"
+    task checkout "$version"
+    task create "$version.$revision"
     git add --all
     task commit-and-push-revision
-done
+done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 ```
 
 - Dokumentationen mit Odoo Revisionen aktualisieren
