@@ -1,0 +1,5 @@
+---
+title: "{{fromTitle}}"
+section:
+kind:
+---
