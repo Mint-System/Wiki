@@ -24,7 +24,7 @@ Projektleitung gemäss Mint System "Vorgehensmodell Softwareentwicklung"
 
 Projektleitung gemäss Mint System "Vorgehensmodell Hostingprojekte"
 
-Preis: 180 CHF pro Stunde
+Preis: 190 CHF pro Stunde
 
 ## Anforderungsanalyse
 
