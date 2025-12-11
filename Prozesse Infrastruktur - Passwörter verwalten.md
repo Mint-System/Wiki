@@ -29,4 +29,3 @@ Arbeitsschritte:
 - Keyfile generieren und auf Nextcloud abspeichern
 - Passwort festlegen und in Master-Keystore speichern
 - Datenbank auf [[Cloud Mint System]] speichern
-
