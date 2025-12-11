@@ -7,5 +7,5 @@ section: process
 
 Dokumentation der Support Prozesse.
 
-- [[Prozesse Support - Ticket]]
+- [[Prozesse Support - Tickets veralten]]
 - [[Prozesse Support - Benachrichtigungen]]

@@ -143,7 +143,7 @@ title: Prozesse
 | [[Prozesse Softwareentwicklung - Technische Spezifikation]]    |           | Prozess |
 | [[Prozesse Softwareentwicklung]]                               |           | Prozess |
 | [[Prozesse Support - Benachrichtigungen]]                      |           | Prozess |
-| [[Prozesse Support - Ticket]]                                  |           | Prozess |
+| [[Prozesse Support - Tickets veralten]]                                  |           | Prozess |
 | [[Prozesse Support]]                                           |           | Prozess |
 | [[Prozesse Wiki - Mitarbeit]]                                  |           | Prozess |
 | [[Prozesse Wiki]]                                              |           | Prozess |

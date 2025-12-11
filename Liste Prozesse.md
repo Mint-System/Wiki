@@ -150,7 +150,7 @@ section: bases
 | [[Prozesse Softwareentwicklung - Technische Spezifikation]] | howto | process |
 | [[Prozesse Softwareentwicklung]] | reference | process |
 | [[Prozesse Support - Benachrichtigungen]] | howto | process |
-| [[Prozesse Support - Ticket]] | howto | process |
+| [[Prozesse Support - Tickets veralten]] | howto | process |
 | [[Prozesse Support]] | reference | process |
 | [[Prozesse Wiki - Mitarbeit]] | howto | process |
 | [[Prozesse Wiki]] | reference | process |
