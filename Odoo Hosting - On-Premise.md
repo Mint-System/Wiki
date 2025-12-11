@@ -42,6 +42,7 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 * init7.net
 * quad9.net
 * gcr.io
+* infomaniak.com
 
 ### Integration
 
