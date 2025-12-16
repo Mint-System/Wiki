@@ -16,9 +16,7 @@ Die folgenden Aspekte sind für as Testing "out-of-scope":
 
 Öffnen Testumgebung: https://upgrade.example.com/
 
-### Angebot erstellen
-
-Prüfschritte:
-
-- Öffnen App _Verkauf_
-- Erstellen neues Angebot
+| Bereich       | Titel                | Prüfschritte                                                                                                | Status |
+| ------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- | ------ |
+| Verkauf       | Angebot erstellen    | - Öffnen App _Verkauf_<br>- Erstellen neues Angebot                                                         | 🟩     |
+| Zeiterfassung | Projektzeit erfassen | - Öffnen App *Zeiterfassung*<br>- Anzeigen Listenansicht<br>- Erfassen Eintrag mit Verkaufsauftragsposition | 🟥     |
