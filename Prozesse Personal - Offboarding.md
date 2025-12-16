@@ -27,20 +27,17 @@ Wir danken für die Kooperation.
 Das Mint System Team
 ```
 
-## Projektmanagement
-
-### 
-
 ## Technisch
 
 ### Logins Mint System deaktivieren
 
 Arbeitsschritte:
 
-- Mitarbeiter-Eintrag in Wiki entfernen
-- E-Mail-Account deaktivieren
+- Mitarbeiter-Eintrag in Wiki auf Archiviert festlegen
+- E-Mail-Account löschen
 - Matrix-Benutzer deaktivieren
 - Keycloak-Benutzer deaktivieren
+- Nextcloud-Benutzer deaktivieren
 - Meldung Terminierung Benutzer-Accounts an private Mail-Adresse
 
 ### Zugriff entfernen
