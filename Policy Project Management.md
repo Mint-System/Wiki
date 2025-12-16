@@ -4,13 +4,15 @@ lang: en
 kind: explain
 section: policy
 ---
-
 ## Project folders
 
-- PhaseNN NAME: Projectphase related docuements
-- Docs: Project documentation
-- Input: Client docuements for further processng
-- Kick-Off: Informations about project init
-- Meeting/YYYY-MM-DD TITLE: Protocols and notes
-- Meta: Project management documents
-- Offer: Documents related to sales quote
+| Folder / Dcouments        | Desription                               |
+| ------------------------- | ---------------------------------------- |
+| PhaseNN                   | Dokumente zur Anforderungsanalyse        |
+| NAME                      | Projectphase related docuements          |
+| Input                     | Client docuements for further processing |
+| Docs                      | Project documentation                    |
+| Kick-Off                  | Informations about project init          |
+| Meetings/YYYY-MM-DD TITLE | Protocols and notes                      |
+| Meta                      | Project management documents             |
+| Offer                     | Documents related to sales quote         |

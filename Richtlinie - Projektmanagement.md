@@ -36,12 +36,12 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | Docs/                           | Projektdokumentationen                               |
 | Input/                          | Projektinputs                                        |
 | Kick-Off/                       | Dokumente zum Projektstart                           |
-| Meeting/YYYY-MM-DD TITEL.md     | Meeting-Notizen mit Namenskonvention                 |
+| Meetings/YYYY-MM-DD TITEL.md    | Meeting-Notizen mit Namenskonvention                 |
 | Meta/                           | Verträge, Bestellungen, NDAs zum Projekt             |
 | Notizen/                        | Ordner für Notizen der Projektmitarbeiter            |
 | Output                          | Projektergebnisse                                    |
 | Projektplan.ext                 | Dokument mit Zeitplan                                |
-| Prozess/                        | Verarbeitung der Inputs. Ausgabe in Output.          |
+| Verarbeitung/                   | Verarbeitung der Inputs. Ausgabe in Output.          |
 | README.md                       | Projektbeschreibung und Orientierung für Mitarbeiter |
 | Worklog/YYYY-MM-DD TITEL.md     | Protokolle zur Auftragsabwicklung                    |
 | Workshop/                       | Dokumente zum Workshop                               |
