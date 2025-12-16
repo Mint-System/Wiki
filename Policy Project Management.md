@@ -16,3 +16,4 @@ section: policy
 | Meetings/YYYY-MM-DD TITLE | Protocols and notes                      |
 | Meta                      | Project management documents             |
 | Offer                     | Documents related to sales quote         |
+| Process                   | Files for processing the inputs          |

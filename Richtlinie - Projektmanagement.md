@@ -30,20 +30,17 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | ------------------------------- | ---------------------------------------------------- |
 | Anforderungen/                  | Dokumente zur Anforderungsanalyse                    |
 | Anforderungen/Anforderungen.ext | Dokument mit Anforderungsanalyse                     |
-| Angebot/                        | Dokumente zur Angebotserstellung                     |
+| Angebot/                        | Verträge, Bestellungen, NDAs zum Projekt             |
 | Angebot/Konzept.ext             | Projektkonzept mit Planung                           |
 | Berichte/                       | Kunden- und Projektrapporte                          |
 | Docs/                           | Projektdokumentationen                               |
 | Input/                          | Projektinputs                                        |
-| Kick-Off/                       | Dokumente zum Projektstart                           |
 | Meetings/YYYY-MM-DD TITEL.md    | Meeting-Notizen mit Namenskonvention                 |
-| Meta/                           | Verträge, Bestellungen, NDAs zum Projekt             |
 | Notizen/                        | Ordner für Notizen der Projektmitarbeiter            |
 | Output                          | Projektergebnisse                                    |
-| Projektplan.ext                 | Dokument mit Zeitplan                                |
 | Verarbeitung/                   | Verarbeitung der Inputs. Ausgabe in Output.          |
 | README.md                       | Projektbeschreibung und Orientierung für Mitarbeiter |
-| Worklog/YYYY-MM-DD TITEL.md     | Protokolle zur Auftragsabwicklung                    |
+| Worklogs/YYYY-MM-DD TITEL.md    | Protokolle zur Auftragsabwicklung                    |
 | Workshop/                       | Dokumente zum Workshop                               |
 | Issues/YYYY-MM-DD TITEL.md      | Details zu Projektaufgaben                           |
 

@@ -2,6 +2,7 @@
 title: Marcus Menzel
 kind: reference
 section: organisation
+archive: true
 ---
 
 Benutzername: `marcusmenzel`\

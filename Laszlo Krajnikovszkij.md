@@ -4,6 +4,7 @@ responsibilities:
   - Infrastruktur
 kind: reference
 section: organisation
+archive: true
 ---
 
 Benutzername: `laszlokr`\

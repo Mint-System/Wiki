@@ -17,25 +17,7 @@ Vercel Domains:
 
 UID: CHE-150.248.608
 
-Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]], [[Mint System Website]]
-
-## Mitarbeitende
-
-- [[Janik von Rotz]]
-- [[Kurt Gisler]]
-- [[Ulrich Kilian]]
-- [[Marcus Menzel]]
-- [[Gerit Tänzer]]
-- [[Michael Ziege]]
-
-## Freischaffende
-
-- [[Marcus Menzel]]
-
-### Ehemalige
-
-- [[Marco Roeleven]]
-- [[Laszlo Krajnikovszkij]]
+Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]], [[Mint System Website]], [[Mint System GmbH - Mitarbeitende]]
 
 ## Schreibweise
 
