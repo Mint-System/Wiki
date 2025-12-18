@@ -147,4 +147,4 @@ Die Formularansicht der Projektaufgabe zeigt einen Smart-Button mit Anzahl der v
 
 | Klasse                 | Funktionsname | Beschreibung                                               |
 | ---------------------- | ------------- | ---------------------------------------------------------- |
-| StockBarcodeController | main_menu     | Die Funktion soll auch den Arbeitsauftrag anzeigen können. |
+| StockBarcodeController | `main_menu`   | Die Funktion soll auch den Arbeitsauftrag anzeigen können. |
