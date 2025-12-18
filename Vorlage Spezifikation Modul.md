@@ -10,6 +10,7 @@ Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgen
 - **[[#Beschreibung]]**: Beschreibung der Modul-Funktion.
 - **[[#User Stories]]**: Handlungen aus Sicht des Benutzers
 - **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
+- **[[#Abhängigkeiten]]**: Liste der Modul-Abhängigkeiten
 - **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
 - **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
 - **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
@@ -54,6 +55,14 @@ Entwicklung wird auf <https://github.com/mint-System/odoo-apps-account-Invoicing
 ### Übersetzung
 
 Die Entwicklung des Moduls erfolgt auf Englisch. Es soll eine Übersetzung für die Sprache Deutsch (de_CH) angelegt werden.
+
+## Abhängigkeiten
+
+Das Modul hängt von den folgenden Modulen ab:
+
+| Name                 | Technischer Name       | Beschreibung                                            |
+| -------------------- | ---------------------- | ------------------------------------------------------- |
+| Sale Start End Dates | `sale_start_end_dates` | Fügt dem Verkaufsauftrag ein Start- und Enddatum hinzu. |
 
 ## Neue Felder
 
