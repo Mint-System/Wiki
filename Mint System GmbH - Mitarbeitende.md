@@ -9,11 +9,14 @@ section: organisation
 - [[Janik von Rotz]]
 - [[Kurt Gisler]]
 - [[Ulrich Kilian]]
-- [[Marcus Menzel]]
 - [[Gerit Tänzer]]
+- [[Bruno Heimgartner]]
+- [[Laurens Kooijman]]
+
 ## Freischaffende
 
 - [[Michael Ziege]]
+- [[Astrid Marschner]]
 
 ## Ehmalige
 
