@@ -10,7 +10,7 @@ section: organisation
 - [[Kurt Gisler]]
 - [[Ulrich Kilian]]
 - [[Gerit Tänzer]]
-- [[Bruno Heimgartner]]
+- [[Bruno Hengartner]]
 - [[Laurens Kooijman]]
 
 ## Freischaffende

@@ -22,8 +22,8 @@ Arbeitsschritte:
 Arbeitsschritte:
 
 - Mitarbeiter-Eintrag in Wiki erfassen
-- Infomaniak Account mit Rolle "Benutzer" erstellen
-- Infomaniak Account dem Team "Mint System GmbH" hinzufügen
+- Infomaniak Account mit Rolle _Benutzer_ erstellen
+- Infomaniak Account dem Team _Mint System GmbH_ hinzufügen
 - E-Mail-Adresse gemäss Wiki-Definition erstellen
 - Einladungs-Informationen an private Mail-Adresse schicken
 - In Infomaniak "Verwaltung der Kalender" den Kalender des Benutzers mit der Organisation teilen
