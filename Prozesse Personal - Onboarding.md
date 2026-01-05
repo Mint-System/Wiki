@@ -42,6 +42,8 @@ Arbeitsschritte:
 - Zugriffsdaten and private Mail-Adresse schicken
 
 ```text
+Betreff: Zugriffsinfirmationen Mint System
+
 Hallo Vorname
 
 Ich habe für dich unter der Adresse ﻿﻿vorname.nachname@mint-system.ch﻿﻿ mehrere Accounts erstellt:
