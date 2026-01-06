@@ -51,7 +51,7 @@ Betreff: Onboarding Mint System
 
 Hallo VORNAME
 
-Ich habe für dich unter der Adresse MAIL_ADDRESS﻿﻿ mehrere Accounts erstellt:
+Ich habe für dich unter der Adresse MAIL_ADRESS﻿﻿E mehrere Accounts erstellt:
 
 - Infomaniak Account
 - Infomaniak Postfach
