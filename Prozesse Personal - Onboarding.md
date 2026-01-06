@@ -21,41 +21,48 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- Mitarbeiter-Eintrag in Wiki erfassen
+- Unter [[Mint System GmbH - Mitarbeitende]] den Mitarbeitenden erfassen
 - Infomaniak Account mit Rolle _Benutzer_ erstellen
-- Infomaniak Account dem Team _Mint System GmbH_ hinzufügen
-- E-Mail-Adresse gemäss Wiki-Definition erstellen
-- Einladungs-Informationen an private Mail-Adresse schicken
-- In Infomaniak "Verwaltung der Kalender" den Kalender des Benutzers mit der Organisation teilen
+	- Infomaniak Account dem Team _Mint System GmbH_ hinzufügen
+	- E-Mail-Adresse gemäss Wiki-Definition erstellen
+	- Einladungs-Informationen an private Mail-Adresse schicken
+- In Infomaniak _Verwaltung der Kalender_ den Kalender des Benutzers mit der Organisation teilen
+
+![[Infomaniak - Verwaltung der Kalender.png]]
 
 ### Login Mint System erstellen
 
 Arbeitsschritte:
 
-- Matrix-Benutzer erstellen
-- Keycloak-Benutzer anlegen
-- Rolle hinzufügen:
-  - cloud.mint-system.ch access
-  - erp.mint-system.ch access
-  - monitor.mint-system.ch admin
-- Keycloak-Benutzer auf [[ERP Mint System]] einladen und entsprechende Rollen vergeben
+- Matrix-Benutzer auf dem [[Matrix Server]] erstellen
+	- Das Matrix Standard-Passwort festlegen
+- Auf [[Login Mint System]] einen Keycloak-Benutzer anlegen
+	- Benötigte Benutzer-Aktionen festlegen: Configure OTP, Update Password
+	- Rolle _Mitarbeitende_ hinzufügen
+- Benutzer auf [[ERP Mint System]] einrichten
+	- Benutzer erstellen oder als Portal-Benutzer einladen
+	- Rolle _Mitarbeinde_ hinzufügen
+	- OAuth-Provider _Login Mint System_ festlegen und als Benutzer-ID die Mail-Adresse definieren
+	- Aktion _Mitarbeiter_ anlegen oder bestehenden Eintrag mit Benutzer vverknüpfen
 - Zugriffsdaten and private Mail-Adresse schicken
 
 ```text
-Betreff: Zugriffsinfirmationen Mint System
+Betreff: Onboarding Mint System
 
-Hallo Vorname
+Hallo VORNAME
 
-Ich habe für dich unter der Adresse ﻿﻿vorname.nachname@mint-system.ch﻿﻿ mehrere Accounts erstellt:
+Ich habe für dich unter der Adresse MAIL_ADDRESS﻿﻿ mehrere Accounts erstellt:
 
 - Infomaniak Account
 - Infomaniak Postfach
 - Login Mint System
 - ERP Mint System
+- Matrix Mint System
 
-Der erste Schritt ist die Einrichtung des Postfachs. Ich habe auf deine private Mail-Adresse eine Einladungsmails mit den Details geschickt.
+Der erste Schritt ist die Einrichtung des Postfachs. Du solltest auf deine private Mail-Adresse eine Einladungsmails mit Details erhalten haben.
 
-In einem zweiten Schritt kannst du das Passwort und die 2-Faktor-Authentisierung für das Login Mint System festlegen: https://login.mint-system.ch/realms/mint-system.ch/account
+In einem zweiten Schritt kannst du dein Passwort und die 2-Faktor-Authentisierung für das Login Mint System festlegen: https://login.mint-system.ch/realms/mint-system.ch/account
+
 Mit diesem Login kannst dich anschliessend auf den folgenden Diensten einloggen:
 
 - https://erp.mint-system.ch/
@@ -63,6 +70,10 @@ Mit diesem Login kannst dich anschliessend auf den folgenden Diensten einloggen:
 - https://monitor.mint-system.ch/
 
 Anstatt den Benutzernamen und Passwort einzugeben, wählst du jeweils den Knopf "Login Mint System".
+
+Als letzter Schritt kannst du den Nextcloud Desktop-Client auf deinem Gerät installieren: https://wiki.mint-system.ch/prozesse-nextcloud-desktop-client.html
+
+Bitte teile mir, wenn das erledigt ist. Dann kann ich deinem Benutzer noch weitere Zugriffe auf unserer Nextlcoud und Infomaniak erteilen.
 
 Lieber Gruss
 ```

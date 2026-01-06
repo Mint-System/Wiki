@@ -7,10 +7,10 @@ kind: howto
 
 Arbeitsschritte:
 
-- Installation [[Nextcloud]] Desktop-Client und Einrichten Synchronisation
+- Installation [[Nextcloud]] Desktop-Client und Einrichten Synchronisation: [[Prozesse Nextcloud - Desktop Client]]
 - Installation [[Obsidian]] und Einrichten Zugriff auf Wikis
-- Installation [[KeePassXC]] und Einrichten Zugriff auf Passwörter
-- Installation [[Element]] und Login auf [[Matrix Server]].
+- Installation [[KeePassXC]] und Einrichten Zugriff auf Passwörter: [[Prozesse Infrastruktur - Passwörter verwalten]]
+- Installation [[Element]] und Login auf [[Matrix Server]]
 - Installation [[Thunderbird]] und Einrichten Mail und Kalender
 
 ### Smartphone einrichten
