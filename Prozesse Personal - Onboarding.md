@@ -61,7 +61,7 @@ Ich habe für dich unter der Adresse MAIL_ADDRESS﻿﻿ mehrere Accounts erstell
 
 Der erste Schritt ist die Einrichtung des Postfachs. Du solltest auf deine private Mail-Adresse eine Einladungsmails mit Details erhalten haben.
 
-In einem zweiten Schritt kannst du dein Passwort und die 2-Faktor-Authentisierung für das Login Mint System festlegen: 
+In einem zweiten Schritt kannst du dein Passwort und die 2-Faktor-Authentisierung für das Login Mint System festlegen: https://wiki.mint-system.ch/prozesse-keycloak-login-verwalten.html
 
 Mit diesem Login kannst dich anschliessend auf den folgenden Diensten einloggen:
 
