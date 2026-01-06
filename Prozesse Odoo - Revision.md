@@ -28,8 +28,8 @@ done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 ```
 
 - Dokumentationen mit Odoo Revisionen aktualisieren
-	- [[Odoo Build]]
-	- [[Kubernetes Build]]
+	- [[Odoo Build]] `README.md`
+	- [[Kubernetes Build]] ``
 
 ## Odoo Revision installieren
 
