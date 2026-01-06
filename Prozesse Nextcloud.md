@@ -11,5 +11,4 @@ section: process
 
 ## Verwaltung
 
-- [[Prozesse Nextcloud - Desktop Client]]
 - [[Prozesse Nextcloud - Upgrade]]
