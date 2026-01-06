@@ -6,11 +6,11 @@ section: policy
 
 Regel die Art und Weise wie wir kommunizieren.
 
-## Instant Messaging
-
 Wir unterscheiden zwischen interner und externer Kommunikation.
 
-Für die interne Kommunikation verwenden wir den Odoo Dialog und die folgenden Channels:
+## Instant Messaging
+
+Für die interne Kommunikation verwenden wir den Odoo Dialog und die folgenden Kanäle:
 
 | Channel            | Inhalte                           |
 | ------------------ | --------------------------------- |
@@ -24,12 +24,12 @@ Für die interne Kommunikation verwenden wir den Odoo Dialog und die folgenden C
 | Softareentwicklung | Inputs zur Softwareentwicklung    |
 | Support            | Interner Support                  |
 
-Für die externe Kommunikation haben wir eine Matrix-Instanz.
-
 ## E-Mail
 
-Das ist das bevorzugte Tool zur Kommunikation mit Kunden.
+Für die externe Kommunikation mit Kunden verwenden wir ebenfalls den Odoo Dialog.
 
-Es existieren keine maximalen Antwortzeiten. Jemanden ins CC nehmen bedeutet ihn zu informieren.
+Der Projektbezogenen-Austausch muss für alle beteiligten nachvollziehbar sein. Das ist nur möglich, wenn konsequent mit Odoo kommuniziert wird.
 
-Für die interne Kommunikation gilt: Keine Antwort ist auch eine Antwort.
+## Matrix
+
+Wir haben einen [[Matrix Server]] im Einsatz. Der Server bietet Raum zur Kommunikation mit der Open-Source-Community. 
