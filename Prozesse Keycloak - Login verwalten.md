@@ -17,4 +17,10 @@ Arbeitsschritte:
 
 ## 2-Faktor-Authentisierung konfigurieren
 
-Arbeitschritte: 
+Arbeitschritte:
+
+* Auf dem Smartphone die [[TOTP Auth|empfohlene TOTP Auth App]] installieren
+* Aufrufen <https://login.mint-system.ch/realms/mint-system.ch/account>
+* Mit dem neuen Passwort einloggen
+* Gemäss Dialog _Mobile Authenticator Setup_ die 2-Faktor-Authentisierung einrichten
+* Den Vorgang it _Submit_ abschliessen
