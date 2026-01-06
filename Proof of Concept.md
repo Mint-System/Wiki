@@ -16,7 +16,7 @@ Im Weiteren werden Kundendaten und Unternehmensinformationen erfasst sowie allge
 
 **Prototyping**
 
-Für technische Funktionen, die out-of-the-box nicht zur Verfügung stehen, kann [[Odoo Studio]] zum Prototyping verwendet werden. Damit können zusätzliche Apps ad-hoc erstellt werden.
+Für technische Funktionen, die out-of-the-box nicht zur Verfügung stehen, kann Odoo Studio für das Prototyping verwendet werden. Damit können zusätzliche Apps ad-hoc erstellt werden.
 
 **Anforderungen**
 

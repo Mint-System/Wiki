@@ -1,6 +1,7 @@
 ---
 title: Odoo Revisionen
 kind: reference
+section: term
 ---
 
 Odoo Revisionen sind Snapshots der Entwicklungshistory zu einem bestimmten Zeitpunkt. Mit einem [[Git]]- und [[Docker]]-Hash wird der Snapshot festgehalten.

@@ -2,6 +2,7 @@
 title: Odoo Module Testing
 kind: howto
 lang: en
+section: dev
 ---
 
 The test of Odoo modules are unit test. The module functionality must be tested in isolation of external systems.

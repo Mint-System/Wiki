@@ -14,7 +14,7 @@ Dauer: 8 Stunden
 
 ## Thema 1: Entwicklungsumgebung einrichten
 
-Gemeinsam wird die [[Odoo Entwicklungsumgebung]] eingerichtet.
+Gemeinsam wird die Odoo Entwicklungsumgebung eingerichtet.
 
 Schritte:
 
@@ -36,7 +36,7 @@ Schritte:
 
 ## Thema 3: XML, XPath und Snippets
 
-Eine Ansicht kann mit einem [[XPath]]-Edit bearbeiten. In diesem Zusammenhang wird die Funktionsweise von [[Odoo Studio]] erläutert.
+Eine Ansicht kann mit einem [[XPath]]-Edit bearbeiten. In diesem Zusammenhang wird die Funktionsweise von Odoo Studio erläutert.
 
 Schritte:
 

@@ -31,6 +31,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 - [[Odoo Community Upgrade]]
 - [[Odoo Sicherheit]]
 - [[Odoo Eigenentwicklungen]]
+- [[Odoo Module Testing]]
 - [[Test Odoo Mail Flow]]
 - [[Odoo Assets]]
 - [[Odoo Developer Tutorials]]
