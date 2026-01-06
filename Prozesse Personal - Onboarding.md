@@ -87,7 +87,7 @@ Arbeitsschritte:
 ```
 Hallo Vorname
 
-Gerne möchten wir dir Zugriff auf die Organisations-Accounts von Mint System geben und bei Bedarf Zugriff auf die verwalteten Server erteilen. Um den Zugriff einzurichten brauchen wir die folgenden Informationen:
+Gerne möchten wir dir Zugriff auf die externen Organisations-Accounts von Mint System geben und bei Bedarf Zugriff auf unserer verwalteten Server erteilen. Um den Zugriff einzurichten brauchen wir die folgenden Informationen:
 
 - GitHub Benutzernamen
 - GitLab Benutzernamen
