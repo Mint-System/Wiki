@@ -102,3 +102,11 @@ Du erhältst dann Einladungsmails der entsprechenden Dienste zur Bestätigung.
 - Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
 - GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
 - Im Ansible Inventory den Benutzer mit SSH-Schlüssel definieren
+
+### Website Profil aktualisieren
+
+Arbeitsschritte:
+
+- Foto von Mitarbeitenden erstellen und bearbeiten
+- Neue Mitarbeitenden-Eintrag in [[Mint System Website]] erstellen
+- In Odoo die offene Stelle anpassen
