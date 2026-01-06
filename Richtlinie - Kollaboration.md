@@ -6,19 +6,15 @@ section: policy
 
 Regelt die Zusammenarbeit mit externen Kunden und internen Mitarbeiter.
 
-## Intern
+## Intern / Mitarbeitende
 
-Dokumente werden mit [[OnlyOffice]] auf der Nextcloud erstellt und können gemeinsam direkt bearbeitet werden.
+Dokumente werden mit [[OnlyOffice]] auf der Nextcloud erstellt und dort gemeinsam bearbeitet werden.
 
-## Extern
+## Extern / Kunden
 
-Projektordner dürfen**nicht** mit Dritten geteilt werden. Wenn man mit Externen ein Projekt teilen möchte muss dieses aufgeteilt werden.
+Wenn ein Projektordner mit einem Kunden geteilt wird, muss dieser den Postfix _Shared_ haben. 
 
 Beispielsweise existieren für das Projekt _ERP Velomanufaktur AG_ diese Ordner:
 
-- ERP Velomanufaktur AG Private
-- ERP Velomanufaktur AG Shared
-
-**Gruppenberechtigungen**
-
-Die externen Benutzer sind Mitglieder einer Gruppe deren Name gleich dem Projekt ist. In diesem Fall wäre es `ERP Velomanufaktur AG`. Die Freigabe des `Shared`-Ordners erfolgt mittels dieser Gruppe.
+- `ERP Velomanufaktur AG Private`: Nur für Interne sichtbar
+- `ERP Velomanufaktur AG Shared`: Kann mit dem Kunden geteilt werden
