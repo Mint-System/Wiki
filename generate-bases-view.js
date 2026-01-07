@@ -195,11 +195,10 @@ baseFiles.forEach((baseFile) => {
 
     // Generate output based on view type
     let output = `---
+list: Liste ${baseName}
 kind: reference
 section: bases
 ---
-
-# ${baseName}
 
 `
 
