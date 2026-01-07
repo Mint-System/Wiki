@@ -4,7 +4,7 @@ kind: explain
 section: policy
 ---
 
-Regel die Art und Weise wie wir kommunizieren.
+Regelt die Art und Weise wie wir kommunizieren.
 
 Wir unterscheiden zwischen interner und externer Kommunikation.
 
