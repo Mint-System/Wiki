@@ -18,7 +18,7 @@ Die Wissensdatenbank orientiert sich am [[Standard für Dokumentationssysteme]].
 [[Referenz]]: Enthält technische Fakten.\
 [[Erklärung]]: Liefert Kontext und Hintergrund.
 
-Im weiteren wurden die Artikel in Abschnitte unterteilt und daraus Tabellen generiert. Im Artikel [[Liste Übersicht]] finden Sie eine Liste aller Tabellen.
+Im weiteren wurden die Artikel in Abschnitte unterteilt und daraus Tabellen generiert. Im Artikel [[Übersicht.base]] finden Sie eine Liste aller Tabellen.
 
 ## Mitarbeit
 

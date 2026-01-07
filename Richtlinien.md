@@ -1,56 +1,34 @@
 ---
-title: Richtlinien
+list: Richtlinien
 kind: reference
-section: policy
+section: bases
 ---
 
-Richtlinien der Mint System.
-
-## Mitarbeit
-
-- [[Richtlinie - Arbeitszeit]]
-- [[Richtlinie - Zeiterfassung]]
-- [[Richtlinie - Spesenreglement]]
-- [[Richtlinie - Smartphone]]
-
-## Softwareentwicklung
-
-- [[Richtlinie - Code Sharing]]
-- [[Richtlinie - Softwareentwicklung]]
-- [[Richtlinie - Odoo Modulentwicklung]]
-- [[Richtlinie - Odoo Snippet]]
-
-## Infrastruktur
-
-- [[Richtlinie - Namenskonventionen]]
-- [[Richtlinie - Passwortmanager]]
-
-## Kommunikation
-
-- [[Richtlinie - Website]]
-- [[Richtlinie - Kommunikation]]
-
-## Dokumentenmanagement
-
-- [[Richtlinie - Calc Dokumente]]
-- [[Richtlinie - Dokumentmanagement]]
-- [[Richtlinie - Obsidian]]
-- [[Richtlinie - Datenschutz]]
-
-## Finanzen
-
-- [[Richtlinie - Finanzen]]
-
-## Projektmanagement
-
-- [[Richtlinie - Projektmanagement]]
-- [[Richtlinie - Aufgabenverwaltung]]
-- [[Richtlinie - Todos]]
-
-## Kollaboration
-
-- [[Richtlinie - E-Mail]]
-- [[Richtlinie - Kollaboration]]
-- [[Richtlinie - Konferenz]]
-- [[Richtlinie - Kontakte]]
-- [[Richtlinie - Kalender]]
+| file.name | kind | section |
+| --- | --- | --- |
+| [[Policy Project Management]] | explain | policy |
+| [[Richtlinie - Arbeitszeit]] | explain | policy |
+| [[Richtlinie - Aufgabenverwaltung]] | explain | policy |
+| [[Richtlinie - Calc Dokumente]] | explain | policy |
+| [[Richtlinie - Code Sharing]] | explain | policy |
+| [[Richtlinie - Datenschutz]] | explain | policy |
+| [[Richtlinie - Dokumentmanagement]] | explain | policy |
+| [[Richtlinie - E-Mail]] | explain | policy |
+| [[Richtlinie - Finanzen]] | explain | policy |
+| [[Richtlinie - Kalender]] | explain | policy |
+| [[Richtlinie - Kollaboration]] | explain | policy |
+| [[Richtlinie - Kommunikation]] | explain | policy |
+| [[Richtlinie - Konferenz]] | explain | policy |
+| [[Richtlinie - Kontakte]] | explain | policy |
+| [[Richtlinie - Namenskonventionen]] | explain | policy |
+| [[Richtlinie - Obsidian]] | explain | policy |
+| [[Richtlinie - Odoo Modulentwicklung]] | explain | policy |
+| [[Richtlinie - Odoo Snippet]] | explain | policy |
+| [[Richtlinie - Passwortmanager]] | explain | policy |
+| [[Richtlinie - Projektmanagement]] | explain | policy |
+| [[Richtlinie - Smartphone]] | explain | policy |
+| [[Richtlinie - Softwareentwicklung]] | explain | policy |
+| [[Richtlinie - Spesenreglement]] | explain | policy |
+| [[Richtlinie - Todos]] | explain | policy |
+| [[Richtlinie - Website]] | explain | policy |
+| [[Richtlinie - Zeiterfassung]] | explain | policy |

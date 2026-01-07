@@ -195,7 +195,7 @@ baseFiles.forEach((baseFile) => {
 
     // Generate output based on view type
     let output = `---
-list: Liste ${baseName}
+list: ${baseName}
 kind: reference
 section: bases
 ---
@@ -259,7 +259,7 @@ section: bases
     }
 
     // Write the output to a file
-    const outputFileName = `Liste ${baseName}.md`
+    const outputFileName = `${baseName}.md`
     fs.writeFileSync(outputFileName, output)
     console.log(`Generated "${outputFileName}"`)
   })

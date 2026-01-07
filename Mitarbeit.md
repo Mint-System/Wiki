@@ -11,9 +11,11 @@ Details sind in der Prozessdokumentation unter [[Prozesse Wiki - Mitarbeit]] dok
 Die folgenden Dateien gehören zum Obsidian Projekt:
 
 * [[AGENTS]]
+* [[Entry]]
 * [[0 no kind nor section.base]]
 * [[Accounts.base]]
 * [[Anleitungen.base]]
+* [[Bases.base]]
 * [[Begriffe.base]]
 * [[Blog.base]]
 * [[Dienstleistung.base]]

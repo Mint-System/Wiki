@@ -34,6 +34,7 @@ const wikiImage = /!\[\[([^\]]+\..+)\]\]/g
 const obsidianCanvas = /\[\[([^\]]+\.canvas.+)\]\]/g
 const embededContent = /!\[\[([^\]]*)\]\]/g
 const wikiLink = /\[\[([^\]]*)\]\]/g
+const obsidianBases = /\[\[([^\]]+)\.base\]\]/g
 
 function loopMdFiles() {
   return fs
@@ -93,6 +94,20 @@ function convert(content, file) {
     content = content.replace(
       match,
       `[${asset}](${basePathAttachments}${href}.svg)`
+    )
+  }
+
+  // Convert Obsidian bases
+  // [[Tools.bases]] -> [Tools](./tools.html)
+  matches = content.match(obsidianBases) || []
+  for (i = 0; i < matches.length; i++) {
+    let match = matches[i]
+    let href = sanitizeName(match.match(/\[\[([^\]]+)\.base/)[1])
+    let title = match.match(/\[\[([^\]]+)\.base/)[1]
+    
+    content = content.replace(
+      match,
+      `[${title}](${basePath}${href}${uriSuffix})`
     )
   }
 
