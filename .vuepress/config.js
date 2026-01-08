@@ -22,7 +22,7 @@ export default defineUserConfig({
     editLink: false,
     navbar: [
       { text: 'Home', link: '/' },
-      { text: 'Glossary', link: '/glossary' },
+      { text: 'Index', link: '/glossary' },
       { text: 'Mint System', link: 'https://www.mint-system.ch' },
       {
         text: 'Chat',
