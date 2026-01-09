@@ -49,7 +49,7 @@ Dieses Tutorial erläutert die Arbeit mit [[Obsidian]]. Es ist in Abschnitten mi
 
 
 
-## Suchen
+### Suchen
 
 > Wie suche ich nach einer Notiz?
 
