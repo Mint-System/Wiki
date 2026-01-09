@@ -1,6 +1,7 @@
 ---
 title: Virutalisierung
 kind: reference
+section: term
 ---
 
-[[VMware]]
+Anbieter für Virtualisierung: [[VMware]]

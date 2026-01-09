@@ -1,5 +1,8 @@
 ---
 title: Mint System
+kind:
+  - reference
+section: organisation
 ---
 
 Unternehmensname ohne GmbH.

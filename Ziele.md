@@ -10,3 +10,4 @@ Jahresziele der Mint System. Wir messen diese [[KPI]].
 - [[Unternehmensziele 2023]]
 - [[Unternehmensziele 2024]]
 - [[Unternehmensziele 2025]]
+- [[Unternehmensziele 2026]]

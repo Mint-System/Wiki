@@ -1,6 +1,9 @@
 ---
 title: Mint System GmbH
 website: https://www.mint-system.ch
+kind:
+  - reference
+section: organisation
 ---
 
 Infomaniak Domains:

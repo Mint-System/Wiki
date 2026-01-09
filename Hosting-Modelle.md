@@ -1,5 +1,8 @@
 ---
 title: Hosting-Modelle
+kind:
+  - explain
+section: communication
 ---
 
 Wir unterscheiden zwischen den foglenden Hosting-Modellen:

@@ -1,3 +1,8 @@
+---
+kind:
+  - reference
+section: organisation
+---
 
 Benutzername: `laurenskooijman`\
 Alias: `lko`\

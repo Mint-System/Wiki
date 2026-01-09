@@ -1,6 +1,7 @@
 ---
 title: Philosophie
 kind:
+section: organisation
 ---
 
 Wir sind:
