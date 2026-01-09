@@ -90,7 +90,7 @@ Hallo Vorname
 Gerne möchten wir dir Zugriff auf die externen Organisations-Accounts von Mint System geben und bei Bedarf Zugriff auf unserer verwalteten Server erteilen. Um den Zugriff einzurichten brauchen wir die folgenden Informationen:
 
 - GitHub Benutzernamen
-- GitLab Benutzernamen
+- Codeberg Benutzernamen
 - Öffentlicher SSH-Schlüssel
 
 Kannst du uns diese Informationen mitteilen?
@@ -98,10 +98,10 @@ Kannst du uns diese Informationen mitteilen?
 Du erhältst dann Einladungsmails der entsprechenden Dienste zur Bestätigung.
 ```
 
-- GitHub-Benutzer der [[GitHub#Organisation]] hinzufügen
+- GitHub-Benutzer der [[GitHub Organisation]] hinzufügen
 - Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
-- GitLab-Benutzer der [[GitLab#Organisation]] hinzufügen
-- Im Ansible Inventory den Benutzer mit SSH-Schlüssel definieren
+- Codeberg-Benutzer der [[Codeberg Organisation]] hinzufügen
+- Im Ansible Inventory den Benutzer mit SSH-Schlüssel erfassen
 
 ### Website Profil aktualisieren
 
