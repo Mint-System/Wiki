@@ -36,9 +36,10 @@ Dieses Tutorial erläutert die Arbeit mit [[Obsidian]]. Es ist in Abschnitten mi
 
 
 
-# Suchen
+## Suchen
 
 > Wie suche ich nach einer Notiz?
+
 
 
 ## Vorlagen
@@ -47,7 +48,37 @@ Dieses Tutorial erläutert die Arbeit mit [[Obsidian]]. Es ist in Abschnitten mi
 
 
 
+## Frontmatter
+
+> Was ist das Frontmatter?
+
+
+
 ## Plugins
 
 > Welche Plugins gibt es?
+
+
+### Tabellen
+
+> Wie erstelle und bearbeite ich Tabellen in Obsidian?
+
+
+
+### Excalidraw
+
+> Wie erstelle ich Zeichnungen mit Excalidraw?
+
+
+
+### Bases
+
+> Was sind Obsidian Bases?
+
+
+
+### Canvas
+
+> Wie nutze ich den Obsidian Canvas?
+
 
