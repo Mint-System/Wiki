@@ -25,14 +25,27 @@ Dieses Tutorial erläutert die Arbeit mit [[Obsidian]]. Es ist in Abschnitten mi
 > Was ist ein Obsidian Vault?
 
 
-## Markdown
+## Notizen
+
+> Wie bearbeite ich Notizen?
+
+
+
+### Markdown
 
 > Was ist Markdown?
 
 
-## Notizen
 
-> Wie bearbeite ich Notizen?
+### Frontmatter
+
+> Was ist das Frontmatter?
+
+
+
+## Navigation
+
+> Wie navigiert man in Obsidian?
 
 
 
@@ -45,12 +58,6 @@ Dieses Tutorial erläutert die Arbeit mit [[Obsidian]]. Es ist in Abschnitten mi
 ## Vorlagen
 
 > Welche Vorlagen gibt es?
-
-
-
-## Frontmatter
-
-> Was ist das Frontmatter?
 
 
 
