@@ -13,4 +13,4 @@ Theoretisches Wissen und Modell wird unter [[Modelle]] dokumentiert.
 
 ## Wissenstransfer
 
-Damit dies geschieht werden gezielt und in regelmässigen Abständen interne [[Wissentransfer]]s durchgeführt.
+Damit dies geschieht werden gezielt und in unregelmässigen Abständen interne [[Inputs]] durchgeführt.

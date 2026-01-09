@@ -61,5 +61,5 @@ section: bases
 | [[Weekly-Meeting]] | explain |  |
 | [[Wirkungsräume]] | explain |  |
 | [[Wissensmanager%in]] | explain |  |
-| [[Wissenstransfer - Einfache Anpassungen für Odoo entwickeln]] | tutorial |  |
+| [[Input - Einfache Anpassungen für Odoo entwickeln]] | tutorial |  |
 | [[Ziele]] | reference |  |

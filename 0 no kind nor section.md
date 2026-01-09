@@ -224,7 +224,7 @@ section: bases
 | [[Web Analytics]] |  |  |  |
 | [[Webapplikation]] |  |  |  |
 | [[Wissensdomäne]] |  |  |  |
-| [[Wissentransfer]] |  |  |  |
+| [[Inputs]] |  |  |  |
 | [[Workshop Gap-Analyse]] |  |  |  |
 | [[XPath]] |  |  |  |
 | [[Zellj]] |  | tool |  |

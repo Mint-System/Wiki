@@ -1,7 +1,7 @@
 ---
-title: Wissenstransfer - Einfache Anpassungen für Odoo entwickeln
+title: Input - Einfache Anpassungen für Odoo entwickeln
 kind: tutorial
-section: organisation
+section: training
 ---
  
 Ziele:
