@@ -1,6 +1,9 @@
 ---
-title: VSHN Central Control Plane
+title: VSHN - Central Control Plane
 website: https://kb.vshn.ch/app-catalog/reference/arch-control-plane.html
+section: vendor
+kind:
+  - reference
 ---
 
 Basiert auf [[Crossplane]].

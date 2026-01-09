@@ -140,8 +140,8 @@ section: bases
 | [[VMware]] | https://www.vmware.com/ |  |
 | [[VSCodium]] | https://vscodium.com/ |  |
 | [[VSHN AG]] | https://www.vshn.ch |  |
-| [[VSHN Application Marketplace]] | https://www.vshn.ch/produkte/marketplace/ |  |
-| [[VSHN Central Control Plane]] | https://kb.vshn.ch/app-catalog/reference/arch-control-plane.html |  |
+| [[VSHN - Application Marketplace]] | https://www.vshn.ch/produkte/marketplace/ |  |
+| [[VSHN - Central Control Plane]] | https://kb.vshn.ch/app-catalog/reference/arch-control-plane.html |  |
 | [[Ventor PRO]] | https://ventor.app |  |
 | [[Vercel]] | https://vercel.com/mint-system |  |
 | [[Visual Studio Code]] | https://code.visualstudio.com/ |  |

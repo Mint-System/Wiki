@@ -5,4 +5,4 @@ section: contact
 website: https://www.vshn.ch
 ---
 
-Siehe [[VSHN Application Marketplace]], [[VSHN Central Control Plane]], [[APPUiO]]
+Siehe [[VSHN - Application Marketplace]], [[VSHN - Central Control Plane]], [[APPUiO]]

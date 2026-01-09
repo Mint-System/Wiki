@@ -21,7 +21,7 @@ Infomaniak Domains:
 
 ## Business Case
 
-Siehe [[VSHN Application Marketplace]].
+Die Uri Cloud ist das regionale Abbild von [[Servala]].
 
 ## Szenarios
 
@@ -75,9 +75,3 @@ Mitarbeiter der Uri Cloud setzen sich mit dem Amt für Informatik und Bedag in V
 Ein einmaliger Betrag an diese Partner ausbezahlt:
 
 - Uri Cloud für den Koordinationsauftrag
-
-## Spezifikation
-
-Die [[Specification Uri Cloud]] ist eine Weiterentwicklung der [[Spezifikation Mint Cloud]].
-
-Die Kuberenetes Cluster müssen von VSHN erstellt werden.

@@ -218,8 +218,8 @@ section: bases
 | [[Vercel]] |  |  |  |
 | [[VSCode]] |  |  |  |
 | [[VSCodium]] |  | tool |  |
-| [[VSHN Application Marketplace]] |  |  |  |
-| [[VSHN Central Control Plane]] |  |  |  |
+| [[VSHN - Application Marketplace]] |  |  |  |
+| [[VSHN - Central Control Plane]] |  |  |  |
 | [[Wartungsvertrag]] |  |  |  |
 | [[Web Analytics]] |  |  |  |
 | [[Webapplikation]] |  |  |  |
