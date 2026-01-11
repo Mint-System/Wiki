@@ -109,6 +109,20 @@ projekt: Mint Cloud
 Drücke `ctrl` + `e` um eine Vorschau der Markdown-Datei zu erhalten. Die Metadaten können in der Vorschau in Text-Boxen bearbeitet werden.
 :::
 
+### Verlinkung
+
+> Wie können Notizen miteinander verlinkt werden.
+
+Obsidian arbeitet mit den Wikilinks `[[]]`. Um in einer Notiz eine andere Notiz zu verlinken, schreibst du `[[` und kannst nun nach der Datei suchen. Sobald du `Enter` drückst und eine valide Auswahl hast, wird der Linkt mit `]]` abgeschlossen.
+
+::: tip
+Du kannst auch Überschriften innerhalb einer Notiz verlinken. Wenn du in der Suche die gewünschte Datei in der Auswahl hast, klickst auf `#` und es erscheint eine Auswahl der Überschriften.
+:::
+
+::: tip
+Wenn die Option _Wikilinks_ für den Vault deaktiviert ist, dann konvertiert Obsidian den Wikilink `[[]]` in das gewöhnliche Markdown-Format `[]()`.
+:::
+
 ## Plugins
 
 > Welche Plugins gibt es?
