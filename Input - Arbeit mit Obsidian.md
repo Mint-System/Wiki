@@ -115,7 +115,7 @@ Drücke `ctrl` + `e` um eine Vorschau der Markdown-Datei zu erhalten. Die Metada
 
 Der Funktionsumfang von Obsidian kann mit einer Vielzahl an Plugins erweitert werden. Hier die wichtigsten und of meist verwendeten Plugins:
 
-## QuickAdd
+### QuickAdd
 
 Mit QuickAdd werden Vorlagen für Notizen definiert.
 
