@@ -79,6 +79,10 @@ Nun bist du direkt Bearbeitsungs-Modus und kannst den Inhalt der Datei bearbeite
 Es gibt keinen Speichern-Befehl in Obsidian. Alle Bearbeitungen werden direkt gespeichert.
 :::
 
+::: tip
+Drücke `ctrl` + `shift` + `R` um die geöffnete Datei in der Ordnerstruktur anzuzeigen. 
+:::
+
 ### Markdown
 
 > Was ist Markdown?
@@ -105,37 +109,60 @@ projekt: Mint Cloud
 Drücke `ctrl` + `e` um eine Vorschau der Markdown-Datei zu erhalten. Die Metadaten können in der Vorschau in Text-Boxen bearbeitet werden.
 :::
 
-## Vorlagen
-
-> Welche Vorlagen gibt es?
-
-
-
 ## Plugins
 
 > Welche Plugins gibt es?
 
+Der Funktionsumfang von Obsidian kann mit einer Vielzahl an Plugins erweitert werden. Hier die wichtigsten und of meist verwendeten Plugins:
+
+## QuickAdd
+
+Mit QuickAdd werden Vorlagen für Notizen definiert.
+
+> Welche Vorlagen gibt es?
+
+Im `Mint System` Vault findet man einen Ordner `templates`. Hier sind alle verfügbaren Vorlagen definiert.
+
+> Wie erstelle ich eine Datei aus einer Vorlage?
+
+Um eine Datei aus einer Vorlage zu erstellen, musst du zuerst eine Datei im Ordner, wo die neue Datei erstellt werden soll, auswählen. Rufe die Befehlspalette auf und führen den Befehl `QuickAdd: Run QuickAdd` aus. Wähle eine Vorlage aus und gib Werte für die Platzhalter ein. 
 
 ### Tabellen
 
+In Markdown gibt es eine Syntax für Tabellen<https://www.markdownguide.org/extended-syntax/#tables>. Dieses Plugin unterstützt die Bearbeitung von Tabellen.
+
 > Wie erstelle und bearbeite ich Tabellen in Obsidian?
 
+Um eine Tabelle zu Erstellen gibst du den folgenden Text ein:
 
+```
+| Name |
+|---|
+```
+
+Klicke auf *Name* und drück `Enter`. Du hast nun eine Tabelle mit einer Zelle und einer Überschrift. Klicke in der linken Leiste auf das Tabellen-Icon und im rechten Panel erscheinen Befehle zur Bearbeitung der Tabellen.
 
 ### Excalidraw
 
+Dieses Plugin intergriert <https://excalidraw.com/> in Obsidian. Es ist ein ausgezeichnetes Werkzeug für Flipcharts, Zeichnungen und Diagramme.
+
 > Wie erstelle ich Zeichnungen mit Excalidraw?
 
-
+Wähle eine Notiz im Ordner aus, wo die Excalidraw-Zeichnung erstellt werden soll. Rufe den Befehl `Excalidraw: Create new drawing` auf.
 
 ### Bases
 
-> Was sind Obsidian Bases?
+Ist eine Obidian Core-Plugin. Mit Bases können die Frontmatter-Metadaten als Liste oder Kachel angezeigt werden.
 
+> Wie nutze ich Obsidian Bases?
 
+Im `Mint System` Vault findest du einen Ordner `bases`. Ruf die `Meetings.base` Datei auf. Du erhlältst eine Aufstellung aller Meeting-Notizen dieses Vault.
 
 ### Canvas
 
+Ist eine Obidian Core-Plugin. Mit Canvas önnen einfache Diagramme erstellt werden. Im Vergleich zu Excalidraw sind die Visualisierungs-Möglichkeiten limitiert. Jedoch können in den Diagrammen auch Notizen verlinkt werden.
+
 > Wie nutze ich den Obsidian Canvas?
 
+Du kann in der linken Leiste auf das Canvas-Icon klicken und erstellt so im aktuellen Verzeichnis eine `Unbenannt.canvas` Datei.
 
