@@ -88,6 +88,7 @@ Wenn du die Notizen-Dateien im Datei-Explorer anzeigt, siehst du, dass diese die
 Gib in der Datei `README.md` den Text `Dieser Text einhält eine **Fettformatierung**.`. Wie du siehst, wird der Text innerhalb der `**` Zeichen fett formatiert. Mit Markdown kann man Text mit Text formatieren.
 
 Um mehr über Markdown zu lernen besuche <https://www.markdownguide.org/>.
+
 ### Frontmatter
 
 > Was ist das Frontmatter?
