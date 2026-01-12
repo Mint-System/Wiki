@@ -98,9 +98,10 @@ Kannst du uns diese Informationen mitteilen?
 Du erhältst dann Einladungsmails der entsprechenden Dienste zur Bestätigung.
 ```
 
-- GitHub-Benutzer der [[GitHub Organisation]] hinzufügen
 - Für GitHub-Benutzer Zugriff auf [[Odoo Enterprise]] erteilen
+- GitHub-Benutzer der [[GitHub Organisation]] hinzufügen
 - Codeberg-Benutzer der [[Codeberg Organisation]] hinzufügen
+- Codey-Benutzer der [[Codey Organisation]] hinzufügen
 - Im Ansible Inventory den Benutzer mit SSH-Schlüssel erfassen
 
 ### Website Profil aktualisieren

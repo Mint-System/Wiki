@@ -12,8 +12,8 @@ Arbeitsschritte:
 
 - Die Kommandozeile öffnen
 - SSH-Schlüsselpaar generieren mit Befehl `ssh-keygen -t ed25519 -C "VORNAME.NACHNAME@mint-system.ch"`
-  - Der Speicherort belassen (Enter drücken)
-  - Bei der Passwort-Eingabe leer lassen und zweimal Enter drücken
+	- Der Speicherort belassen (Enter drücken)
+	- Bei der Passwort-Eingabe leer lassen und zweimal Enter drücken
 - Den privaten Schlüssel sicher aufbewahren
 
 ## Server-Benutzer bestellen
