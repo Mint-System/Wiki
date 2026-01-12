@@ -164,6 +164,17 @@ Dieses Plugin intergriert <https://excalidraw.com/> in Obsidian. Es ist ein ausg
 
 Wähle eine Notiz im Ordner aus, wo die Excalidraw-Zeichnung erstellt werden soll. Rufe den Befehl `Excalidraw: Create new drawing` auf.
 
+### Active User and Participants
+
+Obsidian kennt keine Benutzer. Mit diesem Plugin kann man Teilnehmer eines Vaults definierten und den eigenen Benutzer festlegen.
+
+> Wie tagge ich ein Teilnehmer?
+
+Geben Sie `@` und den Namen des Teilnehmers ein. Drücken Sie bei der Auswahl `Enter` und Obsidian fügt einen Mention-Link ein.
+
+::: tip
+Wenn die Option _Wikilinks_ deaktiviert ist, haben die Mention-Links das gleiche Format wie die aus der Nextcloud generierten Mentions-Links. 
+:::
 ### Bases
 
 Ist eine Obidian Core-Plugin. Mit Bases können die Frontmatter-Metadaten als Liste oder Kachel angezeigt werden.
