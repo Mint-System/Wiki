@@ -29,7 +29,7 @@ Du kannst Obsidian von <https://obsidian.md/> herunterladen und installieren.
 
 Wenn du Obsidian das erste Mal öffnest, wirst aufgeordert einen Vault zu erstellen oder zu öffnen. Der Vault ist ausgewählter Ordner, der mit Obsidian verwaltet werden soll 
 
-wir nehmen an, dass der Nextcloud-Ordner in das Verzeichnis `/home/janikvonrotz/cloud.mint-system.ch/` synchronisiert wurde.
+Wir nehmen an, dass der Nextcloud-Ordner in das Verzeichnis `/home/janikvonrotz/cloud.mint-system.ch/` synchronisiert wurde.
 
 Du kannst mit Obsidian diesen Vault/Ordner öffnen: `/home/janikvonrotz/cloud.mint-system.ch/Mint System/`. Beim ersten Mal fragt OBsidian, ob man dem Author vertrauen möchte. Bestätige den Dialog mit Ja. 
 
