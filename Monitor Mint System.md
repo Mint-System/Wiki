@@ -1,7 +1,7 @@
 ---
 kind: reference
 section: infrastructure
-titl: Monitor Mint System
+title: Monitor Mint System
 website: https://monitor.mint-system.ch
 ---
 ## Metriken
