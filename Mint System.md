@@ -1,7 +1,6 @@
 ---
 title: Mint System
-kind:
-  - reference
+kind: reference
 section: organisation
 ---
 

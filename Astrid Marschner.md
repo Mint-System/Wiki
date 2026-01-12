@@ -1,6 +1,5 @@
 ---
-kind:
-  - reference
+kind: reference
 section: organisation
 ---
 

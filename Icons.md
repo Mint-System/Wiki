@@ -1,8 +1,7 @@
 ---
 title: Icons
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
 
 Zu Generierung von Icons wird <https://spilymp.github.io/ibo/> verwendet.

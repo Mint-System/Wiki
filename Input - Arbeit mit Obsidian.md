@@ -1,8 +1,7 @@
 ---
 title: Input - Arbeit mit Obsidian
 section: training
-kind:
-  - tutorial
+kind: tutorial
 ---
 Dieses Tutorial erläutert die Arbeit mit [[Obsidian]]. Es ist in Abschnitten mit Leitfragen unterteilt.
 
@@ -27,11 +26,11 @@ Du kannst Obsidian von <https://obsidian.md/> herunterladen und installieren.
 
 > Was ist ein Obsidian Vault?
 
-Wenn du Obsidian das erste Mal öffnest, wirst aufgeordert einen Vault zu erstellen oder zu öffnen. Der Vault ist ausgewählter Ordner, der mit Obsidian verwaltet werden soll 
+Wenn du Obsidian das erste Mal öffnest, wirst aufgeordert einen Vault zu erstellen oder zu öffnen. Der Vault ist ausgewählter Ordner, der mit Obsidian verwaltet werden soll
 
 Wir nehmen an, dass der Nextcloud-Ordner in das Verzeichnis `/home/janikvonrotz/cloud.mint-system.ch/` synchronisiert wurde.
 
-Du kannst mit Obsidian diesen Vault/Ordner öffnen: `/home/janikvonrotz/cloud.mint-system.ch/Mint System/`. Beim ersten Mal fragt OBsidian, ob man dem Author vertrauen möchte. Bestätige den Dialog mit Ja. 
+Du kannst mit Obsidian diesen Vault/Ordner öffnen: `/home/janikvonrotz/cloud.mint-system.ch/Mint System/`. Beim ersten Mal fragt OBsidian, ob man dem Author vertrauen möchte. Bestätige den Dialog mit Ja.
 
 Wenn ein Ordner als Vault festgelegt wird, dann legt Obsidian im Ordner einen versteckten Datenordner `.obsidian` an. In unserem Fall ist das `/home/janikvonrotz/cloud.mint-system.ch/Mint System/.obisidian/`.
 
@@ -80,7 +79,7 @@ Es gibt keinen Speichern-Befehl in Obsidian. Alle Bearbeitungen werden direkt ge
 :::
 
 ::: tip
-Drücke `ctrl` + `shift` + `R` um die geöffnete Datei in der Ordnerstruktur anzuzeigen. 
+Drücke `ctrl` + `shift` + `R` um die geöffnete Datei in der Ordnerstruktur anzuzeigen.
 :::
 
 ### Markdown
@@ -139,7 +138,7 @@ Im `Mint System` Vault findet man einen Ordner `templates`. Hier sind alle verf�
 
 > Wie erstelle ich eine Datei aus einer Vorlage?
 
-Um eine Datei aus einer Vorlage zu erstellen, musst du zuerst eine Datei im Ordner, wo die neue Datei erstellt werden soll, auswählen. Rufe die Befehlspalette auf und führen den Befehl `QuickAdd: Run QuickAdd` aus. Wähle eine Vorlage aus und gib Werte für die Platzhalter ein. 
+Um eine Datei aus einer Vorlage zu erstellen, musst du zuerst eine Datei im Ordner, wo die neue Datei erstellt werden soll, auswählen. Rufe die Befehlspalette auf und führen den Befehl `QuickAdd: Run QuickAdd` aus. Wähle eine Vorlage aus und gib Werte für die Platzhalter ein.
 
 ### Tabellen
 
@@ -173,7 +172,7 @@ Obsidian kennt keine Benutzer. Mit diesem Plugin kann man Teilnehmer eines Vault
 Geben Sie `@` und den Namen des Teilnehmers ein. Drücken Sie bei der Auswahl `Enter` und Obsidian fügt einen Mention-Link ein.
 
 ::: tip
-Wenn die Option _Wikilinks_ deaktiviert ist, haben die Mention-Links das gleiche Format wie die aus der Nextcloud generierten Mentions-Links. 
+Wenn die Option _Wikilinks_ deaktiviert ist, haben die Mention-Links das gleiche Format wie die aus der Nextcloud generierten Mentions-Links.
 :::
 ### Bases
 
@@ -190,4 +189,3 @@ Ist eine Obidian Core-Plugin. Mit Canvas önnen einfache Diagramme erstellt werd
 > Wie nutze ich den Obsidian Canvas?
 
 Du kann in der linken Leiste auf das Canvas-Icon klicken und erstellt so im aktuellen Verzeichnis eine `Unbenannt.canvas` Datei.
-

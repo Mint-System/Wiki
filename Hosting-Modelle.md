@@ -1,7 +1,6 @@
 ---
 title: Hosting-Modelle
-kind:
-  - explain
+kind: explain
 section: communication
 ---
 

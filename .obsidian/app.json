@@ -17,7 +17,7 @@
     "src/"
   ],
   "showInlineTitle": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "vimMode": false,
   "promptDelete": false,
   "strictLineBreaks": true,

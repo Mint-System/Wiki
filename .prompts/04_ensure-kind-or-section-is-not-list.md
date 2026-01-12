@@ -6,8 +6,7 @@ Here is an example of the `./API Key.md` file.
 
 ```markdown
 ---
-kind:
-  - explain
+kind: explain
 section: term
 ---
 

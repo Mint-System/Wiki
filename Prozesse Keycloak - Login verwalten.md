@@ -1,7 +1,6 @@
 ---
 section: process
-kind:
-  - howto
+kind: howto
 ---
 ## Passwort festlegen
 

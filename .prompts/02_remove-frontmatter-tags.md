@@ -7,8 +7,7 @@ Here is a simple example for `bpmn.io.md`:
 tags:
   - Definition
 section: tool
-kind:
-  - reference
+kind: reference
 website: https://bpmn.io/
 ---
 
@@ -20,8 +19,7 @@ After the change:
 ```markdown
 ---
 section: tool
-kind:
-  - reference
+kind: reference
 website: https://bpmn.io/
 ---
 

@@ -1,6 +1,5 @@
 ---
-kind:
-  - reference
+kind: reference
 section: infrastructure
 titl: Monitor Mint System
 website: https://monitor.mint-system.ch

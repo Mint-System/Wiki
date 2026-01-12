@@ -1,8 +1,7 @@
 ---
 title: Mint System GmbH
 website: https://www.mint-system.ch
-kind:
-  - reference
+kind: reference
 section: organisation
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Login Mint System
 website: https://login.mint-system.ch
-kind:
-  - explain
+kind: explain
 section: infrastructure
 ---
 
@@ -36,4 +35,3 @@ Für eine Odoo Integration müssen die folgenden Informationen verfügbar sein:
 Damit die Odoo Installation Zugriff auf den Identitäts-Anbieter hat, muss Odoo als Client erfasst werden.
 
 Mehr Details zur Konfiguration sind hier verfügbar: https://janikvonrotz.ch/2020/04/30/role-based-access-control-for-multiple-keycloak-clients/.
-
