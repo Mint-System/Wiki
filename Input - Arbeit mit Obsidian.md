@@ -189,3 +189,9 @@ Ist eine Obidian Core-Plugin. Mit Canvas önnen einfache Diagramme erstellt werd
 > Wie nutze ich den Obsidian Canvas?
 
 Du kann in der linken Leiste auf das Canvas-Icon klicken und erstellt so im aktuellen Verzeichnis eine `Unbenannt.canvas` Datei.
+
+### Emoji Shortcodes
+
+> Wie füge ich Emojies ein?
+
+Drücke `:` im Editor und du kannst nach einem Emoji suchen.
