@@ -53,27 +53,30 @@ Hallo VORNAME
 
 Ich habe für dich unter der Adresse MAIL_ADRESS﻿﻿E mehrere Accounts erstellt:
 
-- Infomaniak Account
-- Infomaniak Postfach
+- Infomaniak Account / Postfach
 - Login Mint System
 - ERP Mint System
+- Cloud Mint System
+- Git Mint System
+- Monitor Mint System
 - Matrix Mint System
 
 Der erste Schritt ist die Einrichtung des Postfachs. Du solltest auf deine private Mail-Adresse eine Einladungsmails mit Details erhalten haben.
 
 In einem zweiten Schritt kannst du dein Passwort und die 2-Faktor-Authentisierung für das Login Mint System festlegen: https://wiki.mint-system.ch/prozesse-keycloak-login-verwalten.html
 
-Mit diesem Login kannst dich anschliessend auf den folgenden Diensten einloggen:
+Mit diesem Login kannst dich anschliessend bei den folgenden Diensten anmelden:
 
 - https://erp.mint-system.ch/
 - https://cloud.mint-system.ch/
+- https://mint.app.codey.ch/
 - https://monitor.mint-system.ch/
 
 Anstatt den Benutzernamen und Passwort einzugeben, wählst du jeweils den Knopf "Login Mint System".
 
 Als letzter Schritt kannst du den Nextcloud Desktop-Client auf deinem Gerät installieren: https://wiki.mint-system.ch/prozesse-nextcloud-desktop-client.html
 
-Bitte teile mir, wenn das erledigt ist. Dann kann ich deinem Benutzer noch weitere Zugriffe auf unserer Nextlcoud und Infomaniak erteilen.
+Bitte teile mir, wenn das erledigt ist. Dann kann ich deinem Benutzer weitere Zugriffe auf den Diensten erteilen.
 
 Lieber Gruss
 ```
