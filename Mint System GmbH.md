@@ -20,7 +20,7 @@ Vercel Domains:
 
 UID: CHE-150.248.608
 
-Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]], [[Mint System Website]], [[Mint System GmbH - Mitarbeitende]]
+Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]], [[Mint System Website]], [[Mint System GmbH - Mitarbeitende]], [[Interne Dienste]]
 
 ## Schreibweise
 

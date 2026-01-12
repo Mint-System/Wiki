@@ -1,12 +1,10 @@
 ---
-title: Monitoring
+kind:
+  - reference
+section: infrastructure
+titl: Monitor Mint System
 website: https://monitor.mint-system.ch
 ---
-
-Für das Monitoring der Systeme setzt Mint System [[Grafana]] and [[Prometheus]] ein.
-
-Weiterführende Links: [[Monitoring Server]]
-
 ## Metriken
 
 Es werden fünf Typen von Metriken gesammelt:

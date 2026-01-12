@@ -5,4 +5,4 @@ website: https://grafana.com
 
 Dashboard for Promethus metrics.
 
-Siehe [[Monitoring]] und [[Grafana Dashboard]].
+Siehe [[Monitor Mint System]] und [[Grafana Dashboard]].
