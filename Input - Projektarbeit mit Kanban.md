@@ -4,7 +4,6 @@ section: training
 kind: tutorial
 ---
 
-
 ## Über
 
 > Was ist Kanban?
