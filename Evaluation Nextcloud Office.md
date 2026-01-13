@@ -1,5 +1,7 @@
 ---
 title: Evaluation Nextcloud Office
+section: dev
+kind: explain
 ---
 
 Which one is better [[Collabora Online]] or [[OnlyOffice]]?

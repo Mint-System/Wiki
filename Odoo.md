@@ -18,7 +18,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 
 - [[Odoo Umgebungen]]
 - [[Odoo E-Mail Integration]]
-- [[Odoo Drucken]]
+- [[Evaluation Odoo Drucken]]
 - [[Odoo Connector]]
 - [[Odoo Lifecycle]]
 

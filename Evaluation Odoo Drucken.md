@@ -1,11 +1,10 @@
 ---
-title: Odoo Drucken
+title: Evaluation Odoo Drucken
 section: dev
 kind: explain
 ---
 
 Direkt aus Odoo drucken.
-
 ## Evaluation
 
 Welches ist die beste Druckerlösung für Odoo?

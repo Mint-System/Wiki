@@ -1,13 +1,20 @@
 ---
-list: Spezifikationen
+title: Spezifikationen
 kind: reference
-section: bases
+section: specification
 ---
 
-| file.name | kind | section |
-| --- | --- | --- |
-| [[Specification Git Kubernetes]] | explain | specification |
-| [[Specification Social Mastodon]] | explain | specification |
-| [[Specification Website Sale Helm]] | explain | specification |
-| [[Specification Website Sale Kubernetes Subscription OCA]] | explain | specification |
-| [[Spezifikation Mint Cloud]] | explain | specification |
+Die folgenden Spezifikationen sind öffentlich und Teil von Mint System Innovationen.
+
+Draft:
+
+- [[Specification Git Kubernetes]]
+
+Released:
+
+- [[Specification Social Mastodon]]
+- [[Specification Website Sale Helm]]
+
+Deprecated:
+
+- [[Specification Website Sale Kubernetes Subscription OCA]]
