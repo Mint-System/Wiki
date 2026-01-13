@@ -9,6 +9,7 @@ section: bases
 | [[Affiliate-Marketing]] | reference | communication |
 | [[Demoumgebungen]] | reference | communication |
 | [[Develope an Odoo module]] | explain | communication |
+| [[Hosting-Modelle]] | explain | communication |
 | [[Mail Security]] | explain | communication |
 | [[Mint System Website]] | reference | communication |
 | [[Nextcloud App Elektronische Signaturen]] | reference | communication |

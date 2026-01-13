@@ -37,4 +37,5 @@ section: bases
 | [[TOTP Auth]] | reference | term |
 | [[Update]] | explain | term |
 | [[Upgrade]] | explain | term |
+| [[Virtualisierung]] | reference | term |
 | [[Zero-Trust-Architektur]] | reference | term |

@@ -11,6 +11,16 @@ section: bases
 <strong>section:</strong> account<br/>
 </div>
 <div style="border: 1px solid #eaecef; padding: 1.5rem;">
+<strong><a href="codeberg-organisation.html">Codeberg Organisation</a></strong><br/><br/>
+<strong>kind:</strong> reference<br/>
+<strong>section:</strong> account<br/>
+</div>
+<div style="border: 1px solid #eaecef; padding: 1.5rem;">
+<strong><a href="codey-organisation.html">Codey Organisation</a></strong><br/><br/>
+<strong>kind:</strong> reference<br/>
+<strong>section:</strong> account<br/>
+</div>
+<div style="border: 1px solid #eaecef; padding: 1.5rem;">
 <strong><a href="digital-cluster-uri-bot.html">Digital cluster Uri Bot</a></strong><br/><br/>
 <strong>kind:</strong> reference<br/>
 <strong>section:</strong> account<br/>

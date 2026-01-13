@@ -21,8 +21,11 @@ section: bases
 | [[Infomaniak]] | reference | vendor |
 | [[Inventage]] | reference | vendor |
 | [[Nine]] | reference | vendor |
+| [[Servala]] | reference | vendor |
 | [[TUXEDO Computers]] | reference | vendor |
 | [[Ubuntu]] | reference | vendor |
+| [[VMware]] | reference | vendor |
+| [[VSHN - Central Control Plane]] | reference | vendor |
 | [[Worldline]] | reference | vendor |
 | [[peoplefone]] | reference | vendor |
 | [[ungleich GmbH]] | reference | vendor |

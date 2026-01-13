@@ -1,7 +1,6 @@
 ---
 title: Vorlage Spezifikation Modul
 kind: reference
-repository: '`Odoo-Apps-Account-Invoicing`'
 section: template
 ---
 

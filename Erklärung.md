@@ -4,6 +4,8 @@ kind: explain
 section: meta
 ---
 
+Beispiele:
+
 - [[Odoo]]
 - [[Unternehmensentwicklung]]
 - [[Partner]]

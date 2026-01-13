@@ -9,8 +9,6 @@ section: bases
 | [[Git Forks]] | tutorial |  |  |
 | [[Entwicklung]] | reference |  |  |
 | [[Evaluation Odoo Hardware]] | reference |  |  |
-| [[Fonts]] | reference |  |  |
-| [[GParted]] | reference |  |  |
 | [[Hosting-Projekte]] | reference |  |  |
 | [[Kubernetes Service]] | reference |  |  |
 | [[Login with GitLab]] | reference |  |  |
@@ -33,7 +31,6 @@ section: bases
 | [[Open Source Software]] | reference |  |  |
 | [[OPNSense]] | reference |  |  |
 | [[OSS Directory]] | reference |  |  |
-| [[OTP Auth]] | reference |  |  |
 | [[Proxmox]] | reference |  |  |
 | [[Sidebery]] | reference |  |  |
 | [[Signaturen]] | reference |  |  |
@@ -43,16 +40,13 @@ section: bases
 | [[TOC]] | reference |  |  |
 | [[Verbesserungsvorschläge]] | reference |  |  |
 | [[Verkauf]] | reference |  |  |
-| [[Virtualisierung]] | reference |  |  |
 | [[Visual Studio Code]] | reference |  |  |
-| [[VMware]] | reference |  |  |
 | [[Vuepress]] | reference |  |  |
 | [[Wasmtime]] | reference |  |  |
 | [[WebAssembly]] | reference |  |  |
 | [[Website]] | reference |  |  |
 | [[Wiki Mint System]] | reference |  |  |
 | [[Wordpress]] | reference |  |  |
-| [[Odoo Email Konfiguration]] | howto |  |  |
 | [[Restic - Wiederherstellung von Backups]] | howto |  |  |
 | [[Evaluation IaaS]] | explain |  |  |
 | [[Kubernetes Cluster]] | explain |  |  |
@@ -68,8 +62,6 @@ section: bases
 | [[README]] | explain |  |  |
 | [[System Implementation]] | explain |  |  |
 | [[Weiterbildung]] | explain |  |  |
-| [[Astrid Marschner]] |  |  |  |
-| [[Bruno Hengartner]] |  |  |  |
 | [[ERP Mint System]] |  |  |  |
 | [[ETL-Prozess]] |  |  |  |
 | [[Evaluation Nextcloud Office]] |  |  |  |
@@ -81,8 +73,6 @@ section: bases
 | [[Grafana]] |  |  |  |
 | [[Grafana Dashboard]] |  |  |  |
 | [[Hosting Provider]] |  |  |  |
-| [[Hosting-Modelle]] |  |  |  |
-| [[Icons]] |  |  |  |
 | [[Ideation]] |  |  |  |
 | [[Inkscape]] |  |  |  |
 | [[Interne Links]] |  |  |  |
@@ -100,7 +90,6 @@ section: bases
 | [[Kuberenetes Worker Nodes]] |  |  |  |
 | [[Kubernetes Control Planes]] |  |  |  |
 | [[Kunden]] |  |  |  |
-| [[Laurens Kooijman]] |  |  |  |
 | [[Let's Encrypt]] |  |  |  |
 | [[LibreOffice]] |  |  |  |
 | [[LibreOffice Impress]] |  |  |  |
@@ -120,15 +109,11 @@ section: bases
 | [[Mehrwertsteuer]] |  |  |  |
 | [[Mint Cloud]] |  | project |  |
 | [[Mint SaaS]] |  |  |  |
-| [[Mint System]] |  |  |  |
 | [[Mint System als Subunternehmen]] |  | organisation |  |
-| [[Mint System GmbH]] |  |  |  |
-| [[Mint System Login]] |  |  |  |
+| [[Mint System Login]] |  | service |  |
 | [[Mint System Odoo]] |  |  | en |
 | [[Mint System Referenzen]] |  |  |  |
 | [[Mitarbeit]] |  |  |  |
-| [[Monitoring]] |  |  |  |
-| [[Monitoring Server]] |  |  |  |
 | [[Mythen über Open Source]] |  |  |  |
 | [[Netzwerk]] |  |  |  |
 | [[Nextcloud Marketing]] |  |  |  |
@@ -161,12 +146,10 @@ section: bases
 | [[Odoo.sh Entwicklung]] |  |  |  |
 | [[Odoo.sh Projekte]] |  |  |  |
 | [[Odoo.sh Upgrade]] |  |  | en |
-| [[Office 365 Exchange für Odoo konfigurieren]] |  |  |  |
 | [[Office Open XML]] |  |  |  |
 | [[One Time Password Authentication]] |  |  |  |
 | [[Open Broadcast Software]] |  |  |  |
 | [[Open Sans]] |  |  |  |
-| [[Open Service Broker API]] |  |  |  |
 | [[Open Source]] |  |  |  |
 | [[OpenShift]] |  |  |  |
 | [[OpenUpgrade]] |  |  |  |
@@ -177,7 +160,7 @@ section: bases
 | [[OWASP-Sicherheitslücken]] |  |  |  |
 | [[PaaS]] |  |  |  |
 | [[Personal]] |  | organisation |  |
-| [[Philosophie]] |  |  |  |
+| [[Philosophie]] |  | organisation |  |
 | [[Problemanalyse Support]] |  |  |  |
 | [[Produktentwicklung]] |  | organisation |  |
 | [[Prometheus]] |  |  |  |
@@ -189,8 +172,6 @@ section: bases
 | [[Scalable Kubernetes Service]] |  |  |  |
 | [[Service Level Agreement Hosting]] |  |  |  |
 | [[Services]] |  |  | en |
-| [[SMTP-Fehler]] |  |  |  |
-| [[SMTP-Skripte]] |  | tool |  |
 | [[Social Media]] |  |  |  |
 | [[Sociocracy 3.0]] |  |  |  |
 | [[Spesenreglement]] |  |  |  |
@@ -219,12 +200,9 @@ section: bases
 | [[VSCode]] |  |  |  |
 | [[VSCodium]] |  | tool |  |
 | [[VSHN - Application Marketplace]] |  |  |  |
-| [[VSHN - Central Control Plane]] |  |  |  |
 | [[Wartungsvertrag]] |  |  |  |
 | [[Web Analytics]] |  |  |  |
 | [[Webapplikation]] |  |  |  |
-| [[Wissensdomäne]] |  |  |  |
-| [[Inputs]] |  |  |  |
 | [[Workshop Gap-Analyse]] |  |  |  |
 | [[XPath]] |  |  |  |
 | [[Zellj]] |  | tool |  |

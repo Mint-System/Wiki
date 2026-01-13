@@ -20,18 +20,19 @@ section: bases
 | [[Exoscale cli]] | howto | tool |
 | [[Fernwartung]] | explain | tool |
 | [[Firefox]] | reference | tool |
+| [[GParted]] | reference | tool |
 | [[Helix]] | reference | tool |
 | [[LibreWolf]] | reference | tool |
 | [[Mermaidjs]] | reference | tool |
 | [[Microsoft Authenticator]] | howto | tool |
 | [[N8N]] | reference | tool |
 | [[Nextcloud Destkop Client]] | tutorial | tool |
+| [[OTP Auth]] | reference | tool |
 | [[Oh-My-Zsh]] | reference | tool |
 | [[OnlyOffice]] | reference | tool |
 | [[Passwortmanager]] | explain | tool |
 | [[Plausible]] | reference | tool |
 | [[Putty]] | reference | tool |
-| [[SMTP-Skripte]] |  | tool |
 | [[Skripte]] | reference | tool |
 | [[Sublime]] | reference | tool |
 | [[Terminal]] | explain | tool |

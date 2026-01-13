@@ -4,4 +4,6 @@ kind: tutorial
 section: meta
 ---
 
-- [[Methodik]]
+Beispiele:
+
+- [[Projektarbeit]]

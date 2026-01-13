@@ -37,6 +37,7 @@ section: bases
 | [[Fosstodon]] | https://fosstodon.org |  |
 | [[GParted]] | https://gparted.org/ |  |
 | [[Gaapex]] | https://www.gaapex.ch/ |  |
+| [[Git Mint System]] | https://mint.app.codey.ch/ |  |
 | [[Git]] | https://git-scm.com/ |  |
 | [[GitHub]] | https://github.com/ |  |
 | [[GitLab]] | https://gitlab.com |  |
@@ -81,7 +82,7 @@ section: bases
 | [[Mint System GmbH]] | https://www.mint-system.ch |  |
 | [[Mint System Login]] | https://login.mint-system.ch |  |
 | [[Mint System Odoo]] | https://odoo.build/image/ |  |
-| [[Monitoring]] | https://monitor.mint-system.ch |  |
+| [[Monitor Mint System]] | https://monitor.mint-system.ch |  |
 | [[Moodle]] | https://moodle.org/ |  |
 | [[N8N]] | https://n8n.io/ |  |
 | [[New Rubrik Edge]] | https://newlyn.com/fonts/new-rubrik-edge/ |  |
@@ -115,7 +116,6 @@ section: bases
 | [[OnlyOffice]] | https://www.onlyoffice.com/de/ |  |
 | [[Open Broadcast Software]] | https://obsproject.com/ |  |
 | [[Open Sans]] | https://fonts.google.com/specimen/Open+Sans |  |
-| [[Open Service Broker API]] | https://www.openservicebrokerapi.org/ |  |
 | [[Open Source Software]] | https://opensourcesoftware.ch |  |
 | [[OpenEduca]] | https://openeduca.ch |  |
 | [[OpenShift]] | https://www.redhat.com/en/technologies/cloud-computing/openshift |  |
@@ -130,6 +130,7 @@ section: bases
 | [[Restic]] | https://restic.net/ |  |
 | [[Scalable Kubernetes Service]] | https://www.exoscale.com/sks/ |  |
 | [[Semantic Versioning]] | https://semver.org/ |  |
+| [[Servala]] | https://servala.com/ |  |
 | [[Sociocracy 3.0]] | https://sociocracy30.org/ |  |
 | [[Sublime]] | https://www.sublimetext.com/ |  |
 | [[Syscoon GmbH]] | https://syscoon.com/ |  |
@@ -139,9 +140,9 @@ section: bases
 | [[Thunderbird]] | https://www.thunderbird.net |  |
 | [[VMware]] | https://www.vmware.com/ |  |
 | [[VSCodium]] | https://vscodium.com/ |  |
-| [[VSHN AG]] | https://www.vshn.ch |  |
 | [[VSHN - Application Marketplace]] | https://www.vshn.ch/produkte/marketplace/ |  |
 | [[VSHN - Central Control Plane]] | https://kb.vshn.ch/app-catalog/reference/arch-control-plane.html |  |
+| [[VSHN AG]] | https://www.vshn.ch |  |
 | [[Ventor PRO]] | https://ventor.app |  |
 | [[Vercel]] | https://vercel.com/mint-system |  |
 | [[Visual Studio Code]] | https://code.visualstudio.com/ |  |

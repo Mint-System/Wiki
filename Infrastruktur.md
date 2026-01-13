@@ -21,6 +21,7 @@ section: bases
 | [[DRP - Server Totalausfall mit Odoo]] | howto | infrastructure |
 | [[Domains]] | reference | infrastructure |
 | [[FireHOL]] | reference | infrastructure |
+| [[Git Mint System]] | reference | infrastructure |
 | [[Helm Values]] | reference | infrastructure |
 | [[Infrastructure Mint System]] | explain | infrastructure |
 | [[Innernet]] | reference | infrastructure |
@@ -31,6 +32,7 @@ section: bases
 | [[Mailgun]] | howto | infrastructure |
 | [[Main Build]] | reference | infrastructure |
 | [[Mintsys]] | reference | infrastructure |
+| [[Monitor Mint System]] | reference | infrastructure |
 | [[Server]] | reference | infrastructure |
 | [[Servers]] | reference | infrastructure |
 | [[Telefonie]] | reference | infrastructure |
