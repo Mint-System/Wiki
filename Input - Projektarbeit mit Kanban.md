@@ -19,11 +19,11 @@ kind: tutorial
 
 
 
-## Prinzipien
+## Kanban-Prinzipien
 
 > Welche Kanban-Prinzipien gibt es?
 
-
+[[Kanban|Kanban]]
 
 ## Odoo Projekt
 
@@ -53,6 +53,12 @@ kind: tutorial
 > Wie schliesst man eine Aufgabe ab?
 
 
+### Todos
+
+> Was sind Todos?
+
+
+
 ### Zeiterfassung
 
 > Wo sehe ich die erfasste Zeit?
@@ -75,7 +81,33 @@ kind: tutorial
 > Wie entscheidet man ob eine Aufwand abgerechnet wird?
 
 
-### Aufwandsschätzung
+### Phasen
 
-> Wie wird der Aufwand für ein Projekt geschätzt?
+> Was sind Projekt-Phasen?
 
+
+
+> Wie werden Projekt-Phasen genutzt?
+
+
+
+## Odoo Dialog
+
+### Chatter
+
+> Was ist der Odoo Chatter?
+
+
+
+### Nachrichten
+
+> Was ist der Unterschied zwischen Nachrichten und Notizen?
+
+
+
+> Wie versende ich Nachrichten?
+
+
+### Aktivitäten
+
+> Wie nutze ich Odoo Aktivitäten?
