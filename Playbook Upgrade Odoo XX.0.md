@@ -126,3 +126,13 @@ Merge the upgrade host definition into the main host definition.
 ## Troubleshooting 💡
 
 ==Document and resolve upgrade issues.==
+
+### ==Title of the issue== 🟥
+
+**Problem**
+
+==How to reproduce the problem?==
+
+**Solution**
+
+==What is the solution to resolve the issue?==
