@@ -45,14 +45,22 @@ kind: tutorial
 
 
 
-> Wie bearbeite ich eine Aufgabe?
+> Wie werden Aufgaben-Titel formuliert?
 
 
 
-> Wie schliesst man eine Aufgabe ab?
+> Wann ist eine Aufgabe in Bearbeitung?
+
+
+
+> Wie erledigt man eine Aufgabe?
 
 
 ### Todos
+
+> Wie wird eine Aufgabe zerlegt?
+
+
 
 > Was sind Todos?
 
@@ -77,7 +85,7 @@ kind: tutorial
 
 
 
-> Wie entscheidet man ob eine Aufwand abgerechnet wird?
+> Wie entscheidet ich ob eine Aufwand abgerechnet werden soll?
 
 
 ### Phasen
