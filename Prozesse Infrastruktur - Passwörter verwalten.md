@@ -17,7 +17,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- Eien Mint System Passwort-Datenbank öffnen
+- Eine Mint System Passwort-Datenbank öffnen
 - Ein neue Eintrag gemäss [[Richtlinie - Passwortmanager]] erstellen
 - Speichern und Datenbank synchronisieren
 
