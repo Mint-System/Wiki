@@ -33,12 +33,12 @@ Arbeitsschritte:
 - Alle Aufträge eines Projekts markieren
 - _Aktion > Rechnungen erstellen_ ausführen
 - Rechnung prüfen und bestätigen
-- Auf der Rechnung _Senden & Drucken_ aufsühren
+- Auf der Rechnung _Senden & Drucken_ ausführen
 - Das E-Mail prüfen und versenden
 
 ## Abonnements abrechnen
 
-Die Abonnments erzeugen automatisch eine Rechnung.
+Die Abonnements erzeugen automatisch eine Rechnung.
 
 Arbeitsschritte:
 
