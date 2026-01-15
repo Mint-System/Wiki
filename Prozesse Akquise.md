@@ -6,22 +6,20 @@ section: process
 
 Dokumentation der Akquise Prozesse.
 
-```mermaid
-graph LR;
-    A[Kontakaufnahme]-->B[Qualifikation];
-    B-->G[Präsentation];
-    G-->C[Anforderungsanalyse];
-    C-->D[Odoo Demoumgebung bestellen];
-    D-->E[Angebot erstellen]
-	E-->F[Konzept erstellen]
-```
+## Kontaktaufnahme
 
 - [[Prozesse Akquise - Kontaktaufnahme]]
 - [[Prozesse Akquise - Qualifikation]]
 - [[Prozesse Akquise - Präsentation]]
+
+## Analyse
+
 - [[Prozesse Akquise - Anforderungsanalyse]]
 - [[Prozesse Akquise - Analyse Odoo Customization]]
 - [[Prozesse Akquise - Odoo Testumgebung erstellen]]
 - [[Prozesse Akquise - Workshop Gap-Analyse]]
+
+## Angebot
+
 - [[Prozesse Akquise - Angebot erstellen]]
 - [[Prozesse Akquise - Konzept erstellen]]

@@ -6,7 +6,7 @@ section: process
 
 Vorbereitung für eine Präsentation beim Kunden.
 
-## Unternehmen
+## Unternehmen präsenteiren
 
 Arbeitsschritte:
 

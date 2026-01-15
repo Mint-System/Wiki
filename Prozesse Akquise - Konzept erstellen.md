@@ -12,5 +12,5 @@ Arbeitsschritte:
 - Die Textbausteine und Produktbeschreibungen kopieren und anpassen
 - Vorgehen mit [[Phasen]] definieren
 - [[Vorlage Aufwandsschätzung]] hinzufügen
-- Das Konzpet mit dem Angebot verlinken
+- Das Konzept mit dem Angebot verlinken
 - Die Aufwandsschätzung im Angebot anpassen
