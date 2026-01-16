@@ -64,6 +64,6 @@ Alle Wiki-Einträge können im Frontmatter Metadaten enthalten. Folgende Metadat
 
 - `tags`: Auswahl aus der Liste von [[Tags]].
 - `responsible`: Person oder Rolle Verantwortlich für den Prozess.
-- `responsibilities`: Bereiche in der Verwantwortung der Person.
+- `responsibilities`: Bereiche in der Verantwortung der Person.
 - `title`: Alternativer Name für den Artikel.
-- `type`: Zuordnung Bereich Dokumentationssytem.
+- `type`: Zuordnung Bereich Dokumentationssystem.
