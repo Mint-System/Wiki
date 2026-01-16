@@ -34,7 +34,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- Matrix-Benutzer auf dem [[Matrix Server]] erstellen
+- Matrix-Benutzer auf dem [[Chat Mint System]] erstellen
 	- Das Matrix Standard-Passwort festlegen
 - Auf [[Login Mint System]] einen Keycloak-Benutzer anlegen
 	- Benötigte Benutzer-Aktionen festlegen: Configure OTP, Update Password
