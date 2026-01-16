@@ -5,39 +5,4 @@ kind: explain
 
 Geschäftsbeziehungen der Mint System.
 
-## Odoo
-
-- [[Odoo S.A.]]
-- [[OCA]]
-
-## Odoo Partner
-
-- [[nivels GmbH]]
-- [[giordano.ch ag]]
-- [[Equitania Software GmbH]]
-- [[Syscoon GmbH]]
-
-## Odoo Treuhänder
-
-- [[Gaapex]]
-- [[OPTEX Treuhand AG]]
-
-## Management Luftfahrt
-
-- [[dbpConcepts GmbH]]
-
-## [[Nextcloud Partner]]
-
-- [[Nextcloud GmbH]]
-
-## Infrastruktur
-
-- [[VSHN AG]]
-
-## Softwareentwicklung
-
-- [[BINARY one GmbH]]
-
-## Trägerschaften
-
-- [[inosca]]
+Liste der Partner auf der Website: <https://www.mint-system.ch/partner>
