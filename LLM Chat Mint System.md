@@ -1,7 +1,7 @@
 ---
 title: LLM Chat Mint System
 kind: reference
-website: https://webui.mint-system.ch/
+website: https://chatgpt.mint-system.ch/
 section: infrastructure
 ---
 
