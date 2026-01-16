@@ -1,6 +1,6 @@
 ---
 title: terra computer
 kind: reference
-section: infrastructure
+section: vendor
 website: https://terra-computer.ch
 ---
