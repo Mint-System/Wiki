@@ -37,7 +37,8 @@ done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 
 Arbeitsschritte:
 
-- Mitteilung an Kunde via Odoo Dialog
+- Mitteilung an Projektleiter in Aufgabe _Projektadministration_
+- Mitteilung an Kunde via Odoo Dialog > Kanal _Allgemein_
 
 ```
 Guten Tag
