@@ -37,9 +37,8 @@ Update snippets.
 
 ```bash
 source task load-env acme
-HOST="$TARGET_HOST"
-task disable-snippet $HOST snippets/sale.report_saleorder_document.add_note_space.xml
-task install-snippet $HOST snippets/sale.report_saleorder_document.add_signature_note.xml
+task disable-snippet $TARGET_HOST snippets/sale.report_saleorder_document.add_note_space.xml
+task install-snippet $TARGET_HOST snippets/sale.report_saleorder_document.add_signature_note.xml
 ```
 
 ## Testing 🔬
