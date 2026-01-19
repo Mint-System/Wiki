@@ -35,9 +35,9 @@ Umgang mit LLM Chat und lokales Tooling.
 > Was sind die Informaniak AI Tools?
 
 
-## Open WebUI
+## Open Code
 
-> Was ist Open WebUI?
+> Was ist Open Code?
 
 
 
