@@ -6,3 +6,5 @@ section: infrastructure
 ---
 
 Das ist eine [[Open WebUI]] Instanz verbunden mit [[Infomaniak]].
+
+Anleitung: [[LLM Chat Mint System - Erste Schritte]]
