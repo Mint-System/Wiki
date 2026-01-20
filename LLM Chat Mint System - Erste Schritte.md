@@ -3,7 +3,7 @@ section: guide
 kind: tutorial
 ---
 
-## Einlogen
+## Einloggen
 
 Öffne die Url <https://chatgpt.mint-system.ch/> und klick auf _Login Mint System_.
 
