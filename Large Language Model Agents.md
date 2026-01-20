@@ -5,8 +5,8 @@ kind: reference
 section: dev
 ---
 
-Here is a list of LLM agents:
+LLM agents manages feedback loop between you and an LLM model, while it acts on you behalf. You grant the agents access to selected resources, such as a folder with files or a git project. The agents then tries to accomplish a goal.
 
-- [[Qwen Coder]]
+We made a basic comparison of such models: [[Compare coding agents]]
 
-[[Compare coding agents]]
+There are many coding agents available. In the OSS realm there is [[OpenCode]].

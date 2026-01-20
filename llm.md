@@ -1,5 +1,5 @@
 ---
-title: LLM
+title: llm
 kind: explain
 section: term
 website: https://datasette.io/tools/llm

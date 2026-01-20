@@ -22,3 +22,4 @@ Erledigte Evaluationen:
 - [[Evaluation Odoo Report]]
 - [[Evaluation Nextcloud Office]]
 - [[Evaluation Odoo Drucken]]
+- [[Compare coding agents]]
