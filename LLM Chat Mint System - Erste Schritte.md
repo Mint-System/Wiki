@@ -5,7 +5,7 @@ kind: tutorial
 
 ## Einlogen
 
-Öffne die Url <https://login.mint-system.ch/> und klick auf _Login Mint System_.
+Öffne die Url <https://chatgpt.mint-system.ch/> und klick auf _Login Mint System_.
 
 Logge dich mit deinem Mint System Account ein.
 
