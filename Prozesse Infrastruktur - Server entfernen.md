@@ -6,7 +6,7 @@ section: process
 
 Einen Server entfernen.
 
-### Benutzer entfernen
+## Benutzer entfernen
 
 Wenn der Server bei einem Drittanbieter gehostet ist, müssen Sie als erstes die Benutzer entfernen.
 
@@ -30,6 +30,13 @@ Arbeitsschritte:
 - Loggen Sie sich bei der Konsole des Hosting-Provider ein
 - Fahren Sie den Server herunter
 - Löschen Sie den Server nach 3 Tagen.
+
+## Backups löschen
+
+Arbeitsschritte:
+
+- Loggen Sie sich auf dem Backup-Server ein
+- Entfernen Sie den Backup-Ordner unter `/mnt/sdb/`
 
 ## Odoo Abonnement beenden
 
