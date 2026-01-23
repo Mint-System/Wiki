@@ -22,4 +22,4 @@ Arbeitschritte:
 * Aufrufen <https://login.mint-system.ch/realms/mint-system.ch/account>
 * Mit dem neuen Passwort einloggen
 * Gemäss Dialog _Mobile Authenticator Setup_ die 2-Faktor-Authentisierung einrichten
-* Den Vorgang it _Submit_ abschliessen
+* Den Vorgang mit _Submit_ abschliessen
