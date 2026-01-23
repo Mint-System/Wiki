@@ -15,7 +15,7 @@ Arbeitsschritte:
 - Neue Revision in Odoo Build erstellen
 
 ```bash
-revision="20251121"
+revision="20260119"
 
 while IFS= read -r version; do
     [[ -z "$version" ]] && continue
@@ -28,7 +28,7 @@ done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 ```
 
 - Dokumentationen mit Odoo Revisionen aktualisieren
-	- [[Odoo Build]] in `README.md`
+	- [[Odoo Build]] in `images/odoo/README.md`
 	- [[Kubernetes Build]] in `Development.md` und `Backup.md`
 - Dokumentation der Odoo Revisionen mit `task update-revisions-doc
 ` generieren
