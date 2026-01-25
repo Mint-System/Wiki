@@ -44,7 +44,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 - [[Odoo Wartung]]
 - [[Odoo PaaS]]
 
-## HowTos
+## HowTo
 
 - [[DRP - Server Totalausfall mit Odoo]]
 

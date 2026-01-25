@@ -18,11 +18,11 @@ Weiterführende Links:
 [[Nextcloud Destkop Client]]\
 [[Nextcloud Upgrade]]\
 
-## HowTos
+## HowTo
 
 [[Nextcloud - OwnCloud Console]]\
- [[Nextcloud - Restore password manager from backup]]\
- [[Nextcloud - Configure ignored files]]\
- [[Nextcloud - Set default locale and language]]\
- [[Nextcloud - Full text seach]]\
+[[Nextcloud - Restore password manager from backup]]\
+[[Nextcloud - Configure ignored files]]\
+[[Nextcloud - Set default locale and language]]\
+[[Nextcloud - Full text seach]]\
 [[DRP - Server Totalausfall mit Nextcloud]]
