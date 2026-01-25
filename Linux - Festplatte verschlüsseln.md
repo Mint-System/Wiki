@@ -13,7 +13,7 @@ Set up LUKS encryption can be done during installation (recommended) or for an e
 
 Most Linux installer will guide you trough the process of encrypting your disk.
 
-If asked to choose an option, always opt for Logical Volume Manager (LVM) and encryption.
+If asked to choose an option, always opt for Logical Volume Manager (LVM) on LUKS encryption.
 
 ## Encrypt existing installation
 
