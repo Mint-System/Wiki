@@ -1,7 +1,7 @@
 ---
 title: Prozesse Odoo - Revision
 kind: howto
-section: process
+section: section
 ---
 
 Bereitstellung einer Odoo Revision.
