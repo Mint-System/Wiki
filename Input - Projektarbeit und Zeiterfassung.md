@@ -1,5 +1,5 @@
 ---
-title: Input - Projektarbeit mit Kanban
+title: Input - Projektarbeit und Zeiterfassung
 section: training
 kind: tutorial
 ---
