@@ -5,10 +5,6 @@ section: product
 website: https://nextcloud.com/
 ---
 
-Vercel Domains:
-
-- nextcloud.build
-
 Weiterführende Links:
 
 [[Nextcloud Troubleshooting]]\
@@ -17,6 +13,7 @@ Weiterführende Links:
 [[Nextcloud FAQ]]\
 [[Nextcloud Destkop Client]]\
 [[Nextcloud Upgrade]]\
+[[Nextcloud Build]]
 
 ## HowTo
 

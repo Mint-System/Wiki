@@ -10,4 +10,4 @@ This is the Mint System Nextcloud development environment.
 
 Vercel Domains:
 
-- Nextcloud.build
+- nextcloud.build

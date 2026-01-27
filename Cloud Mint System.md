@@ -5,4 +5,4 @@ section: infrastructure
 website: https://cloud.mint-system.ch
 ---
 
-Nextcloud Datenablage.
+[[Nextcloud]] Dateiablage.
