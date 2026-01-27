@@ -14,9 +14,9 @@ Alle Dokumente müssen nach diesen Regeln formatiert werden:
 
 ```markdown
 Meine Liste:
--a
--b
--c
+- a
+- b
+- c
 Und hier geht es weiter:
 ```
 
@@ -25,9 +25,9 @@ Und hier geht es weiter:
 ```markdown
 Meine Liste:
 
--a
--b
--c
+- a
+- b
+- c
 
 Und hier geht es weiter:
 ```
@@ -67,7 +67,7 @@ x = 1
 ```
 ````
 
-**Dateinamen als Code.
+**Dateinamen als Code**
 
 🟥
 
@@ -81,6 +81,55 @@ Copy the file 'autoinstall.yaml'.
 Copy the file `autoinstall.yaml`.
 ```
 
+**Urls einklammern**
+
+🟥
+
+```markdown
+Letzte Version von Ubuntu Desktop von www.ubuntu.com
+```
+
+✅
+
+```markdown
+Letzte Version von Ubuntu Desktop von <www.ubuntu.com>
+```
+
+**Kursiv statt Hochkomma**
+
+🟥
+
+```markdown
+Drücken Sie auf den Knopf "Installieren".
+```
+
+✅
+
+```markdown
+Drücken Sie auf den Knopf _Installieren_.
+```
+
+**Listen immer mit Dashes**
+
+🟥
+
+```markdown
+Meine Liste:
+
+* a
+* b
+* c
+```
+
+✅
+
+```markdown
+Meine Liste:
+
+- a
+- b
+- c
+```
 ## Metadaten festlegen
 
 Alle Einträge brauchen Metadaten:
