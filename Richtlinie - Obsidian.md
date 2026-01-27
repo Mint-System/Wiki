@@ -67,6 +67,20 @@ x = 1
 ```
 ````
 
+**Dateinamen als Code.
+
+🟥
+
+```markdown
+Copy the file 'autoinstall.yaml'.
+```
+
+✅
+
+```markdown
+Copy the file `autoinstall.yaml`.
+```
+
 ## Metadaten festlegen
 
 Alle Einträge brauchen Metadaten:
