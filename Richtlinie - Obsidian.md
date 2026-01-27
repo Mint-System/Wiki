@@ -130,6 +130,20 @@ Meine Liste:
 - b
 - c
 ```
+
+**Klare Pfadangaben**
+
+🟥
+
+```markdown
+Navigiere nach "Einstellungen>Technisch>Datenbank".
+```
+
+✅
+
+```markdown
+Navigiere nach _Einstellungen > Technisch > Datenbank_.
+```
 ## Metadaten festlegen
 
 Alle Einträge brauchen Metadaten:
