@@ -69,12 +69,12 @@ x = 1
 
 ## Metadaten festlegen
 
-Für Markdown-Dateien können nach dem Frontmatter-Schema Metadaten definiert werden.
+Alle Einträge brauchen Metadaten:
 
 ```markdown
 ---
-kind: reference
-section: 
+kind: explain
+section: policy
 ---
 
 # Titel
@@ -82,4 +82,4 @@ section:
 ...
 ```
 
-
+Mindestens `kind` und `section` müssen gesetzt sein.
