@@ -4,7 +4,6 @@ website: https://prometheus.mint-system.ch
 section: infrastructure
 ---
 
-
 [[Prometheus]]-Instanz der Mint System.
 
 ## Metriken
