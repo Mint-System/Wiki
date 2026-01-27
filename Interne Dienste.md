@@ -10,6 +10,7 @@ Interne Dienste für Mitarbeitende der Mint System:
 * [[ERP Mint System]]
 * [[Cloud Mint System]]
 * [[Monitor Mint System]]
+* [[Prometheus Mint System]]
 * [[Git Mint System]]
 * [[Wiki Mint System]]
 * [[Chat Mint System]]
