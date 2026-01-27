@@ -4,13 +4,11 @@ kind: explain
 section: policy
 ---
 
-## Obsidian Einstellungen
+## Fomratierung 
 
-Für eine konfliktfreie Bearbeitung der Inhalte mit Obsidian müssen die folgenden Einstellungen vorgenommen werden:
+Alle Dokumente müssen nach diesen Regeln formatiert werden:
 
-- Editor - Strict line breaks: On
-- Plugin - Slides: On
-- Plugin - Tag pane: On
+🚫
 
 ## Metadaten festlegen
 
@@ -18,12 +16,13 @@ Für Markdown-Dateien können nach dem Frontmatter-Schema Metadaten definiert we
 
 ```markdown
 ---
-publish: false
-tags:
-  - Nextcloud
+kind: reference
+section: 
 ---
 
 # Titel
 
 ...
 ```
+
+
