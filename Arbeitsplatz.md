@@ -10,7 +10,11 @@ Es gilt grundsätzlich Bring your own Device (BYOD). Empfehlungen zur Hardware f
 
 **Betriebssystem**
 
-Das OS muss Linux-basiert sein.
+Das OS muss Linux-basiert sein. Für eine Standard Installation haben wir eine Vorgabe. [[Prozesse Infrastruktur - Rechner installieren]]
+
+**Verschlüsseln von Festplatte** 
+
+Wir haben eine Verschlüsselung von der Festplatte auf unsere Rechner. Das ist am besten einzurichten während der Installation vom OS mittels eine  [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup) Passphrase. Nachträglich verschlüsseln wird nicht empfohlen wegen potenzielle Datenverlust.
 
 **Browser**
 
