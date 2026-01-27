@@ -1,7 +1,6 @@
 ---
 title: Debian
-kind:
-  - reference
+kind: reference
 section: vendor
 ---
 

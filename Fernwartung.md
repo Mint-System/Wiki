@@ -1,8 +1,7 @@
 ---
 title: Fernwartung
 section: tool
-kind:
-  - explain
+kind: explain
 ---
 
 ## Deskop

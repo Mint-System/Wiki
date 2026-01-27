@@ -7,7 +7,7 @@ section: meta
 [[Signaturen]]\
 [[AGBs Entwicklungsprojekt]]\
 [[Slides]]\
-[[Vorlagen]]\
+[[Vorlagen Odoo-Projekte]]\
 [[Datenschutzrichtlinie]]\
 [[Service Level Agreement Hosting]]\
 [[Wartungsvertrag]]\

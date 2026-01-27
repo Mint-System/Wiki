@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.name
+      - file.backlinks
+      - kind
+      - section
+    sort:
+      - property: file.backlinks
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 610

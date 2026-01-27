@@ -1,8 +1,7 @@
 ---
 title: Ubuntu
 section: vendor
-kind:
-  - reference
+kind: reference
 ---
 
 ## Lifecycle

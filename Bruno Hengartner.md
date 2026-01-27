@@ -1,7 +1,6 @@
 ---
 section: organisation
-kind:
-  - reference
+kind: reference
 ---
 
 Benutzername: `brunohengartner`\

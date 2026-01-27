@@ -5,8 +5,7 @@ The entry `CrowdSec.md` looks like this:
 
 ```markdown
 ---
-kind:
-  - reference
+kind: reference
 section: tool
 ---
 
@@ -50,8 +49,7 @@ Here is another example for `inosca.md`:
 tags:
   - Definition
 section: contact
-kind:
-  - reference
+kind: reference
 ---
 
 # inosca

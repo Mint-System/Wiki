@@ -4,17 +4,13 @@ kind: howto
 section: process
 ---
 
-## Upgrade-Umgebung einrichten
+## Produktives Upgrade planen
 
 Arbeitsschritte:
 
-- Erstelle einen neuen Odoo-Host `$ALIAS_upgrade`, indem du den Inventory-Ordner kopierst.
-- Entferne die Datenbank- und Backup-Konfiguration.
-- Aktualisiere die Odoo-Konfiguration mit der Odoo-Revision.
-- Erhöhe die Instanznummer und ändere den Port.
-- Registriere den Host in `hosts.yml` und führe das Deployment durch.
-- Entferne die `erp-dev` Datenbank.
-- Aktiviere die Proxy-Weiterleitung zur neuen Instanz.
+- Mit dem Kunden einen Termin für das produktive Upgrade vereinbaren.
+- Festhalten wer von Seite Kunde kontaktiert werden soll.
+- Termin in Kalender erstellen.
 
 ## Produktives Upgrade durchführen
 
@@ -34,11 +30,8 @@ Mit freundlichen Grüssen
 Mint System Team
 ```
 
-- Führe das Produktions-Upgrade gemäss dem Playbook aus.
-- Wechsle `$ALIAS` und `$ALIAS_upgrade`.
-- Verschiebe die Datenbank- und Backup-Konfiguration.
-- Aktiviere die Proxy-Weiterleitung zur neuen Instanz.
-- Nachricht an den Kunden:
+- Produktions-Upgrade gemäss dem Playbook ausführen.
+- Nachricht an den Kunden bei erfolgreichem Upgrade:
 
 ```
 Guten Tag

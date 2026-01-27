@@ -9,7 +9,7 @@ Arbeitsschritte:
 
 - Installation [[KeePassXC]] auf dem lokalen Computer
 - Bei [[Kreis Infrastruktur]] nach dem Infrastruktur-Passwort fragen
-- Die KeePass-Datei `Mint-System/Data/Infrastructure.kdbx` auf der [[Cloud Mint System]] öffnen
+- Die KeePass-Datei `Mint-System/Data/Infrastruktur.kdbx` auf der [[Cloud Mint System]] öffnen
 - Die Schlüsseldatei `Mint-System/Secrets/KeePass.key` angeben und anschliessend das Infrastruktur-Passwort eingeben
 - Mit _Unlock_ die KeePass-Datei entschlüsseln
 
@@ -17,7 +17,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- Eien Mint System Passwort-Datenbank öffnen
+- Eine Mint System Passwort-Datenbank öffnen
 - Ein neue Eintrag gemäss [[Richtlinie - Passwortmanager]] erstellen
 - Speichern und Datenbank synchronisieren
 

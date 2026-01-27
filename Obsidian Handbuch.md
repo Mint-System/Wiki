@@ -26,4 +26,4 @@ Mit Obidisan können Sie einen Canvas erstellen:
 
 ### QuickAdd
 
-Erstellt aus Markdown [[Vorlagen]] Dokumente.
+Erstellt aus Markdown [[Vorlagen.base]] Dokumente.

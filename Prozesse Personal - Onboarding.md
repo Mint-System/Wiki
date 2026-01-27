@@ -34,7 +34,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- Matrix-Benutzer auf dem [[Matrix Server]] erstellen
+- Matrix-Benutzer auf dem [[Chat Mint System]] erstellen
 	- Das Matrix Standard-Passwort festlegen
 - Auf [[Login Mint System]] einen Keycloak-Benutzer anlegen
 	- Benötigte Benutzer-Aktionen festlegen: Configure OTP, Update Password
@@ -56,21 +56,12 @@ Ich habe für dich unter der Adresse MAIL_ADRESS﻿﻿E mehrere Accounts erstell
 - Infomaniak Account / Postfach
 - Login Mint System
 - ERP Mint System
-- Cloud Mint System
-- Git Mint System
-- Monitor Mint System
-- Matrix Mint System
-
+  
 Der erste Schritt ist die Einrichtung des Postfachs. Du solltest auf deine private Mail-Adresse eine Einladungsmails mit Details erhalten haben.
 
 In einem zweiten Schritt kannst du dein Passwort und die 2-Faktor-Authentisierung für das Login Mint System festlegen: https://wiki.mint-system.ch/prozesse-keycloak-login-verwalten.html
 
-Mit diesem Login kannst dich anschliessend bei den folgenden Diensten anmelden:
-
-- https://erp.mint-system.ch/
-- https://cloud.mint-system.ch/
-- https://mint.app.codey.ch/
-- https://monitor.mint-system.ch/
+Mit diesem Login kannst dich bei den internen Diensten anmelden: https://wiki.mint-system.ch/interne-dienste.html
 
 Anstatt den Benutzernamen und Passwort einzugeben, wählst du jeweils den Knopf "Login Mint System".
 

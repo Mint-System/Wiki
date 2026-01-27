@@ -1,8 +1,7 @@
 ---
 title: Unternehmensziele 2026
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
 * 8 Personen sind beschäftigt. 600% Stellenprozent.
 * Cashflow -> Gewinn -> Reserven

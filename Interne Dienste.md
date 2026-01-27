@@ -1,13 +1,17 @@
 ---
 section: organisation
-kind:
-  - reference
+kind: reference
 title: Interne Dienste
 ---
-Dienste für Mitarbeitende der Mint System.
+
+Interne Dienste für Mitarbeitende der Mint System:
 
 * [[Login Mint System]]
 * [[ERP Mint System]]
 * [[Cloud Mint System]]
 * [[Monitor Mint System]]
+* [[Prometheus Mint System]]
 * [[Git Mint System]]
+* [[Wiki Mint System]]
+* [[Chat Mint System]]
+* [[LLM Chat Mint System]]

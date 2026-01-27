@@ -21,5 +21,5 @@ Erledigte Evaluationen:
 - [[Evaluation IaaS]]
 - [[Evaluation Odoo Report]]
 - [[Evaluation Nextcloud Office]]
-- [[Odoo Drucken#Evaluation]]
-- [[Evaluation Odoo Hardware]]
+- [[Evaluation Odoo Drucken]]
+- [[Compare coding agents]]

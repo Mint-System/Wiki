@@ -4,6 +4,8 @@ kind: reference
 section: meta
 ---
 
+Beispiele:
+
 - [[Infrastruktur]]
 - [[Marketing]]
 - [[Interne Links]]

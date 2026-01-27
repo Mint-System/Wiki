@@ -14,7 +14,10 @@ views:
       - kind
       - section
       - lang
+      - file.backlinks
     sort:
+      - property: file.backlinks
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: file.tags

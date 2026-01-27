@@ -1,6 +1,5 @@
 ---
 title: "{{fromTitle}}"
 section: meta
-kind:
-  - reference
+kind: reference
 ---

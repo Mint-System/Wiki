@@ -2,8 +2,7 @@
 title: Element
 website: https://element.io/
 section: tool
-kind:
-  - reference
+kind: reference
 ---
 
 Chat-Programm basierend auf [[Matrix]].

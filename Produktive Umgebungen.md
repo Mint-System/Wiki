@@ -1,8 +1,7 @@
 ---
 title: Produktive Umgebungen
 section: communication
-kind:
-  - reference
+kind: reference
 ---
 
 Weiterführende Links: [[Testumgebungen]], [[Demoumgebungen]]

@@ -1,7 +1,6 @@
 ---
 title: Odoo module migration prompts
-kind:
-  - reference
+kind: reference
 section: template
 ---
 ## View attributes
@@ -145,4 +144,3 @@ EOF
 
 task update-with-llm addons/$REPO/$MODULE/models/*.py $task
 ```
-

@@ -18,4 +18,4 @@ Die Beschreibung eines Zeiterfassung-Eintrags versteht sich als Rechtfertigung f
 
 - Sprache ist Deutsch
 - Die Formulierung ist im Passiv.
-- Um so länger die Dauer um so detaillierter die Beschreibung
+- Je länger die Dauer, desto detaillierter die Beschreibung

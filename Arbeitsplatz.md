@@ -34,5 +34,5 @@ Es gibt die [[Mint System Dotfiles]] um die Shell-Umgebung zu konfigurieren.
 
 ## Editor
 
-Wir empfehlen [[Sublime]] oder [[Zed]].
+Wir empfehlen [[Sublime]] oder [[Zed]]. Natürlich darf man auch [[Emacs]] verwenden.
 

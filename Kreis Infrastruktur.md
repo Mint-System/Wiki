@@ -4,6 +4,8 @@ kind: explain
 section: organisation
 ---
 
-Besetzt von:
+Verantwortlich: [[Janik von Rotz]]
 
-- [[Janik von Rotz]]
+Rollen haben werden von Personen getragen und haben 
+
+- [[Rolle Systemadministrator%in]]

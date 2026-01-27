@@ -10,49 +10,48 @@ section: policy
 
 Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 
-| Ordner                                    | Beschreibung                                                                       |
-| ----------------------------------------- | ---------------------------------------------------------------------------------- |
-| Akquise/[Name]                            | Ablage für Akquise                                                                 |
-| Angebot                                   | Angebote der Mint System                                                           |
-| Archiviert                                | Ablage zur Archivierung                                                            |
-| Ausbildung                                | Unterlagen zur selbständigen Weiterbildung: Bücher, Methodik, Kurse und eLearning  |
-| Bilder                                    | Fotoalben                                                                          |
-| Corporate Design                          | Format- und Dokumentvorlagen, Bilder zur Publikation                               |
-| Data                                      | Speicherung von Anwendungsdaten. Beispielsweise Passwort-Dateien von [[KeePassXC]] |
-| Softwareentwicklung                       | Entwicklung Odoo und System Engineering                                            |
-| Finanzen                                  | Finanz- und Kontenplan                                                             |
-| Finanzen Datentransfer                    | Alle camt.53 und pain.001 Dateien werden hier abgelegt                             |
-| Förderbeiträge                            | Dokumente Sponsoring Mint System                                                   |
-| Generalversammlung/Geschäftsjahr-[YYYY]   | Unterlagen GV.                                                                     |
-| Geschäftsführung                          | Strategische Informationen                                                         |
-| Gründung                                  | Gründungsdokumente                                                                 |
-| Infrastruktur                             | Dokumentation der Mint System Infrastruktur                                        |
-| Kunden/[Name]                             | Kundenbeziehungen werden hier abgebildet                                           |
-| Lieferanten/[Name]                        | Lieferantenbeziehungen werden hier abgebildet                                      |
-| Management Handbuch                       | Dokumentation zu Methoden und Vorgehensmodellen                                    |
-| Marketing                                 | Dokumente zu Marketing-Kampagnen                                                   |
-| Meetings                                  | Meeting Protokolle der Mint System                                                 |
-| Mitgliedschaften/[Name]                   | Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen              |
-| News                                      | Neuigkeiten aus Medien                                                             |
-| Newsletter                                | Dokumente zum Newsletter Mint System                                               |
-| Odoo                                      | Odoo Dokumente                                                                     |
-| Partner                                   | Dokumente zu unseren Partner                                                       |
-| Personal                                  | Verträge und Abrechnungen                                                          |
-| Produkte/\[Name\]                         | Dokumente zu den Mint System Produkten                                             |
-| Projekte/[Name]                           | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.          |
-| Public Relations                          | Zeitungsartikel und allgemeine PR                                                  |
-| Rechnungen/([YYYY]/[MM MONAT],[MM MONAT]) | Rechnung von Lieferanten gruppiert nach Rechnungsdatum                             |
-| Recruiting/[YYYY]-[MM] [Name]             | Berwebungsunterlagen soritert nach Jahr und Monat.                                 |
-| Secrets                                   | Schlüssel und Passwörter                                                           |
-| Spesen/([YYYY]/[MM MONAT],[MM MONAT])     | Ablage Spesenbelege für Lohnabrechnung                                             |
-| Steuern/[Jahr]                            | Dokumente Unternehmens- und Mehrwertssteuer                                        |
-| Strategie                                 | Allgemeine Geschäftsstrategie und Businessplan                                     |
-| templates                                 | Obsidian Voralgen                                                                  |
-| Verkauf                                   | Vorlagen für Angebote                                                              |
-| Verträge/[Name]                           | Alle Vertragsdokumente mit Externen                                                |
-| Vorlage                                   | Dokumentvorlagen mit Inhalt                                                        |
-| Website                                   | Dateien zum Webauftritt                                                            |
-| task                                      | Taskfile zur Verwaltung der Ablage                                                 |
+| Ordner                                    | Sichtbarkeit | Beschreibung                                                                       |
+| ----------------------------------------- | ------------ | ---------------------------------------------------------------------------------- |
+| Akquise/[Name]                            | Shared       | Ablage für Akquise                                                                 |
+| Angebot                                   | Shared       | Angebote der Mint System                                                           |
+| Archiviert                                | Shared       | Ablage zur Archivierung                                                            |
+| Ausbildung                                | Shared       | Unterlagen zur selbständigen Weiterbildung: Bücher, Methodik, Kurse und eLearning  |
+| Bilder                                    | Shared       | Fotoalben                                                                          |
+| Corporate Design                          | Shared       | Format- und Dokumentvorlagen, Bilder zur Publikation                               |
+| Data                                      | Shared       | Speicherung von Anwendungsdaten. Beispielsweise Passwort-Dateien von [[KeePassXC]] |
+| Softwareentwicklung                       | Shared       | Entwicklung Odoo und System Engineering                                            |
+| Finanzen                                  | Private      | Finanz- und Kontenplan                                                             |
+| Finanzen Datentransfer                    | Private      | Alle camt.53 und pain.001 Dateien werden hier abgelegt                             |
+| Förderbeiträge                            | Shared       | Dokumente Sponsoring Mint System                                                   |
+| Generalversammlung/Geschäftsjahr-[YYYY]   | Private      | Unterlagen GV.                                                                     |
+| Geschäftsführung                          | Private      | Strategische Informationen                                                         |
+| Gründung                                  | Private      | Gründungsdokumente                                                                 |
+| Infrastruktur                             | Shared       | Dokumentation der Mint System Infrastruktur                                        |
+| Kunden/[Name]                             | Shared       | Kundenbeziehungen werden hier abgebildet                                           |
+| Lieferanten/[Name]                        | Shared       | Lieferantenbeziehungen werden hier abgebildet                                      |
+| Management Handbuch                       | Shared       | Dokumentation zu Methoden und Vorgehensmodellen                                    |
+| Marketing                                 | Shared       | Dokumente zu Marketing-Kampagnen                                                   |
+| Meetings                                  | Shared       | Meeting Protokolle der Mint System                                                 |
+| Mitgliedschaften/[Name]                   | Shared       | Dokumente zu Mitgliedschaften bei Vereinen und anderen Organisationen              |
+| News                                      | Shared       | Neuigkeiten aus Medien                                                             |
+| Newsletter                                | Shared       | Dokumente zum Newsletter Mint System                                               |
+| Odoo                                      | Shared       | Odoo Dokumente                                                                     |
+| Partner                                   | Shared       | Dokumente zu unseren Partner                                                       |
+| Personal                                  | Private      | Verträge und Abrechnungen                                                          |
+| Produkte/\[Name\]                         | Shared       | Dokumente zu den Mint System Produkten                                             |
+| Projekte/[Name]                           | Shared       | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.          |
+| Public Relations                          | Shared       | Zeitungsartikel und allgemeine PR                                                  |
+| Rechnungen/([YYYY]/[MM MONAT],[MM MONAT]) | Shared       | Rechnung von Lieferanten gruppiert nach Rechnungsdatum                             |
+| Recruiting/[YYYY]-[MM] [Name]             | Private      | Berwebungsunterlagen soritert nach Jahr und Monat.                                 |
+| Secrets                                   | Shared       | Schlüssel und Passwörter                                                           |
+| Steuern/[Jahr]                            | Private      | Dokumente Unternehmens- und Mehrwertssteuer                                        |
+| Strategie                                 | Shared       | Allgemeine Geschäftsstrategie und Businessplan                                     |
+| templates                                 | Shared       | Obsidian Voralgen                                                                  |
+| Verkauf                                   | Shared       | Vorlagen für Angebote                                                              |
+| Verträge/[Name]                           | Shared       | Alle Vertragsdokumente mit Externen                                                |
+| Vorlage                                   | Shared       | Dokumentvorlagen mit Inhalt                                                        |
+| Website                                   | Shared       | Dateien zum Webauftritt                                                            |
+| task                                      | Shared       | Taskfile zur Verwaltung der Ablage                                                 |
 
 ## Format
 

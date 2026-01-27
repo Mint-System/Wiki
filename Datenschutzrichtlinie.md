@@ -1,8 +1,7 @@
 ---
 title: Datenschutzrichtlinie
 section: organisation
-kind:
-  - explain
+kind: explain
 ---
 
 Datum des Inkrafttretens: 20.03.2024
