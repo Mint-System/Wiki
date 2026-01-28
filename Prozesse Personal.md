@@ -10,6 +10,6 @@ Dokumentation der Personal-Prozesse.
 - [[Prozesse Personal - Bewerbung]]
 - [[Prozesse Personal - Onboarding]]
 - [[Prozesse Personal - Einrichten Arbeitsplatz]]
-- [[Prozesse Nextcloud - Desktop Client]]
+- [[Nextcloud - Desktop Client Synchronisation einrichten]]
 - [[Prozesse Keycloak - Login verwalten]]
 - [[Prozesse Personal - Offboarding]]

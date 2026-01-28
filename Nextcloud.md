@@ -13,7 +13,7 @@ Weiterführende Links:
 [[Nextcloud Handbuch]]\
 [[Nextcloud Apps]]\
 [[Nextcloud FAQ]]\
-[[Nextcloud Destkop Client]]\
+[[Nextcloud Desktop Client Installation]]\
 [[Nextcloud Upgrade]]\
 [[Nextcloud Build]]
 

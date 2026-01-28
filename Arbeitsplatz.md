@@ -4,7 +4,7 @@ section: infrastructure
 kind: reference
 ---
 
-Definition des Arbeitsplatzes.
+**Definition des Arbeitsplatzes.**
 
 Es gilt grundsätzlich Bring your own Device (BYOD). Empfehlungen zur Hardware findest du unter [[Arbeitsplatz Hardware]].
 
