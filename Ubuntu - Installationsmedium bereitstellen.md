@@ -1,8 +1,6 @@
 ---
-title: Prozesse Infrastruktur - Installationsmedium bereitstellen
-section: process
-kind:
-  - howto
+section: guide
+kind: tutorial
 ---
 ## Neues Installationsmedium (USB Stick)
 

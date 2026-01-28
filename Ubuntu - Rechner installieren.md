@@ -1,8 +1,6 @@
 ---
-title: Prozesse Infrastruktur - Rechner installieren
-section: process
-kind:
-  - howto
+section: guide
+kind: tutorial
 ---
 ## Rechner neuinstallieren
 
@@ -10,7 +8,7 @@ Der Standard für eine Mint System Rechner. Entweder eine automatische Installat
 
 ### Automatische Installation
 
-Wir haben eine USB-stick ([[Prozesse Infrastruktur - Installationsmedium bereitstellen]]) verfügbar um eine Rechner mit Ubuntu einzurichten. Die benötigte Anwendungen werden automatisch installiert. Der Rechner booten von der USB-stick und 'Try or Install Ubuntu' auswählen. Nach eine Weile kommst du in eine Ubuntu Umgebung und wird eine GUI für die Installation gezeigt.
+Wir haben eine USB-stick ([[Ubuntu - Installationsmedium bereitstellen]]) verfügbar um eine Rechner mit Ubuntu einzurichten. Die benötigte Anwendungen werden automatisch installiert. Der Rechner booten von der USB-stick und 'Try or Install Ubuntu' auswählen. Nach eine Weile kommst du in eine Ubuntu Umgebung und wird eine GUI für die Installation gezeigt.
 
 Während der Installation gibt es in der GUI die volgende Eingaben zu machen :
 
