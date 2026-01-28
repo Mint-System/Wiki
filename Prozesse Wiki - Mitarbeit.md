@@ -11,12 +11,12 @@ Technische Konfigurationen damit Sie an der Wissensdatenbank mitarbeiten können
 Arbeitsschritte:
 
 1. Erstellen Sie einen Account auf <https://github.com/>
-2. Werden Sie Mitglied bei <https://github.com/Mint-System/> (optional)
+2. Werden Sie Mitglied bei <https://github.com/Mint-System/> (für Mitarbeitende)
 3. Installieren Sie <https://obsidian.md/>
 4. Installieren Sie <https://git-scm.com/>
 5. Verwenden Sie ihren bestehenden SSH-Schlüssel oder erstellen Sie ein neues SSH-Schlüsselpaar 
-6. Forken Sie das _Wiki Mint System_ Repository (optional)
-7. Klonen Sie das _Wiki Mint System_ Repository
+6. Forken Sie das _Wiki Mint System_ Repository (für Mitarbeitende)
+7. Klonen Sie das _Wiki Mint System_ Repository (für Externe)
 
 ```bash
 git clone git@github.com:Mint-System/Wiki.git
@@ -56,14 +56,4 @@ Ein Beispiel ist [[Richtlinie - Projektmanagement]].
 
 ## Tags
 
-Siehe [[Tags]] für Details.
-
-## Metadaten
-
-Alle Wiki-Einträge können im Frontmatter Metadaten enthalten. Folgende Metadaten sind definiert:
-
-- `tags`: Auswahl aus der Liste von [[Tags]].
-- `responsible`: Person oder Rolle Verantwortlich für den Prozess.
-- `responsibilities`: Bereiche in der Verantwortung der Person.
-- `title`: Alternativer Name für den Artikel.
-- `type`: Zuordnung Bereich Dokumentationssystem.
+Inhalte können getagt werden. Siehe [[Tags]] für Details.
