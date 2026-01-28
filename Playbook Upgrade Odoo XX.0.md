@@ -36,7 +36,7 @@ task upgrade-odoo acme restart
 Update snippets.
 
 ```bash
-source task load-env acme
+source task load-dotenv acme
 task disable-snippet $TARGET_HOST snippets/sale.report_saleorder_document.add_note_space.xml
 task install-snippet $TARGET_HOST snippets/sale.report_saleorder_document.add_signature_note.xml
 ```
