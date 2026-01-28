@@ -1,15 +1,14 @@
 ---
-title: Prozesse Nextcloud - Desktop Client
+title: Nextcloud - Desktop Client Synchronisation einrichten
 kind: howto
 section: process
 ---
 
-## Desktop Client installieren
+## Desktop Client Synchronisation einrichten
 
 Arbeitsschritte:
 
-- Nextcloud Dekstop Client von <https://nextcloud.com/install/#desktop-files> herunterladen und installieren
-- Client starten und Acocunt hinzufügen
+- Client starten und Account hinzufügen
 - Als Adresse `cloud.mint-system.ch` eingeben
 - Beim Login-Fenster die Option _Log in with Mint System_ wählen
 - Benutzername und Passwort eingeben und 2-Faktor-Authentisierung bestätigen
