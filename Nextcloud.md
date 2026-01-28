@@ -5,6 +5,8 @@ section: product
 website: https://nextcloud.com/
 ---
 
+Das Produkt der [[Nextcloud GmbH]].
+
 Weiterführende Links:
 
 [[Nextcloud Troubleshooting]]\
