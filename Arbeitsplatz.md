@@ -10,7 +10,7 @@ Es gilt grundsätzlich Bring your own Device (BYOD). Empfehlungen zur Hardware f
 
 **Betriebssystem**
 
-Das OS muss Linux-basiert sein. Für eine Standard Installation haben wir eine Vorgabe. [[Ubuntu - Rechner installieren]]
+Das OS muss Linux-basiert sein. Für eine Standard-Installation haben wir eine Anleitung: [[Ubuntu - Rechner installieren]]
 
 **Verschlüsseln von Festplatte** 
 
