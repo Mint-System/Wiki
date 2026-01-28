@@ -38,6 +38,7 @@ Nach der Neustart wird noch einiges gefragt:
     - notepad-plus-plus
     - kubectl
     - kubectx
+    - docker
 	- *Nach Bedarf*
 		- sublime-text
 	    - sublime-merge
@@ -46,10 +47,10 @@ Nach der Neustart wird noch einiges gefragt:
 	    - whatsapp-linux-desktop
 	    - signal-desktop
 - Packages zu installieren (sudo apt install *packagename*)
+    - curl
     - nextcloud-desktop
     - libreoffice
     - git
-    - docker.io
 	- *Nach Bedarf*
 	    - gimp
 	    - vlc
