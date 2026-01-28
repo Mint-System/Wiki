@@ -9,4 +9,5 @@ Business Process Model and Notation (BPMN) ist der führende Standard zur Erstel
 ## Tools
 
 - [[diagrams.net]]
+- [[Mermaidjs]]
 - [[bpmn.io]]

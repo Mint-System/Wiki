@@ -8,6 +8,8 @@ Bereitstellung Raspberry Pi.
 
 ## Raspberry Pi Image ausführen
 
+Arbeitsschritte:
+
 - Laden Sie den _Raspberry Pi Imager_ herunter <https://www.raspberrypi.com/software/>
 - Installieren Sie die Software
 - Starten Sie den Imager und wählen Sie als Betriebssystem _Raspberry OS_ aus

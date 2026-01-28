@@ -11,3 +11,7 @@ Jede Linux-Distribution ([[Ubuntu]], Suse, [[Debian]], CentOS) hat einen eigenen
 Dieser Umstand und die Verwaltung des Server durch die Lieferanten machen es schwer die Kontrolle über den Lebenszyklus der Server zu halten.
 
 Entsprechend unterschiedlich sind dann auch die Massnahmen, wenn ein [[End-of-life]] (EOL) eintritt.
+
+## HowTo
+
+[[Linux - Festplatte verschlüsseln]]

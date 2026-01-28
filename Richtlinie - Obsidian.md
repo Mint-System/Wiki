@@ -4,26 +4,159 @@ kind: explain
 section: policy
 ---
 
-## Obsidian Einstellungen
+## Formatierung 
 
-Für eine konfliktfreie Bearbeitung der Inhalte mit Obsidian müssen die folgenden Einstellungen vorgenommen werden:
+Alle Dokumente müssen nach diesen Regeln formatiert werden:
 
-- Editor - Strict line breaks: On
-- Plugin - Slides: On
-- Plugin - Tag pane: On
+**Vor und nach jeder Liste ein Absatz**
 
+🟥
+
+```markdown
+Meine Liste:
+- a
+- b
+- c
+Und hier geht es weiter:
+```
+
+✅
+
+```markdown
+Meine Liste:
+
+- a
+- b
+- c
+
+Und hier geht es weiter:
+```
+
+**Nach jeder Überschrift ein Absatz**
+
+🟥
+
+```markdown
+## Überschrift 2
+Mehr Text.
+```
+
+✅
+
+```markdown
+## Überschrift 2
+
+Mehr Text.
+```
+
+**Code-Fences mit Typen**
+
+🟥
+
+````markdown
+~~~
+x = 1
+~~~
+````
+
+✅
+
+````markdown
+```python
+x = 1
+```
+````
+
+**Dateinamen als Code**
+
+🟥
+
+```markdown
+Copy the file 'autoinstall.yaml'.
+```
+
+✅
+
+```markdown
+Copy the file `autoinstall.yaml`.
+```
+
+**Urls einklammern**
+
+🟥
+
+```markdown
+Letzte Version von Ubuntu Desktop von www.ubuntu.com
+```
+
+✅
+
+```markdown
+Letzte Version von Ubuntu Desktop von <www.ubuntu.com>
+```
+
+**Kursiv statt Hochkomma**
+
+🟥
+
+```markdown
+Drücken Sie auf den Knopf "Installieren".
+```
+
+✅
+
+```markdown
+Drücken Sie auf den Knopf _Installieren_.
+```
+
+**Listen immer mit Dashes**
+
+🟥
+
+```markdown
+Meine Liste:
+
+* a
+* b
+* c
+```
+
+✅
+
+```markdown
+Meine Liste:
+
+- a
+- b
+- c
+```
+
+**Klare Pfadangaben**
+
+🟥
+
+```markdown
+Navigiere nach "Einstellungen>Technisch>Datenbank".
+```
+
+✅
+
+```markdown
+Navigiere nach _Einstellungen > Technisch > Datenbank_.
+```
 ## Metadaten festlegen
 
-Für Markdown-Dateien können nach dem Frontmatter-Schema Metadaten definiert werden.
+Alle Einträge brauchen Metadaten:
 
 ```markdown
 ---
-publish: false
-tags:
-  - Nextcloud
+kind: explain
+section: policy
 ---
 
 # Titel
 
 ...
 ```
+
+Mindestens `kind` und `section` müssen gesetzt sein.

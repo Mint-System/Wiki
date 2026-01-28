@@ -17,6 +17,12 @@ Vercel Domains:
 - mint-system.build
 - mint-system.org
 
+Adresse:
+
+Mint System GmbH
+Bahnhofplatz 1
+6460 Altdorf
+
 UID: CHE-150.248.608
 
 Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]], [[Mint System Website]], [[Mint System GmbH - Mitarbeitende]], [[Interne Dienste]], [[Öffentliche Dienste]]

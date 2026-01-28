@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Deinstallation Odoo
 kind: howto
 section: process
 ---
