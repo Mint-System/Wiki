@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Ausgleich
 kind: howto
 section: process
 ---
