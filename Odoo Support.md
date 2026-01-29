@@ -1,5 +1,5 @@
 ---
-title: Technischer Support
+title: Odoo Support
 kind: explain
 section: service
 ---
