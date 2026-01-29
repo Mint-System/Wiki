@@ -1,7 +1,7 @@
 ---
 title: Ansible Troubleshooting
 kind: howto
-section: product
+section: dev
 ---
 
 ## Minimum Python version

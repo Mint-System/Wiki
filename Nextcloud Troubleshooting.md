@@ -1,7 +1,7 @@
 ---
 title: Nextcloud Troubleshooting
 kind: howto
-section: product
+section: dev
 ---
 
 ## Upgrade

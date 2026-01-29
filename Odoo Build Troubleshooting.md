@@ -2,7 +2,7 @@
 title: Odoo Build Troubleshooting
 lang: en
 kind: howto
-section: product
+section: dev
 ---
 
 ## Run

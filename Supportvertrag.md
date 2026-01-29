@@ -1,5 +1,7 @@
 ---
 title: Supportvertrag
+section: product
+kind: explain
 ---
 
 Revision: 2026-01-29

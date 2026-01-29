@@ -1,7 +1,7 @@
 ---
 title: Keycloak Troubleshooting
 kind: howto
-section: product
+section: dev
 ---
 
 ## Resolved
