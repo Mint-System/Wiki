@@ -29,7 +29,7 @@ Das Projekt *Support* enthält alle Zeiterfassungen aus dem Kundendienst. Der Pr
 Arbeitsschritte:
 
 - Aufrufen *Abzurechnende Aufträge*
-- Gruppieren nach *Vertriebsmitarbeiter* und *Projekt*
+- Gruppieren nach _Kunde_ und filtern mit _Meine Aufträge_
 - Alle Aufträge eines Projekts markieren
 - _Aktion > Rechnungen erstellen_ ausführen
 - Rechnung prüfen und bestätigen

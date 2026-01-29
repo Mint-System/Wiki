@@ -17,5 +17,5 @@ Die Zeiterfassung erfolgt wenn immer möglich auf einer Aufgabe. Daraus folgt, d
 Die Beschreibung eines Zeiterfassung-Eintrags versteht sich als Rechtfertigung für die aufgewendete Zeit. Bei der Erfassung gelten die folgenden Regeln:
 
 - Sprache ist Deutsch
-- Die Formulierung ist im Passiv.
+- Die Formulierung ist im Passiv
 - Je länger die Dauer, desto detaillierter die Beschreibung
