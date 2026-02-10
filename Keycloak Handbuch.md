@@ -12,7 +12,7 @@ Wählen im ausgewählten Realm _Manager > Users_ und zeigen Sie einen Benutzer a
 
 ## Mobile Authenticator Setup einrichten
 
-Wenn du in Keycloak einloggst und einen Dialog _Mobile Authenticator Setup_ erhältst hast du mehrere Optionen. Entweder scannst du den QR-Code mit der empfohlenen [[TOTP Auth]] App oder du klickst auf _Unable to scan?_. Mit dem Geheim-Code des Barcodes kann deine TOTP-App den zweiten Faktor für das Login generieren. Aktiviere das 2FA-Login indem du den genrierten Code eingibst.
+Wenn du in Keycloak einloggst (<https://login.mint-system.ch/realms/mint-system.ch/account>) und einen Dialog _Mobile Authenticator Setup_ erhältst hast du mehrere Optionen. Entweder scannst du den QR-Code mit der empfohlenen [[TOTP Auth]] App oder du klickst auf _Unable to scan?_. Mit dem Geheim-Code des Barcodes kann deine TOTP-App den zweiten Faktor für das Login generieren. Aktiviere das 2FA-Login indem du den genrierten Code eingibst.
 
 ::: tip
 Als Namen für den TOTP-Eintrag wird das Schema `${URL}_${Benutzername}` empfohlen.
