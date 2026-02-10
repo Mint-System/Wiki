@@ -52,7 +52,7 @@ Du kannst das [[llm]] cli mit den [[Mint System Dotfiles]] installieren. Beim ei
 
 > Wie wähle ich ein passendes Modell aus?
 
-Siehe [[cortecs]].
+Siehe [[Cortecs]].
 
 ## LLM Agent
 
