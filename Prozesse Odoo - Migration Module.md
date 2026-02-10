@@ -91,7 +91,12 @@ cd addons/$REPO/
 task all
 ```
 
-- Wenn nötig führ die [[Odoo module migration prompts]] aus
+- Wenn nötig führe die promts aus.
+
+```bash
+task update-with-llm addons/$REPO/$MODULE/views/*.xml prompts/migrate-view-definitions.md
+```
+
 - Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
 - Migration committen
 
