@@ -23,3 +23,26 @@ Für jede Odoo-Version werden Zertifizierungen angeboten.
 ## Tipps
 
 - Paralell zum Odoo-Test eine Runbot-Instanz geöffnet haben, damit man die schwierigen Fragen direkt klären kann.
+### Tutorials zu den Themen
+
+Die folgenden Links verweisen auf die Tutorial-Videos von Odoo. Die Tutorial-Videos nehmen etwas mehr als 50 Stunden in Anspruch.
+
+| ### Thema            | ### Zeitaufwand Tutorials | ### Link                                                                                        |
+| -------------------- | ------------------------- | ----------------------------------------------------------------------------------------------- |
+| Website              | 1h10                      | [Website-Tutorials](https://www.odoo.com/de_DE/slides/website-25)                               |
+| eCommerce            | 57 min                    | [eCommerce](https://www.odoo.com/de_DE/slides/ecommerce-26)                                     |
+| Survey               | 49 min                    | [Surveys](https://www.odoo.com/de_DE/slides/surveys-62)                                         |
+| Marketing            | 2h47                      | [Marketing](https://www.odoo.com/de_DE/slides/marketing-27)                                     |
+| AI                   |                           |                                                                                                 |
+| CRM                  | 2h21                      | [CRM-Tutorials](https://www.odoo.com/de_DE/slides/crm-16)                                       |
+| Sales                | 3h23                      | [Sales-Tutorials](https://www.odoo.com/de_DE/slides/sales-17)                                   |
+| Purchases            | 1h17                      | [Purchase](https://www.odoo.com/de_DE/slides/purchase-23)                                       |
+| Project & Timesheets | 4h45                      | [Project & Timesheets](https://www.odoo.com/de_DE/slides/project-timesheets-21)                 |
+| Accounting           | 10h04                     | [Accounting & Invoicing](https://www.odoo.com/de_DE/slides/accounting-and-invoicing-19)         |
+| Inventory            | 4h25                      | [Inventory](https://www.odoo.com/de_DE/slides/inventory-24)                                     |
+| MRP                  | 5h56                      | [Manufacturing & Shop Floor](https://www.odoo.com/de_DE/slides/mrp-manufacturing-shop-floor-29) |
+| HR                   | 7h39                      | [HR](https://www.odoo.com/de_DE/slides/human-resources-32)                                      |
+| Spreadsheet          | 54 min                    | [Spreadsheet](https://www.odoo.com/de_DE/slides/spreadsheet-390)                                |
+| Knowledge            | 26 min                    | [Knowledge](https://www.odoo.com/de_DE/slides/knowledge-461)                                    |
+| POS                  | 2h17                      | [Point of Sale](https://www.odoo.com/de_DE/slides/point-of-sale-28)                             |
+| Studio               | 1h29                      | [Studio](https://www.odoo.com/de_DE/slides/studio-31)                                           |
