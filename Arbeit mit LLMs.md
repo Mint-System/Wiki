@@ -1,5 +1,4 @@
 ---
-title: Input - Lokaler LLM Chat
 section: training
 kind: tutorial
 ---
@@ -37,6 +36,13 @@ Der LLM Router wir extern gehostet.
 - **LLM Chat**: Ist eine Open Source Software und kann selber gehostet werden.
 - **LLM Agent**: Ist eine Open Source Software und kann lokal ausgeführt werden.
 - **LLM Router**: Verbindet europäische LLM Provider. Transparentes Pricing.
+
+## LLM
+
+> Wie unterscheiden sich LLMs voneinander?
+
+
+> Was ist ein "thinking" LLM?
 
 ## LLM Chat
 
