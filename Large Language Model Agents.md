@@ -1,7 +1,7 @@
 ---
 title: Large Language Model Agents
 lang: en
-kind: reference
+kind: explain
 section: dev
 ---
 

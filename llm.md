@@ -1,7 +1,7 @@
 ---
 title: llm
-kind: explain
-section: term
+kind: reference
+section: tool
 website: https://datasette.io/tools/llm
 ---
 

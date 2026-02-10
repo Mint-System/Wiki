@@ -8,6 +8,6 @@ You can install the OpenCode cli with [[Mint System Dotfiles]].
 
 ## HowTo
 
-### Connect with Qwen3-Coder
+### ## Connect to cortecs
 
-Run `opencode` in your shell and then enter the command `/connect`.
+<https://docs.cortecs.ai/integration-examples/coding/opencode#id-2.-connect-to-cortecs>
