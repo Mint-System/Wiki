@@ -2,6 +2,7 @@
 title: Empfehlungen für Odoo Module
 section: blog
 kind: reference
+draft: false
 ---
 
 Mit Odoo-Modulen können Lücken zwischen Anforderungen und dem was Odoo out-of-the-box leistet, geschlossen werden. Odoo "Erweiterungen" und "Apps" werden synonym zu "Module" verwendet.

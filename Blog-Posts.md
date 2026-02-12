@@ -1,13 +1,13 @@
 ---
 title: Blog-Posts
-section: blog
+section: meta
 kind: reference
+draft: false
 ---
 
 Hier entstehen neue Blog-Posts:
 
-Status Draft:
-
+[[So gelingt das Odoo Upgrade]]
 [[Mythen über Open Source]]\
 [[Zahlen zum Unternehmen]]\
 [[Wir sind Odoo Silberpartner]]\
@@ -17,13 +17,9 @@ Status Draft:
 [[Aufbau einer Entwicklungsumgebung für Odoo]]\
 [[Lizenzmanagement mit Odoo]]\
 [[URec-Team]]\
-[[Fünf Fünf Fünf]]\
 [[Odoo mit ihrer Bank verbinden]]\
 [[Ausfall Amazon AWS und Microsoft Azure]]\
-[[Empfehlungen für Odoo Module]]
-
-Publiziert:
-
+[[Empfehlungen für Odoo Module]]\
 [[E-Mails mit Odoo versenden und empfangen]]\
 [[Von Microsoft zu Infomaniak migrieren]]\
 [[Unsere fast neue Website]]\

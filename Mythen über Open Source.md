@@ -1,6 +1,8 @@
 ---
 title: Mythen über Open Source
 draft: true
+section: blog
+kind: explain
 ---
 
 Wir hören es leider all zu oft:

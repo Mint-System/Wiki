@@ -2,6 +2,7 @@
 title: Paradigmenwechsel im Umgang mit Daten
 section: blog
 kind: explain
+draft: false
 ---
 
 Wem gehören denn jetzt meine Daten?

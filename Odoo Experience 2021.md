@@ -1,6 +1,8 @@
 ---
 title: Odoo Experience 2021
 section: blog
+kind: explain
+draft: false
 ---
 
 Einblick in die Neuerungen von Odoo 15.

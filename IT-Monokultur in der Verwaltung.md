@@ -2,6 +2,7 @@
 title: IT-Monokultur in der Verwaltung
 section: blog
 kind: explain
+draft: false
 ---
 
 Nicht nur in der Landwirtschaft ist die Monokultur ein Problem.

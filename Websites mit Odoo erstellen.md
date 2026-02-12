@@ -2,6 +2,7 @@
 title: Websites mit Odoo erstellen
 kind: explain
 section: blog
+draft: false
 ---
 
 > Der Website-Builder von Odoo im Detail.
