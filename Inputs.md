@@ -9,4 +9,4 @@ Inputs ist das Mint System Format für interne Ausbildungen und Wissenstransfer.
 
 [[Input - Arbeit mit Obsidian]]\
 [[Input - Projektarbeit und Zeiterfassung]]\
-[[Arbeit mit LLMs]]
+[[Input - Arbeit mit LLMs]]
