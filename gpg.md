@@ -1,5 +1,4 @@
 ---
-title: man gpg
 kind: reference
 section: dev
 ---

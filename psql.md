@@ -1,5 +1,4 @@
 ---
-title: man psql
 kind: reference
 section: dev
 ---

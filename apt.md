@@ -1,5 +1,4 @@
 ---
-title: man apt
 kind: reference
 section: dev
 ---

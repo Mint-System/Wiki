@@ -1,5 +1,4 @@
 ---
-title: git
 kind: reference
 section: dev
 ---

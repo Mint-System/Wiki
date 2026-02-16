@@ -1,5 +1,4 @@
 ---
-title: docker
 kind: reference
 section: dev
 ---

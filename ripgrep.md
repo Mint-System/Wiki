@@ -1,5 +1,4 @@
 ---
-title: man ripgrep
 kind: reference
 section: dev
 ---
