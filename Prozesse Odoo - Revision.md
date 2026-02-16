@@ -12,10 +12,10 @@ Arbeitsschritte:
 
 - Aufrufen Docker Tag <https://hub.docker.com/_/odoo/tags> mit ausgewählter Odoo Version
 - Neuster Release-Tag notieren
-- Neue Revision in Odoo Build erstellen
+- Neue Revisionen mit Odoo Build erstellen
 
 ```bash
-revision="20260119"
+revision="20260209"
 
 while IFS= read -r version; do
     [[ -z "$version" ]] && continue
@@ -30,8 +30,7 @@ done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 - Dokumentationen mit Odoo Revisionen aktualisieren
 	- [[Odoo Build]] in `images/odoo/README.md` und `addons/kubernetes/helm/data/data.xml`
 	- [[Kubernetes Build]] in `task` und `Backup.md`
-- Dokumentation der Odoo Revisionen mit `task update-revisions-doc
-` generieren
+- Dokumentation der Odoo Revisionen mit `task update-revisions-doc` generieren
 
 ## Odoo Revision installieren
 
