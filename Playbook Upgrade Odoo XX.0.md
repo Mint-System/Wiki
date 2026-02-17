@@ -1,5 +1,5 @@
 ---
-title: Playbook Upgrade Odoo XX.0
+project: Odoo Acme Corporation
 lang: en
 section: template
 kind: reference

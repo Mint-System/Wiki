@@ -23,7 +23,7 @@ Arbeitsschritte:
 - Lokale Entwicklungssumgebung bereitstellen ([[Odoo Build]])
 - Jedes Modul anhand <https://odoo.build/modules.html> prüfen
 - Bei Bedarf das Modul migrieren
-- Bereitstellen Modul auf neuer Odoo-Umgebung
+- Bereitstellen Modul auf Upgrade-Umgebung
 
 ## Snippets prüfen
 
