@@ -8,7 +8,7 @@ section: process
 
 Arbeitsschritte:
 
-- Auf Server einloggen `ssh $ALIAS.mint-system.com`
+- Auf Server einloggen `task connect-host $ALIAS`
 - Modulliste generieren `docker-odoo-cloc -c $CONTAINER -d $DATABASE`
 - Modulname aus Konsole kopieren und filtern
 - Vorlage [[Migrate modules to Odoo XX.0]] kopieren
