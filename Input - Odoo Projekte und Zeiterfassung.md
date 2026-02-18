@@ -1,5 +1,4 @@
 ---
-title: Input - Projektarbeit und Zeiterfassung
 section: training
 kind: tutorial
 ---
@@ -18,28 +17,35 @@ kind: tutorial
 
 
 
-## Kanban-Prinzipien
+### Kanban-Prinzipien
 
 > Welche Kanban-Prinzipien gibt es?
 
 [[Kanban|Kanban]]
 
-## Odoo Projekt
+## Projekte
 
-
-### Projekte
 
 > Welche Projekte gibt es?
 
 
+### Phasen
 
-### Stufen
+> Was sind Projekt-Phasen?
+
+
+
+> Wie werden Projekt-Phasen genutzt?
+
+
+
+
+## Aufgaben
+
 
 > Welche Stufen durchläuft eine Aufgabe?
 
 
-
-### Aufgaben
 
 > Wie erstellt man eine Aufgabe?
 
@@ -65,18 +71,19 @@ kind: tutorial
 > Was sind Todos?
 
 
-
-### Zeiterfassung
-
-> Wo sehe ich die erfasste Zeit?
-
-
-
-
 ### Priorisierung
 
 > Wie werden Aufgaben priorisiert?
 
+
+
+## Zeiterfassung
+
+> Wie erfasse ich meine Zeit?
+
+
+
+> Wo sehe ich die erfasste Zeit?
 
 
 ### Abrechnung
@@ -88,17 +95,9 @@ kind: tutorial
 > Wie entscheidet ich ob eine Aufwand abgerechnet werden soll?
 
 
-### Phasen
-
-> Was sind Projekt-Phasen?
 
 
-
-> Wie werden Projekt-Phasen genutzt?
-
-
-
-## Odoo Dialog
+## Dialog
 
 ### Chatter
 
