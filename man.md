@@ -13,3 +13,4 @@ Hilfestellung für Kommandozeilenbefehle.
 - [[ripgrep]]
 - [[apt]]
 - [[kubectl]]
+- [[sudo]]
