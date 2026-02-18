@@ -23,14 +23,6 @@ Beispiel:
 - Zustellen der Liste an Kunde
 - Bei Erhalt Zugangsdaten die Einträge selber erstellen
 
-## DNS-Einträge mit Vercel erstellen
-
-Arbeitsschritte:
-
-- Installation [[Vercel#Client]]
-- Zugriff auf das Mint System anfordern
-- DNS-Einträge mit `vercel dns` erstellen
-
 ## Wildcard-Zertifikat mit Ansible erneuern
 
 Arbeitsschritte:

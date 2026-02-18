@@ -17,6 +17,15 @@ Arbeitsschritte:
 - Als Name `$ALIAS.mint-system.com` eingeben
 - Sobal die IP-Adresse zugewiesen wird, kann der DNS-Eintrag erstellt werden
 
+## DNS-Einträge für Server erstellen
+
+- Name gemäss [[Richtlinie - Namenskonventionen#Servers]] festlegen
+- DNS-Eintrag in Ansible im `setup` Inventory erstellen
+
+Mit `task list-hosts inventories | grep $ALIAS` sicherstellen, dass Name noch nicht verwendet wurde.
+
+- Mit dem entsprechenden Ansible-Befehl den Eintrag erstellen
+
 ## Server mit Ansible bereitstellen
 
 Arbeitsschritte:

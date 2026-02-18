@@ -16,7 +16,6 @@ Dokumentation der Infrastruktur Prozesse.
 
 ## Bereitstellung
 
-- [[Prozesse Infrastruktur - DNS-Einträge erstellen]]
 - [[Prozesse Infrastruktur - Server bereitstellen]]
 - [[Prozesse Infrastruktur - Innernet bereitstellen]]
 - [[Prozesse Infrastruktur - BigBlueButton bereitstellen]]
