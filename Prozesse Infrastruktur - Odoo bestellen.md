@@ -28,7 +28,6 @@ Arbeitsschritte:
 
 - Beim [[Kreis Infrastruktur]] den Server-Namen anfragen
 
-
 ## DNS-Einträge und Postfach anfragen
 
 Voraussetzung:
