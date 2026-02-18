@@ -11,6 +11,9 @@ Bereitstellung Odoo-Umgebung.
 Arbeitsschritte:
 
 - Odoo-Konfiguration in [[Ansible Inventory]] erstellen
+
+Mit dem Befehl `task get-last-hostname odoo` gibt es Vorschläge für Hostnames.
+
 - Odoo-Umgebung deployen
 - Proxy-Konfiguration in [[Ansible Inventory]] erstellen
 - Odoo-Datenbank initialisieren
