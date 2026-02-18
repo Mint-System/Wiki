@@ -22,6 +22,13 @@ Arbeitsschritte:
 - Erstellen Aufgabe "Odoo bereitstellen" in Kundenprojekt mit Kundeninformationen
 - Aufgabe an [[Kreis Infrastruktur]] zuweisen
 
+## Server-Name anfragen
+
+Arbeitsschritte:
+
+- Beim [[Kreis Infrastruktur]] den Server-Namen anfragen
+
+
 ## DNS-Einträge und Postfach anfragen
 
 Voraussetzung:
