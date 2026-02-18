@@ -6,5 +6,5 @@ section: organisation
 
 Benutzername: `gerittaenzer`\
 Alias: `get`\
-Mail: <gerit.taenzer@mint-system.ch>\
+Mail: gerit.taenzer@mint-system.ch\
 Matrix: `@gerittaenzer:mint-system.ch`

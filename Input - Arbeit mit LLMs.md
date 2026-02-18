@@ -80,13 +80,13 @@ Du kannst das [[llm]] cli mit den [[Mint System Dotfiles]] installieren. Beim Ei
 
 Details zum Workflow sind hier beschrieben: <https://janikvonrotz.ch/2026/02/17/working-with-llm-agents/#workflow>
 
-> Wie kann ich OpenCode lokal installieren?
+> Wie kann ich OpenCode lokal installieren und welchen Provider soll ich verwenden?
 
-Du kannst das OpenCode cli mit den [[Mint System Dotfiles]] installieren.
+Du kannst das OpenCode cli mit den [[Mint System Dotfiles]] installieren. Verwende den Anbieter _Cortecs_, den API-Key findest du in KeePass.
 
-> Mit welchem Provider soll ich OpenCode verbinden?
+> Was ist der Nutzen?
 
-Verwende den Anbieter _Cortecs_, den API-Key findest du in KeePass.
+Der Agent kann eine gut definierte Aufgabe sehr schnell lösen. Es lohnt sich ein Agenten einzusetzen, wenn das Zielbild bereits bekannt ist.
 
 > Was ist der Plan und Build Modus?
 
@@ -99,6 +99,8 @@ Das `AGENTS.md` ist eine Readme-Datei, die sich an den Agenten richtet. Damit wi
 > Wie erstelle ich einen Prompt?
 
 Wenn das Projekt über einen `prompts` Ordner verfügt, kannst du mit `task create-prompt "Titel des Prompts"` einen Prompt anlegen. Erweitere den Abschnitt _Task_ mit der Aufgabenbeschreibung.
+
+Dazu ein paar Beipsiele von Prompts: <https://github.com/Mint-System/Odoo-Build/tree/main/prompts>
 
 > Wie führe ich einen Prompt aus?
 
