@@ -41,11 +41,3 @@ Die Kosten für zusätzlichen Speicherplatz sind vom ausgewählten Anbieter abh�
 
 Der finale Preis umfasst nicht nur die Kosten des Anbieters, sondern auch die damit betriebenen Hosting-Lösungen und Konfiguration des Servers.
 
-- Service Managed: 20 CHF
-- Zuschlag Standort Schweiz: 20 CHF
-- Zuschlag Speicherplatz
-- Zuschlag Typ
-  - Tiny: 0 CHF
-  - Small: 10 CHF
-  - Medium: 20 CHF
-  - Large: 30 CHF

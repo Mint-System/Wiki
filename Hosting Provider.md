@@ -2,6 +2,10 @@
 title: Hosting Provider
 ---
 
-Wir setzen auf [[Hetzner]], [[Infomaniak]] und [[Exoscale]].
+Wir setzen auf diese Hosting Provider:
 
-Für ausgewählte Dienste wie [[Matrix]] arbeiten wir mit [[ungleich GmbH]].
+* [[Hetzner]]
+* [[Infomaniak]]
+* [[Exoscale]]
+* [[Ops One]]
+* [[ungleich GmbH]]

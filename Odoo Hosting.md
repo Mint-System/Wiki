@@ -6,9 +6,9 @@ section: product
 
 [[Odoo]] ist eine moderne, aber auch komplexe [[Webapplikation]]. Im Vergleich zu herkömmlichen Applikationen wird Sie auf einem zentralen Server installiert und braucht mehr Rechenleistung. Ein zuverlässiges Hosting ist also ein Muss. Mit der Mint Cloud haben Sie den richtigen Ort für ihr Odoo-Hosting. Die Mint System GmbH kümmert sich um alle technischen Aspekte der Odoo-Installation und stellt sicher, dass Odoo Tag und Nacht zur Verfügung steht.
 
-## Modelle
+## Varianten
 
-Odoo wird in folgenden Hosting-Modellen angeboten:
+Ein Oodoo Hosting wird in folgenden Varianten angeboten:
 
 - [[Odoo Hosting - Mint Cloud]]
 - [[Odoo Hosting - On-Premise]]
@@ -16,18 +16,17 @@ Odoo wird in folgenden Hosting-Modellen angeboten:
 - [[Odoo Hosting - Online]]
 - [[Odoo Hosting - Odoo.sh]]
 
-## Kosten
+## Abrechnung und Kosten
 
-Abhängig vom Hosting-Modell fallen Kosten an:
+Abhängig von der Hosting-Varianten fallen Kosten an:
 
-- Mint Cloud: 50 CHF pro Monat
-  - Abrechnung pro Semester oder Jährlich
-- Off-/On-Premise: 50 CHF pro Monat
-  - Abrechnung pro Semester oder Jährlich
-- Online: Teil der Nutzungskosten
-  - Abrechnung Monatlich
-- Odoo.sh: Gemäss Pricing
-  - Abrechnung Monatlich
+| Variante    | Abrechnung                 | Fixpreis | Zusätzliche Kosten |
+| ----------- | -------------------------- | -------- | ------------------ |
+| Mint Cloud  | Pro Semester oder Jährlich | 50 CHF   | Managed Server     |
+| Off-Premise | Pro Semester oder Jährlich | 50 CHF   | -                  |
+| On-Premise  | Pro Semester oder Jährlich | 50 CHF   | -                  |
+| Online      | Monatlich                  | -        | -                  |
+| Odoo.sh     | Monatlich oder Jährlich    | -        | -                  |
 
 ## Servicebeschreibung
 
@@ -41,7 +40,7 @@ Die Wartung des Services beinhaltet diese Leistungen:
 
 ## Lizenzierung
 
-Odoo wird in zwei verschiedenen Lizenz-Typen angeboten:
+Odoo wird in zwei Editionen angeboten:
 
 1. [[Odoo Community Edition]]
-2. [[Odoo Enterprise]]
+2. [[Odoo Enterprise Edition]]
