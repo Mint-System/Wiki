@@ -6,7 +6,7 @@ section: process
 
 ## DNS-Einträge für Server erstellen
 
-- Name gemäss Liste [[Servers#Liste]] definieren
+- Name gemäss [[Richtlinie - Namenskonventionen#Servers]] festlegen
 - DNS-Eintrag in Ansible im `setup` Inventory erstellen
 - Mit dem entsprechenden Ansible-Befehl den Eintrag erstellen
 

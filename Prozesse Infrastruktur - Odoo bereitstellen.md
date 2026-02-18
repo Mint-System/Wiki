@@ -14,7 +14,7 @@ Arbeitsschritte:
 
 Mit dem Befehl `task get-last-hostname odoo` gibt es Vorschläge für Hostnames.
 
-- Odoo-Umgebung deployen
+- Odoo-Umgebung mit `plays/odoo.yml` deployen
 - Proxy-Konfiguration in [[Ansible Inventory]] erstellen
 - Odoo-Datenbank initialisieren
 
