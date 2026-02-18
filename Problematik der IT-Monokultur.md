@@ -2,6 +2,7 @@
 title: Problematik der IT-Monokultur
 section: blog
 kind: explain
+draft: false
 ---
 
 ## Keine Wahl

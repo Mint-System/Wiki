@@ -24,7 +24,8 @@ Richtlinien der Mint System.
 
 - [[Richtlinie - Namenskonventionen]]
 - [[Richtlinie - Passwortmanager]]
-
+- [[Richlinie - Arbeitsplatz]]
+	
 ## Kommunikation
 
 - [[Richtlinie - Website]]

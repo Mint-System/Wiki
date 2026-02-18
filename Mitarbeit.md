@@ -21,7 +21,7 @@ Die folgenden Dateien gehören zum Obsidian Projekt:
 * [[Handbücher.base]]
 * [[Hardware.base]]
 * [[Lieferanten.base]]
-* [[Infrastruktur.base]]
+* [[Liste Infrastruktur.base]]
 * [[Kommunikation.base]]
 * [[Kontakte.base]]
 * [[Lang EN.base]]

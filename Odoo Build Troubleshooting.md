@@ -2,7 +2,7 @@
 title: Odoo Build Troubleshooting
 lang: en
 kind: howto
-section: product
+section: dev
 ---
 
 ## Run
@@ -106,3 +106,29 @@ Install library and reinstall python.
 sudo apt install libsqlite3-dev
 pyenv install 3.7.2
 ```
+
+### Permission denied - Docker daemon socket
+
+**Problem**
+
+After running:
+
+```bash
+task start db
+```
+
+You get the an error containing:
+
+```
+Permission denied while trying to connect to the Docker daemon socket
+```
+
+**Solution**
+
+Add your user to the 'docker group' with:
+(Logout and login for this to have an effect)
+
+```bash
+sudo usermod -aG docker $USER
+```
+

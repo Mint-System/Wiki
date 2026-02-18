@@ -3,27 +3,14 @@ title: Prozesse Odoo - Upgrade Implementation
 kind: howto
 section: process
 ---
-
-## Prozess initialisieren
-
-Arbeitsschritte:
-
-- Erstellen Drehbuch anhand Vorlage
-  - Odoo Comunity Edition: [[Odoo Community Upgrade]]
-  - Odoo Enterprise Edition: [[Odoo Enterprise Upgrade]]
-  - Odoo.sh Hosting: [[#Odoo.sh Upgrade durchführen]]
-- [[#Modulliste erstellen]]
-- Erstellen Liste der aktiven Snippets
-- Upgrade-Strategy wählen: [[Odoo Enterprise Upgrade]] oder [[Odoo Community Upgrade]]
-
 ## Module prüfen
 
 Arbeitsschritte:
 
 - Lokale Entwicklungssumgebung bereitstellen ([[Odoo Build]])
-- Jedes Modul anhand <https://odoo.build/modules.html> prüfen
+- Jedes Modul anhand [[Prozesse Odoo - Upgrade Angebot#Modulliste erstellen]] prüfen.
 - Bei Bedarf das Modul migrieren
-- Bereitstellen Modul auf neuer Odoo-Umgebung
+- Bereitstellen Modul auf Upgrade-Umgebung
 
 ## Snippets prüfen
 

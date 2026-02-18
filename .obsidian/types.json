@@ -26,6 +26,8 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "teams": "multitext",
-    "kind": "text"
+    "kind": "text",
+    "excalidraw-export-internal-links": "checkbox",
+    "excalidraw-embed-md": "checkbox"
   }
 }

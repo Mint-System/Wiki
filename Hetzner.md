@@ -9,7 +9,7 @@ Deutscher Hosting-Anbieter.
 
 Links: [[Hetzner Troubleshooting]]
 
-## HowTos
+## HowTo
 
 [[Hetzner - Festplattenspeicher erweitern]]\
 [[Hetzner - Server zu neuem Standort migrieren]]\

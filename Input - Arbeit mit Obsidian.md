@@ -86,7 +86,7 @@ Drücke `ctrl` + `shift` + `R` um die geöffnete Datei in der Ordnerstruktur anz
 
 > Was ist Markdown?
 
-Wenn du die Notizen-Dateien im Datei-Explorer anzeigt, siehst du, dass diese die Dateiendung `.md` haben. Das Kürzel steht für Markdown. Markdown ist ken Dateiformat, sondern eine sog. Auszeichnungssprache.
+Wenn du die Notizen-Dateien im Datei-Explorer anzeigt, siehst du, dass diese die Dateiendung `.md` haben. Das Kürzel steht für Markdown. Markdown ist kein Dateiformat, sondern eine sog. Auszeichnungssprache.
 
 Gib in der Datei `README.md` den Text `Dieser Text einhält eine **Fettformatierung**.`. Wie du siehst, wird der Text innerhalb der `**` Zeichen fett formatiert. Mit Markdown kann man Texte mit Text formatieren.
 

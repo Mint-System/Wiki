@@ -8,3 +8,5 @@ kind: reference
 Matrix-Instanz der Mint System.
 
 Administration: <https://admin.matrix.ungleich.cloud>
+
+Hosting ist bei [[ungleich GmbH]].

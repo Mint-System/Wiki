@@ -21,7 +21,7 @@ kind: worklog
 
 ==Protokolliere die Arbeitsschritte und Ergebnisse.==
 
-## Verifizierung
+## Review
 
 ==Verifiziere das Resultat mit den Zielen.==
 ```

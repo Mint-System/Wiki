@@ -1,7 +1,7 @@
 ---
 title: Prozesse Odoo - Revision
 kind: howto
-section: process
+section: section
 ---
 
 Bereitstellung einer Odoo Revision.
@@ -12,10 +12,10 @@ Arbeitsschritte:
 
 - Aufrufen Docker Tag <https://hub.docker.com/_/odoo/tags> mit ausgewählter Odoo Version
 - Neuster Release-Tag notieren
-- Neue Revision in Odoo Build erstellen
+- Neue Revisionen mit Odoo Build erstellen
 
 ```bash
-revision="20251121"
+revision="20260209"
 
 while IFS= read -r version; do
     [[ -z "$version" ]] && continue
@@ -28,16 +28,16 @@ done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 ```
 
 - Dokumentationen mit Odoo Revisionen aktualisieren
-	- [[Odoo Build]] in `README.md`
-	- [[Kubernetes Build]] in `Development.md` und `Backup.md`
-- Dokumentation der Odoo Revisionen mit `task update-revisions-doc
-` generieren
+	- [[Odoo Build]] in `images/odoo/README.md` und `addons/kubernetes/helm/data/data.xml`
+	- [[Kubernetes Build]] in `task` und `Backup.md`
+- Dokumentation der Odoo Revisionen mit `task update-revisions-doc` generieren
 
 ## Odoo Revision installieren
 
 Arbeitsschritte:
 
-- Mitteilung an Kunde via Odoo Dialog
+- Mitteilung an Projektleiter in Aufgabe _Projektadministration_
+- Mitteilung an Kunde via Odoo Dialog > Kanal _Allgemein_
 
 ```
 Guten Tag

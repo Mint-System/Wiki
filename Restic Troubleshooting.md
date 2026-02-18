@@ -1,7 +1,7 @@
 ---
 title: Restic Troubleshooting
 kind: howto
-section: product
+section: dev
 ---
 
 ## Snapshots

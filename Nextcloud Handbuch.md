@@ -93,3 +93,9 @@ Wenn Sie einen Ordner einem Benutzer oder einer Gruppe freigeben, können Sie de
 Über die Benutzerverwaltung _Benutzer > Aktive Benutzer_ können Sie einen Benutzer zum Gruppenadministrator für eine Benutzergruppe ernennen. Fügen Sie dazu in der Spalte _Gruppenadministrator für_ ganz einfach die entsprechenden Gruppen hinzu:
 
 ![[Nextcloud Gruppenadministrator.png]]
+
+## Benachrichtigungen
+
+### Benachrichtigungen ausschalten
+
+Öffne _Administrationseinstellungen > Aktivität_ und deaktiviere die Option _Benachrichtigungs-E-Mails einschalten_.

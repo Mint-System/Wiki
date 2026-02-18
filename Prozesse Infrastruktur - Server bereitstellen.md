@@ -11,7 +11,7 @@ Bereitstellung eines neuen Server.
 Arbeitsschritte:
 
 - Im Portal von [[Hetzner]] einloggen
-- Server gemäss [[Managed Server Kalkulation]] erstellen
+- Server gemäss Verkaufsauftrag erstellen
 - Volume mit Name `$ALIAS.mint-system.com` erstellen
 - SSH-Key auswählen
 - Als Name `$ALIAS.mint-system.com` eingeben
@@ -34,11 +34,3 @@ rg -I "^nginx_hostname: nginx" inventories  | sort -h
 - Bereitstellung mit `plays/proxy.yml` Playbook
 - Aktualisieren Prometheus-Konfiguration
 - Verifizieren Server erscheint in Monitoring
-
-## Passwordless Sudo einrichten
-
-Arbeitsschritte:
-
-- Einloggen auf Server mit Benutzername und Login
-- Erstellen Eintrag `$USERNAME ALL=(ALL) NOPASSWD: ALL` in `/etc/sudoers`
-- Session neustarten und Passwordless Sudo testen

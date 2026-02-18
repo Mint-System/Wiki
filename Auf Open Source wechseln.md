@@ -2,6 +2,7 @@
 title: Auf Open Source wechseln
 kind: explain
 section: blog
+draft: false
 ---
 
 Das ist eine Sammlung von Open Source Alternativen zu etablierten proprietären Produkten.

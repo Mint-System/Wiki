@@ -1,7 +1,7 @@
 ---
 title: Odoo Troubleshooting
 kind: howto
-section: product
+section: dev
 ---
 
 ## Client

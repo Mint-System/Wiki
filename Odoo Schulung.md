@@ -1,6 +1,6 @@
 ---
 title: Odoo Schulung
-section: training
+section: meta
 kind: reference
 ---
 

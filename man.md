@@ -6,11 +6,11 @@ section: dev
 
 Hilfestellung für Kommandozeilenbefehle.
 
-- [[man psql]]
-- [[man sql]]
-- [[man git]]
-- [[man docker]]
-- [[man gpg]]
-- [[man ripgrep]]
-- [[man netcat]]
-- [[man apt]]
+- [[psql]]
+- [[git]]
+- [[docker]]
+- [[gpg]]
+- [[ripgrep]]
+- [[apt]]
+- [[kubectl]]
+- [[sudo]]

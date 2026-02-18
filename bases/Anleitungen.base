@@ -4,6 +4,7 @@ views:
     filters:
       or:
         - section == "guide"
+        - section == "training"
     order:
       - file.name
       - kind

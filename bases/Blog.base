@@ -4,10 +4,14 @@ views:
     filters:
       and:
         - section == "blog"
+    groupBy:
+      property: draft
+      direction: ASC
     order:
       - file.name
       - kind
       - section
+      - draft
     sort: []
     columnSize:
       file.name: 610

@@ -43,7 +43,7 @@ Unser Ticketsystem und Forum steht Ihnen zu Verfügung. Bei dringenden Notfälle
 
 ### Service Level Agreement
 
-Das offertiete Hosting kann als Service Level Agreement (SLA) festgehalten werden.
+Das offerierte Hosting kann als Service Level Agreement (SLA) festgehalten werden.
 
 [[Service Level Agreement Hosting]]\
 [[Datenschutzrichtlinie]]

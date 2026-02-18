@@ -22,7 +22,7 @@ Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösunge
 ## [[Dienstleistungen]]
 
 - [[Workshops]]
-- [[Technischer Support]]
+- [[Odoo Support]]
 - [[Software Engineering]]
 - [[Security Audit]]
 

@@ -4,7 +4,7 @@ section: product
 kind: reference
 ---
 
-## HowTos
+## HowTo
 
 [[Docker - Migrate bind mount to volume mount]]
 [[Docker - Move Docker data directory to new location]]

@@ -29,7 +29,7 @@ Don't output the content of the markdown files in the markdown table.
 
 ## Execution
 
-I used [[Qwen Coder]] and the Infomaniak AI Tools to execute the prompt.
+I used Qwen Coder and the Infomaniak AI Tools to execute the prompt.
 
 ## Results
 

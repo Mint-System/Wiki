@@ -1,20 +1,22 @@
 ---
 title: Supportvertrag
+section: product
+kind: explain
 ---
 
-Revision: 2024-01-01
+Revision: 2026-01-29
 
 Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt bei Fragen und Problemen zu Odoo. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Odoo Expertenwissen.
 
-| Leistung                                                 | Basis  |    MINT    |   MINT+   |
+| Leistung                                                 | Basis  |    Plus    |    Pro    |
 | -------------------------------------------------------- | :----: | :--------: | :-------: |
-| Dialog über support@mint-system.ch                       |   ✅   |     ✅     |    ✅     |
-| Telefonanruf auf Hauptnummer +41 44 244 72 20            |   ✅   |     ✅     |    ✅     |
-| Telefonanruf auf Supportnummer +41 44 244 72 24          |   ❌   |     ✅     |    ✅     |
-| Direkter Dialog mit Betreuungsperson                     |   ❌   |     ❌     |    ✅     |
+| Dialog über support@mint-system.ch                       |   ✅    |     ✅      |     ✅     |
+| Telefonanruf auf Hauptnummer +41 44 244 72 20            |   ✅    |     ✅      |     ✅     |
+| Telefonanruf auf Supportnummer +41 44 244 72 24          |   ❌    |     ✅      |     ✅     |
+| Direkter Dialog mit Betreuungsperson                     |   ❌    |     ❌      |     ✅     |
 | Maximale Reaktionszeit (während den normalen Bürozeiten) | 3 Tage | 24 Stunden | 4 Stunden |
-| Supportleistungen zu reduziertem Tarif                   |   ❌   |     ✅     |    ✅     |
-| Monatliches Guthaben                                     |   ❌   |     ❌     | 1 Stunde  |
+| Supportleistungen zu reduziertem Tarif                   |   ❌    |     ✅      |     ✅     |
+| Monatliches Guthaben                                     |   ❌    |     ❌      | 1 Stunde  |
 | Kosten pro Monat [CHF]                                   |   0    |     80     |    160    |
 | Kosten pro Jahr [CHF]                                    |   0    |    960     |   1’920   |
 
@@ -29,9 +31,9 @@ Ihre Kontaktmöglichkeiten:
 
 Kosten pro Jahr: 0 CHF
 
-## MINT
+## Plus
 
-Mit dem MINT Supportvertrag erhalten Sie zusätzlich:
+Mit dem Plus Supportvertrag erhalten Sie zusätzlich:
 
 - Zugriff auf die Supportnummer
 - eine Antwort innerhalb von 24 Stunden
@@ -45,9 +47,9 @@ Ihre Kontaktmöglichkeiten:
 Kosten pro Jahr: 960 CHF\
 _Kosten pro Monat: 80 CHF_
 
-## MINT+
+## Pro
 
-Mit dem MINT+ Supportvertrag erhalten Sie zusätzlich:
+Mit dem Pro Supportvertrag erhalten Sie zusätzlich:
 
 - Zugriff auf die direkte Nummer des Betreuers
 - eine Antwort innerhalb von 4 Stunden

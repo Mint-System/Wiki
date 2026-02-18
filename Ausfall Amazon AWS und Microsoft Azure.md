@@ -2,6 +2,7 @@
 title: Ausfall Amazon AWS und Microsoft Azure
 kind: explain
 section: blog
+draft: false
 ---
 
 ## Was ist passiert?

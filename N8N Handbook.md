@@ -6,4 +6,3 @@ section: handbook
 
 [[TOC]]
 
-## CSV-Datei verarbeiten

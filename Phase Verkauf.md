@@ -12,7 +12,7 @@ Tätigkeiten:
 - Anpassen Bericht und E-Mail-Vorlagen
 - Festlegen lieferbare Produkte und Dienstleistungen
 
-Ergebnis: Der kann mit Odoo Verkaufsverträge abschliessen
+Ergebnis: Der Kunde kann mit Odoo Verkaufsverträge abschliessen
 
 ## Produkte anlegen
 

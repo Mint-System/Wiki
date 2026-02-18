@@ -4,6 +4,14 @@ kind: howto
 section: process
 ---
 
+## Produktives Upgrade planen
+
+Arbeitsschritte:
+
+- Mit dem Kunden einen Termin für das produktive Upgrade vereinbaren.
+- Festhalten wer von Seite Kunde kontaktiert werden soll.
+- Termin in Kalender erstellen.
+
 ## Produktives Upgrade durchführen
 
 Arbeitsschritte:
@@ -22,11 +30,8 @@ Mit freundlichen Grüssen
 Mint System Team
 ```
 
-- Führe das Produktions-Upgrade gemäss dem Playbook aus.
-- Wechsle `$ALIAS` und `$ALIAS_upgrade`.
-- Verschiebe die Datenbank- und Backup-Konfiguration.
-- Aktiviere die Proxy-Weiterleitung zur neuen Instanz.
-- Nachricht an den Kunden:
+- Produktions-Upgrade gemäss dem Playbook ausführen.
+- Nachricht an den Kunden bei erfolgreichem Upgrade:
 
 ```
 Guten Tag

@@ -22,12 +22,12 @@ Tägliche Sicherung der Odoo Datenbanken.
 
 **Akualisierung Odoo Module**
 
-Aktuaisierung in der Odoo Community Edition und den Enterprise Modulen werden fortlaufend installiert.
+Die Odoo Revision und bereitgestellten Modulen werden fortlaufend aktualisiert.
 
 **Enterprise Upgrade**
 
-Das Upgrade der Odoo Enterprise Datenbank auf eine neue Odoo Version ist Hosting mitinbegriffen.
+Das Odoo Enterprise Upgrade kann effizient und kostengünstig mit unseren standardisierten Prozessen umgesetzt werden.
 
 **Umfassender Anwendungsschutz**
 
-Die Odoo-Anwendung wird mit einem Nginx-Proxy geschützt.
+Die Odoo-Anwendung wird mit einem Nginx-Proxy und IP-Blocklisten geschützt.

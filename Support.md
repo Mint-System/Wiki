@@ -2,9 +2,7 @@
 title: Support
 ---
 
-Die Mint System bietet ein [[Technischer Support]].
-
-Weitere Links: [[Problemanalyse Support]]
+Die Mint System bietet ein [[Odoo Support]].
 
 ## Kontakt
 

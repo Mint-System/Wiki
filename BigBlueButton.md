@@ -31,7 +31,7 @@ BigBlueButton fragt einmalig nach dem Mikrofon-Zugriff.
 
 ### Aufnahmen verwalten
 
-BigBlueButton erstellt Aufnahmen in [vier Schritten](https://docs.bigbluebutton.org/dev/recording.html#overview).
+BigBlueButton erstellt Aufnahmen in [vier Schritten](https://docs.bigbluebutton.org/development/recording/).
 
 Aufnahmen auflisten.
 

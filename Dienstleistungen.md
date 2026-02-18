@@ -113,10 +113,18 @@ Umfasst folgende Dienstleistungen:
 
 Preis: 180 CHF pro Stunde
 
-## [[Technischer Support]]
+## Odoo Support
 
 ![[icon_support.png]]
 
-Diese Dienstleistung steht Kunden mit einem aktiven Supportvertrag zur Verfügung. Wir bieten unverzüglich Unterstützung bei Problemen oder Unklarheiten im Umgang mit Odoo.
+Diese Dienstleistung steht Kunden mit einem aktiven [[Supportvertrag]] zur Verfügung. Wir bieten unverzüglich Unterstützung bei Problemen oder Unklarheiten im Umgang mit Odoo.
+
+Preis: 140 CHF pro Stunde
+
+## Infomaniak Support
+
+![[icon_support.png]]
+
+Diese Dienstleistung steht Kunden mit einem aktiven [[Supportvertrag]] zur Verfügung. Wir bieten unverzüglich Unterstützung bei Problemen oder Unklarheiten im Umgang mit den Produkten von Infomaniak.
 
 Preis: 140 CHF pro Stunde

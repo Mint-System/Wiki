@@ -42,5 +42,5 @@ Dokumentation der Infrastruktur Prozesse.
 
 ## Rückbau
 
-- [[Prozesse Infrastruktur - Deinstallation Odoo]]
+- [[Prozesse Infrastruktur - Odoo entfernen]]
 - [[Prozesse Infrastruktur - Server entfernen]]

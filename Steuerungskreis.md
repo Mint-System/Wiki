@@ -5,22 +5,17 @@ kind: explain
 section: organisation
 ---
 
-Kreise:
+Übersicht der Kreise und Rollen
+
+Kreise haben einen Verantwortlichen und werden von Rollen besetzt.
 
 - [[Kreis Infrastruktur]]
 
 Rollen:
 
-- [[Netzwerker%In]]
-- [[Odoo Entwickler%in]]
-- [[Systemadministrator%in]]
-- [[Wissensmanager%in]]
-- [[Supporter%in]]
-- [[Odoo Buchhaltung Expert%in]]
-
-Mitglieder:
-
-- [[Kurt Gisler]]
-- [[Janik von Rotz]]
-- [[Ulrich Kilian]]
-- [[Marco Roeleven]]
+- [[Rolle Netzwerker%In]]
+- [[Rolle Odoo Entwickler%in]]
+- [[Rolle Systemadministrator%in]]
+- [[Rolle Wissensmanager%in]]
+- [[Rolle Supporter%in]]
+- [[Rolle Odoo Buchhaltung Expert%in]]

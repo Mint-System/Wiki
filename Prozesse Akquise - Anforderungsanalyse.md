@@ -17,7 +17,7 @@ Jede Anforderungen wird mit diesen Attributen beschrieben:
 
 - ID: Eindeutiger Bezeichner
 - Name: Kurzer Titel zur Anforderung
-- Beschreibung: Ausführliche Beschreibung der Afnorderung
+- Beschreibung: Ausführliche Beschreibung der Anforderung
 - Priorität: Muss- oder Soll-Kriterium
 
 **Beispiel**

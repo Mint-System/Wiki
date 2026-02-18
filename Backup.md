@@ -6,7 +6,7 @@ kind: explain
 
 ## Vorschlag
 
-Die Daten der Applikations-Container werden täglich gesichert. Container, die Nutzdaten verarbeiten, speichern diese auf dem Filesystem des Docker Hosts. Diese Daten-Ordner sollen fortlauend gesichert werden.
+Die Daten der Applikations-Container werden täglich gesichert. Container, die Nutzdaten verarbeiten, speichern diese auf dem Filesystem des Docker Hosts. Diese Daten-Ordner sollen fortlaufend gesichert werden.
 
 ### Backup Management
 

@@ -1,6 +1,8 @@
 ---
 title: OpenVPN
 website: https://openvpn.net/download-open-vpn/
+section: tool
+kind: reference
 ---
 
 VPN client.
@@ -10,7 +12,7 @@ Related:
 - [[OpenVPN Cheatsheet]]
 - [[OpenVPN Handbook]]
 
-## HowTos
+## HowTo
 
 ## Store username and passwword
 
