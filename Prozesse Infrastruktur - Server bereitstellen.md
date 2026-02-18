@@ -32,8 +32,18 @@ Arbeitsschritte:
 
 - Alias und Hostname in `setup/hosts.yml` Inventory erfassen
 - Sicherheitsregeln für SSH-Port prüfen
+- Erstellen Fstab-Konfiguration wenn ein externes Volume vorhanden ist
 - Bereitstellung mit `plays/setup.yml` Playbook
-- Erstellen Fstab- und Nginx-Konfiguration in `setup/host_vars/$ALIAS.yml`
+
+## Nginx-Proxy mit Ansible bereistellen
+
+Voraussetzung:
+
+- Auf dem Server wurden die Container bereitgestellt.
+
+Arbeitsschritte:
+
+- Erstellen Nginx-Konfiguration in `setup` Inventory
 
 Prüfe mit diesem Befehl die freien Host-Nummern:
 
