@@ -100,8 +100,14 @@ Das `AGENTS.md` ist eine Readme-Datei, die sich an den Agenten richtet. Damit wi
 
 Wenn das Projekt über einen `prompts` Ordner verfügt, kannst du mit `task create-prompt "Titel des Prompts"` einen Prompt anlegen. Erweitere den Abschnitt _Task_ mit der Aufgabenbeschreibung.
 
-Dazu ein paar Beipsiele von Prompts: <https://github.com/Mint-System/Odoo-Build/tree/main/prompts>
+Dazu ein Beispiel: <https://github.com/Mint-System/Ansible-Build/blob/main/prompts/07_update-odoo-scripts-postgres-env-vars.md>
 
 > Wie führe ich einen Prompt aus?
 
 Starte `opencode` im Terminal und gibt den Pfad zur Prompt-Datei ein. OpenCode sollte erkennen, dass es sich um eine Aufgabe handelt.
+
+```bash
+cd Ansible-Build
+opencode
+prompts/07_update-odoo-scripts-postgres-env-vars.md
+```

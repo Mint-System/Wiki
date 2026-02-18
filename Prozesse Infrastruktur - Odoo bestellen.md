@@ -62,8 +62,7 @@ Damit Odoo im Browser angezeigt werden kann, braucht es DNS-Einträge unter ihre
 Können Sie die folgenden DNS-Einträge einrichten?
 
     odoo.$DOMAIN_KUNDE CNAME $ALIAS.mint-system.com
-    odoo-int.$DOMAIN_KUNDE CNAME $ALIAS.mint-system.com
-    odoo-dev.$DOMAIN_KUNDE CNAME $ALIAS.mint-system.com
+    staging.odoo.$DOMAIN_KUNDE CNAME $ALIAS.mint-system.com
 
 Wir haben festgestellt, dass Sie die Domain beim Registrar $KUNDEN_REGISTRAR verwalten. Sie können dort die DNS-Einträge erstellen.
 
