@@ -15,6 +15,7 @@ Arbeitsschritte:
 - Volume mit Name `$ALIAS.mint-system.com` erstellen
 - SSH-Key auswählen
 - Als Name `$ALIAS.mint-system.com` eingeben
+- Sobal die IP-Adresse zugewiesen wird, kann der DNS-Eintrag erstellt werden
 
 ## Server mit Ansible bereitstellen
 
@@ -28,7 +29,7 @@ Arbeitsschritte:
 Prüfe mit diesem Befehl die freien Host-Nummern:
 
 ```bash
-rg -I "^nginx_hostname: nginx" inventories  | sort -h
+task get-last-hostname nginx
 ```
 
 - Bereitstellung mit `plays/proxy.yml` Playbook

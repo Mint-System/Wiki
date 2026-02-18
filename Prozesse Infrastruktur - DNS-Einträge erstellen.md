@@ -8,6 +8,7 @@ section: process
 
 - Name gemäss Liste [[Servers#Liste]] definieren
 - DNS-Eintrag in Ansible im `setup` Inventory erstellen
+- Mit dem entsprechenden Ansible-Befehl den Eintrag erstellen
 
 ## DNS-Einträge für Nextcloud erstellen
 
