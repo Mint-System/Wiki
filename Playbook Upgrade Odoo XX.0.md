@@ -22,7 +22,7 @@ task upgrade-odoo acme drop
 Run the **test** upgrade.
 
 ```bash
-task upgrade-odoo acme test
+task upgrade-odoo acme upgrade-test
 task upgrade-odoo acme clear-assets
 task upgrade-odoo acme init
 task upgrade-odoo acme uninstall
