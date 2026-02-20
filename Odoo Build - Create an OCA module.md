@@ -129,9 +129,3 @@ And module security.
 ```bash
 task generate-module-security oca/server-tools/cron_log ir.cron.execution
 ```
-
-Navigate to Odoo-Build and lint the module.
-
-```bash
-task lint-module oca/server-tools/cron_log
-```
