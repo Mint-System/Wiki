@@ -31,6 +31,19 @@ task upgrade-odoo acme configure-test
 task upgrade-odoo acme restart
 ```
 
+Run the **production** upgrade.
+
+```bash
+task upgrade-odoo acme stop-container
+task upgrade-odoo acme upgrade-production
+task upgrade-odoo acme clear-assets
+task upgrade-odoo acme init
+task upgrade-odoo acme uninstall
+task upgrade-odoo acme update
+task upgrade-odoo acme configure-production
+task upgrade-odoo acme restart
+```
+
 ## Configure ⚙️
 
 Update snippets.
@@ -45,6 +58,8 @@ task install-snippet $TARGET_HOST snippets/sale.report_saleorder_document.add_si
 
 Run the test cases and process the feedback.
 
+If **production** mode run the "click everywhere" action.
+
 ## Production 🚀
 
 Rename the databases and filestore if **production** mode.
@@ -53,14 +68,15 @@ Rename the databases and filestore if **production** mode.
 task upgrade-odoo acme rename-production
 ```
 
-Update the proxy configuration and update Ansible inventory.
+Merge the Ansible upgrade host definition into the main host definition.
+
+Update the proxy configuration and deploy the Nginx.
 
 ## Cleanup 🧹
 
+Ensure the backups jobs are defined correctly.
+
 Remove the outdated Odoo container, volume, data and database.
-
-Merge the upgrade host definition into the main host definition.
-
 ## Troubleshooting 💡
 
 ==Document and resolve upgrade issues.==

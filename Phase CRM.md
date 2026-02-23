@@ -1,5 +1,5 @@
 ---
-title: Phase Kundenverwaltung
+title: Phase CRM
 kind: explain
 section: service
 ---

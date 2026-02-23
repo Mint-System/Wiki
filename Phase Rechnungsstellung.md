@@ -1,5 +1,5 @@
 ---
-title: Phase Abrechnung
+title: Phase Rechnungsstellung
 kind: explain
 section: service
 ---

@@ -35,7 +35,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 **Odoo Apps**
 
 - [[Phase Abonnements]]
-- [[Phase Abrechnung]]
+- [[Phase Rechnungsstellung]]
 - [[Phase Abwesenheit]]
 - [[Phase Anwesenheit]]
 - [[Phase Aufwand]]
@@ -51,7 +51,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 - [[Phase Kontakte]]
 - [[Phase Knowledge]]
 - [[Phase Kundendienst]]
-- [[Phase Kundenverwaltung]]
+- [[Phase CRM]]
 - [[Phase Lager]]
 - [[Phase Personalbrechnung]]
 - [[Phase Personal]]
