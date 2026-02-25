@@ -42,7 +42,7 @@ task checkout "$ODOO_TARGET_VERSION"
 Das OCA-Repo als Submodule hinzufügen.
 
 ```bash
-task add-git-submodule "git@github.com:OCA/$REPO.git" "oca/$REPO"
+task add-git-folder "git@github.com:OCA/$REPO.git" "oca/$REPO"
 ```
 
 Activate venv and navigate into the repo.

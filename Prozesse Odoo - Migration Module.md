@@ -43,7 +43,7 @@ git push --set-upstream origin $(git branch --show-current)
 - Submodule auf Odoo Build hinzufügen
 
 ```bash
-task add-git-submodule git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO
+task add-git-folder git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO
 ```
 
 - Änderungen auf Odoo Build committen

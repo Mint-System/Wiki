@@ -19,7 +19,7 @@ Janik von Rotz
 ```
 ---
 
-Suggest a meeting: https://apmt.day/janikvonrotz/999120f2/
+Suggest a meeting: https://apmt.day/janikvonrotz/book/
 We are hiring: https://www.mint-system.ch/jobs
 
 CTO Mint System GmbH
