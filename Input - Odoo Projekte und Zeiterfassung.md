@@ -64,11 +64,12 @@ kind: tutorial
 
 ### Todos
 
+> Was sind Todos?
+
+
+
 > Wie wird eine Aufgabe zerlegt?
 
-
-
-> Was sind Todos?
 
 
 ### Priorisierung
@@ -101,7 +102,7 @@ kind: tutorial
 
 ### Chatter
 
-> Was ist der Odoo Chatter?
+> Was verwenden wir den Odoo Chatter?
 
 
 
