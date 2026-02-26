@@ -21,7 +21,7 @@ Arbeitsschritte:
 ```
 Guten Tag
 
-Diese Odoo Installation wird innerhalb der nächsten Stunde von Version 15.0 auf 17.0 aktualisiert.
+Diese Odoo Installation wird innerhalb der nächsten Stunde von Version $ODOO_VERSION auf $TARGET_ODOO_VERSION aktualisiert.
 
 Wir bitten euch während dieser Zeit keine Bearbeitungen in Odoo vorzunehmen. Alle Änderungen ab jetzt werden nicht in der aktualisierten Odoo Installation sein.
 
