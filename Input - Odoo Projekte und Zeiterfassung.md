@@ -55,15 +55,17 @@ Jedes Projekt generiert einen Menü-Eintrag. Mit der Navigation-Suche kann man s
 
 > Welche Stufen durchläuft eine Aufgabe?
 
-Alle Aufgaben in allen Projekten durchlaufen die gleichen Projekphasen. Wie man die Aufgaben den Spalten zuordnet ist in [[Richtlinie - Aufgabenverwaltung]] festgehalten.
+Alle Aufgaben in allen Projekten durchlaufen die gleichen Projektphasen. Wie man die Aufgaben den Spalten zuordnet ist in [[Richtlinie - Aufgabenverwaltung]] festgehalten.
 
 > Wer erstellt und wer bearbeitet eine Aufgabe?
 
 Die Projektleiterin ist für das Board und den Projektverlauf verantwortlich. Jeder darf Aufgaben erfassen. Bei der Zuweisung der Aufgabe muss man, aber aufpassen. Der Konsent muss gegeben sein. Man darf nicht erwarten, dass wenn man jemanden eine Aufgabe zuweist, die Aufgabe auch erledigt wird.
 
+Man darf auf eigene Initiative Aufgaben erfassen. Diese Aufgaben gehören ins "Backlog". Jede Aufgabe muss von der Projektleiterin validiert und zugewiesen werden. 
+
 > Wer ist für die Aufgabe verantwortlich?
 
-==TDB==
+Wenn eine Aufgabe ans zwei oder mehrere Personen zugeteilt ist, stellt sich die Frage der Verantwortung. In diesem Fall gilt, die Verantwortung liegt beim Projektleiter. Die Projektleiterin muss sicherstellen, dass die Beteiligten die Aufgabe erledigen.
 
 > Wie werden Aufgaben priorisiert?
 
@@ -119,6 +121,10 @@ Grundsätzlich entscheidet der Erfasser des Zeit-Eintrags, ob dieser abgrechnet 
 Die Aufgaben "Projektadministration" und "Know-how" sind mit der Position "Kulanz" verbunden. Die dazugehörigen Zeiterfassungseinträge werden zu 0 CHF verrechnet und im Arbeitsrapport aufgeführt. Wir möchten Kunden zeigen, welche Aufwände wir tätigen und nicht verrechnen.
 
 Bevor die Rechnungen erstellt werden, validiert der Projektleiter alle Zeiterfassungseinträge. Er kann Einträge kürzen, aufteilen oder löschen. Die Rechnung soll den Kunden nicht überraschen.
+
+> Wie sieht das im Stundenlohn aus?
+
+Gute Projektleitung soll zu einer guten Verrechenbarkeit führen. Wenn der Projektleiter die Zeiterfassung validiert, kommt es meistens zu abstrichen. Der Projektleiter muss sicher stellen dass die geplanten verkauften Stunden den effektiven Stunden entsprechen. Eine Überschreitung des Budget muss kommuniziert werden. Dem Kunden gegenüber sprechen wir bei der Projektarbeit von einem Kostendach.
 ## Todos
 
 Mitarbeitenden haben eigene Arbeitsmethodiken. Innerhalb von Aufgaben darf man seine persönliche Methodik anwenden.
