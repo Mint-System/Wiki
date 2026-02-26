@@ -79,7 +79,7 @@ Eine Aufgabe hat immer einen Kunden. Wenn man Aufgabe erfüllt hat und auf das F
 
 Es gibt Aufgaben, die dauern so lange wie das Projekt selbst. Diese Aufgaben landen in der rechten Spalten "Postlog". Dies Aufgaben durchlaufen nicht die Statis des Boards.
 
-### Phasen
+## Phasen
 
 Wir verkaufen Projekte aufgeteilt in Phasen.
 
@@ -115,7 +115,7 @@ Grundsätzlich entscheidet der Erfasser des Zeit-Eintrags, ob dieser abgrechnet 
 Die Aufgaben "Projektadministration" und "Know-how" sind mit der Position "Kulanz" verbunden. Die dazugehörigen Zeiterfassungseinträge werden zu 0 CHF verrechnet und im Arbeitsrapport aufgeführt. Wir möchten Kunden zeigen, welche Aufwände wir tätigen und nicht verrechnen.
 
 Bevor die Rechnungen erstellt werden, validiert der Projektleiter alle Zeiterfassungseinträge. Er kann Einträge kürzen, aufteilen oder löschen. Die Rechnung soll den Kunden nicht überraschen.
-### Todos
+## Todos
 
 Mitarbeitenden haben eigene Arbeitsmethodiken. Innerhalb von Aufgaben darf man seine persönliche Methodik anwenden.
 
