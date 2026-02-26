@@ -61,6 +61,10 @@ Alle Aufgaben in allen Projekten durchlaufen die gleichen Projekphasen. Wie man 
 
 Die Projektleiterin ist für das Board und den Projektverlauf verantwortlich. Jeder darf Aufgaben erfassen. Bei der Zuweisung der Aufgabe muss man, aber aufpassen. Der Konsent muss gegeben sein. Man darf nicht erwarten, dass wenn man jemanden eine Aufgabe zuweist, die Aufgabe auch erledigt wird.
 
+> Wer ist für die Aufgabe verantwortlich?
+
+==TDB==
+
 > Wie werden Aufgaben priorisiert?
 
 Jede Aufgabe kann 0 bis 3 Sterne haben. Diese Sterne definieren wie wichtig die Aufgabe ist. Jede Projektleiterin entscheidet welche Aufgaben wichtig sind und welche nicht. 
