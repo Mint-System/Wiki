@@ -8,7 +8,7 @@ Eine Zusammenfassung wie bei Mint System das Projektmanagement erfolgt.
 
 ## Board
 
-Auf dem Projekt-Board sind alle Aufgaben ersichtlich. Die Bearbeitung der erfolgt nach den [[Kanban]] Prinzipien.
+Auf dem Projekt-Board sind alle Aufgaben ersichtlich. Die Bearbeitung der erfolgt nach den [[Kanban Principles]] Prinzipien.
 
 ## Projektstatus
 
