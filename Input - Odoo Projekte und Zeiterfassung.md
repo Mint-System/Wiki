@@ -138,7 +138,7 @@ Gute Projektleitung soll zu einer guten Verrechenbarkeit führen. Der Projektlei
 
 ## Todos
 
-Mitarbeitenden haben eigene Arbeitsmethodiken. Innerhalb von Aufgaben darf man seine persönliche Methodik anwenden.
+Die Aufgabenplanung ist persönliche. Wie man die Aufgabe plant ist Sache des Bearbeiters.
 
 > Welchen Zweck haben Aufgabenbeschreibungen?
 
@@ -149,6 +149,8 @@ Beim Aufrufen einer Aufgaben sieht man die Beschreibung. Wichtig ist, dass es ei
 > Was sind Todos?
 
 Mit der Editor-Aktion "/Checklist" können Checkboxen erstellt werden. Diese Todos können offen oder erledigt sein. Das ist die granularste Form um Tätigkeiten zu definieren.
+
+💡 Weil Todos nicht zugewiesen werde können, kann man als Alterantive in ()-Klammern das Kürzel der Person anfügen.
 
 > Wie wird eine Aufgabe zusammengefasst oder zerlegt?
 
