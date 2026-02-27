@@ -118,11 +118,11 @@ Der Kunde möchte, dass im Odoo Webshop bei einer Bestellung automatisch eine Re
 
 Um Zeit zu buchen, nutzt du den Button "Start" auf der Aufabe. Das Startet einen Timer, dieser läuft bis du auf "Stop" klickst. Wenn der Timer gestoppt wird, wirst auf aufgefordert eine Beschreibung hinzuzufügen.
 
-> Wie umfassend muss die Beschreibung sein?
+> Wie muss die Beschreibung aussehen?
 
 Die Beschreibung richtet sich an den Kunden. Der Kunde erhält einen Arbeitsrapport mit allen Zeiterfassungseinträgen. Er sieht welche Einträge abgerechnet werden und welche nicht. Für jeden Eintrag sieht er die Beschreibung.
 
-💡 Es ist empfohlen mindestens einen Satz für eine Stunde Aufwand zu schreiben.
+💡 Es ist empfohlen mindestens einen Satz für eine Stunde Aufwand zu schreiben. Auch sollte die Beschreibung nicht dem Aufgabentitel entsprechen.
 
 > Wie wird entschieden ob Aufwand abgerechnet wird?
 
