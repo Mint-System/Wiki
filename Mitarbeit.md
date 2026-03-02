@@ -12,7 +12,7 @@ Die folgenden Dateien gehören zum Obsidian Projekt:
 
 * [[AGENTS]]
 * [[Entry]]
-* [[0 no kind nor section.base]]
+* [[WIP no kind nor selection.base]]
 * [[Accounts.base]]
 * [[Anleitungen.base]]
 * [[Begriffe.base]]

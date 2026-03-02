@@ -12,7 +12,7 @@ Dokumentation der Infrastruktur Prozesse.
 - [[Prozesse Infrastruktur - Server bestellen]]
 - [[Prozesse Infrastruktur - Odoo bestellen]]
 - [[Prozesse Infrastruktur - Nextcloud bestellen]]
-- [[Prozesse Infrastruktur - Mail-Account Kunde]]
+- [[Prozesse Infrastruktur - Mail-Account Kunde bestellen]]
 
 ## Bereitstellung
 
@@ -46,3 +46,4 @@ Dokumentation der Infrastruktur Prozesse.
 
 - [[Prozesse Infrastruktur - Odoo entfernen]]
 - [[Prozesse Infrastruktur - Server entfernen]]
+- [[Prozesse Infrastruktur - Infomaniak Dienste entfernen]]
