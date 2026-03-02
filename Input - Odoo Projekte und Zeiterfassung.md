@@ -130,7 +130,7 @@ Beim Erfassen des Zeit-Eintrags wird entschieden ob der Aufwand  abgerechnet wer
 
 💡 Die Aufgaben "Projektadministration" und "Know-how" sind mit der Position "Kulanz" verbunden. Die dazugehörigen Zeiterfassungseinträge werden zu 0 CHF verrechnet und im Arbeitsrapport aufgeführt. Wir möchten Kunden zeigen, welche Aufwände wir tätigen und nicht verrechnen.
 
-Wichtig!: Bevor die Rechnungen erstellt werden, validiert die Projektleiterin die Zeiterfassungseinträge des Projekt. In Folge der Validierung können Einträge gekürzt, aufgeteilt oder gelöschen. Der Projektleiter ist für die Abrechnung verantworltich.
+Wichtig!: Bevor die Rechnungen erstellt werden, validiert die Projektleiterin die Zeiterfassungseinträge des Projekt. In Folge der Validierung können Einträge gekürzt, aufgeteilt oder gelöschen. Der Projektleiter ist für die Abrechnung verantwortlich.
 
 > Wie sieht das im Fall Stundenlohn aus?
 

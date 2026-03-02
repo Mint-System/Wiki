@@ -10,4 +10,4 @@ Arbeitsschritte:
 
 - In Infomaniak-Manager die Orgnanisation auswählen
 - Unter _Collaboration-Tools > Mail-Service_ die Aktion _Mail-Service kündigen_ auswählen
-- DIe Kündigung durchführen
+- Die Kündigung durchführen
