@@ -8,11 +8,12 @@ Odoo ist eine Management-Software. Es ist Teil des [[Angebot|Angebots]] der [[Mi
 
 Mint System GmbH bietet ein [[Odoo Hosting]] und ein [[Odoo Wiki]].
 
-## Odoo Projekt
+## Odoo Ökosystem
 
 Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo Enterprise Edition]]. Dazu kommen die [[Odoo Community Apps]] und [[Odoo Apps]].
 
-![[Odoo OCA Licensing.png]]
+![[Odoo Ökosystem.svg]]
+
 
 ## System und Integration
 

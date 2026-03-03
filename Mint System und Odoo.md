@@ -186,9 +186,9 @@ Das kostengünstigstes All-In-One ERP-System.
 
 ---
 
-### Odoo Projekt
+### Odoo Ökosystem
 
-![[Odoo Projekt.svg]]
+![[Odoo Ökosystem.svg]]
 
 ---
 
