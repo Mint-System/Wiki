@@ -246,3 +246,21 @@ pg_dump (PostgreSQL) 14.10 (Ubuntu 14.10-0ubuntu0.22.04.1)
 **Solution**
 
 If required downgrade the psql tools.
+
+
+### Column res_company.mail_tracking_show_aliases does not exist
+
+**Problem**
+
+During the module init this error occurs:
+
+```
+psycopg2.errors.UndefinedColumn: column res_company.mail_tracking_show_aliases does not exist
+LINE 1: ...w_followers_message_response_warning"->>'en_US'), "res_compa...
+                                                             ^
+
+```
+
+**Solution**
+
+Add `mail_tracking` to the module init list.
