@@ -20,4 +20,5 @@ Vercel Domains:
 ## HowTo
 
 - [[Odoo Build - Create an OCA module]]
+- [[Odoo Build - Develop a new module]]
 - [[Odoo Build Troubleshooting]]
