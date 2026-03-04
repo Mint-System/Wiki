@@ -113,7 +113,7 @@ Once we updated the metadata we can generate the module docs.
 [main][~/Odoo-Build]$ task generate-module-docs addons/sale_workflow/crm_lead_template
 ```
 
-## Implementation model
+## Model
 
 According to the spec we need to add two fields the model. Let's lookup the definition.
 
@@ -195,7 +195,7 @@ Do not worry about formatting.
 />
 ```
 
-## Implement inherit
+## Inherit
 
 Let's have a look at the the `sale_management` module.
 
