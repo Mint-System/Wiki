@@ -1,6 +1,7 @@
 ---
 kind: tutorial
 section: dev
+lang: en
 ---
 
 In this guide I'll walk you through the development of a module. From specification to the final commit.
