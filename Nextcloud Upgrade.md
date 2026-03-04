@@ -8,13 +8,13 @@ Description of the Nextcloud upgrade process.
 
 ## Upgrade major release
 
-- Define config.
+- Define config
 
 ```bash
 export ALIAS=eos
 ```
 
-- Backup database.
+- Backup database
 
 ```bash
 cd Ansible-Build
@@ -22,20 +22,20 @@ task connect-host $ALIAS
 sudo cron-job-run -n "Backup job postgres dump nextcloud"
 ```
 
-- Update Nextcloud image tag.
+- Update Nextcloud image tag
 
 ```yml
 nextcloud_image: nextcloud:32-apache
 ```
 
-- Deploy the new container.
+- Deploy the new container
 
 ```bash
 task play -i inventories/nextcloud plays/nextcloud.yml -l eos
 ```
 
-- Abort when Ansible is waiting for the database.
-- Re-run the plabyook once the upgrade has finished.
+- Abort when Ansible on "Info about upgrades"
+- Re-run the plabyook once the upgrade has finished
 
 ## Troubleshooting
 
