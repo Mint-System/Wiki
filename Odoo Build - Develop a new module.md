@@ -10,14 +10,14 @@ In this guide I'll walk you through the development of a module. From specificat
 
 Let's assume have received the following specification.
 
-> **Develop CRM Lead Template**
-> 
+> **Develop CRM Lead Template**\
+> \
 > Module: crm_lead_template\
 > Version: 19.0\
 > Repo: addons/sale_workflow\
 > Depends: crm\
-> Summary: Create lead notes from template.
-> 
+> Summary: Create lead notes from template.\
+> \
 > Add model crm.lead.template. Add menu to configuration.\
 Model has field description and tag_ids.\
 Add field crm.lead:template_id -> cr.lead.template. When field is selected, the content of description and tag_ids is copied. Copy field content if is empty.
