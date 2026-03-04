@@ -269,7 +269,7 @@ In the repo folder update the docs and lint the modules.
 Reset the database.
 
 ```bash
-[main][~/Odoo-Build]$ task drop-db; task init-db
+[main][~/Odoo-Build]$ task drop-db,init-db
 ```
 
 And install the module.
