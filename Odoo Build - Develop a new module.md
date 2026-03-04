@@ -273,6 +273,14 @@ And install the module.
 [main][~/Odoo-Build]$ task init-module addons/sale_workflow/crm_lead_template
 ```
 
+If everything went well, start the Odoo server.
+
+```bash
+[main][~/Odoo-Build]$ task start source
+```
+
+Create a template and and add it on a lead.
+
 ## Commit
 
 Add changes and push them.
