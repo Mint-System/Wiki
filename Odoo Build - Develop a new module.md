@@ -221,20 +221,26 @@ Let's add the `template_id` field and the business logic.
 
 ```python
 template_id = fields.Many2one(
-	comodel_name='crm.lead.template',
-	string='Lead Template',
-	compute='_compute_template_id',
-	store=True, readonly=False)
+	comodel_name="crm.lead.template",
+	string="Lead Template",
+	inverse="_inverse_template_id",
+	store=True,
+	readonly=False,
+)
 ```
 
 - Add the `_compute_template_id` method
 
 ```python
-def _compute_template_id(self):
+def _inverse_template_id(self):
 	"""
-	Update templated fiels if they are empty and template is updated. 
+	Update templated fiels if they are empty and template is updated.
 	"""
-	
+	for lead in self:
+		if not lead.description:
+			lead.description = lead.template_id.description
+		if not lead.tag_ids:
+			lead.tag_ids = lead.template_id.tag_ids
 ```
 
 Then update the inherited form.
