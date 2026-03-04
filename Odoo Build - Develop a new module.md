@@ -109,7 +109,7 @@ Remove the security file.
 
 Once we updated the metadata we can generate the module docs.
 
-```
+```bash
 [main][~/Odoo-Build]$ task generate-module-docs addons/sale_workflow/crm_lead_template
 ```
 
