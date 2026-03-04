@@ -25,7 +25,7 @@ sudo cron-job-run -n "Backup job postgres dump nextcloud"
 - Update Nextcloud image tag.
 
 ```yml
-nextcloud_image: nextcloud:29-apache
+nextcloud_image: nextcloud:32-apache
 ```
 
 - Deploy the new container.
