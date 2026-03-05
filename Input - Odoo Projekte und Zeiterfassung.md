@@ -118,6 +118,10 @@ Der Kunde möchte, dass im Odoo Webshop bei einer Bestellung automatisch eine Re
 
 Um Zeit zu buchen, nutzt du den Button "Start" auf der Aufabe. Das Startet einen Timer, dieser läuft bis du auf "Stop" klickst. Wenn der Timer gestoppt wird, wirst auf aufgefordert eine Beschreibung hinzuzufügen.
 
+> Wie genau muss ich meine Zeit erfassen?
+
+Grundsätzlich muss alles gebucht werden. Jeder Aufwand, der anfällt muss gerundet auf 15 Minuten verbucht werden. Das ist gerade zu Beginn, wenn man es noch nicht kennt, eine grosse Angewöhnung.
+
 > Wie muss die Beschreibung aussehen?
 
 Die Beschreibung richtet sich an den Kunden. Der Kunde erhält einen Arbeitsrapport mit allen Zeiterfassungseinträgen. Er sieht welche Einträge abgerechnet werden und welche nicht. Für jeden Eintrag sieht er die Beschreibung.
