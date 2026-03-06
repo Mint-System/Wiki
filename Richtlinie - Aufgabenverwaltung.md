@@ -16,9 +16,9 @@ Jede Aufgabe durchläuft die folgenden Stufen:
 - **Bereit 🏁** Die Aufgabe ist bereit zur Bearbeitung.
 	- Aufgabe ist zugewiesen
 	- Aufgabe ist priorisiert
+	- Verkaufsauftragsposition ist festgelegt
 - **In Arbeit 🧑‍💻** Die Aufgabe befindet sich in Bearbeitung.
 	- Aufgabe hat Zeiterfassungs-Einträge
-	- Verkaufsauftragsposition ist festgelegt
 - **Review 💬** Die Aufgabe ist blockiert oder wartet auf Rückmeldung von Kunden.
 - **Erledigt ✅** Die Aufgabe ist erledigt und kann archiviert werden.
 - **Postlog ♻️** Die Aufgabe steht permanent zur Zeiterfassung zur Verfügung.

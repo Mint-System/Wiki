@@ -136,6 +136,10 @@ Beim Erfassen des Zeit-Eintrags wird entschieden ob der Aufwand  abgerechnet wer
 
 Wichtig!: Bevor die Rechnungen erstellt werden, validiert die Projektleiterin die Zeiterfassungseinträge des Projekt. In Folge der Validierung können Einträge gekürzt, aufgeteilt oder gelöschen. Der Projektleiter ist für die Abrechnung verantwortlich.
 
+> Wie wähle ich die richtige Auftrasgposition aus?
+
+Die Auswahl der Auftragsposition wird schwierig, wenn der Kunde mehrere Verkaufsaufträge hat. Um die Auswahl zu vereinfachen kann auf einem Auftrag eine interne Referenz hinterlegt werden. Diese Referenz erscheint im Anzeigenamen der Auftragspositionen.
+
 > Wie sieht das im Fall Stundenlohn aus?
 
 Gute Projektleitung soll zu einer guten Verrechenbarkeit führen. Der Projektleiter muss sicher stellen dass die geplanten verkauften Stunden den effektiven Stunden entsprechen. Eine Überschreitung des Budget muss kommuniziert werden. Dem Kunden gegenüber sprechen wir bei der Projektarbeit von einem Kostendach.
