@@ -48,6 +48,16 @@ Then create the module.
 [main][~/Odoo-Build]$ task create-module addons/sale_workflow/crm_lead_template
 ```
 
+This command will prompt you for values.
+
+```bash
+Prompt for module manifest values...
+Summary: Create lead notes from template.
+License (AGPL-3/OPL-1): AGPL-3
+Depends (comma-separated): crm
+Demo? (y/n): n
+```
+
 Let's add a new model.
 
 ```bash
@@ -82,7 +92,7 @@ lead.template
 
 ## Metadata
 
-Let's edit the medata of the module
+Let's edit the metadata of the module
 
 ```bash
 [main][~/Odoo-Build]$ hx addons/sale_workflow/crm_lead_template/__manifest__.py
@@ -91,19 +101,7 @@ Let's edit the medata of the module
 I performed the following actions:
 
 - Renamed name from `Crm` to `CRM`
-- Updated summary with definition from specification
-- Change version from `18.0` to `19.0`
-- Removed `,OPL-1` from license key
-- Update depends with definition from specification
 - Added `"views/crm_lead_views.xml",` and `"views/crm_lead_template_views.xml",` to the data list
-- Remove `"security/security.xml",` from data list
-- Remove the entire dem key `"demo": ["demo/demo.xml"],`
-
-Remove the security file.
-
-```bash
-[main][~/Odoo-Build]$ rm addons/sale_workflow/crm_lead_template/security/security.xml
-```
 
 Once we updated the metadata we can generate the module docs.
 
