@@ -132,7 +132,7 @@ Die Beschreibung richtet sich an den Kunden. Der Kunde erhält einen Arbeitsrapp
 
 > Wie wird entschieden ob Aufwand abgerechnet wird?
 
-Beim Erfassen des Zeit-Eintrags wird entschieden ob der Aufwand  abgerechnet werden soll oder nicht. Jede Aufgabe von Kundenprojekten ist mit einer Auftragsposition verbunden. Die Auftragsposition führt zu einer Abrechnung.
+Beim Erfassen des Zeit-Eintrags wird entschieden ob der Aufwand abgerechnet werden soll oder nicht. Jede Aufgabe von Kundenprojekten ist mit einer Auftragsposition verbunden. Die Auftragsposition führt zu einer Abrechnung.
 
 💡 Die Aufgaben "Projektadministration" und "Know-how" sind mit der Position "Kulanz" verbunden. Die dazugehörigen Zeiterfassungseinträge werden zu 0 CHF verrechnet und im Arbeitsrapport aufgeführt. Wir möchten Kunden zeigen, welche Aufwände wir tätigen und nicht verrechnen.
 
@@ -152,7 +152,7 @@ Die Aufgabenplanung ist persönliche. Wie man die Aufgabe plant ist Sache des Be
 
 > Welchen Zweck haben Aufgabenbeschreibungen?
 
-Der Projektleiter interessiert sich für den Projekstatus. Er muss beim Aufruf des Boards eine aktuelle Sicht auf das Projekt haben. Das gelingt, wenn Mitarbeitende ihre Aufgaben in die richtige Spalte schieben.
+Der Projektleiter interessiert sich für den Projektstatus. Er muss beim Aufruf des Boards eine aktuelle Sicht auf das Projekt haben. Das gelingt, wenn Mitarbeitende ihre Aufgaben in die richtige Spalte schieben.
 
 Beim Aufrufen einer Aufgaben sieht man die Beschreibung. Wichtig ist, dass es eine hat. Der Inhalt richtet sich an die zugewiesenen Personen. Die Beschreibung gibt Auskunft über den Arbeitsinhalt.
 
@@ -160,7 +160,9 @@ Beim Aufrufen einer Aufgaben sieht man die Beschreibung. Wichtig ist, dass es ei
 
 Mit der Editor-Aktion "/Checklist" können Checkboxen erstellt werden. Diese Todos können offen oder erledigt sein. Das ist die granularste Form um Tätigkeiten zu definieren.
 
-💡 Weil Todos nicht zugewiesen werde können, kann man als Alterantive in ()-Klammern das Kürzel der Person anfügen.
+💡 Weil Todos nicht zugewiesen werde können, kann man als Alternative in ()-Klammern das Kürzel der Person anfügen.
+
+💡 Die offenen Todos müssen immer als erstes sichtbar sein.
 
 > Wie wird eine Aufgabe zusammengefasst oder zerlegt?
 
@@ -204,6 +206,3 @@ Auch im Austausch mit Mitarbeitenden ist der Kontext entscheidend. Im Chatter w�
 Nachrichten versenden führt zu einem E-Mail. Notiz hinterlassen führt zu einer Protokollierung.
 
 💡 Der falsche Knopf ist schnell gedrückt.
-
-
-
