@@ -68,6 +68,8 @@ Die Projektleiterin ist für das Board und den Projektverlauf verantwortlich. Je
 
 Wenn eine Aufgabe an zwei oder mehrere Personen zugeteilt ist, stellt sich die Frage der Verantwortung. In diesem Fall gilt: Die Verantwortung liegt beim Projektleiter. Die Projektleiterin muss sicherstellen, dass die Beteiligten die Aufgabe erledigen.
 
+💡Gerade bei Aufgaben zur Entwicklung eines Odoo-Moduls macht die Zuweisung an zwei Personen (Entwickler und Analyst) Sinn. 
+
 > Wie werden Aufgaben priorisiert?
 
 Jede Aufgabe kann 0 bis 3 ⭐ Sterne haben. Diese Sterne definieren wie wichtig die Aufgabe ist. Jede Projektleiterin entscheidet welche Aufgaben wichtig sind und welche nicht. Bearbeiter orientieren sich an der Priorisierung.
