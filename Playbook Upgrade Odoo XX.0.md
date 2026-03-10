@@ -44,6 +44,7 @@ task upgrade-odoo acme configure-production
 task upgrade-odoo acme restart
 ```
 
+If **production** then replace the Ansible prod host with the upgrade host vars. Update the Nginx proxy configuration.
 ## Configure ⚙️
 
 Update snippets.
@@ -68,15 +69,16 @@ Rename the databases and filestore if **production** mode.
 task upgrade-odoo acme rename-production
 ```
 
-Merge the Ansible upgrade host definition into the main host definition.
+Deploy the Odoo container with Ansible.
 
-Update the proxy configuration and deploy the Nginx.
+Deploy the Nginx configuration with Ansible.
 
 ## Cleanup 🧹
 
 Ensure the backups jobs are defined correctly.
 
 Remove the outdated Odoo container, volume, data and database.
+
 ## Troubleshooting 💡
 
 ==Document and resolve upgrade issues.==
