@@ -69,9 +69,9 @@ Rename the databases and filestore if **production** mode.
 task upgrade-odoo acme rename-production
 ```
 
-Deploy the Odoo container with Ansible.
+Run the Ansible Odoo playbook with the new configuration.
 
-Deploy the Nginx configuration with Ansible.
+Deploy the updated Nginx configuration including the Postgres and Odoo exporter with Ansible.
 
 ## Cleanup 🧹
 
