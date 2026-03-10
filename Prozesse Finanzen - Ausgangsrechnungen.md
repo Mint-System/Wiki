@@ -15,7 +15,7 @@ Arbeitsschritte:
 
 - Ansicht _Zeiterfassung > Alle Zeiterfassungen_ öffnen
 - Filtern nach _Meine Projekte_, _Entwurf_ und letzter Monat
-- Gruppieren nach *Projekt* und *Abrechenbarer Typ (Preis)*
+- Gruppieren nach _Projekt_ und _Abrechnungsart_
 - Sortieren nach aufgewendeten Stunden
 - Aufgewendete Stunden pro Projekt prüfen
 - Einträge bei Bedarf korrigieren und validieren
