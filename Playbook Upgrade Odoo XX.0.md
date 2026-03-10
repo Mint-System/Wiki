@@ -77,7 +77,7 @@ Deploy the updated Nginx configuration including the Postgres and Odoo exporter 
 
 Ensure the backups jobs are defined correctly.
 
-Remove the outdated Odoo container, volume, data and database.
+Remove the old Odoo container, volume, data and database.
 
 ## Troubleshooting 💡
 
