@@ -47,6 +47,12 @@ task upgrade-odoo acme restart
 If **production** then replace the Ansible prod host with the upgrade host vars. Update the Nginx proxy configuration.
 ## Configure ⚙️
 
+Open in browser and login.
+
+```
+task upgrade-odoo acme browse
+```
+
 Update snippets.
 
 ```bash
