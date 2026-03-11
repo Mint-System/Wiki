@@ -31,15 +31,12 @@ Arbeitsschritte:
 ```
 Hallo $VORNAME
 
-Die Upgrade-Umgebung $ODOO_LINK steht zum Testen bereit. Das Login ist das gleiche wie bisher.
+Die Upgrade-Umgebung $ODOO_LINK steht zum Testen bereit. Das Login ist das gleiche wie bis anhin.
 
-Die Testfälle sind in diesem Dokument festgehalten: $TESTING_FILE_LINK
-Du kannst die Testfälle weiter ausformulieren oder umformulieren.
-Das Feedback zum Testing wird hier gesammelt: $FEEDBACK_FILE_LINK
+Für das Testing findest du hier ein Dokument mit Testfällen:  $TESTING_FILE_LINK
+Und hier ein Dokument zur Sammlung der Feedbacks: $FEEDBACK_FILE_LINK
 
-Kannst du beschrieben Testfälle ausführen und bei Problemen eine Beschreibung im Feedback-Dokument festhalten.
+Ich habe eine erstes Beispiel für einen Testfall und Feedback erstellt. Kannst du neue Testfälle hinzufügen und das Feedback ergänzen?
 
 Bei Fragen zu den Test-Fällen oder Struktur der Feedbacks, bitte melden.
-
-Viele Grüsse
 ```
