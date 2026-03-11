@@ -8,12 +8,13 @@ kind: explain
 
 ### What is a Odoo module?
 
-An Odoo module can be an Application, Extension, Connector or a Bridge.
+Modules extend the functionality of Odoo in different ways.
 
 - **Application**: Defines a new data model and business workflows.
-- **Extension**: Add fields and hook into existing business flows.
+- **Extension**: Add fields and hooks into existing business flows.
 - **Connector**: Connects a model to a thirdparty service.
 - **Bridge**: Connects a business flow between two or more apps.
+- **Localisation**: Provide country specific settings and data records.
 
 ### **What is not a Odoo module?**
 
