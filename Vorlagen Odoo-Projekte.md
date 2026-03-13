@@ -31,7 +31,8 @@ kind: reference
 | [[Vorlage Konzept]]                       |
 | [[Vorlage Phase]]                         |
 | [[Vorlage Prozesse Odoo]]                 |
-| [[Vorlage Spezifikation Modul]]           |
+| [[Vorlage Spezifikation Applikations-Modul]]           |
 | [[Vorlage Test Cases]]                    |
 | [[Vorlage Troubleshooting]]               |
 | [[Vorlage Use Cases]]                     |
+| [[Template Specification Extension Module]]             |

@@ -1,5 +1,4 @@
 ---
-title: Vorlage Spezifikation Modul
 kind: reference
 section: template
 ---

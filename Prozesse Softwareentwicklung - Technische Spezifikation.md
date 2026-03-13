@@ -9,7 +9,7 @@ section: process
 Arbeitsschritte:
 
 - Erarbeiten Technische und Qualitative Anforderungen
-- Erstellen Dokument anhand [[Vorlage Spezifikation Modul]] in Ablage von Kunde
+- Erstellen Dokument anhand [[Vorlage Spezifikation Applikations-Modul]] in Ablage von Kunde
 - Validierung der Spezifikation mit Kunde
 - Erstellen Aufgabe _Entwicklung Modulname_ mit Link auf die Spezifikation
 - Freigabe für Entwicklung
