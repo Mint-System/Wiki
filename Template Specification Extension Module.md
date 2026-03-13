@@ -4,6 +4,10 @@ section: template
 lang: en
 ---
 
+The following is an example for module that extends an existing functionality of another module.
+
+---
+
 - [ ] Develop "Auth Signup Firstname"
 
 Module: auth_signup_firstname\
