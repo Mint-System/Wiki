@@ -21,3 +21,4 @@ Zur Umsetzung eines Hosting-Projekt können diese Phase angewendet werden:
 - [[Phase Keycloak Hosting]]
 - [[Phase Matomo Hosting]]
 - [[Phase Backstage Hosting]]
+- [[Phase Nextcloud Hosting]]
