@@ -64,6 +64,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 - [[Phase Social Marketing]]
 - [[Phase Umfragen]]
 - [[Phase Verkauf]]
+- [[Phase Vermietung]]
 - [[Phase Versand]]
 - [[Phase Wartung]]
 - [[Phase Webshop]]
