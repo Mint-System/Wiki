@@ -11,6 +11,5 @@ Arbeitsschritte:
 - Anhand [[Vorlage Konzept]] die Dokumentstruktur festlegen
 - Die Textbausteine und Produktbeschreibungen kopieren und anpassen
 - Vorgehen mit [[Phasen]] definieren
-- [[Vorlage Aufwandsschätzung]] hinzufügen
 - Das Konzept mit dem Angebot verlinken
-- Die Aufwandsschätzung im Angebot anpassen
+- Die Aufwandsschätzung im Angebot erfassen
