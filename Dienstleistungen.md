@@ -16,13 +16,13 @@ Zur Aufstellung gehört die Übersicht der [[Abos und Preise]].
 
 ![[odoo_icon_project.png]]
 
-Projektleitung gemäss Mint System "Vorgehensmodell für Odoo-Projekte"
+Gemäss Mint System "Vorgehensmodell für Odoo-Projekte"
 
-Projektleitung gemäss Mint System "Vorgehensmodell für Beratungsprojekte"
+Gemäss Mint System "Vorgehensmodell für Beratungsprojekte"
 
-Projektleitung gemäss Mint System "Vorgehensmodell Softwareentwicklung"
+Gemäss Mint System "Vorgehensmodell Softwareentwicklung"
 
-Projektleitung gemäss Mint System "Vorgehensmodell Hostingprojekte"
+Gemäss Mint System "Vorgehensmodell Hostingprojekte"
 
 Preis: 190 CHF pro Stunde
 
