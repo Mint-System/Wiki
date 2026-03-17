@@ -1,5 +1,4 @@
 ---
-title: Phase Vermietung
 kind: explain
 section: service
 ---
