@@ -12,6 +12,7 @@ views:
       - kind
       - section
       - draft
+      - title
     sort: []
     columnSize:
       file.name: 610
