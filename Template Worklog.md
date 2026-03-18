@@ -4,13 +4,21 @@ kind: reference
 section: template
 ---
 
-```markdown
+````markdown
 ---
-date: { { DATE } }
-author: { { VALUE:author } }
+date: {{DATE}}
+author: {{VALUE:author}}
 kind: worklog
 ---
-
+```js quickadd
+const plugin = this.app.plugins.plugins['active-user-and-participants'];
+if (plugin) {
+	const getActiveParticipant = plugin.getActiveParticipant();
+	this.variables.author = getActiveParticipant.name;
+} else {
+	new Notice('Active User and Participants plugin not found');
+}
+```
 # {{NAME}}
 
 ## Vorbereitung
@@ -24,4 +32,4 @@ kind: worklog
 ## Review
 
 ==Verifiziere das Resultat mit den Zielen.==
-```
+````
