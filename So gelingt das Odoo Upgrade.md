@@ -52,23 +52,6 @@ Den gesamten Upgrade-Prozess haben wir wie folgt dokumentiert:
 
 Hinter den einzelnen Phase stecken weitere Prozesse und Arbeitsschritte.
 
-## Drehbuch
-
-Die Anwendung der Upgrade-Skripte sind auf Odoo.com automatisiert.
-Am Tag X wird man als Anwender von einer neuen Odoo Version Überrascht.
-Oft funktionieren dann bestimmte Dinge nicht mehr oder sind an einem anderen Ort zu finden.
-Als Anwender ist man gezwungen sich neu zu orientieren.
-
-Auf Odoo.sh und On-Prem steuert man den Upgrade-Prozess selbst.
-
-Hier sind die Vorlage der Drehbücher:
-
-Odoo.sh: [Playbook Upgrade Odoo.sh XX.0]()
-
-On-Prem: [Playbook Upgrade Odoo XX.0]
-
-Die technischen Arbeitsschritte aus dem Drehbuch basieren auf den Werkzeuge von [Odoo Build - Upgrade](https://odoo.build/upgrade.html).
-
 ## Modul Migration
 
 Hier wird geprüft ob die Module von Dritten in der neuen Odoo Version funktionieren. 
@@ -82,6 +65,24 @@ Gute Odoo-Entwickler kennen die Werkzeuge und Prozesse der OCA.
 
 > Odoo Upgrades scheitern oft an der mangelnden Qualität der Module von Dritten.
 
+## Drehbuch
+
+Die Anwendung der Upgrade-Skripte sind auf Odoo.com automatisiert.
+Am Tag X wird man als Anwender von einer neuen Odoo Version Überrascht.
+Oft funktionieren dann bestimmte Dinge nicht mehr oder sind an einem anderen Ort zu finden.
+Als Anwender ist man gezwungen sich neu zu orientieren.
+
+Auf Odoo.sh und On-Prem steuert man den Upgrade-Prozess selbst.
+
+Hier sind die Vorlage der Drehbücher:
+
+Odoo.sh: [Playbook Upgrade Odoo.sh XX.0](https://wiki.mint-system.ch/playbook-upgrade-odoo.sh-xx.0.html)
+
+On-Prem: [Playbook Upgrade Odoo XX.0](https://wiki.mint-system.ch/playbook-upgrade-odoo-xx.0.html)
+
+Die technischen Arbeitsschritte aus dem Drehbuch basieren auf den Werkzeuge von [Odoo Build - Upgrade](https://odoo.build/upgrade.html).
+
+> Umfangreiche Upgrade-Projekte brauchen eine klare Struktur. Ein Drehbuch hilft sicherzustellen, dass der Upgrade-Prozess fehlerfrei ausgeführt werden kann.
 ## Testing
 
 In der Testing-Phase steht die Abgrenzung im Zentrum.
@@ -91,3 +92,7 @@ Der Kunde muss validieren dass seine Kern-Prozesse in der neuen Odoo-Umgebung ei
 
 ## Produktives Upgrade
 
+Das Ziel ist natürlich das produktive Upgrade.
+Es ist wichtig zu verstehen, dass ein erfolgreiches produktives Upgrade die Konsequenz aus einem funktionierenden Upgrade-Prozess ist.
+
+> Ein Odoo Upgrade ist kein Ergebnis, sondern ein Prozess.
