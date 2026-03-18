@@ -12,8 +12,8 @@ The playbook supports two modes: test and production. When executing the product
 Set env vars for the Odoo.sh branch.
 
 ```bash
-export HOST="gelso.odoo.com"
-export ODOO_DATABASE="gelsoag-upgrade-17425638"
+export HOST="example.odoo.com"
+export ODOO_DATABASE="example-upgrade-17425638"
 export ODOO_URL=https://$ODOO_DATABASE.dev.odoo.com
 export ODOO_USERNAME=login@mint-system.ch
 export ODOO_PASSWORD=***
