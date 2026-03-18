@@ -1,5 +1,4 @@
 ---
-title: Zahlen zum Unternehmen
 draft: true
 kind: explain
 section: blog
@@ -27,7 +26,7 @@ Auf Odoo.sh ist kann man Anpassungen vornehmen und Module von Dritten installier
 Mit der Odoo On-Prem Option hat man die grösste Freiheit zur Anpassung des Systems. Man trägt aber auch die grösste Verantwortung.
 
 Bei Mint System haben wir uns auf Odoo On-Prem spezialisiert.
-Wir hosten Odoo auf Server in unterschiedlichen Umgebungen und Standorten.
+Wir hosten Odoo auf Server in unterschiedlichen Umgebungen und an verschiedenen Standorten.
 Wir wissen wie die Eingabe auf der Odoo Benutzeroberfläche auf die Festsplatte auf dem Server gelangt. Und vor allem wissen wir wo genau diese Eingaben gespeichert sind.
 Dieses Wissen hilft uns bei der Umsetzung von Odoo Upgrades.
 
