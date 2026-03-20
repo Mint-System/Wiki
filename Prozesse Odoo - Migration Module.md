@@ -8,28 +8,22 @@ section: process
 
 Arbeitsschritte:
 
-- Navigation in das Submodule
+- Neuer Repo-Branch erstellen
 
 ```bash
-cd addons/$REPO
-```
-
-- Neuer Branch erstellen
-
-```bash
-git switch --orphan $TARGET_VERSION
-```
-
-- Alle Dateien entfernen
-
-```bash
-rm -rf ./*
+task create-repo addons/$REPO
 ```
 
 - Template-Dateien kopieren und `README.md` Datei aktualisieren
 
 ```bash
-task template-repo addons/$REPO
+task generate-repo-docs addons/$REPO
+```
+
+- Navigation in das Submodule
+
+```bash
+cd addons/$REPO
 ```
 
 - Änderungen committen
@@ -40,14 +34,14 @@ git commit -m "feat: init $(git branch --show-current)"
 git push --set-upstream origin $(git branch --show-current)
 ```
 
-- Submodule auf Odoo Build hinzufügen
+- Submodule registrieren
 
 ```bash
 task add-git-folder git@github.com:Mint-System/Odoo-Apps-$REPO.git addons/$REPO
 ```
 
 - Änderungen auf Odoo Build committen
-- Register repo to <https://apps.odoo.com/apps/dashboard/repos>
+- Repo auf <https://apps.odoo.com/apps/dashboard/repos> registrieren
 
 ## Modul migrieren
 
