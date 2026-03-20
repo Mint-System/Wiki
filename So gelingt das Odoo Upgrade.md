@@ -5,12 +5,14 @@ section: blog
 ---
 
 Wäre Odoo ein Spiel, dann ist das Odoo Upgrade der Endgegner. 
-Odoo Upgrades sind grosse Herausforderung.
-In manchen Fällen vermeidet man diese vollständig und sitzt auf einer alten Odoo Version fest.
+Odoo Upgrades sind für Unternehmen und Odoo Partner eine grosse Herausforderung.
+In vielen Fällen wird sogar auf ein Upgrade verzichtet und so bleibt auf einer alten Odoo Version hängen.
+Ein Upgrade spätestens nach 3 Jahren ist ein Muss.
+Das ist der aktuelle Lebenszyklus von Odoo.
 
 In diesem Beitrag möchten wir erklären warum Odoo Upgrades eine Herausforderung sind und wie diese gelingen.
 
-## Hosting und Upgrade
+## Optionen für ein Upgrade
 
 Jedes Jahr macht Odoo einen neuen Major-Release und stellt gleichzeitig die Upgrade-Skript bereit, um auf die neue Version zu wechseln.
 
@@ -30,7 +32,9 @@ Wir hosten Odoo auf Server in unterschiedlichen Umgebungen und an verschiedenen 
 Wir wissen wie die Eingabe auf der Odoo Benutzeroberfläche auf die Festsplatte auf dem Server gelangt. Und vor allem wissen wir wo genau diese Eingaben gespeichert sind.
 Dieses Wissen hilft uns bei der Umsetzung von Odoo Upgrades.
 
-## Projekt und Phasen
+## Das Upgrade Projekt
+
+> Kunde und Odoo Partner müssen für ein erfolgreiches Upgrade zusammenarbeiten.
 
 Ein Odoo Upgrade ist nicht einfach eine Aufgabe, sondern ein Projekt. Es braucht ein klare Abgrenzung zu einem bestehenden Odoo-Projekt.
 
@@ -51,7 +55,9 @@ Den gesamten Upgrade-Prozess haben wir wie folgt dokumentiert:
 
 Hinter den einzelnen Phase stecken weitere Prozesse und Arbeitsschritte.
 
-## Modul Migration
+## Die Qualität der Module
+
+> Odoo Upgrades scheitern oft an der mangelnden Qualität der Module von Dritten.
 
 Hier wird geprüft ob die Module von Dritten in der neuen Odoo Version funktionieren. 
 In dieser Phase zeigt sich auf die Qualität der Softwareentwicklung.
@@ -62,9 +68,9 @@ Sie verwalten mehrere tausend Module über alle Odoo Versionen hinweg.
 Ihre Standards sind höher als die von Odoo selbst.
 Gute Odoo-Entwickler kennen die Werkzeuge und Prozesse der OCA.
 
-> Odoo Upgrades scheitern oft an der mangelnden Qualität der Module von Dritten.
+## Das Drehbuch als Orientierung
 
-## Drehbuch
+> Umfangreiche Upgrade-Projekte brauchen eine klare Struktur. Ein Drehbuch hilft sicherzustellen, dass der Upgrade-Prozess fehlerfrei ausgeführt werden kann.
 
 Die Anwendung der Upgrade-Skripte sind auf Odoo.com automatisiert.
 Am Tag X wird man als Anwender von einer neuen Odoo Version Überrascht.
@@ -81,17 +87,26 @@ On-Prem: [Playbook Upgrade Odoo XX.0](https://wiki.mint-system.ch/playbook-upgra
 
 Die technischen Arbeitsschritte aus dem Drehbuch basieren auf den Werkzeuge von [Odoo Build - Upgrade](https://odoo.build/upgrade.html).
 
-> Umfangreiche Upgrade-Projekte brauchen eine klare Struktur. Ein Drehbuch hilft sicherzustellen, dass der Upgrade-Prozess fehlerfrei ausgeführt werden kann.
-## Testing
+## Abgrenzung im Testing
+
+> Ein unklare Abgrenzung in der Testphase führt zu einer Verzögerung des Upgrade-Projekts.
 
 In der Testing-Phase steht die Abgrenzung im Zentrum.
 Der Kunde muss validieren dass seine Kern-Prozesse in der neuen Odoo-Umgebung einwandfrei funktionieren.
 
-> Ein unklare Abgrenzung in der Testphase führt zu einer Verzögerung des Upgrade-Projekts.
-
-## Produktives Upgrade
-
-Das Ziel ist natürlich das produktive Upgrade.
-Es ist wichtig zu verstehen, dass ein erfolgreiches produktives Upgrade die Konsequenz aus einem funktionierenden Upgrade-Prozess ist.
+## Das Ziel vor Augen
 
 > Ein Odoo Upgrade ist kein Ergebnis, sondern ein Prozess.
+
+Das Finale des Upgrade-Prozess ist natürlich das produktive Upgrade.
+Es ist wichtig zu verstehen, dass ein erfolgreiches produktives Upgrade die Konsequenz aus einem funktionierenden Upgrade-Prozess ist.
+Wenn man vertrauen in das Drehbuch hat und dieses mehrfach validieren konnte, dann wird der Raum für Unerwartetes klein.
+Unerwartete Probleme wird es beim produktiven Upgrade geben.
+Das lässt sich nicht vermeiden. 
+Wichtig ist, dass man flexibel genug ist um darauf reagieren zu können.
+## Rollback ist eine Option
+
+> Nennen Sie es nicht "Deadline", sondern "Aufführung".
+
+War die Vorbereitung ungenügend und das produktive Upgrade läuft nicht wie geplant, dann braucht es den Mut den Prozess abzubrechen.
+Legen Sie ein maximales Zeitfenster zur Durchführung des Upgrades fest und seien Sie konsequent bei der einer Überschreitung.
