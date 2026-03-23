@@ -4,7 +4,7 @@ section: training
 kind: tutorial
 ---
 
-Das sind einfache Schlungsunterlagen für die Odoo Finanzen-App.
+Das sind einfache Schulungsunterlagen für die Odoo Finanzen-App.
 
 ## Ziele
 
