@@ -15,10 +15,12 @@ Arbeitsschritte:
 Beispiel: https://smart-me.19.odoo.build
 
 - Erstellen Odoo-Datenbank
-- Odoo Master-Passwort aus Passwordmanager laden
-- Login mit admin Bentuzer
-- Installation Konfiugrations-Module `ir_mail_server_data` und `ir_mail_server_mailpit`
-- 
+	- Odoo Master-Passwort aus Passwortmanager laden
+	- Datenbankname gleich `$ALIAS` eingeben
+	- E-Mail und Passwort gemäss Passwortmanager eingeben
+	- Sprache und Land von Kunde wählen
+- Initalisierung abwarten und einloggen 
+- Installation Konfigurations-Module `ir_mail_server_data` und `ir_mail_server_mailpit`
 
 ### Login Mint System konfigurieren
 
