@@ -15,7 +15,7 @@ Arbeitsschritte:
 - Neue Revisionen mit Odoo Build erstellen
 
 ```bash
-revision="20260217"
+revision="20260305"
 
 while IFS= read -r version; do
     [[ -z "$version" ]] && continue
@@ -28,9 +28,9 @@ done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 ```
 
 - Dokumentationen mit Odoo Revisionen aktualisieren
-	- `Odoo-Build/images/odoo/README.md`
-	- `Odoo-Build/addons/kubernetes/helm/data/data.xml`
-	- `Kubernetes-Build/task`
+	- `Odoo-Build/images/odoo/README.md
+	- `Odoo-Build/addons/kubernetes/helm/data/data.xml
+	- `Kubernetes-Build/task
 - Dokumentation der Odoo Revisionen mit `task update-revisions-doc` generieren
 
 ## Odoo Revision installieren
