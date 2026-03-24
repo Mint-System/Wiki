@@ -13,17 +13,16 @@ Unsere Leistungen werden pro Stunde gemäss untenstehender Preisliste verrechnet
 | Abovariante | Preis pro Jahr |
 | ----------- | -------------: |
 | Ohne Abo    |          0 CHF |
-| Plus        |       1000 CHF |
-| Pro         |      2'500 CHF |
+| Plus        |        960 CHF |
+| Pro         |       2400 CHF |
 
 Ein Upgrade ist jederzeit auf Anfrage und Anfang eines neuen Monats möglich.
 
 ## Preisliste
 
-| Leistungen       | Ohne Abo |    Plus |     Pro |
-| ---------------- | -------: | ------: | ------: |
-| Dienstleistungen |  180 CHF | 160 CHF | 150 CHF |
-| Support          |  140 CHF | 120 CHF | 110 CHF |
+| Leistungen   | Ohne Abo |    Plus |     Pro |
+| ------------ | -------: | ------: | ------: |
+| Odoo Support |  140 CHF | 120 CHF | 110 CHF |
 
 Die angegebenen Kosten verstehen sich pro Stunde, exkl. MWST. Geschätzte Zeitaufwände der auszuführenden Arbeiten werden dem Kunden vorgängig gemeldet. Mint System stellt dem Kunden jährlich eine Rechnung im Voraus über die gebuchte Abovarianten, beginnend ab Vertragsbeginn. Kosten der genutzten Leistungen werden monatlich nach Aufwand verrechnet. Die Kündigungsfrist beträgt 6 Monate.
 
@@ -31,9 +30,8 @@ Die angegebenen Kosten verstehen sich pro Stunde, exkl. MWST. Geschätzte Zeitau
 
 Damit die Wahl der Abovariante einfacher fällt, haben wir die Anzahl Projektstunden berechnet um die Abokosten zu armotisieren.
 
-| Leistungen       | Plus | Pro |
-| ---------------- | ---: | --: |
-| Dienstleistungen |  50h | 83h |
-| Support          |  50h | 83h |
+| Leistungen   | Plus | Pro |
+| ------------ | ---: | --: |
+| Odoo Support |  50h | 83h |
 
 Die Formel zu Berechnung der Schwelle ist `Anzahl Stunden = Abo Preis pro Jahr / (Stundensatz ohne Abo - Stundensatz mit Abo)`. Die Stundenzahl wurde abgerundet.
