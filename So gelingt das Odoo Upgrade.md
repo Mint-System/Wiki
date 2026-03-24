@@ -20,7 +20,12 @@ Wie das Odoo Upgrade ausgeführt wird, hängt von gewählten Hosting ab:
 
 - **Odoo.com**: Das Upgrade erfolgt fortlaufend. Auf Odoo.com werden unter dem Jahr Minor-Releases (19.1, 19.2, 19.3, 20.0, 20.1, ...) bereitgestellt. Das Upgrade wird automatisch gemacht.
 - **Odoo.sh**: Mit der Upgrade-Funktion kann man einen Branch in den Upgrade-Modus setzen und so den Upgrade-Workflow starten. Das Upgrade wird manuell gemacht.
-- **Odoo On-Prem**: Der Systemadministrator stellt die Upgrade-Umgebung bereit und wendet das Upgrade-Skript von Odoo an.
+- **Odoo On-Prem**: Der Systemadministrator stellt die Upgrade-Umgebung bereit und wendet die Upgrade-Skripte von Odoo an.
+
+Und auch von der Odoo Edition:
+
+- **Enterprise**: Nur mit Odoo Enterprise erhlält man Zugriff auf die Odoo Upgrade-Skripte
+- **Community**: 
 
 Die Wahl des Hostings hängt Stark von der Anpassbarkeit und Kontrolle über Odoo-Installation ab.
 Auf Odoo.com kann man keine Anpassungen oder Module von Dritten installieren.
@@ -104,7 +109,7 @@ Wenn man vertrauen in das Drehbuch hat und dieses mehrfach validieren konnte, da
 Unerwartete Probleme wird es beim produktiven Upgrade geben.
 Das lässt sich nicht vermeiden. 
 Wichtig ist, dass man flexibel genug ist um darauf reagieren zu können.
-## Rollback ist eine Option
+## Rollback als Plan B
 
 > Nennen Sie es nicht "Deadline", sondern "Aufführung".
 
