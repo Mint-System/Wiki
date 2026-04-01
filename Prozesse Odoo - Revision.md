@@ -31,6 +31,7 @@ done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 	- `Odoo-Build/images/odoo/README.md
 	- `Odoo-Build/addons/kubernetes/helm/data/data.xml
 	- `Kubernetes-Build/task
+	- `Kubernetes-Build/test_values/odoo.knd.local.yaml`
 - Dokumentation der Odoo Revisionen mit `task update-revisions-doc` generieren
 
 ## Odoo Revision installieren

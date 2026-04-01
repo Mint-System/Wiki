@@ -4,7 +4,7 @@ kind: reference
 section: product
 ---
 
-## [[Phasen]]
+## Phasen
 
 Zur Umsetzung eines Beratungsprojek können diese Phase angewendet werden:
 
@@ -13,12 +13,4 @@ Zur Umsetzung eines Beratungsprojek können diese Phase angewendet werden:
 - [[Phase Softwareevaluation]]
 - [[Phase Projekteingabe]]
 - [[Phase Roadmap]]
-- [[Phase Coaching Odoo Entwicklung]]
 
-## [[Prozesse]]
-
-Zur Abwicklung eines Beratungsprojekt werden diese Prozesse angwendet:
-
-- [[Prozesse Beratung - Aufnahme Assets]]
-- [[Prozesse Beratung - Optimierung]]
-- [[Prozesse Akquise - Anforderungsanalyse]]

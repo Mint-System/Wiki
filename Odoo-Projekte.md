@@ -3,7 +3,7 @@ title: Odoo-Projekte
 kind: reference
 ---
 
-## [[Phasen]]
+## Phasen
 
 Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 
@@ -80,14 +80,4 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 - [[Phase Odoo Entwicklung]]
 - [[Phase Odoo Entwicklung Extern]]
 - [[Phase Entwicklung Website Theme]]
-
-## [[Prozesse]]
-
-Zur Umsetzung eines Odoo-Projekt werden die folgenden Prozesse angwendet:
-
-- [[Prozesse Akquise - Kontaktaufnahme]]
-- [[Prozesse Akquise - Odoo Testumgebung erstellen]]
-- [[Prozesse Akquise - Präsentation]]
-- [[Prozesse Akquise - Anforderungsanalyse]]
-- [[Prozesse Projektmanagement - Konzept]]
-- [[Prozesse Akquise - Angebot erstellen]]
+- [[Phase Coaching Odoo Entwicklung]]
