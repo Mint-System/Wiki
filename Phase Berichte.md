@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Berichte
 kind: explain
 section: service
 ---

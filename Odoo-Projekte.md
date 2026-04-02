@@ -25,7 +25,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 - [[Phase Datenmigration]]
 - [[Phase Odoo Upgrade]]
 - [[Phase Terminal Zeiterfassung]]
-- [[Phase Odoo Berichte]]
+- [[Phase Berichte]]
 - [[Phase Odoo Transfer]]
 - [[Phase Social Login]]
 - [[Phase Microsoft Login]]
