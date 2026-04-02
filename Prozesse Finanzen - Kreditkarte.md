@@ -12,4 +12,6 @@ Arbeitsschritte:
 	- [[Infomaniak]]
 	- [[Vercel]]
 	- [[Exoscale]]
+	- [[Hetzner]]
+	- [[Mailgun]]
 - Alte Kreditkarte löschen

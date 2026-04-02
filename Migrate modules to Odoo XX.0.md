@@ -7,13 +7,14 @@ kind: reference
 
 States:
 
-- **TBD**: To be discussed.
+- **TBD**: To be discussed
 - **Migrate**: Module migration is pending
 - **WIP**: Migration is in progress
 - **Review**: Review is requested
 - **Init**: Module is ready to be initialized
 - **Done**: The module is deployed and installed in the upgrade environment
 - **Deprecated**: This module must be removed before upgrade
+- **Ignore**: Module can be ignored
 
 | Module Name               | Provider   | State | Comment |
 | ------------------------- | ---------- | ----- | ------- |
