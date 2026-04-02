@@ -20,3 +20,4 @@ Dokumentation der Finanz-Prozesse.
 - [[Prozesse Finanzen - Kostenrechnung]]
 - [[Prozesse Finanzen - Spesenabrechnung]]
 - [[Prozesse Finanzen - Mehrwertsteuerabrechnung]]
+- [[Prozesse Finanzen - Kreditkarte]]
