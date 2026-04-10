@@ -30,7 +30,7 @@ Arbeitsschritte:
 
 - Aufrufen *Abzurechnende Aufträge*
 - Gruppieren nach _Kunde_ und filtern mit _Meine Aufträge_
-- Alle Aufträge eines Projekts markieren
+- Alle Aufträge eines Kunden markieren
 - _Aktion > Rechnungen erstellen_ ausführen
 - Rechnung prüfen und bestätigen
 - Auf der Rechnung _Senden & Drucken_ ausführen
