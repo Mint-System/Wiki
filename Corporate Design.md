@@ -44,10 +44,6 @@ Tables:
 
 Siehe [[Fonts]].
 
-## Icons
-
-Siehe [[Icons]].
-
 ## Assets
 
 Siehe [[Assets for Odoo Modules]].
