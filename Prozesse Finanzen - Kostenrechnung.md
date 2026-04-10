@@ -6,12 +6,13 @@ section: process
 
 Arbeitsschritte zum Erstellen der Kostenrechnung.
 
-## Kostenstellen und Gruppen definieren
+## Kostenstellen und Plan definieren
 
 Arbeitsschritte:
 
 - Jedes Projekt einer Kostenstelle zuweisen
-- Kostenstellen-Gruppen gemäss der hierarchischen [[Struktur Kostenstellen|Struktur]] abbilden
-- Die Kostenstellen der Gruppen zuweisen
+- Der Kostenstelle einen Plan zuweisen:
+	- Externe Projekte
+	- Interne Projekte
 - Bericht _Analytic Report_ erstellen
 - Review der Strukturen
