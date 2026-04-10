@@ -2,19 +2,7 @@
 title: Struktur Kostenstellen
 ---
 
-Die Kostenstellen der Mint System werden wie folgt gelgliedert
+Die Kostenstellen der Mint System werden wie folgt gegliedert:
 
-- Projekte
-  - Odoo Projekte
-  - Open Source Projekte
-  - Management
-  - Websites
-- Dienstleistungen
-  - Software Entwicklung
-  - Support
-- Technische Entwicklungen
-- Personelle Entwicklungen
-- Verkauf
-  - Marketing
-- Interne Organisation
-- Methodische Entwicklungen
+- Externe Projekte
+- Interne Projekte
