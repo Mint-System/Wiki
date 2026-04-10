@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Mehrwertsteuerabrechnung
 kind: howto
 section: process
 ---
@@ -15,7 +14,7 @@ Arbeitsschritte:
   - Umsatz im Ausland
   - Umsatz in der Schweiz
 
-## MWST abrechnen
+## Mehrwertsteuer abrechnen
 
 Arbeitsschritte:
 
