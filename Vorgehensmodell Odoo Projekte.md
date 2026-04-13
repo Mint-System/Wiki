@@ -6,7 +6,7 @@ section: methodology
 
 ## Einleitung
 
-Das vorliegende Vorgehensmodell für ERP Projekte beschreibt die Systematik zur Implementierung der Managementsoftware Odoo in Unternehmungen.
+Das vorliegende Vorgehensmodell für Odoo Projekte beschreibt die Systematik zur Implementierung der Managementsoftware Odoo in Unternehmungen.
 
 ## Rollen
 
@@ -55,7 +55,7 @@ Sie haben ein tiefes funktionales Wissen in branchenspezifischen Odoo Funktionen
 
 Die App-Experten sind nicht Teil des Projekts. Sie arbeiten in verschiedenen Projekten gleichzeitig. In der Regel werden Sie für die [[Gap-Analyse]] hinzugezogen.
 
-### Entwickler (Mint System)
+### Softwareentwickler (Mint System)
 
 Nicht alle Projekte erfordern Entwickler. Sie werden situativ beigezogen wenn kundenspezifische komplexe Anpassungen gefordert sind.
 
@@ -115,7 +115,7 @@ Die folgende Tabelle zeigt die Projektphasen und deren relativen Zeitbedarf.
 
 ### Gap-Analyse
 
-_Geschäftsanalyse, ROI-Analyse, Projektphasen & Budget_
+Synonym für Geschäftsanalyse und ROI-Analyse.
 
 **Inhalt**
 
@@ -137,7 +137,7 @@ Vertreter von Mint System treffen sich mit dem potentiellen Kunden und diskutier
 
 ### Kick-Off
 
-_Beteiligte mit Vorgehensmodell vertraut machen und Grundlagen schulen_
+Beteiligte mit Vorgehensmodell vertraut machen und Grundlagen schulen.
 
 **Ziele**
 
@@ -162,9 +162,9 @@ Je nach Umfang und Komplexität der Daten werden Sie durch den Projektleiter ode
 
 Die Datenmigration vom alten zum neuen System kann zu Verzögerungen führen. Es ist wichtig, die richtigen Entscheidungen zu treffen. Folgende Punkte sind zu beachten:
 
-1.  Der Produktionsstart darf nicht aufgrund der Datenqualität verzögert werden.  
+1. Der Produktionsstart darf nicht aufgrund der Datenqualität verzögert werden.  
     Das Importieren von möglichst sauberen Daten ist optimal. Dies darf aber das Einhalten von Terminen nicht beeinträchtigen. Eine Nachbesserung der Daten kann zu einem späteren Zeitpunkt abgeschlossen werden.
-2.  Stammdaten importieren ist grundsätzlich sinnvoll. Die vollständige Historie migrieren sollte aber möglichst vermieden werden. Begründung: Hohe Kosten, viel Zeitaufwand, wenig Wertschöpfung
+2. Stammdaten importieren ist grundsätzlich sinnvoll. Die vollständige Historie migrieren sollte aber möglichst vermieden werden. Begründung: Hohe Kosten, viel Zeitaufwand, wenig Wertschöpfung
 
 **Kundenspezifische Entwicklungen**
 
