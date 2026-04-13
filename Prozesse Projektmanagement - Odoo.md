@@ -15,9 +15,12 @@ Arbeitsschritte:
 - Das Angebot bestätigen
 - Über den Smart-Link zum Projekt navigieren
 - Der Name und das Kürzel des Projekts anpassen
-- Im Tab _Einstellungen_ des Projekts den E-Mail-Alias <projects+$ALIAS@mint-system.ch> festlegen.
+- Die Aktion "Projekt-Mail-Alias aktualisieren" ausführen
+
+Beispiel: Aus "Odoo Mint System GmbH" wird "project+mint-system@mint-system.ch"
+
 - Kostenstelle umbenennen und den Kunden hinzufügen
-- Optionen auf dem Projekt aktivieren
+- Unter Einstellungen Optionen auswählen und aktivieren
 
 ## Odoo Upgrade koordinieren
 
