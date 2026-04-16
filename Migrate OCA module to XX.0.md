@@ -5,46 +5,38 @@ kind: reference
 lang: en
 ---
 
-See migration guide for details:
+The OCA has a migration guide for every major version.
 
 - [Migration to version 16.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0)
 - [Migration to version 17.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0)
 - [Migration to version 18.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0)
 - [Migration to version 19.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-19.0)
 
+This document show how to a module migration happens with the help of [[Odoo Build]].
 ## Prepare
 
 Set env vars.
 
 ```bash
-export current_version=16.0
-export target_version=17.0
-export repo=purchase-workflow
-export module=purchase_order_owner
-export user_org=Mint-System
+source_version=18.0
+target_version=19.0
+repo=oca/server-tools
+module=base_search_fuzzy
+user_org=Mint-System
 ```
 ## Migrate
 
-Navigate into the OCA repo.
+Prepare the migration branch for the moduel.
 
 ```bash
-cd oca/$repo
-```
-
-Create the migration branch.
-
-```bash
-git checkout -b "$target_version-mig-$module" "origin/$target_version"
-git format-patch --keep-subject --stdout origin/$target_version..origin/$current_version -- $module | git am -3 --keep
+task prepare-migration-brach "$repo" "$module" "$source_version"
 ```
 
 Migrate the module.
 
 ```bash
-task migrate-module "oca/$repo/$module"
+task migrate-module "$repo/$module"
 ```
-
-Resolve the pre-commit issues.
 
 Follow migration guide to update the module:
 
@@ -56,20 +48,22 @@ Follow migration guide to update the module:
 Start the Odoo environment and install the module.
 
 ```bash
-task init-module "oca/$repo/$module"
+task init-module "$repo/$module"
 ```
 
-Run pre-commit.
+Run the module tests.
 
 ```bash
-pre-commit run -a
+task test-module "$repo/$module"
 ```
 
 Commit the migration.
 
 ```bash
-git add --all
-git commit -m "[MIG] $module: Migration to $target_version"
+task run-pre-commit "$repo/$module"
+task status-git-folder "$repo"
+task stage-git-folder "$repo"
+task comit-git-folder "[MIG] $module: Migration to $target_version" "$repo"
 ```
 
 ## Submit
@@ -80,11 +74,15 @@ Push to remote.
 git push "$user_org" "$target_version-mig-$module" --set-upstream
 ```
 
-Follow the link on the command line and submit the pull request.
+Create a pull request
 
 ```bash
-echo -e "Title:\n[$target_version][MIG] $module: Migration to $target_version"
-echo -e "Description:\nStandard migration from $current_version to $target_Version."
+gh pr create \
+  --repo "${user}/Odoo-Apps-$repo" \
+  --head "$target_version-mig-$module" \
+  --base "$target_version" \
+  --title "[$target_version][MIG] $module: Migration to $target_version" \
+  --body "Standard migration from $source_version to $target_version."
 ```
 
 Once submitted check the runboat checks.
