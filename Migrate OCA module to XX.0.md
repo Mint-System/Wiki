@@ -20,8 +20,8 @@ Set env vars.
 ```bash
 source_version=18.0
 target_version=19.0
-repo=oca/server-tools
-module=base_search_fuzzy
+repo=oca/account-analytic
+module=product_analytic
 user_org=Mint-System
 ```
 ## Migrate
@@ -60,7 +60,7 @@ task test-module "$repo/$module"
 Commit the migration.
 
 ```bash
-task run-pre-commit "$repo/$module"
+task run-pre-commit "$repo"
 task status-git-folder "$repo"
 task stage-git-folder "$repo"
 task comit-git-folder "[MIG] $module: Migration to $target_version" "$repo"
