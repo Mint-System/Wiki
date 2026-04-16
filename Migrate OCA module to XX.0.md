@@ -63,7 +63,7 @@ Commit the migration.
 task run-pre-commit "$repo"
 task status-git-folder "$repo"
 task stage-git-folder "$repo"
-task comit-git-folder "[MIG] $module: Migration to $target_version" "$repo"
+task commit-git-folder "$repo" "[MIG] $module: Migration to $target_version"
 ```
 
 ## Submit
