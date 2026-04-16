@@ -20,7 +20,7 @@ Set env vars.
 ```bash
 source_version=18.0
 target_version=19.0
-repo=oca/account-analytic
+repo=account-analytic
 module=product_analytic
 user_org=Mint-System
 ```
@@ -48,22 +48,22 @@ Follow migration guide to update the module:
 Start the Odoo environment and install the module.
 
 ```bash
-task init-module "$repo/$module"
+task init-module "oca/$repo/$module"
 ```
 
 Run the module tests.
 
 ```bash
-task test-module "$repo/$module"
+task test-module "oca/$repo/$module"
 ```
 
 Commit the migration.
 
 ```bash
-task run-pre-commit "$repo"
-task status-git-folder "$repo"
-task stage-git-folder "$repo"
-task commit-git-folder "$repo" "[MIG] $module: Migration to $target_version"
+task run-pre-commit "oca/$repo"
+task status-git-folder "oca/$repo"
+task stage-git-folder "oca/$repo"
+task commit-git-folder "oca/$repo" "[MIG] $module: Migration to $target_version"
 ```
 
 ## Submit
@@ -71,18 +71,20 @@ task commit-git-folder "$repo" "[MIG] $module: Migration to $target_version"
 Push to remote.
 
 ```bash
-git push "$user_org" "$target_version-mig-$module" --set-upstream
+git push "${user_org:l}"
 ```
 
 Create a pull request
 
 ```bash
+gh repo set-default origin
 gh pr create \
-  --repo "${user}/Odoo-Apps-$repo" \
-  --head "$target_version-mig-$module" \
-  --base "$target_version" \
-  --title "[$target_version][MIG] $module: Migration to $target_version" \
-  --body "Standard migration from $source_version to $target_version."
+  --repo "OCA/${repo}" \
+  --head "${user_org}:${target_version}-mig-${module}" \
+  --base "${target_version}" \
+  --title "[${target_version}][MIG] ${module}: Migration to ${target_version}" \
+  --body "Standard migration from ${source_version} to ${target_version}." \
+  --web
 ```
 
 Once submitted check the runboat checks.
