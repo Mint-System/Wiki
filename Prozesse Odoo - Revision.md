@@ -15,7 +15,7 @@ Arbeitsschritte:
 - Neue Revisionen mit Odoo Build erstellen
 
 ```bash
-revision="20260305"
+revision="20260409"
 
 while IFS= read -r version; do
     [[ -z "$version" ]] && continue
