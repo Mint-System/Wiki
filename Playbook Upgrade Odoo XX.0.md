@@ -28,7 +28,6 @@ task upgrade-odoo acme init
 task upgrade-odoo acme uninstall
 task upgrade-odoo acme update
 task upgrade-odoo acme configure-test
-task upgrade-odoo acme restart
 ```
 
 Run the **production** upgrade.
@@ -41,7 +40,7 @@ task upgrade-odoo acme init
 task upgrade-odoo acme uninstall
 task upgrade-odoo acme update
 task upgrade-odoo acme configure-production
-task upgrade-odoo acme restart
+
 ```
 
 If **production** then replace the Ansible prod host with the upgrade host vars. Update the Nginx proxy configuration.
@@ -49,7 +48,8 @@ If **production** then replace the Ansible prod host with the upgrade host vars.
 
 Open in browser and login.
 
-```
+```bash
+task upgrade-odoo acme restart
 task upgrade-odoo acme browse
 ```
 
