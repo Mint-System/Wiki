@@ -1,8 +1,7 @@
 ---
 title: Odoo Community Edition
 kind: reference
+repository: https://github.com/odoo/odoo
 ---
 
 Open Source ERP-System.
-
-GitHub: [https://github.com/odoo/odoo](https://github.com/odoo/odoo)
