@@ -7,14 +7,12 @@ kind: reference
 
 States:
 
-- **TBD**: To be discussed
-- **Migrate**: Module migration is pending
-- **WIP**: Migration is in progress
-- **Review**: Review is requested
-- **Init**: Module is ready to be initialized
-- **Done**: The module is deployed and installed in the upgrade environment
-- **Deprecated**: This module must be removed before upgrade
-- **Ignore**: Module can be ignored
+- **TBD**: The module needs to discussed.
+- **Migrate**: Module must be migrated.
+- **WIP**: Migration is in progress or Module is being bought.
+- **Init**: Module is ready in target Odoo version and ready to be initialized.
+- **Done**: The module is deployed and installed in the upgrade environment.
+- **Deprecated**: This module is no longer required and must be removed.
 
 | Module Name               | Provider   | State | Comment |
 | ------------------------- | ---------- | ----- | ------- |
