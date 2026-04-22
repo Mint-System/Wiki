@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 kind: explain
 section: blog
 title: So gelingt das Odoo Upgrade
