@@ -23,7 +23,7 @@ Diese Bereiche werden abhängig von den Anforderungen erarbeitet:
 
 ## Beschreibung
 
-Titel: Account Currency Communikation
+Titel: Account Currency Communication
 Name: `account_currency_communication`\
 Beschreibung: Dieses Odoo Modul erlaubt die Konfiguration des Kommunikations-Standards auf der Währung. Abhängig davon welche Währung für die Rechnung verwendet wird.
 
