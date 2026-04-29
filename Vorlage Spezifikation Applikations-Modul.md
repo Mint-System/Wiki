@@ -3,26 +3,29 @@ kind: reference
 section: template
 ---
 
-Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereich müssen in der Spezifikation berücksichtigt werden:
+Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereiche müssen in der Spezifikation berücksichtigt werden:
 
 - **[[#Beschreibung]]**: Beschreibung der Modul-Funktion.
 - **[[#User Stories]]**: Handlungen aus Sicht des Benutzers
 - **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
 - **[[#Abhängigkeiten]]**: Liste der Modul-Abhängigkeiten
+
+Diese Bereiche werden abhängig von den Anforderungen erarbeitet:
+
 - **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
 - **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
 - **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
 - **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
 - **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
-- **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
+- **[[#Neue Konfiguration]]**: Spezifikation für neues Feld in Einstellungen
 - **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
 - **[[#Bestehende Ansichten]]**: Anpassungen auf Ansichten
 
 ## Beschreibung
 
-Technischer Name: `account_currency_communication`\
-
-Dieses Odoo Modul erlaubt die Konfiguration des Kommunikations-Standards auf der Währung. Abhäning davon welche Währung für die Rechnung verwendet wird.
+Titel: Account Currency Communikation
+Name: `account_currency_communication`\
+Beschreibung: Dieses Odoo Modul erlaubt die Konfiguration des Kommunikations-Standards auf der Währung. Abhängig davon welche Währung für die Rechnung verwendet wird.
 
 ## User Stories
 
@@ -30,21 +33,21 @@ Die User Stories erläutern den Anwendungsfall aus Sicht des Benutzers. Dazu zwe
 
 ### Skonto auf Rechnung erfassen
 
-1. Der Benutzer erstellen eine Lieferantenrechnung und wählt im Feld _Zahlungsbediungen Skonto_ den Eintrag "10 Tage / 10%" aus.
+1. Der Benutzer erstellen eine Lieferantenrechnung und wählt im Feld _Zahlungsbedinungen Skonto_ den Eintrag "10 Tage / 10%" aus.
 2. Er sieht dass das Feld _Fälligkeit Skonto_ entsprechend angepasst wurde (Rechnungsdatum + 10 Tage). Nun überschreibt er das Feld mit -1 Tag.
-3. Nun wählt der Benutzer _Aktion > Skonto aktualiseren_.
+3. Nun wählt der Benutzer _Aktion > Skonto aktualisieren_.
 4. Der Benutzer sieht, dass eine neue Rechnungszeile gemäss Einstellungen und Zahlungsbedingung hinzugefügt wurde und der Rechnungsbetrag korrekt angepasst wurde.
 
 ### Lieferantenzahlungen mit Skonto bezahlen
 
 1. Am Donnerstag zeigt der Benutzer die Lieferantezahlungen an und sortiert nach Fälligkeit Skonto.
-2. Er wählt den Filter _Rechnungen ohne Skontozeile_, markiert die aufgelistet Rechungen und wählt Aktion > Skonto aktualisieren.
+2. Er wählt den Filter _Rechnungen ohne Skontozeile_, markiert die aufgelistet Rechnungen und wählt Aktion > Skonto aktualisieren.
 3. Er entfernt den Filter und markiert alle Lieferantenrechnungen zur Zahlung.
 4. Der Benutzer wählt _Aktion > Zahlung erfassen_.
 
 ## Rahmenbedingungen
 
-Auswahl an Rahmenbedigungen, die bei der Entwicklung berücksichtigt werden müssen:
+Auswahl an Rahmenbedingungen, die bei der Entwicklung berücksichtigt werden müssen:
 
 ### Open Source
 
