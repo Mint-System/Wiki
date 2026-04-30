@@ -10,16 +10,19 @@ Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgen
 - **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
 - **[[#Abhängigkeiten]]**: Liste der Modul-Abhängigkeiten
 
-Diese Bereiche werden abhängig von den Anforderungen erarbeitet:
+Wenn das Modul bestehende Definition erweitert, fügen Sie diese Abschnitte hinzu:
+
+- **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
+- **[[#Bestehende Ansichten]]**: Anpassungen auf Ansichten
+- **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
+- **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
+
+Falls das Modul neue Definitionen macht, dann verwenden Sie diese Vorlagen:
 
 - **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
-- **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
 - **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
-- **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
 - **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
 - **[[#Neue Konfiguration]]**: Spezifikation für neues Feld in Einstellungen
-- **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
-- **[[#Bestehende Ansichten]]**: Anpassungen auf Ansichten
 
 ## Beschreibung
 
@@ -61,27 +64,17 @@ Die Entwicklung des Moduls erfolgt auf Englisch. Es soll eine Übersetzung für 
 
 Das Modul hängt von den folgenden Modulen ab:
 
-| Name                 | Technischer Name       | Beschreibung                                            |
-| -------------------- | ---------------------- | ------------------------------------------------------- |
-| Sale Start End Dates | `sale_start_end_dates` | Fügt dem Verkaufsauftrag ein Start- und Enddatum hinzu. |
-
-## Neue Felder
-
-| Name             | Technischer Name                             | Modell             | Beschreibung                        |
-| ---------------- | -------------------------------------------- | ------------------ | ----------------------------------- |
-| Rechnungsadresse | `partner_invoice_id = many2one: res.partner` | sale.blanket.order | Rechnungsadresse für Rahmenaufträge |
-
-### Rechnungsadresse
-
-Wird die Aktion _Verkaufsauftrag Erstellen_ ausgewählt, wird die Rechnungsadresse an den Verkaufsauftrag auf das Feld `partner_invoice_id` übertragen.
+| Titel                | Name                 | Beschreibung                                            |
+| -------------------- | -------------------- | ------------------------------------------------------- |
+| Sale Start End Dates | sale_start_end_dates | Fügt dem Verkaufsauftrag ein Start- und Enddatum hinzu. |
 
 ## Bestehende Felder
 
 ### Zustand
 
-| Name    | Technischer Name    | Modell             |
-| ------- | ------------------- | ------------------ |
-| Zustand | `state (selection)` | sale.blanket.order |
+| Label   | Name  | Typ       | Modell             |
+| ------- | ----- | --------- | ------------------ |
+| Zustand | state | selection | sale.blanket.order |
 
 Der Zustand des Rahmenauftrags soll auf vier Stufen umgesetzt werden:
 
@@ -91,18 +84,7 @@ Der Zustand des Rahmenauftrags soll auf vier Stufen umgesetzt werden:
 - Abgelaufen
 
 Der Zustand _Angebot gesendet_ verwendet die Aktion _Angebot versenden_.
-
-## Neue Aktionen
-
-### Per E-Mail Versenden
-
-| Name                 | Technischer Name    | Modell             | Beschreibung                         |
-| -------------------- | ------------------- | ------------------ | ------------------------------------ |
-| Per E-Mail Versenden | `action_order_send` | sale.blanket.order | Rahmenauftrag als Angebot versenden. |
-
-Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
-
-## Bestehende Aktion
+## Bestehende Aktionen
 
 ### Buchen
 
@@ -112,23 +94,6 @@ Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenau
 
 Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt Kommunkations-Standard auf der Währung der Rechnung generiert werden.
 
-## Neue Suchfelder und Filter
-
-### Rechnungsadresse
-
-| Name             | Ansicht                    | Beschreibung                      |
-| ---------------- | -------------------------- | --------------------------------- |
-| Rechnungsadresse | `sale.view_quotation_tree` | Feld steht in Suche zur Verfügung |
-
-## Neue Konfigurationen
-
-### Skonto-Produkt
-
-| Name           | Technischer Name      | Beschreibung                                  |
-| -------------- | --------------------- | --------------------------------------------- |
-| Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
-
-Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
 
 ## Bestehende Ansichten
 
@@ -149,3 +114,41 @@ Die Formularansicht der Projektaufgabe zeigt einen Smart-Button mit Anzahl der v
 | Klasse                 | Funktionsname | Beschreibung                                               |
 | ---------------------- | ------------- | ---------------------------------------------------------- |
 | StockBarcodeController | `main_menu`   | Die Funktion soll auch den Arbeitsauftrag anzeigen können. |
+## Neue Felder
+
+| Label            | Name               | Typ                  | Modell             | Beschreibung                         |
+| ---------------- | ------------------ | -------------------- | ------------------ | ------------------------------------ |
+| Rechnungsadresse | partner_invoice_id | many2one res.partern | sale.blanket.order | Rechnungsadresse für Rahmenaufträge. |
+
+### Rechnungsadresse
+
+Wird die Aktion _Verkaufsauftrag Erstellen_ ausgewählt, wird die Rechnungsadresse an den Verkaufsauftrag auf das Feld `partner_invoice_id` übertragen.
+
+## Neue Aktionen
+
+### Per E-Mail Versenden
+
+| Label                | Name              | Modell             | Beschreibung                         |
+| -------------------- | ----------------- | ------------------ | ------------------------------------ |
+| Per E-Mail Versenden | action_order_send | sale.blanket.order | Rahmenauftrag als Angebot versenden. |
+
+Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
+
+## Neue Suchfelder und Filter
+
+### Rechnungsadresse
+
+| Name             | Ansicht                    | Beschreibung                      |
+| ---------------- | -------------------------- | --------------------------------- |
+| Rechnungsadresse | `sale.view_quotation_tree` | Feld steht in Suche zur Verfügung |
+
+## Neue Konfigurationen
+
+### Skonto-Produkt
+
+| Name           | Technischer Name      | Beschreibung                                  |
+| -------------- | --------------------- | --------------------------------------------- |
+| Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
+
+Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
+
