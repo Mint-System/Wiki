@@ -69,9 +69,8 @@ Der Zustand _Angebot gesendet_ verwendet die Aktion _Angebot versenden_.
 
 ### Buchen
 
-| Name   | Technischer Name | Modell       |
-| ------ | ---------------- | ------------ |
-| Buchen | `action_post`    | account.move |
+Name: `action_post`\
+Modell: account.move
 
 Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt Kommunkations-Standard auf der Währung der Rechnung generiert werden.
 
@@ -108,9 +107,8 @@ Wird die Aktion _Verkaufsauftrag Erstellen_ ausgewählt, wird die Rechnungsadres
 
 ### Per E-Mail Versenden
 
-| Label                | Name              | Modell             | Beschreibung                         |
-| -------------------- | ----------------- | ------------------ | ------------------------------------ |
-| Per E-Mail Versenden | action_order_send | sale.blanket.order | Rahmenauftrag als Angebot versenden. |
+Name: `action_order_send`\
+Modell: sale.blanket.order
 
 Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
 
