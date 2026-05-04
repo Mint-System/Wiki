@@ -6,7 +6,6 @@ section: template
 Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereiche müssen in der Spezifikation berücksichtigt werden:
 
 - **[[#Beschreibung]]**: Beschreibung der Modul-Funktion.
-- **[[#User Stories]]**: Handlungen aus Sicht des Benutzers
 - **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
 - **[[#Abhängigkeiten]]**: Liste der Modul-Abhängigkeiten
 
@@ -29,24 +28,6 @@ Falls das Modul neue Definitionen macht, dann verwenden Sie diese Vorlagen:
 Titel: Account Currency Communication
 Name: `account_currency_communication`\
 Beschreibung: Dieses Odoo Modul erlaubt die Konfiguration des Kommunikations-Standards auf der Währung. Abhängig davon welche Währung für die Rechnung verwendet wird.
-
-## User Stories
-
-Die User Stories erläutern den Anwendungsfall aus Sicht des Benutzers. Dazu zwei Beispiele:
-
-### Skonto auf Rechnung erfassen
-
-1. Der Benutzer erstellen eine Lieferantenrechnung und wählt im Feld _Zahlungsbedinungen Skonto_ den Eintrag "10 Tage / 10%" aus.
-2. Er sieht dass das Feld _Fälligkeit Skonto_ entsprechend angepasst wurde (Rechnungsdatum + 10 Tage). Nun überschreibt er das Feld mit -1 Tag.
-3. Nun wählt der Benutzer _Aktion > Skonto aktualisieren_.
-4. Der Benutzer sieht, dass eine neue Rechnungszeile gemäss Einstellungen und Zahlungsbedingung hinzugefügt wurde und der Rechnungsbetrag korrekt angepasst wurde.
-
-### Lieferantenzahlungen mit Skonto bezahlen
-
-1. Am Donnerstag zeigt der Benutzer die Lieferantezahlungen an und sortiert nach Fälligkeit Skonto.
-2. Er wählt den Filter _Rechnungen ohne Skontozeile_, markiert die aufgelistet Rechnungen und wählt Aktion > Skonto aktualisieren.
-3. Er entfernt den Filter und markiert alle Lieferantenrechnungen zur Zahlung.
-4. Der Benutzer wählt _Aktion > Zahlung erfassen_.
 
 ## Rahmenbedingungen
 
@@ -93,7 +74,6 @@ Der Zustand _Angebot gesendet_ verwendet die Aktion _Angebot versenden_.
 | Buchen | `action_post`    | account.move |
 
 Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt Kommunkations-Standard auf der Währung der Rechnung generiert werden.
-
 
 ## Bestehende Ansichten
 

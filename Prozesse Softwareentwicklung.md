@@ -7,7 +7,8 @@ section: process
 
 Dokumentation der Softwareentwicklungs-Prozesse.
 
-- [[Prozesse Softwareentwicklung - Technische Spezifikation]]
+- [[Prozesse Softwareentwicklung - Anforderungsanalyse]]
+- [[Prozesse Softwareentwicklung - Spezifikation]]
 - [[Prozesse Softwareentwicklung - Git-Repository]]
 - [[Prozesse Softwareentwicklung - Odoo Module]]
 - [[Prozesse Softwareentwicklung - Odoo Image]]
