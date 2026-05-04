@@ -39,7 +39,7 @@ Entwicklung wird auf <https://github.com/mint-System/odoo-apps-account-Invoicing
 
 ### Übersetzung
 
-Die Entwicklung des Moduls erfolgt auf Englisch. Es soll eine Übersetzung für die Sprache Deutsch (de_CH) angelegt werden.
+Die Entwicklung des Moduls erfolgt auf Englisch. Es muss eine Deutsch Übersetzung (de) angelegt werden.
 
 ## Abhängigkeiten
 
@@ -114,11 +114,17 @@ Wird die Aktion _Verkaufsauftrag Erstellen_ ausgewählt, wird die Rechnungsadres
 
 Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
 
+## Neue Ansichten
+
+### Formular Lot Rental
+
+Das ist die Formular-Ansicht von "Stock Lot Rental". Die Felder können bearbeitet und gespeichert werden.
+
 ## Neue Suchfelder und Filter
 
 ### Rechnungsadresse
 
-| Name             | Ansicht                    | Beschreibung                      |
+| Label            | Ansicht                    | Beschreibung                      |
 | ---------------- | -------------------------- | --------------------------------- |
 | Rechnungsadresse | `sale.view_quotation_tree` | Feld steht in Suche zur Verfügung |
 
@@ -126,7 +132,7 @@ Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenau
 
 ### Skonto-Produkt
 
-| Name           | Technischer Name      | Beschreibung                                  |
+| Label          | Technischer Name      | Beschreibung                                  |
 | -------------- | --------------------- | --------------------------------------------- |
 | Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
 
