@@ -38,20 +38,21 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | Meetings/YYYY-MM-DD TITEL.md    | Meeting-Notizen mit Namenskonvention                 |
 | Notizen/                        | Ordner für Notizen der Projektmitarbeiter            |
 | Output                          | Projektergebnisse                                    |
-| Verarbeitung/                   | Verarbeitung der Inputs. Ausgabe in Output.          |
+| Process/                        | Verarbeitung der Inputs. Ausgabe in Output.          |
 | README.md                       | Projektbeschreibung und Orientierung für Mitarbeiter |
 | Worklogs/YYYY-MM-DD TITEL.md    | Protokolle zur Auftragsabwicklung                    |
 | Workshop/                       | Dokumente zum Workshop                               |
-| Issues/YYYY-MM-DD TITEL.md      | Details zu Projektaufgaben                           |
 
 **Projektphasen**
+
+Fúr Komplexere
 
 | Ordner / Dokument     | Beschreibung                                                             |
 | --------------------- | ------------------------------------------------------------------------ |
 | PhaseNN NAME/         | Ordner mit Inhalt der jeweiligen Projektphase                            |
 | PhaseNN NAME/Input/   | Dokumente des Kunden werden hier abgelegt                                |
 | PhaseNN NAME/Output/  | Deliverable, die an den Kunden gehen. Berichte, Daten oder Auswertungen. |
-| PhaseNN NAME/Prozess/ | Ordner für Korrespondenz und Projektdaten                                |
+| PhaseNN NAME/Process/ | Ordner für Korrespondenz und Projektdaten                                |
 | PhaseNN NAME/Worklog  | Arbeitsprotokolle                                                        |
 
 Projektphasen sind analog [[Phasen]].
