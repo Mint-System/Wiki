@@ -28,7 +28,7 @@ if (plugin) {
 | ------- | -------- | ------------------------- | ------- |
 | Janik   | Ulrich   | *Softwareentwicklung*     |         |
 
-## Dialog Geteilt
+## Dialog Allgemein
 
-## Dialog Privat
+## Dialog Bilateral
 ````
