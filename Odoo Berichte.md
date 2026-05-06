@@ -23,7 +23,9 @@ Odoo Berichte bestehen aus mehreren Komponenten und Vorlagen. Hier ein Überblic
 		- Titel
 		- Inhalt
 
-Und hier die Gliederung anhand des Bericht "Rechnung":
+Der Inhalt des Berichts kann Platzhalter im Layout des Berichts festlegen.
+
+Und hier die Gliederung mit Namen der Ansicht und Variablen anhand des Bericht _Rechnung_:
 
 - account.report_invoice
 	- t-call account.report_invoice_document
@@ -41,4 +43,4 @@ Und hier die Gliederung anhand des Bericht "Rechnung":
 		- t-set layout_document_title
 		- 0
 
-der `t-call` ruf ein anderes Template auf. Der `t-out` macht einen Output eines Wertes und `t-set` legt einen Wert fest. Der Wert `0` bezieht sich auf den Inhalt des Berichts selbst.
+Der `t-call` ruf ein anderes Template auf. Der `t-out` macht einen Output eines Wertes und `t-set` legt einen Wert fest. Der Wert `0` bezieht sich auf den Inhalt des Berichts selbst.
