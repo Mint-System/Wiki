@@ -23,7 +23,7 @@ Odoo Berichte bestehen aus mehreren Komponenten und Vorlagen. Hier ein Überblic
 		- Titel
 		- Inhalt
 
-Und hier die Gliederung anhand des Rechnungs-Berichts:
+Und hier die Gliederung anhand des Bericht "Rechnung":
 
 - account.report_invoice
 	- t-call account.report_invoice_document
@@ -39,4 +39,4 @@ Und hier die Gliederung anhand des Rechnungs-Berichts:
 		- t-set address
 		- t-set information_block
 		- t-set layout_document_title
-			
+
