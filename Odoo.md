@@ -40,6 +40,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 - [[Odoo Development Guidelines]]
 - [[Develope an Odoo module]]
 - [[Odoo Modul]]
+- [[Odoo Berichte]]
 
 ## Infrastruktur
 
