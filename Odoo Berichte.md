@@ -17,7 +17,7 @@ Odoo Berichte bestehen aus mehreren Komponenten und Vorlagen. Hier ein Überblic
 					- Platzhalter Infoblock
 				- Platzhalter Titel
 				- Platzhalter Inhalt
-				- Dokument Header
+				- Footer
 		- Adresse
 		- Infoblock
 		- Titel
