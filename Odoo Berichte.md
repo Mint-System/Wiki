@@ -39,5 +39,6 @@ Und hier die Gliederung anhand des Bericht "Rechnung":
 		- t-set address
 		- t-set information_block
 		- t-set layout_document_title
+		- 0
 
-der `t-call` ruf ein anderes Template auf. Der `t-out` macht einen Output eines Wertes und `t-set` legt einen Wert fest.
+der `t-call` ruf ein anderes Template auf. Der `t-out` macht einen Output eines Wertes und `t-set` legt einen Wert fest. Der Wert `0` bezieht sich auf den Inhalt des Berichts selbst.
