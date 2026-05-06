@@ -40,3 +40,4 @@ Und hier die Gliederung anhand des Bericht "Rechnung":
 		- t-set information_block
 		- t-set layout_document_title
 
+der `t-call` ruf ein anderes Template auf. Der `t-out` macht einen Output eines Wertes und `t-set` legt einen Wert fest.
