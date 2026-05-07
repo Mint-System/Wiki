@@ -26,7 +26,7 @@ user_org=Mint-System
 ```
 ## Migrate
 
-Prepare the migration branch for the moduel.
+Prepare the migration branch for the module.
 
 ```bash
 task prepare-migration-brach "$repo" "$module" "$source_version"
