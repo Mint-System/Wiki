@@ -24,7 +24,7 @@ Arbeitsschritte:
 Prompt um einen neuen Namen zu erhalten:
 
 ```bash
-echo "I need a new alias for a new server. Give me 3 names. My current list looks like this: $(task list-hosts inventories)" | llm
+echo "I need a new alias for a new server. Give me 3 short names. My current list looks like this: $(task list-hosts inventories)" | llm
 ```
 
 - DNS-Eintrag in Ansible im `setup` Inventory erstellen
