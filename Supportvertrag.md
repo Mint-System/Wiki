@@ -4,14 +4,13 @@ section: product
 kind: explain
 ---
 
-Revision: 2026-01-29
+Revision: 2026-05-08
 
 Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt bei Fragen und Problemen zu Odoo. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Odoo Expertenwissen.
 
 | Leistung                                                 | Basis  |    Plus    |    Pro    |
 | -------------------------------------------------------- | :----: | :--------: | :-------: |
 | Dialog über support@mint-system.ch                       |   ✅    |     ✅      |     ✅     |
-| Telefonanruf auf Hauptnummer +41 44 244 72 20            |   ✅    |     ✅      |     ✅     |
 | Telefonanruf auf Supportnummer +41 44 244 72 24          |   ❌    |     ✅      |     ✅     |
 | Direkter Dialog mit Betreuungsperson                     |   ❌    |     ❌      |     ✅     |
 | Maximale Reaktionszeit (während den normalen Bürozeiten) | 3 Tage | 24 Stunden | 4 Stunden |
@@ -27,7 +26,6 @@ Der Basisvertrag ist in unseren Hosting-Angeboten enthalten.
 Ihre Kontaktmöglichkeiten:
 
 - E-Mail an [support@mint-system.ch](mailto:support@mint-system.ch)
-- Anruf auf Hauptnummer [+41 44 244 72 20](tel:+41442447220)
 
 Kosten pro Jahr: 0 CHF
 

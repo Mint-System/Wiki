@@ -29,7 +29,7 @@ Bericht
 	- Festlegen Titel
 	- Festlegen Inhalt
 
-Ausgewählte Elemente wie Titel werden auf dem Dokument festelegt und in der Vorlage Dokument-Layout ausgegeben. 
+Ausgewählte Elemente wie Titel werden auf dem Dokument festgelegt und in der Vorlage Dokument-Layout ausgegeben. 
 
 Und hier die Gliederung mit Namen der Ansichten und Variablen anhand des Bericht _Rechnung_:
 
