@@ -26,6 +26,7 @@ Der Basisvertrag ist in unseren Hosting-Angeboten enthalten.
 Ihre Kontaktmöglichkeiten:
 
 - E-Mail an [support@mint-system.ch](mailto:support@mint-system.ch)
+- Ticket auf Support-Seite erstellen
 
 Kosten pro Jahr: 0 CHF
 
