@@ -20,11 +20,15 @@ Arbeitsschritte:
 ## DNS-Einträge für Server erstellen
 
 - Name gemäss [[Richtlinie - Namenskonventionen#Servers]] festlegen
+
+Prompt um einen neuen Namen zu erhalten:
+
+```bash
+echo "I need a new alias for a new server. Give me 3 names. My current list looks like this: $(task list-hosts inventories)" | llm
+```
+
 - DNS-Eintrag in Ansible im `setup` Inventory erstellen
-
-Mit `task list-hosts inventories | grep $ALIAS` sicherstellen, dass Name noch nicht verwendet wurde.
-
-- Mit dem entsprechenden Ansible-Befehl den Eintrag erstellen
+- Mit dem entsprechenden Ansible-Befehl den DNS-Eintrag erstellen
 
 ## Server mit Ansible bereitstellen
 

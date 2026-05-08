@@ -78,7 +78,7 @@ Kundenrechnungen, die das Fälligkeitsdatum überschritten haben.
 Eingangsrechnung im Status Entwurf oder im Zahlungsstatus Unbezahlt.
 ## Dashboard Support
 
-### Tickets nicht zugwiesen
+### Tickets nicht zugewiesen
 
 Tickets sollten immer zugewiesen werden.
 
