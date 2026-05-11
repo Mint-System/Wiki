@@ -76,7 +76,7 @@ Es gelten folgende Regeln:
 
 Weitere Anforderungen sind in der [[Richtlinie - Passwortmanager|Richtlinie - Passwortmanager]] geregelt.
 
-# Geräte
+## Geräte
 
 Für die Arbeit werden nur freigegebene und ausreichend geschützte Geräte verwendet.
 
