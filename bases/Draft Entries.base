@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - draft == true
+    order:
+      - file.name
+      - kind
+      - section

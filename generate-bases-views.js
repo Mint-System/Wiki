@@ -82,6 +82,7 @@ function evaluateFilterString(filter, fileObj, mdFile) {
       const lang = createPropertyObject(get('lang'));
       const website = createPropertyObject(get('website'));
       const repository = createPropertyObject(get('repository'));
+      const draft = fileObj['draft'] === true || fileObj['draft'] === 'true';
 
       // For equality comparisons, we need to handle the object wrapper
       const originalSection = section;
@@ -124,6 +125,10 @@ baseFiles.forEach((baseFile) => {
   const baseName = path.basename(baseFile, '.base')
 
   // Process each view in the base file
+  if (!baseData || !baseData.views) {
+    console.warn(`Skipping "${baseFile}": no views defined`)
+    return
+  }
   baseData.views.forEach((view) => {
     // Create a list of objects with attributes from markdown files
     const tableData = []
