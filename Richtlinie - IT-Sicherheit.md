@@ -2,6 +2,7 @@
 title: Richtlinie - IT-Sicherheit
 kind: explain
 section: policy
+draft: true
 ---
 
 > **Hinweis:** Diese Richtlinie ist noch **nicht final** und befindet sich aktuell im **Entwurfsstatus**.  
