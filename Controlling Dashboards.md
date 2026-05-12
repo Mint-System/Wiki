@@ -91,3 +91,7 @@ Tickets sollten immer eine Auftragsposition haben.
 ### Offene Eingangsrechnungen
 
 Eingangsrechnung im Status Entwurf oder im Zahlungsstatus Unbezahlt.
+
+### Offene Spesenabrechnung
+
+Die folgenden Spesen wurde noch nicht ausbezahlt.
