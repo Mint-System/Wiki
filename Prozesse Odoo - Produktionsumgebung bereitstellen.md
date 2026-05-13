@@ -20,26 +20,31 @@ Arbeitsschritte:
 
 ## Initialisierung
 
-Standard-Module installieren:
+Arbeitsschritte:
 
-- Microsoft Outlook `microsoft_outlook` #Odoo15
-- Fetchmail Outlook `fetchmail_outlook` #Odoo15
-- Prometheus Exporter `prometheus_exporter`
-- Mail Server Filter `mail_server_filter`
-- Mail Service Account `mail_service_users`
+- Standard-Module installieren:
+	- Microsoft Outlook `microsoft_outlook`
+	- Prometheus Exporter `prometheus_exporter`
+	- Mail Server Filter `mail_server_filter`
+	- Mail Service Account `mail_service_users`
+	- Kontakte `contacts`
+	- Module Auto Update `module_auto_update`
+- Alias-Domain festlegen
+- Sprachpakete installieren und aktivieren
+- Postausgangs- und Posteingangsserver einrichten
 
 ### Unternehmensdaten eintragen
 
 Arbeitsschritte:
 
-- Unternehmensdaten festlegen: Adresse, Mehrwertsteuer-ID, UID, etc.
-- Weitere Benutzer erfassen: Personal muss nicht zwingend Benutzer sein
-- Geschäftsunterlagen: Papierformat
-- Integration Kalender: CalDav, Google, Outlook
+- Unternehmensdaten (Adresse, Mehrwertsteuer-ID, UID) erfassen
+- Dokumentlayout konfigurieren
 
-### Lokalisierung festlegen
+## Benutzer einladen
 
 Arbeitsschritte:
 
-- Sprachpakete installieren und aktivieren
-- Währung festlegen
+- Liste mit Name und E-Mail erstellen
+- Gruppe _Standardzugriff für neue Benutzer_ prüfen
+- Prüfen Versand von E-Mails
+- Benutzer gemäss Liste erstellen
