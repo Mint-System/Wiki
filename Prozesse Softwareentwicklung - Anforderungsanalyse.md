@@ -1,5 +1,4 @@
 ---
-title: Prozesse Softwareentwicklung - Technische Spezifikation
 kind: howto
 section: process
 ---
