@@ -9,9 +9,10 @@ Es wird angenommen, dass die Odoo-Instanz unter `odoo.example.com` läuft und f�
 
 Arbeitsschritte:
 
-- der DNS `example.com` A-Eintrag und der `www.example.com` CNAME-Eintrag anpassen
-- die Datenbank von odoo auf `example` umbenannen
-- der Datenbankname im Backup-Job anpassen
-- der Ansible Ninginx Proxy-Eintrag von `odoo.example.com` auf `www.example.com` umbennen
-- eine Ansible Nginx Umleitung von `example.com` auf `www.example.com` erstellen
+- DNS `example.com` A-Eintrag und der `www.example.com` CNAME-Eintrag anpassen
+- Datenbank von `odoo` auf `example` mit `docker-odoo-rename` umbennen
+- Datenbankname im Ansible Backup-Job anpassen
+- Datenbankname in Ansible Reset-Skript anpassen
+- Ansible Nginx Proxy-Eintrag von `odoo.example.com` auf `www.example.com` umbennen
+- Ansible Nginx Umleitung von `example.com` auf `www.example.com` erstellen
 - Ansible-Playbook Nginx und Odoo ausführen
