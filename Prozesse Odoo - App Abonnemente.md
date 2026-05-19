@@ -1,10 +1,9 @@
 ---
-title: Prozesse Odoo - App Abonnements
 kind: howto
 section: process
 ---
 
-Installation Modul Lager `subscription`.
+Installation Modul Abonnemente `subscription`.
 
 ## Installation
 

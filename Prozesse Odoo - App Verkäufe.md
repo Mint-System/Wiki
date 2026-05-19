@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Verkäufe
 kind: howto
 section: process
 ---

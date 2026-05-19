@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Point of Sale
 kind: howto
 section: process
 ---

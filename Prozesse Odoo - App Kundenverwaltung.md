@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Kundenverwaltung
 kind: howto
 section: process
 ---

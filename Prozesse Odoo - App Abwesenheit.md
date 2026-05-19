@@ -1,10 +1,9 @@
 ---
-title: Prozesse Odoo - App Abwesenheit
 kind: howto
 section: process
 ---
 
-Installation Modul Abwesenheit (hr_holidays).
+Installation Modul Abwesenheit `hr_holidays`.
 
 ## Initialisierung
 

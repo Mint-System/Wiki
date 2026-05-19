@@ -1,10 +1,9 @@
 ---
-title: Prozesse Odoo - App Einkauf
 kind: howto
 section: process
 ---
 
-Installation Modul Einkauf `purchase`
+Installation Modul Einkauf `purchase`.
 
 ## Installation
 

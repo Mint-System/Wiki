@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Data Cleaning
 kind: howto
 section: process
 ---

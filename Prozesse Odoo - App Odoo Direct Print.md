@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Odoo Direct Print
 kind: howto
 section: process
 ---
