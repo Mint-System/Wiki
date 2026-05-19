@@ -61,7 +61,7 @@ git checkout $source_version $module
 task migrate-module addons/$repo/$module
 ```
 
-- Generiere die Modul Docs
+- Aktualisiere die Modul Docs
 
 ```bash
 task generate-module-docs addons/$repo/$module
