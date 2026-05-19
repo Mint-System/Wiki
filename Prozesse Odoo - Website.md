@@ -15,4 +15,3 @@ Arbeitsschritte:
 - der Ansible Ninginx Proxy-Eintrag von `odoo.example.com` auf `www.example.com` umbennen
 - eine Ansible Nginx Umleitung von `example.com` auf `www.example.com` erstellen
 - Ansible-Playbook Nginx und Odoo ausführen
-- 
