@@ -45,6 +45,10 @@ Aufgaben im Backlog sollten nicht zugewiesen sein.
 
 Bei diesen Projektphasen wurde das Stunden-Budget überschritten.
 
+### Aufgaben in Review
+
+Nach 3 Wochen können Aufgaben in Review auf Erledigt gesetzt werden.
+
 ## Dashboard Abonnemente
 
 ### Abonnemente nächste Abrechnung
