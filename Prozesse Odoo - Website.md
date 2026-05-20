@@ -10,6 +10,7 @@ Es wird angenommen, dass die Odoo-Instanz unter `odoo.example.com` läuft und f�
 Arbeitsschritte:
 
 - DNS `example.com` A-Eintrag und der `www.example.com` CNAME-Eintrag anpassen
+- DNS AAAA-Einträge entfernen
 - Datenbank von `odoo` auf `example` mit `docker-odoo-rename` umbennen
 - Datenbankname im Ansible Backup-Job anpassen
 - Datenbankname in Ansible Reset-Skript anpassen
