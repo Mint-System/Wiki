@@ -1,5 +1,4 @@
 ---
-title: Phase Finanzen Vermögensverwaltung
 kind: explain
 section: service
 ---
