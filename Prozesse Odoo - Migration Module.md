@@ -11,7 +11,7 @@ Arbeitsschritte:
 - Neuer Repo-Branch erstellen
 
 ```bash
-task create-repo addons/$repo
+task init-repo-branch addons/$repo
 ```
 
 - Template-Dateien kopieren und `README.md` Datei aktualisieren

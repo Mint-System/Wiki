@@ -157,7 +157,7 @@ Insbesondere gilt:
 
 ## Entwicklung und Testsysteme
 
-Zugangsdaten dürfen nicht im Quellcode gespeichert werden.
+Zugangsdaten dürfen nicht im Quellcodeo gespeichert werden.
 
 Produktive Daten dürfen nicht ungeschützt in Entwicklungs- oder Testumgebungen verwendet werden.
 

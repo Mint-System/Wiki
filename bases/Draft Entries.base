@@ -4,7 +4,15 @@ views:
     filters:
       and:
         - draft == true
+    groupBy:
+      property: section
+      direction: ASC
     order:
       - file.name
       - kind
       - section
+    sort:
+      - property: section
+        direction: ASC
+    columnSize:
+      file.name: 525

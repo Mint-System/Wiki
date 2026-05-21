@@ -25,7 +25,7 @@ Richtlinien der Mint System.
 - [[Richtlinie - Namenskonventionen]]
 - [[Richtlinie - Passwortmanager]]
 - [[Richlinie - Arbeitsplatz]]
-	
+
 ## Kommunikation
 
 - [[Richtlinie - Website]]
@@ -55,3 +55,8 @@ Richtlinien der Mint System.
 - [[Richtlinie - Konferenz]]
 - [[Richtlinie - Kontakte]]
 - [[Richtlinie - Kalender]]
+
+## IT-Sicherheit
+
+- [[Richtlinie - Cloud-Dienste]]
+- ...
