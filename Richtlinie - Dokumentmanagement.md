@@ -53,7 +53,7 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Website                                   | Shared       | Dateien zum Webauftritt                                                            |
 | task                                      | Shared       | Taskfile zur Verwaltung der Ablage                                                 |
 | Lösungen                                  | Shared       | Ablage Lösungs-Portfolio                                                           |
-| Tools                                     | Shared       |                                                                                    |
+| Tools                                     | Shared       | HTML-Apps and Links to Tools                                                       |
 
 ## Format
 
