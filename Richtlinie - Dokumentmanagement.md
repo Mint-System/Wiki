@@ -52,6 +52,8 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Vorlage                                   | Shared       | Dokumentvorlagen mit Inhalt                                                        |
 | Website                                   | Shared       | Dateien zum Webauftritt                                                            |
 | task                                      | Shared       | Taskfile zur Verwaltung der Ablage                                                 |
+| Lösungen                                  | Shared       | Ablage Lösungs-Portfolio                                                           |
+| Tools                                     | Shared       |                                                                                    |
 
 ## Format
 
