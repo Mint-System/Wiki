@@ -6,21 +6,16 @@ section: organisation
 
 Übersetzung: [[Services]]
 
-Version: 2025-04-07
+Version: 2026-05-22
 
 Kompetenzen der Mint System GmbH und die dazugehörigen Dienstleistungen.
 
-Zur Aufstellung gehört die Übersicht der [[Abos und Preise]].
-
 ## Projektleitung
 
-Gemäss Mint System "Vorgehensmodell für Odoo-Projekte"
-
-Gemäss Mint System "Vorgehensmodell für Beratungsprojekte"
-
-Gemäss Mint System "Vorgehensmodell Softwareentwicklung"
-
-Gemäss Mint System "Vorgehensmodell Hostingprojekte"
+Gemäss Mint System "Vorgehensmodell für Odoo-Projekte".\
+Gemäss Mint System "Vorgehensmodell für Beratungsprojekte".\
+Gemäss Mint System "Vorgehensmodell Softwareentwicklung".\
+Gemäss Mint System "Vorgehensmodell Hostingprojekte".
 
 Preis: 190 CHF pro Stunde
 
