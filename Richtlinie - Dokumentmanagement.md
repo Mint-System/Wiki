@@ -4,7 +4,16 @@ kind: explain
 section: policy
 ---
 
-[[DMS]] der Mint System.
+[[DMS]] der Mint System. 
+
+Dokumente müssen an der vorgesehenen Stelle abgelegt und gemäss Schutzbedarf behandelt werden.
+
+Es gelten folgende Grundsätze:
+
+- keine unkontrollierten Kopien vertraulicher Dokumente erstellen
+- Dokumente nur in freigegebenen Ablagen speichern
+- Freigaben an Externe gezielt und nachvollziehbar erteilen
+- Archive, Input-, Output- und tmp-Ordner gemäss Vorgaben verwenden
 
 ## Ablagestruktur
 

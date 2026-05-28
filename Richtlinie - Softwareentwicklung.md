@@ -4,6 +4,10 @@ kind: explain
 section: policy
 ---
 
+Zugangsdaten dürfen nicht im Quellcode gespeichert werden.
+
+Produktive Daten dürfen nicht ungeschützt in Entwicklungs- oder Testumgebungen verwendet werden.
+
 ## Versionierung
 
 Wir orientieren uns bei der Versionierung von Software an [[Semantic Versioning]].

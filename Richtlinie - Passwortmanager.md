@@ -10,6 +10,13 @@ Intern werden alle Passwörter mit [[KeePassXC]] gespeichert.
 
 Wenn Passwörter mit Externen geteilt werden müssen, werden Sie in [[Nextcloud Passwords]] als Duplikate erfasst.
 
+Es gelten zusätzlich folgende Grundsätzte:
+
+- keine Speicherung in Klartextdateien, Notizen oder Chats
+- keine Weitergabe über ungesicherte Kanäle
+- keine Wiederverwendung von Passwörtern für mehrere Dienste
+- technische Zugangsdaten müssen dokumentiert und kontrolliert abgelegt sein
+
 ## Anforderungen
 
 Ein Passwort muss 40 Zeichen lang sein und alphanumerische Zeichen enthalten.

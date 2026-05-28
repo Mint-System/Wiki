@@ -58,5 +58,12 @@ Richtlinien der Mint System.
 
 ## IT-Sicherheit
 
+- [[Richtlinie - Informationssicherheit]] 
 - [[Richtlinie - Cloud-Dienste]]
-- ...
+- [[Richtlinie - Datenlöschung und Entsorgung]]
+- [[Richtlinie - Identity und Access Management]]
+- [[Richtlinie - Klassifizierung von Informationen]]  
+- [[Richtlinie - Lieferanten und externe Dienstleister]]
+- [[Richtlinie - Security Awareness]] 
+- [[Richtlinie - Sicherheitsvorfälle]]
+- [[Richtlinie - Zutritt und Besucher]]
