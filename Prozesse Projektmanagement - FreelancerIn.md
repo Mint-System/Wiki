@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Freelancer%In
 kind: howto
 section: process
 ---
