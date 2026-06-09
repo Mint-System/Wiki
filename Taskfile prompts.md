@@ -8,7 +8,7 @@ Taskfile prompts is a cli command set, a specification template and way of integ
 
 ## cli commands
 
-With a [[taskfile]] you have access to `create-prompt` and `list-promts`: 
+With a [[taskfile]] you have access to `create-prompt` and `list-promts`: <https://taskfile.build/library/#llm>
 
 ## specification template
 
