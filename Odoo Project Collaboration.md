@@ -6,7 +6,7 @@ lang: en
 
 A short outline on how we want to collaborate on Odoo projects with third parties.
 
-## General conditions
+## General Conditions
 
 - We do not recommend nor use Odoo Studio. Instead we create [[Odoo Snippets]].
 - When working with [[ai agents]] prompts have to be submitted and committed to the repo. See [[Taskfile prompts]] for details.
