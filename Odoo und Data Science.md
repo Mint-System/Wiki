@@ -4,6 +4,8 @@ kind: explain
 section: blog
 ---
 
+Wie man die Werkzeuge aus Data Science für Odoo effizient einsetzen kann.
+
 Wer heutzutage Data Science studiert, lernt [Python](https://www.python.org/) als Programmiersprache und [Jupyter](https://jupyter.org/) als Entwicklungsumgebung kennen. Die Zeiten von [SPSS](https://www.ibm.com/products/spss) gezählt. Es gibt noch [R](https://www.r-project.org/) und [RStudio](https://posit.co/products/open-source/rstudio), doch das hat immer weniger Relevanz. Python wurde zu universellen Sprache und kommt in verschiedenen Bereichen zum Einsatz. Machine Learning, Data Analysis, Visualization, Automatisierung und auch die Entwicklung von Large Language Models sind von Python getrieben.
 
 Dieses Potenzial ist besonders spannend für Odoo. Odoo eine Business Management Software und das Odoo Backend ist in Python geschrieben. Jeder Statistiker und jede Datenwissenschaftlerin kann Python-Code lesen und schreiben.
