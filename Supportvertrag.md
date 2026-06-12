@@ -56,7 +56,7 @@ Mit dem Pro Supportvertrag erhalten Sie zusätzlich:
 Ihre Kontaktmöglichkeiten:
 
 - Anruf auf Nummer des Betreuers
-- Bestehende Möglichkeiten aus Basis- und MINT-Vertrag
+- Bestehende Möglichkeiten aus Basis- und Plus-Vertrag
 
 Kosten pro Jahr: 1920 CHF\
 _Kosten pro Monat: 160 CHF_
