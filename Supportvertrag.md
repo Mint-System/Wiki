@@ -4,7 +4,7 @@ section: product
 kind: explain
 ---
 
-Revision: 2026-05-08
+Revision: 2026-06-12
 
 Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt bei Fragen und Problemen zu Odoo. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Odoo Expertenwissen.
 
@@ -66,5 +66,5 @@ _Kosten pro Monat: 160 CHF_
 Es gelten diese allgemeinen Geschäftsbedingungen:
 
 - Die Vertragslaufzeit gilt für ein Kalenderjahr.
-- Falls der Supportvertrag nicht bis September gekündigt wird, verlängert er sich jeweils um ein Jahr.
+- Falls der Supportvertrag nicht bis 1 Monat vor Ablauf gekündigt wird, verlängert er sich jeweils um ein Jahr.
 - Das monatliche Guthaben für Supportstunden kann nicht kumuliert werden.
