@@ -99,3 +99,7 @@ Eingangsrechnung im Status Entwurf oder im Zahlungsstatus Unbezahlt.
 ### Offene Spesenabrechnung
 
 Die folgenden Spesen wurde noch nicht ausbezahlt.
+
+### Offener Saldo
+
+Buchungszeilen mit Haben und Text "Offener Saldo".
