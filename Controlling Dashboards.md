@@ -47,7 +47,11 @@ Bei diesen Projektphasen wurde das Stunden-Budget überschritten.
 
 ### Aufgaben in Review
 
-Nach 3 Wochen können Aufgaben in Review auf Erledigt gesetzt werden.
+Nach 1 Monat können Aufgaben in Review auf Erledigt gesetzt werden.
+
+### Aufgaben Erledigt
+
+Nach 2 Monat können erledigte Aufgaben archiviert werden.
 
 ## Dashboard Abonnemente
 
