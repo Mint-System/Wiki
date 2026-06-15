@@ -46,7 +46,9 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Newsletter                                | Shared       | Dokumente zum Newsletter Mint System                                               |
 | Odoo                                      | Shared       | Odoo Dokumente                                                                     |
 | Partner                                   | Shared       | Dokumente zu unseren Partner                                                       |
-| Personal                                  | Private      | Verträge und Abrechnungen                                                          |
+| Lohnabrechnung/\[Jahr\]                   | Private      | Dokumente Lohnabrechnung                                                           |
+| Beurteilung/\[Name\]                      | Private      |                                                                                    |
+| Personal                                  | Private      | Verträge und Personal-Dokumente                                                    |
 | Produkte/\[Name\]                         | Shared       | Dokumente zu den Mint System Produkten                                             |
 | Projekte/[Name]                           | Shared       | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.          |
 | Public Relations                          | Shared       | Zeitungsartikel und allgemeine PR                                                  |
