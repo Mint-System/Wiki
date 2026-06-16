@@ -14,12 +14,6 @@ Arbeitsschritte:
 task init-repo-branch addons/$repo
 ```
 
-- Template-Dateien kopieren und `README.md` Datei aktualisieren
-
-```bash
-task generate-repo-docs addons/$repo
-```
-
 - Änderungen committen
 
 ```bash
@@ -33,6 +27,7 @@ git push --set-upstream origin $(git branch --show-current)
 
 ```bash
 task add-git-folder 19.0 git@github.com:Mint-System/Odoo-Apps-$repo.git addons/$repo
+task save-version
 ```
 
 - Änderungen auf Odoo Build committen
