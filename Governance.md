@@ -5,4 +5,5 @@ section: organisation
 ---
 
 [[Steuerungskreis]]\
-[[Wirkungsräume]]
+[[Wirkungsräume]]\
+[[Controlling]]

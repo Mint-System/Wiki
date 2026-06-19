@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Reseller
 kind: howto
 section: process
 ---

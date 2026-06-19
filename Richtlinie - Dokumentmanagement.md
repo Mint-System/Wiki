@@ -4,7 +4,16 @@ kind: explain
 section: policy
 ---
 
-[[DMS]] der Mint System.
+[[DMS]] der Mint System. 
+
+Dokumente müssen an der vorgesehenen Stelle abgelegt und gemäss Schutzbedarf behandelt werden.
+
+Es gelten folgende Grundsätze:
+
+- keine unkontrollierten Kopien vertraulicher Dokumente erstellen
+- Dokumente nur in freigegebenen Ablagen speichern
+- Freigaben an Externe gezielt und nachvollziehbar erteilen
+- Archive, Input-, Output- und tmp-Ordner gemäss Vorgaben verwenden
 
 ## Ablagestruktur
 
@@ -37,7 +46,9 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Newsletter                                | Shared       | Dokumente zum Newsletter Mint System                                               |
 | Odoo                                      | Shared       | Odoo Dokumente                                                                     |
 | Partner                                   | Shared       | Dokumente zu unseren Partner                                                       |
-| Personal                                  | Private      | Verträge und Abrechnungen                                                          |
+| Lohnabrechnung/\[Jahr\]                   | Private      | Dokumente Lohnabrechnung                                                           |
+| Beurteilung/\[Name\]                      | Private      |                                                                                    |
+| Personal                                  | Private      | Verträge und Personal-Dokumente                                                    |
 | Produkte/\[Name\]                         | Shared       | Dokumente zu den Mint System Produkten                                             |
 | Projekte/[Name]                           | Shared       | Die Projektablage ist unter [[Richtlinie - Projektmanagement]] definiert.          |
 | Public Relations                          | Shared       | Zeitungsartikel und allgemeine PR                                                  |
@@ -52,6 +63,8 @@ Bestimmte Ordner erfordern die Erstellung eines Unterordners.
 | Vorlage                                   | Shared       | Dokumentvorlagen mit Inhalt                                                        |
 | Website                                   | Shared       | Dateien zum Webauftritt                                                            |
 | task                                      | Shared       | Taskfile zur Verwaltung der Ablage                                                 |
+| Lösungen                                  | Shared       | Ablage Lösungs-Portfolio                                                           |
+| Tools                                     | Shared       | HTML-Apps and Links to Tools                                                       |
 
 ## Format
 

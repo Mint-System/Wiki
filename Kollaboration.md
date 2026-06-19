@@ -9,3 +9,4 @@ Weiterführende Links:
 
 - [[Subunternehmen]]
 - [[Odoo Development Workflow]]
+- [[Odoo Project Collaboration]]

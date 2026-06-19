@@ -103,12 +103,6 @@ I performed the following actions:
 - Renamed name from `Crm` to `CRM`
 - Added `"views/crm_lead_views.xml",` and `"views/crm_lead_template_views.xml",` to the data list
 
-Once we updated the metadata we can generate the module docs.
-
-```bash
-[main][~/Odoo-Build]$ task generate-module-docs addons/sale_workflow/crm_lead_template
-```
-
 ## Model
 
 According to the spec we need to add two fields the model. Let's lookup the definition.

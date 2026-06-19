@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App APPNAME
 section: template
 kind: reference
 ---

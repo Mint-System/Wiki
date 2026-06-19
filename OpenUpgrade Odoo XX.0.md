@@ -47,7 +47,7 @@ docker-postgres-restore -c db -f "tmp/$COMPANY/$DATABASE.sql"
 Login and check the Odoo log.
 
 ```bash
-task start native "$DATABASE"
+task start source "$DATABASE"
 ```
 
 Remove [[Unsupported Modules]].
@@ -90,7 +90,7 @@ task update-module "$DATABASE" all
 Once the upgrade finished, start the server.
 
 ```bash
-task start native "$DATABASE"
+task start source "$DATABASE"
 ```
 
 ## Deploy

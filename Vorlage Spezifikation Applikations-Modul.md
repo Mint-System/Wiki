@@ -27,6 +27,9 @@ Falls das Modul neue Definitionen macht, dann verwenden Sie diese Vorlagen:
 
 Titel: Account Currency Communication
 Name: `account_currency_communication`\
+Version: 19.0
+Repo: Account-Invoicing
+Lizenz: AGPL-1
 Beschreibung: Dieses Odoo Modul erlaubt die Konfiguration des Kommunikations-Standards auf der Währung. Abhängig davon welche Währung für die Rechnung verwendet wird.
 
 ## Rahmenbedingungen

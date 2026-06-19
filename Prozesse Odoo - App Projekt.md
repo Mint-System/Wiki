@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Projekt
 kind: howto
 section: process
 ---

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Zeiterfassung
 kind: howto
 section: process
 ---

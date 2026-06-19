@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Personalabrechnung
 kind: howto
 section: process
 ---

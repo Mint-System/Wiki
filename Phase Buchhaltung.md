@@ -1,5 +1,4 @@
 ---
-title: Phase Finanzen
 kind: explain
 section: service
 ---

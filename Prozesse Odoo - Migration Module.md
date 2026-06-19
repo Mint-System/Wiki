@@ -11,13 +11,7 @@ Arbeitsschritte:
 - Neuer Repo-Branch erstellen
 
 ```bash
-task create-repo addons/$repo
-```
-
-- Template-Dateien kopieren und `README.md` Datei aktualisieren
-
-```bash
-task generate-repo-docs addons/$repo
+task init-repo-branch addons/$repo
 ```
 
 - Änderungen committen
@@ -33,6 +27,7 @@ git push --set-upstream origin $(git branch --show-current)
 
 ```bash
 task add-git-folder 19.0 git@github.com:Mint-System/Odoo-Apps-$repo.git addons/$repo
+task save-version
 ```
 
 - Änderungen auf Odoo Build committen
@@ -61,7 +56,7 @@ git checkout $source_version $module
 task migrate-module addons/$repo/$module
 ```
 
-- Generiere die Modul Docs
+- Aktualisiere die Modul Docs
 
 ```bash
 task generate-module-docs addons/$repo/$module

@@ -1,5 +1,4 @@
 ---
-title: Phase Finanzen Budget
 kind: explain
 section: service
 ---

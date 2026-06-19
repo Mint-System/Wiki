@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Kontakte
 kind: howto
 section: process
 ---
