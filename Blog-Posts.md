@@ -7,7 +7,8 @@ draft: false
 
 Hier entstehen neue Blog-Posts:
 
-[[Odoo und Data Science]]
+[[Jupyter and OpenCode]]
+[[Odoo und Data Science]]\
 [[So gelingt das Odoo Upgrade]]\
 [[Mythen über Open Source]]\
 [[Zahlen zum Unternehmen]]\
