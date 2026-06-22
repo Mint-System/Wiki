@@ -17,6 +17,7 @@ Die Kalkulation des Angebots basiert auf folgender Aufwandsschätzung:
 | Bereinigung Anpassungen     | Snippets / Studio-Edits         | Anzahl Snippets/Edits x 15min<br>                                  | 0             |
 | Bereinigung Website         | Website-Customizing             | 4h zur Bereinigung und Prüfung der Seiten                          | 4             |
 | Re-Implementation Workflows | Odoo-Workflow                   | 4h für Re-Implementation Odoo Workflow                             | 4             |
+| Prüfen Aktionen             | Aktionen                        | 30min pro Aktion                                                   | 2             |
 |                             |                                 | **Summe:**                                                         | **38**        |
 
 Liste der installierten Module von Dritten:
