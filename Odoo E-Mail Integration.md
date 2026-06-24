@@ -1,12 +1,13 @@
 ---
-title: Odoo E-Mail Integration
+kind: explain
+section: communication
 ---
 
 Odoo bietet die Möglichkeit über E-Mail zu kommunizieren. Beispielsweise kann man eine Projekt-Aufgabe abonnieren und erhält eine Benachrichtigung, wenn jemand eine Nachricht auf der Aufgabe hinterlässt. Auf diese Benachrichtung kann man antworten und diese Antwort wird dann wiederum an die Aufgabe angehängt.
 
 Videos:
 
-- \*[How to Handle Your Email Environment with Odoo](https://www.youtube.com/watch?v=emLnLw2XliI)
+- [How to Handle Your Email Environment with Odoo](https://www.youtube.com/watch?v=emLnLw2XliI)
 
 * [Spam Detection](https://youtu.be/emLnLw2XliI?t=932)
 

@@ -1,5 +1,4 @@
 ---
-title: Odoo Lifecycle
 section: communication
 kind: explain
 ---

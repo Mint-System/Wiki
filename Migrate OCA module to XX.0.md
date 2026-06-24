@@ -71,7 +71,7 @@ task commit-git-folder "oca/$repo" "[MIG] $module: Migration to $target_version"
 Push to remote.
 
 ```bash
-git push "${user_org:l}"
+git push "${user_org}"
 ```
 
 Create a pull request
