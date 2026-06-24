@@ -4,9 +4,25 @@ kind: explain
 section: blog
 ---
 
-Odoo hat eine AI-Integration. Das ist sehr mächtig.
+Odoo hat eine AI-Integration. Diese ist sehr mächtig.
 
-Es zeigt sich wer einfach darauf los prompted, verursacht Probleme an anderen Stellen.
+- Odoo AI App
+- Claude mit API-Zugriff auf Odoo
+
+Unsere Lösung
+
+- Jupyter Lab mit OpenCode
+
+Was ist Jupyter Lab?
+
+https://jupyter-ai.readthedocs.io/en/v3/
+
+Was ist OpenCode?
+
+https://opencode.ai/
+
+Was ist der Vorteil?
+
 
 Dazu kommen neue Risiken wie der Abfluss von Daten, fehlende Rückverfolgbarkeit und Transparenz.
 
@@ -17,10 +33,6 @@ Jupyter-Pod
 Eine vom Odoo-System separierte Umgebung.
 
 Zentrale Ablage für Daten, Prompts und Chats.
-
-https://opencode.ai/
-
-https://jupyter-ai.readthedocs.io/en/v3/
 
 
 

@@ -1,6 +1,7 @@
 ---
 section: communication
 kind: explain
+website: https://www.odoo.com/app/artificial-intelligence
 ---
 
-[[Jupyter Lab x OpenCode]]
+Die AI-Integration von Odoo.
