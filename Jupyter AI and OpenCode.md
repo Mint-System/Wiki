@@ -17,3 +17,4 @@ Wir kombinieren [[Jupyter AI]] und [[OpenCode]] um einen Workspace zur Arbeit mi
 | Anwendungsfall                 | Navigation und Reporting         | Datenverarbeitung und Automatisierung                        |
 | Inference Kosten               | Gemäss Provider                  | OpenCode Free Tier                                           |
 | Chat-Verlauf geteilt mit       | Google / OpenAI                  | -                                                            |
+| Anforderungen Anwender         | Eingabe Prompts                  | Arbeiten mit Jupyter Lab                                     |
