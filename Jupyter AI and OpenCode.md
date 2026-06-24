@@ -3,7 +3,7 @@ kind: explain
 section: product
 ---
 
-Wir kombinieren [[Jupyter AI]] und [[OpenCode]] um einen Workspace zur Arbeit mit Agenten bereitzustellen.
+Wir kombinieren [[Jupyter AI]] und [[OpenCode]] um einen Workspace zur Arbeit mit Agenten zu kreieren.
 
 ## Vergleich mit [[Odoo KI]]
 
