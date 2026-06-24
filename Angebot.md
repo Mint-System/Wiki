@@ -4,7 +4,7 @@ kind: reference
 section: product
 ---
 
-Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösungen und Produkte.
+Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösungen und Hardware.
 
 ## Know-how
 
@@ -14,10 +14,10 @@ Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösunge
 - [[Nextcloud]]
 - [[BigBlueButton]]
 - [[Linux Server Patching]]
-- [[OpenEduca]]
 - [[Odoo Zeiterfassung]]
 - [[Gitea]]
 - [[Caluma]]
+- [[Jupyter AI and OpenCode]]
 
 ## [[Dienstleistungen]]
 
@@ -25,6 +25,7 @@ Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösunge
 - [[Odoo Support]]
 - [[Software Engineering]]
 - [[Security Audit]]
+- [[Odoo Wartung]]
 
 ## [[Hosting]]
 
@@ -37,8 +38,6 @@ Das Angebot der Mint System umfasst Know-how, Dienstleistungen, Hosting-Lösunge
 - [[Matomo Hosting]]
 - [[Keycloak Hosting]]
 
-## Produkte
+## Hardware
 
 - [[Terminal Zeiterfassung]]
-- [[Odoo Wartung]]
-- [[Wartungsauftrag]]
