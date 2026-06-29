@@ -45,10 +45,6 @@ Aufgaben im Backlog sollten nicht zugewiesen sein.
 
 Bei diesen Projektphasen wurde das Stunden-Budget überschritten.
 
-### Aufgaben in Review
-
-Nach 1 Monat können Aufgaben in Review auf Erledigt gesetzt werden.
-
 ### Aufgaben Erledigt
 
 Nach 2 Monat können erledigte Aufgaben archiviert werden.
