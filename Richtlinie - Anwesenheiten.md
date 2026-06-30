@@ -9,7 +9,7 @@ Mitarbeitende mit einem fixen Arbeitspensum sind aufgefordert ihre Anwesenheiten
 
 ## Selbstkontrolle
 
-Die Erfassung der Anwesenheit dient nicht der Kontrolle des Arbeitgebers, sondern der des jeweiligen Mitarbeitenden. Es ist ein Dienstleistung die eigene Arbeitszeit im Blick zu behablten.
+Die Erfassung der Anwesenheit dient nicht der Kontrolle des Arbeitgebers, sondern der des jeweiligen Mitarbeitenden. Es ist ein Dienstleistung die eigene Arbeitszeit im Blick zu behalten.
 
 ## Keine Überstunden
 
