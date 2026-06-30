@@ -8,7 +8,8 @@ Richtlinien der Mint System.
 
 ## Mitarbeit
 
-- [[Richtlinie - Arbeitszeit]]
+- [[Richtlinie - Anwesenheiten]]
+- [[Richtlinie - Fokuszeit]]
 - [[Richtlinie - Zeiterfassung]]
 - [[Richtlinie - Spesenreglement]]
 - [[Richtlinie - Smartphone]]
@@ -24,7 +25,7 @@ Richtlinien der Mint System.
 
 - [[Richtlinie - Namenskonventionen]]
 - [[Richtlinie - Passwortmanager]]
-- [[Richlinie - Arbeitsplatz]]
+- [[Richtlinie - Arbeitsplatz]]
 
 ## Kommunikation
 
