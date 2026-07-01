@@ -22,6 +22,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 - [[Evaluation Odoo Drucken]]
 - [[Odoo Connector]]
 - [[Odoo Lifecycle]]
+- [[Odoo KI]]
 
 ## Entwicklung und Upgrade
 
@@ -40,15 +41,13 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 - [[Odoo Development Guidelines]]
 - [[Develope an Odoo module]]
 - [[Odoo Modul]]
+- [[Odoo Berichte]]
+- [[Odoo Project Collaboration]]
 
 ## Infrastruktur
 
 - [[Odoo Wartung]]
 - [[Odoo PaaS]]
-
-## HowTo
-
-- [[DRP - Server Totalausfall mit Odoo]]
 
 ## Kunden
 

@@ -3,7 +3,7 @@ title: Softwareentwicklungsprojekte
 kind: reference
 ---
 
-## [[Phasen]]
+## Phasen
 
 Zur Umsetzung eines Softwareentwicklungsprojekt können diese Phase angewendet werden:
 
@@ -25,9 +25,3 @@ Zur Umsetzung eines Softwareentwicklungsprojekt können diese Phase angewendet w
 **Betrieb**
 
 - [[Phase Schulung]]
-
-## [[Prozesse]]
-
-Zur Umsetzung eines Softwareentwicklungsprojekt werden diese Prozesse angwendet:
-
-- [[Prozesse Softwareentwicklung]]

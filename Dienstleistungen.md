@@ -6,29 +6,20 @@ section: organisation
 
 Übersetzung: [[Services]]
 
-Version: 2025-04-07
+Version: 2026-05-22
 
 Kompetenzen der Mint System GmbH und die dazugehörigen Dienstleistungen.
 
-Zur Aufstellung gehört die Übersicht der [[Abos und Preise]].
-
 ## Projektleitung
 
-![[odoo_icon_project.png]]
-
-Gemäss Mint System "Vorgehensmodell für Odoo-Projekte"
-
-Gemäss Mint System "Vorgehensmodell für Beratungsprojekte"
-
-Gemäss Mint System "Vorgehensmodell Softwareentwicklung"
-
-Gemäss Mint System "Vorgehensmodell Hostingprojekte"
+Gemäss Mint System "Vorgehensmodell für Odoo-Projekte".\
+Gemäss Mint System "Vorgehensmodell für Beratungsprojekte".\
+Gemäss Mint System "Vorgehensmodell Softwareentwicklung".\
+Gemäss Mint System "Vorgehensmodell Hostingprojekte".
 
 Preis: 190 CHF pro Stunde
 
 ## Anforderungsanalyse
-
-![[odoo_icon_tool.png]]
 
 Umfasst diese Leistungen:
 
@@ -41,8 +32,6 @@ Preis: 180 CHF pro Stunde
 
 ## Software-Entwicklung
 
-![[odoo_icon_tool.png]]
-
 Umfasst folgende Dienstleistungen:
 
 - Requirements Engineering
@@ -52,8 +41,6 @@ Umfasst folgende Dienstleistungen:
 Preis: 180 CHF pro Stunde
 
 ## Odoo Implementierung
-
-![[odoo_icon_tool.png]]
 
 Umfasst folgende Dienstleistungen:
 
@@ -66,8 +53,6 @@ Preis: 180 CHF pro Stunde
 
 ## Geschäftsanalyse
 
-![[odoo_icon_people.png]]
-
 Umfasst diese Dienstleistungen:
 
 - Methodische Umsetzung des Beratungsprojekts
@@ -76,8 +61,6 @@ Umfasst diese Dienstleistungen:
 Preis: 180 CHF pro Stunde
 
 ## Datenmanagement
-
-![[odoo_icon_project.png]]
 
 Entwicklung Datenmodell
 Umfasst folgende Dienstleistungen:
@@ -97,8 +80,6 @@ Preis: 180 CHF pro Stunde
 
 ## System-Engineering
 
-![[odoo_icon_tool.png]]
-
 Umfasst folgende Dienstleistungen:
 
 - Odoo Customizing
@@ -115,15 +96,11 @@ Preis: 180 CHF pro Stunde
 
 ## Odoo Support
 
-![[icon_support.png]]
-
 Diese Dienstleistung steht Kunden mit einem aktiven [[Supportvertrag]] zur Verfügung. Wir bieten unverzüglich Unterstützung bei Problemen oder Unklarheiten im Umgang mit Odoo.
 
 Preis: 140 CHF pro Stunde
 
 ## Infomaniak Support
-
-![[icon_support.png]]
 
 Diese Dienstleistung steht Kunden mit einem aktiven [[Supportvertrag]] zur Verfügung. Wir bieten unverzüglich Unterstützung bei Problemen oder Unklarheiten im Umgang mit den Produkten von Infomaniak.
 

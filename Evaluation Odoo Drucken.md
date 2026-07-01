@@ -1,5 +1,4 @@
 ---
-title: Evaluation Odoo Drucken
 section: dev
 kind: explain
 ---

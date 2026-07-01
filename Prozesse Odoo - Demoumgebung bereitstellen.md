@@ -6,18 +6,21 @@ section: process
 
 Beschreibt wie man eine [[Odoo Demoumgebung]] bereitstellt.
 
-## Demoumgebung installieren
+## Demoumgebung erstellen
 
 Arbeitsschritte:
 
-- Definieren Domain `$NAME.14.odoo.build`
-- Installation Odoo mit [[Ansible Build]]
-- Konfiguration Mail-Server
-- Unternehmensdaten eintragen
-- Ausgewählte Module installieren und konfigurieren
-- Benutzer registrieren
-- Corporate Design umsetzen
-- Aktualisieren [[Demoumgebungen#Odoo]]
+- Aufrufen Odoo Build Url: `https://$ALIAS.$ODOO_VERSION.odoo.build`
+
+Beispiel: https://smart-me.19.odoo.build
+
+- Erstellen Odoo-Datenbank
+	- Odoo Master-Passwort aus Passwortmanager laden
+	- Datenbankname gleich `$ALIAS` eingeben
+	- E-Mail und Passwort gemäss Passwortmanager eingeben
+	- Sprache und Land von Kunde wählen
+- Initalisierung abwarten und einloggen 
+- Installation Konfigurations-Module `ir_mail_server_data` und `ir_mail_server_mailpit`
 
 ### Login Mint System konfigurieren
 

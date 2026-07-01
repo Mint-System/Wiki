@@ -5,6 +5,8 @@ kind: tutorial
 ---
 Dieses Tutorial erläutert die Arbeit mit [[Obsidian]]. Es ist in Abschnitten mit Leitfragen unterteilt.
 
+Aufzeichnung: <https://bbb.ch-open.ch/playback/presentation/2.3/be661e82181977837bf24c177f352a4faab2414e-1768204367544>
+
 ## Über
 
 > Was ist Obsidian?

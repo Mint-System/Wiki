@@ -6,25 +6,11 @@ section: policy
 
 ## Guidelines
 
-We following the [OCA Guidelines](https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst) .
-
-## Quality Assurance
-
-Here is check list before doing any commit:
-
-- The module can be installed without errors
-- The code of the module is linted
-- There are not typos in strings and texts
-- CI tests are passed
-- The readme file of the repo lists the module and its summary
-- There are no unnecessary files in the stage
-- Every string is translated
-- No copy paste of AI-code from the prompt
-- The module is tested in the UI
+Wir entwickeln gemäss den [[OCA Guidelines]].
 
 ## Testing
 
-Writing tests is welcomed, but [[Odoo Module Test Instructions]] are sufficient.
+Das Minium an Testing ist die Erstellung von [[Odoo Module Test Instructions]].
 
 ## Namenskonventionen
 
@@ -49,6 +35,8 @@ Beispiel für Parameter zum Kopieren eines Feldes im Einkaufsvertrag: `purchase_
 Wenn Funktion überschrieben wird muss eine Kommentar in diesem Format hinzugefügt werden:
 
 ```python
-"""OVERWRITE: Funktionsbeschreibung"""
+"""
+OVERWRITE: Funktionsbeschreibung
+"""
 #OVERWRITE:
 ```

@@ -7,8 +7,6 @@ lang: en
 
 ## Software-Development
 
-![[odoo_icon_tool.png]]
-
 Includes the following services:
 
 - Requirements Engineering

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Qualität
 kind: howto
 section: process
 ---

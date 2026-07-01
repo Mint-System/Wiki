@@ -9,13 +9,19 @@ Identitäts-Anbieter der Mint System.
 
 Administration: <https://login.mint-system.ch/admin/>
 
-Weiterführende Links: [[Login mit login.mint-system.ch]]
+## HowTo
+
+### Account verwalten
+
+Wenn Sie ihren Benutzer verwalten möchten, rufen Sie den Link <https://login.mint-system.ch/auth/realms/mint-system.ch/account/> auf und loggen sich ein.
+
+Um das Passwort zurückzusetzen steht ihnen die entsprechende Aktion im Login-Dialog zur Verfügung.
 
 ## Realms
 
 Aktuell existieren die folgenden Realms:
 
-### mint-system.ch Realm
+### mint-system.ch
 
 Zur Erfassung des OAuth-Providers stehen diese Informationen zur Verfügung:
 

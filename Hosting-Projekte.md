@@ -2,6 +2,7 @@
 title: Hosting-Projekte
 kind: reference
 ---
+## Phasen
 
 Zur Umsetzung eines Hosting-Projekt können diese Phase angewendet werden:
 

@@ -25,7 +25,7 @@ Bahnhofplatz 1
 
 UID: CHE-150.248.608
 
-Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Accounts]], [[Governance]], [[Mint System Website]], [[Mint System GmbH - Mitarbeitende]], [[Interne Dienste]], [[Öffentliche Dienste]]
+Weiterführende Links: [[Mitgliedschaften]], [[Organisation]], [[Governance]], [[Mint System Website]], [[Mint System GmbH - Mitarbeitende]], [[Interne Dienste]], [[Öffentliche Dienste]]
 
 ## Schreibweise
 

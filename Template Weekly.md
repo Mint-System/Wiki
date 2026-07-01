@@ -24,11 +24,11 @@ if (plugin) {
 
 ## Wochenplanung
 
-| Manager | Assigned | Project                   | Comment |
+| Lead    | Co-Lead  | Project                   | Comment |
 | ------- | -------- | ------------------------- | ------- |
 | Janik   | Ulrich   | *Softwareentwicklung*     |         |
 
-## Dialog Geteilt
+## Dialog Allgemein
 
-## Dialog Privat
+## Dialog Bilateral
 ````

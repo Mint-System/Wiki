@@ -12,6 +12,7 @@ Stop the Docker service and containers.
 
 ```bash
 sudo systemctl stop docker
+sudo systemctl disable docker
 docker stop $(docker ps -aq)
 ```
 
@@ -51,7 +52,8 @@ sudo mv /var/lib/docker/ /var/lib/docker.old
 Restart the Docker deamon.
 
 ```bash
-sudo systemctl restart docker
+sudo systemctl start docker
+sudo systemctl enable docker
 ```
 
 Test containers are running.

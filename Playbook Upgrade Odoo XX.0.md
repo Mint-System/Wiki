@@ -12,9 +12,9 @@ The playbook supports two modes: **test** and **production**. When executing the
 Copy the production database to the upgrade environment. 
 
 ```bash
-task upgrade-odoo acme dump
-task upgrade-odoo acme filestore
-task upgrade-odoo acme drop
+task upgrade-odoo acme dump-database
+task upgrade-odoo acme dump-filestore
+task upgrade-odoo acme drop-database
 ```
 
 ## Upgrade ⬆️
@@ -28,7 +28,6 @@ task upgrade-odoo acme init
 task upgrade-odoo acme uninstall
 task upgrade-odoo acme update
 task upgrade-odoo acme configure-test
-task upgrade-odoo acme restart
 ```
 
 Run the **production** upgrade.
@@ -41,7 +40,7 @@ task upgrade-odoo acme init
 task upgrade-odoo acme uninstall
 task upgrade-odoo acme update
 task upgrade-odoo acme configure-production
-task upgrade-odoo acme restart
+
 ```
 
 If **production** then replace the Ansible prod host with the upgrade host vars. Update the Nginx proxy configuration.
@@ -49,7 +48,8 @@ If **production** then replace the Ansible prod host with the upgrade host vars.
 
 Open in browser and login.
 
-```
+```bash
+task upgrade-odoo acme restart
 task upgrade-odoo acme browse
 ```
 
@@ -72,7 +72,7 @@ If **production** mode run the "click everywhere" action.
 Rename the databases and filestore if **production** mode.
 
 ```bash
-task upgrade-odoo acme rename-production
+task upgrade-odoo acme rename-target
 ```
 
 Run the Ansible Odoo playbook with the new configuration.

@@ -19,4 +19,5 @@ Dokumentation der Finanz-Prozesse.
 - [[Prozesse Finanzen - Personalabrechnung]]
 - [[Prozesse Finanzen - Kostenrechnung]]
 - [[Prozesse Finanzen - Spesenabrechnung]]
-- [[Prozesse Finanzen - Mehrwertsteuerabrechnung]]
+- [[Prozesse Finanzen - Mehrwertsteuer]]
+- [[Prozesse Finanzen - Kreditkarte]]

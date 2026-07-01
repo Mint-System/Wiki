@@ -1,10 +1,9 @@
 ---
-title: Prozesse Odoo - App eLearning
 kind: howto
 section: process
 ---
 
-Installation Modul eLearning `website_slides`
+Installation Modul eLearning `website_slides`.
 
 ## Installation
 

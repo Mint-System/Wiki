@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App IoT
 kind: howto
 section: process
 ---

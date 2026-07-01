@@ -29,7 +29,7 @@ kind: reference
 | [[Vorlage Interviews Gap-Analyse]]           |
 | [[Vorlage Konzept]]                          |
 | [[Vorlage Phase]]                            |
-| [[Vorlage Prozesse Odoo]]                    |
+| [[Vorlage Prozesse Odoo - App]]                    |
 | [[Vorlage Spezifikation Applikations-Modul]] |
 | [[Vorlage Test Cases]]                       |
 | [[Vorlage Troubleshooting]]                  |

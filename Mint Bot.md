@@ -11,8 +11,8 @@ Der Bot Mint System ist automatisierter Benutzer-Account. Er wird verwendet um E
 **GitHub**: <https://github.com/bot-mintsys>\
 **GitLab**: <https://gitlab.com/mint-bot>\
 **Email**: bot@mint-system.ch\
-**Benutzername**: bot\
-**Beschreibung**: I help the Mint System GmbH
+**Benutzername**: bot,mint-bot\
+**Beschreibung**: I help the Mint System GmbH.
 
 ## SSH
 

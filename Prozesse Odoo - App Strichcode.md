@@ -1,10 +1,9 @@
 ---
-title: Prozesse Odoo - App Strichcode
 kind: howto
 section: process
 ---
 
-Installation Module Strichcode `stock_barcode`
+Installation Module Strichcode `stock_barcode`.
 
 ## Installation
 

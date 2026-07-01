@@ -12,12 +12,11 @@ Arbeitsschritte:
 
 - Lizenzierung festlegen: Community oder Enterprise
 - [[Odoo Hosting]] definieren
-- Schätzung Aufwand für Customizations
-- Daten speichern in Projektordner
+- Zusammenstellen Kontaktinformationen:
   - Kontakt Kunde
   - Unternehmen mit MWST
   - Hosting-Modell Daten
-  - Liste der Apps gemäss [https://www.odoo.com/pricing](https://www.odoo.com/pricing)
+  - Anzahl Benutzer
 - Angebot von [[Odoo S.A.]] erstellen lassen
 
 ## Mint System Angebot erstellen

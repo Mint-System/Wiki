@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Lager
 kind: howto
 section: process
 ---

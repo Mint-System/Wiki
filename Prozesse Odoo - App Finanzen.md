@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - App Finanzen
 kind: howto
 section: process
 ---

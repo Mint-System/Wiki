@@ -7,7 +7,9 @@ draft: false
 
 Hier entstehen neue Blog-Posts:
 
-[[So gelingt das Odoo Upgrade]]
+[[KI-Arbeitsumgebungen für Mitarbeitende]]
+[[Odoo und Data Science]]\
+[[So gelingt das Odoo Upgrade]]\
 [[Mythen über Open Source]]\
 [[Zahlen zum Unternehmen]]\
 [[Wir sind Odoo Silberpartner]]\

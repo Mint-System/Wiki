@@ -8,8 +8,7 @@ section: process
 
 Arbeitsschritte:
 
-- [[VSCodium]] oder [[VSCode]] öffnen
-- _Terminal > New Terminal_ wählen
+- Terminal starten
 - Befehl eingeben:
 
 ```console
@@ -21,16 +20,15 @@ git config --global user.email kurt.gisler@mint-system.ch
 
 Arbeitsschritte:
 
-- Einloggen auf GitHub für öffentliche Repositories
-- Einloggen auf [[GitLab]] für private Repositories
-- Erstellen Repository mit Typ-Prefix
+- Einloggen auf [[GitHub|GitHub]] für öffentliche Repositories
+- Einloggen auf [[Git Mint System]] für private Repositories
+- Erstellen Repository
 
 ## Synchronisierungskonflikt beheben
 
 Arbeitsschritte:
 
-- Das Projekt in [[VSCodium]] oder [[VSCode]] öffnen
-- _Terminal > New Terminal_ wählen
+- Terminal öffnen und in das Projekt navigieren
 - Befehl `git reset --hard HEAD` eingeben (lokale Änderungen gehen verloren)
 - Nach Bedarf den letzten commit löschen `git reset HEAD^`
 - Von Remote Repository aktualisieren mit `git pull`

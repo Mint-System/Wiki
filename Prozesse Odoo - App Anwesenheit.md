@@ -1,10 +1,9 @@
 ---
-title: Prozesse Odoo - App Anwesenheit
 kind: howto
 section: process
 ---
 
-Installation Modul Anwesenheit (hr_attendance)
+Installation Modul Anwesenheit `hr_attendance`.
 
 ## Installation
 

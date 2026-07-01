@@ -1,5 +1,4 @@
 ---
-title: Odoo Connector
 kind: explain
 section: communication
 website: https://odoo-connector.com/

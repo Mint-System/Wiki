@@ -11,11 +11,9 @@ Infomaniak Domains:
 
 ## Einleitung
 
-Bildung für Alle.
-
-Bildung muss frei verfügbar sein.
-
-Frei verfügbare Bildung heisst für uns:
+> Bildung für Alle.
+> Bildung muss frei verfügbar sein.
+> Frei verfügbare Bildung heisst für uns:
 
 Freie Lern- und Lehrmaterialien. Materialien für den Unterricht mit einer offenen Lizenz (Open Educational Resources).
 Der Zugang zu freien Inhalten muss für Bildungsinstitute, Lehrer, Schüler, Studenten und lebenslang Lernende kostenlos möglich sein. Die freien Inhalte sollen unter Verwendung von offenen Standards und Formaten so gestaltet werden, dass Sie einfach wiederzuverwenden sind.

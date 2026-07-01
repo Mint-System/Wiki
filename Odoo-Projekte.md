@@ -3,7 +3,7 @@ title: Odoo-Projekte
 kind: reference
 ---
 
-## [[Phasen]]
+## Phasen
 
 Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 
@@ -25,7 +25,7 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 - [[Phase Datenmigration]]
 - [[Phase Odoo Upgrade]]
 - [[Phase Terminal Zeiterfassung]]
-- [[Phase Odoo Berichte]]
+- [[Phase Berichte]]
 - [[Phase Odoo Transfer]]
 - [[Phase Social Login]]
 - [[Phase Microsoft Login]]
@@ -44,9 +44,9 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 - [[Phase Einkauf]]
 - [[Phase E-Mail-Marketing]]
 - [[Phase Fertigung]]
-- [[Phase Finanzen]]
-- [[Phase Finanzen Budget]]
-- [[Phase Finanzen Vermögensverwaltung]]
+- [[Phase Buchhaltung]]
+- [[Phase Buchhaltung Budget]]
+- [[Phase Buchhaltung Vermögensverwaltung]]
 - [[Phase Inventur]]
 - [[Phase Kontakte]]
 - [[Phase Knowledge]]
@@ -80,14 +80,4 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 - [[Phase Odoo Entwicklung]]
 - [[Phase Odoo Entwicklung Extern]]
 - [[Phase Entwicklung Website Theme]]
-
-## [[Prozesse]]
-
-Zur Umsetzung eines Odoo-Projekt werden die folgenden Prozesse angwendet:
-
-- [[Prozesse Akquise - Kontaktaufnahme]]
-- [[Prozesse Akquise - Odoo Testumgebung erstellen]]
-- [[Prozesse Akquise - Präsentation]]
-- [[Prozesse Akquise - Anforderungsanalyse]]
-- [[Prozesse Projektmanagement - Konzept]]
-- [[Prozesse Akquise - Angebot erstellen]]
+- [[Phase Coaching Odoo Entwicklung]]

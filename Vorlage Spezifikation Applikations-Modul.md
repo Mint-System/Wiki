@@ -3,48 +3,38 @@ kind: reference
 section: template
 ---
 
-Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereich müssen in der Spezifikation berücksichtigt werden:
+Die Entwicklung von Odoo Modulen erfordert eine exakte Spezifikation. Die folgenden Bereiche müssen in der Spezifikation berücksichtigt werden:
 
 - **[[#Beschreibung]]**: Beschreibung der Modul-Funktion.
-- **[[#User Stories]]**: Handlungen aus Sicht des Benutzers
 - **[[#Rahmenbedingungen]]**: Allgemeine Bestimmungen für die Entwicklung
 - **[[#Abhängigkeiten]]**: Liste der Modul-Abhängigkeiten
-- **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
+
+Wenn das Modul bestehende Definition erweitert, fügen Sie diese Abschnitte hinzu:
+
 - **[[#Bestehende Felder]]**: Spezifikation für bestehende Odoo Ansichten
-- **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
-- **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
-- **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
-- **[[#Neue Konfiguration]]**: Spezifkation für neues Feld in Einstellungen
-- **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
 - **[[#Bestehende Ansichten]]**: Anpassungen auf Ansichten
+- **[[#Bestehende Aktionen]]**: Spezifikation zur Anpassung einer bestehenden Odoo Aktion
+- **[[#Bestehende Klassen]]**: Vererbung und Erweiterung von Odoo Modellen
+
+Falls das Modul neue Definitionen macht, dann verwenden Sie diese Vorlagen:
+
+- **[[#Neue Felder]]**: Spezifikation für neue Felder auf Odoo Ansichten
+- **[[#Neue Aktionen]]**: Spezifikation für eine neue Odoo Aktion
+- **[[#Neue Suchfelder und Filter]]**: Spezifikation für neue Filter auf Odoo Ansichten
+- **[[#Neue Konfiguration]]**: Spezifikation für neues Feld in Einstellungen
 
 ## Beschreibung
 
-Technischer Name: `account_currency_communication`\
-
-Dieses Odoo Modul erlaubt die Konfiguration des Kommunikations-Standards auf der Währung. Abhäning davon welche Währung für die Rechnung verwendet wird.
-
-## User Stories
-
-Die User Stories erläutern den Anwendungsfall aus Sicht des Benutzers. Dazu zwei Beispiele:
-
-### Skonto auf Rechnung erfassen
-
-1. Der Benutzer erstellen eine Lieferantenrechnung und wählt im Feld _Zahlungsbediungen Skonto_ den Eintrag "10 Tage / 10%" aus.
-2. Er sieht dass das Feld _Fälligkeit Skonto_ entsprechend angepasst wurde (Rechnungsdatum + 10 Tage). Nun überschreibt er das Feld mit -1 Tag.
-3. Nun wählt der Benutzer _Aktion > Skonto aktualiseren_.
-4. Der Benutzer sieht, dass eine neue Rechnungszeile gemäss Einstellungen und Zahlungsbedingung hinzugefügt wurde und der Rechnungsbetrag korrekt angepasst wurde.
-
-### Lieferantenzahlungen mit Skonto bezahlen
-
-1. Am Donnerstag zeigt der Benutzer die Lieferantezahlungen an und sortiert nach Fälligkeit Skonto.
-2. Er wählt den Filter _Rechnungen ohne Skontozeile_, markiert die aufgelistet Rechungen und wählt Aktion > Skonto aktualisieren.
-3. Er entfernt den Filter und markiert alle Lieferantenrechnungen zur Zahlung.
-4. Der Benutzer wählt _Aktion > Zahlung erfassen_.
+Titel: Account Currency Communication
+Name: `account_currency_communication`\
+Version: 19.0
+Repo: Account-Invoicing
+Lizenz: AGPL-1
+Beschreibung: Dieses Odoo Modul erlaubt die Konfiguration des Kommunikations-Standards auf der Währung. Abhängig davon welche Währung für die Rechnung verwendet wird.
 
 ## Rahmenbedingungen
 
-Auswahl an Rahmenbedigungen, die bei der Entwicklung berücksichtigt werden müssen:
+Auswahl an Rahmenbedingungen, die bei der Entwicklung berücksichtigt werden müssen:
 
 ### Open Source
 
@@ -52,33 +42,23 @@ Entwicklung wird auf <https://github.com/mint-System/odoo-apps-account-Invoicing
 
 ### Übersetzung
 
-Die Entwicklung des Moduls erfolgt auf Englisch. Es soll eine Übersetzung für die Sprache Deutsch (de_CH) angelegt werden.
+Die Entwicklung des Moduls erfolgt auf Englisch. Es muss eine Deutsch Übersetzung (de) angelegt werden.
 
 ## Abhängigkeiten
 
 Das Modul hängt von den folgenden Modulen ab:
 
-| Name                 | Technischer Name       | Beschreibung                                            |
-| -------------------- | ---------------------- | ------------------------------------------------------- |
-| Sale Start End Dates | `sale_start_end_dates` | Fügt dem Verkaufsauftrag ein Start- und Enddatum hinzu. |
-
-## Neue Felder
-
-| Name             | Technischer Name                             | Modell             | Beschreibung                        |
-| ---------------- | -------------------------------------------- | ------------------ | ----------------------------------- |
-| Rechnungsadresse | `partner_invoice_id = many2one: res.partner` | sale.blanket.order | Rechnungsadresse für Rahmenaufträge |
-
-### Rechnungsadresse
-
-Wird die Aktion _Verkaufsauftrag Erstellen_ ausgewählt, wird die Rechnungsadresse an den Verkaufsauftrag auf das Feld `partner_invoice_id` übertragen.
+| Titel                | Name                 | Beschreibung                                            |
+| -------------------- | -------------------- | ------------------------------------------------------- |
+| Sale Start End Dates | sale_start_end_dates | Fügt dem Verkaufsauftrag ein Start- und Enddatum hinzu. |
 
 ## Bestehende Felder
 
 ### Zustand
 
-| Name    | Technischer Name    | Modell             |
-| ------- | ------------------- | ------------------ |
-| Zustand | `state (selection)` | sale.blanket.order |
+| Label   | Name  | Typ       | Modell             |
+| ------- | ----- | --------- | ------------------ |
+| Zustand | state | selection | sale.blanket.order |
 
 Der Zustand des Rahmenauftrags soll auf vier Stufen umgesetzt werden:
 
@@ -88,44 +68,14 @@ Der Zustand des Rahmenauftrags soll auf vier Stufen umgesetzt werden:
 - Abgelaufen
 
 Der Zustand _Angebot gesendet_ verwendet die Aktion _Angebot versenden_.
-
-## Neue Aktionen
-
-### Per E-Mail Versenden
-
-| Name                 | Technischer Name    | Modell             | Beschreibung                         |
-| -------------------- | ------------------- | ------------------ | ------------------------------------ |
-| Per E-Mail Versenden | `action_order_send` | sale.blanket.order | Rahmenauftrag als Angebot versenden. |
-
-Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
-
-## Bestehende Aktion
+## Bestehende Aktionen
 
 ### Buchen
 
-| Name   | Technischer Name | Modell       |
-| ------ | ---------------- | ------------ |
-| Buchen | `action_post`    | account.move |
+Name: `action_post`\
+Modell: account.move
 
 Beim Buchen soll die Zahlungsreferenz einer Kundenrechnung anhand dem festgelegt Kommunkations-Standard auf der Währung der Rechnung generiert werden.
-
-## Neue Suchfelder und Filter
-
-### Rechnungsadresse
-
-| Name             | Ansicht                    | Beschreibung                      |
-| ---------------- | -------------------------- | --------------------------------- |
-| Rechnungsadresse | `sale.view_quotation_tree` | Feld steht in Suche zur Verfügung |
-
-## Neue Konfigurationen
-
-### Skonto-Produkt
-
-| Name           | Technischer Name      | Beschreibung                                  |
-| -------------- | --------------------- | --------------------------------------------- |
-| Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
-
-Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
 
 ## Bestehende Ansichten
 
@@ -146,3 +96,46 @@ Die Formularansicht der Projektaufgabe zeigt einen Smart-Button mit Anzahl der v
 | Klasse                 | Funktionsname | Beschreibung                                               |
 | ---------------------- | ------------- | ---------------------------------------------------------- |
 | StockBarcodeController | `main_menu`   | Die Funktion soll auch den Arbeitsauftrag anzeigen können. |
+## Neue Felder
+
+| Label            | Name               | Typ                  | Modell             | Beschreibung                         |
+| ---------------- | ------------------ | -------------------- | ------------------ | ------------------------------------ |
+| Rechnungsadresse | partner_invoice_id | many2one res.partern | sale.blanket.order | Rechnungsadresse für Rahmenaufträge. |
+
+### Rechnungsadresse
+
+Wird die Aktion _Verkaufsauftrag Erstellen_ ausgewählt, wird die Rechnungsadresse an den Verkaufsauftrag auf das Feld `partner_invoice_id` übertragen.
+
+## Neue Aktionen
+
+### Per E-Mail Versenden
+
+Name: `action_order_send`\
+Modell: sale.blanket.order
+
+Beim wählen der Aktion wird der E-Mail-Versenden-Dialog geöffnet. Der Rahmenauftrag ist als PDF im Anhang verfügbar. Das E-Mail kann an den Kunden verschickt werden.
+
+## Neue Ansichten
+
+### Formular Lot Rental
+
+Das ist die Formular-Ansicht von "Stock Lot Rental". Die Felder können bearbeitet und gespeichert werden.
+
+## Neue Suchfelder und Filter
+
+### Rechnungsadresse
+
+| Label            | Ansicht                    | Beschreibung                      |
+| ---------------- | -------------------------- | --------------------------------- |
+| Rechnungsadresse | `sale.view_quotation_tree` | Feld steht in Suche zur Verfügung |
+
+## Neue Konfigurationen
+
+### Skonto-Produkt
+
+| Label          | Technischer Name      | Beschreibung                                  |
+| -------------- | --------------------- | --------------------------------------------- |
+| Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
+
+Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
+

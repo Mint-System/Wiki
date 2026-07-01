@@ -8,6 +8,15 @@ Regelt die Art und Weise wie wir kommunizieren.
 
 Wir unterscheiden zwischen interner und externer Kommunikation.
 
+Vertrauliche Informationen dürfen nur über freigegebene Kommunikationskanäle ausgetauscht werden.
+
+Es gelten folgende Grundsätze:
+
+- keine Passwörter oder Secrets per E-Mail oder Chat versenden
+- unbekannte Anhänge und Links nicht unüberlegt öffnen
+- projektbezogene Kommunikation nachvollziehbar im vorgesehenen System führen
+- vertrauliche Informationen nur an berechtigte Empfänger senden
+
 ## Instant Messaging
 
 Für die interne Kommunikation verwenden wir den Odoo Dialog und die folgenden Kanäle:
@@ -33,3 +42,4 @@ Der Projektbezogenen-Austausch muss für alle beteiligten nachvollziehbar sein. 
 ## Matrix
 
 Wir haben einen [[Chat Mint System]] im Einsatz. Der Server bietet Raum zur Kommunikation mit der Open-Source-Community. 
+

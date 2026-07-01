@@ -5,6 +5,10 @@ kind: tutorial
 
 Du lernst wie man mit Odoo Projekt und Zeiterfassung arbeitet.
 
+Aufzeichnung Teil 1: <https://bbb.ch-open.ch/playback/presentation/2.3/be661e82181977837bf24c177f352a4faab2414e-1772437803706>
+
+Aufzeichnung Teil 2: <https://bbb.ch-open.ch/playback/presentation/2.3/be661e82181977837bf24c177f352a4faab2414e-1773043026042>
+
 ## Über
 
 Als Unternehmen leisten wir grösstenteils Projektarbeit.

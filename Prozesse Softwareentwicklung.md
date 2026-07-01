@@ -5,9 +5,9 @@ kind: reference
 section: process
 ---
 
-Dokumentation der Softwareentwicklungs-Prozesse.
+Dokumentation der Softwareentwicklung-Prozesse.
 
-- [[Prozesse Softwareentwicklung - Technische Spezifikation]]
+- [[Prozesse Softwareentwicklung - Spezifikation]]
 - [[Prozesse Softwareentwicklung - Git-Repository]]
 - [[Prozesse Softwareentwicklung - Odoo Module]]
 - [[Prozesse Softwareentwicklung - Odoo Image]]

@@ -5,81 +5,37 @@ kind: reference
 lang: en
 ---
 
-See migration guide for details:
+The OCA has a migration guide for every major version.
 
 - [Migration to version 16.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-16.0)
 - [Migration to version 17.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-17.0)
 - [Migration to version 18.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0)
 - [Migration to version 19.0](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-19.0)
 
+This document show how to a module migration happens with the help of [[Odoo Build]].
 ## Prepare
 
 Set env vars.
 
 ```bash
-export ODOO_CURRENT_VERSION=16.0
-export ODOO_TARGET_VERSION=17.0
-export REPO=purchase-workflow
-export MODULE=purchase_order_owner
-export USER_ORG=Mint-System
+source_version=18.0
+target_version=19.0
+repo=account-analytic
+module=product_analytic
+user_org=Mint-System
 ```
-
-Fork the original repo to the user/org by opening the url:
-
-```bash
-echo "https://github.com/OCA/$REPO/fork"
-```
-
-Make sure to fork all branches.
-
-Prepare repo for migration.
-
-```bash
-cd ~/Odoo-Build
-task checkout "$ODOO_TARGET_VERSION"
-```
-
-Das OCA-Repo als Submodule hinzufügen.
-
-```bash
-task add-git-folder "git@github.com:OCA/$REPO.git" "oca/$REPO"
-```
-
-Activate venv and navigate into the repo.
-
-```bash
-source task source
-cd "oca/$REPO"
-```
-
 ## Migrate
 
-Create the migration branch.
+Prepare the migration branch for the module.
 
 ```bash
-git checkout -b "$ODOO_TARGET_VERSION-mig-$MODULE" "origin/$ODOO_TARGET_VERSION"
-git format-patch --keep-subject --stdout origin/$ODOO_TARGET_VERSION..origin/$ODOO_CURRENT_VERSION -- $MODULE | git am -3 --keep
+task prepare-migration-brach "$repo" "$module" "$source_version"
 ```
 
-Run pre commit checks.
+Migrate the module.
 
 ```bash
-pre-commit run -a
-```
-
-Resolve the pre-commit issues.
-
-Commit the pre commit checks.
-
-```bash
-git add -A
-git commit -m "[IMP] $MODULE: pre-commit stuff"  --no-verify
-```
-
-Start the Odoo environment and install the module.
-
-```bash
-task init-module "oca/$REPO/$MODULE"
+task migrate-module "$repo/$module"
 ```
 
 Follow migration guide to update the module:
@@ -89,27 +45,46 @@ Follow migration guide to update the module:
 - [Migration to verison 18.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-18.0#tasks-to-do-in-the-migration)
 - [Migration to verison 19.0 - Tasks to do in the migration](https://github.com/OCA/maintainer-tools/wiki/Migration-to-version-19.0#tasks-to-do-in-the-migration)
 
+Start the Odoo environment and install the module.
+
+```bash
+task init-module "oca/$repo/$module"
+```
+
+Run the module tests.
+
+```bash
+task test-module "oca/$repo/$module"
+```
+
+Commit the migration.
+
+```bash
+task run-pre-commit "oca/$repo"
+task status-git-folder "oca/$repo"
+task stage-git-folder "oca/$repo"
+task commit-git-folder "oca/$repo" "[MIG] $module: Migration to $target_version"
+```
+
 ## Submit
 
-Finalize the migration.
+Push to remote.
 
 ```bash
-git add --all
-git commit -m "[MIG] $MODULE: Migration to $ODOO_TARGET_VERSION"
+git push "${user_org:l}"
 ```
 
-Set remote and push.
+Create a pull request
 
 ```bash
-git remote add "$USER_ORG" "git@github.com:$USER_ORG/$REPO.git"
-git push "$USER_ORG" "$ODOO_TARGET_VERSION-mig-$MODULE" --set-upstream
-```
-
-Follow the link on the command line and submit the pull request.
-
-```bash
-echo -e "Title:\n[$ODOO_TARGET_VERSION][MIG] $MODULE: Migration to $ODOO_TARGET_VERSION"
-echo -e "Description:\nStandard migration from $ODOO_CURRENT_VERSION to $ODOO_TARGET_VERSION."
+gh repo set-default origin
+gh pr create \
+  --repo "OCA/${repo}" \
+  --head "${user_org}:${target_version}-mig-${module}" \
+  --base "${target_version}" \
+  --title "[${target_version}][MIG] ${module}: Migration to ${target_version}" \
+  --body "Standard migration from ${source_version} to ${target_version}." \
+  --web
 ```
 
 Once submitted check the runboat checks.
