@@ -1,11 +1,8 @@
 ---
-title: Kreis Infrastruktur
 kind: explain
 section: organisation
 ---
 
-Verantwortlich: [[Janik von Rotz]]
+Der Kreis Infrastruktur beinhaltet diese Rollen:
 
-Rollen haben werden von Personen getragen und haben 
-
-- [[Rolle SystemadministratorIn]]
+- [[Rolle Systemadministratorin]]
