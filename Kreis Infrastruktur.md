@@ -5,4 +5,4 @@ section: organisation
 
 Der Kreis Infrastruktur beinhaltet diese Rollen:
 
-- [[Rolle Systemadministratorin]]
+- [[Rolle Systemadministrator-in]]
