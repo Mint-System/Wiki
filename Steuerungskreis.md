@@ -29,3 +29,4 @@ In Kreisen sind diese Rollen definiert:
 - [[Rolle Odoo Upgrade Expert-in]]
 - [[Rolle Odoo Projektleiter-in]]
 - [[Rolle Software-Tooling Expert-in]]
+- [[Rolle Partner Manager-in]]
