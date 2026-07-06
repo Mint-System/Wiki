@@ -1,6 +1,4 @@
 ---
-title: Prozesse Projektmanagement
-responsible: Kurt Gisler
 kind: reference
 section: process
 ---

@@ -1,6 +1,4 @@
 ---
-title: Prozesse Finanzen - Ausgangsrechnungen
-responsible: Controller
 kind: howto
 section: process
 ---

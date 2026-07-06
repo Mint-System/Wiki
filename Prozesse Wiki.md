@@ -1,6 +1,4 @@
 ---
-title: Prozesse Wiki
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---
