@@ -23,3 +23,7 @@ Dokumentation der Akquise Prozesse.
 
 - [[Prozesse Akquise - Angebot erstellen]]
 - [[Prozesse Akquise - Konzept erstellen]]
+
+## Kundenpflege
+
+* [[Prozesse Akquise - Statustelefonat]]
