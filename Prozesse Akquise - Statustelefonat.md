@@ -21,5 +21,4 @@ Gibt es neue Herausforderungen?
 Können wir helfen?
 ```
 
-
 - Aktivität erledigen und Folge-Aktivtät _Statustelefonat_ festlegen 
