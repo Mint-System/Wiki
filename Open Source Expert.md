@@ -1,5 +1,4 @@
 ---
-title: Open Source Expert
 section: organisation
 kind: explain
 ---

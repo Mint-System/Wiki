@@ -1,10 +1,7 @@
 ---
-title: Odoo Accounting Specialist
 section: organisation
 kind: explain
 ---
-
-
 
 Schritt 1: Bewerbung prüfen
 

@@ -1,5 +1,4 @@
 ---
-title: Chief Operating Officer
 kind: explain
 section: organisation
 ---
@@ -24,9 +23,9 @@ Als Open Source Expert akquirierst du eigenständig Projekte, erstellst Angebote
 
 ## Über dich
 
-Du hast einen Hintergrund in der **operativen Geschäftsleitung**. Du kennst die Bedeutung und Wichtigkeit einer Management-Software im Unternehmen. Du hast Führungsqualitäten und KnowHow in der Geschäftsführung. Du weisst was heisst Personal-Ressourcen aufzubauen und zu koordinieren.
+Du hast einen Hintergrund in der **operativen Geschäftsleitung**. Du kennst die Bedeutung und Wichtigkeit einer Management-Software im Unternehmen. Du hast Führungsqualitäten und Know-how in der Geschäftsführung. Du weisst was es heisst Personal-Ressourcen aufzubauen und zu koordinieren.
 
-Du kennst verschiedene Produkte und Technologien nicht nur beim Namen, sondern weisst welche **Konzepte** sich dahinter verbergen und wie Unternehmen davon profitieren.
+Du kennst verschiedene Produkte und Technologien nicht nur beim Namen, sondern versteht welche **Konzepte** sich dahinter verbergen und wie Unternehmen davon profitieren.
 Bei der Mint System bist du ein Mitglied der Geschäftsleitung und hast alle Kompetenzen um die Firma aktiv zu gestalten.
 
 ## So geht's weiter

@@ -14,7 +14,8 @@ Stellen werden hier ausgeschrieben:
 
 [[Support Engineer]]\
 [[Open Source Expert]]\
-[[Chief Operating Officer]]
+[[Chief Operating Officer]]\
+[[Marketing-Kommunikation & Verkauf]]
 
 ## Anforderungen, Aufgaben, Kompetenzen
 

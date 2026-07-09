@@ -1,5 +1,4 @@
 ---
-title: Support Engineer
 kind: explain
 section: organisation
 ---
