@@ -1,6 +1,4 @@
 ---
-title: Prozesse Softwareentwicklung
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---

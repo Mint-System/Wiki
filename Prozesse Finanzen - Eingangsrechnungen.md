@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Eingangsrechnungen
 kind: howto
 section: process
 ---

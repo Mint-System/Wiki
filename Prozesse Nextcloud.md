@@ -1,6 +1,4 @@
 ---
-title: Prozesse Nextcloud
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---

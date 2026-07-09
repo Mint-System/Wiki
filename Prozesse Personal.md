@@ -1,6 +1,4 @@
 ---
-title: Prozesse Personal
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---

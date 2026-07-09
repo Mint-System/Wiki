@@ -1,4 +1,0 @@
----
-kind: explain
-section: organisation
----

@@ -14,7 +14,7 @@ Dokumentation der Finanz-Prozesse.
 - [[Prozesse Finanzen - Abstimmen]]
 ## Abrechnung
 
-- [[Prozesse Finanzen - Ausgangsrechnungen]]
+- [[Prozesse Finanzen - Abrechnung]]
 - [[Prozesse Finanzen - Eingangsrechnungen]]
 - [[Prozesse Finanzen - Personalabrechnung]]
 - [[Prozesse Finanzen - Kostenrechnung]]

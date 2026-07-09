@@ -15,10 +15,6 @@ Nur interne Aufagben dürfen keine Auftragsposition haben.
 
 Es darf keine Support-Ticket ohne Aufragsposition geben.
 
-### Zeiterfassung pro Tag
-
-Zeiterfassungseinträge sollten immer eine Beschreibung haben.
-
 ### Angebote gruppiert nach interner Referenz
 
 Angebote müssen immer eine interne Referenz haben.
@@ -26,6 +22,10 @@ Angebote müssen immer eine interne Referenz haben.
 ### Keine Beschreibung
 
 Zeiterfassungseinträge ohne Beschreibung.
+
+### Zeiterfassung pro Woche
+
+In der Zeiterfassung sollte es keine Ausreisser geben.
 
 ## Dashboard Projekte
 

@@ -1,6 +1,4 @@
 ---
-title: Prozesse Beratung
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---

@@ -1,6 +1,4 @@
 ---
-title: Prozesse Dokumentenmanagement
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---

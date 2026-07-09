@@ -1,6 +1,4 @@
 ---
-title: Prozesse Infrastruktur
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---

@@ -1,6 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Business Requirement
-responsible: Projektleiter
 kind: howto
 section: process
 ---

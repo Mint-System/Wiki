@@ -1,6 +1,4 @@
 ---
-title: Ulrich Kilian
-responsible: Entwickler
 section: organisation
 kind: reference
 ---

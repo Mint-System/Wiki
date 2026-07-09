@@ -1,6 +1,4 @@
 ---
-title: Prozesse Migration
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---

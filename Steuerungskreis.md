@@ -1,21 +1,32 @@
 ---
-title: Steuerungskreis
-responsible: Kurt Gisler
 kind: explain
 section: organisation
 ---
 
 Übersicht der Kreise und Rollen
 
-Kreise haben einen Verantwortlichen und werden von Rollen besetzt.
+Der Steuerungskreis beinhaltet diese Kreise:
 
 - [[Kreis Infrastruktur]]
 
-Rollen:
+In Kreisen sind diese Rollen definiert:
 
-- [[Rolle NetzwerkerIn]]
-- [[Rolle Odoo EntwicklerIn]]
-- [[Rolle SystemadministratorIn]]
-- [[Rolle WissensmanagerIn]]
-- [[Rolle SupporterIn]]
-- [[Rolle Odoo Buchhaltung ExpertIn]]
+- [[Rolle Community Manager-in]]
+- [[Rolle Odoo Entwickler-in]]
+- [[Rolle Systemadministrator-in]]
+- [[Rolle Wissensmanager-in]]
+- [[Rolle Supporter-in]]
+- [[Rolle Odoo Buchhaltung Expert-in]]
+- [[Rolle Datenwissenschaftler-in]]
+- [[Rolle Buchhalter-in]]
+- [[Rolle Softwareentwickler-in]]
+- [[Rolle Blogger-in]]
+- [[Rolle Geschäftsführer-in]]
+- [[Rolle Technischer Leiter-in]]
+- [[Rolle Odoo HR Spezialist-in]]
+- [[Rolle Odoo MRP Spezialist-in]]
+- [[Rolle Kubernetes Integrator-in]]
+- [[Rolle Odoo Upgrade Expert-in]]
+- [[Rolle Odoo Projektleiter-in]]
+- [[Rolle Software-Tooling Expert-in]]
+- [[Rolle Partner Manager-in]]

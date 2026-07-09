@@ -1,6 +1,4 @@
 ---
-title: Prozesse Support
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---

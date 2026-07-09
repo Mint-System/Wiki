@@ -1,6 +1,4 @@
 ---
-title: Prozesse Odoo.sh
-responsible: Janik von Rotz
 kind: reference
 section: process
 ---
