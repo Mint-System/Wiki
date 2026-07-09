@@ -3,6 +3,15 @@ title: Prozesse Softwareentwicklung - Spezifikation
 kind: howto
 section: process
 ---
+
+## Entity-Relationship-Model erstellen
+
+Arbeitsschritte:
+
+- In Nextcloud ein [[draw.io]] ein ERM-Diagramm erstellen
+- Entities und Attribute modellieren
+- Beziehungen zwischen Entities definieren
+
 ## User Stories erstellen
 
 Arbeitsschritte:

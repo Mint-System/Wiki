@@ -12,7 +12,7 @@ Ein ERM eignet sich insbesondere für konzeptionellen Phase einer Anwendungsentw
 
 ## Software
 
-Es gibt zahlreiche Programme um ERDs zu erstellen Wir empfehlen [[diagrams.net]]. Im Blog von diagrams.net / draw.io findet man eine ausgezeichnete Aneitung: [draw.io - Entity Relationship Diagrams with draw.io](https://drawio-app.com/entity-relationship-diagrams-with-draw-io/).
+Es gibt zahlreiche Programme um ERDs zu erstellen Wir empfehlen [[draw.io]]. Im Blog von diagrams.net / draw.io findet man eine ausgezeichnete Aneitung: [draw.io - Entity Relationship Diagrams with draw.io](https://drawio-app.com/entity-relationship-diagrams-with-draw-io/).
 
 ## Beispiel
 
@@ -20,7 +20,7 @@ Es gibt verschiedene Notationsarten für ERMs/ERDs. Als Orientierung haben wir e
 
 ![[Entity Relationship Modell Certificate Planner.png]]
 
-Es wurden folgende Empfehlungen angwendet:
+Es wurden folgende Empfehlungen angewendet:
 
 - Automatische Felder des Datenbanksystem grau einfärben
 - Die nummerische Notation für Beziehungen verwenden
