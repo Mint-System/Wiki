@@ -79,7 +79,6 @@ function review-notes() {
 }
 
 function install() {
-    pnpm approve-builds
     pnpm install
 }
 
