@@ -10,3 +10,4 @@ node_modules
 .obsidian/appearance.json
 src
 tmp
+pnpm-workspace.yaml

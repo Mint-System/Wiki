@@ -22,8 +22,6 @@ export default defineUserConfig({
     editLink: false,
     navbar: [
       { text: 'Home', link: '/' },
-      { text: 'Index', link: '/glossary' },
-      { text: 'Mint System', link: 'https://www.mint-system.ch/contact' },
       {
         text: 'Chat',
         link: 'https://matrix.to/#/#allgemein:mint-system.ch',

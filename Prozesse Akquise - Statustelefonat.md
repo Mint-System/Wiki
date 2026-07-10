@@ -9,7 +9,7 @@ section: process
 * An Kunde telefonieren
 * Fragen beantworten
 
-```
+```markdown
 Wie geht es?
 
 Wie läuft die Arbeit mit Odoo?
