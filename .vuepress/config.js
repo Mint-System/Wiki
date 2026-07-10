@@ -23,7 +23,7 @@ export default defineUserConfig({
     navbar: [
       { text: 'Home', link: '/' },
       { text: 'Index', link: '/glossary' },
-      { text: 'Mint System', link: 'https://www.mint-system.ch' },
+      { text: 'Mint System', link: 'https://www.mint-system.ch/contact' },
       {
         text: 'Chat',
         link: 'https://matrix.to/#/#allgemein:mint-system.ch',
@@ -34,13 +34,14 @@ export default defineUserConfig({
     md.use(markdownItMark)
   },
   plugins: [
-    // slimsearchPlugin({
-    //     indexContent: true,
-    //     suggestion: false
-    // }),
-    searchPlugin({
-      maxSuggestions: 10,
+    slimsearchPlugin({
+        indexContent: true,
+        suggestion: false,
+        sortStrategy: "total"
     }),
+    // searchPlugin({
+    //   maxSuggestions: 10,
+    // }),
     plausiblePlugin({
       domain: 'wiki.mint-system.ch',
     }),
