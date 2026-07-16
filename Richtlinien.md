@@ -61,6 +61,7 @@ Richtlinien der Mint System.
 
 - [[Richtlinie - Informationssicherheit]] 
 - [[Richtlinie - Cloud-Dienste]]
+- [[Richtlinie - Generative KI]]
 - [[Richtlinie - Datenlöschung und Entsorgung]]
 - [[Richtlinie - Identity und Access Management]]
 - [[Richtlinie - Klassifizierung von Informationen]]  
