@@ -14,8 +14,9 @@ Arbeitsschritte:
 - Entferne die Datenbank- und Backup-Konfiguration
 - Aktualisiere die Odoo-Konfiguration mit der Odoo-Revision
 - Passe den Odoo-Hostname so `odooXX-upgrade` an
-- Registriere den Host in `hosts.yml` und führe das Deployment durch.
-- Aktiviere die Proxy-Weiterleitung zur neuen Instanz.
+- Container-Name `odooXX$` in Backup-Job anpassen 
+- Registriere den Host in `hosts.yml` und führe das Deployment durch
+- Aktiviere die Proxy-Weiterleitung zur neuen Instanz
 
 ## Upgrade-Umgebungsvariablen erstellen
 
