@@ -51,6 +51,10 @@ Nach 2 Monat können erledigte Aufgaben archiviert werden.
 
 ## Dashboard Abonnemente
 
+## Beendete Abonnemente
+
+Archivieren oder reanimieren.
+
 ### Abonnemente nächste Abrechnung
 
 Laufende Abonnmente gruppiert nach Monat des nächsten Abrechnungsdatum.
