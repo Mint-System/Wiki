@@ -10,7 +10,7 @@ Infomaniak Domains:
 
 - odoo-wiki.ch
 
-Infomaniak Domains:
+Vercel Domains:
 
 - odoowiki.org
 - odoo-wiki.org
