@@ -68,19 +68,19 @@ d.template
 And views for this model.
 
 ```bash
-[main][~/Odoo-Build]$ task generate-module-views addons/sale_workflow/crm_lead_template crm.lead.template
+[main][~/Odoo-Build]$ task generate-module-view addons/sale_workflow/crm_lead_template crm.lead.template
 ```
 
 We will extend the `crm.lead` model as well.
 
 ```bash
-task generate-module-inherit addons/sale_workflow/crm_lead_template crm.lead
+task generate-module-inherit-model addons/sale_workflow/crm_lead_template crm.lead
 ```
 
 We need to update the `crm.crm_lead_view_form` form.
 
 ```bash
-[main][~/Odoo-Build]$ task generate-module-snippet addons/sale_workflow/crm_lead_template crm.crm_lead_view_form crm.lead
+[main][~/Odoo-Build]$ task generate-module-inherit-view addons/sale_workflow/crm_lead_template crm.crm_lead_view_form crm.lead
 ```
 
 Don't forget about the security rules.

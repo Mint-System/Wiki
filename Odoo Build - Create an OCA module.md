@@ -118,8 +118,8 @@ class IrCron(models.Model):
 Generate views and snippet.
 
 ```bash
-task generate-module-views oca/server-tools/cron_log ir.cron.execution
-task generate-module-snippet oca/server-tools/cron_log base.ir_cron_view_form
+task generate-module-view oca/server-tools/cron_log ir.cron.execution
+task generate-module-inherit-view oca/server-tools/cron_log base.ir_cron_view_form
 ```
 
 Update the views files.
