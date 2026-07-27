@@ -81,9 +81,6 @@ Verkaufsaufträge die nicht mehr zu Abrechnung erscheinen sollen.
 
 Kundenrechnungen, die das Fälligkeitsdatum überschritten haben.
 
-### Offene Eingangsrechnungen
-
-Eingangsrechnung im Status Entwurf oder im Zahlungsstatus Unbezahlt.
 ## Dashboard Support
 
 ### Tickets nicht zugewiesen
