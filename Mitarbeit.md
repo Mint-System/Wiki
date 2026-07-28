@@ -18,6 +18,7 @@ Die folgenden Dateien gehören zum Obsidian Projekt:
 * [[Begriffe.base]]
 * [[Blog.base]]
 * [[Dienstleistung.base]]
+* [[Draft Entries.base]]
 * [[Handbücher.base]]
 * [[Hardware.base]]
 * [[Lieferanten.base]]
@@ -41,7 +42,9 @@ Die folgenden Dateien gehören zum Obsidian Projekt:
 * [[Übersicht.base]]
 * [[Unternehmen.base]]
 * [[Vorlagen.base]]
-* [[Website and Repository.base]]
+* [[Website and Repository.base
+* [[Recent Entries.base]]
+* [[WIP no backlinks.base]]
 
 ## VuePress
 

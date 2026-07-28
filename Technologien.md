@@ -34,10 +34,14 @@ Technologien im Einsatz der Mint System.
 - [[Grafana]]
 - [[Prometheus]]
 
-Mail
+## Mail
 
 - [[Mailpit]]
 
-Software-Tools:
+## Software-Tools
 
 - [[WebAssembly]]
+
+## Networking
+
+- [[Nginx]]

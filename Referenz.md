@@ -8,8 +8,8 @@ Beispiele:
 
 - [[Infrastruktur]]
 - [[Marketing]]
-- [[Interne Links]]
-- [[Tools]]
+- [[Dokumentation]]
 - [[Verkauf]]
 - [[Dokumente]]
 - [[Corporate Design]]
+- [[Collaboration]]

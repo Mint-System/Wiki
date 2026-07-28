@@ -4,4 +4,4 @@ kind: reference
 website: https://webassembly.org/
 ---
 
-[[Wasmtime]]
+Siehe [[Wasmtime]].

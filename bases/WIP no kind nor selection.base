@@ -22,7 +22,5 @@ views:
         direction: ASC
       - property: file.tags
         direction: ASC
-      - property: kind
-        direction: DESC
     columnSize:
       file.name: 610

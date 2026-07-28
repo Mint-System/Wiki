@@ -1,6 +1,6 @@
 ---
-title: System Implementation
 kind: explain
+section: methodology
 ---
 
 Als Unternehmen implementieren wir das Management-System Odoo bei Kunden. Diese Art von System-Implementation lässt sich allgemein darstellen. Die folgende Grafik zeigt wie das System Odoo im Unternehmen implementiert wird:
@@ -9,8 +9,8 @@ Als Unternehmen implementieren wir das Management-System Odoo bei Kunden. Diese 
 
 Die Systemgrenzen definieren die Leistungsgrenzen der Systeme. Bei der Implementation des Management-Systems möchte man eine Deckung der Grenzen erreichen. In der Praxis ist dies nicht möglich. In den Bereichen ohne Deckung müssen entweder:
 
-1. Die Prozesse des Unternehmens an das System angepasst werden.
-2. Die Funktionen des Systems erweitert werden um die Prozesse abzubilden.
+1. Die Prozesse des Unternehmens an das System angepasst werden
+2. Die Funktionen des Systems erweitert werden, um die Prozesse abzubilden
 
 ## Anpassung Prozesse
 

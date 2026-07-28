@@ -5,7 +5,6 @@ kind: reference
 
 Bereiche:
 
-[[Odoo Marketing]]\
 [[Nextcloud Marketing]]\
 [[Mint System Website]]
 
@@ -15,5 +14,5 @@ Newsletter und Blog auf Website:
 [[Google Ads]]\
 [[Social Media]]\
 [[Success Stories]]\
-[[Affiliate-Marketing]]\
-[[Website]]
+[[Website]]\
+[[Web Analytics]]
