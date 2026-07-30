@@ -5,4 +5,4 @@ section: communication
 website: https://nextcloud.com/talk/
 ---
 
-Für den effizienten Betrieb braucht es einen [[Turn-Server#Nextcloud Talk]].
+Für den effizienten Betrieb braucht es einen Turn-Server.
