@@ -5,7 +5,7 @@ section: communication
 website: https://nextcloud.com/talk/
 ---
 
-## ## TURN-Server
+## TURN-Server
 
 Für den effizienten Betrieb braucht es einen TURN-Server wie [[TURN Mint System]].
 
