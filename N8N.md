@@ -1,5 +1,4 @@
 ---
-title: N8N
 kind: reference
 section: tool
 website: https://n8n.io/
