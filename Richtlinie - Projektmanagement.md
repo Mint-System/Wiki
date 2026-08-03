@@ -24,7 +24,15 @@ Der Status einens Projekts wird über das Kanban zugeordnet.
 
 Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende Navigation erleichtern.
 
-**Standardordner**
+### Geteilt oder Privat
+
+Jeder Projekt-Ordner hat entweder den _Shared_ oder _Private_ Suffix im Namen. 
+
+Shared-Projektordner dürfen mit Kunden geteilt werden. Die Teilung erfolgt mittels [[Nextcloud]]-Link.
+
+Private-Projektordner sind nur für Mitarbeitende Mint System zugänglich.
+
+### Standardordner
 
 | Ordner / Dokument               | Beschreibung                                         |
 | ------------------------------- | ---------------------------------------------------- |
@@ -43,7 +51,7 @@ Der Projektordner soll immer gleich aussehen und so die Projekt-übergreifende N
 | Worklogs/YYYY-MM-DD TITEL.md    | Protokolle zur Auftragsabwicklung                    |
 | Workshop/                       | Dokumente zum Workshop                               |
 
-**Projektphasen**
+### Projektphasen
 
 Fúr Komplexere
 
@@ -57,7 +65,7 @@ Fúr Komplexere
 
 Projektphasen sind analog [[Phasen]].
 
-**Systemordner**
+## Systemordner
 
 | Ordner / Dokument | Beschreibung                                                     |
 | ----------------- | ---------------------------------------------------------------- |
@@ -66,7 +74,3 @@ Projektphasen sind analog [[Phasen]].
 | Template/         | Ordner mit Markdown/Obsidian Vorlagen                            |
 | attachments/      | Mediendateien und Anhänge werden hier gespeichert                |
 | tmp/              | Temporäre Daten die gelöscht werden dürfen, werden hier abgelegt |
-
-## Projektdaten Teilen
-
-Projektordner dürfen mit Kunden geteilt werden. Die Teilung erfolgt mittels [[Nextcloud]]-Link.
