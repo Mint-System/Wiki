@@ -22,7 +22,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-* Erstelle in Odoo-Build ein neues Upgrade-Dotenv: `task create-dotenv $DOMAIN upgrade`
+* Erstelle in Ansible-Build ein neues Upgrade-Dotenv: `task create-dotenv $DOMAIN upgrade`
 * Passe die Umgebungs-Variablen anhand der Ansible-Definition an
 * Definiere die zusätzlichen Umgebungsvariablen für den _Configuration_-Schritt
-* Prüfe die Konfiguration mit ` task upgrade-odoo $DOMAIN info`
+* Prüfe die Konfiguration mit `task upgrade-odoo $DOMAIN info`
