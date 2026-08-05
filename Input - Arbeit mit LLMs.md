@@ -64,7 +64,7 @@ Modelle mit der Fähigkeit "Reasoning" oder "Thinking" absolvieren einen interne
 
 > Wie kann ich mit einem LLM chatten?
 
-Du kannst entweder über die Weboberfläche [[LLM Chat Mint System]] oder über die Kommandozeile mit `llm` kommunizieren.
+Du kannst entweder über die Weboberfläche [[ChatGPT Mint System]] oder über die Kommandozeile mit `llm` kommunizieren.
 
 > Was ist der Nutzen?
 

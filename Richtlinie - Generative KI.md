@@ -14,7 +14,7 @@ KI-Ergebnisse müssen vor der Verwendung immer fachlich geprüft werden.
 
 ## Freigegebene Dienste
 
-Für die geschäftliche Nutzung von generativer KI ist grundsätzlich nur [[LLM Chat Mint System]] zu verwenden.
+Für die geschäftliche Nutzung von generativer KI ist grundsätzlich nur [[ChatGPT Mint System]] zu verwenden.
 
 Mint System betreibt dafür eine selbst gehostete [[Open WebUI]]-Instanz und bindet ausgewählte Cloud-Modelle der [Infomaniak AI Services](https://www.infomaniak.com/de/hosting/ai-services) an. Diese Architektur wurde bewusst gewählt, um die Kontrolle über Zugänge, Konfiguration, Datenverarbeitung, Datenspeicherung und Modellauswahl zu behalten.
 

@@ -1,5 +1,4 @@
 ---
-title: Odoo Mint System
 section: account
 kind: reference
 ---

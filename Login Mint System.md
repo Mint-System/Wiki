@@ -30,15 +30,10 @@ Zur Erfassung des OAuth-Providers stehen diese Informationen zur Verfügung:
 - Authorisierungs URL: https://login.mint-system.ch/auth/realms/mint-system.ch/protocol/openid-connect/auth
 - Validierungs URL: https://login.mint-system.ch/auth/realms/mint-system.ch/protocol/openid-connect/userinfo
 
-## Integration
+Wird verwendet von:
 
-### Odoo
-
-Für eine Odoo Integration müssen die folgenden Informationen verfügbar sein:
-
-- Liste der Benutzer
-- Domainname
-
-Damit die Odoo Installation Zugriff auf den Identitäts-Anbieter hat, muss Odoo als Client erfasst werden.
-
-Mehr Details zur Konfiguration sind hier verfügbar: https://janikvonrotz.ch/2020/04/30/role-based-access-control-for-multiple-keycloak-clients/.
+- [[ERP Mint System]]
+- [[ChatGPT Mint System]]
+- [[Cloud Mint System]]
+- [[Monitor Mint System]]
+- [[Git Mint System]]
