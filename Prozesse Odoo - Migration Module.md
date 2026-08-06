@@ -40,7 +40,7 @@ Arbeitsschritte:
 - In Odoo-Build die neue Odoo Version auschecken:
 
 ```bash
-task load-version $target_version
+task checkout $target_version
 ```
 
 - Auschecken Modul von vorhergehender Version
@@ -86,7 +86,69 @@ task update-with-llm addons/$repo/$module/views/*.xml prompts/migrate-view-defin
 
 ```bash
 git -C addons/$repo add --all
-git -C addons/$repo commit -m "feat($module): migrate
+git -C addons/$repo commit -m "feat($module): migrate"
+```
+
+- Optional einen Pull-Request erstellen:
+  - Feature branch erstellen `git switch -c mig-$module`
+  - Und mit dem CLI einen PR erstellen `gh pr create`
+  - Wenn PR gemerged ist, das Submodule-Repo deployen
+- Änderungen pushen
+
+```bash
+git push
+```
+
+## Modul zurückportieren
+
+In diesem Fall ist die `$target_version` tiefer als die `$source_version`.
+
+
+Arbeitsschritte:
+
+- In Odoo-Build die neue Odoo Version auschecken:
+
+```bash
+task checkout $target_version
+```
+
+- Auschecken Modul von vorausgehender Version
+
+```bash
+cd addons/$repo
+git checkout $source_version $module
+```
+
+- Modul-Code und Version in `__manifest__.py` aktualisieren
+
+```bash
+task migrate-module addons/$repo/$module
+```
+
+- Aktualisiere die Modul Docs
+
+```bash
+task generate-module-docs addons/$repo/$module
+```
+
+- Modul installieren und testen
+
+```bash
+task init-module addons/$repo/$module
+```
+
+- Modul linten und Repo aktualisieren:
+
+```bash
+cd addons/$repo/
+task all
+```
+
+- Backport committen
+
+```bash
+git -C addons/$repo add --all
+git -C addons/$repo commit -m "feat($module): backport from $source_verison"
 ```
 
 - Optional einen Pull-Request erstellen:
