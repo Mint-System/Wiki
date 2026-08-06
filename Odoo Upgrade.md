@@ -42,7 +42,7 @@ Die internen Prozesse sind:
 - [[Prozesse Projektmanagement - Odoo]]
 - [[Prozesse Odoo - Upgrade Implementation]]
 - [[Prozesse Odoo - Upgrade-Umgebung bereitstellen]]
-- [[Prozesse Odoo - Migration Module]]
+- [[Prozesse Odoo - Modul Migration]]
 - [[Prozesse Odoo - Migration OCA Module]]
 - [[Prozesse Infrastruktur - Upgrade Odoo]]
 - [[Prozesse Odoo.sh - Upgrade Implementation]]

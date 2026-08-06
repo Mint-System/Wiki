@@ -12,7 +12,7 @@ Damit Sie Module für ein Odoo.sh Projekt/Repsitory migrieren können müssen Si
 Wenn Sie den Upgrade-Branch eingerichtet haben, können Sie Submodule in der neuen Version hinzufügen und Module migrieren:
 
 - [[Prozesse Odoo.sh - Projekt bereitstellen#Submodul hinzufügen]]
-- [[Prozesse Odoo - Migration Module]]
+- [[Prozesse Odoo - Modul Migration]]
 - [[Prozesse Odoo - Migration OCA Module]]
 
 Wenn Sie Module migriert haben und diese bereitstellen möchten, führen Sie [[#Submodul aktualisieren]] aus.

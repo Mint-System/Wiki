@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Migration Module
 kind: howto
 section: process
 ---
@@ -96,13 +95,12 @@ git -C addons/$repo commit -m "feat($module): migrate"
 - Änderungen pushen
 
 ```bash
-git push
+git -C addons/$repo push
 ```
 
 ## Modul zurückportieren
 
 In diesem Fall ist die `$target_version` tiefer als die `$source_version`.
-
 
 Arbeitsschritte:
 
@@ -158,5 +156,5 @@ git -C addons/$repo commit -m "feat($module): backport from $source_verison"
 - Änderungen pushen
 
 ```bash
-git push
+git -C addons/$repo push
 ```
