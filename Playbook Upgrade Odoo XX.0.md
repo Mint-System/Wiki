@@ -40,7 +40,6 @@ task upgrade-odoo acme init
 task upgrade-odoo acme uninstall
 task upgrade-odoo acme update
 task upgrade-odoo acme configure-production
-
 ```
 
 If **production** then replace the Ansible prod host with the upgrade host vars. Update the Nginx proxy configuration.
