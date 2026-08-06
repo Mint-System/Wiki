@@ -16,7 +16,7 @@ Die Kalkulation des Angebots basiert auf folgender Aufwandsschätzung:
 | Upgrade Datenbank           | Versions-Sprünge                | 2h x Version (Odoo 14, 15, 16, 17, 18, 19)                         | 6             |
 | Bereinigung Anpassungen     | Snippets / Studio-Edits         | Anzahl Snippets/Edits x 15min<br>                                  | 0             |
 | Bereinigung Website         | Website-Customizing             | 4h zur Bereinigung und Prüfung der Seiten                          | 4             |
-| Re-Implementation Workflows | Odoo-Workflow                   | 4h für Re-Implementation Odoo Workflow                             | 4             |
+| Re-Implementation Workflows | Odoo-Prozesse                   | 4h für Re-Implementation Prozesse                                  | 4             |
 | Prüfen Aktionen             | Aktionen                        | 30min pro Aktion                                                   | 2             |
 |                             |                                 | **Summe:**                                                         | **38**        |
 

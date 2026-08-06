@@ -15,4 +15,4 @@ Aktuell ist [[peoplefone]] für die Telefonie im Einsatz.
 | +41 44 244 72 22 | Janik von Rotz   |                              |
 | +41 44 244 72 23 | Ulrich Kilian    |                              |
 | +41 44 244 72 24 | Laurs Kooijman   |                              |
-|                  | Bruno Hengartner |                              |
+| +41 44 244 73 05 | Bruno Hengartner |                              |
