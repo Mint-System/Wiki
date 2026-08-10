@@ -19,20 +19,15 @@ Janik von Rotz
 ```
 ---
 
-Suggest a meeting: https://apmt.day/janikvonrotz/book/
-
 CTO Mint System GmbH
 Tel: +41 44 244 7222
+Verfügbar: Montag bis Donnerstag
 ```
 
 Kurt Gisler
 
 ```
 ---
-
-We are hiring: https://www.mint-system.ch/jobs
-Send application to: jobs@mint-system.ch
-
 CEO Mint System GmbH
 Tel: +41 44 244 7221
 ```
