@@ -24,15 +24,15 @@ Beim [[Hosting Provider]] einen neuen Server bereitstellen. Dabei sicherstellen,
 
 ### Server installieren
 
-Den Befehl `aplaybook -i inventories/setup setup.yml -l hyperion -u root` ausführen. Nach Bedarf manuelle Konfigurationen vornehmen.
+Den Befehl `task play -i inventories/mint_sytem plays/setup.yml -l hyperion -u root` ausführen. Nach Bedarf manuelle Konfigurationen vornehmen.
 
 ### Nextcloud installieren
 
-Den Befehl `aplaybook -i inventories/nextcloud nextcloud.yml -l hyperion` ausführen.
+Den Befehl `task play -i inventories/mint_sytem plays/nextcloud.yml -l hyperion_nextcloud` ausführen.
 
 ### Proxy installieren
 
-Den Befehl `aplaybook -i inventories/proxy proxy.yml -l hyperion` ausführen.
+Den Befehl `task play -i inventories/mint_sytem plays/nginx.yml -l hyperion` ausführen.
 
 ### Backup wiederherstellen
 

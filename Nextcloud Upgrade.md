@@ -31,7 +31,7 @@ nextcloud_image: nextcloud:32-apache
 - Deploy the new container
 
 ```bash
-task play -i inventories/nextcloud plays/nextcloud.yml -l eos
+task play -i inventories/mint_sytem plays/nextcloud.yml -l eos_nextcloud
 ```
 
 - Abort when Ansible on "Info about upgrades"

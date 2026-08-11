@@ -60,7 +60,7 @@ Mint System Team
 ```
 
 - In Ansible-Inventar die Informationen zur Odoo Revision aktualisieren
-- Den Odoo-Container neu deployment `ansible-playbook -i inventories/odoo plays/odoo.yml -l $ALIAS`
+- Den Odoo-Container neu deployment `task play -i inventories/mint_system plays/odoo.yml -l ${ALIAS}_odoo`
 - Nach erfolgreichem Deployment die Aktion *Apps > Auto-Upgrade Modules* ausführen
 
 ::: warning

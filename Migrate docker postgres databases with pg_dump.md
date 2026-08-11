@@ -42,7 +42,7 @@ postgres_image: postgres:12-alpine
 Deploy database container with version 12.
 
 ```bash
-aplaybook -i inventories/odoo odoo.yml -l apollo -t postgres
+task play -i inventories/mint_sytem plays/odoo.yml -l apollo_odoo -t postgres
 ```
 
 Restore the data.
@@ -91,7 +91,7 @@ postgres_image: postgres:12-alpine
 Deploy database container with the new version.
 
 ```bash
-aplaybook -i inventories/setup play-all.yml -l $HOST -t postgres --skip-tags depends
+task play -i inventories/mint_sytem plays/all.yml -l $HOST -t postgres --skip-tags depends
 ```
 
 Restore the data.

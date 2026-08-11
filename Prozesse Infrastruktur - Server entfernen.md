@@ -12,7 +12,7 @@ Wenn der Server bei einem Drittanbieter gehostet ist, müssen Sie als erstes die
 
 Arbeitsschritte:
 
-- Entfernen Sie die Benutzer auf dem Server `aplaybook -i inventories/setup plays/clean.yml -t iam -l $ALIAS`
+- Entfernen Sie die Benutzer auf dem Server `task play -i inventories/mint_sytem plays/cleanup.yml -t iam -l $ALIAS`
 
 ## Server aus Ansible Inventar entfernen
 

@@ -46,7 +46,7 @@ Nach einem Rebuild rebuild, wird der originale SSH-Public-Key für den Root-Benu
 - Server mit Ansible installieren:
 
 ```bash
-ansible-playbook -i inventories/setup plays/setup.yml -l $ALIAS -u root
+task play -i inventories/mint_sytem plays/setup.yml -l $ALIAS -u root
 ```
 
 - Anschliessend den Server neustarten.
@@ -58,15 +58,15 @@ ssh $ALIAS.mint-system.com sudo reboot
 - Alle Container mit Ansible neu deployen:
 
 ```bash
-ansible-playbook -i inventories/setup plays/all.yml -l $ALIAS
-ansible-playbook -i inventories/nextcloud plays/nextcloud.yml -l $ALIAS
-ansible-playbook -i inventories/odoo plays/odoo.yml -l $ALIAS
+task play -i inventories/mint_sytem plays/all.yml l $ALIAS
+task play -i inventories/mint_sytem plays/odoo.yml -l ${ALIAS}_odoo
+task play -i inventories/mint_sytem plays/nextcloud.yml -l ${ALIAS}_nextcloud
 ```
 
 - Und am Ende den Nginx starten
 
 ```bash
-ansible-playbook -i inventories/nextcloud -i inventories/odoo -i inventories/setup plays/nginx.yml -l $ALIAS --skip-tags check
+task play -i inventories/mint_sytem plays/nginx.yml -l $ALIAS --skip-tags check
 ```
 
 ### Troubleshooting

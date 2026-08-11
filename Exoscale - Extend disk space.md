@@ -51,5 +51,5 @@ fstab_mounts:
 - Mount the fstab:
 
 ```bash
-aplaybook -i inventories/setup/ plays/setup.yml -t fstab -l $ALIAS
+task play -i inventories/mint_sytem plays/setup.yml -t fstab -l $ALIAS
 ```
