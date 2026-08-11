@@ -13,8 +13,7 @@ Arbeitsschritte:
 - Erstelle einen neuen Odoo-Host `$ALIAS_upgrade`, indem du den bestehenden Inventory-Ordner kopierst
 - Entferne die Datenbank- und Backup-Konfiguration
 - Aktualisiere die Odoo-Konfiguration mit der Odoo-Revision
-- Passe den Odoo-Hostname so `odooXX-upgrade` an
-- Container-Name `odooXX$` in Backup-Job anpassen 
+- Definiere einen neuen Odoo-Hostname mit `task get-last-hostname odoo`
 - Registriere den Host in `hosts.yml` und führe das Deployment durch
 - Aktiviere die Proxy-Weiterleitung zur neuen Instanz
 
