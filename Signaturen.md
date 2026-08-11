@@ -28,6 +28,7 @@ Kurt Gisler
 
 ```
 ---
+
 CEO Mint System GmbH
 Tel: +41 44 244 7221
 ```
