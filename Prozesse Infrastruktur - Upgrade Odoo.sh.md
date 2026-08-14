@@ -11,7 +11,7 @@ section: process
 ```
 Guten Tag
 
-Diese Odoo Installation wird innerhalb der nächsten Stunde von Version 16.0 auf 18.0 aktualisiert.
+Diese Odoo Installation wird innerhalb der nächsten Stunde von Version 14.0 auf 17.0 aktualisiert.
 
 Wir bitten Sie während dieser Zeit keine Bearbeitungen in Odoo vorzunehmen. Alle Änderungen ab jetzt werden nicht in der aktualisierten Odoo Installation sein.
 
@@ -20,9 +20,9 @@ Mit freundlichen Grüssen
 Mint System Team
 ```
 
-- Drehbuch bis zum Abschnitt "Upgrade" ausführen
+- Drehbuch bis zum Abschnitt _Upgrade_ ausführen
 - Im Tab _Upgrade_ die Ziel-Version wählen
-- Upgrade-Porzess starten
+- Upgrade-Prozess starten
 - Upgrade-Prozess auslösen indem man den `upgrade` Branch auf den `main` Branch pusht:
 
 ```bash

@@ -18,8 +18,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- In Projektordner Markdown-Dokument [[Aufwandsschätzung Odoo Upgrade XX.0]] kopieren
-- Aufwandsschätzung gemäss Kalkulation erstellen
 - App Verkäufe öffnen und neues Angebot erstellen
 - Vorlage "Odoo Upgrade" auswählen
-- Text aus Aufwandsschätzung kopieren
+- Aufwandsschätzung gemäss Tabelle erstellen
+- Platzhalter in Text ersetzen
