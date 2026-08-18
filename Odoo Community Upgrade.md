@@ -1,13 +1,11 @@
 ---
-title: Odoo Community Upgrade
 lang: en
 website: https://oca.github.io/OpenUpgrade/
+kind: reference
+section: vendor
 ---
 
-Also known as [[OpenUpgrade]]
-
-A step by step guide to upgrade an [[Odoo Community Edition]] using [[Odoo Build]].
+Also known as the OpenUpgrade.
 
 ![[Odoo OpenUpgrade Procedure.png]]
 
-Use this template for new upgrades: [[OpenUpgrade Odoo XX.0]]
