@@ -4,7 +4,7 @@ kind: reference
 section: meta
 ---
 
-[[Signaturen]]\
+[[E-Mail Signaturen]]\
 [[AGBs Entwicklungsprojekt]]\
 [[Slides]]\
 [[Vorlagen Odoo-Projekte]]\
