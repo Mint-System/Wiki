@@ -5,7 +5,9 @@ section: communication
 
 ## Html
 
-```
+Laurens Kooijman
+
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -26,7 +28,7 @@ class="object-contain block w-auto h-[3rem] md:h-[72px] header__scrolled header_
       </p>
       <p>Tel: +41 44 244 72 20<br>
         Direkt: +41 44 244 72 24</p>
-      <p>Laurens.kooijman@mint-system.ch</p>
+      <p>laurens.kooijman@mint-system.ch</p>
       <p><br>
         <br>
       </p>
