@@ -4,9 +4,23 @@ section: template
 lang: en
 ---
 
-The following is an example for module that extends an existing functionality of another module.
+````markdown
+---
+date: {{DATE}}
+author: {{VALUE:author}}
+kind: specification
+---
+```js quickadd
+const plugin = this.app.plugins.plugins['active-user-and-participants'];
+if (plugin) {
+	const getActiveParticipant = plugin.getActiveParticipant();
+	this.variables.author = getActiveParticipant.name;
+} else {
+	new Notice('Active User and Participants plugin not found');
+}
+```
+# Specification Module {{NAME}}
 
-```markdown
 - [ ] Develop "Auth Signup Firstname"
 
 Name: auth_signup_firstname\
@@ -17,4 +31,4 @@ Repo: addons/website
 
 Remove the name field from the "auth_signup.fields" form. Add firstname and lastname.
 Extend the "_prepare_signup_values" and "signup" method to include the firstname and lastname fields.
-```
+````

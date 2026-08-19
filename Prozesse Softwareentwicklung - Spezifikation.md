@@ -31,7 +31,7 @@ Arbeitsschritte:
 
 Arbeitsschritte:
 
-- Erstellen Dokument anhand [[Vorlage Spezifikation Applikations-Modul]] in Ablage von Kunde
+- Erstellen Dokument anhand [[Vorlage Spezifikation Odoo Applikation]] in Ablage von Kunde
 - Erarbeiten Spezifikation anhand User Stories
 - Validierung der Spezifikation mit Kunde
 - Erstellen Aufgabe mit Link auf die Spezifikation
