@@ -35,16 +35,7 @@ Arbeitsschritte:
 Odoo On-Premise: [[Playbook Upgrade Odoo XX.0]]\
 Odoo.sh: [[Playbook Upgrade Odoo.sh XX.0]]
 
-- Im Fontmatter des Drehbuchs diese Attribute festlegen:
-
-```markdonw
----
-project: Odoo Acme Corporation
-tags:
-  - upgrade-document
----
-```
-
+- Im Fontmatter des Drehbuchs das Projekt festlegen
 - Upgrade-Projekt gemäss Prozess abwickeln:
 
 ![[Odoo Upgrade Process.canvas|Odoo Upgrade Process]]

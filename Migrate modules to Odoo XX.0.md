@@ -1,9 +1,16 @@
 ---
-project: Odoo Acme Corporation
 lang: en
 section: template
 kind: reference
 ---
+
+````markdown
+---
+project: Odoo Mint System GmbH
+tags:
+  - upgrade-document
+---
+# Migrate modules to Odoo XX.0
 
 States:
 
@@ -18,3 +25,4 @@ States:
 | ------------------------- | ---------- | ----- | ------- |
 | account_invoice_timesheet | Thirdparty | TBD   |         |
 | auditlog                  | OCA        | Init  |         |
+```
