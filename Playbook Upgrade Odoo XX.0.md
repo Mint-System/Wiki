@@ -1,9 +1,16 @@
 ---
-project: Odoo Acme Corporation
 lang: en
 section: template
 kind: reference
 ---
+
+````markdown
+---
+project: Odoo Acme Corporation
+tags:
+  - upgrade-document
+---
+# Playbook Upgrade Odoo XX.0
 
 The playbook supports two modes: **test** and **production**. When executing the production mode the production database will be replaced with the upgraded database at the very end.
 
@@ -74,8 +81,8 @@ If **production** mode run the "click everywhere" action.
 Rename the databases and filestore if **production** mode.
 
 ```bash
-task upgrade-odoo trimada rename-database
-task upgrade-odoo trimada rename-filestore
+task upgrade-odoo acme rename-database
+task upgrade-odoo acme rename-filestore
 ```
 
 Run the Ansible Odoo playbook with the new configuration.
@@ -101,3 +108,4 @@ Remove the old Odoo container, volume, data and database.
 **Solution**
 
 ==What is the solution to resolve the issue?==
+````
