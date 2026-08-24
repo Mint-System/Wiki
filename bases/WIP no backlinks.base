@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.ext == "md"
+        - file.name != "README"
     order:
       - file.name
       - file.backlinks
