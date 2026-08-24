@@ -1,26 +1,10 @@
 ---
-title: Vorlage Angebot
 section: template
 kind: reference
 ---
+Übersetzung [[Text Blocks Offer]]
 
-Übersetzung: [[Offer Template]]
-
-## Struktur
-
-Ein Angebot hat diese Struktur:
-
-- Beschreibung: Einleitungstext
-- Auftragszeilen:
-  - Abschnitt: Projektarbeit (Abrechnung nach Aufwand)
-  - Abschnitt: Zusätzliche Lizenzkosten
-  - Abschnitt: Monatliche Kosten
-    - Produkt mit Notiz _Details zum Produkt: HTTPS_LINK_
-- Optionen:
-  - Produkt mit Notiz _Details zum Produkt: HTTPS_LINK_
-- Bedingungen und Konditionen
-
-## Textbausteine
+## Bausteine
 
 ### Bedingungen und Konditionen
 

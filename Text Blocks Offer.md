@@ -1,6 +1,4 @@
 ---
-title: Template Quote
-lang: en
 section: template
 kind: reference
 ---

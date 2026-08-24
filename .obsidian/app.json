@@ -4,7 +4,7 @@
   "alwaysUpdateLinks": true,
   "spellcheck": true,
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "spellcheckLanguages": null,
   "pdfExportSettings": {
     "pageSize": "Letter",

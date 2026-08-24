@@ -31,4 +31,5 @@ Arbeitsschritte:
 - Kostenstelle festlegen
 - Kunde mit MWST. hinzufügen
 - Positionen einfügen und Beschreibung anpassen
+- Prüfen und Aktualisieren [[Textbausteine Angebot]]
 - Validieren durch Mitarbeiter

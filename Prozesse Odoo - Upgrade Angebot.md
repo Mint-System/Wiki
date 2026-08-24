@@ -20,5 +20,5 @@ Arbeitsschritte:
 
 - App Verkäufe öffnen und neues Angebot erstellen
 - Vorlage "Odoo Upgrade" auswählen
-- Aufwandsschätzung gemäss Tabelle erstellen
+- [[Aufwandsschätzung Odoo Upgrade XX.0|Aufwandsschätzung]] gemäss Tabelle erstellen
 - Platzhalter in Text ersetzen
