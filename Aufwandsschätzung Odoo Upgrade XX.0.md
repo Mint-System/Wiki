@@ -9,15 +9,15 @@ Mit diesem Angebot offerieren wir ein Upgrade für die Odoo-Installation von ==K
 Die Kalkulation des Angebots basiert auf folgender Aufwandsschätzung:
 
 | Phase                       | Faktor                          | Berechnung                                                         | Aufwand \[h\] |
-| --------------------------- | ------------------------------- | :----------------------------------------------------------------- | ------------- |
+| --------------------------- | ------------------------------- |:------------------------------------------------------------------ | ------------- |
 | Bereitstellung Umgebung     | Managed oder Unmanaged Hosting  | 2h Managed Hosting<br>4h Unmanaged Hosting                         | 2             |
 | Modul-Prüfung               | Module von bekannten Dritten.   | 15min pro Modul von bekannten Providern (OCA, Mint System, Cetmix) | 47x0.25~=12   |
 | Modul-Migration             | Module von unbekannten Dritten. | 1h pro Modul von unbekannten Providern                             | 27            |
 | Upgrade Datenbank           | Versions-Sprünge                | 2h x Version (Odoo 14, 15, 16, 17, 18, 19)                         | 6             |
-| Bereinigung Anpassungen     | Snippets / Studio-Edits         | Anzahl Snippets/Edits x 15min<br>                                  | 0             |
+| Bereinigung Anpassungen     | Snippets / Studio-Edits         | Anzahl Snippets/Edits x 3min<br>                                   | 0             |
 | Bereinigung Website         | Website-Customizing             | 4h zur Bereinigung und Prüfung der Seiten                          | 4             |
 | Re-Implementation Workflows | Odoo-Prozesse                   | 4h für Re-Implementation Prozesse                                  | 4             |
-| Prüfen Aktionen             | Aktionen                        | 30min pro Aktion                                                   | 2             |
+| Prüfen Aktionen             | Aktionen                        | 15min pro Aktion                                                   | 2             |
 |                             |                                 | **Summe:**                                                         | **38**        |
 
 Liste der installierten Module von Dritten:

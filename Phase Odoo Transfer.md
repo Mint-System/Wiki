@@ -3,7 +3,6 @@ title: Phase Odoo Transfer
 kind: explain
 section: service
 ---
-
 Tätigkeiten:
 
 - Erstellen Dump von bestehender Odoo-Instanz
