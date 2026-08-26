@@ -4,6 +4,14 @@ kind: reference
 section: template
 ---
 
+````markdown
+---
+project: Odoo Acme Corporation
+tags:
+  - upgrade-document
+---
+# Testing Upgrade Odoo XX.0
+
 ## Abgrenzung 🔭
 
 Die folgenden Aspekte sind für as Testing "out-of-scope":
@@ -22,3 +30,4 @@ Die folgenden Aspekte sind für as Testing "out-of-scope":
 | Zeiterfassung         | Projektzeit erfassen                 | - Öffnen App *Zeiterfassung*<br>- Anzeigen Listenansicht<br>- Erfassen Eintrag mit Verkaufsauftragsposition                                                             | 🟥     |
 | Geplante Aktion       | Reminder Verlängerung versenden      | - Anzeige geplante Aktionen<br>- Suche nach _Verkaufsabonnement: Reminder Verlängerung versenden_<br>- Aktion manuell asuführen<br>- Prüfen ob E-Mails versendet wurden | 🟩     |
 | Automatische Aktionen | Standard-Zahlungsbedingung festlegen | - Anzeige automatische Aktionen<br>- Prüfen ob Aktion aktiv ist.                                                                                                        | 🟧     |
+````
