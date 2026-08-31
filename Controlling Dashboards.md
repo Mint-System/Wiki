@@ -23,10 +23,6 @@ Angebote müssen immer eine interne Referenz haben.
 
 Zeiterfassungseinträge ohne Beschreibung.
 
-### Zeiterfassung pro Woche
-
-In der Zeiterfassung sollte es keine Ausreisser geben.
-
 ## Dashboard Projekte
 
 ### Aufgaben in Bearbeitung nach Mitarbeitenden
@@ -90,6 +86,10 @@ Tickets sollten immer zugewiesen werden.
 ### Tickets ohne Auftrasposition
 
 Tickets sollten immer eine Auftragsposition haben.
+
+### Tickets in Bearbeitung
+
+Tickets in Bearbeitung gruppiert nach Mitarbeitender.
 
 ## Dashboard Buchhaltung
 
