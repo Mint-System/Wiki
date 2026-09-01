@@ -1,4 +1,4 @@
---- Git - Rebase
+---
 lang: en
 kind: howto
 ---
