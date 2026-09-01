@@ -1,5 +1,4 @@
 ---
-title: DRP - Server Totalausfall mit Nextcloud
 kind: howto
 section: infrastructure
 ---

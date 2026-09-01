@@ -13,3 +13,5 @@ Aktuell existieren diese Diaster Recover Scenarios (DRS):
 **[[DRP - Server Totalausfall mit Odoo]]** Der Managed Server eines Kunden ist nicht mehr verfügbar und kann nicht wiederhergestellt werden. Auf dem Server ist Odoo installiert und somit kann der Kunde nicht mehr Arbeiten.
 
 **[[DRP - Server Totalausfall mit Nextcloud]]** Der Managed Server eines Kunden ist nicht mehr verfügbar und kann nicht wiederhergestellt werden. Auf dem Server ist Nextcloud installiert und somit kann der Kunde nicht mehr Arbeiten.
+
+**[[DRP - Server Totalausfall mit Volume]]** Der Managed Server eines Kunden kann nicht mehr gestartet werden. Alle Daten auf dem Server sind auf einem externen Volume gspeichert.

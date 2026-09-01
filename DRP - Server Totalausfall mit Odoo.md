@@ -1,5 +1,4 @@
 ---
-title: DRP - Server Totalausfall mit Odoo
 kind: howto
 section: infrastructure
 ---
