@@ -1,5 +1,4 @@
 ---
-title: Success Story Kleinbrauerei Stiärbiär AG
 section: blog
 kind: explain
 draft: false

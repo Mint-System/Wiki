@@ -1,5 +1,4 @@
 ---
-title: Phase Frappe Hosting
 kind: explain
 section: service
 ---

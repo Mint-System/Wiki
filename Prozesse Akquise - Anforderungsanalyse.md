@@ -1,5 +1,4 @@
 ---
-title: Prozesse Akquise - Anforderungsanalyse
 kind: howto
 section: process
 ---

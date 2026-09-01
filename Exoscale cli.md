@@ -1,5 +1,4 @@
 ---
-title: Exoscale cli
 kind: howto
 lang: en
 section: tool

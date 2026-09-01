@@ -1,5 +1,4 @@
 ---
-title: Odoo Build Troubleshooting
 lang: en
 kind: howto
 section: dev
@@ -131,4 +130,3 @@ Add your user to the 'docker group' with:
 ```bash
 sudo usermod -aG docker $USER
 ```
-

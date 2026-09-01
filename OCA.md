@@ -1,5 +1,4 @@
 ---
-title: OCA
 kind: reference
 section: contact
 ---

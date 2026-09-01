@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Projektdefinition
 kind: howto
 section: process
 ---

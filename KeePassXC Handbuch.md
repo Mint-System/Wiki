@@ -1,5 +1,4 @@
 ---
-title: KeePassXC Handbuch
 kind: howto
 section: handbook
 ---

@@ -1,5 +1,4 @@
 ---
-title: Phase Wordpress Hosting
 kind: explain
 section: service
 ---

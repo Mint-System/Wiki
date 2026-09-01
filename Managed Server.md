@@ -1,5 +1,4 @@
 ---
-title: Managed Server
 section: product
 kind: explain
 ---

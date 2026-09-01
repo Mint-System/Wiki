@@ -1,5 +1,4 @@
 ---
-title: Microsoft Authenticator
 kind: howto
 lang: en
 section: tool

@@ -1,5 +1,4 @@
 ---
-title: Odoo App Kostenrechnung
 section: communication
 kind: explain
 ---

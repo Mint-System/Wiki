@@ -1,5 +1,4 @@
 ---
-title: Terminal Zeiterfassung
 kind: explain
 section: product
 ---

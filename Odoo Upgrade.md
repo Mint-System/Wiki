@@ -1,5 +1,4 @@
 ---
-title: Odoo Upgrade
 kind: explain
 section: communication
 ---

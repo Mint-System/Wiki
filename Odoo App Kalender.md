@@ -1,5 +1,4 @@
 ---
-title: Odoo Kalender
 section: communication
 kind: explain
 ---

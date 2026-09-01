@@ -1,5 +1,4 @@
 ---
-title: Phase Umfragen
 kind: explain
 section: service
 ---

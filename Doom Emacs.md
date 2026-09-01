@@ -1,5 +1,4 @@
 ---
-title: Doom Emacs
 section: tool
 kind: reference
 repository: https://github.com/doomemacs/doomemacs

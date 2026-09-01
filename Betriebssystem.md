@@ -1,6 +1,4 @@
 ---
-title: Betriebssystem
-ref:
 kind: reference
 section: term
 ---

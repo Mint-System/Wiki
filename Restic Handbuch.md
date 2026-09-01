@@ -1,5 +1,4 @@
 ---
-title: Restic Handbuch
 kind: howto
 section: handbook
 ---

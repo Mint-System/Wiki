@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Produktionsumgebung bereitstellen
 kind: howto
 section: process
 ---

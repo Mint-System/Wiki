@@ -1,5 +1,4 @@
 ---
-title: Github - Download binary files
 section: dev
 kind: howto
 ---

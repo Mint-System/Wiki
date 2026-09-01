@@ -1,5 +1,4 @@
 ---
-title: Odoo Build - Create an OCA module
 kind: tutorial
 draft: true
 section: dev

@@ -1,5 +1,4 @@
 ---
-title: Tutorial - Install Odoo Studio
 section: dev
 lang: en
 kind: tutorial

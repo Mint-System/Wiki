@@ -1,5 +1,4 @@
 ---
-title: Dokumentation
 kind: reference
 section: tool
 ---

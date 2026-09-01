@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo.sh - Projekt entwickeln
 kind: howto
 section: process
 ---

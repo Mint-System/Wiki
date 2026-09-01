@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Lieferanten und externe Dienstleister
 kind: explain
 section: policy
 draft: true

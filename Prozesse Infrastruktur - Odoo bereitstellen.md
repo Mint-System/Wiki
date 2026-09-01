@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Odoo bereitstellen
 kind: howto
 section: process
 ---

@@ -1,5 +1,4 @@
 ---
-title: Nextcloud App Mail
 kind: reference
 section: communication
 website: https://apps.nextcloud.com/apps/mail

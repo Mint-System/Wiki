@@ -1,5 +1,4 @@
 ---
-title: Test Mint System
 section: account
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: AHV und EO
 kind: explain
 section: organisation
 ---

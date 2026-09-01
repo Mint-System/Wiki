@@ -1,5 +1,4 @@
 ---
-title: Personal
 section: organisation
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: VSHN AG
 kind: reference
 section: contact
 website: https://www.vshn.ch

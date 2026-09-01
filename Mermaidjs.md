@@ -1,5 +1,4 @@
 ---
-title: Mermaid.js
 kind: reference
 section: tool
 website: https://mermaid.js.org/

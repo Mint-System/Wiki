@@ -1,5 +1,4 @@
 ---
-title: Hack4SocialGood 2024
 draft: false
 kind: explain
 section: blog

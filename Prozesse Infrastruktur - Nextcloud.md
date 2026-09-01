@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Nextcloud
 section: process
 kind: howto
 ---

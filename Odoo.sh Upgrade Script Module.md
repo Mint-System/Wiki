@@ -1,5 +1,4 @@
 ---
-title: Odoo.sh Upgrade Script Module
 lang: en
 draft: false
 kind: howto

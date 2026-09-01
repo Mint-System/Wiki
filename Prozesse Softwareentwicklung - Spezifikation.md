@@ -1,5 +1,4 @@
 ---
-title: Prozesse Softwareentwicklung - Spezifikation
 kind: howto
 section: process
 ---

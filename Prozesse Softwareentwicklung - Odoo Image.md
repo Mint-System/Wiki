@@ -1,5 +1,4 @@
 ---
-title: Prozesse Softwareentwicklung - Odoo Image
 kind: howto
 section: process
 ---

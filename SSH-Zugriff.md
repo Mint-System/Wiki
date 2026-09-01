@@ -1,5 +1,4 @@
 ---
-title: SSH-Zugriff
 kind: explain
 section: communication
 ---

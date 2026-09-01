@@ -1,5 +1,4 @@
 ---
-title: Vorgehensmodell Softwareentwicklung
 kind: explain
 section: methodology
 ---

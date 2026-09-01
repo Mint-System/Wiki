@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Odoo
 kind: howto
 section: process
 ---

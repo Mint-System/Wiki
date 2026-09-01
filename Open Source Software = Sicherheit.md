@@ -1,5 +1,4 @@
 ---
-title: Open Source Software = Sicherheit
 section: blog
 kind: explain
 draft: false

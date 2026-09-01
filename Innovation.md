@@ -1,5 +1,4 @@
 ---
-title: Innovation
 kind: tutorial
 section: organisation
 ---

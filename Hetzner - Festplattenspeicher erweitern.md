@@ -1,5 +1,4 @@
 ---
-title: Hetzner - Festplattenspeicher erweitern
 kind: howto
 section: vendor
 ---

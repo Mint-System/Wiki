@@ -1,5 +1,4 @@
 ---
-title: Odoo Zeiterfassung
 kind: explain
 section: product
 website: https://www.mint-system.ch/odoo-zeiterfassung

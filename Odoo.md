@@ -1,5 +1,4 @@
 ---
-title: Odoo
 kind: explain
 section: product
 ---

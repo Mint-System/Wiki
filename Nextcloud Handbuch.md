@@ -1,5 +1,4 @@
 ---
-title: Nextcloud Handbuch
 kind: howto
 section: handbook
 ---

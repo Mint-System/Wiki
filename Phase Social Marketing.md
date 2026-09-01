@@ -1,5 +1,4 @@
 ---
-title: Phase Social Marketing
 kind: explain
 section: service
 ---

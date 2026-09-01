@@ -1,5 +1,4 @@
 ---
-title: Odoo Customizing ohne unvorhergesehene Upgradekosten
 kind: explain
 draft: false
 section: blog

@@ -1,5 +1,4 @@
 ---
-title: Demoumgebungen
 kind: reference
 section: communication
 ---

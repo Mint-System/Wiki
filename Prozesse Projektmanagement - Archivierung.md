@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Archivierung
 kind: howto
 section: process
 ---

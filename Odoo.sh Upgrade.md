@@ -1,5 +1,4 @@
 ---
-title: Odoo.sh Upgrade
 lang: en
 ---
 

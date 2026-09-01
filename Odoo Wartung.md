@@ -1,5 +1,4 @@
 ---
-title: Odoo Wartung
 kind: explain
 section: product
 ---

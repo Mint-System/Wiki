@@ -1,5 +1,4 @@
 ---
-title: Open Source Software - Besser als Alternativ
 kind: explain
 draft: false
 section: blog

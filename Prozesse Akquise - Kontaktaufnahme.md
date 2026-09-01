@@ -1,5 +1,4 @@
 ---
-title: Prozesse Akquise - Kontaktaufnahme
 kind: howto
 section: process
 ---
@@ -12,4 +11,4 @@ Arbeitsschritte:
 
 - Erstellen Kontaktliste mit Telefonnummern
 - Telefonate durchführen
-- Notiz auf Kontakt festhalten 
+- Notiz auf Kontakt festhalten

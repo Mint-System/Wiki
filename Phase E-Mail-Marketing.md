@@ -1,5 +1,4 @@
 ---
-title: Phase E-Mail-Marketing
 kind: explain
 section: service
 ---

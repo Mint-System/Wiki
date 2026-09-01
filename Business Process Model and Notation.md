@@ -1,5 +1,4 @@
 ---
-title: Business Process Model and Notation
 section: term
 kind: explain
 ---

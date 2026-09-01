@@ -1,5 +1,4 @@
 ---
-title: Mint System als Subunternehmen
 section: organisation
 ---
 

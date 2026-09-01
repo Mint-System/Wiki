@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Produkt erfassen
 kind: howto
 section: process
 ---

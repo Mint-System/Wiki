@@ -1,5 +1,4 @@
 ---
-title: Phase Website Event
 kind: explain
 section: service
 ---

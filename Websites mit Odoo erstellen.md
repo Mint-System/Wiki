@@ -1,5 +1,4 @@
 ---
-title: Websites mit Odoo erstellen
 kind: explain
 section: blog
 draft: false

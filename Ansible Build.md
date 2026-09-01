@@ -1,5 +1,4 @@
 ---
-title: Ansible Build
 kind: reference
 section: infrastructure
 website: https://ansible.build

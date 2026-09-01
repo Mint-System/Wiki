@@ -1,5 +1,4 @@
 ---
-title: OmniaSolutions
 kind: reference
 section: contact
 ---

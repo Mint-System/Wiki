@@ -1,5 +1,4 @@
 ---
-title: Nextcloud Upgrade
 kind: tutorial
 section: dev
 ---

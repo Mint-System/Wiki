@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Kollaboration
 kind: explain
 section: policy
 ---

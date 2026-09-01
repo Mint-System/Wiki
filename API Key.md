@@ -1,5 +1,4 @@
 ---
-title: API Key
 kind: explain
 section: term
 ---

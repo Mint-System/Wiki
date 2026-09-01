@@ -1,5 +1,4 @@
 ---
-title: Hetzner - RAM-Speicher erhöhen
 kind: howto
 section: vendor
 ---

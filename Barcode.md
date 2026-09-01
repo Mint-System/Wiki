@@ -1,5 +1,4 @@
 ---
-title: Barcode
 section: term
 kind: explain
 ---

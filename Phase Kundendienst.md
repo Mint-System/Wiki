@@ -1,5 +1,4 @@
 ---
-title: Phase Kundendienst
 kind: explain
 section: service
 ---

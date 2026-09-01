@@ -1,5 +1,4 @@
 ---
-title: Vorgehensmodell
 kind: explain
 section: methodology
 ---

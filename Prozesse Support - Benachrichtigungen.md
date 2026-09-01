@@ -1,5 +1,4 @@
 ---
-title: Prozesse Support - Benachrichtigungen
 kind: howto
 section: process
 ---

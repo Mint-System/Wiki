@@ -1,5 +1,4 @@
 ---
-title: Phase Website Blog
 kind: explain
 section: service
 ---

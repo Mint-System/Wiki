@@ -1,5 +1,4 @@
 ---
-title: Odoo Entwicklungsumgebung
 kind: reference
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Phase Moodle Hosting
 kind: explain
 section: service
 ---

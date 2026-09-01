@@ -1,5 +1,4 @@
 ---
-title: Vision
 kind: explain
 draft: true
 section: organisation

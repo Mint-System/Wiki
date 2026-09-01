@@ -1,5 +1,4 @@
 ---
-title: Nextcloud Apps
 section: communication
 kind: reference
 ---

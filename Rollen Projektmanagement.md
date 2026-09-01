@@ -1,5 +1,4 @@
 ---
-title: Rollen Projektmanagement
 section: organisation
 kind: reference
 ---

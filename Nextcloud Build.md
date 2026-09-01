@@ -1,5 +1,4 @@
 ---
-title: Nextcloud Build
 kind: reference
 lang: en
 section: infrastructure

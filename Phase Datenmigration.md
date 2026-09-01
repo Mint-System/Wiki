@@ -1,5 +1,4 @@
 ---
-title: Phase Datenmigration
 kind: explain
 section: service
 ---

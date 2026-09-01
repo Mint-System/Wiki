@@ -1,5 +1,4 @@
 ---
-title: DKIM
 section: term
 kind: explain
 ---

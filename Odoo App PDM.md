@@ -1,5 +1,4 @@
 ---
-title: Odoo App PDM
 kind: reference
 section: communication
 ---

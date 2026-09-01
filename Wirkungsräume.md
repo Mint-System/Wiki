@@ -1,5 +1,4 @@
 ---
-title: Wirkungsräume
 kind: explain
 section: organisation
 ---

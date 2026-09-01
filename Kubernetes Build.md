@@ -1,5 +1,4 @@
 ---
-title: Kubernetes Build
 kind: reference
 lang: en
 section: infrastructure

@@ -1,5 +1,4 @@
 ---
-title: Matomo Hosting
 section: product
 kind: explain
 ---

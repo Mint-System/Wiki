@@ -1,5 +1,4 @@
 ---
-title: Assets for Odoo Modules
 kind: reference
 section: dev
 ---

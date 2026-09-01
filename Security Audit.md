@@ -1,5 +1,4 @@
 ---
-title: Security Audit
 section: service
 kind: explain
 ---

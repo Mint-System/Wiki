@@ -1,5 +1,4 @@
 ---
-title: Odoo Hosting - Off-Premise
 kind: explain
 section: product
 ---

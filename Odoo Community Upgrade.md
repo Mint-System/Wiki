@@ -8,4 +8,3 @@ section: vendor
 Also known as the OpenUpgrade.
 
 ![[Odoo OpenUpgrade Procedure.png]]
-

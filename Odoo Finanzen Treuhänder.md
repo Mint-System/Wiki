@@ -1,5 +1,4 @@
 ---
-title: Odoo Finanzen Treuhänder
 section: communication
 kind: explain
 ---

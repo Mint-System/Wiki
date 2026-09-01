@@ -1,5 +1,4 @@
 ---
-title: Phase Einkauf
 kind: explain
 section: service
 ---

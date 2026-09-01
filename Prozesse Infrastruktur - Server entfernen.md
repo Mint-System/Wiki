@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Server entfernen
 kind: howto
 section: process
 ---

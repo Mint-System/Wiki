@@ -1,5 +1,4 @@
 ---
-title: Ventor Pro
 kind: reference
 section: product
 website: https://ventor.app

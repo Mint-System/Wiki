@@ -1,5 +1,4 @@
 ---
-title: Open Source
 ---
 
 Verwenden wir synonym zu [[Open Source Software]].

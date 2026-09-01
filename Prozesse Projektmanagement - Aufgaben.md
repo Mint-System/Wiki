@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Aufgaben
 kind: howto
 section: process
 ---

@@ -1,5 +1,4 @@
 ---
-title: Kollaboration
 section: organisation
 ---
 

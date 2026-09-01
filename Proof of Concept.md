@@ -1,5 +1,4 @@
 ---
-title: Proof of Concept
 ---
 
 Als Teil der [[Gap-Analyse]] kann abhängig von der Projektsituation ein Proof of Concept (PoC) entwickelt werden. Mit dem PoC soll sichergestellt werden, dass die kritischen Geschäftsprozesse mit Odoo funktionieren.

@@ -1,5 +1,4 @@
 ---
-title: Angebot
 kind: reference
 section: product
 ---

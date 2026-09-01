@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Datenlöschung und Entsorgung
 kind: explain
 section: policy
 draft: true

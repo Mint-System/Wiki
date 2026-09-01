@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Obsidian
 kind: explain
 section: policy
 ---

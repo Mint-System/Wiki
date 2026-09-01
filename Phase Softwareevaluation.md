@@ -1,5 +1,4 @@
 ---
-title: Phase Softwareevaluation
 kind: explain
 section: service
 ---

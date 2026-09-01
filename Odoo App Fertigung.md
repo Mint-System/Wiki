@@ -1,5 +1,4 @@
 ---
-title: Odoo App Fertigung
 kind: explain
 section: communication
 ---

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Zeiterfassung
 kind: howto
 section: process
 ---

@@ -1,5 +1,4 @@
 ---
-title: Managed Kubernetes
 ---
 
 | Anbieter       | Produkt                         |

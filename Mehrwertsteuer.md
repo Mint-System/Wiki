@@ -1,5 +1,4 @@
 ---
-title: Mehrwertsteuer (MwSt)
 ---
 
 Die Mint System (CHE-150.248.608 MWST) verrechnet die Mehrwertsteuer mittels dem Saldosteuersatz (SSS) über folgende Abrechnungsmodalitäten:

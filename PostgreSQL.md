@@ -1,5 +1,4 @@
 ---
-title: PostgreSQL
 kind: reference
 lang: en
 section: dev

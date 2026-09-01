@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - OS Migration
 kind: howto
 section: process
 ---

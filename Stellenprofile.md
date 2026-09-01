@@ -1,5 +1,4 @@
 ---
-title: Stellenprofile
 kind: reference
 section: organisation
 ---

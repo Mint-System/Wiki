@@ -1,5 +1,4 @@
 ---
-title: Managed Server Kalkulation
 kind: explain
 section: product
 ---
@@ -40,4 +39,3 @@ Die Kosten für zusätzlichen Speicherplatz sind vom ausgewählten Anbieter abh�
 ## Berechnung
 
 Der finale Preis umfasst nicht nur die Kosten des Anbieters, sondern auch die damit betriebenen Hosting-Lösungen und Konfiguration des Servers.
-

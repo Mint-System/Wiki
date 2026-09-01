@@ -1,5 +1,4 @@
 ---
-title: TOTP Auth
 lang: en
 kind: reference
 section: term

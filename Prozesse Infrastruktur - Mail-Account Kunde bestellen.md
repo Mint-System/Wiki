@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Mail-Account Kunde
 kind: howto
 section: process
 ---

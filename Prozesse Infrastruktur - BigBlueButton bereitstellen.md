@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - BigBlueButton bereitstellen
 kind: howto
 section: process
 ---

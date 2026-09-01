@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Code Sharing
 kind: explain
 section: policy
 ---

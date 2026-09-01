@@ -1,5 +1,4 @@
 ---
-title: Mint Bot
 section: account
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: Linux
 kind: reference
 section: term
 ---

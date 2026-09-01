@@ -1,5 +1,4 @@
 ---
-title: Aufwandsschätzung Odoo Upgrade XX.0
 section: template
 kind: reference
 ---

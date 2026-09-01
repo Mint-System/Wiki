@@ -1,5 +1,4 @@
 ---
-title: Softwareentwicklungsprojekte
 kind: reference
 ---
 

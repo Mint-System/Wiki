@@ -1,5 +1,4 @@
 ---
-title: Phase CRM
 kind: explain
 section: service
 ---

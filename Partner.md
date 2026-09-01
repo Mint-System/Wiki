@@ -1,5 +1,4 @@
 ---
-title: Partner
 kind: explain
 ---
 

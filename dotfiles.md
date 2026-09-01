@@ -1,5 +1,4 @@
 ---
-title: dotfiles
 kind: reference
 section: tool
 ---

@@ -1,5 +1,4 @@
 ---
-title: Technologien
 kind: explain
 section: meta
 ---

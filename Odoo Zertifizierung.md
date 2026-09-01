@@ -1,5 +1,4 @@
 ---
-title: Odoo Zertifizierung
 kind: explain
 section: dev
 ---

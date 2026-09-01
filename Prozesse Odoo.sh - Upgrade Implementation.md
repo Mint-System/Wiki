@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo.sh - Upgrade Implementation
 kind: howto
 section: process
 ---

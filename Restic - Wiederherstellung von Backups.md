@@ -1,5 +1,4 @@
 ---
-title: Restic - Wiederherstellung von Backups
 kind: howto
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Hetzner Troubleshooting
 kind: howto
 lang: en
 section: dev

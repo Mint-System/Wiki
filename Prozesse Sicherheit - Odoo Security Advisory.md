@@ -1,5 +1,4 @@
 ---
-title: Prozesse Sicherheit - Odoo Security Advisory
 kind: howto
 section: process
 ---

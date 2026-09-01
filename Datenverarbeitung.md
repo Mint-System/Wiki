@@ -1,5 +1,4 @@
 ---
-title: Datenverarbeitung
 kind: explain
 section: methodology
 ---
@@ -29,4 +28,3 @@ Wenn ein laufender Abgleich von Daten zwischen zwei oder mehreren Systemen statt
 Wenn die Daten in Odoo sind, werden die Odoo Werkzeuge (Wissensdatenbank, Pivot) für Auswertungen verwendet.
 
 Wenn Daten aus unterschiedlichen Systemen zusammengeführt werden müssen, wird dazu eine [[PostgreSQL]]-Datenank mit [[Foreign Data Wrapper]] erstellt. Die Abfrage und Visualisierung der Daten erfolgt mit [[Grafana]] oder [[Apache Superset]].
-

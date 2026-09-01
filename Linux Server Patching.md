@@ -1,5 +1,4 @@
 ---
-title: Linux Server Patching
 kind: explain
 section: product
 ---

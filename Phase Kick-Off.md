@@ -1,5 +1,4 @@
 ---
-title: Phase Kick-Off
 kind: explain
 section: service
 ---

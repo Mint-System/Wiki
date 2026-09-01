@@ -1,5 +1,4 @@
 ---
-title: Mythen über Open Source
 draft: true
 section: blog
 kind: explain

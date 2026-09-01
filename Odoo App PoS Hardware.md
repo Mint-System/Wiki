@@ -1,5 +1,4 @@
 ---
-title: Odoo App PoS Hardware
 section: communication
 kind: explain
 ---

@@ -1,5 +1,4 @@
 ---
-title: Mitarbeit
 ---
 
 > Wie können Dritte und Mitarbeiter der [[Mint System GmbH]] diese Wissensdatenbank bearbeiten?
@@ -12,7 +11,7 @@ Die folgenden Dateien gehören zum Obsidian Projekt:
 
 * [[AGENTS]]
 * [[Entry]]
-* [[WIP no kind nor selection.base]]
+* [[WIP Entries Missing Metadata.base]]
 * [[Accounts.base]]
 * [[Anleitungen.base]]
 * [[Begriffe.base]]
@@ -44,7 +43,7 @@ Die folgenden Dateien gehören zum Obsidian Projekt:
 * [[Vorlagen.base]]
 * [[Website and Repository.base
 * [[Recent Entries.base]]
-* [[WIP no backlinks.base]]
+* [[WIP Entries No Backlinks.base]]
 
 ## VuePress
 

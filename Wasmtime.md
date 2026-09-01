@@ -1,5 +1,4 @@
 ---
-title: Wasmtime
 kind: reference
 website: https://wasmtime.dev/
 ---

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Akquise - Workshop Gap-Analyse
 kind: howto
 section: process
 ---

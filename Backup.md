@@ -1,5 +1,4 @@
 ---
-title: Backup
 section: infrastructure
 kind: explain
 ---

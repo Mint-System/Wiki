@@ -1,5 +1,4 @@
 ---
-title: Mail Bounce
 kind: explain
 section: term
 ---

@@ -1,5 +1,4 @@
 ---
-title: AGENTS.md
 section: meta
 kind: explain
 ---

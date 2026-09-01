@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Todos
 kind: explain
 section: policy
 ---

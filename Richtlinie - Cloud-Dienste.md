@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Cloud-Dienste
 kind: explain
 section: policy
 draft: true

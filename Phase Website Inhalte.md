@@ -1,5 +1,4 @@
 ---
-title: Phase Anpassungen Website
 kind: explain
 section: service
 ---

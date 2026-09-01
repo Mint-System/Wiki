@@ -1,5 +1,4 @@
 ---
-title: OAuth
 kind: explain
 website: https://oauth.net/2/
 ---

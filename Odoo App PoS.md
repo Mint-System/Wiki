@@ -1,5 +1,4 @@
 ---
-title: Odoo App PoS
 kind: explain
 section: communication
 ---

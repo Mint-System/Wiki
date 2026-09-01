@@ -1,5 +1,4 @@
 ---
-title: Services
 kind: reference
 section: organisation
 lang: en

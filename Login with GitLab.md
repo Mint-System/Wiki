@@ -1,5 +1,4 @@
 ---
-title: Login with GitLab
 kind: reference
 ---
 

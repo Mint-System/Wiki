@@ -1,5 +1,4 @@
 ---
-title: Odoo Experience 2021
 section: blog
 kind: explain
 draft: false

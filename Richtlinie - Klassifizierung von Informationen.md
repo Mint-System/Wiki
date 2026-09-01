@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Klassifizierung von Informationen
 kind: explain
 section: policy
 draft: true

@@ -1,5 +1,4 @@
 ---
-title: Odoo Development Workflow
 section: communication
 kind: explain
 ---

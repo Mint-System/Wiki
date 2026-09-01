@@ -1,5 +1,4 @@
 ---
-title: Hetzner - Projekt verwalten
 kind: howto
 section: vendor
 ---

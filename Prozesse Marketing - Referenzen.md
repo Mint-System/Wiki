@@ -1,5 +1,4 @@
 ---
-title: Prozesse Marketing - Website
 section: process
 kind: howto
 ---

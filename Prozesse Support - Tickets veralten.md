@@ -1,5 +1,4 @@
 ---
-title: Prozesse Support - Tickets veralten
 kind: howto
 section: process
 ---

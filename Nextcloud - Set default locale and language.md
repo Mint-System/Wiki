@@ -1,5 +1,4 @@
 ---
-title: Nextcloud - Set default locale and language
 section: dev
 lang: en
 kind: howto

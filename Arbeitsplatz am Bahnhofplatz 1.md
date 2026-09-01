@@ -1,5 +1,4 @@
 ---
-title: Arbeitsplatz am Bahnhofplatz 1
 section: blog
 kind: explain
 draft: false

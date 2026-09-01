@@ -1,5 +1,4 @@
 ---
-title: autossh
 kind: explain
 lang: en
 section: infrastructure

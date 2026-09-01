@@ -1,5 +1,4 @@
 ---
-title: Code of Conduct
 section: organisation
 kind: explain
 ---

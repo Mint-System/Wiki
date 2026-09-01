@@ -1,5 +1,4 @@
 ---
-title: Git Mint System
 section: infrastructure
 kind: reference
 website: https://mint.app.codey.ch/

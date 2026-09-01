@@ -1,5 +1,4 @@
 ---
-title: Odoo App PoS Checkliste
 kind: howto
 section: guide
 ---

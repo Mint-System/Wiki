@@ -1,5 +1,4 @@
 ---
-title: Template Issue
 kind: reference
 section: template
 ---

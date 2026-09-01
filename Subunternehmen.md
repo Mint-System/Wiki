@@ -1,5 +1,4 @@
 ---
-title: Subunternehmen
 section: organisation
 ---
 

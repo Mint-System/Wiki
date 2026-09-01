@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Sicherheitsvorfälle
 kind: explain
 section: policy
 draft: true

@@ -1,5 +1,4 @@
 ---
-title: Large Language Models
 kind: reference
 lang: en
 section: term

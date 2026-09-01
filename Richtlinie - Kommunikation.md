@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Kommunikation
 kind: explain
 section: policy
 ---
@@ -41,5 +40,4 @@ Der Projektbezogenen-Austausch muss für alle beteiligten nachvollziehbar sein. 
 
 ## Matrix
 
-Wir haben einen [[Chat Mint System]] im Einsatz. Der Server bietet Raum zur Kommunikation mit der Open-Source-Community. 
-
+Wir haben einen [[Chat Mint System]] im Einsatz. Der Server bietet Raum zur Kommunikation mit der Open-Source-Community.

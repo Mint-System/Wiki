@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Serverwartung
 kind: howto
 section: process
 ---

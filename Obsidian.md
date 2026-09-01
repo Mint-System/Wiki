@@ -1,5 +1,4 @@
 ---
-title: Obsidian
 website: https://obsidian.md/
 ---
 

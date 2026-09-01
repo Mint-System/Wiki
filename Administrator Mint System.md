@@ -1,5 +1,4 @@
 ---
-title: Administrator Mint System
 kind: reference
 section: account
 ---

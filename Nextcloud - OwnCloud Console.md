@@ -1,5 +1,4 @@
 ---
-title: Nextcloud - OwnCloud Console
 section: dev
 kind: howto
 lang: en

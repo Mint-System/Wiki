@@ -1,5 +1,4 @@
 ---
-title: Steuern
 kind: explain
 section: organisation
 ---

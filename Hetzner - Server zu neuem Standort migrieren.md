@@ -1,5 +1,4 @@
 ---
-title: Hetzner - Server zu neuem Standort migrieren
 kind: howto
 section: vendor
 ---

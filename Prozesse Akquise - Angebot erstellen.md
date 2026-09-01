@@ -1,5 +1,4 @@
 ---
-title: Prozesse Akquise - Angebot erstellen
 kind: howto
 section: process
 ---

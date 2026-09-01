@@ -1,5 +1,4 @@
 ---
-title: Nextcloud - Restore password manager from backup
 lang: en
 section: dev
 kind: howto

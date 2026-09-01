@@ -1,5 +1,4 @@
 ---
-title: Migrate OCA module to XX.0
 section: template
 kind: reference
 lang: en

@@ -1,5 +1,4 @@
 ---
-title: Phase Microsoft Login
 kind: explain
 section: service
 ---

@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Generative KI
 kind: explain
 section: policy
 ---

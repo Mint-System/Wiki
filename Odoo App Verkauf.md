@@ -1,5 +1,4 @@
 ---
-title: Odoo App Verkauf
 section: communication
 kind: explain
 ---

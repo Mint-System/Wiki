@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Upgrade Implementation
 kind: howto
 section: process
 ---

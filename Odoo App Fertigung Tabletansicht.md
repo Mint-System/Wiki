@@ -1,5 +1,4 @@
 ---
-title: Odoo App Fertigung Tabletansicht
 kind: explain
 section: communication
 ---

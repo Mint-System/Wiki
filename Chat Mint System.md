@@ -1,5 +1,4 @@
 ---
-title: Chat Mint System
 website: https://chat.mint-system.ch
 section: infrastructure
 kind: reference

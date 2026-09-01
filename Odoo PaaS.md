@@ -1,5 +1,4 @@
 ---
-title: Odoo PaaS
 ---
 
 This a vision for the Odoo Plattform as a Service.

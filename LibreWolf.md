@@ -1,5 +1,4 @@
 ---
-title: LibreWolf
 kind: reference
 lang: en
 section: tool

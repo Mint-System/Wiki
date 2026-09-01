@@ -1,5 +1,4 @@
 ---
-title: Phase Zeiterfassung
 kind: explain
 section: service
 ---

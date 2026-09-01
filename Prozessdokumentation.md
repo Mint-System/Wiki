@@ -1,5 +1,4 @@
 ---
-title: Prozessdokumentation
 kind: explain
 section: methodology
 ---

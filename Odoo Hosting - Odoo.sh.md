@@ -1,5 +1,4 @@
 ---
-title: Odoo Hosting - Odoo.sh
 kind: explain
 section: product
 website: https://www.odoo.sh/

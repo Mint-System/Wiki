@@ -1,5 +1,4 @@
 ---
-title: Security
 lang: en
 section: term
 kind: reference

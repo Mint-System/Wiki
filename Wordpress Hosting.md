@@ -1,5 +1,4 @@
 ---
-title: Wordpress Hosting
 section: product
 kind: explain
 ---

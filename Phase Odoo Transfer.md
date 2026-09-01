@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Transfer
 kind: explain
 section: service
 ---

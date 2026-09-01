@@ -1,5 +1,4 @@
 ---
-title: Spam
 lang: en
 kind: explain
 section: term

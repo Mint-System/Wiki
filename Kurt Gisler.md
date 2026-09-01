@@ -1,5 +1,4 @@
 ---
-title: Kurt Gisler
 kind: reference
 responsibilities:
   - Unternehmensentwicklung

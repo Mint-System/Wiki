@@ -1,5 +1,4 @@
 ---
-title: Phase Kontakte
 kind: explain
 section: service
 ---

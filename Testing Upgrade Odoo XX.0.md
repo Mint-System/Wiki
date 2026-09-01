@@ -1,5 +1,4 @@
 ---
-title: Testing Upgrade Odoo XX.0
 kind: reference
 section: template
 ---

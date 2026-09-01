@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Nextcloud bestellen
 kind: howto
 section: process
 ---

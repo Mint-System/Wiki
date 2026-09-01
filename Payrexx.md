@@ -1,5 +1,4 @@
 ---
-title: Payrexx
 kind: reference
 section: contact
 website: https://www.payrexx.com

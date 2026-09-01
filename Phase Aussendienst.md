@@ -1,5 +1,4 @@
 ---
-title: Phase Aussendienst
 kind: explain
 section: service
 ---

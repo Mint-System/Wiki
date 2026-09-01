@@ -1,5 +1,4 @@
 ---
-title: Keycloak Hosting
 section: product
 kind: explain
 ---

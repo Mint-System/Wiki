@@ -1,5 +1,4 @@
 ---
-title: IT-Monokultur in der Verwaltung
 section: blog
 kind: explain
 draft: false

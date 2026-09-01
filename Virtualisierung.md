@@ -1,5 +1,4 @@
 ---
-title: Virutalisierung
 kind: reference
 section: term
 ---

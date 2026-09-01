@@ -1,5 +1,4 @@
 ---
-title: Specification Website Sale Kubernetes Subscription OCA
 deprecated: true
 kind: explain
 lang: en

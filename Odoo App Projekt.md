@@ -1,5 +1,4 @@
 ---
-title: Odoo App Projekt
 section: communication
 kind: explain
 ---

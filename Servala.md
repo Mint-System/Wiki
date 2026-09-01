@@ -1,5 +1,4 @@
 ---
-title: Servala
 section: vendor
 kind: reference
 website: https://servala.com/

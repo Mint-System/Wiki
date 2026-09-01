@@ -1,5 +1,4 @@
 ---
-title: Odoo Mobile App
 section: communication
 kind: reference
 ---

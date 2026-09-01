@@ -1,5 +1,4 @@
 ---
-title: Phase Produkte
 kind: explain
 section: service
 ---

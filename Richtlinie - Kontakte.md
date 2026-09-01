@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Kontakte
 kind: explain
 section: policy
 ---

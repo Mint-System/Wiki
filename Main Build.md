@@ -1,5 +1,4 @@
 ---
-title: Main Build
 kind: reference
 section: infrastructure
 website: https://main.build

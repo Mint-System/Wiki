@@ -1,5 +1,4 @@
 ---
-title: Odoo 16 - Ein Meilenstein
 kind: explain
 draft: false
 section: blog

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Softwareentwicklung - Odoo Module
 kind: howto
 section: process
 ---

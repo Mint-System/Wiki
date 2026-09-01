@@ -1,5 +1,4 @@
 ---
-title: Large Language Model Agents
 lang: en
 kind: explain
 section: dev

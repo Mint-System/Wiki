@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Finanzen
 kind: explain
 section: policy
 ---

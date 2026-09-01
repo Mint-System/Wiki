@@ -1,5 +1,4 @@
 ---
-title: Groupware
 kind: reference
 section: term
 ---

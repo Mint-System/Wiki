@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Kalender
 kind: explain
 section: policy
 ---

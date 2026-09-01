@@ -1,5 +1,4 @@
 ---
-title: Odoo Support
 kind: explain
 section: service
 ---

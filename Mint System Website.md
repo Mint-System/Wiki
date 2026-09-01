@@ -1,5 +1,4 @@
 ---
-title: Mint System Website
 kind: reference
 lang: en
 repository: https://github.com/Mint-System/Website

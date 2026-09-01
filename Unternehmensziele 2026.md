@@ -1,5 +1,4 @@
 ---
-title: Unternehmensziele 2026
 section: organisation
 kind: explain
 ---

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Revision
 kind: howto
 section: section
 ---

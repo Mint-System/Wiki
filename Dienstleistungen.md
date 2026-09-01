@@ -1,5 +1,4 @@
 ---
-title: Dienstleistungen
 kind: reference
 section: organisation
 ---

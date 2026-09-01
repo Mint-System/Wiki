@@ -1,5 +1,4 @@
 ---
-title: Wartungsvertrag
 section: product
 kind: explain
 ---

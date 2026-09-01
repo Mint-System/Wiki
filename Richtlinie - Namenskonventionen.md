@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Namenskonventionen
 kind: explain
 section: policy
 ---

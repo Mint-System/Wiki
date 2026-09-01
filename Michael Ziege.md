@@ -1,5 +1,4 @@
 ---
-title: Michael Ziege
 section: organisation
 kind: reference
 ---

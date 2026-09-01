@@ -1,5 +1,4 @@
 ---
-title: Kubernetes
 section: technology
 kind: reference
 website: https://kubernetes.io/

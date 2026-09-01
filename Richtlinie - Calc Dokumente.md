@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Calc Dokumente
 kind: explain
 section: policy
 ---

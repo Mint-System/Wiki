@@ -1,5 +1,4 @@
 ---
-title: E-Mails mit Odoo versenden und empfangen
 kind: explain
 draft: false
 section: blog

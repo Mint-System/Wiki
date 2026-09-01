@@ -1,5 +1,4 @@
 ---
-title: Richtlinien
 kind: reference
 section: policy
 ---

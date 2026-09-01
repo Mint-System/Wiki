@@ -1,5 +1,4 @@
 ---
-title: Prozesse Marketing - Newsletter und Blog
 kind: howto
 section: process
 ---

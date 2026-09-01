@@ -1,5 +1,4 @@
 ---
-title: Janik von Rotz
 responsibilities:
   - Infrastruktur
   - Development

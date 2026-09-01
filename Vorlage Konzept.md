@@ -1,5 +1,4 @@
 ---
-title: Vorlage Konzept
 kind: reference
 section: template
 ---

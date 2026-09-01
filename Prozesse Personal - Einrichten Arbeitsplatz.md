@@ -1,5 +1,4 @@
 ---
-title: Prozesse Personal - Einrichten Arbeitsplatz
 section: process
 kind: howto
 ---

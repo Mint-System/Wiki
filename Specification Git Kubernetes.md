@@ -1,5 +1,4 @@
 ---
-title: Specification Git Kubernetes
 draft: true
 kind: explain
 lang: en

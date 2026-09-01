@@ -1,5 +1,4 @@
 ---
-title: Laszlo Krajnikovszkij
 responsibilities:
   - Infrastruktur
 kind: reference

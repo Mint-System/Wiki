@@ -1,5 +1,4 @@
 ---
-title: Mint Cloud Kubernetes Clusters
 kind: reference
 ---
 

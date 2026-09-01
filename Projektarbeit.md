@@ -1,5 +1,4 @@
 ---
-title: Projektarbeit
 section: methodology
 kind: tutorial
 ---

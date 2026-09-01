@@ -1,5 +1,4 @@
 ---
-title: Exoscale - Extend disk space
 lang: en
 kind: howto
 section: vendor

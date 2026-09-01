@@ -1,5 +1,4 @@
 ---
-title: Keep a changelog
 kind: reference
 section: dev
 website: https://keepachangelog.com/

@@ -1,5 +1,4 @@
 ---
-title: SBOM
 kind: explain
 section: term
 ---

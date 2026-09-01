@@ -1,5 +1,4 @@
 ---
-title: Phase Personal
 kind: explain
 section: service
 ---

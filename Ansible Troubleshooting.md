@@ -1,5 +1,4 @@
 ---
-title: Ansible Troubleshooting
 kind: howto
 section: dev
 ---

@@ -1,5 +1,4 @@
 ---
-title: Backup Replication
 section: infrastructure
 kind: explain
 ---

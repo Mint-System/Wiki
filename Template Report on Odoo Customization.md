@@ -1,5 +1,4 @@
 ---
-title: Template Report on Odoo Customization
 lang: en
 kind: reference
 section: template

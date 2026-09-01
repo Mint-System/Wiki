@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen
 kind: reference
 section: process
 ---

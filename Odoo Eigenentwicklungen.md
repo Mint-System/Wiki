@@ -1,5 +1,4 @@
 ---
-title: Odoo Eigenentwicklungen
 kind: reference
 section: communication
 ---

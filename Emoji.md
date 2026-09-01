@@ -1,5 +1,4 @@
 ---
-title: Emoji
 kind: reference
 section: meta
 ---

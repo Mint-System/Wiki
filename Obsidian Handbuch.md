@@ -1,5 +1,4 @@
 ---
-title: Obsidian Handbuch
 kind: howto
 section: handbook
 ---

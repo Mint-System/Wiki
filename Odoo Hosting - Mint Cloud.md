@@ -1,5 +1,4 @@
 ---
-title: Odoo Hosting - Mint Cloud
 kind: explain
 section: product
 ---

@@ -1,5 +1,4 @@
 ---
-title: Restic Troubleshooting
 kind: howto
 section: dev
 ---

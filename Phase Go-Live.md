@@ -1,5 +1,4 @@
 ---
-title: Phase Go-Live
 kind: explain
 section: service
 ---

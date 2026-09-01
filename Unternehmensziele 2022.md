@@ -1,5 +1,4 @@
 ---
-title: Unternehmensziele 2022
 kind: explain
 section: organisation
 ---

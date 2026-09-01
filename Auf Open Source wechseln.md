@@ -1,5 +1,4 @@
 ---
-title: Auf Open Source wechseln
 kind: explain
 section: blog
 draft: false

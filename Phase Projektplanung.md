@@ -1,5 +1,4 @@
 ---
-title: Phase Projektplanung
 kind: explain
 section: service
 ---

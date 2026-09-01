@@ -1,5 +1,4 @@
 ---
-title: Evaluation Odoo Report
 section: dev
 kind: explain
 ---

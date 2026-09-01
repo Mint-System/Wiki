@@ -1,5 +1,4 @@
 ---
-title: End-of-life
 section: tool
 kind: reference
 ---

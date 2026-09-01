@@ -1,5 +1,4 @@
 ---
-title: Evaluation IaaS
 kind: explain
 section: dev
 ---

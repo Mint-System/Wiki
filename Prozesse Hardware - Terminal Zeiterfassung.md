@@ -1,5 +1,4 @@
 ---
-title: Prozesse Hardware - Terminal Zeiterfassung
 kind: howto
 section: process
 ---

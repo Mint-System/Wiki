@@ -1,7 +1,6 @@
 ---
 section: organisation
 kind: reference
-title: Interne Dienste
 ---
 
 Interne Dienste für Mitarbeitende der Mint System:

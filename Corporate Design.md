@@ -1,5 +1,4 @@
 ---
-title: Corporate Design
 kind: reference
 section: organisation
 ---

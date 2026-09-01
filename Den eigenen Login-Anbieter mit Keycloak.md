@@ -1,5 +1,4 @@
 ---
-title: Den eigenen Login-Anbieter mit Keycloak betreiben
 kind: explain
 draft: false
 section: blog

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Lizenzierung
 kind: howto
 section: process
 ---

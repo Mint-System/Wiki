@@ -1,5 +1,4 @@
 ---
-title: Unternehmensentwicklung
 kind: explain
 section: organisation
 ---

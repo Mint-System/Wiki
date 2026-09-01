@@ -1,5 +1,4 @@
 ---
-title: Kubernetes Cluster
 kind: explain
 ---
 

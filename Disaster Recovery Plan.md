@@ -1,5 +1,4 @@
 ---
-title: Disaster Recovery Plan
 section: term
 kind: explain
 ---

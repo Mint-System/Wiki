@@ -1,5 +1,4 @@
 ---
-title: Tutorial - Create App with Odoo Studio
 kind: tutorial
 section: dev
 lang: en

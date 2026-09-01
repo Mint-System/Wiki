@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - E-Mail
 kind: explain
 section: policy
 ---

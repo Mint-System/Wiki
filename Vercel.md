@@ -1,5 +1,4 @@
 ---
-title: Vercel
 website: https://vercel.com/mint-system
 ---
 

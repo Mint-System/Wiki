@@ -1,5 +1,4 @@
 ---
-title: Phase Coaching Odoo Entwicklung
 kind: explain
 section: service
 ---

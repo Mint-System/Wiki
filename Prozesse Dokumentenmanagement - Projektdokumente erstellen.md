@@ -1,5 +1,4 @@
 ---
-title: Prozesse Dokumentenmanagement - Dokumente archivieren
 kind: howto
 section: process
 ---

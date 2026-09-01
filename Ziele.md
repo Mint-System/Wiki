@@ -1,5 +1,4 @@
 ---
-title: Ziele
 section: organisation
 kind: reference
 ---

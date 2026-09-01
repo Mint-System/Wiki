@@ -2,7 +2,6 @@
 draft: false
 kind: explain
 section: blog
-title: So gelingt das Odoo Upgrade
 ---
 
 Wäre Odoo ein Game, dann ist das Odoo Upgrade der Bosskampf. Odoo Upgrades sind für Unternehmen und Odoo Partner eine grosse Herausforderung. In vielen Fällen wird sogar auf ein Upgrade verzichtet und man bleibt auf einer alten Odoo Version hängen.

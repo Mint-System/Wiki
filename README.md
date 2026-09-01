@@ -1,5 +1,4 @@
 ---
-title: Wiki Mint System
 kind: explain
 ---
 

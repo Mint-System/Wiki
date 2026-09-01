@@ -1,5 +1,4 @@
 ---
-title: Odoo Developer Tutorials
 kind: reference
 section: dev
 ---

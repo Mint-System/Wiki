@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - IT-Sicherheit
 kind: explain
 section: policy
 draft: true

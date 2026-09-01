@@ -1,5 +1,4 @@
 ---
-title: Phase Inventur
 kind: explain
 section: service
 ---

@@ -1,5 +1,4 @@
 ---
-title: Git Handbook
 kind: howto
 lang: en
 section: handbook

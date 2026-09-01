@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Odoo bestellen
 kind: howto
 section: process
 ---

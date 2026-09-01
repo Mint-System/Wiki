@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Zutritt und Besucher
 kind: explain
 section: policy
 draft: true

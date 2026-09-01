@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Mail-Account Intern
 kind: howto
 section: process
 ---

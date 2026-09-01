@@ -1,5 +1,4 @@
 ---
-title: Jenkins Handbuch
 kind: howto
 section: handbook
 ---

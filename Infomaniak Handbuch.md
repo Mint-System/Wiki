@@ -1,5 +1,4 @@
 ---
-title: Infomaniak Handbuch
 kind: howto
 section: handbook
 ---

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Kostenrechnung
 kind: howto
 section: process
 ---

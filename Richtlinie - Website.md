@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Website
 kind: explain
 section: policy
 ---

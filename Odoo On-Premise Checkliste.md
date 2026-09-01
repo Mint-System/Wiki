@@ -1,5 +1,4 @@
 ---
-title: Odoo On-Premise Checkliste
 kind: howto
 section: guide
 ---

@@ -1,5 +1,4 @@
 ---
-title: Odoo Revisionen
 kind: reference
 section: term
 ---

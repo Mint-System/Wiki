@@ -1,5 +1,4 @@
 ---
-title: Odoo Login Integration
 ---
 
 Mint System unterstützt die Verbindung von Odoo mit verschiedenen Login-Systemen. Dazu gehören:

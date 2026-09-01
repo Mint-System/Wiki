@@ -1,5 +1,4 @@
 ---
-title: Produktive Umgebungen
 section: communication
 kind: reference
 ---

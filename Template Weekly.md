@@ -1,5 +1,4 @@
 ---
-title: Template Weely
 kind: reference
 section: template
 ---

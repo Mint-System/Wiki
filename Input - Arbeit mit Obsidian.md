@@ -1,5 +1,4 @@
 ---
-title: Input - Arbeit mit Obsidian
 section: training
 kind: tutorial
 ---

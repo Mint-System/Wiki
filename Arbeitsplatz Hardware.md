@@ -1,5 +1,4 @@
 ---
-title: Arbeitsplatz Hardware
 section: infrastructure
 kind: reference
 ---

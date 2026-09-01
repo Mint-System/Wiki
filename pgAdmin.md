@@ -1,5 +1,4 @@
 ---
-title: pgAdmin
 kind: reference
 section: dev
 website: https://www.pgadmin.org/

@@ -1,5 +1,4 @@
 ---
-title: Spam reduzieren mit SPF, DKIM und DMARC
 draft: false
 kind: explain
 section: blog

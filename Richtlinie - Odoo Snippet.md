@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Odoo Snippet
 kind: explain
 section: policy
 ---

@@ -1,5 +1,4 @@
 ---
-title: Odoo Mailgate
 kind: reference
 website: https://odoo.build/images/odoo-mailgate/
 ---

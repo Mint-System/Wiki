@@ -1,5 +1,4 @@
 ---
-title: Odoo mit ihrer Bank verbinden
 section: blog
 kind: explain
 draft: true

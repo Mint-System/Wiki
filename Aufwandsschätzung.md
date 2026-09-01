@@ -1,5 +1,4 @@
 ---
-title: Aufwandsschätzung
 section: methodology
 kind: explain
 ---

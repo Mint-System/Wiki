@@ -1,5 +1,4 @@
 ---
-title: Evaluation
 kind: tutorial
 section: methodology
 ---

@@ -1,5 +1,4 @@
 ---
-title: Nextcloud Desktop Client Installation
 lang: en
 kind: tutorial
 section: tool

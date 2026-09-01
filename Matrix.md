@@ -1,5 +1,4 @@
 ---
-title: Matrix
 website: https://matrix.org/
 ---
 

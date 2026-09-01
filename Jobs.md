@@ -1,5 +1,4 @@
 ---
-title: Jobs
 section: organisation
 kind: reference
 ---

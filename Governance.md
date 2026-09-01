@@ -1,5 +1,4 @@
 ---
-title: Governance
 kind: explain
 section: organisation
 ---

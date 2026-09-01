@@ -1,5 +1,4 @@
 ---
-title: Phase Versand
 kind: explain
 section: service
 ---

@@ -1,5 +1,4 @@
 ---
-title: Migrate docker postgres databases with pg_dump
 archive: true
 kind: howto
 section: dev

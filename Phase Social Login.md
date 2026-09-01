@@ -1,5 +1,4 @@
 ---
-title: Phase Social Login
 kind: explain
 section: service
 ---

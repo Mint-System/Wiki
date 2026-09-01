@@ -1,5 +1,4 @@
 ---
-title: Workshops
 kind: explain
 section: service
 ---

@@ -1,5 +1,4 @@
 ---
-title: Beratungsprojekte
 kind: reference
 section: product
 ---
@@ -13,4 +12,3 @@ Zur Umsetzung eines Beratungsprojek können diese Phase angewendet werden:
 - [[Phase Softwareevaluation]]
 - [[Phase Projekteingabe]]
 - [[Phase Roadmap]]
-

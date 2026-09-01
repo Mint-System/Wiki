@@ -1,5 +1,4 @@
 ---
-title: Odoo Kontakt
 kind: reference
 ---
 

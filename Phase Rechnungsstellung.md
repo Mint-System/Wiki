@@ -1,5 +1,4 @@
 ---
-title: Phase Rechnungsstellung
 kind: explain
 section: service
 ---

@@ -1,5 +1,4 @@
 ---
-title: Anleitung
 kind: reference
 section: meta
 ---

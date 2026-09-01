@@ -1,5 +1,4 @@
 ---
-title: Pendenzen
 kind: explain
 section: methodology
 ---

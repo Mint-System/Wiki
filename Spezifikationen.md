@@ -1,5 +1,4 @@
 ---
-title: Spezifikationen
 kind: reference
 section: specification
 ---

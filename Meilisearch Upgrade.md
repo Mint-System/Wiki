@@ -1,5 +1,4 @@
 ---
-title: Meilisearch Upgrade
 section: dev
 kind: tutorial
 lang: en

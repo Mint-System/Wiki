@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Security Awareness
 kind: explain
 section: policy
 draft: true

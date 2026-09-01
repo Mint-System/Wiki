@@ -1,5 +1,4 @@
 ---
-title: Specification Website Sale Helm
 lang: en
 kind: explain
 section: specification

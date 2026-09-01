@@ -1,5 +1,4 @@
 ---
-title: Prozesse Akquise - Präsentation
 kind: howto
 section: process
 ---

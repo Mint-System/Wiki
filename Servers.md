@@ -1,5 +1,4 @@
 ---
-title: Servers
 kind: reference
 section: infrastructure
 ---

@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Konferenz
 kind: explain
 section: policy
 ---

@@ -1,5 +1,4 @@
 ---
-title: Nextcloud - Desktop Client Synchronisation einrichten
 kind: howto
 section: process
 ---

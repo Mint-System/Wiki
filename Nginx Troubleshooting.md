@@ -1,5 +1,4 @@
 ---
-title: Nginx Troubleshooting
 kind: howto
 section: dev
 ---

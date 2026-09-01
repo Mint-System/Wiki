@@ -1,5 +1,4 @@
 ---
-title: Design Decisions
 kind: tutorial
 section: methodology
 ---

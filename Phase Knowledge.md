@@ -1,5 +1,4 @@
 ---
-title: Phase Knowledge
 kind: explain
 section: service
 ---

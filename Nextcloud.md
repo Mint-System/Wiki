@@ -1,5 +1,4 @@
 ---
-title: Nextcloud
 kind: reference
 section: product
 website: https://nextcloud.com/

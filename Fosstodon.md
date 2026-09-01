@@ -1,5 +1,4 @@
 ---
-title: Fosstodon
 website: https://fosstodon.org
 ---
 

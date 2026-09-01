@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Personalabrechnung
 kind: howto
 section: process
 ---

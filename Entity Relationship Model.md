@@ -1,5 +1,4 @@
 ---
-title: Entity Relationship Model
 section: term
 kind: explain
 ---

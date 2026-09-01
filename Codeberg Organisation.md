@@ -1,5 +1,4 @@
 ---
-title: Codeberg Organisation
 section: account
 kind: reference
 ---

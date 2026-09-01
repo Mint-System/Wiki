@@ -1,5 +1,4 @@
 ---
-title: Nix
 lang: en
 website: https://nixos.org/
 ---

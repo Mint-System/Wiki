@@ -1,5 +1,4 @@
 ---
-title: Mitgliedschaften
 kind: reference
 section: organisation
 ---

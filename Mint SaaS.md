@@ -1,5 +1,4 @@
 ---
-title: Mint SaaS
 ---
 
 ## Input

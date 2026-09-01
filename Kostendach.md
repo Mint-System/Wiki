@@ -1,5 +1,4 @@
 ---
-title: Kostendach
 kind: explain
 section: term
 ---

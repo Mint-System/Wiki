@@ -1,5 +1,4 @@
 ---
-title: Hosting-Projekte
 kind: reference
 ---
 ## Phasen

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Beratung - Aufnahme Assets
 kind: howto
 section: process
 ---

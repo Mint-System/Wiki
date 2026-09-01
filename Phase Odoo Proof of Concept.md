@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Proof of Concept
 kind: explain
 section: service
 ---

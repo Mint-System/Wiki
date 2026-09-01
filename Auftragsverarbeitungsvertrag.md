@@ -1,5 +1,4 @@
 ---
-title: Auftragsverarbeitungsvertrag
 section: template
 kind: reference
 ---

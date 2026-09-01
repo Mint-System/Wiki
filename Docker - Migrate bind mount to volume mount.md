@@ -1,5 +1,4 @@
 ---
-title: Docker - Migrate bind mount to volume mount
 section: dev
 kind: explain
 ---

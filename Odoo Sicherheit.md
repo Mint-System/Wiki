@@ -1,5 +1,4 @@
 ---
-title: Odoo Sicherheit
 kind: reference
 section: dev
 ---

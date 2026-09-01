@@ -1,5 +1,4 @@
 ---
-title: Fonts
 kind: reference
 section: organisation
 ---

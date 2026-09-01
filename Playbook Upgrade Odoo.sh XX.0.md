@@ -1,5 +1,4 @@
 ---
-title: Playbook Upgrade Odoo.sh XX.0
 kind: howto
 lang: en
 section: template

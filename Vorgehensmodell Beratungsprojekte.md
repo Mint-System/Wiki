@@ -1,5 +1,4 @@
 ---
-title: Vorgehensmodell Beratungsprojekte
 kind: explain
 section: methodology
 ---

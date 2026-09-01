@@ -1,5 +1,4 @@
 ---
-title: Vorlage Phase
 section: template
 kind: reference
 ---

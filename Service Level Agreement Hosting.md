@@ -1,5 +1,4 @@
 ---
-title: Service Level Agreement Hosting
 ---
 
 Revision: 2024-01-04

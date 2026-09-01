@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Spesenabrechnung
 kind: howto
 section: process
 ---

@@ -1,5 +1,4 @@
 ---
-title: Odoo Schulung Finanzen
 section: training
 kind: tutorial
 ---

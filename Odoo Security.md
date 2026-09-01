@@ -1,5 +1,4 @@
 ---
-title: Odoo Security
 section: communication
 kind: explain
 ---

@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Spesenreglement
 kind: explain
 section: policy
 ---

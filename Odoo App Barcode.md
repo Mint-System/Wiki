@@ -1,5 +1,4 @@
 ---
-title: Odoo App Strichcode
 kind: explain
 section: communication
 ---

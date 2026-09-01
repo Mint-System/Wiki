@@ -1,5 +1,4 @@
 ---
-title: Nextcloud Hosting
 section: product
 kind: explain
 ---

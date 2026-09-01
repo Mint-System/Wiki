@@ -1,5 +1,4 @@
 ---
-title: Philosophie
 kind:
 section: organisation
 ---

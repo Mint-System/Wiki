@@ -1,5 +1,4 @@
 ---
-title: Terraform
 website: https://www.terraform.io/
 ---
 

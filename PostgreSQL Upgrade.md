@@ -1,5 +1,4 @@
 ---
-title: PostgreSQL Upgrade
 archive: true
 kind: howto
 section: dev

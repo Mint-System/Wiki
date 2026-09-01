@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Server Monitoring
 kind: howto
 section: process
 ---

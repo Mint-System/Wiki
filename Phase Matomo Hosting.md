@@ -1,5 +1,4 @@
 ---
-title: Phase Matomo Hosting
 kind: explain
 section: service
 ---

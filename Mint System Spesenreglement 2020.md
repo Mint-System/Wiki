@@ -1,5 +1,4 @@
 ---
-title: Spesenreglement
 kind: explain
 section: organisation
 ---

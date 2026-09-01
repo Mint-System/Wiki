@@ -1,5 +1,4 @@
 ---
-title: Check-in
 kind: explain
 section: organisation
 ---

@@ -1,5 +1,4 @@
 ---
-title: Nextcloud Troubleshooting
 kind: howto
 section: dev
 ---

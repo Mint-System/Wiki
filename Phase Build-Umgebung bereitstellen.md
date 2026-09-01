@@ -1,5 +1,4 @@
 ---
-title: Phase Build-Umgebung bereitstellen
 kind: explain
 section: service
 ---

@@ -1,5 +1,4 @@
 ---
-title: Docker - Move Docker data directory to new location
 kind: howto
 section: dev
 ---

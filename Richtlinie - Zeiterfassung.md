@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Zeiterfassung
 kind: explain
 section: policy
 ---

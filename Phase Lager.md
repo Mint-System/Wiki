@@ -1,5 +1,4 @@
 ---
-title: Phase Lager
 kind: explain
 section: service
 ---

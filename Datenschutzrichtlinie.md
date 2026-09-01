@@ -1,5 +1,4 @@
 ---
-title: Datenschutzrichtlinie
 section: organisation
 kind: explain
 ---

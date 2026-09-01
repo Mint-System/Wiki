@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Ressourcenplanung
 kind: howto
 section: process
 ---

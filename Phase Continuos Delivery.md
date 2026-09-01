@@ -1,5 +1,4 @@
 ---
-title: Phase Continuous Delivery
 kind: explain
 section: service
 ---

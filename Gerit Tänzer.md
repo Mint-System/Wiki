@@ -1,5 +1,4 @@
 ---
-title: Gerit Tänzer
 kind: reference
 section: organisation
 ---

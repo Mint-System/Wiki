@@ -1,5 +1,4 @@
 ---
-title: Erklärung
 kind: explain
 section: meta
 ---

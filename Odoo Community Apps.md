@@ -1,5 +1,4 @@
 ---
-title: Odoo Community Apps
 website: https://odoo-community.org/shop
 ---
 

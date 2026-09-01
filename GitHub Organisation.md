@@ -1,5 +1,4 @@
 ---
-title: GitHub Organisation
 section: account
 kind: reference
 ---

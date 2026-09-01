@@ -1,5 +1,4 @@
 ---
-title: Vorlage Zusatzanforderungen
 section: template
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Installation
 kind: explain
 section: service
 ---

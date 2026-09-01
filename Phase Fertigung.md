@@ -1,5 +1,4 @@
 ---
-title: Phase Fertigung
 kind: explain
 section: service
 ---

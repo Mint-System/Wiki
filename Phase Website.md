@@ -1,5 +1,4 @@
 ---
-title: Phase Website
 kind: explain
 section: service
 ---

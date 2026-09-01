@@ -1,5 +1,4 @@
 ---
-title: Odoo App Order Positions
 kind: tutorial
 section: communication
 ---

@@ -1,5 +1,4 @@
 ---
-title: Phase Projekt
 kind: explain
 section: service
 ---

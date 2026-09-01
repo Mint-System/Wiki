@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Demoumgebung bereitstellen
 kind: howto
 section: process
 ---

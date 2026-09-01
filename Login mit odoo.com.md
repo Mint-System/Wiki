@@ -1,5 +1,4 @@
 ---
-title: Login mit odoo.com
 section: guide
 kind: howto
 ---

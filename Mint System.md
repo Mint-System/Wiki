@@ -1,5 +1,4 @@
 ---
-title: Mint System
 kind: reference
 section: organisation
 ---

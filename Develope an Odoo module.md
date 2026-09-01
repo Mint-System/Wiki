@@ -1,5 +1,4 @@
 ---
-title: Develope an Odoo module
 section: communication
 lang: en
 kind: explain

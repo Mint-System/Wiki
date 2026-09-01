@@ -1,5 +1,4 @@
 ---
-title: Finanzen
 section: organisation
 ---
 

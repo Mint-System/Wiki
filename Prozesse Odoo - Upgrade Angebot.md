@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Upgrade Angebot
 kind: howto
 section: process
 ---

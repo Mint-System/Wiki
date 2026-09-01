@@ -1,5 +1,4 @@
 ---
-title: Tutorial - Extend the Odoo product model
 kind: tutorial
 section: dev
 lang: en

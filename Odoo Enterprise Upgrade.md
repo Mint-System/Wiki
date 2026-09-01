@@ -1,5 +1,4 @@
 ---
-title: Odoo Enterprise Upgrade
 lang: en
 kind: reference
 ---

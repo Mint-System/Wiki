@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Office 365 bereitstellen
 kind: howto
 section: process
 ---

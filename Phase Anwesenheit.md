@@ -1,5 +1,4 @@
 ---
-title: Phase Anwesenheit
 kind: explain
 section: service
 ---

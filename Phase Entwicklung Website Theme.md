@@ -1,5 +1,4 @@
 ---
-title: Phase Entwicklung Website Theme
 kind: explain
 section: service
 ---

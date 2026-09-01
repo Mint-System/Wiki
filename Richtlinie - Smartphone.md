@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Smarthpone
 kind: explain
 section: policy
 ---

@@ -1,5 +1,4 @@
 ---
-title: Odoo.sh Entwicklung
 ---
 
 Die Odoo.sh Verwaltungsplattform ist eng mit dem [[GitHub]] Repository gekoppelt.

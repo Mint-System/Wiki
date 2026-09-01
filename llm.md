@@ -1,5 +1,4 @@
 ---
-title: llm
 kind: reference
 section: tool
 website: https://datasette.io/tools/llm

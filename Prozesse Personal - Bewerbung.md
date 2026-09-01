@@ -1,5 +1,4 @@
 ---
-title: Prozesse Personal - Bewerbung
 kind: howto
 section: process
 ---

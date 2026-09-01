@@ -1,5 +1,4 @@
 ---
-title: Odoo Umgebungen
 kind: reference
 ---
 

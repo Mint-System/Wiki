@@ -1,5 +1,4 @@
 ---
-title: Odoo Management System Changelog
 ---
 
 ## 2024-12-04

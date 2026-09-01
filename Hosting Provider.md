@@ -1,5 +1,4 @@
 ---
-title: Hosting Provider
 ---
 
 Wir setzen auf diese Hosting Provider:

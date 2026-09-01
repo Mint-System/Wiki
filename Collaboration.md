@@ -1,5 +1,4 @@
 ---
-title: Collaboration
 kind: reference
 section: tool
 ---

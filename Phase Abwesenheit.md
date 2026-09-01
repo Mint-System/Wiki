@@ -1,5 +1,4 @@
 ---
-title: Phase Abwesenheit
 kind: explain
 section: service
 ---

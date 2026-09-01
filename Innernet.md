@@ -1,5 +1,4 @@
 ---
-title: Innernet
 kind: reference
 section: infrastructure
 repository: https://github.com/tonarino/innernet

@@ -1,5 +1,4 @@
 ---
-title: Odoo App Engineering & Lifecycle Management
 kind: explain
 section: communication
 ---

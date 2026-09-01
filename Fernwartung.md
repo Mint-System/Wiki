@@ -1,5 +1,4 @@
 ---
-title: Fernwartung
 section: tool
 kind: explain
 ---

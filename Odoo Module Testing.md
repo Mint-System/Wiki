@@ -1,5 +1,4 @@
 ---
-title: Odoo Module Testing
 kind: howto
 lang: en
 section: dev

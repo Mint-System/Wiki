@@ -1,5 +1,4 @@
 ---
-title: Odoo Assets
 section: dev
 kind: explain
 ---

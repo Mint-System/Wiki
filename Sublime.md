@@ -1,5 +1,4 @@
 ---
-title: Sublime
 kind: reference
 lang: en
 section: tool

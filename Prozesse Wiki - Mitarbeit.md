@@ -1,5 +1,4 @@
 ---
-title: Prozesse Wiki - Mitarbeit
 kind: howto
 section: process
 ---

@@ -1,5 +1,4 @@
 ---
-title: Grafana
 website: https://grafana.com
 section: infrastructure
 kind: reference

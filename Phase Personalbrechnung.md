@@ -1,5 +1,4 @@
 ---
-title: Phase Personalbrechnung
 kind: explain
 section: service
 ---

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Server bestellen
 kind: howto
 section: process
 ---

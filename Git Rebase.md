@@ -1,5 +1,4 @@
----
-title: Git - Rebase
+--- Git - Rebase
 lang: en
 kind: howto
 ---

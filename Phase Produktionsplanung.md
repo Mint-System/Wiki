@@ -1,5 +1,4 @@
 ---
-title: Phase Produktionsplanung
 kind: explain
 section: service
 ---

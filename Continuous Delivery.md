@@ -1,5 +1,4 @@
 ---
-title: Continuous Delivery
 kind: explain
 section: term
 ---

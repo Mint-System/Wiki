@@ -1,5 +1,4 @@
 ---
-title: Basiswissen Requirements Engineering
 section: methodology
 kind: explain
 ---

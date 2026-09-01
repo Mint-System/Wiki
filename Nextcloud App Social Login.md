@@ -1,5 +1,4 @@
 ---
-title: Nextcloud App Social Login
 kind: reference
 section: communication
 ---

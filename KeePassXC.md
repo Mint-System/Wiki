@@ -1,5 +1,4 @@
 ---
-title: KeePassXC
 kind: reference
 section: product
 website: https://keepassxc.org/

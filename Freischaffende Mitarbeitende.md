@@ -1,5 +1,4 @@
 ---
-title: Freischaffende Mitarbeitende
 section: organisation
 kind: explain
 ---

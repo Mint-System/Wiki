@@ -1,5 +1,4 @@
 ---
-title: Odoo App Management System
 kind: reference
 section: communication
 website: https://www.odoo-wiki.org/management-system.html

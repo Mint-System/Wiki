@@ -1,5 +1,4 @@
 ---
-title: Phase Terminal Zeiterfassung
 kind: explain
 section: service
 ---

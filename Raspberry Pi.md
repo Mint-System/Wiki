@@ -1,5 +1,4 @@
 ---
-title: Raspberry Pi
 kind: reference
 section: hardware
 ---

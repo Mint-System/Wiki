@@ -1,5 +1,4 @@
 ---
-title: Phase Proof of Concept
 kind: explain
 section: service
 ---

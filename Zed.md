@@ -1,5 +1,4 @@
 ---
-title: Zed
 kind: reference
 section: tool
 website: https://zed.dev/

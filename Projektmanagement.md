@@ -1,5 +1,4 @@
 ---
-title: Projektmanagent
 kind: explain
 section: methodology
 ---
@@ -34,4 +33,4 @@ Der Dateiaustausch und Kollaboration an Dokumenten erfolgt mit Nextcloud. Der Ku
 
 ## Priorisierung
 
-Projektaufgaben werden laufend neu priorisiert. In Odoo werden Aufgaben mit einem klick auf den ⭐ Stern priorisiert. 
+Projektaufgaben werden laufend neu priorisiert. In Odoo werden Aufgaben mit einem klick auf den ⭐ Stern priorisiert.

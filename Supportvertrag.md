@@ -1,5 +1,4 @@
 ---
-title: Supportvertrag
 section: product
 kind: explain
 ---

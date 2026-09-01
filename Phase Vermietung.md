@@ -11,4 +11,3 @@ Tätigkeiten:
 - Konfiguration Lagerrouten für Lieferung und Rückgabe
 
 Ergebnis: Mietaufträge können erstellt, geplant und abgewickelt werden.
-

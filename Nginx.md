@@ -1,5 +1,4 @@
 ---
-title: Nginx
 kind: reference
 section: dev
 ---

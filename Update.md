@@ -1,5 +1,4 @@
 ---
-title: Update
 section: term
 kind: explain
 ---

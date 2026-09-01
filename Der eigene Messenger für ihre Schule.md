@@ -1,5 +1,4 @@
 ---
-title: Der eigene Messenger für ihre Schule
 kind: explain
 draft: false
 section: blog

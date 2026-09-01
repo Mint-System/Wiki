@@ -1,5 +1,4 @@
 ---
-title: Input - Mentale Selbstfürsorge
 section: training
 kind: tutorial
 ---

@@ -1,5 +1,4 @@
 ---
-title: Mail Security
 kind: explain
 section: communication
 ---

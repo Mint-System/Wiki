@@ -1,5 +1,4 @@
 ---
-title: Odoo Build
 lang: en
 kind: reference
 section: dev

@@ -1,5 +1,4 @@
 ---
-title: Wordpress Handbook
 kind: howto
 section: handbook
 ---

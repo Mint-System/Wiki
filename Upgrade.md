@@ -1,5 +1,4 @@
 ---
-title: Upgrade
 section: term
 kind: explain
 ---

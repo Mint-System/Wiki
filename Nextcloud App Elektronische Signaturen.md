@@ -1,5 +1,4 @@
 ---
-title: Nextcloud App Elektronische Signaturen
 section: communication
 kind: reference
 ---

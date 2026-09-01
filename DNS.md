@@ -1,5 +1,4 @@
 ---
-title: DNS
 section: infrastructure
 kind: reference
 ---

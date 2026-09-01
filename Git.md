@@ -1,5 +1,4 @@
 ---
-title: Git
 kind: reference
 section: term
 website: https://git-scm.com/

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Nextcloud bereitstellen
 kind: howto
 section: process
 ---

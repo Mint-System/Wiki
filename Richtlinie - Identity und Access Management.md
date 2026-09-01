@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Identity und Access Management
 kind: explain
 section: policy
 draft: true

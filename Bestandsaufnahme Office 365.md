@@ -1,5 +1,4 @@
 ---
-title: Bestandsaufnahme Microsoft Office 365
 kind: reference
 section: template
 ---

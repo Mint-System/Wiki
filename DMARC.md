@@ -1,5 +1,4 @@
 ---
-title: DMARC
 kind: explain
 section: term
 ---

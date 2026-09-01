@@ -1,5 +1,4 @@
 ---
-title: Infomaniak Migration
 kind: explain
 section: vendor
 ---

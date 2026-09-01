@@ -1,5 +1,4 @@
 ---
-title: Phase Backstage Hosting
 kind: explain
 section: service
 ---

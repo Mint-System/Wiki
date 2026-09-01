@@ -1,5 +1,4 @@
 ---
-title: Odoo Upgrade FAQ
 kind: explain
 ---
 

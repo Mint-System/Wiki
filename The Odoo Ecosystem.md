@@ -1,5 +1,4 @@
 ---
-
 ---
 
 ## Presentation - The Odoo Ecosystem

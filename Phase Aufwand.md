@@ -1,5 +1,4 @@
 ---
-title: Phase Aufwand
 kind: explain
 section: service
 ---

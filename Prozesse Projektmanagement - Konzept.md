@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Konzept
 kind: howto
 section: process
 ---

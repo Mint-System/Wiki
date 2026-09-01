@@ -1,5 +1,4 @@
 ---
-title: Prozesse Akquise
 kind: reference
 section: process
 ---

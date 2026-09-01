@@ -1,5 +1,4 @@
 ---
-title: Slides
 kind: reference
 section: meta
 ---

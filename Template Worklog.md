@@ -1,5 +1,4 @@
 ---
-title: Template Worklog
 kind: reference
 section: template
 ---

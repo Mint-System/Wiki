@@ -1,5 +1,4 @@
 ---
-title: Odoo Troubleshooting
 kind: howto
 section: dev
 ---

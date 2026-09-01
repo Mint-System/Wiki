@@ -1,5 +1,4 @@
 ---
-title: Odoo Community Association
 kind: reference
 section: contact
 website: https://odoo-community.org/

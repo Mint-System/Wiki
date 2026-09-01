@@ -1,5 +1,4 @@
 ---
-title: Spezifikation Mint Cloud
 draft: true
 section: specification
 kind: explain

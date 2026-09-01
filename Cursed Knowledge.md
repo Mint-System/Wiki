@@ -1,5 +1,4 @@
 ---
-title: Cursed Knowledge
 lang: en
 section: dev
 kind: explain

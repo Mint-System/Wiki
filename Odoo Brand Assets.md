@@ -1,5 +1,4 @@
 ---
-title: Odoo Brand Assets
 section: communication
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: Odoo Editionen
 kind: reference
 section: communication
 ---

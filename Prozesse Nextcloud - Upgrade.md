@@ -1,5 +1,4 @@
 ---
-title: Prozesse Nextcloud - Upgrade
 kind: howto
 section: process
 ---

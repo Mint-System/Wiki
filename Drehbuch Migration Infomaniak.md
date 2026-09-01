@@ -1,5 +1,4 @@
 ---
-title: Drehbuch Migration Infomaniak
 kind: reference
 section: template
 ---

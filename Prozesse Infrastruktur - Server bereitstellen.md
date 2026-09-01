@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Server bereitstellen
 kind: howto
 section: process
 ---

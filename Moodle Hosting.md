@@ -1,5 +1,4 @@
 ---
-title: Moodle Hosting
 kind: explain
 section: product
 ---

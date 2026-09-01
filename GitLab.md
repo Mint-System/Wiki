@@ -1,5 +1,4 @@
 ---
-title: GitLab
 kind: reference
 section: vendor
 website: https://gitlab.com

@@ -1,5 +1,4 @@
 ---
-title: Domains
 kind: reference
 section: infrastructure
 ---

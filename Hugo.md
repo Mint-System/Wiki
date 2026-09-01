@@ -1,5 +1,4 @@
 ---
-title: Hugo
 kind: reference
 section: dev
 website: https://gohugo.io

@@ -1,5 +1,4 @@
 ---
-title: Odoo App Product Lifecycle Management
 kind: explain
 section: communication
 ---

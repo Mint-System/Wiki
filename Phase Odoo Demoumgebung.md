@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Demoumgebung
 kind: explain
 section: service
 ---

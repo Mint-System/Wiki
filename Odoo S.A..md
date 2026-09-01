@@ -1,5 +1,4 @@
 ---
-title: Odoo S.A.
 kind: reference
 section: contact
 ---

@@ -1,5 +1,4 @@
 ---
-title: Phase Personalbeschaffung
 kind: explain
 section: service
 ---

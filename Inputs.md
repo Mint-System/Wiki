@@ -1,5 +1,4 @@
 ---
-title: Inputs
 section: meta
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: Apache Superset
 kind: reference
 section: product
 website: https://superset.apache.org/

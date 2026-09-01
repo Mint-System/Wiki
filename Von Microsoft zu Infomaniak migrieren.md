@@ -1,5 +1,4 @@
 ---
-title: Von Microsoft zu Infomaniak migrieren
 draft: false
 kind: explain
 section: blog

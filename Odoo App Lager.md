@@ -1,5 +1,4 @@
 ---
-title: Odoo Lager
 section: communication
 kind: explain
 ---

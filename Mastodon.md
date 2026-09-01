@@ -1,5 +1,4 @@
 ---
-title: Mastodon
 kind: reference
 website: https://joinmastodon.org/
 ---

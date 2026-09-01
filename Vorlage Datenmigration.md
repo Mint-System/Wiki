@@ -1,5 +1,4 @@
 ---
-title: Vorlage Datenmigration
 section: template
 kind: reference
 ---

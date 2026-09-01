@@ -138,4 +138,3 @@ Das ist die Formular-Ansicht von "Stock Lot Rental". Die Felder können bearbeit
 | Skonto-Produkt | `discount_product_id` | Standardprodukt für die Skonto-Buchungszeile. |
 
 Auf dem Produkt kann der Benutzer das Aufwandskonto für die Skontobuchung festlegen. Dieses Konto wird beim Erstellen der Skonto-Buchungszeile übernommen.
-

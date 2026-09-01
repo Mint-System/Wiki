@@ -1,5 +1,4 @@
 ---
-title: Server und Applikationen mit Ansible bereitstellen
 kind: explain
 section: blog
 draft: false

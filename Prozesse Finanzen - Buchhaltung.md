@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Buchhaltung
 kind: howto
 section: process
 ---

@@ -1,5 +1,4 @@
 ---
-title: Mint Cloud Odoo - Erste Schritte
 section: guide
 kind: tutorial
 ---

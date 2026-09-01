@@ -1,5 +1,4 @@
 ---
-title: Template Concept
 lang: en
 section: template
 kind: reference

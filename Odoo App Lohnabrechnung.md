@@ -1,5 +1,4 @@
 ---
-title: Odoo App Lohnabrechnung
 section: communication
 kind: explain
 ---

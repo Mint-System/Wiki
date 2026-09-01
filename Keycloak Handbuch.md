@@ -1,5 +1,4 @@
 ---
-title: Keycloak Handbuch
 kind: howto
 section: handbook
 ---

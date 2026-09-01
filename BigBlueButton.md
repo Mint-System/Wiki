@@ -1,5 +1,4 @@
 ---
-title: BigBlueButton
 section: product
 kind: howto
 website: https://bigbluebutton.org/

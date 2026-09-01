@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Passwortmanager
 kind: explain
 section: policy
 ---

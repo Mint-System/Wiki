@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Projektmanagement
 kind: explain
 section: policy
 ---

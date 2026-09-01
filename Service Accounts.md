@@ -1,5 +1,4 @@
 ---
-title: Service Accounts
 kind: reference
 section: account
 ---

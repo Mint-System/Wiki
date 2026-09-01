@@ -1,6 +1,7 @@
-
 ---
-title: Template Weely
+---
+
+--- Template Weely
 kind: reference
 section: template
 ---

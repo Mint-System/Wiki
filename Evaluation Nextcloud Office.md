@@ -1,5 +1,4 @@
 ---
-title: Evaluation Nextcloud Office
 section: dev
 kind: explain
 ---

@@ -1,5 +1,4 @@
 ---
-title: Vuepress
 kind: reference
 website: https://vuepress.vuejs.org/
 ---

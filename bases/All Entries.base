@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - '!file.name.endsWith("excalidraw")'
+        - '!file.name.endsWith("base")'
+    order:
+      - file.name
+      - kind
+      - section
+      - lang
+      - ref
+      - repository
+      - website
+    sort:
+      - property: ref
+        direction: DESC
+      - property: file.backlinks
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 610

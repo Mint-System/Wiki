@@ -1,5 +1,4 @@
 ---
-title: Von Bexio nach Odoo
 kind: explain
 draft: false
 section: blog

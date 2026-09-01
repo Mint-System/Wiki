@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Server-Zugriff verwalten
 kind: howto
 section: process
 ---

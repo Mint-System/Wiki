@@ -1,5 +1,4 @@
 ---
-title: Odoo App eCommerce
 section: communication
 kind: explain
 ---

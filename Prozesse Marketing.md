@@ -1,5 +1,4 @@
 ---
-title: Prozesse Marketing
 kind: reference
 section: process
 ---

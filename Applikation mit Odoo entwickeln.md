@@ -1,5 +1,4 @@
 ---
-title: Applikation mit Odoo entwickeln
 section: blog
 kind: explain
 draft: false

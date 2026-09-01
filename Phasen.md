@@ -1,5 +1,4 @@
 ---
-title: Phasen
 kind: explain
 section: term
 ---

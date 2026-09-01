@@ -1,5 +1,4 @@
 ---
-title: Odoo-Projekte
 kind: reference
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Empfehlungen für Odoo Module
 section: blog
 kind: reference
 draft: false
@@ -45,4 +44,3 @@ Link: https://www.odoo-wiki.org/auditlog.html
 Wir eine Empfehlung für ein Modul, dass man **nicht verwenden sollte**. Mit Odoo Studio kann man alles, was im Odoo UI sichtbar ist, anpassen. Ein sehr mächtiges Werkzeug. Doch es gibt einen grossen Hackend. Für alle gemachten Anpassungen ist man selber Verantwortlich. Was diese Verantwortung genau bedeutet ist nicht klar.
 
 Klarer wird die Verantwortung bei einem Odoo Upgrade. Dann ist es aber of zu spät. Bei einem Odoo Upgrade wir die Odoo-Datenbank für die neue Odoo Version vorbereitet. Davon ausgenommen, sind alle mit Odoo Studio gemachten Anpassungen. Was dann vorher ganz einfach zusammen-geklickt wurde wird zu einer anspruchsvollen technischer Arbeit. Alle gemachten Anpassungen müssen analysiert und korrigiert werden.
-

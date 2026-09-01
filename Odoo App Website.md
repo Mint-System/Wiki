@@ -1,5 +1,4 @@
 ---
-title: Odoo App Website
 section: communication
 kind: explain
 ---

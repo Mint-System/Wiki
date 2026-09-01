@@ -1,5 +1,4 @@
 ---
-title: Mint Cloud
 section: project
 website: https://www.mint-cloud.ch/
 ---

@@ -1,5 +1,4 @@
 ---
-title: Docker
 section: product
 kind: reference
 ---

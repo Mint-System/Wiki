@@ -1,5 +1,4 @@
 ---
-title: Systemüberwachung mit Prometheus und Grafana
 section: blog
 kind: explain
 draft: false

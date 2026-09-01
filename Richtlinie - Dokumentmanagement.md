@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Dokumentmanagement
 kind: explain
 section: policy
 ---

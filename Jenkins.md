@@ -1,5 +1,4 @@
 ---
-title: Jenkins
 website: https://www.jenkins.io/
 ---
 

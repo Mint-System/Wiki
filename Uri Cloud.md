@@ -1,5 +1,4 @@
 ---
-title: Uri Cloud
 draft: true
 kind: explain
 section: project

@@ -1,5 +1,4 @@
 ---
-title: SPF
 section: term
 kind: explain
 ---

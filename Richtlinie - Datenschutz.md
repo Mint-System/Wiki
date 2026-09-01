@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Datenschutz
 kind: explain
 section: policy
 ---

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Innernet bereitstellen
 kind: howto
 section: process
 ---

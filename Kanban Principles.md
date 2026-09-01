@@ -1,5 +1,4 @@
 ---
-title: Kanban
 kind: explain
 lang: en
 section: methodology

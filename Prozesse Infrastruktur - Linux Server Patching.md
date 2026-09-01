@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Linux Sever Patching
 kind: howto
 section: process
 ---

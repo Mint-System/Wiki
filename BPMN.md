@@ -1,5 +1,4 @@
 ---
-title: BPMN
 section: tool
 kind: explain
 ---

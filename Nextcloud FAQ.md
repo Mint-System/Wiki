@@ -1,5 +1,4 @@
 ---
-title: Nextcloud FAQ
 kind: explain
 section: product
 ---

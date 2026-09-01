@@ -1,5 +1,4 @@
 ---
-title: Phase Abonnements
 kind: explain
 section: service
 ---

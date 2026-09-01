@@ -1,5 +1,4 @@
 ---
-title: Phase Kubernetes Cluster
 kind: explain
 section: service
 ---

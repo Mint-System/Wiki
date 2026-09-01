@@ -1,5 +1,4 @@
 ---
-title: Mint System GmbH - AGB Entwicklungsprojekt
 section: product
 kind: reference
 ---

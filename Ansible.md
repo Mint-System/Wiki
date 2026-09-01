@@ -1,5 +1,4 @@
 ---
-title: Ansible
 section: infrastructure
 kind: reference
 ---

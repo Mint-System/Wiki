@@ -19,4 +19,3 @@ When creating a new prompt this template is used: <https://codeberg.org/janikvon
 Prompt files are created into in the `prompts` folder in the current directory.
 
 See <https://codeberg.org/janikvonrotz/taskfile.build/src/branch/main/prompts> for examples.
-

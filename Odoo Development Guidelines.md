@@ -1,5 +1,4 @@
 ---
-title: Odoo Development Guidelines
 section: dev
 kind: explain
 ---

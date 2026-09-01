@@ -1,5 +1,4 @@
 ---
-title: Phase Wartung
 kind: explain
 section: service
 ---

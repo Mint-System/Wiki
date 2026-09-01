@@ -1,5 +1,4 @@
 ---
-title: Unsere fast neue Website
 draft: false
 kind: explain
 section: blog

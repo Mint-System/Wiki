@@ -1,5 +1,4 @@
 ---
-title: Prozesse Projektmanagement - Aufwandsschätzung
 kind: howto
 section: process
 ---

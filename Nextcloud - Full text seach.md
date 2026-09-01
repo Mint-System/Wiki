@@ -1,5 +1,4 @@
 ---
-title: Nextcloud - Volltextsuche
 kind: howto
 section: dev
 ---

@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Softwareentwicklung
 kind: explain
 section: policy
 ---

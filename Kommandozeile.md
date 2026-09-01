@@ -1,5 +1,4 @@
 ---
-title: Kommandozeile
 section: term
 kind: explain
 ---

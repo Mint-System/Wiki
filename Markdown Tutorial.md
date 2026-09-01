@@ -1,5 +1,4 @@
 ---
-title: Markdown Tutorial
 ---
 
 Markdown ist eine vereinfachte Auszeichnungssprache. Markdown-Dateien sind einfache Text-Dateien, die zur Darstellung in HTML-Seiten umgewandelt werden. Das Markdown-Markup hat zum Ziel als Textdatei und als HTML-Seite leserlich zu bleiben.

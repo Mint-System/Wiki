@@ -1,5 +1,4 @@
 ---
-title: Template Meeting
 kind: reference
 section: template
 ---

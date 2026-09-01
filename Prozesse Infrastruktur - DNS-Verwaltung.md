@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - DNS-Verwaltung
 kind: howto
 section: process
 ---

@@ -1,5 +1,4 @@
 ---
-title: Odoo 15 und die Odoo Partner Days
 section: blog
 kind: explain
 draft: false

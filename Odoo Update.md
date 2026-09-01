@@ -1,5 +1,4 @@
 ---
-title: Odoo Update
 section: communication
 kind: explain
 ---

@@ -1,5 +1,4 @@
 ---
-title: PuTTY
 kind: reference
 lang: en
 section: tool

@@ -1,5 +1,4 @@
 ---
-title: Tags
 kind: reference
 section: meta
 ---

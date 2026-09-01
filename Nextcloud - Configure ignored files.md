@@ -1,5 +1,4 @@
 ---
-title: Nextcloud - Configure ignored files
 lang: en
 kind: howto
 section: dev

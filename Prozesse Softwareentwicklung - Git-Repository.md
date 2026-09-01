@@ -1,5 +1,4 @@
 ---
-title: Prozesse Softwareentwicklung - Git-Repository
 kind: howto
 section: process
 ---

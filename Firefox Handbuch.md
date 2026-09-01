@@ -1,5 +1,4 @@
 ---
-title: Firefox Handbuch
 kind: howto
 section: handbook
 ---

@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Aufgabenverwaltung
 kind: explain
 section: policy
 ---

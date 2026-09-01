@@ -1,5 +1,4 @@
 ---
-title: Referenz
 kind: reference
 section: meta
 ---

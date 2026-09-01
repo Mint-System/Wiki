@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Integration
 kind: explain
 section: service
 ---

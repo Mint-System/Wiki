@@ -1,5 +1,4 @@
 ---
-title: Telefonie
 section: infrastructure
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: Test Odoo Mail Flow
 lang: en
 section: dev
 kind: explain

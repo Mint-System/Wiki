@@ -1,5 +1,4 @@
 ---
-title: Bauteile mit Odoo zertifizieren
 draft: true
 kind: explain
 section: blog

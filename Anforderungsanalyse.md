@@ -1,5 +1,4 @@
 ---
-title: Anforderungsanalyse
 section: methodology
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: Odoo App Finanzen
 section: communication
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: Marksondierung
 kind: explain
 section: methodology
 ---

@@ -1,5 +1,4 @@
 ---
-title: Phase Dialog
 kind: explain
 section: service
 ---

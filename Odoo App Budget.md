@@ -1,5 +1,4 @@
 ---
-title: Odoo App Budget
 section: communication
 kind: explain
 ---

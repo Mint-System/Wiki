@@ -1,5 +1,4 @@
 ---
-title: Wartungsauftrag
 kind: explain
 section: product
 ---

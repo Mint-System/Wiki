@@ -18,4 +18,3 @@ Odoo berechnet auf den Anwesenheiten keine Überstunden. Auch kann der Mitarbeit
 ## Effizienzmessung
 
 Der Mitarbeitende hat die Möglichkeit die Zeit der Anwesenheit mit der Zeiterfassung auf Projektaufgaben zur vergleichen.
-

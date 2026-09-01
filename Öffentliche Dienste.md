@@ -1,7 +1,6 @@
 ---
 section: organisation
 kind: reference
-title: Öffentliche Dienste
 ---
 
 Öffentliche Dienste der Mint System:

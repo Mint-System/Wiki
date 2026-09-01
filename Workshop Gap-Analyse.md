@@ -1,5 +1,4 @@
 ---
-title: Workshop Gap-Analyse
 ---
 
 Orientiert sich sich an der [[Gap-Analyse]].

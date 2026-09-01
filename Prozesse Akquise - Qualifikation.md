@@ -1,5 +1,4 @@
 ---
-title: Prozesse Akquise - Qualifikation
 kind: howto
 section: process
 ---

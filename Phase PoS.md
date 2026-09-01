@@ -1,5 +1,4 @@
 ---
-title: Phase PoS
 kind: explain
 section: service
 ---

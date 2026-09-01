@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Passwörter verwalten
 kind: howto
 section: process
 ---

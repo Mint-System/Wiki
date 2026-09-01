@@ -1,5 +1,4 @@
 ---
-title: Phase Verkauf
 kind: explain
 section: service
 ---

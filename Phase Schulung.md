@@ -1,5 +1,4 @@
 ---
-title: Phase Schulung
 kind: explain
 section: service
 ---

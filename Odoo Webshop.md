@@ -1,5 +1,4 @@
 ---
-title: Odoo App Webshop
 kind: reference
 section: communication
 ---

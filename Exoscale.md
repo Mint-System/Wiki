@@ -1,5 +1,4 @@
 ---
-title: Exoscale
 kind: reference
 section: contact
 website: https://www.exoscale.com/

@@ -1,5 +1,4 @@
 ---
-title: Methodik
 kind: tutorial
 section: methodology
 ---

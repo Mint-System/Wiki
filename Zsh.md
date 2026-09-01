@@ -1,5 +1,4 @@
 ---
-title: Zsh
 section: tool
 kind: reference
 website: https://www.zsh.org/

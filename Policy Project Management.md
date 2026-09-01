@@ -1,5 +1,4 @@
 ---
-title: Policy - Project Management
 lang: en
 kind: explain
 section: policy

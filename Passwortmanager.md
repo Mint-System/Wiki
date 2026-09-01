@@ -1,5 +1,4 @@
 ---
-title: Passwortmanager
 kind: explain
 section: tool
 ---

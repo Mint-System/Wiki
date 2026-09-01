@@ -1,5 +1,4 @@
 ---
-title: Mintsys
 section: infrastructure
 kind: reference
 ---

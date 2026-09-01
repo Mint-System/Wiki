@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Raspberry Pi bereitstellen
 kind: howto
 section: process
 ---

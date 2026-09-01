@@ -1,5 +1,4 @@
 ---
-title: Wordpress
 kind: reference
 website: https://wordpress.org/
 ---

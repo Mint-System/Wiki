@@ -1,5 +1,4 @@
 ---
-title: Odoo Wiki
 kind:
   - reference
 website: https://www.odoo-wiki.org

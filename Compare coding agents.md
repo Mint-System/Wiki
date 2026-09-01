@@ -1,5 +1,4 @@
 ---
-title: Compare coding agents
 kind: explain
 lang: en
 author: Janik von Rotz

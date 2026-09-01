@@ -1,5 +1,4 @@
 ---
-title: Phase Projektmanagement
 kind: explain
 section: service
 ---

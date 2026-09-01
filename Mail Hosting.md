@@ -1,5 +1,4 @@
 ---
-title: Mail Hosting
 section: product
 kind: explain
 ---

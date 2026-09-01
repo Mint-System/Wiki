@@ -1,5 +1,4 @@
 ---
-title: Support
 ---
 
 Die Mint System bietet ein [[Odoo Support]].

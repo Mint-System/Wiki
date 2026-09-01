@@ -1,5 +1,4 @@
 ---
-title: Akquise
 kind: explain
 section: methodology
 ---

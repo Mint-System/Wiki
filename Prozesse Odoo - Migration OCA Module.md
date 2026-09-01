@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Migration OCA Module
 kind: howto
 section: process
 ---

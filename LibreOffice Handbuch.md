@@ -1,5 +1,4 @@
 ---
-title: LibreOffice Handbuch
 kind: howto
 section: handbook
 ---

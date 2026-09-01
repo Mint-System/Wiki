@@ -1,5 +1,4 @@
 ---
-title: Prozesse Nextcloud - Produktionsumgebung initialisieren
 kind: howto
 section: process
 ---

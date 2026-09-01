@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Entwicklung
 kind: explain
 section: service
 ---

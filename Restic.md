@@ -1,5 +1,4 @@
 ---
-title: Restic
 website: https://restic.net/
 ---
 

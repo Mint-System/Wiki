@@ -1,5 +1,4 @@
 ---
-title: Keycloak Troubleshooting
 kind: howto
 section: dev
 ---

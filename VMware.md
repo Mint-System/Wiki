@@ -1,5 +1,4 @@
 ---
-title: VMware
 kind: reference
 website: https://www.vmware.com/
 section: vendor

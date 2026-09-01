@@ -1,5 +1,4 @@
 ---
-title: Keycloak Assessment
 ---
 
 Tech questions:

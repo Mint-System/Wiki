@@ -1,5 +1,4 @@
 ---
-title: Terraform mit Hetzner
 ---
 
 ## Vorbereitung

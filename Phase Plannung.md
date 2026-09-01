@@ -1,5 +1,4 @@
 ---
-title: Phase Plannung
 kind: explain
 section: service
 ---

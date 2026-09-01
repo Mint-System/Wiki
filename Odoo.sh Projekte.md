@@ -1,5 +1,4 @@
 ---
-title: Odoo.sh Projekte
 ---
 
 Die Mint System betreibt für Kunden [[Odoo.sh]] Projekte.

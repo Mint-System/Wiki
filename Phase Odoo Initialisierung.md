@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Initialisierung
 kind: explain
 section: service
 ---

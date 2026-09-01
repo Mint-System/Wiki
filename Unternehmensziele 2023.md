@@ -1,5 +1,4 @@
 ---
-title: Unternehmensziele 2023
 kind: explain
 section: organisation
 ---

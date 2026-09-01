@@ -1,5 +1,4 @@
 ---
-title: Phase Webshop
 kind: explain
 section: service
 ---

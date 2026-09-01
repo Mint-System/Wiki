@@ -1,5 +1,4 @@
 ---
-title: Eine Sache des guten Geschmacks
 draft: false
 section: blog
 kind: explain

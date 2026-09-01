@@ -1,5 +1,4 @@
 ---
-title: Login Mint System
 website: https://login.mint-system.ch
 kind: explain
 section: infrastructure

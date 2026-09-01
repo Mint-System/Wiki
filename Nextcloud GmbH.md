@@ -1,5 +1,4 @@
 ---
-title: Nextcloud GmbH
 section: contact
 kind: reference
 ---

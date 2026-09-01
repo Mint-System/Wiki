@@ -1,5 +1,4 @@
 ---
-title: Phase Odoo Upgrade
 kind: explain
 section: service
 ---

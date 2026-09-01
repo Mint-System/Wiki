@@ -1,5 +1,4 @@
 ---
-title: Open Source Software
 kind: reference
 website: https://opensourcesoftware.ch
 ---

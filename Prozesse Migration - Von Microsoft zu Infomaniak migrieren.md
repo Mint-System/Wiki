@@ -1,5 +1,4 @@
 ---
-title: Prozesse Migration - Von Microsoft zu Infomaniak migrieren
 kind: howto
 section: process
 ---

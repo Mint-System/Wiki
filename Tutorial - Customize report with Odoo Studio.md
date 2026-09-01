@@ -1,5 +1,4 @@
 ---
-title: Tutorial - Customize report with Odoo Studio
 section: dev
 kind: tutorial
 lang: en

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Finanzen - Jahresabschluss
 kind: howto
 section: process
 ---

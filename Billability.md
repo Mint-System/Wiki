@@ -1,5 +1,4 @@
 ---
-title: Billability
 lang: en
 kind: explain
 section: term

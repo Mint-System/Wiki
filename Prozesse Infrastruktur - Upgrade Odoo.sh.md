@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Upgrade Odoo.sh
 kind: howto
 section: process
 ---

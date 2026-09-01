@@ -1,5 +1,4 @@
 ---
-title: Phase Inbetriebnahme Hardware
 kind: explain
 section: service
 ---

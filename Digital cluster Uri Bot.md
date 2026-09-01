@@ -1,5 +1,4 @@
 ---
-title: Digital cluster Uri Bot
 section: account
 kind: reference
 ---

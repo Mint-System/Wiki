@@ -1,5 +1,4 @@
 ---
-title: Odoo Modul
 kind: explain
 section: term
 ---

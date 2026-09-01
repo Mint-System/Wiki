@@ -1,5 +1,4 @@
 ---
-title: Phase Aufnahme Assets
 kind: explain
 section: service
 ---

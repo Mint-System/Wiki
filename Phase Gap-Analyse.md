@@ -1,5 +1,4 @@
 ---
-title: Phase Gap-Analyse
 kind: explain
 section: service
 ---

@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo - Snippets
 kind: howto
 section: process
 ---

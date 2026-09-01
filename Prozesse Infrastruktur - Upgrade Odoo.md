@@ -1,5 +1,4 @@
 ---
-title: Prozesse Infrastruktur - Odoo Upgrade
 kind: howto
 section: process
 ---

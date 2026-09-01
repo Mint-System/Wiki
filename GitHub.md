@@ -1,5 +1,4 @@
 ---
-title: GitHub
 kind: reference
 section: vendor
 website: https://github.com/

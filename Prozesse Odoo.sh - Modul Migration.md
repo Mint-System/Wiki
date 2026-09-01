@@ -1,5 +1,4 @@
 ---
-title: Prozesse Odoo.sh - Modul Migration
 kind: howto
 section: process
 ---

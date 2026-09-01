@@ -1,5 +1,4 @@
 ---
-title: Vorgehensmodell Hosting
 kind: explain
 section: methodology
 ---

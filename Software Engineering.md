@@ -1,5 +1,4 @@
 ---
-title: Software Engineering
 section: service
 kind: explain
 ---

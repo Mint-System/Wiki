@@ -1,5 +1,4 @@
 ---
-title: Odoo Online
 website: https://www.odoo.com/
 ---
 

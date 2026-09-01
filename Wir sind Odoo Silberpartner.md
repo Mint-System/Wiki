@@ -1,5 +1,4 @@
 ---
-title: Wir sind Odoo Silber-Partner
 draft: true
 kind: explain
 section: blog

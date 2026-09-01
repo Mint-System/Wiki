@@ -1,5 +1,4 @@
 ---
-title: Sicherheit
 section: term
 kind: reference
 ---

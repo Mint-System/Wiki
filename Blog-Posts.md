@@ -1,5 +1,4 @@
 ---
-title: Blog-Posts
 section: meta
 kind: reference
 draft: false

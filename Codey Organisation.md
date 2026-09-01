@@ -1,5 +1,4 @@
 ---
-title: Codey Organisation
 section: account
 kind: reference
 ---

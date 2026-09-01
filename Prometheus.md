@@ -1,5 +1,4 @@
 ---
-title: Prometheus
 website: https://prometheus.io/
 kind: reference
 section: infrastructure

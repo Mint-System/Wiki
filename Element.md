@@ -1,5 +1,4 @@
 ---
-title: Element
 website: https://element.io/
 section: tool
 kind: reference

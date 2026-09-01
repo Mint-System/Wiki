@@ -1,5 +1,4 @@
 ---
-title: Richtlinie - Odoo Modulentwicklung
 kind: explain
 section: policy
 ---

@@ -1,5 +1,4 @@
 ---
-title: OWASP-Sicherheitslücken
 ---
 
 - **Injection Flaws:** Einschleusungsfehler, insbesondere SQL-Einschleusung, sind in Webanwendungen weit verbreitet. Einschleusungen treten auf, wenn vom Benutzer bereitgestellte Daten als Teil eines Befehls oder einer Abfrage an einen Interpreter gesendet werden. Die feindlichen Daten des Angreifers verleiten den Interpreter dazu, unbeabsichtigte Befehle auszuführen oder Daten zu ändern.

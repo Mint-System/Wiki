@@ -1,5 +1,4 @@
 ---
-title: Phase Projekteingabe
 kind: explain
 section: service
 ---

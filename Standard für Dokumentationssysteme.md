@@ -1,5 +1,4 @@
 ---
-title: Standard für Dokumentationssysteme
 kind: reference
 ---
 

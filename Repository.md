@@ -1,5 +1,4 @@
 ---
-title: Repository
 section: term
 kind: reference
 ---

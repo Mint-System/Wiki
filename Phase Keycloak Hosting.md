@@ -1,5 +1,4 @@
 ---
-title: Phase Keycloak Hosting
 kind: explain
 section: service
 ---

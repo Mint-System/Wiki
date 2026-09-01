@@ -1,5 +1,4 @@
 ---
-title: Phase Hosting Initialisierung
 kind: explain
 section: service
 ---

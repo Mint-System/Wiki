@@ -1,5 +1,4 @@
 ---
-title: Specification Social Mastodon
 kind: explain
 lang: en
 repository: https://github.com/Mint-System/Odoo-Apps-Social

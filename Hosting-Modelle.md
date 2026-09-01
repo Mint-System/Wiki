@@ -1,5 +1,4 @@
 ---
-title: Hosting-Modelle
 kind: explain
 section: communication
 ---

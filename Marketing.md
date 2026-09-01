@@ -1,5 +1,4 @@
 ---
-title: Marketing
 kind: reference
 ---
 

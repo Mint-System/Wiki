@@ -1,5 +1,4 @@
 ---
-title: Koordination Wartung
 ---
 
 Beschreibt die Verantwortung des Kunden und Mint System für bestimmte Aufgaben im Rahmen des [[Wartungsauftrag]].

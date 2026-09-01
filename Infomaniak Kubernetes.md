@@ -1,5 +1,4 @@
 ---
-title: Infomaniak Kubernetes
 kind: howto
 section: vendor
 ---

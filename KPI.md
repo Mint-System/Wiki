@@ -1,5 +1,4 @@
 ---
-title: KPI
 section: organisation
 kind: reference
 ---

@@ -1,5 +1,4 @@
 ---
-title: Ideation
 ---
 
 Kreativprozess für Produktentwicklung. Sammlung von Ideen für neue Produkte.

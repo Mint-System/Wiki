@@ -1,5 +1,4 @@
 ---
-title: Phase Anforderungsanalyse
 kind: explain
 section: service
 ---

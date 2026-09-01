@@ -1,5 +1,4 @@
 ---
-title: URec-Team
 kind: explain
 draft: false
 section: blog
