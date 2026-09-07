@@ -26,9 +26,14 @@ Arbeitsschritte:
 
 - App Verkäufe öffnen
 - Neues Angebot erstellen
+- Kunde mit MwSt. eintragen
+- Angebotsvorlage wählen
+- Interne Referenz bestimmen
 - Ablaufdatum 1 Monat
-- Kostenstelle festlegen
-- Kunde mit MWST. hinzufügen
-- Positionen einfügen und Beschreibung anpassen
+- Speichern, damit die Auftragspositionen erstellt werden
+- Aufwandschätzungen pflegen, sofern vorhanden gemäss Konzept
+- Positionen und Beschreibung anpassen wo nötig
+	- Links auf Angebote von Odoo anpassen
+	- Text > Link auf Konzept-PDF anpassen
 - Prüfen und Aktualisieren [[Textbausteine Angebot]]
 - Validieren durch Mitarbeiter
