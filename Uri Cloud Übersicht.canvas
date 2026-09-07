@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"84cc95516952a173","type":"group","x":-300,"y":-220,"width":660,"height":420,"label":"Central Control Plane"},
+		{"id":"84cc95516952a173","type":"group","x":-300,"y":-220,"width":660,"height":420,"label":"Trusted Realm"},
 		{"id":"5e8e3f2aea6950c6","type":"group","x":-180,"y":-520,"width":420,"height":180,"color":"3","label":"Uri Cloud"},
 		{"id":"a8a5fad21086d61a","type":"group","x":-340,"y":-760,"width":740,"height":100,"color":"6","label":"Kunden"},
 		{"id":"9a32ee6b3c747578","type":"group","x":140,"y":-160,"width":200,"height":340,"color":"1","label":"Kubernetes"},
