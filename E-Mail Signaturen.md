@@ -45,6 +45,7 @@ Janik von Rotz
 
 CTO Mint System GmbH
 Tel: +41 44 244 7222
+Mail: janik.vonrotz@mint-system.ch
 Verfügbar: Montag bis Donnerstag
 ```
 
