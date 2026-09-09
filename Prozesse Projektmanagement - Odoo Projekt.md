@@ -3,7 +3,7 @@ kind: howto
 section: process
 ---
 
-Aus einem Angebot ein Projekt erstellen.
+Projektverwaltung in Odoo.
 
 ## Odoo Projekt erstellen
 

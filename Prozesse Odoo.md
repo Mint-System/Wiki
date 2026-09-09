@@ -5,14 +5,14 @@ section: process
 
 Technische Dokumentation der Odoo Prozesse.
 
-## Bereitstellung
+## Bereitstellen
 
 - [[Prozesse Odoo - Demoumgebung bereitstellen]]
 - [[Prozesse Odoo - Testumgebung bereitstellen]]
 - [[Prozesse Odoo - Produktionsumgebung bereitstellen]]
 - [[Prozesse Odoo - Upgrade-Umgebung bereitstellen]]
 
-## Verwaltung
+## Verwalten
 
 - [[Prozesse Odoo - Snippets]]
 - [[Prozesse Odoo - Datenmigration]]
@@ -22,12 +22,12 @@ Technische Dokumentation der Odoo Prozesse.
 - [[Prozesse Odoo - Revision]]
 - [[Prozesse Odoo - Website]]
 
-## Upgrade
+## Upgraden
 
 - [[Prozesse Odoo - Upgrade Angebot]]
 - [[Prozesse Odoo - Upgrade Implementation]]
 
-## Odoo Apps
+## Einrichten
 
 Baisieren auf der [[Vorlage Prozesse Odoo - App]].
 

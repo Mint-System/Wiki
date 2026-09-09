@@ -5,21 +5,22 @@ section: process
 
 Dokumentation der Projektmanagement Prozesse.
 
-```mermaid
-graph LR;
-    A[Odoo Projekt erstellen]-->B[Projektdefinition];
-    B-->C[Konzept];
-    C-->D[Aufgaben verwalten];
-    D-->E[Zeiterfassung]
-```
+## Starten
 
 - [[Prozesse Projektmanagement - Konzept]]
-- [[Prozesse Projektmanagement - Aufwandsschätzung]]
-- [[Prozesse Projektmanagement - Projektdefinition]]
-- [[Prozesse Projektmanagement - Odoo]]
+- [[Prozesse Projektmanagement - Odoo Projekt]]
+- [[Prozesse Projektmanagement - Nextcloud Projekt]]
+
+## Planen
+
+- [[Prozesse Projektmanagement - Anforderungsanalyse]]
+- [[Prozesse Projektmanagement - Ressourcenplanung]]
+
+## Ausführen
+
 - [[Prozesse Projektmanagement - Zeiterfassung]]
 - [[Prozesse Projektmanagement - Aufgaben]]
-- [[Prozesse Projektmanagement - Business Requirement]]
-- [[Prozesse Projektmanagement - Ressourcenplanung]]
+
+## Beenden
+
 - [[Prozesse Projektmanagement - Archivierung]]
-- [[Prozesse Projektmanagement - FreelancerIn]]

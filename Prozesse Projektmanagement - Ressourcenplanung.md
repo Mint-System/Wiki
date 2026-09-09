@@ -10,5 +10,5 @@ Arbeitsschritte:
 - App Plannung anzeigen
 - Neuer Eintrag erstellen
 - Schicht, Ressource und Projekt auswählen
-- Anpassen der Prozente
+- Anpassen der Prozentsätze
 - Schicht veröffentlichen

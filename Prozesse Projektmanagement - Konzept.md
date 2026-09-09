@@ -11,3 +11,11 @@ Arbeitsschritte:
 
 - 2-3 Seiten die Situation, das Problem, die Lösung und das Vorgehen beschreiben
 - Projektplanung mit Projektphasen erstellen
+
+## Aufwandsschätzung berechnen
+
+Arbeitsschritte:
+
+- Gesamtstunden aus Implementation berechnen
+- Stunden aus Implementation und Entwicklung summieren
+- Projektleitung ist nochmals 40% dieser Stunden
