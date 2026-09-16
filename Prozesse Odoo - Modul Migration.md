@@ -65,9 +65,10 @@ task generate-module-docs addons/$repo/$module
 
 ```bash
 task init-module addons/$repo/$module
+task test-module addons/$repo/$module
 ```
 
-- Modul linten und Repo aktualisieren:
+- Repo linten und Docs aktualisieren:
 
 ```bash
 cd addons/$repo/
