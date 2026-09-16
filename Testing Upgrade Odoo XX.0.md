@@ -21,7 +21,13 @@ Die folgenden Aspekte sind für as Testing "out-of-scope":
 
 ## Testfälle 🔬
 
-Öffnen Testumgebung: https://upgrade.odoo.aerolite.ch/
+Testumgebung: https://upgrade.odoo.aerolite.ch/
+
+Jeder Testfall und Feedback wir mit dem Status markiert:
+
+- 🟥 Zur Bearbeitung
+- 🟧 Zur Review
+- 🟩 Erledigt
 
 ### Verkauf - Angebot erstellen 🟩
 
