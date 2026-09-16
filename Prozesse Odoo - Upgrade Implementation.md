@@ -33,7 +33,7 @@ Die Upgrade-Umgebung _ODOO_LINK_ steht zum Testen bereit. Das Login ist das glei
 
 Für das Testing arbeiten wir mit diesem Dokument: _TESTING_FILE_LINK_
 
-Im Abschnitt "Testfälle" halten wir die Prüfschritte der wichtigsten Odoo-Prozesse fest. Gleich dartuner im Abschnitt "Feedback" notieren und behandeln wir die Probleme.
+Im Abschnitt "Testfälle" halten wir die Prüfschritte der wichtigsten Odoo-Prozesse fest. Unterhalb im Abschnitt "Feedback" notieren und behandeln wir die Probleme.
 
 Ich habe eine erstes Beispiel für einen Testfall und Feedback erstellt. Meine Absicht ist dass wir gemeinsam neue Testfälle entwickeln und ausführen.
 
