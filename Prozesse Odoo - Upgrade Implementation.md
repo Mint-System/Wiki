@@ -23,19 +23,18 @@ Arbeitsschritte:
 Arbeitsschritte:
 
 - Ausführen Drehbuch
-- Entwickeln Testfälle anhand Vorlage [[Testing Upgrade Odoo XX.0]]
-- Erstellen Dokument Feedback [[Feedback Upgrade Odoo XX.0]]
+- Testfälle anhand Vorlage [[Testing Upgrade Odoo XX.0]] entwickeln
 - Nachricht an die TesterIn schicken:
 
-```
-Hallo $VORNAME
+```markdown
+Hallo _VORNAME_
 
-Die Upgrade-Umgebung $ODOO_LINK steht zum Testen bereit. Das Login ist das gleiche wie bis anhin.
+Die Upgrade-Umgebung _ODOO_LINK_ steht zum Testen bereit. Das Login ist das gleiche wie bis anhin.
 
-Für das Testing findest du hier ein Dokument mit Testfällen:  $TESTING_FILE_LINK
-Und hier ein Dokument zur Sammlung der Feedbacks: $FEEDBACK_FILE_LINK
+Für das Testing arbeiten wir mit diesem Dokument: _TESTING_FILE_LINK_
+Im Abschnitt "Testfälle" halten wir die Prüfschritte der wichtigsten Odoo-Prozesse fest. Gleich dartuner im Abschnitt "Feedback" notieren und behandeln wir die Probleme.
 
-Ich habe eine erstes Beispiel für einen Testfall und Feedback erstellt. Kannst du neue Testfälle hinzufügen und das Feedback ergänzen?
+Ich habe eine erstes Beispiel für einen Testfall und Feedback erstellt. Meine Absicht ist dass wir gemeinsam neue Testfälle entwickeln und ausführen.
 
-Bei Fragen zu den Test-Fällen oder Struktur der Feedbacks, bitte melden.
+Ist das in deinem Sinn?
 ```
