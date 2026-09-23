@@ -1,7 +1,7 @@
 ---
 section: infrastructure
 kind: reference
-website: https://mint.app.codey.ch/
+website: https://git.mint-system.ch/
 ---
 
 Git-Server der Mint System.
