@@ -18,5 +18,3 @@ kind: tutorial
 ## Hands-on
 
 ### Installation
-
-### 
