@@ -10,4 +10,4 @@ Inputs ist das Mint System Format für interne Ausbildungen und Wissenstransfer.
 [[Input - Arbeit mit LLMs]]\
 [[Input - Odoo Projekte und Zeiterfassung]]\
 [[Input - Mentale Selbstfürsorge]]\
-[[Input - prompt md und pi]]
+[[Input - prompt md und Pi]]

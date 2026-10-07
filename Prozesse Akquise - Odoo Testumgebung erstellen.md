@@ -8,19 +8,18 @@ section: process
 Arbeitsschritte:
 
 - Definieren Sie einen Datenbanknamen
-- Rufen Sie die Url <https://$DATENBANKNAMEN.14.odoo.buil> auf
+- Rufen Sie die Url <https://$DATENBANKNAMEN.18.odoo.build> auf
 - Installieren Sie die Odoo-Datenbank
-  - Master Password: siehe [[Passwortmanager]]
-  - Database Name: `$DATENBANKNAMEN`
-  - Email: Persönliche Email
-  - Password: Persönliches Passwort
-  - Language: German (CH)
-  - Country: Switzerland
+	  - Master Password: siehe [[Passwortmanager]]
+	  - Database Name: `$DATENBANKNAMEN`
+	  - Email: login@mint-system.ch
+	  - Password: Password gemäss Password-Manager
+	  - Language: German (CH)
+	  - Country: Switzerland
 - Installation Odoo Apps
-  - `mail_enterprise`
-  - `web_enterprise`
-  - `show_db_name`
-  - `ir_mail_server_data`
+	  - `mail_enterprise`
+	  - `web_enterprise`
+	  - `ir_mail_server_data`
 - Weitere Odoo Apps nach Bedarf installieren
 - Benutzer einladen
 
@@ -29,9 +28,9 @@ Arbeitsschritte:
 Arbeitsschritte:
 
 - Aufgabe _Odoo Demoumgebung_ in Projekt Akquise erstellen
-  - Festhalten Liste der zu installierenden Apps mit dem technischen Namen
-  - Festhalten des [[Odoo Hosting#Lizenzierung|Lizenz-Typ]]
-  - Domain nach Schema `$NAME.mintsys.ch` festlegen.
+	- Festhalten Liste der zu installierenden Apps mit dem technischen Namen
+	- Festhalten des [[Odoo Hosting#Lizenzierung|Lizenz-Typ]]
+	- Domain nach Schema `$NAME.mintsys.ch` festlegen.
 - Zuweisen der Aufgabe an [[Kreis Infrastruktur]]
 
 ::: tip

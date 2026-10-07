@@ -23,12 +23,12 @@ Schweiz:
 
 Die Serverstufen wurden standortübergreifend gebündelt (Stand 03.02.2025):
 
-| Anbieter   | Small                                | Medium                                           | Large                                         |
-| ---------- | ------------------------------------ | ------------------------------------------------ | --------------------------------------------- |
-| Hetzner    | **CX22**, 2CPU, 4GB RAM, 40GB Disk   | **CX32**, 4CPU, 8GB RAM, 80GB Disk               | **CX42**, 8CPU, 16GB RAM, 160GB Disk          |
-| Exoscale   | **Medium**, 2CPU, 4GB RAM, 50GB Disk | **Large**, 4CPU, 8GB RRAM, 100GB Disk, 58.19 CHF | **Extra-Large**, 4 CPU, 16GB RAM, 200 GB Disk |
-| hosttech   | **Foggy**, 4CPU, 4GB RAM, 100 GB     | **Snow**, 6CPU, 8GB RAM, 200GB Disk              | **Ice**, 8CPU, 12GB RAM, 300GB Disk           |
-| Infomaniak | -                                    | 4CPU, 12GB RAM, 250GB Disk                       | 6CPU, 18GB RAM, 250GB Disk                    |
+| Anbieter   | Small                                    | Medium                                    | Large                                         |
+| ---------- | ---------------------------------------- | ----------------------------------------- | --------------------------------------------- |
+| Hetzner    | **CX22**, 2CPU, 4GB RAM, 40GB Disk       | **CX32**, 4CPU, 8GB RAM, 80GB Disk        | **CX42**, 8CPU, 16GB RAM, 160GB Disk          |
+| Exoscale   | **Medium**, 2CPU, 4GB RAM, 50GB Disk     | **Large**, 4CPU, 8GB RRAM, 100GB Disk     | **Extra-Large**, 4 CPU, 16GB RAM, 200 GB Disk |
+| hosttech   | **Foggy**, 4CPU, 4GB RAM, 100 GB Disk    | **Snow**, 6CPU, 8GB RAM, 200GB Disk       | **Ice**, 8CPU, 12GB RAM, 300GB Disk           |
+| Infomaniak | **VPS Lite**, 4CPU, 8GB RAM, 160 GB Disk | **VPS Cloud** ,4CPU, 12GB RAM, 250GB Disk | **VPS Cloud**, 6CPU, 18GB RAM, 250GB Disk     |
 
 Die hier genannten Preisen dienen als Orientierungspunkt. Je nach Konfiguration und Aktivität des Sever verändern sich die Kosten.
 
