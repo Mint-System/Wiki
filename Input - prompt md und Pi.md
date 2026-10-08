@@ -9,13 +9,21 @@ Im ersten Teil wie immer Theorie und im zweiten Teil Anwendung.
 
 Zuerst müssen wir ein paar Begriffe klären.
 
-### harness / Gurtzeug
+### Harness (Gurtzeug)
 
-### inference /  Schlussfolgerung
+### Model / Viel Text
 
-### model / Modell
+### Inference (Schlussfolgerung)
 
-### agent / Agent
+### Inference Provider (Dienstleister für Schlussfolgerungen)
+
+Infomaniak: 1069 Hits für CHF 22.277
+
+Hugging Face: 279 Hits für $20.53
+
+### Agent (Schlaue Schleife)
+
+### Anthropomorphism (Vermenschlichung)
 
 ---
 
@@ -39,7 +47,7 @@ Zuerst müssen wir ein paar Begriffe klären.
 
 ## Hands-on
 
-### pi installieren
+### Pi installieren
 
 ### Projekt initalisieren
 
