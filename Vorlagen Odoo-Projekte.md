@@ -8,7 +8,6 @@ kind: reference
 | [[Aufwandsschätzung Odoo Upgrade XX.0]]    |
 | [[Bestandsaufnahme Office 365]]            |
 | [[Drehbuch Migration Infomaniak]]          |
-| [[Feedback Upgrade Odoo XX.0]]             |
 | [[Migrate modules to Odoo XX.0]]           |
 | [[Playbook Upgrade Odoo XX.0]]             |
 | [[Playbook Upgrade Odoo.sh XX.0]]          |

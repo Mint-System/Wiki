@@ -43,7 +43,7 @@ Private-Projektordner sind nur für Mitarbeitende Mint System zugänglich.
 | Docs/                           | Projektdokumentationen                               |
 | Input/                          | Projektinputs                                        |
 | Meetings/YYYY-MM-DD TITEL.md    | Meeting-Notizen mit Namenskonvention                 |
-| Notizen/                        | Ordner für Notizen der Projektmitarbeiter            |
+| Tmp/                            | Zwischenablage für Projektnotizen                    |
 | Output                          | Projektergebnisse                                    |
 | Process/                        | Verarbeitung der Inputs. Ausgabe in Output.          |
 | README.md                       | Projektbeschreibung und Orientierung für Mitarbeiter |

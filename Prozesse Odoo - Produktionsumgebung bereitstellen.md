@@ -13,9 +13,9 @@ Arbeitsschritte:
 - Initialisieren Datenbank mit `docker-odoo-init`
 - Standard-Login-Informationen an Kunde mitteilen
 - Erstellen zusätzlicher Admin-Benutzer:
-  - Name: Administrator Mint System
-  - E-Mail-Adresse: login@mint-system.ch
-  - Passwort: In KeePass generieren
+	  - Name: Administrator Mint System
+	  - E-Mail-Adresse: login@mint-system.ch
+	  - Passwort: In KeePass generieren
 
 ## Initialisierung
 
