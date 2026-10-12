@@ -146,3 +146,9 @@ Bist du bereit das selber zu machen? Geht ganz einfach! Wie bei Jamie Oliver wur
 ### Ein ETL-Projekt erstellen
 
 ### Ein Jupyter-Notebook generieren
+
+## Anwendungsbereiche
+
+Hier eine Liste was man prompt sollte:
+
+Und hier eine Liste was man nicht prompten sollte:
