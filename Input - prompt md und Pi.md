@@ -14,7 +14,7 @@ Zuerst müssen wir ein paar Begriffe klären. In den folgenden Abschnitt der Eng
 
 Claude steht inzwischen für vieles. Ist es ein Model, eine Smartphone-App oder eine lebendig gewordene Sohn von Anthropic (Anthropisch)? In diesem Kontext ist eine proprietäre Sammlung von ai-Produkten. 
 
-### Model / Viel Text
+### Model (Viel Text)
 
 Kurz das LLM (Large Language Model). Eine grosse Datei mit viel Text. Nur wurden die Text-Stücke zerlegt und nach deren Zusammenhang gewichtet. Es entsteht eine Topologie aus Buchstaben (Tokens).
 
