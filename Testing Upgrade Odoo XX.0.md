@@ -60,7 +60,7 @@ Wenn ich versuche die App _Verkauf_ zu öffnen, erscheint dieser Fehler:
 
 jvr: Die App `sale_invoice_policy` hat gefehlt.
 
-### Verkauf - Produktset kann nicht hinzugefügt werden 🏁
+### Verkauf - Produktset kann nicht hinzugefügt werden 🔴
 
 Bei Klick auf "Produkset hinzufügen" erscheint dieser Fehler:
 
