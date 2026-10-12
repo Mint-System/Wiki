@@ -36,10 +36,8 @@ Weil Arbeits- und Grafikspeicher und sowie so alles teuerer geworden ist, könne
 
 Zum Glück gibt es viele Provider. Der günstigste mit den meisten Models gewinnt! Nich nur, wir bevorzugen Anbieter in der Schweiz.
 
-Infomaniak: 1069 Hits für CHF 22.277
-
-Hugging Face: 279 Hits für $20.53
-
+Infomaniak: 1069 Hits für CHF 22.277\
+Hugging Face: 279 Hits für $20.53\
 Scaleway: Pending
 
 ### Agent (Schlaue Schleife)
