@@ -21,6 +21,8 @@ Infomaniak: 1069 Hits für CHF 22.277
 
 Hugging Face: 279 Hits für $20.53
 
+Scaleway: Pending
+
 ### Agent (Schlaue Schleife)
 
 ### Anthropomorphism (Vermenschlichung)
@@ -47,10 +49,8 @@ Hugging Face: 279 Hits für $20.53
 
 ## Hands-on
 
-### Pi installieren
+### Tools installieren
 
-### Projekt initalisieren
+### Ein ETL-Projekt erstellen
 
-### Eine OWL-App entwickeln
-
-https://odoo.github.io/owl/documentation/v3/owl/installation.html
+### Ein Jupyter-Notebook generieren

@@ -25,17 +25,17 @@ Testumgebung: https://upgrade.odoo.example.com/
 
 Jeder Testfall und Feedback wir mit dem Status markiert:
 
-- 🟥 Zur Bearbeitung
-- 🟧 Zur Review
-- 🟩 Erledigt
+- 🏁 Zur Bearbeitung
+- 💬 Zur Review
+- ✅ Erledigt
 
-### Verkauf - Angebot erstellen 🟩
+### Verkauf - Angebot erstellen ✅
 
 Prüfschritte:
 - Öffnen App _Verkauf_
 - Erstellen neues Angebot
 
-## Geplante Aktion - Reminder Verlängerung versenden 🟥
+## Geplante Aktion - Reminder Verlängerung versenden 🏁
 
 Prüfschritte:
 - Anzeige geplante Aktionen
@@ -43,7 +43,7 @@ Prüfschritte:
 - Aktion manuell asuführen
 - Prüfen ob E-Mails versendet wurden
 
-### Automatische Aktionen - Standard-Zahlungsbedingung festlegen 🟧
+### Automatische Aktionen - Standard-Zahlungsbedingung festlegen 💬
 
 Prüfschritte:
 - Anzeige automatische Aktionen
@@ -51,7 +51,7 @@ Prüfschritte:
   
 ## Feedback 📢
 
-### Verkauf - Verkauf lässt sich nicht öffnen 🟩
+### Verkauf - Verkauf lässt sich nicht öffnen ✅
 
 Wenn ich versuche die App _Verkauf_ zu öffnen, erscheint dieser Fehler:
 
@@ -59,7 +59,7 @@ Wenn ich versuche die App _Verkauf_ zu öffnen, erscheint dieser Fehler:
 
 jvr: Die App `sale_invoice_policy` hat gefehlt.
 
-### Verkauf - Produktset kann nicht hinzugefügt werden 🟥
+### Verkauf - Produktset kann nicht hinzugefügt werden 🏁
 
 Bei Klick auf "Produkset hinzufügen" erscheint dieser Fehler:
 
