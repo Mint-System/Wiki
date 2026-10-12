@@ -1,5 +1,5 @@
 ---
-title: Input - pormptl.md und Pi
+title: Input - prompt.md und Pi
 section: training
 kind: tutorial
 ---
