@@ -42,7 +42,7 @@ Scaleway: Pending
 
 ### Agent (Schlaue Schleife)
 
-Der Schlaumeier auf dem Computer. Das es sich hier um einen Agenten handelt ist natürlich Quatsch. Es wirklich nichts mehr als eine schlaue Schleife. Der Agent wird mit einem Prompt gefüttern. Im Prompt sind Anweisungen zur Erledigung einer Aufgabe: "Kaufe mir 7 Eier im Internet". Der Agent erhält noch einen System-Prompt: "Du bist schlauer Einkäufer" und bestimmte Fähigkeiten: "Mit Firefox kannst du im Web surfen".
+Der Schlaumeier auf dem Computer. Das es sich hier um einen Agenten handelt ist natürlich Quatsch. Es wirklich nichts mehr als eine schlaue Schleife. Der Agent wird mit einem Prompt gefüttert. Im Prompt sind Anweisungen zur Erledigung einer Aufgabe: "Kaufe mir 7 Eier im Internet". Der Agent erhält noch einen System-Prompt: "Du bist schlauer Einkäufer" und bestimmte Fähigkeiten: "Mit Firefox kannst du im Web surfen".
 
 Dann legt der Agent los. Er macht sich "Gedanken" und versucht als erstes die Aufgabe zu verstehen. Er entwickelt ein Vorgehen (Plan) und wenn er sich "sicher" ist, dann legt er los (Execute). Er arbeitet solange an der Aufgabe bis er diese Erledig hat.
 
