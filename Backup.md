@@ -19,7 +19,7 @@ Backups werden auf einem remote Backup-Server gesichert. Dieser Server hat ein e
 
 ### Backup Replication
 
-Damit die Backups auch bei einem Ausfall des Backup Servers zur Verfügung stehen, werden die Backup-Daten auf einem [[Storage Bucket]] gespiegelt. Mehr dazu unter [[Backup Replication]].
+Damit die Backups auch bei einem Ausfall des Backup Servers zur Verfügung stehen, werden die Backup-Daten auf einem _Storage Bucket_ gespiegelt.
 
 ## Architektur
 
