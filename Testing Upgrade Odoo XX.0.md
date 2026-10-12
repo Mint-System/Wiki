@@ -26,6 +26,7 @@ Testumgebung: https://upgrade.odoo.example.com/
 Jeder Testfall und Feedback wir mit dem Status markiert:
 
 - 🏁 Zur Bearbeitung
+- 🔴 Fehler
 - 💬 Zur Review
 - ✅ Erledigt
 
