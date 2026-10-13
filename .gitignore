@@ -4,10 +4,8 @@ default.vim
 node_modules
 .vercel
 .obsidian/workspace.json
-.obsidian/graph.json
 .temp
 .cache
-.obsidian/appearance.json
 src
 tmp
 pnpm-workspace.yaml
