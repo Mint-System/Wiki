@@ -6,35 +6,45 @@ kind: tutorial
 
 ## Einleitung
 
-Im ersten Teil wie immer Theorie und im zweiten Teil Anwendung.
+Im ersten Teil widmen wir uns der Theorie und im zweiten Teil der Anwendung. In diesem Input lernst mehr über den Umgang und Arbeit mit LArge Language Models (LLM).
 
-Zuerst müssen wir ein paar Begriffe klären. In den folgenden Abschnitt der Englische Begriff und eine überspitzte Erklärung.
+Bevor wir loslegen müssen wir ein paar Begriffe klären. In den folgenden Abschnitt der Englische Begriff und eine überspitzte Erklärung.
 
 ### Claude (Klaus)
 
-Claude steht inzwischen für vieles. Ist es ein Model, eine Smartphone-App oder eine lebendig gewordene Sohn von Anthropic (Anthropisch)? In diesem Kontext ist eine proprietäre Sammlung von ai-Produkten. 
-
-### Model (Viel Text)
-
-Kurz das LLM (Large Language Model). Eine grosse Datei mit viel Text. Nur wurden die Text-Stücke zerlegt und nach deren Zusammenhang gewichtet. Es entsteht eine Topologie aus Buchstaben (Tokens).
+Claude steht inzwischen für vieles. Ist es ein Model? Eine Smartphone-App? Oder der lebendig gewordene Sohn von Anthropic? Fakt ist, es ist eine proprietäre Sammlung von ai-Produkten. Dasselbe gilt für die Produkte von OpenAI. Es sind überbewertete proprietäre Lösungen und wiedersprechen dem Open Source Gedanken. 
 
 ### AI (Afrikanische Intelligenz)
 
-Ohne Open* gäbe es keine LLMs und die Ausbeutung von Klick-Wokern in Nairobi keine gelabelten Daten. Den Intelligenzbegriff als solchen gilt es zu vermeiden. Mit nur zwei Klicks landet man von https://en.wikipedia.org/wiki/Intelligence via "g factor" in der Eugenik.
+Ironischerweise gäbe es Open Source und Open Knowledge gar keine LLMs. Die Trainingsdaten wurden im Internet ohne Einwilligung der Autoren abgegriffen. Auch ohne  die Ausbeutung von Klick-Wokern in Nairobi gäbe es keine Bildgeneratoren. Das ist die Schattenseite der Technologie.
+
+In diesem Zusammenhang gibt es noche viele weitere Problem (Data Centers, Wassermangel, TechBros, Escapism, Doomerism, Kopplung mit Militär, Einsatz KI im Krieg, ...). Den Intelligenzbegriff gilt es zu vermeiden. In nur zwei Klicks landet man von https://en.wikipedia.org/wiki/Intelligence via "g factor" in der Eugenik. Auf moralischer Ebene läuft mit LLMs also vieles schief.
+
+Gleichzeit verändert KI spürbar die Arbeitswelt. Sei es als Ersatz für Suchmaschinen, zum Lösen der Hausaufgaben oder bei der Programmierung von Software. Daher stellt sich die Frage was können wir beeinflussen und was nicht. Als Konsumenten haben wir die Wahl bei den Modellen, Anbietern und Workflow. Das ist schon mal ein Anfang.
+
+### Model (Viel Text)
+
+Was sind nochmals Modelle? Die Open Source und Open Weights Modelle sind Dateien in unterschiedlichen Grössen gefüttert mit viel Text. Die Text-Stücke werden zerlegt und nach deren Zusammenhang gewichtet. Es entsteht eine Topologie aus Buchstaben (Tokens).
+
+Auf https://huggingface.co/ findet so ziemlich alle verfügbaren Modelle. Um ein solches Model zu trainieren braucht es viel Rechenleistung. Es braucht ganze Datenzentren um ein fähiges Model zu kreieren.
+
+### Prompts (Befehle)
+
+Prompts sind Anweisungen an eine Modell. Es kann eine Frage sein oder ein Befehl.
 
 ### Harness (Gurtzeug)
 
-Ermöglicht dem LLM im weitesten Sinne die Fähigkeit als Agent zu agieren. Im Engsten Sinne ist eine Schleife für Prompts. In diesm Input schauen wir uns [Pi](https://pi.dev/) an.
+Ermöglicht im weitesten Sinne dem LLM die Fähigkeit als Agent zu agieren. Im Engsten Sinne ist eine Schleife für Prompts. In diesm Input schauen wir uns [Pi](https://pi.dev/) an.
 
 ### Inference (Schlussfolgerung)
 
-Man nehme ganz viel Arbeits- und Grafikspeicher und lade das ganze Model hinein. Man füge einen Prompt hinzu und rauskommt eine Schlussfolgerung des Models. Mit der sog. Inference erhalten wir die statistisch wahrscheinlichste Zusammensetzung von Buchstaben auf unsere in Token zerlegt Fragen. 
+Man nehme ganz viel Arbeits- und Grafikspeicher und lade das ganze Model hinein. Man füge einen Prompt hinzu und rauskommt die Schlussfolgerung des Models. Mit der sog. Inference erhalten wir die statistisch wahrscheinlichste Zusammensetzung von Buchstaben auf unsere in Token zerlegten Prompt.
 
 ### Inference Provider (Dienstleister für Schlussfolgerungen)
 
-Weil Arbeits- und Grafikspeicher und sowie so alles teuerer geworden ist, können jene die diese Ressourcen verkaufen. Das nennt sich Tokenomics. Mein zerlegt seine Prompt in Tokens und schickt in an einen Inference Provider. Für die Anfrage und die Anzahl Tokens bezahlt man.
+Weil Arbeits- und Grafikspeicher teuer geworden ist, können jene, die diese Ressourcen haben, sie verkaufen. Als Kunde zerlegt man den Prompt in Tokens und schickt in an einen Inference Provider. Für die Anfrage und die Anzahl Tokens bezahlt man.
 
-Zum Glück gibt es viele Provider. Der günstigste mit den meisten Models gewinnt! Nich nur, wir bevorzugen Anbieter in der Schweiz.
+Zum Glück gibt viele Anbieter. Der Günstigste mit den meisten Models gewinnt! Aber nicht nur, wir bevorzugen Anbieter in der Schweiz. Für unsere Arbeit schauen wir uns diese Anbieter an:
 
 Infomaniak: 1069 Hits für CHF 22.277\
 Hugging Face: 279 Hits für $20.53\
@@ -42,27 +52,29 @@ Scaleway: Pending
 
 ### Agent (Schlaue Schleife)
 
-Der Schlaumeier auf dem Computer. Das es sich hier um einen Agenten handelt ist natürlich Quatsch. Es wirklich nichts mehr als eine schlaue Schleife. Der Agent wird mit einem Prompt gefüttert. Im Prompt sind Anweisungen zur Erledigung einer Aufgabe: "Kaufe mir 7 Eier im Internet". Der Agent erhält noch einen System-Prompt: "Du bist schlauer Einkäufer" und bestimmte Fähigkeiten: "Mit Firefox kannst du im Web surfen".
+Das ist der Schlaumeier auf dem Computer. Das es sich hier um einen echten Agenten handelt, ist natürlich Quatsch. Es wirklich nichts mehr als eine programmierte Schleife.
 
-Dann legt der Agent los. Er macht sich "Gedanken" und versucht als erstes die Aufgabe zu verstehen. Er entwickelt ein Vorgehen (Plan) und wenn er sich "sicher" ist, dann legt er los (Execute). Er arbeitet solange an der Aufgabe bis er diese Erledig hat.
+Der Agent wird mit einem Prompt gefüttert. Im Prompt sind Anweisungen zur Erledigung einer Aufgabe: "Kaufe mir 7 Eier im Internet". Der Agent erhält einen System-Prompt dazu: "Du bist ein schlauer Einkäufer" und bestimmte Fähigkeiten: "Mit Firefox kannst du im Web surfen".
 
-Am Ende bekommt vielleicht 7 Eier nach Hause geliefert. Es können aber auch 7000 sein. Also aufgepasst.
+Dann legt der Agent los. Er macht sich "Gedanken" und versucht als erstes die Aufgabe zu verstehen. Er entwickelt ein Vorgehen (Plan) und wenn er sich "sicher" ist, macht er die Ausführung (Execute). Er arbeitet solange an der Aufgabe bis diese erledig ist. Ob er aufgibt oder nicht ist eine Frage des Trainings und Parametrierung des Models.
+
+Am Ende bekommt vielleicht 7 Eier nach Hause geliefert. Es können aber auch 7000 sein. Also aufgepasst!
 
 ### Anthropomorphism (Vermenschlichung)
 
-In der letzten Erklärung wurde Begriffe wie "Gedanken" in Anführungs- und Schlusszeichen gesetzt. Diese Begriffe vermenschlichen die Technik und das ist nicht gut. Da stimmt sogar der Papast zu.
+In der letzten Erklärung wurden Begriffe wie "Gedanken" in Anführungs- und Schlusszeichen gesetzt. Diese Begriffe vermenschlichen die Technik und das entspricht nicht deren Konstruktion. Da stimmt sogar der Papst zu.
 
-Rudolf Steiner würde dagegen halten. Aber lassen wir die Diskussion beiseite. Wichtig ist, dass man versteht, dass wenn man mit einem LLM interagiert, dieses vorgibt ein Mensch zu sein. Das ist by design und leider nicht immer hilfreich.
+Wenn man mit LLMs interagiert, beispielsweise in einem Chat, geben diese vor ein Mensch zu sein. Oder mindestens versucht unser Hirn im Chat einen Mensch zu finden. Die Grenze ist nicht ganz klar.
 
 ## Taskfile
 
-Was Pi ist wissen wir inzwischen. Doch was ist das `prompt.md`?
+Pi ist ein Harness. Was ist das `prompt.md`?
 
 Das `prompt.md` ist eine Erfindung von https://taskfile.build/ und das Taskfile ist eine Erfindung von Mint System. Es ist eine Art und Weise wie wir mit LLMs interagieren wollen.
 
 ### prompt.md
 
-Man sollte nicht einfach los prompted, sondern sich zuerst Gedanken mache (Think before you code)  was man erreichen will. Mit dem Befehl `create-prompt` wird eine `prompt.md` Datei mit diesem Inhalt erstellt:
+In der Abeit mit LLMs sollte man nicht einfach darauf los prompten. Als erstes muss man sich Gedanken machen was man eigentlich erreichen will (Think before you code). Mit dem Befehl `create-prompt` wird eine `prompt.md` Datei erstellt. Das ist eine Vorlage um die Gedanken in Form von Anweisungen festzuhalten. Das ist die aktuelle Vorlage:
 
 ```markdown
 ---
@@ -101,9 +113,9 @@ Note: @Clanker refers to the "ai agent" (you) who is working on this prompt file
 @Clanker Set frontmatter state to completed and update date, harness and model. If you have access to session info also add token count.
 ```
 
-Das sind einerseits Arbeitsanweisungen für den Agenten markiert mit `@Clanker` und anderseits Anweisungen für den Author `@Developer`. Im Abschnitt "Task" verfasst der Entwickler die Aufgaben.
+Enthalten sind einerseits Anweisungen für den Agenten markiert mit `@Clanker` und anderseits Anweisungen für den Author markiert mit `@Developer`. 
 
-Er macht sich Gedanken wieviele Eier es braucht und man die Aufgabe falsch verstehen kann. Er gibt Anweisungen wie der Clanker vorgehen soll. Erst wenn sich der Entwickler sicher ist, führt er den Prompt aus.
+Der Author macht sich Gedanken wie viele Eier es braucht und ob man die Aufgabe falsch verstehen kann. Er gibt Anweisungen wie der Clanker vorgehen soll. Erst wenn sich der Entwickler sicher fühlt, führt er den Prompt aus.
 
 ### prompt-log
 
@@ -113,14 +125,14 @@ Mit dem Befehl `commit-prompt` wird das aktuelle `prompt.md` registriert. Der le
 
 ## Workflow
 
-Nun wie sieht der Workflow in der Praxis aus? Wir wissen jetzt was das `prompt.md` und was Pi ist. Schauen wir uns an wie der Prompt mit Pi verarbeitet wird. 
+Wie sieht der Workflow in der Praxis aus? Wir wissen jetzt was das `prompt.md` und was Pi ist. Schauen wir uns an wie der Prompt mit Pi verarbeitet wird. 
 
 ### Prompt erstellen
 
 Der Wofklow ist ganz einfach. Wir öffnen das Terminal und navigieren in eine Projekt mit einem Taskfile.
 
 ```bash
-cd ~/my-project
+cd ~/Nextcloud-Build
 task create ""
 ```
 
@@ -149,6 +161,16 @@ Bist du bereit das selber zu machen? Geht ganz einfach! Wie bei Jamie Oliver wur
 
 ## Anwendungsbereiche
 
-Hier eine Liste was man prompt sollte:
+Hier eine Liste was man prompten sollte:
+
+- Generierung von Boilerplate Code
+- Konvertierung von Datenstrukturen
+- Massenmutationen
+- Spezifikation einer Software
 
 Und hier eine Liste was man nicht prompten sollte:
+
+- Aufgaben deren Lösung unbekannt ist
+- Recherchen im Internet
+- Dinge die mit einem Shell-Befehl erledigt sind
+- Zugriff auf produktive Umgebung
