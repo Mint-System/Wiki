@@ -117,11 +117,16 @@ Enthalten sind einerseits Anweisungen für den Agenten markiert mit `@Clanker` u
 
 Der Author macht sich Gedanken wie viele Eier es braucht und ob man die Aufgabe falsch verstehen kann. Er gibt Anweisungen wie der Clanker vorgehen soll. Erst wenn sich der Entwickler sicher fühlt, führt er den Prompt aus.
 
-### prompt-log
+### Prompt-Log
 
-Jede Ausführung wird im prompt-log registriert. Im Git-Jargon ist das prompt-log ein Branch. Hier ein Beispiel: https://codeberg.org/Mint-System/taskfile.build/src/branch/prompt-log
+Jede Ausführung wird im Prompt-Log registriert. Im Git-Jargon ist das Prompt-Log ein Branch. Hier ein Beispiel: https://codeberg.org/Mint-System/taskfile.build/src/branch/p
+rompt-log
 
 Mit dem Befehl `commit-prompt` wird das aktuelle `prompt.md` registriert. Der letzte Commit wird verlinkt. So bleibt nachvollziehbar was der Prompt bzw. der Clanker gemacht hat.
+
+### OpenSpec
+
+Die Idee vom `prompt.md` und Prompt-Log ist nicht neu. Eine Inspiration dafür war <https://openspec.dev/>. Warum nicht gleich mit OpenSpec arbeiten? Gemäss https://openspec.dev/docs/setup#what-init-installs erstellt das OpenSpec cli im aktuellen Verzeichnis ein `/openspec` Ordner und weitere Dinge. Mit diesem Workflow hat man auf jedem Git-Branch ein OpenSpec setup. Mit dem Prompt-Log ist das zentralisiert.
 
 ## Workflow
 
@@ -176,3 +181,12 @@ Und hier eine Liste was man nicht prompten sollte:
 - Recherchen im Internet
 - Dinge die mit einem Shell-Befehl erledigt sind
 - Zugriff auf produktive Umgebung
+
+## Verbesserungen
+
+Der Workflow mit `prompt.md` und Prompt-Log funktioniert schon ganz gut. Es gibt aber noch ein paar offene Punkte:
+
+- Wenn der Agent die Aufgabe erledigt hat, setzt er den Prompt auf `completed`. Jedoch wäre es besser, dass auf `review` geht und die Prüfung der Resultat eingefordert wird.
+- Ist man nicht zufrieden mit dem Resultat und möchte man von vorne beginnen ist das aktuell schwierig. Einerseits muss man die Änderungen mit Git zurücksetzen und dann das Worklog im `prompt.md` löschen.
+- Wenn man bei der Ausführung einer Aufgabe feststellt, dass die Erledigung ein neues separates `prompt.md` erfordert wird die Sache schwierig.
+- Mit dem Befehl `prompt-with-pi` soll ein bestehendes Prompt-File aus dem Prompt-Log geladen werden könenn.
