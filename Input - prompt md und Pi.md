@@ -173,20 +173,22 @@ task commit-prompt
 
 Dieser Befehl speichert den aktuelle Commit im Frontmatter. Der `prompt-log` Branch wird automatisch gepusht.
 
-## Hands-on
+## Hands-on (en)
 
-Bist du bereit das selber zu machen? Geht ganz einfach! Wie bei Jamie Oliver wurde bereits alles vorgekocht. Du musst nur noch die Anweisungen befolgen.
+Are you ready to cook a prompt yourself? Everything is ready, simply follow the instructions.
 
-### Tools installieren
+### Install tools
+
+If not done already clone the Mint System dotfiles" <https://github.com/mint-System/dotfiles#usage>.
 
 Open a terminal and move into the `mint-system-dotfiles` project.
 
 ```bash
-[~]$ cd mint-system-dotfiles
+[~]$ cd ~/mint-system-dotfiles
 [main][~/mint-system-dotfiles]$
 ```
 
-Make a copy of the `.env` file and check project setup:
+Make a copy of the `.env` file and verify project setup:
 
 ```bash
 cp .env.template .env
@@ -212,7 +214,7 @@ pi "hi"
 
 It should use the `infomaniak/moonshotai/Kimi-K2.6` model by default.
 
-### Ein ETL-Projekt initialisieren
+### Initialize the ETL project
 
 ```bash
 [~]$ mkdir odoo-example-etl
@@ -250,7 +252,7 @@ Age public key: age1xjjk2az208g73fmz08r9dh0fdnmhxzm73qa9rrvmdkugjcrrh4sszh202n
 sops will use the key from /home/$USER/.config/sops/age/keys.txt automatically.
 ```
 
-Create a encypted `secrets.env`
+Create a encypted `secrets.env`:
 
 ```bash
 task create-dotenv secrets secrets
@@ -259,13 +261,34 @@ Encrypted /home/$USER/odoo-example-etl/secrets.env with sops.
 Edit with: task edit-dotenv secrets
 ```
 
-### Ein Jupyter-Notebook generieren
+Edit the `secrets.env`:
+
+```
+task edit-dotenv secrets
+```
+
+And enter this content:
 
 ```bash
-task create-prompt "Sync contacts from Bexio to Odoo"
+ODOO_URL=https://jupyter-lab.19.odoo.build/
+ODOO_DATABASE=jupyter-lab
+ODOO_USERNAME=login@mint-system.ch
+ODOO_PASSWORD= # Copy from KeePass
+```
+
+Save the file and close the editor.
+
+### Generate the Jupyter notebook
+
+Still in the project folder create a prompt:
+
+```bash
+task create-prompt "Create a personal Odoo account"
 File created:
 prompt.md
 ```
+
+
 
 ## Anwendungsbereiche
 
