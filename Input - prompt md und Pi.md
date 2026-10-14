@@ -287,7 +287,7 @@ File created:
 prompt.md
 ```
 
-Enter the following instructions:
+Replace `@Developer` with these instructions:
 
 ````markdown
 Your goal ist create a Jupyter notebook `setup-odoo.ipynb` that configures Odoo.
@@ -306,6 +306,24 @@ You can run the notebook with `task run-jupyter-notebook setup-odoo.ipynb secret
 
 The notebook simply creates a personal user account with a random password. Show the password to the user.
 ````
+
+Save the prompt and execute with Pi:
+
+```bash
+task prompt-with-pi
+```
+
+### Test the result
+
+Once Pi has finished and asks for review, start the Jupyter lab:
+
+```bash
+task start-jupyter-lab secrets
+```
+
+Open the Notebook and run.
+
+Try to log in with new user.
 
 ## Anwendungsbereiche
 
