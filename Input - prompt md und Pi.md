@@ -134,27 +134,44 @@ Wie sieht der Workflow in der Praxis aus? Wir wissen jetzt was das `prompt.md` u
 
 ### Prompt erstellen
 
-Der Wofklow ist ganz einfach. Wir öffnen das Terminal und navigieren in eine Projekt mit einem Taskfile.
+Der Wofklow ist ganz einfach. Wir öffnen das Terminal und navigieren in eine Projekt mit einem Taskfile. Dann erstellen wir ein Prompt-File.
 
 ```bash
 cd ~/Nextcloud-Build
-task create ""
+task create-prompt "Connect to Nextclou and create personal user"
 ```
+
+Der Editor öffnet sich und bei `@Developer` beschreibt man die Aufgabe.
 
 ### Prompt mit Pi ausführen
 
+Wenn der Prompt beschrieben ist, führt man ihn mit diesem Befehl aus:
 
 ```bash
-
+task prompt-with-pi
 ```
+
+Das PI Harness wird gestartet und der Prompt wird als Query mitgeteilt. Pi legt los und bittet nach Erledigung der Aufgabe um eine Review.
 
 ### Resultat prüfen
 
-### Prompt committen
+Der Author prüft das Resultat und teil Pi mit ob es passt oder nicht. Es können auch Verbesserungen und Ergänzungen mitgeteilt werden.
+
+Wenn die Aufgabe erledigt, ergänzt Pi das Frontmatter und das Worklog in der Prompt-Datei. Der Author muss nun das Ergebnis selbst committen. Die Commit-Nachricht lässt sich mit diesem Befehl generieren:
 
 ```bash
-
+task commit-with-llm
 ```
+
+### Prompt committen
+
+Nun kann der Prompt im Prompt-Log registriert werden:
+
+```bash
+task commit-prompt
+```
+
+Dieser Befehl speichert den aktuelle Commit im Frontmatter. Der `prompt-log` Branch wird automatisch gepusht.
 
 ## Hands-on
 
@@ -187,17 +204,26 @@ task install llm # Will prompt ofr the KeePass database password
 task install pi # Will prompt ofr the KeePass database password
 ```
 
-### Ein ETL-Projekt erstellen
+Check if pi can make a connection:
+
+```bash
+pi "hi"
+```
+
+It should use the `infomaniak/moonshotai/Kimi-K2.6` model by default.
+
+### Ein ETL-Projekt initialisieren
 
 ```bash
 [~]$ mkdir odoo-example-etl
 [~]$ cd odoo-example-etl
 [~/odoo-example-etl]$ task init-project
 Init git directory.
-Initialized empty Git repository in /home/janikvonrotz/odoo-example-etl/.git/
+Initialized empty Git repository in /home/$USER$/odoo-example-etl/.git/
 Create tmp folder.
 Copy gitgnore template.
 Copy taskfile template.
+Copy env template.
 Copy agents template.
 Copy changelog template.
 Touch readme file.
@@ -212,9 +238,34 @@ Init Jupyter Lab:
 task install-jupyter-lab
 ```
 
+Create a sops config:
 
+```bash
+task init-dotenv-sops
+Generated age key 'odoo-example-etl' and appended to /home/$USER/.config/sops/age/keys.txt
+Create .sops.yaml
+Age key file: /home/$USER/.config/sops/age/keys.txt
+Age key name: odoo-example-etl
+Age public key: age1xjjk2az208g73fmz08r9dh0fdnmhxzm73qa9rrvmdkugjcrrh4sszh202n
+sops will use the key from /home/$USER/.config/sops/age/keys.txt automatically.
+```
+
+Create a encypted `secrets.env`
+
+```bash
+task create-dotenv secrets secrets
+Init .env file: /home/$USER/odoo-example-etl/secrets.env
+Encrypted /home/$USER/odoo-example-etl/secrets.env with sops.
+Edit with: task edit-dotenv secrets
+```
 
 ### Ein Jupyter-Notebook generieren
+
+```bash
+task create-prompt "Sync contacts from Bexio to Odoo"
+File created:
+prompt.md
+```
 
 ## Anwendungsbereiche
 
