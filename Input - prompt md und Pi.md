@@ -291,9 +291,9 @@ prompt.md
 Enter the following instructions:
 
 ````markdown
-Create a Jupyter notebook `setup-odoo.ipynb`. This notebook connects to Odoo with the JSON-2 API.
+Your goal ist create a Jupyter notebook `setup-odoo.ipynb` that configures Odoo.
 
-Use `ODOO_API_URL=https://$ODOO_URL/json/2` to connect to Odoo. See https://www.odoo.com/documentation/19.0/developer/reference/external_api.html for API details.
+Use `ODOO_API_URL=https://$ODOO_URL/json/2` to connect to Odoo. Note that this is the JSON-2 API and not the XML-/JSON-RPC API.See https://www.odoo.com/documentation/19.0/developer/reference/external_api.html for details.
 
 Alle required env vars are stored in `secrets.env`. You can load the env vars like this:
 
@@ -303,7 +303,7 @@ eval "$(task show-dotenv secrets)"
 
 You can run the notebook with `task run-jupyter-notebook setup-odoo.ipynb secrets`. This should automatically decrypt the `secrets.env` and load the env vars.
 
-The notebook simply creates 
+The notebook simply creates a personal user account with a random password. Show the password to the user.
 ````
 
 ## Anwendungsbereiche
