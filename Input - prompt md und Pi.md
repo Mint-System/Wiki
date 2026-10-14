@@ -293,7 +293,7 @@ Enter the following instructions:
 ````markdown
 Your goal ist create a Jupyter notebook `setup-odoo.ipynb` that configures Odoo.
 
-Use `ODOO_API_URL=https://$ODOO_URL/json/2` to connect to Odoo. Note that this is the JSON-2 API and not the XML-/JSON-RPC API.See https://www.odoo.com/documentation/19.0/developer/reference/external_api.html for details.
+Use `ODOO_API_URL=https://$ODOO_URL/json/2` to connect to Odoo. Note that this is the JSON-2 API and not the XML-/JSON-RPC API.See `https://$ODOO_URL/doc` for details.
 
 Alle required env vars are stored in `secrets.env`. You can load the env vars like this:
 
