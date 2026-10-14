@@ -272,8 +272,7 @@ And enter this content:
 ```bash
 ODOO_URL=https://jupyter-lab.19.odoo.build/
 ODOO_DATABASE=jupyter-lab
-ODOO_USERNAME=login@mint-system.ch
-ODOO_PASSWORD= # Copy from KeePass
+ODOO_API_TOKEN= # Copy from KeePass "jupyter-lab.19.odoo.build" entry
 ```
 
 Save the file and close the editor.
