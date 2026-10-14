@@ -300,6 +300,8 @@ Alle required env vars are stored in `secrets.env`. You can load the env vars li
 eval "$(task show-dotenv secrets)"
 ```
 
+Set `SOPS_AGE_KEY_FILE=/home/$USER/.config/sops/age/keys.txt` to decrypt.
+
 You can run the notebook with `task run-jupyter-notebook setup-odoo.ipynb secrets`. This should automatically decrypt the `secrets.env` and load the env vars.
 
 The notebook simply creates a personal user account with a random password. Show the password to the user.
