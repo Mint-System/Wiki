@@ -326,7 +326,7 @@ Und hier eine Liste was man nicht prompten sollte:
 
 Der Workflow mit `prompt.md` und Prompt-Log funktioniert schon ganz gut. Es gibt aber noch ein paar offene Punkte:
 
-- Wenn der Agent die Aufgabe erledigt hat, setzt er den Prompt auf `completed`. Jedoch wäre es besser, dass auf `review` geht und die Prüfung der Resultat eingefordert wird.
-- Ist man nicht zufrieden mit dem Resultat und möchte man von vorne beginnen ist das aktuell schwierig. Einerseits muss man die Änderungen mit Git zurücksetzen und dann das Worklog im `prompt.md` löschen.
-- Wenn man bei der Ausführung einer Aufgabe feststellt, dass die Erledigung ein neues separates `prompt.md` erfordert wird die Sache schwierig.
-- Mit dem Befehl `prompt-with-pi` soll ein bestehendes Prompt-File aus dem Prompt-Log geladen werden können.
+- ~~**Review**: Wenn der Agent die Aufgabe erledigt hat, setzt er den Prompt auf `completed`. Jedoch wäre es besser, dass auf `review` geht und die Prüfung der Resultat eingefordert wird.~~
+- **Reset**: Ist man nicht zufrieden mit dem Resultat und möchte man von vorne beginnen ist das aktuell schwierig. Einerseits muss man die Änderungen mit Git zurücksetzen und dann das Worklog im `prompt.md` löschen.
+- **Sub-Agents**: Wenn man bei der Ausführung einer Aufgabe feststellt, dass die Erledigung ein neues separates `prompt.md` erfordert wird die Sache schwierig.
+- **Continue**: Mit dem Befehl `prompt-with-pi` soll ein bestehendes Prompt-File aus dem Prompt-Log geladen werden können.
