@@ -162,7 +162,57 @@ Bist du bereit das selber zu machen? Geht ganz einfach! Wie bei Jamie Oliver wur
 
 ### Tools installieren
 
+Open a terminal and move into the `mint-system-dotfiles` project.
+
+```bash
+[~]$ cd mint-system-dotfiles
+[main][~/mint-system-dotfiles]$
+```
+
+Make a copy of the `.env` file and check project setup:
+
+```bash
+cp .env.template .env
+task show-project-setup
+```
+
+Make sure the KeePass env var points to the `Infrastruktur.kdbx` file.
+
+Now we are going to install the required tools:
+
+```bash
+task install sops
+task install age
+task install llm # Will prompt ofr the KeePass database password
+task install pi # Will prompt ofr the KeePass database password
+```
+
 ### Ein ETL-Projekt erstellen
+
+```bash
+[~]$ mkdir odoo-example-etl
+[~]$ cd odoo-example-etl
+[~/odoo-example-etl]$ task init-project
+Init git directory.
+Initialized empty Git repository in /home/janikvonrotz/odoo-example-etl/.git/
+Create tmp folder.
+Copy gitgnore template.
+Copy taskfile template.
+Copy agents template.
+Copy changelog template.
+Touch readme file.
+Copy license file.
+```
+
+Open the `task` file and remove all help sections except for the Jupyter, LLM and Prompt section.
+
+Init Jupyter Lab:
+
+```bash
+task install-jupyter-lab
+```
+
+
 
 ### Ein Jupyter-Notebook generieren
 
