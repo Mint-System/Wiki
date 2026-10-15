@@ -188,6 +188,14 @@ Open a terminal and move into the `mint-system-dotfiles` project.
 [main][~/mint-system-dotfiles]$
 ```
 
+Make sure the taskfile project is update-to-date:
+
+```bash
+task clone-taskfile
+```
+
+If there is an issue run `rm -rf ~/taskfile.build` and clone again.
+
 Make a copy of the `.env` file and verify project setup:
 
 ```bash
@@ -195,7 +203,7 @@ cp .env.template .env
 task show-project-setup
 ```
 
-Make sure the KeePass env var points to the `Infrastruktur.kdbx` file.
+Make sure the KeePass env var points to the `Infrastruktur.kdbx` file. If the path is different change the path by editing the `.env` file.
 
 Now we are going to install the required tools:
 
