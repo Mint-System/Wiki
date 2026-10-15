@@ -226,23 +226,18 @@ It should use the `infomaniak/moonshotai/Kimi-K2.6` model by default.
 
 ### Initialize the ETL project
 
+Move into your project directory and create new project called `odoo-example-etl`:
+
 ```bash
 [~]$ mkdir odoo-example-etl
 [~]$ cd odoo-example-etl
-[~/odoo-example-etl]$ task init-project
+[~/odoo-example-etl]$ ~/taskfile.build/task.template init-project
 Init git directory.
 Initialized empty Git repository in /home/$USER$/odoo-example-etl/.git/
-Create tmp folder.
-Copy gitgnore template.
-Copy taskfile template.
-Copy env template.
-Copy agents template.
-Copy changelog template.
-Touch readme file.
-Copy license file.
+Created: tmp/ .gitignore task .env.template AGENTS.md CHANGELOG.md README.md LICENSE
 ```
 
-Open the `task` file and remove all help sections except for the Jupyter, LLM and Prompt section.
+Optional: Open the `task` file and remove all help sections (marked with `===`) and commands except for the Jupyter, LLM and Prompt sections.
 
 Init Jupyter Lab:
 
