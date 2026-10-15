@@ -202,8 +202,8 @@ Now we are going to install the required tools:
 ```bash
 task install sops
 task install age
-task install llm # Will prompt ofr the KeePass database password
-task install pi # Will prompt ofr the KeePass database password
+task install llm # Will prompt for the KeePass database password
+task install pi # Will prompt for the KeePass database password
 ```
 
 Check if pi can make a connection:
@@ -293,16 +293,6 @@ Replace `@Developer` with these instructions:
 Your goal ist create a Jupyter notebook `setup-odoo.ipynb` that configures Odoo.
 
 Use `ODOO_API_URL=https://$ODOO_URL/json/2` to connect to Odoo. Note that this is the JSON-2 API and not the XML-/JSON-RPC API.See `https://$ODOO_URL/doc` for details.
-
-Alle required env vars are stored in `secrets.env`. You can load the env vars like this:
-
-```bash
-eval "$(task show-dotenv secrets)"
-```
-
-Set `SOPS_AGE_KEY_FILE=/home/$USER/.config/sops/age/keys.txt` to decrypt.
-
-You can run the notebook with `task run-jupyter-notebook setup-odoo.ipynb secrets`. This should automatically decrypt the `secrets.env` and load the env vars.
 
 The notebook simply creates a personal user account with a random password. Show the password to the user.
 ````
