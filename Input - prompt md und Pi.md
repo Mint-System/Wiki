@@ -28,7 +28,7 @@ Was sind nochmals Modelle? Die Open Source und Open Weights Modelle sind Dateien
 
 Auf https://huggingface.co/ findet so ziemlich alle verfügbaren Modelle. Um ein solches Model zu trainieren braucht es viel Rechenleistung. Es braucht ganze Datenzentren um ein fähiges Model zu kreieren.
 
-### Prompts (Befehle)
+### Prompts (Anweisung)
 
 Prompts sind Anweisungen an eine Modell. Es kann eine Frage sein oder ein Befehl.
 
