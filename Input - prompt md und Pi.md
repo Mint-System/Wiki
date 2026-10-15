@@ -258,7 +258,7 @@ Age public key: age1xjjk2az208g73fmz08r9dh0fdnmhxzm73qa9rrvmdkugjcrrh4sszh202n
 sops will use the key from /home/$USER/.config/sops/age/keys.txt automatically.
 ```
 
-Create a encypted `secrets.env`:
+Create a encrypted `secrets.env`:
 
 ```bash
 task create-dotenv secrets secrets
@@ -269,7 +269,7 @@ Edit with: task edit-dotenv secrets
 
 Edit the `secrets.env`:
 
-```
+```bash
 task edit-dotenv secrets
 ```
 
@@ -282,6 +282,13 @@ ODOO_API_TOKEN= # Copy from KeePass "jupyter-lab.19.odoo.build" entry
 ```
 
 Save the file and close the editor.
+
+Check if decryption works:
+
+```bash
+task show-dotenv secrets # Decrypts content
+cat secrets.env # Shows encrypted content
+```
 
 ### Generate the Jupyter notebook
 
