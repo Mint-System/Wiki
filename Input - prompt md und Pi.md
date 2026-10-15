@@ -328,7 +328,9 @@ task start-jupyter-lab secrets
 
 Open the Notebook and run it again.
 
-If everything works tell pi `done`. Show the frontmatter of the prompt:
+If everything works tell pi `done`. Exit with ctrl + d. 
+
+Show the frontmatter of the prompt:
 
 ```bash
 head prompt.md
@@ -339,8 +341,11 @@ head prompt.md
 Commit the changes in the project:
 
 ```bash
+git add -all
 task commit-with-llm
 ```
+
+Confirm with the preview with q.
 
 Then create the prompt-log and commit the prompt:
 
