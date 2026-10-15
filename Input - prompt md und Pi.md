@@ -208,6 +208,7 @@ Make sure the KeePass env var points to the `Infrastruktur.kdbx` file. If the pa
 Now we are going to install the required tools:
 
 ```bash
+task install uv
 task install sops
 task install age
 task install llm # Will prompt for the KeePass database password
