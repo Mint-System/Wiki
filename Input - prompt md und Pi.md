@@ -318,15 +318,38 @@ task prompt-with-pi
 
 ### Test the result
 
-Once Pi has finished and asks for review, start the Jupyter lab:
+Try to log in on https://jupyter-lab.19.odoo.build/ with new user.
+
+Once Pi has finished and asks for review, start the Jupyter lab (in a new terminal):
 
 ```bash
 task start-jupyter-lab secrets
 ```
 
-Open the Notebook and run.
+Open the Notebook and run it again.
 
-Try to log in with new user.
+If everything works tell pi `done`.
+
+### Commit the results
+
+Commit the changes in the project:
+
+```bash
+task commit-with-llm
+```
+
+Then create the prompt-log and commit the prompt:
+
+```bash
+task init-prompt-log
+task commit-prompt
+```
+
+List the prompt-log entries:
+
+```bash
+task list-prompts
+```
 
 ## Anwendungsbereiche
 
