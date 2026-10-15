@@ -328,7 +328,11 @@ task start-jupyter-lab secrets
 
 Open the Notebook and run it again.
 
-If everything works tell pi `done`.
+If everything works tell pi `done`. Show the frontmatter of the prompt:
+
+```bash
+head prompt.md
+```
 
 ### Commit the results
 
