@@ -214,6 +214,8 @@ task install llm # Will prompt for the KeePass database password
 task install pi # Will prompt for the KeePass database password
 ```
 
+Also do not start Pi during the installation.
+
 Check if pi can make a connection:
 
 ```bash
