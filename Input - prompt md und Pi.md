@@ -6,39 +6,41 @@ kind: tutorial
 
 ## Einleitung
 
-Im ersten Teil widmen wir uns der Theorie und im zweiten Teil der Anwendung. In diesem Input lernst mehr über den Umgang und Arbeit mit LArge Language Models (LLM).
+Im ersten Teil widmen wir uns der Theorie und im zweiten Teil der Anwendung. In diesem Input lernst mehr über den Umgang und Arbeit mit Large Language Models (LLM). Inhaltlich knüpft es an den vorhergehenden [[Input - Arbeit mit LLMs]] an.
 
-Bevor wir loslegen müssen wir ein paar Begriffe klären. In den folgenden Abschnitt der Englische Begriff und eine überspitzte Erklärung.
+Bevor wir loslegen müssen wir ein paar Begriffe klären. In den folgenden Abschnitt der Englische Begriff und eine überspitzte Definition.
 
 ### Claude (Klaus)
 
-Claude steht inzwischen für vieles. Ist es ein Model? Eine Smartphone-App? Oder der lebendig gewordene Sohn von Anthropic? Fakt ist, es ist eine proprietäre Sammlung von ai-Produkten. Dasselbe gilt für die Produkte von OpenAI. Es sind überbewertete proprietäre Lösungen und wiedersprechen dem Open Source Gedanken. 
+Claude steht inzwischen für vieles. Ist es ein Model? Eine Smartphone-App? Oder der lebendig gewordene Sohn von Anthropic? Fakt ist, es ist eine proprietäre Sammlung von ai-Produkten. Dasselbe gilt für die Produkte von OpenAI. Sozusagen das Micosoft Geschäftsmodell der ai Lab. Es sind überbewertete proprietäre Lösungen und widersprechen dem Open Source Gedanken.
+
+Wie bei Microsoft schwören alle auf Claude. Ganze Unternehmen bauen ihre Produkte auf dem API-Schlüssel auf. Gleichzeitig ist das Geschäftsmodell von Anthropic hochspekulativ. Es ist also nicht nur ein finanzielles Risiko, sondern eine weitere problematische Abhängigkeit in der IT.
 
 ### AI (Afrikanische Intelligenz)
 
-Ironischerweise gäbe es Open Source und Open Knowledge gar keine LLMs. Die Trainingsdaten wurden im Internet ohne Einwilligung der Autoren abgegriffen. Auch ohne  die Ausbeutung von Klick-Wokern in Nairobi gäbe es keine Bildgeneratoren. Das ist die Schattenseite der Technologie.
+Ironischerweise gäbe es Open Source und Open Knowledge gar keine LLMs. Die Trainingsdaten werden im Internet ohne Einwilligung der Autoren abgegriffen. Auch ohne  die Ausbeutung von Klick-Wokern in Nairobi gäbe es keine Bildgeneratoren. Das ist die Schattenseite der Technologie.
 
-In diesem Zusammenhang gibt es noche viele weitere Problem (Data Centers, Wassermangel, TechBros, Escapism, Doomerism, Kopplung mit Militär, Einsatz KI im Krieg, ...). Den Intelligenzbegriff gilt es zu vermeiden. In nur zwei Klicks landet man von https://en.wikipedia.org/wiki/Intelligence via "g factor" in der Eugenik. Auf moralischer Ebene läuft mit LLMs also vieles schief.
+In diesem Zusammenhang gibt es noche viele weitere Problem (Data Centers, Wassermangel, TechBros, Escapism, Doomerism, Military Industrial Complex, Einsatz KI im Krieg, Überwachung ...). Den Intelligenzbegriff gilt es zu vermeiden. In nur zwei Klicks landet man von <https://en.wikipedia.org/wiki/Intelligence> via "g factor" in der Eugenik. Auf moralischer Ebene läuft mit LLMs also alles schief.
 
-Gleichzeit verändert KI spürbar die Arbeitswelt. Sei es als Ersatz für Suchmaschinen, zum Lösen der Hausaufgaben oder bei der Programmierung von Software. Daher stellt sich die Frage was können wir beeinflussen und was nicht. Als Konsumenten haben wir die Wahl bei den Modellen, Anbietern und Workflow. Das ist schon mal ein Anfang.
+Gleichzeit verändert KI spürbar die Arbeitswelt. Sei es als Ersatz für Suchmaschinen, zum Lösen der Hausaufgaben oder bei der Programmierung von Software. Daher stellt sich die Frage, was können wir beeinflussen und was nicht? Als Konsumenten haben wir noch die Wahl bei den Modellen, Anbietern und Workflows. Das ist immerhin etwas.
 
 ### Model (Viel Text)
 
-Was sind nochmals Modelle? Die Open Source und Open Weights Modelle sind Dateien in unterschiedlichen Grössen gefüttert mit viel Text. Die Text-Stücke werden zerlegt und nach deren Zusammenhang gewichtet. Es entsteht eine Topologie aus Buchstaben (Tokens).
+Was sind nochmals diese Modelle? Die Open Source und Open Weights Modelle sind Dateien in unterschiedlichen Grössen, gefüttert mit viel Text. Die Text-Stücke werden zerlegt und nach deren Zusammenhang gewichtet. Es entsteht eine Topologie aus Buchstaben (Tokens).
 
-Auf https://huggingface.co/ findet so ziemlich alle verfügbaren Modelle. Um ein solches Model zu trainieren braucht es viel Rechenleistung. Es braucht ganze Datenzentren um ein fähiges Model zu kreieren.
+Auf <https://huggingface.co/> findet so ziemlich alle Open Weights Modelle die es gibt. Um ein Model zu trainieren braucht es viel Rechenleistung. Es braucht ganze Datenzentren um ein Model zu kreieren, das sich nicht wie lobotomisierter Kasper gibt.
 
 ### Prompts (Anweisung)
 
-Prompts sind Anweisungen an eine Modell. Es kann eine Frage sein oder ein Befehl.
+Prompts sind Anweisungen an eine Modell. Es kann eine Frage sein oder ein Befehl. Das Modell kann die die wahrscheinlichste (und nicht die korrekteste) Inference liefern.
 
 ### Harness (Gurtzeug)
 
-Ermöglicht im weitesten Sinne dem LLM die Fähigkeit als Agent zu agieren. Im Engsten Sinne ist eine Schleife für Prompts. In diesm Input schauen wir uns [Pi](https://pi.dev/) an.
+Ermöglicht im weitesten Sinne dem LLM die Fähigkeit als Agent zu agieren. Im Engsten Sinne ist es eine Schleife für Prompts. In diesem Input schauen wir uns [Pi](https://pi.dev/) als Harness an.
 
 ### Inference (Schlussfolgerung)
 
-Man nehme ganz viel Arbeits- und Grafikspeicher und lade das ganze Model hinein. Man füge einen Prompt hinzu und rauskommt die Schlussfolgerung des Models. Mit der sog. Inference erhalten wir die statistisch wahrscheinlichste Zusammensetzung von Buchstaben auf unsere in Token zerlegten Prompt.
+Man nehme ganz viel Arbeits- und Grafikspeicher und lade die ganze Model-Datei hinein. Man füge einen Prompt hinzu und rauskommt die Schlussfolgerung des Models. Mit der sog. Inference erhalten wir die statistisch wahrscheinlichste Zusammensetzung von Buchstaben auf unsere in Token zerlegten Prompt.
 
 ### Inference Provider (Dienstleister für Schlussfolgerungen)
 
@@ -50,9 +52,11 @@ Infomaniak: 1069 Hits für CHF 22.277\
 Hugging Face: 279 Hits für $20.53\
 Scaleway: Pending
 
+Sie unterscheiden sich in der Wahl der Modelle und den Kosten pro Anfrage. Kostenmässig kann das schnell aus dem Ruder laufen. Die Inference Provider verdienen wenn wir möglichst viele Tokens verbrennen. Wenn das Harness, das Model und der Provider das gleiche Unternehmen sind, dann wird das System auf maximalen Token-Verbraucht ausgerichtet.
+
 ### Agent (Schlaue Schleife)
 
-Das ist der Schlaumeier auf dem Computer. Das es sich hier um einen echten Agenten handelt, ist natürlich Quatsch. Es wirklich nichts mehr als eine programmierte Schleife.
+Das ist der neue Schlaumeier auf dem Computer. Dass es sich hier um einen echten Agenten handelt, ist natürlich Quatsch. Ein Agent ist wirklich nichts mehr als eine programmierte Schleife.
 
 Der Agent wird mit einem Prompt gefüttert. Im Prompt sind Anweisungen zur Erledigung einer Aufgabe: "Kaufe mir 7 Eier im Internet". Der Agent erhält einen System-Prompt dazu: "Du bist ein schlauer Einkäufer" und bestimmte Fähigkeiten: "Mit Firefox kannst du im Web surfen".
 
@@ -62,19 +66,19 @@ Am Ende bekommt vielleicht 7 Eier nach Hause geliefert. Es können aber auch 700
 
 ### Anthropomorphism (Vermenschlichung)
 
-In der letzten Erklärung wurden Begriffe wie "Gedanken" in Anführungs- und Schlusszeichen gesetzt. Diese Begriffe vermenschlichen die Technik und das entspricht nicht deren Konstruktion. Da stimmt sogar der Papst zu.
+In der letzten Erklärung wurden Begriffe wie "Gedanken" in Anführungs- und Schlusszeichen gesetzt. Diese Begriffe vermenschlichen die Technik und das entspricht nicht deren Konstruktion. Da stimmt sogar der Papst zu (siehe [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)).
 
-Wenn man mit LLMs interagiert, beispielsweise in einem Chat, geben diese vor ein Mensch zu sein. Oder mindestens versucht unser Hirn im Chat einen Mensch zu finden. Die Grenze ist nicht ganz klar.
+Wenn man mit LLMs interagiert, beispielsweise in einem Chat, dann suggerieren diese  ein Mensch zu sein (sieh [Eliza-Effekt](https://en.wikipedia.org/wiki/ELIZA_effect)). Oder mindestens versucht unser Hirn im Chat einen Mensch zu finden. Die Grenze ist nicht ganz klar.
 
 ## Taskfile
 
-Pi ist ein Harness. Was ist das `prompt.md`?
-
-Das `prompt.md` ist eine Erfindung von https://taskfile.build/ und das Taskfile ist eine Erfindung von Mint System. Es ist eine Art und Weise wie wir mit LLMs interagieren wollen.
+Jetzt wird es wieder technisch. Die hier präsentierte Lösung um mit Pi (dem Harness) Prompts ausfzuführen basiert auf dem Taskfile. Konkret ist  `prompt.md` eine Erfindung von <https://taskfile.build/> und das Taskfile ist eine Erfindung von Mint System. Es definiert die Art und Weise wie wir mit LLMs interagieren.
 
 ### prompt.md
 
-In der Abeit mit LLMs sollte man nicht einfach darauf los prompten. Als erstes muss man sich Gedanken machen was man eigentlich erreichen will (Think before you code). Mit dem Befehl `create-prompt` wird eine `prompt.md` Datei erstellt. Das ist eine Vorlage um die Gedanken in Form von Anweisungen festzuhalten. Das ist die aktuelle Vorlage:
+In der Abeit mit LLMs sollte man nicht einfach darauf los prompten. Als erstes muss man sich Gedanken machen und festlegen was man erreichen will (Think before you code).
+
+Mit dem Taskfile-Befehl `create-prompt` wird eine `prompt.md` Datei erzeugt. Das ist eine Vorlage um Gedanken in Form von Anweisungen festzuhalten. So sieht die aktuelle Vorlage aus:
 
 ```markdown
 ---
@@ -113,28 +117,31 @@ Note: @Clanker refers to the "ai agent" (you) who is working on this prompt file
 @Clanker Set frontmatter state to completed and update date, harness and model. If you have access to session info also add token count.
 ```
 
-Enthalten sind einerseits Anweisungen für den Agenten markiert mit `@Clanker` und anderseits Anweisungen für den Author markiert mit `@Developer`. 
+Enthalten sind einerseits Anweisungen an den Agenten (markiert mit `@Clanker`) und anderseits Anweisungen für den Author (markiert mit `@Developer`).
 
-Der Author macht sich Gedanken wie viele Eier es braucht und ob man die Aufgabe falsch verstehen kann. Er gibt Anweisungen wie der Clanker vorgehen soll. Erst wenn sich der Entwickler sicher fühlt, führt er den Prompt aus.
+Der Author formuliert die Aufgabe und denkt nach, ob man die Aufgabe auch falsch verstehen kann. Er gibt dem Clanker Anweisungen zum Vorgehen und hält allgemeine Anforderungen fest. Bestimmte Rahmenbedingungen sind bereits im `AGENT.md` oder im `README.md` festgelegt.
+
+Erst wenn sich der Entwickler sicher fühlt, führt er den Prompt aus.
 
 ### Prompt-Log
 
-Jede Ausführung wird im Prompt-Log registriert. Im Git-Jargon ist das Prompt-Log ein Branch. Hier ein Beispiel: https://codeberg.org/Mint-System/taskfile.build/src/branch/p
-rompt-log
+Jede Ausführung wird im Prompt-Log registriert. Im Git-Jargon ist das Prompt-Log ein Branch. Hier ein Beispiel: <https://codeberg.org/Mint-System/taskfile.build/src/branch/prompt-log>
 
 Mit dem Befehl `commit-prompt` wird das aktuelle `prompt.md` registriert. Der letzte Commit wird verlinkt. So bleibt nachvollziehbar was der Prompt bzw. der Clanker gemacht hat.
 
 ### OpenSpec
 
-Die Idee vom `prompt.md` und Prompt-Log ist nicht neu. Eine Inspiration dafür war <https://openspec.dev/>. Warum nicht gleich mit OpenSpec arbeiten? Gemäss https://openspec.dev/docs/setup#what-init-installs erstellt das OpenSpec cli im aktuellen Verzeichnis ein `/openspec` Ordner und weitere Dinge. Mit diesem Workflow hat man auf jedem Git-Branch ein OpenSpec setup. Mit dem Prompt-Log ist das zentralisiert.
+Die Idee vom `prompt.md` und Prompt-Log ist nicht neu. Eine Inspiration dafür war <https://openspec.dev/>. Warum nicht gleich mit OpenSpec arbeiten?
+
+Gemäss https://openspec.dev/docs/setup#what-init-installs erstellt das OpenSpec cli im aktuellen Verzeichnis ein `/openspec` Ordner und weitere Dinge. Mit diesem Workflow hat man auf jedem Git-Branch ein OpenSpec setup. Mit dem Prompt-Log ist das zentralisiert.
 
 ## Workflow
 
-Wie sieht der Workflow in der Praxis aus? Wir wissen jetzt was das `prompt.md` und was Pi ist. Schauen wir uns an wie der Prompt mit Pi verarbeitet wird. 
+Nun wie sieht der Workflow in der Praxis aus? Wir wissen jetzt was das `prompt.md` ist und welche Rolle Pi hat. Schauen wir uns an wie der Prompt mit Pi verarbeitet wird. 
 
 ### Prompt erstellen
 
-Der Wofklow ist ganz einfach. Wir öffnen das Terminal und navigieren in eine Projekt mit einem Taskfile. Dann erstellen wir ein Prompt-File.
+Der Wofklow ist ganz einfach. Wir öffnen das Terminal und navigieren in ein Projekt mit einem Taskfile. Dann erstellen wir ein Prompt-File.
 
 ```bash
 cd ~/Nextcloud-Build
@@ -319,7 +326,7 @@ task prompt-with-pi
 
 ### Test the result
 
-Try to log in on https://jupyter-lab.19.odoo.build/ with new user.
+Try to log in on <https://jupyter-lab.19.odoo.build/> with new user.
 
 Once Pi has finished and asks for review, start the Jupyter lab (in a new terminal):
 
