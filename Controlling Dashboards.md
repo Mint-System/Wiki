@@ -43,7 +43,7 @@ Bei diesen Projektphasen wurde das Stunden-Budget überschritten.
 
 ### Aufgaben Erledigt
 
-Nach 1 Monat können erledigte Aufgaben archiviert werden.
+Nach 2 Monaten können erledigte Aufgaben archiviert werden.
 
 ## Dashboard Abonnemente
 
