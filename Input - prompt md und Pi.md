@@ -378,7 +378,7 @@ Hier eine Liste was man prompten sollte:
 - Generierung von Boilerplate Code
 - Konvertierung von Datenstrukturen
 - Massenmutationen
-- Spezifikation einer Software
+- Entwicklung basierend Spezifikation 
 
 Und hier eine Liste was man nicht prompten sollte:
 
