@@ -133,7 +133,7 @@ Mit dem Befehl `commit-prompt` wird das aktuelle `prompt.md` registriert. Der le
 
 Die Idee vom `prompt.md` und Prompt-Log ist nicht neu. Eine Inspiration dafür war <https://openspec.dev/>. Warum nicht gleich mit OpenSpec arbeiten?
 
-Gemäss https://openspec.dev/docs/setup#what-init-installs erstellt das OpenSpec cli im aktuellen Verzeichnis ein `/openspec` Ordner und weitere Dinge. Mit diesem Workflow hat man auf jedem Git-Branch ein OpenSpec setup. Mit dem Prompt-Log ist das zentralisiert.
+Gemäss <https://openspec.dev/docs/setup#what-init-installs> erstellt das OpenSpec cli im aktuellen Verzeichnis ein `/openspec` Ordner und weitere Dinge. Mit diesem Workflow hat man auf jedem Git-Branch ein OpenSpec setup. Mit dem Prompt-Log ist das zentralisiert.
 
 ## Workflow
 
@@ -195,9 +195,10 @@ Open a terminal and move into the `mint-system-dotfiles` project.
 [main][~/mint-system-dotfiles]$
 ```
 
-Make sure the taskfile project is update-to-date:
+Make sure the taskfile and dotfiles projects are update-to-date:
 
 ```bash
+git pull
 task clone-taskfile
 ```
 
@@ -210,16 +211,18 @@ cp .env.template .env
 task show-project-setup
 ```
 
-Make sure the KeePass env var points to the `Infrastruktur.kdbx` file. If the path is different change the path by editing the `.env` file.
+Make sure the KeePass env var points to the `Infrastruktur.kdbx` file. If the path is different change the path by editing the `.env` file. Ignore the Age/SOPS config.
 
 Now we are going to install the required tools:
 
 ```bash
-task install fzf
-task install uv
-task install sops
-task install age
+task install keepass # Install KeePass including the cli
+task install fzf # Fuzzy search
+task install uv # Python
+task install sops # Encryption backend
+task install age # Encryption manager
 task install llm # Will prompt for the KeePass database password
+task install pnpm # Installs the Node.js tools
 task install pi # Will prompt for the KeePass database password
 ```
 
