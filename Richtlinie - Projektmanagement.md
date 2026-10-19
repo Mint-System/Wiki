@@ -33,43 +33,37 @@ Private-Projektordner sind nur für Mitarbeitende Mint System zugänglich.
 
 ### Standardordner
 
-| Ordner / Dokument               | Beschreibung                                         |
-| ------------------------------- | ---------------------------------------------------- |
-| Anforderungen/                  | Dokumente zur Anforderungsanalyse                    |
-| Anforderungen/Anforderungen.ext | Dokument mit Anforderungsanalyse                     |
-| Angebot/                        | Verträge, Bestellungen, NDAs zum Projekt             |
-| Angebot/Konzept.ext             | Projektkonzept mit Planung                           |
-| Berichte/                       | Kunden- und Projektrapporte                          |
-| Docs/                           | Projektdokumentationen                               |
-| Input/                          | Projektinputs                                        |
-| Meetings/YYYY-MM-DD TITEL.md    | Meeting-Notizen mit Namenskonvention                 |
-| Tmp/                            | Zwischenablage für Projektnotizen                    |
-| Output                          | Projektergebnisse                                    |
-| Process/                        | Verarbeitung der Inputs. Ausgabe in Output.          |
-| README.md                       | Projektbeschreibung und Orientierung für Mitarbeiter |
-| Worklogs/YYYY-MM-DD TITEL.md    | Protokolle zur Auftragsabwicklung                    |
-| Workshop/                       | Dokumente zum Workshop                               |
+| Ordner / Dokument            | Beschreibung                                         |
+| ---------------------------- | ---------------------------------------------------- |
+| Angebot/                     | Verträge, Bestellungen, Konzept, Anforderungen ...   |
+| Berichte/                    | Kunden- und Projektrapporte                          |
+| Docs/                        | Projektdokumentationen                               |
+| Input/                       | Projektdokumente von Kunden                          |
+| Meetings/YYYY-MM-DD TITEL.md | Meeting-Notizen                                      |
+| Output                       | Projektergebnisse für Kunden                         |
+| Proc/                        | Verarbeitung der Inputs. Ausgabe in Output.          |
+| README.md                    | Projektbeschreibung und Orientierung für Mitarbeiter |
+| Tmp/                         | Zwischenablage für Projektnotizen                    |
+| Worklogs/YYYY-MM-DD TITEL.md | Arbeitsprotokolle                                    |
+| Workshop/                    | Dokumente zum Workshop (Projektphase)                |
 
 ### Projektphasen
 
-Fúr Komplexere
+In komplexeren Projekte werden die Dokumente gemäss Projektphasen bearbeitet. 
 
-| Ordner / Dokument     | Beschreibung                                                             |
-| --------------------- | ------------------------------------------------------------------------ |
-| PhaseNN NAME/         | Ordner mit Inhalt der jeweiligen Projektphase                            |
-| PhaseNN NAME/Input/   | Dokumente des Kunden werden hier abgelegt                                |
-| PhaseNN NAME/Output/  | Deliverable, die an den Kunden gehen. Berichte, Daten oder Auswertungen. |
-| PhaseNN NAME/Process/ | Ordner für Korrespondenz und Projektdaten                                |
-| PhaseNN NAME/Worklog  | Arbeitsprotokolle                                                        |
+| Ordner / Dokument    | Beschreibung                                                             |
+| -------------------- | ------------------------------------------------------------------------ |
+| PhaseNN NAME/        | Ordner mit Inhalt der jeweiligen Projektphase                            |
+| PhaseNN NAME/Input/  | Dokumente des Kunden werden hier abgelegt                                |
+| PhaseNN NAME/Output/ | Deliverable, die an den Kunden gehen. Berichte, Daten oder Auswertungen. |
+| PhaseNN NAME/Proc/   | Ordner für Korrespondenz und Projektdaten                                |
+| PhaseNN NAME/Worklog | Arbeitsprotokolle                                                        |
 
 Projektphasen sind analog [[Phasen]].
 
 ## Systemordner
 
-| Ordner / Dokument | Beschreibung                                                     |
-| ----------------- | ---------------------------------------------------------------- |
-| Archiviert/       | Archivierte Dokumente werden hier abgelegt                       |
-| Data/             | Nutzdaten für Projekt                                            |
-| Template/         | Ordner mit Markdown/Obsidian Vorlagen                            |
-| attachments/      | Mediendateien und Anhänge werden hier gespeichert                |
-| tmp/              | Temporäre Daten die gelöscht werden dürfen, werden hier abgelegt |
+| Ordner / Dokument | Beschreibung                                      |
+| ----------------- | ------------------------------------------------- |
+| Archiviert/       | Archivierte Dokumente werden hier abgelegt        |
+| attachments/      | Mediendateien und Anhänge werden hier gespeichert |
