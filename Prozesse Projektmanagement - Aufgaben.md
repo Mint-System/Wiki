@@ -7,12 +7,37 @@ Aufgabenverwaltung in Odoo.
 
 ## Aufgabe erstellen
 
-Beim Erstellen einer Aufgabe muss beachtet werden, dass standardmässig ein Auftragselement aus dem verlinkten Verkaufsauftrag hinzugefügt wird. Soll die verbuchte Zeit auf der Aufgabe verrechnet werden, muss ein entsprechendes Auftragselement vorhanden sein. Ansonsten gilt es den Link zum Auftrag zu entfernen.
+Arbeitsschritte:
 
-Es gelten die [[Richtlinie - Aufgabenverwaltung]].
+- Projekt-Board öffnen
+- Stufe "Backlog" anzeigen
+- Aufgabe hinzufügen und Titel eingeben
+- Aufgabe öffnen und Beschreibung ergänzen
+- Bei Bedarf mit Stichwörtern taggen
 
-## Aufgaben bündeln
+## Aufgabe vorbereiten
 
-Bei mehreren Aufgaben ist es schwierig die Übersicht der Fristen zu behalten. Zur Planung können mehrere Aufgaben zu einem Paket gebündelt werden. Dazu erstellt man eine Aufgabe mit der Bezeichnung `AP1: Beschreibung`. Das Aufgabenpaket (AP) verlinkt man mit den anderen Aufgaben.
+Arbeitsschritte:
 
-Auf die Aufgabenpakete wird keine Zeit gebucht. Sie dienen lediglich der Planung.
+- Aufgabe auf "Backlog" öffnen
+- Ergänzen Projektphase / Auftragsposition
+- Bei Bedarf Aufgabe priorisieren
+- Aufgabe an Person zuweisen und auf Stufe "Bereit" setzen
+- Im Chatter die Person zur Übernahme der Aufgabe anfragen
+
+## Aufgabe erledigen
+
+Arbeitsschritte:
+
+- Aufgabe auf "Bereit" öffnen
+- Die Zeiterfassung starten und auf Stufe "In Arbeit" setzen
+- Zeiterfassung beenden und bei Bedarf "Review" setzen
+- Bei "Review" den Stakeholder um eine Prüfung bitten
+
+## Aufgabe reviewen
+
+Arbeitsschritte:
+
+- Aufgabe auf "Review" öffnen
+- Gemäss Beschreibung das Resultat prüfen
+- Aufgabe auf "Erledigt" oder bei Verbesserung auf "Bereit" setzen

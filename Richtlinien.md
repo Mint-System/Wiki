@@ -45,8 +45,10 @@ Richtlinien der Mint System.
 ## Projektmanagement
 
 - [[Richtlinie - Projektmanagement]]
-- [[Richtlinie - Aufgabenverwaltung]]
+- [[Richtlinie - Aufgaben]]
 - [[Richtlinie - Todos]]
+- [[Richtlinie - Aktivitäten]]
+- [[Richtlinie - Teilaufgaben]]
 
 ## Kollaboration
 

@@ -24,6 +24,10 @@ Jede Aufgabe durchläuft die folgenden Stufen:
 	- Aufgabe ist zugewiesen
 	- Aufgabe ist farblich markiert
 
+## Aufgaben zuweisen
+
+Aufgaben dürfen im Vergleich zu Teilaufgaben an mehrere Mitarbeitende zugewiesen werden.
+
 ## Verrechenbarkeit festlegen
 
 Mit der Verkaufsauftragsposition wird definiert, ob der erfasste Aufwand auf der Aufgabe verrechnet oder nicht verrechnet wird.
