@@ -60,7 +60,7 @@ Jedes Projekt hat Aufgaben. Jede Aufgabe ist einem Projekt zugeordnet. Aufgaben 
 
 > Welche Stufen durchläuft eine Aufgabe?
 
-Alle Aufgaben in allen Projekten durchlaufen die gleichen Projektphasen. Wie man die Aufgaben den Spalten zuordnet ist in [[Richtlinie - Aufgaben]] festgehalten.
+Alle Aufgaben in allen Projekten durchlaufen die gleichen Projektphasen. Wie man die Aufgaben den Spalten zuordnet ist in [[Richtlinie - Aufgabenplanung]] festgehalten.
 
 > Wer erstellt und wer bearbeitet eine Aufgabe?
 

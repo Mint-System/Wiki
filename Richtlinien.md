@@ -12,6 +12,7 @@ Richtlinien der Mint System.
 - [[Richtlinie - Zeiterfassung]]
 - [[Richtlinie - Spesenreglement]]
 - [[Richtlinie - Smartphone]]
+- [[Richtlinie - Aufgabenplanung]]
 
 ## Softwareentwicklung
 
@@ -45,7 +46,7 @@ Richtlinien der Mint System.
 ## Projektmanagement
 
 - [[Richtlinie - Projektmanagement]]
-- [[Richtlinie - Aufgaben]]
+- [[Richtlinie - Aufgabenplanung]]
 - [[Richtlinie - Todos]]
 - [[Richtlinie - Aktivitäten]]
 - [[Richtlinie - Teilaufgaben]]
