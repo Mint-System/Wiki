@@ -15,6 +15,7 @@ Dokumentation der Projektmanagement Prozesse.
 
 - [[Prozesse Projektmanagement - Anforderungsanalyse]]
 - [[Prozesse Projektmanagement - Ressourcenplanung]]
+- [[Prozesse Projektmanagement - Aufgabenplanung]]
 
 ## Ausführen
 
