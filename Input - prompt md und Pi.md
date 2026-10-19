@@ -28,7 +28,7 @@ Gleichzeit verändert KI spürbar die Arbeitswelt. Sei es als Ersatz für Suchma
 
 Was sind nochmals diese Modelle? Die Open Source und Open Weights Modelle sind Dateien in unterschiedlichen Grössen, gefüttert mit viel Text. Die Text-Stücke werden zerlegt und nach deren Zusammenhang gewichtet. Es entsteht eine Topologie aus Buchstaben (Tokens).
 
-Auf <https://huggingface.co/> findet so ziemlich alle Open Weights Modelle die es gibt. Um ein Model zu trainieren braucht es viel Rechenleistung. Es braucht ganze Datenzentren um ein Model zu kreieren, das sich nicht wie lobotomisierter Kasper gibt.
+Auf <https://huggingface.co/> findet so ziemlich alle Open Weights Modelle die es gibt. Um ein Model zu trainieren braucht es viel Rechenleistung. Es braucht ganze Datenzentren um ein Model zu kreieren, dass einigermassen funktionsfähig ist.
 
 ### Prompts (Anweisung)
 
@@ -391,8 +391,10 @@ Und hier eine Liste was man nicht prompten sollte:
 
 Der Workflow mit `prompt.md` und Prompt-Log funktioniert schon ganz gut. Es gibt aber noch ein paar offene Punkte:
 
-- ~~**Review**: Wenn der Agent die Aufgabe erledigt hat, setzt er den Prompt auf `completed`. Jedoch wäre es besser, dass auf `review` geht und die Prüfung der Resultat eingefordert wird.~~
 - **Reset**: Ist man nicht zufrieden mit dem Resultat und möchte man von vorne beginnen ist das aktuell schwierig. Einerseits muss man die Änderungen mit Git zurücksetzen und dann das Worklog im `prompt.md` löschen.
 - **Sub-Agents**: Wenn man bei der Ausführung einer Aufgabe feststellt, dass die Erledigung ein neues separates `prompt.md` erfordert wird die Sache schwierig.
 - **WIP**: Mit dem Befehl `prompt-with-pi` soll ein bestehendes Prompt-File aus dem Prompt-Log geladen werden können.
+- **Prompt-Typen**: Der aktuelle Prompt ist auf Implementierung ausgerichtet. Neue Prompt-Typen wären sinnvoll um sich beispielsweise ein Projekt erklären zu lassen oder bei der Spezifizierung einer Software unterstützen.
+
+- ~~**Review**: Wenn der Agent die Aufgabe erledigt hat, setzt er den Prompt auf `completed`. Jedoch wäre es besser, dass auf `review` geht und die Prüfung der Resultat eingefordert wird.~~
 - ~~**Secrets**: Die Anweisungen wie das `secrets.env` entschlüsselt werden kann, gehört ins `AGENT.md`.~~
