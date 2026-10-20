@@ -5,7 +5,7 @@ section: process
 
 Update Odoo-Umgebung
 
-## Odoo mit Ansible aktualiseren
+## Odoo mit Ansible aktualisieren
 
 Arbeitsschritte:
 
