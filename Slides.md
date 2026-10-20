@@ -9,4 +9,4 @@ Mit [[Obsidian]] können auch Präsentationen erstellt werden.
 - [[Mint System und Odoo]]
 - [[The Odoo Ecosystem]]
 - [[Odoo Documents - Nextcloud]]
-- [[Infrastructure Mint System]]
+- [[Infrastruktur Mint System]]

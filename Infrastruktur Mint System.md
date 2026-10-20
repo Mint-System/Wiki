@@ -3,7 +3,7 @@ section: infrastructure
 kind: explain
 ---
 
-## Infrastructure Mint System
+## Infrastruktur Mint System
 
 A short introduction into the infrastructure of Mint System.
 
