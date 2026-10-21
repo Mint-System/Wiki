@@ -30,9 +30,8 @@ nextcloud_image: nextcloud:32-apache
 - Den Nextcloud-Container deployen
 
 ```bash
-task play -i inventories/mint_sytem plays/nextcloud.yml -l eos_nextcloud
+task play -i inventories/mint_system plays/nextcloud.yml -l "${ALIAS}_nextcloud"
 ```
 
 - Deployment abbrechen sobald das Upgrade läuft
 - Nach Ausführung des Upgrade das Playbook erneut ausführen
-
