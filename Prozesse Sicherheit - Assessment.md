@@ -1,4 +1,0 @@
----
-kind: howto
-section: process
----

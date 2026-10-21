@@ -5,5 +5,5 @@ section: process
 
 Dokumentation der Sicherheit-Prozesse.
 
-- [[Prozesse Sicherheit - Assessment]]
-- [[Prozesse Sicherheit - Odoo Security Advisory]]
+- [[Prozesse Sicherheit - Kommunkation Odoo Security Advisory]]
+- [[Prozesse Sicherheit - Kommunikation Sicherheitslücke]]

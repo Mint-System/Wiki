@@ -3,7 +3,7 @@ kind: howto
 section: process
 ---
 
-## Odoo Security Advisory verarbeiten
+## Statusmail zu einer Odoo Security Advisory versenden
 
 Auslöser: Odoo versende eine Mail mit einer [[Odoo Security Advisory]].
 
