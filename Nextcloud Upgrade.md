@@ -1,6 +1,7 @@
 ---
 kind: tutorial
 section: dev
+lang: en
 ---
 
 Description of the Nextcloud upgrade process.

@@ -32,7 +32,7 @@ Dokumentation der Infrastruktur Prozesse.
 - [[Prozesse Infrastruktur - Linux Server Patching]]
 - [[Prozesse Infrastruktur - Mail-Account Intern]]
 - [[Prozesse Infrastruktur - Serverwartung]]
-- [[Prozesse Infrastruktur - Nextcloud]]
+- [[Prozesse Infrastruktur - Update Nextcloud]]
 - [[Prozesse Infrastruktur - Update Odoo]]
 
 ## Migration
@@ -40,6 +40,7 @@ Dokumentation der Infrastruktur Prozesse.
 - [[Prozesse Infrastruktur - OS Migration]]
 - [[Prozesse Infrastruktur - Upgrade Odoo]]
 - [[Prozesse Infrastruktur - Upgrade Odoo.sh]]
+- [[Prozesse Infrastruktur - Upgrade Nextcloud]]
 
 ## Rückbau
 
