@@ -34,7 +34,7 @@ task play -i inventories/mint_system plays/odoo.yml -l ${ALIAS}_odoo_staging
 ```bash
 task connect-host $ALIAS
 docker-odoo-list -c "$CONTAINER"
-docker exec "$CONTAINER" update-all-modules "$DATABASE"
+docker exec "$CONTAINER" update-modules "$DATABASE"
 ```
 
 - Wenn das Update sauber läuft auf der Staging-Umgebung einloggen
