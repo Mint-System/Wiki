@@ -218,7 +218,7 @@ Now we are going to install the required tools:
 :::warning
 - Run the commands line by line.
 - Do not start Pi during the installation.
-- Restart your Terminal.
+- Restart your Terminal after the last installation.
 :::
 
 ```bash
