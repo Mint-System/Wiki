@@ -14,23 +14,24 @@ Arbeitsschritte:
 - Neue Revisionen mit Odoo Build erstellen
 
 ```bash
-revision="20260926"
+revision="20261015"
 
+# Create revisions
 while IFS= read -r version; do
     [[ -z "$version" ]] && continue
     echo "Create revision: $version.$revision"
     task checkout "$version"
     task create-revision "$version.$revision"
     git add --all
-    task commit-and-push-revision
+    task commit-and-push-revision "$version.$revision"
 done < <(task list-versions | sed '/13.0/d' | sed '/14.0/d')
 ```
 
 - Dokumentationen mit Odoo Revisionen aktualisieren
 
 ```bash
-OLD="20260803"
-NEW="20260926"
+OLD="20260926"
+NEW="20261015"
 
 sed -i "s/$OLD/$NEW/g" ~/Odoo-Build/images/odoo/README.md
 sed -i "s/$OLD/$NEW/g" ~/Kubernetes-Build/task
