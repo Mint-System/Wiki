@@ -87,6 +87,10 @@ function review-notes() {
 }
 
 function prepare-docs() {
+    if [ ! -d "node_modules" ]; then
+        echo "Installing pnpm dependencies..."
+        pnpm install
+    fi
     node bin/build.js all
 }
 
