@@ -19,17 +19,16 @@ function help() {
 
     printf "$COLUMN" "Command" "Option" "Description"
     echo "|$(printf '%*s' $((CMD_WIDTH + 2)) '' | tr ' ' '-')|$(printf '%*s' $((OPT_WIDTH + 2)) '' | tr ' ' '-')|$(printf '%*s' $((DESC_WIDTH + 2)) '' | tr ' ' '-')|"
-    printf "$COLUMN" "install" "" "Install build dependencies."
-    printf "$COLUMN" "update" "" "Update build dependencies."
-    printf "$COLUMN" "dev-vuepress" "" "Start vuepress development server."
-    printf "$COLUMN" "build-vuepress" "" "Create vuepress build."
-    printf "$COLUMN" "serve-vuepress" "" "Serve vuepress build."
+    printf "$COLUMN" "init-zensical-docs" "" "Initialize Zensical project."
+    printf "$COLUMN" "prepare-docs" "" "Convert markdown wiki files to docs."
+    printf "$COLUMN" "dev-zensical-docs" "" "Start Zensical development server."
+    printf "$COLUMN" "build-zensical-docs" "" "Create Zensical build."
+    printf "$COLUMN" "serve-zensical-docs" "" "Serve Zensical build."
     printf "$COLUMN" "convert-files" "" "Convert markdown wiki links to normal link."
     printf "$COLUMN" "convert-canvas" "" "Convert canvas files to svg."
     printf "$COLUMN" "generate-bases-views" "" "Generate markdown tables from bases."
     printf "$COLUMN" "delete-bases-views" "" "Delete bases markdown files."
     printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
-    printf "$COLUMN" "lint" "" "Lint code with prettier."
 }
 
 if [ -d "$HOME/taskfile.build/bin" ]; then
@@ -53,7 +52,16 @@ function review-notes() {
     REVIEWED_FILES=$(cut -d',' -f1 "$REVIEW_LOG" | tail -n +2)
 
     echo "Find all markdown files."
-    MD_FILES=$(find . -type f -name "*.md" | grep -vFf <(git check-ignore -v $(find . -type d) | awk '{print $2}'))
+    # Explicitly exclude generated/vendor directories. Relying on git check-ignore
+    # is unreliable here: docs/ contains tracked files (docs/javascripts/extra.js
+    # etc.), so git would not report it as ignored and generated notes would be
+    # opened for review instead of the source notes.
+    MD_FILES=$(find . -type f -name "*.md" \
+        -not -path "./docs/*" \
+        -not -path "./site/*" \
+        -not -path "./node_modules/*" \
+        -not -path "./.venv/*" \
+        -not -path "./.git/*")
 
     echo "Filter unreviewed files."
     UNREVIEWED_FILES=$(echo "$MD_FILES")
@@ -78,56 +86,26 @@ function review-notes() {
     echo "\"$NOTE_NAME\",\"$TIMESTAMP\"" >> "$REVIEW_LOG"
 }
 
-function install() {
-    pnpm install
-}
-
-function update() {
-    pnpm install -D @vuepress/bundler-vite@next
-    pnpm install -D @vuepress/client@next
-    pnpm install -D @vuepress/plugin-docsearch@next
-    pnpm install -D @vuepress/plugin-search@next
-    pnpm install -D @vuepress/plugin-shiki@next
-    pnpm install -D @vuepress/theme-default@next
-    pnpm install -D @vuepress/utils@next
-    pnpm install -D vuepress@next
-}
-
-function dev-vuepress() {
-    pnpm run pre-build
-    open-url 'http://localhost:8081/'
-    pnpm run dev
-}
-
-function build-vuepress() {
-    pnpm run build
-}
-
-function serve-vuepress() {
-    cd ./src/.vuepress/dist
-    pnpx serve
+function prepare-docs() {
+    node bin/build.js all
 }
 
 function generate-bases-views() {
-    node generate-bases-views.js
+    node bin/generate-bases-views.js
 }
 
 function delete-bases-views() {
-    node delete-bases-views.js
+    node bin/delete-bases-views.js
 }
 
 function convert-files() {
-    node build.js vuepress
-    node build.js convert
-    node build.js attachments
+    node bin/build.js index
+    node bin/build.js convert
+    node bin/build.js attachments
 }
 
 function convert-canvas() {
-    node build.js canvas
-}
-
-function lint() {
-    pnpm exec prettier . --write
+    node bin/build.js canvas
 }
 
 if declare -f "$1" > /dev/null; then

@@ -5,7 +5,7 @@ section: handbook
 
 ![[Nextcloud Logo.png]]
 
-[[TOC]]
+
 
 ## Login
 

@@ -3,7 +3,7 @@ kind: howto
 section: handbook
 ---
 
-[[TOC]]
+
 
 ## 2-Faktor-Authentisierung aktivieren
 

@@ -4,7 +4,7 @@ lang: en
 section: handbook
 ---
 
-[[TOC]]
+
 
 ## Push until specific commit
 

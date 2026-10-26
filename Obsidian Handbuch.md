@@ -5,7 +5,7 @@ section: handbook
 
 ![[Obsidian Logo.png]]
 
-[[TOC]]
+
 
 ## Inhaltsverzeichnis anzeigen
 

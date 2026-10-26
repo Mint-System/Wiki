@@ -45,17 +45,16 @@ Die folgenden Dateien gehören zum Obsidian Projekt:
 * [[Recent Entries.base]]
 * [[WIP Entries No Backlinks.base]]
 
-## VuePress
+## Zensical
 
-Die folgenden Dateien gehören zum Vuepress Projekt:
+Die folgenden Dateien gehören zum Zensical Projekt:
 
 * [[task]]
-* [[build.js]]
+* [[zensical.toml]]
 * [[package.json]]
-* [[package-lock.json]]
-* [[pnpm-lock.yaml]]
-* [[LICENSE]]
-* [[review-note.csv]]
-* [[generate-bases-views.js]]
-* [[delete-bases-views.js]]
-* [[convert-canvas-to-svg.js]]
+* [[bin/build.js]]
+* [[bin/generate-bases-views.js]]
+* [[bin/delete-bases-views.js]]
+* [[bin/convert-canvas-to-svg.js]]
+
+Der Ordner `docs` wird mit `./task prepare-docs` generiert und nicht im Git Repository nachgeführt.

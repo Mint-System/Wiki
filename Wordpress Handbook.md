@@ -3,7 +3,7 @@ kind: howto
 section: handbook
 ---
 
-[[TOC]]
+
 
 ## List plugins
 

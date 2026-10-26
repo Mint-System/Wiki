@@ -1,11 +1,12 @@
 .DS_Store
 default.vim
 .now
-node_modules
+.venv
 .vercel
 .obsidian/workspace.json
 .temp
 .cache
-src
+node_modules
+site
+docs
 tmp
-pnpm-workspace.yaml

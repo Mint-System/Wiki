@@ -3,7 +3,7 @@ kind: howto
 section: handbook
 ---
 
-[[TOC]]
+
 
 ## Repo auf Server öffnen
 

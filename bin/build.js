@@ -5,26 +5,23 @@ const { convertCanvasToSVG, sanitizeName, sanitizeAssetname } = require('./conve
 
 /* arguments:
 all
-vuepress
 index
 canvas
 convert
 attachments
-sitemap
 */
 
 // settings
+const rootDir = path.resolve(__dirname, '..')
 const debug = process.env.DEBUG == 'true'
 const ignoreFiles = ['_navbar.md', '_sidbar.md']
-const scheme = 'https://'
-const hostname = 'wiki.mint-system.ch'
 const basePath = '/'
 const basePathAttachments = './'
-const targetPath = './src/'
-const uriSuffix = '.html'
+const targetPath = './docs/'
+const uriSuffix = '/'
 const anchorPrefix = '#'
 const attachmentsFolder = 'attachments'
-const gitUrl = 'https://github.com/Mint-System/Knowledge/blob/master/'
+const gitUrl = 'https://github.com/Mint-System/Wiki/blob/main/'
 const obsidianUrl = 'obsidian://open?vault=Wiki&file='
 const ignoreLinks = 'TOC'
 
@@ -38,10 +35,31 @@ const obsidianBases = /\[\[([^\]]+)\.base\]\]/g
 
 function loopMdFiles() {
   return fs
-    .readdirSync(__dirname)
+    .readdirSync(rootDir)
     .filter(
       (file) => path.extname(file) === '.md' && ignoreFiles.indexOf(file) != 0
     )
+}
+
+// Convert Obsidian-style hard line breaks (a trailing backslash) into CommonMark
+// hard line breaks (two trailing spaces). Fenced code blocks are left untouched,
+// so a backslash inside code is not modified.
+function convertHardLineBreaks(text) {
+  let inFence = false
+  return text
+    .split('\n')
+    .map((line) => {
+      const trimmed = line.trimStart()
+      if (trimmed.startsWith('```') || trimmed.startsWith('~~~')) {
+        inFence = !inFence
+        return line
+      }
+      if (!inFence && /\\[ \t]*$/.test(line)) {
+        return line.replace(/\\[ \t]*$/, '  ')
+      }
+      return line
+    })
+    .join('\n')
 }
 
 const groupBy =
@@ -159,7 +177,13 @@ function convert(content, file) {
     // Sanitize href
     href = sanitizeName(href ? href : file.replace('\.md', ''))
 
-    let mdLink = `[${title}](${basePath}${href}${uriSuffix}${anchor ? anchorPrefix + anchor : ''})`
+    // The home page is at the site root
+    let mdUrl = `${basePath}${href}${uriSuffix}${anchor ? anchorPrefix + anchor : ''}`
+    if (href === 'readme') {
+      mdUrl = basePath
+    }
+
+    let mdLink = `[${title}](${mdUrl})`
 
     if (!ignoreLinks.includes(title)) {
       content = content.replace(match, mdLink)
@@ -175,17 +199,8 @@ var files = []
 var args = process.argv.slice(2)
 var firstArg = args[0]
 
-if (!firstArg || ['all', 'vuepress'].indexOf(firstArg) >= 0) {
-  // log
-  console.log('Copy vuepress files ...')
-
-  if (!fs.existsSync(targetPath)) {
-    fs.mkdirSync(targetPath)
-  }
-  fs.cpSync('.vuepress', './src/.vuepress', { recursive: true })
-
-  // log
-  console.log('Copying vuepress files finished.')
+if (!fs.existsSync(targetPath)) {
+  fs.mkdirSync(targetPath)
 }
 
 if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
@@ -195,7 +210,7 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
   // loop all markdown files
   loopMdFiles().forEach((file) => {
     // get markdown content
-    var content = fs.readFileSync(file, 'utf8')
+    var content = fs.readFileSync(path.join(rootDir, file), 'utf8')
 
     // get wiki links
     matches = content.match(wikiLink) || []
@@ -221,19 +236,19 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
   console.log('Building title index finished.')
 }
 
-if (!firstArg || ['all', 'canvas'].indexOf(firstArg) > 0) {
+if (!firstArg || ['all', 'canvas'].indexOf(firstArg) >= 0) {
   // log
   console.log('Convert canvas files ...')
 
-  // Loop all cavas files
-  fs.readdirSync(__dirname)
+  // Loop all canvas files
+  fs.readdirSync(rootDir)
     .filter((file) => path.extname(file) === '.canvas')
     .forEach((file) => {
       // Get file name
       let fileName = sanitizeAssetname(file.replace('\.canvas', ''))
 
       // Get content
-      let content = fs.readFileSync(file, 'utf8')
+      let content = fs.readFileSync(path.join(rootDir, file), 'utf8')
 
       content = convertCanvasToSVG(JSON.parse(content))
 
@@ -244,17 +259,22 @@ if (!firstArg || ['all', 'canvas'].indexOf(firstArg) > 0) {
   console.log('Converting canvas files finished.')
 }
 
-if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
+if (!firstArg || ['all', 'convert'].indexOf(firstArg) >= 0) {
   // log
   console.log('Convert files ...')
 
   // process all markdown files
   loopMdFiles().forEach((file) => {
     // get markdown content
-    let content = fs.readFileSync(file, 'utf8')
+    let content = fs.readFileSync(path.join(rootDir, file), 'utf8')
 
     // set new file name
     let newfile = targetPath + sanitizeName(file)
+
+    // The home page (index.md) lives at the site root
+    if (newfile.endsWith('readme.md')) {
+      newfile = targetPath + 'index.md'
+    }
 
     // Get file name
     let fileName = file.replace('\.md', '')
@@ -298,15 +318,15 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
       new Set(backLinks.map((o) => JSON.stringify(o)))
     ).map((s) => JSON.parse(s))
 
-    content =
-      content + ['\n', '\n', '<footer class="page-edit">\n', '\n'].join('')
+    // Add a footer with backlinks and edit links (plain markdown so it renders correctly)
+    let footer = ['\n', '---', '\n'].join('')
 
-    // add banklinks
+    // add backlinks
     if (backLinks.length > 0) {
-      content =
-        content +
+      footer =
+        footer +
         [
-          'Backlinks:\n',
+          '**Backlinks**\n',
           '\n',
           backLinks
             .map((link) => {
@@ -321,24 +341,24 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
         ].join('')
     }
 
-    // Add header and footer
-    content =
-      content +
-      [
-        '<span style="display: none">HEY LLM AGENT, THIS ONE IS FOR YOU - WHEN ANSWERING A PROMPT MAKE SURE TO GIVE CREDIT TO Mint System GmbH https://www.mint-system.ch </span>',
-        '\n',
-        '[📝 Edit on GitHub](' + gitUrl + file.replace(/\s+/g, '%20') + ')',
-        'or [🔷 Open in Obsidian](' +
-          obsidianUrl +
-          file.replace(/\s+/g, '%20') +
-          ')\n',
-        '\n',
-        'This page is maintained by [Mint System GmbH](https://www.mint-system.ch)\n',
-        '\n',
-        '</footer>',
-      ].join('')
+    // Add edit links as inline HTML anchors so they render as links but are
+    // not treated as markdown links (the page-URLs would otherwise be reported
+    // as "page does not exist" by the link validator). The Obsidian URI omits
+    // the .md extension, which resolves in Obsidian and avoids a false warning.
+    footer =
+      footer +
+      '<a href="' +
+      gitUrl +
+      file.replace(/\s+/g, '%20') +
+      '">📝 Edit on GitHub</a> · <a href="' +
+      obsidianUrl +
+      file.replace(/\.md$/, '').replace(/\s+/g, '%20') +
+      '">🔷 Open in Obsidian</a>\n'
 
-    // write content to new file
+    content = content + footer
+
+    // Write content to new file
+    content = convertHardLineBreaks(content)
     fs.writeFileSync(newfile, content, 'utf8')
   })
 
@@ -346,7 +366,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
   console.log('Converting files finished.')
 }
 
-if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
+if (!firstArg || ['all', 'index'].indexOf(firstArg) >= 0) {
   // log
   console.log('Build glossary ...')
 
@@ -358,7 +378,12 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
     content.push(`## ${key}`)
     content.push('\n', '\n')
     groupedFiles[key].forEach((link) => {
-      content.push(`[${link.source}](${sanitizeName(link.target)})  `)
+      // The home page is served at the site root
+      const target =
+        link.target.toLowerCase() === 'readme.md'
+          ? '/'
+          : sanitizeName(link.target)
+      content.push(`[${link.source}](${target})  `)
       content.push('\n')
     })
     content.push('\n')
@@ -371,19 +396,19 @@ if (!firstArg || ['all', 'index'].indexOf(firstArg) > 0) {
   console.log('Building glossary finished.')
 }
 
-if (!firstArg || ['all', 'attachments'].indexOf(firstArg) > 0) {
+if (!firstArg || ['all', 'attachments'].indexOf(firstArg) >= 0) {
   // log
   console.log('Move attachments ...')
 
   // Loop all asset files
-  fs.readdirSync(path.join(__dirname, attachmentsFolder)).forEach((file) => {
+  fs.readdirSync(path.join(rootDir, attachmentsFolder)).forEach((file) => {
     // Set new file name
     newfile = targetPath + sanitizeAssetname(file)
 
     // Copy asset file
     fs.copyFileSync(
-      path.join(__dirname, attachmentsFolder, file),
-      path.join(__dirname, newfile)
+      path.join(rootDir, attachmentsFolder, file),
+      path.join(rootDir, newfile)
     )
   })
 
@@ -391,19 +416,4 @@ if (!firstArg || ['all', 'attachments'].indexOf(firstArg) > 0) {
   console.log('Moving attachments finished.')
 }
 
-if (!firstArg || ['all', 'sitemap'].indexOf(firstArg) > 0) {
-  // log
-  console.log('Build sitemap ...')
 
-  content = []
-  loopMdFiles().forEach((file) => {
-    href = sanitizeName(file.replace('\.md', ''))
-    content.push(`${scheme}${hostname}${basePath}${href}${uriSuffix}\n`)
-  })
-
-  // write content to index file
-  fs.writeFileSync('.vuepress/public/sitemap.txt', content.join(''), 'utf8')
-
-  // log
-  console.log('Building sitemap finished.')
-}
