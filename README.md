@@ -2,7 +2,7 @@
 kind: explain
 ---
 
-![Vercel](https://vercelbadge.vercel.app/api/mint-system/wiki) [![matrix-badge](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#allgemein:mint-system.ch)
+[![matrix-badge](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#allgemein:mint-system.ch)
 
 Diese Ablage ist die strukturierte Wissensdatenbank der [[Mint System GmbH]].
 
