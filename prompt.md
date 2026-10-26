@@ -2,10 +2,10 @@
 title: "Migrate from Vuepress to Zensical"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
-state: review
-date_completed: YYYY-MM-DD
-harness:
-model:
+state: completed
+date_completed: 2026-10-26
+harness: pi
+model: moonshotai/Kimi-K2.6
 input_tokens:
 output_tokens:
 ---
