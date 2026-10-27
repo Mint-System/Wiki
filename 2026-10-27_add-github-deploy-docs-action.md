@@ -1,12 +1,12 @@
 ---
-commit_ref:
+commit_ref: ede57c4d13fae76ff314aa7f76fdfbe07ff5d9bc
 title: "Add GitHub Deploy Docs action"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
-state: draft
-date_completed: YYYY-MM-DD
-harness:
-model:
+state: completed
+date_completed: 2026-10-27
+harness: pi
+model: infomaniak/moonshotai/Kimi-K2.6
 input_tokens:
 output_tokens:
 ---
@@ -37,6 +37,10 @@ The `deploy-docs` is kube config file. I will copy and encrypt the file myself.
 
 ## Worklog
 
-@Clanker Add a summary here once the task has been completed.
+- Created `.github/workflows/deploy-docs.yml` adapted from `~/main.build/.forgejo/workflows/deploy-docs.yml` for GitHub Actions (uses `ubuntu-latest` runner with `mintsystem/taskfile.build:latest` container).
+- Created `.github/secrets/kubeconfig.yml` placeholder file.
+- Generated new age key for `wiki` project with `init-agekey-sops`.
+- Created `.sops.yaml` with creation rule for `.github/secrets/*.yml` files using the new age public key.
+- The kubectl command targets `app=taskfile-build -n wiki` (following Mint System convention).
 
 @Clanker If author confirms results set frontmatter state to completed, otherwise to aborted. Update date, harness and model. If you have access to session info also add token count.
