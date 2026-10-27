@@ -1,34 +1,97 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -e
 
-if [[ -a ".env" ]]; then
-    export $(cat .env | sed 's/^#.*//g' | xargs)
+if [[ -f ".env" ]]; then
+    # shellcheck source=/dev/null
+    source ".env"
 fi
 
-function help() {
-    echo
-    echo "task <command> [options]"
-    echo
-    echo "commands:"
-    echo
+help-table() {
+    local -a rows
+    local max_cmd=7 max_opt=6 max_desc=11
 
-    CMD_WIDTH=20
-    OPT_WIDTH=6
-    DESC_WIDTH=45
-    COLUMN="| %-${CMD_WIDTH}s | %-${OPT_WIDTH}s | %-${DESC_WIDTH}s |\n"
+    rows+=("Command|Option|Description")
+    rows+=("init-zensical-docs||Initialize Zensical project.")
+    rows+=("prepare-docs||Convert markdown wiki files to docs.")
+    rows+=("dev-zensical-docs||Start Zensical development server.")
+    rows+=("build-zensical-docs||Create Zensical build.")
+    rows+=("serve-zensical-docs||Serve Zensical build.")
+    rows+=("convert-files||Convert markdown wiki links to normal link.")
+    rows+=("convert-canvas||Convert canvas files to svg.")
+    rows+=("generate-bases-views||Generate markdown tables from bases.")
+    rows+=("delete-bases-views||Delete bases markdown files.")
+    rows+=("review-notes||Open a random note reviewed note.")
 
-    printf "$COLUMN" "Command" "Option" "Description"
-    echo "|$(printf '%*s' $((CMD_WIDTH + 2)) '' | tr ' ' '-')|$(printf '%*s' $((OPT_WIDTH + 2)) '' | tr ' ' '-')|$(printf '%*s' $((DESC_WIDTH + 2)) '' | tr ' ' '-')|"
-    printf "$COLUMN" "init-zensical-docs" "" "Initialize Zensical project."
-    printf "$COLUMN" "prepare-docs" "" "Convert markdown wiki files to docs."
-    printf "$COLUMN" "dev-zensical-docs" "" "Start Zensical development server."
-    printf "$COLUMN" "build-zensical-docs" "" "Create Zensical build."
-    printf "$COLUMN" "serve-zensical-docs" "" "Serve Zensical build."
-    printf "$COLUMN" "convert-files" "" "Convert markdown wiki links to normal link."
-    printf "$COLUMN" "convert-canvas" "" "Convert canvas files to svg."
-    printf "$COLUMN" "generate-bases-views" "" "Generate markdown tables from bases."
-    printf "$COLUMN" "delete-bases-views" "" "Delete bases markdown files."
-    printf "$COLUMN" "review-notes" "" "Open a random note reviewed note."
+    for row in "${rows[@]}"; do
+        IFS='|' read -r cmd opt desc <<< "$row"
+        (( ${#cmd} > max_cmd )) && max_cmd=${#cmd}
+        (( ${#opt} > max_opt )) && max_opt=${#opt}
+        (( ${#desc} > max_desc )) && max_desc=${#desc}
+    done
+
+    printf '| %-*s | %-*s | %-*s |\n' \
+        "$max_cmd" "Command" \
+        "$max_opt" "Option" \
+        "$max_desc" "Description"
+
+    printf '|-%*s-|-%*s-|-%*s-|\n' \
+        "$max_cmd" "$(printf '%*s' "$max_cmd" '' | tr ' ' '-')" \
+        "$max_opt" "$(printf '%*s' "$max_opt" '' | tr ' ' '-')" \
+        "$max_desc" "$(printf '%*s' "$max_desc" '' | tr ' ' '-')"
+
+    local first_row=true
+    for row in "${rows[@]:1}"; do
+        IFS='|' read -r cmd opt desc <<< "$row"
+        if [[ "$cmd" =~ ^===.*===$ ]]; then
+            group_name="${cmd/===/}"
+            group_name="${group_name/===/}"
+            
+            if [ "$first_row" = true ]; then
+                first_row=false
+            else
+                printf '|-%*s-|-%*s-|-%*s-|\n' \
+                    "$max_cmd" "$(printf '%*s' "$max_cmd" '' | tr ' ' '-')" \
+                    "$max_opt" "$(printf '%*s' "$max_opt" '' | tr ' ' '-')" \
+                    "$max_desc" "$(printf '%*s' "$max_desc" '' | tr ' ' '-')"
+            fi
+            
+            local left_pad=$(( (max_cmd - ${#group_name}) / 2 ))
+            local right_pad=$(( max_cmd - left_pad - ${#group_name} ))
+            printf '| %*s%s%*s | %*s | %*s |\n' \
+                "$left_pad" "" \
+                "$group_name" \
+                "$right_pad" "" \
+                "$max_opt" "" \
+                "$max_desc" ""
+            
+            printf '|-%*s-|-%*s-|-%*s-|\n' \
+                "$max_cmd" "$(printf '%*s' "$max_cmd" '' | tr ' ' '-')" \
+                "$max_opt" "$(printf '%*s' "$max_opt" '' | tr ' ' '-')" \
+                "$max_desc" "$(printf '%*s' "$max_desc" '' | tr ' ' '-')"
+        else
+            first_row=false
+            printf '| %-*s | %-*s | %-*s |\n' \
+                "$max_cmd" "$cmd" \
+                "$max_opt" "$opt" \
+                "$max_desc" "$desc"
+        fi
+    done
+}
+
+help() {
+    local grep_pattern
+    echo
+    if [[ -n "$1" ]]; then
+        grep_pattern="$1"
+        help-table | grep -i "$grep_pattern" | column -t -s'|'
+    else
+        echo "task <command> [options]"
+        echo
+        echo "commands:"
+        echo
+        help-table
+    fi
+    echo
 }
 
 if [ -d "$HOME/taskfile.build/bin" ]; then
@@ -112,13 +175,30 @@ function convert-canvas() {
     node bin/build.js canvas
 }
 
-if declare -f "$1" > /dev/null; then
-    "$1" "${@:2}"
+if [[ "$1" == *","* ]]; then
+    # Split comma-separated commands
+    IFS=',' read -ra COMMANDS <<< "$1"
+    for cmd in "${COMMANDS[@]}"; do
+        # Trim whitespace
+        cmd=$(echo "$cmd" | xargs)
+        if declare -f "$cmd" > /dev/null; then
+            "$cmd"
+        else
+            echo "Unknown command: $cmd"
+            help "$@"
+            exit 1
+        fi
+    done
+elif declare -f "$1" > /dev/null; then
+    if [[ "${2:-}" == "tfhelp" ]]; then
+        help "$1"
+    else
+        "$1" "${@:2}"
+    fi
 else
     case "$1" in
         *)
             echo "Unknown command: $1"
-            help task
             exit 1
             ;;
     esac

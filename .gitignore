@@ -1,12 +1,19 @@
-.DS_Store
-default.vim
-.now
-.venv
-.vercel
-.obsidian/workspace.json
-.temp
-.cache
-node_modules
-site
-docs
+# taskfile
 tmp
+
+# dotenv
+.env
+
+# Obsidian
+.obsidian/workspace.json
+
+# pnpm
+node_modules
+pnpm-workspace.yaml
+
+# Zensical
+.venv
+site
+
+# Project
+docs
