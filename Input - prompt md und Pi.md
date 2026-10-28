@@ -383,14 +383,14 @@ Hier eine Liste was man prompten sollte:
 - Generierung von Boilerplate Code
 - Konvertierung von Datenstrukturen
 - Massenmutationen
-- Entwicklung basierend Spezifikation 
+- Entwicklung basierend auf Spezifikation 
 
 Und hier eine Liste was man nicht prompten sollte:
 
 - Aufgaben deren Lösung unbekannt ist
 - Recherchen im Internet
 - Dinge die mit einem Shell-Befehl erledigt sind
-- Zugriff auf produktive Umgebung
+- Etwas mit Zuugriff auf produktive Umgebung
 
 ## Verbesserungen
 
@@ -399,6 +399,7 @@ Der Workflow mit `prompt.md` und Prompt-Log funktioniert schon ganz gut. Es gibt
 - **Sub-Agents**: Wenn man bei der Ausführung einer Aufgabe feststellt, dass die Erledigung ein neues separates `prompt.md` erfordert wird die Sache schwierig.
 - **WIP**: Mit dem Befehl `prompt-with-pi` soll ein bestehendes Prompt-File aus dem Prompt-Log geladen werden können.
 - **Prompt-Typen**: Der aktuelle Prompt ist auf Implementierung ausgerichtet. Neue Prompt-Typen wären sinnvoll um sich beispielsweise ein Projekt erklären zu lassen oder bei der Spezifizierung einer Software unterstützen.
+- **Merge Requests**: Wenn zwei Merge requests das prompt.md anpassen gibt es immer einen Merge-Konflikt. 
 - ~~**Reset**: Ist man nicht zufrieden mit dem Resultat und möchte man von vorne beginnen ist das aktuell schwierig. Einerseits muss man die Änderungen mit Git zurücksetzen und dann das Worklog im `prompt.md` löschen.~~
 - ~~**Review**: Wenn der Agent die Aufgabe erledigt hat, setzt er den Prompt auf `completed`. Jedoch wäre es besser, dass auf `review` geht und die Prüfung der Resultat eingefordert wird.~~
 - ~~**Secrets**: Die Anweisungen wie das `secrets.env` entschlüsselt werden kann, gehört ins `AGENT.md`.~~
