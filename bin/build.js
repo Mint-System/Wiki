@@ -319,7 +319,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) >= 0) {
     ).map((s) => JSON.parse(s))
 
     // Add a footer with backlinks and edit links (plain markdown so it renders correctly)
-    let footer = ['\n', '---', '\n'].join('')
+    let footer = ['\n\n', '---', '\n\n'].join('')
 
     // add backlinks
     if (backLinks.length > 0) {
