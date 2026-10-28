@@ -1,5 +1,5 @@
 ---
-commit_ref: ede57c4d13fae76ff314aa7f76fdfbe07ff5d9bc
+commit_ref: a3df7b1720f5b85378dfb5bfa6209711ba161320
 title: "Add GitHub Deploy Docs action"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
