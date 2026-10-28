@@ -21,6 +21,7 @@ In diesem Dokument werden die internen Prozesse der Mint System beschrieben.
 - [[Prozesse Akquise]]
 - [[Prozesse Marketing]]
 - [[Prozesse Support]]
+- [[Prozesse Organisation]]
 
 ## Dienstleistungen
 
