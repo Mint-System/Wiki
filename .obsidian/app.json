@@ -14,7 +14,8 @@
   },
   "userIgnoreFilters": [
     "node_modules/",
-    "docs/"
+    "docs/",
+    "site/"
   ],
   "showInlineTitle": true,
   "propertiesInDocument": "source",

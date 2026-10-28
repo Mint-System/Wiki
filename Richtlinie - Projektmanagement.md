@@ -9,15 +9,15 @@ Die Umsetzung von Projekten unterliegt bestimmten Richtlinien.
 
 ## Projektstatus
 
-Der Status einens Projekts wird über das Kanban zugeordnet.
+Der Status eines Projekts wird über das Kanban zugeordnet.
 
 - **Backlog 🎒**: Das Projekt ist nicht aktiv. Der Kunde des Projekts hat sich länger nicht gemeldet. Es besteht Klärungsbedarf.
 - **Bereit 🏁**: Das Projekt wartet auf den Kick-off.
-- **Implementation 🧑‍💻**: Die Odoo-Implementation oder Softwareentwicklung ist am laufen.
+- **In Bearbeitung 🧑‍💻**: Die Implementation ist abgeschlossen und das die Software ist in Betrieb.
 - **Betrieb ▶️**: Die Implementation ist abgeschlossen und das die Software ist in Betrieb.
 - **Erledigt ✅**: Das Projekt ist abgeschlossen und der Betrieb läuft autonom.
 - **Abgebrochen 🛑**: Die Zusammenarbeit mit dem Kunden wurde beendet.
-- **Postlog ♻️**: Interne Projekte, die fortgehend bearbeitet werden.
+
 
 ## Projektordner
 
