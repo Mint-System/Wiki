@@ -12,5 +12,5 @@ Arbeitsschritte:
 - Öffne Odoo und klick auf Projekte
 - Zeig die Listen-Ansicht an und wähle Projekte in Vorbereitung aus
 - Wähle die Aktion "Projektaktualisierung vorbereiten"
-- Im Dialog gibst den Batch-Namen ein und bestätigst den Dialog
-- Im Weekly vermerkst du den Batch-Namen
+- Im Dialog wählst du das Datum und bestätigst den Dialog
+- In der Weekly-Notiz vermerkst du den Batch-Namen
