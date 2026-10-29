@@ -40,7 +40,6 @@ features = [
   "navigation.tracking",
   "search.suggest",
   "search.highlight",
-  "content.action.edit",
   "content.code.copy",
   "content.tooltips",
 ]

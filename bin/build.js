@@ -62,6 +62,40 @@ function convertHardLineBreaks(text) {
     .join('\n')
 }
 
+// Obsidian/CommonMark treat 2 spaces as one list-nesting level, but
+// Python-Markdown (used by Zensical) defaults to tab_length=4 and therefore
+// needs 4 spaces per level.  This function doubles the indentation of
+// space-indented list items so nested lists render correctly.
+// Lines inside fenced code blocks are left untouched, and tab-indented
+// list items are also left untouched because Python-Markdown already
+// handles them correctly.
+function normalizeListIndentation(text) {
+  let inFence = false
+  return text
+    .split('\n')
+    .map((line) => {
+      const trimmed = line.trimStart()
+      if (trimmed.startsWith('```') || trimmed.startsWith('~~~')) {
+        inFence = !inFence
+        return line
+      }
+      if (inFence) return line
+
+      const match = line.match(/^( *)([-*+] |\d+\. )/)
+      if (!match) return line
+
+      const spaces = match[1]
+      const marker = match[2]
+      const spaceCount = spaces.length
+
+      if (spaceCount === 0) return line
+
+      const newIndent = ' '.repeat(spaceCount * 2)
+      return newIndent + marker + line.slice(spaces.length + marker.length)
+    })
+    .join('\n')
+}
+
 const groupBy =
   (key, sort = false) =>
   (array) => {
@@ -358,6 +392,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) >= 0) {
     content = content + footer
 
     // Write content to new file
+    content = normalizeListIndentation(content)
     content = convertHardLineBreaks(content)
     fs.writeFileSync(newfile, content, 'utf8')
   })

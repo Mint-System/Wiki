@@ -2,12 +2,12 @@
 title: "Issue with list and remove edit button"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
-state: draft
-date_completed: YYYY-MM-DD
-harness:
-model:
-input_tokens:
-output_tokens:
+state: completed
+date_completed: 2025-10-29
+harness: pi
+model: moonshotai/Kimi-K2.6
+input_tokens: 3956041
+output_tokens: 20438
 ---
 
 # Issue with list and remove edit button
@@ -53,6 +53,7 @@ Why?
 
 ## Worklog
 
-@Clanker Add a summary here once the task has been completed.
+- Removed `content.action.edit` from `zensical.toml` theme features. The Zensical edit button (with a broken link) is no longer rendered on pages; the footer already contains working "Edit on GitHub" and "Open in Obsidian" links added by `build.js`.
+- Added `normalizeListIndentation()` to `bin/build.js` to fix nested list rendering. Obsidian/CommonMark uses 2 spaces per nesting level, but Python-Markdown (used by Zensical) requires 4 spaces per level with its default `tab_length=4`. The function doubles the indentation of space-indented list items outside fenced code blocks during the `prepare-docs` conversion, so nested lists are preserved correctly in the generated HTML. Tab-indented lists are left untouched because Python-Markdown already handles them correctly.
 
 @Clanker If author confirms results set frontmatter state to completed, otherwise to aborted. Update date, harness and model. If you have access to session info also add token count.
