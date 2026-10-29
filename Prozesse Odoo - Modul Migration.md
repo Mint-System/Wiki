@@ -42,26 +42,26 @@ Arbeitsschritte:
 task checkout $target_version
 ```
 
-- Auschecken Modul von vorhergehender Version
+- Auschecken Modul von vorhergehender Version:
 
 ```bash
 cd addons/$repo
 git checkout $source_version $module
 ```
 
-- Modul-Code und Version in `__manifest__.py` aktualisieren
+- Modul-Code und Version in `__manifest__.py` aktualisieren:
 
 ```bash
 task migrate-module addons/$repo/$module
 ```
 
-- Aktualisiere die Modul Docs
+- Aktualisiere die Modul Docs:
 
 ```bash
 task generate-module-docs addons/$repo/$module
 ```
 
-- Modul installieren und testen
+- Modul installieren und testen:
 
 ```bash
 task init-module addons/$repo/$module
@@ -75,12 +75,6 @@ cd addons/$repo/
 task all
 ```
 
-- Wenn nötig führe die prompts aus.
-
-```bash
-task update-with-llm addons/$repo/$module/views/*.xml prompts/migrate-view-definitions.md
-```
-
 - Test-Instruktionen erstellen (siehe [[Odoo Module Test Instructions]])
 - Migration committen
 
@@ -90,9 +84,9 @@ git -C addons/$repo commit -m "feat($module): migrate"
 ```
 
 - Optional einen Pull-Request erstellen:
-  - Feature branch erstellen `git switch -c mig-$module`
-  - Und mit dem CLI einen PR erstellen `gh pr create`
-  - Wenn PR gemerged ist, das Submodule-Repo deployen
+	- Feature branch erstellen `git switch -c mig-$module`
+	- Und mit dem CLI einen PR erstellen `gh pr create`
+	- Wenn PR gemerged ist, das Submodule-Repo deployen
 - Änderungen pushen
 
 ```bash
