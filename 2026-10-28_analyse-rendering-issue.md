@@ -1,5 +1,5 @@
 ---
-commit_ref: f55d00e40845624739627bcda027cb6abdea95f9
+commit_ref: 1e75476c70815489fb23e0ac3fc83784976f98e5
 title: "Analyse rendering issue"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
