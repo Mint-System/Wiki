@@ -1,85 +1,58 @@
 ---
-title: "Analyse rendering issue"
+title: "Issue with list and remove edit button"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
-state: completed
-date_completed: 2026-10-28
-harness: pi
-model: moonshotai/Kimi-K2.6
-input_tokens: 320
-output_tokens: 270
+state: draft
+date_completed: YYYY-MM-DD
+harness:
+model:
+input_tokens:
+output_tokens:
 ---
 
-# Analyse rendering issue
+# Issue with list and remove edit button
 
 Note: @Clanker refers to the "ai agent" (you) who is working on this prompt file.
 
 @Clanker when working on this prompt file, make sure to:
 
-- Read context and task section first
-- Prepare a list of todos
+- Read the `AGENTS.md` and `README.md` to get an understanding of the project
+- Read entire task section and prepare a list of todos
 - Update the todo list while working on task
-
-## Context
-
-@Clanker Read the `AGENTS.md` and `README.md` to get an understanding of the project.
 
 ## Task
 
-I have weird issue. Zensical produces a h2 header for a list item.
+First of all remove the Zensical edit button. The link does not work and I already add an edit link in the footer.
 
-The input is this file: Prozesse%20Organisation.md
+Then Zensical does something weird. This markdown:
 
-```markdown
-Dokumentation der Organisations-Prozesse.
-
-- [[Prozesse Organisation - Weekly]]
+```
+- Optional einen Pull-Request erstellen:
+  - Feature branch erstellen `git switch -c mig-$module`
+  - Und mit dem CLI einen PR erstellen `gh pr create`
+  - Wenn PR gemerged ist, das Submodule-Repo deployen
+- Änderungen pushen
+  
 ```
 
-The `prepare-docs` produces: docs/prozesse-organisation.md
-
-```markdown
-Dokumentation der Organisations-Prozesse.
-
-- [Prozesse Organisation - Weekly](/prozesse-organisation-weekly/)
-```
-
-And the `build-zensical-docs` produces: site/prozesse-organisation/index.html
+Is rendered as flat list:
 
 ```html
-<p>Dokumentation der Organisations-Prozesse.</p>
-<h2 id="-prozesse-organisation-weekly">- <a href="/prozesse-organisation-weekly/">Prozesse Organisation - Weekly</a><a class="headerlink" href="#-prozesse-organisation-weekly" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Optional einen Pull-Request erstellen:</li>
+<li>Feature branch erstellen <code>git switch -c mig-$<mark data-md-highlight="">modul</mark>e</code></li>
+<li>Und mit dem CLI einen PR erstellen <code>gh pr create</code></li>
+<li>Wenn PR gemerged ist, das Sub<mark data-md-highlight="">modul</mark>e-Repo deployen</li>
+<li>Änderungen pushen</li>
+</ul>
 ```
 
-Why is it an `h2` tag instead of `<ul><li></li></ul>`.
-
-It works for other files like `Prozesse%20Organisation%20-%20Weekly.md`. Maybe the markup is the problem.
+Why?
 
 @Clanker When task is completed set frontmatter state to review. Prompt the author to verify the results.
 
 ## Worklog
 
-The issue was caused by a missing blank line between the last list item and the `---` horizontal rule separator in the footer appended by `bin/build.js`. When a source markdown file does not end with a trailing newline, the footer was appended as:
-
-```markdown
-- [Prozesse Organisation - Weekly](/prozesse-organisation-weekly/)
----
-```
-
-Python-Markdown (used by MkDocs/Zensical) interpreted `---` as a **Setext-style `h2` underline** for the preceding line, because there was no blank line separating the list item from the horizontal rule.
-
-**Fix applied:** Changed `bin/build.js` line 217 from:
-
-```javascript
-let footer = ['\n', '---', '\n'].join('')
-```
-
-to:
-
-```javascript
-let footer = ['\n\n', '---', '\n\n'].join('')
-```
-
-This ensures there is always a blank line before the `---`, so it renders as `<ul><li>` followed by `<hr />` instead of an `<h2>`. The `prepare-docs` and `build-zensical-docs` pipelines were re-run and the output was verified.
+@Clanker Add a summary here once the task has been completed.
 
 @Clanker If author confirms results set frontmatter state to completed, otherwise to aborted. Update date, harness and model. If you have access to session info also add token count.

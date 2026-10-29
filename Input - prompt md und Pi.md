@@ -108,7 +108,7 @@ Note: @Clanker refers to the "ai agent" (you) who is working on this prompt file
 
 ## Task
 
-@Developer Provide instructions with clear objective here.
+@Author Provide instructions with clear objective here.
 
 ## Worklog
 
@@ -117,7 +117,7 @@ Note: @Clanker refers to the "ai agent" (you) who is working on this prompt file
 @Clanker Set frontmatter state to completed and update date, harness and model. If you have access to session info also add token count.
 ```
 
-Enthalten sind einerseits Anweisungen an den Agenten (markiert mit `@Clanker`) und anderseits Anweisungen für den Author (markiert mit `@Developer`).
+Enthalten sind einerseits Anweisungen an den Agenten (markiert mit `@Clanker`) und anderseits Anweisungen für den Author (markiert mit `@Author`).
 
 Der Author formuliert die Aufgabe und denkt nach, ob man die Aufgabe auch falsch verstehen kann. Er gibt dem Clanker Anweisungen zum Vorgehen und hält allgemeine Anforderungen fest. Bestimmte Rahmenbedingungen sind bereits im `AGENT.md` oder im `README.md` festgelegt.
 
@@ -148,7 +148,7 @@ cd ~/Nextcloud-Build
 task create-prompt "Connect to Nextclou and create personal user"
 ```
 
-Der Editor öffnet sich und bei `@Developer` beschreibt man die Aufgabe.
+Der Editor öffnet sich und bei `@Author` beschreibt man die Aufgabe.
 
 ### Prompt mit Pi ausführen
 
@@ -316,7 +316,7 @@ File created:
 prompt.md
 ```
 
-Replace `@Developer` with these instructions:
+Replace `@Author` with these instructions:
 
 ````markdown
 Your goal ist create a Jupyter notebook `setup-odoo.ipynb` that configures Odoo.
