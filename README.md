@@ -24,7 +24,6 @@ Die Wissensdatenbank orientiert sich am [[Standard für Dokumentationssysteme]].
 
 Die Wissensdatenbank ist eine Ansammlung von [Markdown](https://de.wikipedia.org/wiki/Markdown)-Dateien. Diese Text-Dateien werden mittels [Wikilinks](https://de.wikipedia.org/wiki/Hilfe:Links) verlinkt und bilden so eine vernetzte Wissensdatenbank.
 
-
 Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
 
 Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]].
