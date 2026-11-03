@@ -13,6 +13,13 @@ Arbeitsschritte:
 cd ~/cloud.mint-system.ch/Mint\ System
 ```
 
+- Den Archivierungs-Befehl testen
+
+```bash
+task move-archived-files --check
+```
+
+
 - Den Archivierungs-Befehl ausführen
 
 ```bash
