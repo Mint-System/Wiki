@@ -19,7 +19,6 @@ cd ~/cloud.mint-system.ch/Mint\ System
 task move-archived-files --check
 ```
 
-
 - Den Archivierungs-Befehl ausführen
 
 ```bash
