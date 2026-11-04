@@ -15,7 +15,8 @@
   "userIgnoreFilters": [
     "node_modules/",
     "docs/",
-    "site/"
+    "site/",
+    "tmp/"
   ],
   "showInlineTitle": true,
   "propertiesInDocument": "source",
