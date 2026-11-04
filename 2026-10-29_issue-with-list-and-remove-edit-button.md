@@ -1,5 +1,5 @@
 ---
-commit_ref: 4830bab5b6421757c38234d5b1b17c6d43e27715
+commit_ref: 713aabc776fb8f29ed184e89e32e83deac5dcded
 title: "Issue with list and remove edit button"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
