@@ -9,7 +9,7 @@ Update Odoo-Umgebung
 
 Arbeitsschritte:
 
-- Aktuelle Revision auf <https://odoo.build/revisions.html> nachschlagen
+- Aktuelle Revision auf <https://odoo.build/revisions/> nachschlagen
 - Ansible-Inventory öffnen
 - Anzeigen Odoo Staging-Umgebung `$ALIAS_odoo_staging`
 - Bei den Host-Variablen das Datum und die Commit-Referenzen aktualisieren

@@ -71,7 +71,7 @@ Hier finden Sie die Vorlagen der Drehbücher von Mint System:
 - **Odoo.sh**: [Playbook Upgrade Odoo.sh XX.0](https://wiki.mint-system.ch/playbook-upgrade-odoo.sh-xx.0.html)
 - **On-Prem**: [Playbook Upgrade Odoo XX.0](https://wiki.mint-system.ch/playbook-upgrade-odoo-xx.0.html)
 
-Die technischen Arbeitsschritte in den Drehbüchern werden mithilfe von [Odoo Build - Upgrade](https://odoo.build/upgrade.html) ausgeführt.
+Die technischen Arbeitsschritte in den Drehbüchern werden mithilfe von [Odoo Build - Upgrade](https://odoo.build/images/odoo-upgrade/) ausgeführt.
 
 ## Abgrenzung im Testing
 
