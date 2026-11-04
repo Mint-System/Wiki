@@ -82,13 +82,13 @@ Warnung
 
 Output:
 
-::: tip
-Info
-:::
+!!! tip
+    Info
 
-::: warning
-Warnung
-:::
+
+!!! warning
+    Warnung
+
 
 ### GitHub
 

@@ -40,6 +40,6 @@ docker exec "$CONTAINER" update-modules "$DATABASE"
 - Wenn das Update sauber läuft auf der Staging-Umgebung einloggen
 - Wenn das Update fehlerfrei lief kann die produktive Umgebung aktualisiert werden
 
-::: warning
-Es gibt Odoo Umgebungen ohne separate Staging-Container. In diesem Falls muss ein Update angekündigt werden. Es besteht das Risiko dass der Odoo-Prozess nach dem Deployment nicht korrekt startet.
-:::
+!!! warning
+    Es gibt Odoo Umgebungen ohne separate Staging-Container. In diesem Falls muss ein Update angekündigt werden. Es besteht das Risiko dass der Odoo-Prozess nach dem Deployment nicht korrekt startet.
+

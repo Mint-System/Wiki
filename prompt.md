@@ -1,16 +1,17 @@
 ---
-title: "Issue with list and remove edit button"
+title: "Convert info boxes"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
 state: completed
-date_completed: 2025-10-29
+date_completed: 2026-11-04
 harness: pi
-model: moonshotai/Kimi-K2.6
-input_tokens: 3956041
-output_tokens: 20438
+provider: mistral
+model: deepseek-v4-1-flash-1017
+input_tokens: 318768
+output_tokens: 27280
 ---
 
-# Issue with list and remove edit button
+# Convert info boxes
 
 Note: @Clanker refers to the "ai agent" (you) who is working on this prompt file.
 
@@ -22,38 +23,40 @@ Note: @Clanker refers to the "ai agent" (you) who is working on this prompt file
 
 ## Task
 
-First of all remove the Zensical edit button. The link does not work and I already add an edit link in the footer.
+The info boxes in file such as <Prozesse%20Finanzen%20-%20Abrechnung.md>:
 
-Then Zensical does something weird. This markdown:
+```markdown
+:::tip
 
-```
-- Optional einen Pull-Request erstellen:
-  - Feature branch erstellen `git switch -c mig-$module`
-  - Und mit dem CLI einen PR erstellen `gh pr create`
-  - Wenn PR gemerged ist, das Submodule-Repo deployen
-- Änderungen pushen
-  
+:::
 ```
 
-Is rendered as flat list:
+Are not rendered as acutal boxes <https://wiki.mint-system.ch/prozesse-finanzen-abrechnung/>.
 
-```html
-<ul>
-<li>Optional einen Pull-Request erstellen:</li>
-<li>Feature branch erstellen <code>git switch -c mig-$<mark data-md-highlight="">modul</mark>e</code></li>
-<li>Und mit dem CLI einen PR erstellen <code>gh pr create</code></li>
-<li>Wenn PR gemerged ist, das Sub<mark data-md-highlight="">modul</mark>e-Repo deployen</li>
-<li>Änderungen pushen</li>
-</ul>
-```
+This works in `~/Odoo-Wiki` project.
 
-Why?
+See `~/Odoo-Wiki/Accounting Reports.md` and <https://www.odoo-wiki.org/accounting-reports/> for comparison.
+
+Investigate why this works in `Odoo-Wiki` and apply fix to this project.
 
 @Clanker When task is completed set frontmatter state to review. Prompt the author to verify the results.
 
 ## Worklog
 
-- Removed `content.action.edit` from `zensical.toml` theme features. The Zensical edit button (with a broken link) is no longer rendered on pages; the footer already contains working "Edit on GitHub" and "Open in Obsidian" links added by `build.js`.
-- Added `normalizeListIndentation()` to `bin/build.js` to fix nested list rendering. Obsidian/CommonMark uses 2 spaces per nesting level, but Python-Markdown (used by Zensical) requires 4 spaces per level with its default `tab_length=4`. The function doubles the indentation of space-indented list items outside fenced code blocks during the `prepare-docs` conversion, so nested lists are preserved correctly in the generated HTML. Tab-indented lists are left untouched because Python-Markdown already handles them correctly.
+**Cause:** Zensical uses Python-Markdown, which only understands `!!! type` admonitions. The Obsidian callout syntax `::: tip` is not converted, so the block was emitted as a plain `<p>` paragraph. `Odoo-Wiki` renders boxes because its `bin/build.js` already converts `:::` containers into indented `!!!` admonitions. The theme and markdown extension config of both projects are identical, so the difference was purely in the build step.
 
-@Clanker If author confirms results set frontmatter state to completed, otherwise to aborted. Update date, harness and model. If you have access to session info also add token count.
+**Fix:**
+
+`:::` is Vuepress syntax, not Obsidian. Rather than keep translating it at build time, the sources were migrated to the native Zensical/MkDocs syntax so no conversion step is needed.
+
+- Converted all callouts in this vault (25 blocks in 18 files) to `!!! type` with a four-space indented body. Titles are quoted, since an unquoted title ends up in the class attribute.
+- `bin/build.js` is unchanged. An intermediate `convertCallouts()` helper was added during the investigation and removed again once the sources were native, so the build has no callout logic.
+- Same migration applied to `~/Odoo-Wiki`: 428 callouts across 226 files converted, including the two titled warnings that previously rendered with a generic title. `Contribution.md` now documents the `!!!` syntax in both its code samples and its live demos. `convertContainers()` and `containerTypes` were removed from `~/Odoo-Wiki/bin/build.js`.
+
+**Verification:**
+
+- `~/Wiki`: `./task prepare-docs` + `zensical build` renders all 25 callouts (13 tip, 11 warning, 1 info) on 18 pages, e.g. `site/prozesse-finanzen-abrechnung/index.html:492`. `No issues found`.
+- `~/Odoo-Wiki`: `node bin/build.js all` + `zensical build` still renders 428 admonitions (225 tip, 202 warning, 1 info) with no malformed classes and no `:::` leaking into the HTML. `No issues found`.
+- No `:::` remains outside code fences in either repo. The `Markdown Tutorial.md` examples are inside a fence and were left as-is.
+
+@Clanker If author confirms results set frontmatter state to completed, otherwise to aborted. Update date, harness, provider and model. If you have access to session info also add token count.

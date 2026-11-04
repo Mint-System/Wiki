@@ -41,9 +41,9 @@ Wenn ein Ordner als Vault festgelegt wird, dann legt Obsidian im Ordner einen ve
 
 Wenn du in der Leiste unten links auf das Einstellung-Icon klickst, gelangst du in die Obsidian bzw. Vault-Einstellungen. Alle Einstellungen werden immer für den aktiven Vault gemacht.
 
-::: warning
-Die Einstellungen werden mit anderen Teilnehmer / Vault-Benutzern geteilt. Bitte bearbeite die Einstellungen nur in Absprache mit anderen Teilnehmern.
-:::
+!!! warning
+    Die Einstellungen werden mit anderen Teilnehmer / Vault-Benutzern geteilt. Bitte bearbeite die Einstellungen nur in Absprache mit anderen Teilnehmern.
+
 
 ## Navigation
 
@@ -75,13 +75,13 @@ Wenn du den `Mint System` Vault geöffnet hast, drückst du `ctrl` + `o` um nach
 
 Nun bist du direkt Bearbeitungs-Modus und kannst den Inhalt der Datei anpassen.
 
-::: tip
-Es gibt keinen Speichern-Befehl in Obsidian. Alle Bearbeitungen werden direkt gespeichert.
-:::
+!!! tip
+    Es gibt keinen Speichern-Befehl in Obsidian. Alle Bearbeitungen werden direkt gespeichert.
 
-::: tip
-Drücke `ctrl` + `shift` + `R` um die geöffnete Datei in der Ordnerstruktur anzuzeigen.
-:::
+
+!!! tip
+    Drücke `ctrl` + `shift` + `R` um die geöffnete Datei in der Ordnerstruktur anzuzeigen.
+
 
 ### Markdown
 
@@ -105,9 +105,9 @@ projekt: Mint Cloud
 ---
 ```
 
-::: tip
-Drücke `ctrl` + `e` um eine Vorschau der Markdown-Datei zu erhalten. Die Metadaten können in der Vorschau in Text-Boxen bearbeitet werden.
-:::
+!!! tip
+    Drücke `ctrl` + `e` um eine Vorschau der Markdown-Datei zu erhalten. Die Metadaten können in der Vorschau in Text-Boxen bearbeitet werden.
+
 
 ### Verlinkung
 
@@ -115,13 +115,13 @@ Drücke `ctrl` + `e` um eine Vorschau der Markdown-Datei zu erhalten. Die Metada
 
 Obsidian arbeitet mit Wikilinks `[[]]`. Um in einer Notiz eine andere Notiz zu verlinken, schreibst du `[[` und kannst nach der Datei suchen. Sobald du eine Auswahl hast und `Enter` drückst, wird der Linkt mit `]]` abgeschlossen.
 
-::: tip
-Du kannst auch Überschriften innerhalb einer Notiz verlinken. Wenn du in der Suche die gewünschte Datei in der Auswahl hast, gibst `#` ein und es erscheint eine Auswahl der Überschriften.
-:::
+!!! tip
+    Du kannst auch Überschriften innerhalb einer Notiz verlinken. Wenn du in der Suche die gewünschte Datei in der Auswahl hast, gibst `#` ein und es erscheint eine Auswahl der Überschriften.
 
-::: tip
-Wenn die Option _Wikilinks_ für den Vault deaktiviert ist, dann konvertiert Obsidian den Wikilink `[[]]` in das gewöhnliche Markdown-Format `[]()`.
-:::
+
+!!! tip
+    Wenn die Option _Wikilinks_ für den Vault deaktiviert ist, dann konvertiert Obsidian den Wikilink `[[]]` in das gewöhnliche Markdown-Format `[]()`.
+
 
 ## Plugins
 
@@ -172,9 +172,9 @@ Obsidian kennt keine Benutzer. Mit diesem Plugin kann man Teilnehmer eines Vault
 
 Geben Sie `@` und den Namen des Teilnehmers ein. Drücken Sie bei der Auswahl `Enter` und Obsidian fügt einen Mention-Link ein.
 
-::: tip
-Wenn die Option _Wikilinks_ deaktiviert ist, haben die Mention-Links das gleiche Format wie die aus der Nextcloud generierten Mentions-Links.
-:::
+!!! tip
+    Wenn die Option _Wikilinks_ deaktiviert ist, haben die Mention-Links das gleiche Format wie die aus der Nextcloud generierten Mentions-Links.
+
 ### Bases
 
 Ist eine Obidian Core-Plugin. Mit Bases können die Frontmatter-Metadaten als Liste oder Kachel angezeigt werden.

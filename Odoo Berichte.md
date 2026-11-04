@@ -65,9 +65,9 @@ Die beschriebene Struktur wird oft ergänzt durch Anpassungen, die sich aus dem 
 
 Module können mit vererbten Ansichten die Berichte anderer Module verändern. Am Beispiel der _Rechnung_ verändern die Ansichten `l10n_din5008.report_invoice_document` (Bericht-Layout nach DIN 5008) und `l10n_ch.l10n_ch_report_invoice_document` (Schweizer Lokalisierung) gezielt das ursprüngliche Layout.
 
-::: tip
-Die in Odoo angezeigte Ansichtsbezeichnung kann Grund für Verwechslungen bieten. Im Beispiel _Rechnung_ ist die Ansichtsbezeichnung von `account.report_invoice_document` (Dokument-Layout) identisch mit jener von `l10n_din5008.report_invoice_document` (Layout-Anpassungen): `report_invoice_document`.
-:::
+!!! tip
+    Die in Odoo angezeigte Ansichtsbezeichnung kann Grund für Verwechslungen bieten. Im Beispiel _Rechnung_ ist die Ansichtsbezeichnung von `account.report_invoice_document` (Dokument-Layout) identisch mit jener von `l10n_din5008.report_invoice_document` (Layout-Anpassungen): `report_invoice_document`.
+
 
 ### Customizing
 

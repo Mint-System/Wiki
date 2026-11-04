@@ -11,8 +11,8 @@ section: template
 
 ## Import
 
-::: warning
-Sicherstellen dass keine Einladungen beim Import von Terminen verschickt werden.
-:::
+!!! warning
+    Sicherstellen dass keine Einladungen beim Import von Terminen verschickt werden.
+
 
 ## Konfiguration

@@ -215,11 +215,11 @@ Make sure the KeePass env var points to the `Infrastruktur.kdbx` file. If the pa
 
 Now we are going to install the required tools:
 
-:::warning
-- Run the commands line by line.
-- Do not start Pi during the installation.
-- Restart your Terminal after the last installation.
-:::
+!!! warning
+    - Run the commands line by line.
+    - Do not start Pi during the installation.
+    - Restart your Terminal after the last installation.
+
 
 ```bash
 task install keepass # Install KeePass including the cli

@@ -33,6 +33,6 @@ Arbeitsschritte:
 	- Domain nach Schema `$NAME.mintsys.ch` festlegen.
 - Zuweisen der Aufgabe an [[Kreis Infrastruktur]]
 
-::: tip
-Der technische Name der Odoo App kann der Prozess-Dokumentation entnommen werden. Beispielsweise ist der technische Name von Einkauf gemäss [[Prozesse Odoo - App Einkauf]] `purchase`.
-:::
+!!! tip
+    Der technische Name der Odoo App kann der Prozess-Dokumentation entnommen werden. Beispielsweise ist der technische Name von Einkauf gemäss [[Prozesse Odoo - App Einkauf]] `purchase`.
+

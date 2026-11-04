@@ -63,9 +63,9 @@ Mint System Team
 - Den Odoo-Container neu deployment `task play -i inventories/mint_system plays/odoo.yml -l ${ALIAS}_odoo`
 - Nach erfolgreichem Deployment die Aktion *Apps > Auto-Upgrade Modules* ausführen
 
-::: warning
-Damit diese Aktion verfügbar ist, muss das Modul `module_auto_update` installiert werden.
-:::
+!!! warning
+    Damit diese Aktion verfügbar ist, muss das Modul `module_auto_update` installiert werden.
+
 
 - Mitteilung an Kunde via Odoo Dialog
 

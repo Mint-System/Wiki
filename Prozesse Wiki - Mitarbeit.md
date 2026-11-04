@@ -41,9 +41,9 @@ Damit man die Inhalte auf GitHub stellen kann benötigt man:
 - Zugriff auf die [Mint System Organisation](https://github.com/Mint-System)
 - Einen [[Git#Client|Git Client]]
 
-::: warning
-Wenn man mit Git direkt auf der Nextcloud-Ablage nutzen möchte, muss man die [[Nextcloud - Configure ignored files|Standard-Dateifilter festlegen]].
-:::
+!!! warning
+    Wenn man mit Git direkt auf der Nextcloud-Ablage nutzen möchte, muss man die [[Nextcloud - Configure ignored files|Standard-Dateifilter festlegen]].
+
 
 ## Artikel übersetzen
 

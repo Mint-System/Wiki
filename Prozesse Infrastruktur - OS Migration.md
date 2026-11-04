@@ -37,9 +37,9 @@ ssh $ALIAS.mint-system.com sudo service docker stop
 - Server herunterfahren
 - Server mit aktuellem Debian Image neu erstellen
 
-::: warning
-Nach einem Rebuild rebuild, wird der originale SSH-Public-Key für den Root-Benutzer bereitgestellt.
-:::
+!!! warning
+    Nach einem Rebuild rebuild, wird der originale SSH-Public-Key für den Root-Benutzer bereitgestellt.
+
 
 - Server in Ansible Inventory in Debian Gruppe verschieben
 - Server mit Ansible installieren:
