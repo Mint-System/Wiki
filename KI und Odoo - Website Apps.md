@@ -63,8 +63,8 @@ In unseren KI-gestützen Entwicklungsprozessen starten wir immer mit einer Promp
 ```
 
 
-### Vibecoden
+### Coding
 
-
+https://github.com/Mint-System/Demo-Odoo-Website-App
 
 ### Demo
