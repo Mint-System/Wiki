@@ -21,10 +21,10 @@ Ein Szenario mit dem wir jetzt mehrmals konfrontiert waren ist das folgende:
 - Der Kunde stellt diese zur Verfügung und er Agent installiert die Lösung auf der Odoo-Umgebung
 - Der Kunde validiert die Lösung
 
-Die hier beschriebene Lösung kann eine Anpassung einem Bericht sein oder eine neues Modul. Nun bleiben bei diesem Vorgehen einige Punkte unkgelärt:
+Die hier beschriebene Lösung kann eine Anpassung einem Bericht sein oder eine neues Modul. Nun bleiben bei diesem Vorgehen einige Punkte unkgeklärt:
 
 - Reproduzierbarkeit: Wo wird der Quellcode der Anpassung gespeichert?
-- Integrität: Ist sichergsetellt, dass die Anpassung ungewollte Nebenwirkuingen hat?
+- Integrität: Ist sichergstellt, dass die Anpassung ungewollte Nebenwirkuingen hat?
 - Verantwortung: Wer gibt Antwort, wenn die Lösung nicht korrekt funktioniert?
 - Beratung: Ist das die beste Lösung?
 
