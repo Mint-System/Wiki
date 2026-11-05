@@ -63,3 +63,8 @@ In unseren KI-gestützen Entwicklungsprozessen starten wir immer mit einer Promp
 ```
 
 
+### Vibecoden
+
+
+
+### Demo
