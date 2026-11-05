@@ -13,6 +13,8 @@ views:
       - section
       - draft
       - title
-    sort: []
+    sort:
+      - property: title
+        direction: ASC
     columnSize:
       file.name: 610
