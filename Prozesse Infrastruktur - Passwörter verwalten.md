@@ -2,11 +2,19 @@
 kind: howto
 section: process
 ---
-## Passwort-Datenbank öffnen
+## Passwort-Datenbank Projekte öffnen
 
 Arbeitsschritte:
 
-- Installation [[KeePassXC]] auf dem lokalen Computer
+- Bei [[Kreis Infrastruktur]] nach dem Projekte-Passwort fragen
+- Die KeePass-Datei `Mint-System/Data/Projekte.kdbx` auf der [[Cloud Mint System]] öffnen
+- Die Schlüsseldatei `Mint-System/Secrets/KeePass.key` angeben und anschliessend das Porjekte-Passwort eingeben
+- Mit _Unlock_ die KeePass-Datei entschlüsseln
+
+## Passwort-Datenbank Projekte öffnen
+
+Arbeitsschritte:
+
 - Bei [[Kreis Infrastruktur]] nach dem Infrastruktur-Passwort fragen
 - Die KeePass-Datei `Mint-System/Data/Infrastruktur.kdbx` auf der [[Cloud Mint System]] öffnen
 - Die Schlüsseldatei `Mint-System/Secrets/KeePass.key` angeben und anschliessend das Infrastruktur-Passwort eingeben
