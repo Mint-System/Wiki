@@ -8,7 +8,7 @@ kind: tutorial
 
 Im ersten Teil widmen wir uns der Theorie und im zweiten Teil der Anwendung. In diesem Input lernst mehr über den Umgang und Arbeit mit Large Language Models (LLM). Inhaltlich knüpft es an den vorhergehenden [[Input - Arbeit mit LLMs]] an.
 
-Bevor wir loslegen müssen wir ein paar Begriffe klären. In den folgenden Abschnitt der Englische Begriff und eine überspitzte Definition.
+Bevor wir loslegen müssen wir ein paar Begriffe klären. In den folgenden Abschnitten finden sich der Englische Begriff und eine überspitzte Definition.
 
 ### Claude (Klaus)
 
@@ -18,9 +18,9 @@ Wie bei Microsoft schwören alle auf Claude. Ganze Unternehmen bauen ihre Produk
 
 ### AI (Afrikanische Intelligenz)
 
-Ironischerweise gäbe es Open Source und Open Knowledge gar keine LLMs. Die Trainingsdaten werden im Internet ohne Einwilligung der Autoren abgegriffen. Auch ohne  die Ausbeutung von Klick-Wokern in Nairobi gäbe es keine Bildgeneratoren. Das ist die Schattenseite der Technologie.
+Ironischerweise gäbe es ohne Open Source und Open Knowledge gar keine LLMs. Die Trainingsdaten werden im Internet ohne Einwilligung der Autoren abgegriffen. Auch ohne  die Ausbeutung von Klick-Wokern in Nairobi gäbe es keine Bildgeneratoren. Das ist die Schattenseite der Technologie.
 
-In diesem Zusammenhang gibt es noche viele weitere Problem (Data Centers, Wassermangel, TechBros, Escapism, Doomerism, Military Industrial Complex, Einsatz KI im Krieg, Überwachung ...). Den Intelligenzbegriff gilt es zu vermeiden. In nur zwei Klicks landet man von <https://en.wikipedia.org/wiki/Intelligence> via "g factor" in der Eugenik. Auf moralischer Ebene läuft mit LLMs also alles schief.
+In diesem Zusammenhang gibt es noch viele weitere Probleme (Data Centers, Wassermangel, TechBros, Escapism, Doomerism, Military Industrial Complex, Einsatz KI im Krieg, Überwachung ...). Den Intelligenzbegriff gilt es zu vermeiden. In nur zwei Klicks landet man von <https://en.wikipedia.org/wiki/Intelligence> via "g factor" in der Eugenik. Auf moralischer Ebene läuft mit LLMs also alles schief.
 
 Gleichzeit verändert KI spürbar die Arbeitswelt. Sei es als Ersatz für Suchmaschinen, zum Lösen der Hausaufgaben oder bei der Programmierung von Software. Daher stellt sich die Frage, was können wir beeinflussen und was nicht? Als Konsumenten haben wir noch die Wahl bei den Modellen, Anbietern und Workflows. Das ist immerhin etwas.
 
@@ -28,31 +28,31 @@ Gleichzeit verändert KI spürbar die Arbeitswelt. Sei es als Ersatz für Suchma
 
 Was sind nochmals diese Modelle? Die Open Source und Open Weights Modelle sind Dateien in unterschiedlichen Grössen, gefüttert mit viel Text. Die Text-Stücke werden zerlegt und nach deren Zusammenhang gewichtet. Es entsteht eine Topologie aus Buchstaben (Tokens).
 
-Auf <https://huggingface.co/> findet so ziemlich alle Open Weights Modelle die es gibt. Um ein Model zu trainieren braucht es viel Rechenleistung. Es braucht ganze Datenzentren um ein Model zu kreieren, dass einigermassen funktionsfähig ist.
+Auf <https://huggingface.co/> findet man so ziemlich alle Open Weights Modelle die es gibt. Um ein Model zu trainieren braucht es viel Rechenleistung. Es braucht ganze Datenzentren um ein Model zu kreieren, dass einigermassen funktionsfähig ist.
 
 ### Prompts (Anweisung)
 
-Prompts sind Anweisungen an eine Modell. Es kann eine Frage sein oder ein Befehl. Das Modell kann die die wahrscheinlichste (und nicht die korrekteste) Inference liefern.
+Prompts sind Anweisungen an ein Modell. Es kann eine Frage sein oder ein Befehl. Das Modell kann die die wahrscheinlichste (und nicht die korrekteste) Inference liefern.
 
 ### Harness (Gurtzeug)
 
-Ermöglicht im weitesten Sinne dem LLM die Fähigkeit als Agent zu agieren. Im Engsten Sinne ist es eine Schleife für Prompts. In diesem Input schauen wir uns [Pi](https://pi.dev/) als Harness an.
+Ermöglicht im weitesten Sinne dem LLM die Fähigkeit als Agent zu agieren. Im engsten Sinne ist es eine Schleife für Prompts. In diesem Input schauen wir uns [Pi](https://pi.dev/) als Harness an.
 
 ### Inference (Schlussfolgerung)
 
-Man nehme ganz viel Arbeits- und Grafikspeicher und lade die ganze Model-Datei hinein. Man füge einen Prompt hinzu und rauskommt die Schlussfolgerung des Models. Mit der sog. Inference erhalten wir die statistisch wahrscheinlichste Zusammensetzung von Buchstaben auf unsere in Token zerlegten Prompt.
+Man nehme ganz viel Arbeits- und Grafikspeicher und lade die ganze Model-Datei hinein. Man füge einen Prompt hinzu und heraus kommt die Schlussfolgerung des Models. Mit der sog. Inference erhalten wir die statistisch wahrscheinlichste Zusammensetzung von Buchstaben auf unsere in Token zerlegten Prompt.
 
 ### Inference Provider (Dienstleister für Schlussfolgerungen)
 
-Weil Arbeits- und Grafikspeicher teuer geworden ist, können jene, die diese Ressourcen haben, sie verkaufen. Als Kunde zerlegt man den Prompt in Tokens und schickt in an einen Inference Provider. Für die Anfrage und die Anzahl Tokens bezahlt man.
+Weil Arbeits- und Grafikspeicher teuer geworden ist, können jene, die diese Ressourcen haben, sie verkaufen. Als Kunde zerlegt man den Prompt in Tokens und schickt ihn an einen Inference Provider. Für die Anfrage und die Anzahl der Tokens bezahlt man.
 
-Zum Glück gibt viele Anbieter. Der Günstigste mit den meisten Models gewinnt! Aber nicht nur, wir bevorzugen Anbieter in der Schweiz. Für unsere Arbeit schauen wir uns diese Anbieter an:
+Zum Glück gibt viele Anbieter. Der günstigste mit den meisten Models gewinnt! Aber nicht nur, wir bevorzugen Anbieter in der Schweiz. Für unsere Arbeit schauen wir uns diese Anbieter an:
 
 Infomaniak: 1069 Hits für CHF 22.277\
 Hugging Face: 279 Hits für $20.53\
 Scaleway: Pending
 
-Sie unterscheiden sich in der Wahl der Modelle und den Kosten pro Anfrage. Kostenmässig kann das schnell aus dem Ruder laufen. Die Inference Provider verdienen wenn wir möglichst viele Tokens verbrennen. Wenn das Harness, das Model und der Provider das gleiche Unternehmen sind, dann wird das System auf maximalen Token-Verbraucht ausgerichtet.
+Sie unterscheiden sich in der Wahl der Modelle und den Kosten pro Anfrage. Kostenmässig kann das schnell aus dem Ruder laufen. Die Inference Provider verdienen wenn wir möglichst viele Tokens verbrennen. Wenn das Harness, das Model und der Provider das gleiche Unternehmen sind, dann wird das System auf maximalen Token-Verbrauch ausgerichtet.
 
 ### Agent (Schlaue Schleife)
 
@@ -62,21 +62,21 @@ Der Agent wird mit einem Prompt gefüttert. Im Prompt sind Anweisungen zur Erled
 
 Dann legt der Agent los. Er macht sich "Gedanken" und versucht als erstes die Aufgabe zu verstehen. Er entwickelt ein Vorgehen (Plan) und wenn er sich "sicher" ist, macht er die Ausführung (Execute). Er arbeitet solange an der Aufgabe bis diese erledig ist. Ob er aufgibt oder nicht ist eine Frage des Trainings und Parametrierung des Models.
 
-Am Ende bekommt vielleicht 7 Eier nach Hause geliefert. Es können aber auch 7000 sein. Also aufgepasst!
+Am Ende bekommt man vielleicht 7 Eier nach Hause geliefert. Es können aber auch 7000 sein. Also aufgepasst!
 
 ### Anthropomorphism (Vermenschlichung)
 
 In der letzten Erklärung wurden Begriffe wie "Gedanken" in Anführungs- und Schlusszeichen gesetzt. Diese Begriffe vermenschlichen die Technik und das entspricht nicht deren Konstruktion. Da stimmt sogar der Papst zu (siehe [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)).
 
-Wenn man mit LLMs interagiert, beispielsweise in einem Chat, dann suggerieren diese  ein Mensch zu sein (sieh [Eliza-Effekt](https://en.wikipedia.org/wiki/ELIZA_effect)). Oder mindestens versucht unser Hirn im Chat einen Mensch zu finden. Die Grenze ist nicht ganz klar.
+Wenn man mit LLMs interagiert, beispielsweise in einem Chat, dann suggerieren diese  ein Mensch zu sein (siehe [Eliza-Effekt](https://en.wikipedia.org/wiki/ELIZA_effect)). Oder mindestens versucht unser Hirn im Chat einen Menschen zu finden. Die Grenze ist nicht ganz klar.
 
 ## Taskfile
 
-Jetzt wird es wieder technisch. Die hier präsentierte Lösung um mit Pi (dem Harness) Prompts ausfzuführen basiert auf dem Taskfile. Konkret ist  `prompt.md` eine Erfindung von <https://taskfile.build/> und das Taskfile ist eine Erfindung von Mint System. Es definiert die Art und Weise wie wir mit LLMs interagieren.
+Jetzt wird es wieder technisch. Die hier präsentierte Lösung um mit Pi (dem Harness) Prompts ausfzuführen basiert auf dem Taskfile. Konkret ist `prompt.md` eine Erfindung von <https://taskfile.build/> und das Taskfile ist eine Erfindung von Mint System. Es definiert die Art und Weise wie wir mit LLMs interagieren.
 
 ### prompt.md
 
-In der Abeit mit LLMs sollte man nicht einfach darauf los prompten. Als erstes muss man sich Gedanken machen und festlegen was man erreichen will (Think before you code).
+In der Abeit mit LLMs sollte man nicht einfach drauf los prompten. Als erstes muss man sich Gedanken machen und festlegen was man erreichen will (Think before you code).
 
 Mit dem Taskfile-Befehl `create-prompt` wird eine `prompt.md` Datei erzeugt. Das ist eine Vorlage um Gedanken in Form von Anweisungen festzuhalten. So sieht die aktuelle Vorlage aus:
 
@@ -117,7 +117,7 @@ Note: @Clanker refers to the "ai agent" (you) who is working on this prompt file
 @Clanker Set frontmatter state to completed and update date, harness and model. If you have access to session info also add token count.
 ```
 
-Enthalten sind einerseits Anweisungen an den Agenten (markiert mit `@Clanker`) und anderseits Anweisungen für den Author (markiert mit `@Author`).
+Enthalten sind einerseits Anweisungen an den Agenten (markiert mit `@Clanker`) und andererseits Anweisungen für den Author (markiert mit `@Author`).
 
 Der Author formuliert die Aufgabe und denkt nach, ob man die Aufgabe auch falsch verstehen kann. Er gibt dem Clanker Anweisungen zum Vorgehen und hält allgemeine Anforderungen fest. Bestimmte Rahmenbedingungen sind bereits im `AGENT.md` oder im `README.md` festgelegt.
 
@@ -145,7 +145,7 @@ Der Wofklow ist ganz einfach. Wir öffnen das Terminal und navigieren in ein Pro
 
 ```bash
 cd ~/Nextcloud-Build
-task create-prompt "Connect to Nextclou and create personal user"
+task create-prompt "Connect to Nextcloud and create personal user"
 ```
 
 Der Editor öffnet sich und bei `@Author` beschreibt man die Aufgabe.
@@ -162,7 +162,7 @@ Das PI Harness wird gestartet und der Prompt wird als Query mitgeteilt. Pi legt 
 
 ### Resultat prüfen
 
-Der Author prüft das Resultat und teil Pi mit ob es passt oder nicht. Es können auch Verbesserungen und Ergänzungen mitgeteilt werden.
+Der Author prüft das Resultat und teilt Pi mit ob es passt oder nicht. Es können auch Verbesserungen und Ergänzungen mitgeteilt werden.
 
 Wenn die Aufgabe erledigt, ergänzt Pi das Frontmatter und das Worklog in der Prompt-Datei. Der Author muss nun das Ergebnis selbst committen. Die Commit-Nachricht lässt sich mit diesem Befehl generieren:
 
@@ -178,7 +178,7 @@ Nun kann der Prompt im Prompt-Log registriert werden:
 task commit-prompt
 ```
 
-Dieser Befehl speichert den aktuelle Commit im Frontmatter. Der `prompt-log` Branch wird automatisch gepusht.
+Dieser Befehl speichert den aktuellen Commit im Frontmatter. Der `prompt-log` Branch wird automatisch gepusht.
 
 ## Hands-on (en)
 
@@ -390,7 +390,7 @@ Und hier eine Liste was man nicht prompten sollte:
 - Aufgaben deren Lösung unbekannt ist
 - Recherchen im Internet
 - Dinge die mit einem Shell-Befehl erledigt sind
-- Etwas mit Zuugriff auf produktive Umgebung
+- Etwas mit Zugriff auf ein produktive Umgebung
 
 ## Verbesserungen
 
@@ -398,7 +398,7 @@ Der Workflow mit `prompt.md` und Prompt-Log funktioniert schon ganz gut. Es gibt
 
 - **Sub-Agents**: Wenn man bei der Ausführung einer Aufgabe feststellt, dass die Erledigung ein neues separates `prompt.md` erfordert wird die Sache schwierig.
 - **WIP**: Mit dem Befehl `prompt-with-pi` soll ein bestehendes Prompt-File aus dem Prompt-Log geladen werden können.
-- **Prompt-Typen**: Der aktuelle Prompt ist auf Implementierung ausgerichtet. Neue Prompt-Typen wären sinnvoll um sich beispielsweise ein Projekt erklären zu lassen oder bei der Spezifizierung einer Software unterstützen.
+- **Prompt-Typen**: Der aktuelle Prompt ist auf Implementierung ausgerichtet. Neue Prompt-Typen wären sinnvoll um sich beispielsweise ein Projekt erklären zu lassen oder bei der Spezifizierung einer Software zu unterstützen.
 - **Merge Requests**: Wenn zwei Merge requests das prompt.md anpassen gibt es immer einen Merge-Konflikt. 
 - ~~**Reset**: Ist man nicht zufrieden mit dem Resultat und möchte man von vorne beginnen ist das aktuell schwierig. Einerseits muss man die Änderungen mit Git zurücksetzen und dann das Worklog im `prompt.md` löschen.~~
 - ~~**Review**: Wenn der Agent die Aufgabe erledigt hat, setzt er den Prompt auf `completed`. Jedoch wäre es besser, dass auf `review` geht und die Prüfung der Resultat eingefordert wird.~~
