@@ -9,7 +9,7 @@ Umgang mit LLMs und Tooling in der Entwicklungsumgebung.
 
 > Was ist ein Large Language Model (LLM)?
 
-Ein LLM ist ein computerlinguistisches Wahrscheinlichkeitsmodell. Es stellt Wort- und Satzfolge-Beziehungen aus einer Vielzahl von Textdokumenten und einem rechenintensivem Trainingsprozess her.
+Ein LLM ist ein computerlinguistisches Wahrscheinlichkeitsmodell. Es stellt Wort- und Satzfolge-Beziehungen aus einer Vielzahl von Textdokumenten und einem rechenintensiven Trainingsprozess her.
 
  Als selbstanpassende Sprachmodelle können sie verschiedene Aufgaben in natürlicher Sprache ausführen, z. B. das Zusammenfassen, Übersetzen, Vorhersagen und Erstellen von Texten.
 
