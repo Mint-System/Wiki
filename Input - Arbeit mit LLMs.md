@@ -11,9 +11,9 @@ Umgang mit LLMs und Tooling in der Entwicklungsumgebung.
 
 Ein LLM ist ein computerlinguistisches Wahrscheinlichkeitsmodell. Es stellt Wort- und Satzfolge-Beziehungen aus einer Vielzahl von Textdokumenten und einem rechenintensiven Trainingsprozess her.
 
- Als selbstanpassende Sprachmodelle können sie verschiedene Aufgaben in natürlicher Sprache ausführen, z. B. das Zusammenfassen, Übersetzen, Vorhersagen und Erstellen von Texten.
+ Als selbstanpassende Sprachmodelle können sie verschiedene Aufgaben in natürlicher Sprache ausführen. Z. B. das Zusammenfassen, Übersetzen, Vorhersagen und Erstellen von Texten.
 
-> Wast ist ein LLM Chat?
+> Was ist ein LLM Chat?
 
 Über einen Dialog kann mit einem LLM gechattet werden. Der Chat stellt ein Kontext-Fenster und den Chat-Verlauf in jeder Interaktion zur Verfügung. Das LLM kann so vergangene Antworten bei neuen Fragen berücksichtigen und sich Dinge "merken". 
 
@@ -29,7 +29,7 @@ Ein LLM Provider stellt Modelle mit API als Dienstleistung bereit. Über die API
 
 > Was ist ein LLM Router?
 
-Der LLM Router verbindet die APIs von verschiedenen LLM Provider. Damit kann der Anwender über eine einheitliche API auf verschiedene Sprachmodelle und Provider zugreifen.
+Der LLM Router verbindet die APIs von verschiedenen LLM Providern. Damit kann der Anwender über eine einheitliche API auf verschiedene Sprachmodelle und Provider zugreifen.
 
 ## Hosting
 
@@ -60,6 +60,7 @@ Auf Listen von Models kann nach diesem Attribut gefiltert werden: <https://corte
 > Was ist ein "Thinking" LLM?
 
 Modelle mit der Fähigkeit "Reasoning" oder "Thinking" absolvieren einen internen Prozess bevor sie die Antwort liefern.
+
 ## Chat starten
 
 > Wie kann ich mit einem LLM chatten?
@@ -86,7 +87,7 @@ Du kannst das OpenCode cli mit den [[Mint System Dotfiles]] installieren. Verwen
 
 > Was ist der Nutzen?
 
-Der Agent kann eine gut definierte Aufgabe sehr schnell lösen. Es lohnt sich ein Agenten einzusetzen, wenn das Zielbild bereits bekannt ist.
+Der Agent kann eine gut definierte Aufgabe sehr schnell lösen. Es lohnt sich einen Agenten einzusetzen, wenn das Zielbild bereits bekannt ist.
 
 > Was ist der Plan und Build Modus?
 
