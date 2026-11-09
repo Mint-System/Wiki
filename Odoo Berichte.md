@@ -7,6 +7,7 @@ kind: reference
 
 Odoo Berichte bestehen aus mehreren Komponenten und Vorlagen. Hier ein Überblick über die Struktur:
 
+```
 Bericht
 - Bericht-Container
 	- Bericht-Layout
@@ -28,11 +29,13 @@ Bericht
 	- Festlegen Infoblock
 	- Festlegen Titel
 	- Festlegen Inhalt
+```
 
 Ausgewählte Elemente wie Titel werden auf dem Dokument festgelegt und in der Vorlage Dokument-Layout ausgegeben. 
 
 Und hier die Gliederung mit Namen der Ansichten und Variablen anhand des Bericht _Rechnung_:
 
+```
 account.report_invoice
 - t-call web.html_container
 	- t-call web.report_layout
@@ -54,6 +57,7 @@ account.report_invoice
 		- t-set information_block
 		- t-set layout_document_title
 		- 0
+```
 
 Der `t-call` ruf ein anderes Template auf. Der `t-out` macht einen Output eines Wertes und `t-set` legt einen Wert fest. Der Wert `0` bezieht sich auf den Inhalt des Berichts selbst.
 
