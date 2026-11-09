@@ -3,20 +3,20 @@ section: product
 kind: explain
 ---
 
-Revision: 2026-06-12
+Revision: 2026-11-09
 
 Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt bei Fragen und Problemen zu Odoo. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Odoo Expertenwissen.
 
 | Leistung                                                 | Basis  |    Plus    |    Pro    |
-| -------------------------------------------------------- | :----: | :--------: | :-------: |
-| Dialog über support@mint-system.ch                       |   ✅    |     ✅      |     ✅     |
-| Telefonanruf auf Supportnummer +41 44 244 72 24          |   ❌    |     ✅      |     ✅     |
-| Direkter Dialog mit Betreuungsperson                     |   ❌    |     ❌      |     ✅     |
+| -------------------------------------------------------- |:------:|:----------:|:---------:|
+| Dialog über support@mint-system.ch                       |   ✅   |     ✅     |    ✅     |
+| Telefonanruf auf Supportnummer +41 44 244 72 24          |   ❌   |     ✅     |    ✅     |
+| Direkter Dialog mit Betreuungsperson                     |   ❌   |     ❌     |    ✅     |
 | Maximale Reaktionszeit (während den normalen Bürozeiten) | 3 Tage | 24 Stunden | 4 Stunden |
-| Supportleistungen zu reduziertem Tarif                   |   ❌    |     ✅      |     ✅     |
-| Monatliches Guthaben                                     |   ❌    |     ❌      | 1 Stunde  |
-| Kosten pro Monat [CHF]                                   |   0    |     80     |    160    |
-| Kosten pro Jahr [CHF]                                    |   0    |    960     |   1’920   |
+| Supportleistungen zu reduziertem Tarif                   |   ❌   |     ✅     |    ✅     |
+| Monatliches Guthaben                                     |   ❌   |     ❌     | 1 Stunde  |
+| Kosten pro Monat [CHF]                                   |   0    |     60     |    160    |
+| Kosten pro Jahr [CHF]                                    |   0    |    720     |   1’920   |
 
 ## Basis
 
@@ -42,8 +42,8 @@ Ihre Kontaktmöglichkeiten:
 - Anruf auf Supportnummer [+41 44 244 72 24](tel:+41442447224)
 - Bestehende Möglichkeiten aus Basisvertrag
 
-Kosten pro Jahr: 960 CHF\
-_Kosten pro Monat: 80 CHF_
+Kosten pro Jahr: 720 CHF\
+_Kosten pro Monat: 60 CHF_
 
 ## Pro
 

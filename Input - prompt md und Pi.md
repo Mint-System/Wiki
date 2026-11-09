@@ -46,11 +46,7 @@ Man nehme ganz viel Arbeits- und Grafikspeicher und lade die ganze Model-Datei h
 
 Weil Arbeits- und Grafikspeicher teuer geworden ist, können jene, die diese Ressourcen haben, sie verkaufen. Als Kunde zerlegt man den Prompt in Tokens und schickt ihn an einen Inference Provider. Für die Anfrage und die Anzahl der Tokens bezahlt man.
 
-Zum Glück gibt viele Anbieter. Der günstigste mit den meisten Models gewinnt! Aber nicht nur, wir bevorzugen Anbieter in der Schweiz. Für unsere Arbeit schauen wir uns diese Anbieter an:
-
-Infomaniak: 1069 Hits für CHF 22.277\
-Hugging Face: 279 Hits für $20.53\
-Scaleway: Pending
+Zum Glück gibt viele Anbieter. Der günstigste mit den meisten Models gewinnt! Aber nicht nur, wir bevorzugen Anbieter in der Schweiz. Dazu ein Vergleich: [[Compare Inference Providers]]
 
 Sie unterscheiden sich in der Wahl der Modelle und den Kosten pro Anfrage. Kostenmässig kann das schnell aus dem Ruder laufen. Die Inference Provider verdienen wenn wir möglichst viele Tokens verbrennen. Wenn das Harness, das Model und der Provider das gleiche Unternehmen sind, dann wird das System auf maximalen Token-Verbrauch ausgerichtet.
 

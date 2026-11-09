@@ -3,12 +3,11 @@ kind: explain
 section: service
 ---
 
-Als Kunde der Mint System braucht man nicht nur einen zuverlässigen Partner. Man braucht die Garantie, dass bei einem Systemausfall oder Beeinträchtigung der Verfügbarkeit jemand erreichbar ist. Auch im Daily-Business braucht es im entscheidenden Moment rasche Beratung.
+Das ist eine Dienstleistung von Mint System.
 
-### Stundenpaket
+Kunden mit einem [[Supportvertrag]] können sich Fragen, Problemen und Anliegen bei Mint System melden. Wir melden uns innert Frist und lösen das Problem oder beantworten die Fragen in der ersten Kontaktaufanhme.
 
-Der technische Support von Mint System bietet genau das. Sie kaufen ein halbjährliches Stundenpaket und wir reservieren diese Stunden für Sie. Einmal gebucht, können Sie uns bedenkenlos kontaktieren und ihr Problem schildern. Entstehen Aufwände, die nicht im Rahmen des Supportpakets abgewickelt werden können, informieren wir Sie darüber.
+> Wann macht ein Supportvertrag sinn?
 
-### Reduzierter Stundenansatz
+Sobald das Odoo-Projekt von der Implementierungs-Phase in die Betriebs-Phase geht, braucht es es eine neue Regelung für die Zusammenarbeit mit Mint System und dem Kunden.
 
-Weil die unverbrauchten Stunden, nicht übertragen werden könne, haben Supportstunden einen tieferen Satz. Eine Übersicht erhalten Sie unter [[Dienstleistungen]].
