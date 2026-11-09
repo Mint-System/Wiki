@@ -5,6 +5,8 @@ draft: true
 title:
 ---
 
+> Wie sie Odoo mit Website Apps und der Unterstüþuzng von KI erweitern.
+
 Wir und unsere Kunden beschäftigen sich intensiv mit KI-Agenten (LLM-Loops). Wir sehen und erleben wie zeitaufwändige Arbeiten mühelos automatisiert werden. Odoo-Kunden lassen das System von KI-Agenten konfigurieren und erweitern es mit neue Funktionen.
 
 Dass dies unsere bestehenden Implementation-Prozesse auf die Probe stellt muss hier nicht erklärt werden. Wir sehen viele Vorteile in der Arbeit mit KI, aber auch sog. Regressionen. Also Probleme, die gelöst sind, erscheinen wieder in neuer Formen.
