@@ -3,9 +3,7 @@ kind: howto
 section: process
 ---
 
-## Odoo-Lizenz-Angebot erstellen
-
-Kontakt mit Odoo-Partner.
+## Odoo-Lizenz-Angebot erstellen lassen
 
 Arbeitsschritte:
 
@@ -18,9 +16,7 @@ Arbeitsschritte:
   - Anzahl Benutzer
 - Angebot von [[Odoo S.A.]] erstellen lassen
 
-## Mint System Angebot erstellen
-
-Mit dem Odoo Verkäufe-App ein Angebot erstellen.
+## Implmentations-Angebot erstellen
 
 Arbeitsschritte:
 
@@ -28,8 +24,8 @@ Arbeitsschritte:
 - Neues Angebot erstellen
 - Kunde mit MwSt. eintragen
 - Angebotsvorlage wählen
-- Interne Referenz bestimmen
-- Ablaufdatum 1 Monat
+- Interne Referenz "Implementation" festlegen
+- Ablaufdatum 1 Monat setzen
 - Speichern, damit die Auftragspositionen erstellt werden
 - Aufwandschätzungen pflegen, sofern vorhanden gemäss Konzept
 - Positionen und Beschreibung anpassen wo nötig

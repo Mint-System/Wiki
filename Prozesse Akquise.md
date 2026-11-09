@@ -20,8 +20,9 @@ Dokumentation der Akquise Prozesse.
 
 ## Angebot
 
-- [[Prozesse Akquise - Angebot erstellen]]
+- [[Prozesse Akquise - Angebot Implementation erstellen]]
 - [[Prozesse Akquise - Konzept erstellen]]
+- [[Prozesse Akquise - Angebot Support erstellen]]
 
 ## Kundenpflege
 
