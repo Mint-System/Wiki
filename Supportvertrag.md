@@ -5,7 +5,7 @@ kind: explain
 
 Revision: 2026-11-09
 
-Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt bei Fragen und Problemen zu Odoo. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Odoo Expertenwissen.
+> Mit dem Mint System Supportvertrag erhalten Sie einen zuverlässigen Kontakt für Fragen und Probleme zu einer Dienstleistung. Wir garantieren Ihnen unsere Verfügbarkeit und Zugang zu Expertenwissen.
 
 | Leistung                                                 | Basis  |    Plus    |    Pro    |
 | -------------------------------------------------------- |:------:|:----------:|:---------:|
@@ -67,3 +67,10 @@ Es gelten diese allgemeinen Geschäftsbedingungen:
 - Die Vertragslaufzeit gilt für ein Kalenderjahr.
 - Falls der Supportvertrag nicht bis 1 Monat vor Ablauf gekündigt wird, verlängert er sich jeweils um ein Jahr.
 - Das monatliche Guthaben für Supportstunden kann nicht kumuliert werden.
+
+## FAQ
+
+> Wann macht ein Supportvertrag sinn?
+
+Sobald das Odoo-Projekt von der Implementierungs-Phase in die Betriebs-Phase geht, braucht es es eine neue Bais für die Zusammenarbeit. Die einfachste Option ist der [[Supportvertrag#Plus]].
+
