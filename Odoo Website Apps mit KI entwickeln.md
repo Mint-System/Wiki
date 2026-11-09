@@ -34,15 +34,13 @@ Für die hier genannten Punkte gibt es in der Softwareentwicklung bereits Prozes
 
 ## Einzelkämpfer oder Team?
 
-Bevor wir einen besseren Ansatz präsentieren, müssen wir aber noch einen wichtige Aussage klären: KI macht die Prozesse effizienter als Einzelkämpfer, aber nicht als Team.
+Der Einsatz von KI in Organisation führt oft zu einer Verlagerung der Kosten. Ein Einzelner kann viel neue Inhalte (Code, Bilder, Dokumente, Texte, ...) generieren, aber nur wenige können das konsumieren (Lesen, Prüfen, Validieren, ...). Diese Diskrepanz gab es schon immer, verstärkt sich jedoch mit KI ungemein.
 
-Wir begegenen nur wenigen Beispielen wo der Einsatz von KI die Abläufe in einem Team oder Organisation effizienter gemacht. Oft sind jene, die von der KI schwärmen Einzelkämpfer.
-
-Der Einsatz von KI in Organisation führt oft zu einer Verlagerung der Kosten. Ein Einzelner kann viel neue Inhalte (Code, Bilder, Dokumente, Texte, ...) generieren, aber nur wenige können das konsumieren (Lesen, Prüfen, Validieren, ...). Diese Diskrepanz gab es schon immer, verstärkt sich jedoch mit Ki ungemein.
+Oft sind jene, die von der KI schwärmen Einzelkämpfer. Sie tragen ausschliesslich Eigenverantwortung. In bestimmten Organisation mag das funktionieren, in den meisten aber nicht. Gerade wenn man im Team arbeitet, muss sichergestellt, dass der Effizienzgewinn durch KI nicht auf der Strecke bleibt.
 
 ## Odoo Website Apps
 
-Nun Zurück zu unserem Szenario. Wie gesagt haben wir paar offene Punkte (Reproduzierbarkeit, Integrität, Verantwortung, Beratung) und müssen klären wie das besser geht.
+Nun Zurück zu unserem Szenario. Wie gesagt haben wir paar offene Punkte (Reproduzierbarkeit, Upgrade-fähig, Verantwortung, Recherche) und müssen klären wie das besser geht.
 
 Dass man selbständig Odoo nach seinen Bedürfnissen anpassen möchte, finden wir total legitim. Damit die Verfügbarkeit des System nicht gefährdet wird, lohnt sich ein systematisches Vorgehen.
 
@@ -50,11 +48,11 @@ Dass man selbständig Odoo nach seinen Bedürfnissen anpassen möchte, finden wi
 
 Wir zeigen den Lösungsansatz anhand folgenden Beispiel: Wir erhalten von Lieferanten jeden Monat eine Preisliste und möchten diese in Odoo importieren. Irgendwie müssen die bestehende und neue Produkte erkannt und mit den Preisen der Liste verbunden werden. Mit Excel und Formeln wäre das irgendwie möglich.
 
-### 1. Recherche
+#### Recherchieren
 
 Als erstes empfehl wir eine Recherche. Es kann gut sein, dass das Problem bereits in der Odoo Gemeinschaft gelöst wurde. Auch hier können KI-Agenten helfen. Instruiere Sie diese eine Websuche zu machen.
 
-### 2. Spezifikation
+#### Spezifizieren
 
 Wir haben keine existierende Lösung für unser Problem gefunden und möchten eine Anpassung an Odoo vornehmen.
 
@@ -65,12 +63,11 @@ In unseren KI-gestützen Entwicklungsprozessen starten wir immer mit einer Promp
 ```
 
 
-### 3. Implementation
+#### Implementieren
 
 https://github.com/Mint-System/Demo-Odoo-Website-App
 
-### 4. Review
-
+#### Prüfen
 
 
 ### Demo
