@@ -46,15 +46,15 @@ Nun Zurück zu unserem Szenario. Wie gesagt haben wir paar offene Punkte (Reprod
 
 Dass man selbständig Odoo nach seinen Bedürfnissen anpassen möchte, finden wir total legitim. Damit die Verfügbarkeit des System nicht gefährdet wird, lohnt sich ein systematisches Vorgehen.
 
-### Problemstellung
+### Beispiel
 
 Wir zeigen den Lösungsansatz anhand folgenden Beispiel: Wir erhalten von Lieferanten jeden Monat eine Preisliste und möchten diese in Odoo importieren. Irgendwie müssen die bestehende und neue Produkte erkannt und mit den Preisen der Liste verbunden werden. Mit Excel und Formeln wäre das irgendwie möglich.
 
-### Recherche
+### 1. Recherche
 
-Als erstes machen wir eine Recherche. Es kann gut sein, dass das Problem bereits in der Odoo Gemeinschaft gelöst wurde. Auch hier können KI-Agenten helfen. Instruiere Sie eine Websuche zu machen.
+Als erstes empfehl wir eine Recherche. Es kann gut sein, dass das Problem bereits in der Odoo Gemeinschaft gelöst wurde. Auch hier können KI-Agenten helfen. Instruiere Sie diese eine Websuche zu machen.
 
-### Spezifikation
+### 2. Spezifikation
 
 Wir haben keine existierende Lösung für unser Problem gefunden und möchten eine Anpassung an Odoo vornehmen.
 
@@ -65,8 +65,13 @@ In unseren KI-gestützen Entwicklungsprozessen starten wir immer mit einer Promp
 ```
 
 
-### Coding
+### 3. Implementation
 
 https://github.com/Mint-System/Demo-Odoo-Website-App
 
+### 4. Review
+
+
+
 ### Demo
+
