@@ -5,32 +5,32 @@ draft: true
 title:
 ---
 
-> Wie sie Odoo mit eigenen Apps und der Unterstützung von KI erweitern können.
+> Wie sie für Odoo eigene Apps mit Hilfe einer KI entwickeln können.
 
 Wir und unsere Kunden beschäftigen sich intensiv mit KI-Agenten (LLM-Loops). Wir sehen und erleben wie zeitaufwändige Arbeiten mühelos automatisiert werden. Odoo-Kunden lassen das System von KI-Agenten konfigurieren und erweitern es mit neue Funktionen.
 
 Dass dies unsere bestehenden Implementation-Prozesse auf die Probe stellt muss hier nicht erklärt werden. Wir sehen viele Vorteile in der Arbeit mit KI, aber auch sog. Regressionen. Also Probleme, die gelöst sind, erscheinen wieder in neuer Formen.
 
-KI verändert die Arbeitsweise auf mehreren Ebenen. Organisatorisch, Operativ und Technisch wird gerade einiges in Frage gestellt. Bei Mint System versuchen wir nicht nur Schritt zu halten, sondern wollen auch verstehen wie diese Werkezeuge (Ja es sind immer noch Werkzeuge) konstruriert sind.
+KI verändert die Arbeitsweise auf mehreren Ebenen. Organisatorisch, Operativ und Technisch wird gerade einiges auf den Kopf gestellt. Bei Mint System versuchen wir nicht nur Schritt zu halten, sondern wollen auch verstehen wie diese Werkzeuge (Ja es sind immer noch Werkzeuge) funktionieren und wie wir sie gestalten können.
 
 ## Neue Entwicklung?
 
-Ein Szenario mit dem wir jetzt mehrmals konfrontiert waren ist das folgende:
+Eine Situation mit dem wir jetzt mehrmals konfrontiert waren ist die folgende:
 
 - Odoo-Kunde vermisst eine Funktionalität in Odoo
-- Der Kunde schildert dies einem KI-Agenten
+- Der Kunde schildert das Problem einem KI-Agenten
 - Der KI-Agent entwickelt eine Lösung und fragt nach den Zugangsdaten des Kunden
 - Der Kunde stellt diese zur Verfügung und er Agent installiert die Lösung auf der Odoo-Umgebung
-- Der Kunde validiert die Lösung
+- Der Kunde validiert die Lösung?
 
-Die hier beschriebene Lösung kann eine Anpassung einem Bericht sein oder eine neues Modul. Nun bleiben bei diesem Vorgehen einige Punkte unkgeklärt:
+Die hier beschriebene Lösung kann eine Anpassung an einem Bericht oder eine neues Odoo Modul sein. Nun bleiben bei diesem Vorgehen einige Punkte unkgeklärt:
 
-- Reproduzierbarkeit: Wo wird der Quellcode der Anpassung gespeichert?
-- Integrität: Ist sichergstellt, dass die Anpassung ungewollte Nebenwirkuingen hat?
-- Verantwortung: Wer gibt Antwort, wenn die Lösung nicht korrekt funktioniert?
-- Beratung: Ist das die beste Lösung?
+- **Reproduzierbarkeit**: Wo wird der Quellcode der Anpassung gespeichert?
+- **Upgrade-fähig**: Wir wird sichergestellt, dass die Lösung nach einem Odoo Upgrade funktioniert?
+- **Verantwortung**: Wer gibt Antwort, wenn die Lösung nicht korrekt funktioniert?
+- **Recherche**: Ist das die beste Lösung? Kann man das Problem mit Bord-Mittel lösen?
 
-Für die genannten Punkte gibt es in der Softwareentwicklung bereits Lösungen und Best Practices.
+Für die hier genannten Punkte gibt es in der Softwareentwicklung bereits Prozesse und Best Practices.
 
 ## Einzelkämpfer oder Team?
 
