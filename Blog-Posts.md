@@ -6,16 +6,13 @@ draft: false
 
 Hier entstehen neue Blog-Posts:
 
-- [[KI-Arbeitsumgebungen für Mitarbeitende]]
+- [[Unser Agenten-Setup und LLM-Workflow]]
+- [[Odoo Website Apps mit KI entwickeln]]
 - [[Odoo und Data Science]]
 - [[So gelingt das Odoo Upgrade]]
 - [[Mythen über Open Source]]
 - [[Zahlen zum Unternehmen]]
-- [[Wir sind Odoo Silberpartner]]
-- [[Odoo ist kein ERP-System]]
 - [[Odoo Monitoring mit Prometheus und Grafana]]
-- [[Bauteile mit Odoo zertifizieren]]
-- [[Aufbau einer Entwicklungsumgebung für Odoo]]
 - [[Lizenzmanagement mit Odoo]]
 - [[URec-Team]]
 - [[Odoo mit ihrer Bank verbinden]]
@@ -45,4 +42,3 @@ Hier entstehen neue Blog-Posts:
 - [[Der eigene Messenger für ihre Schule]]
 - [[Odoo Customizing ohne unvorhergesehene Upgradekosten]]
 - [[Spam reduzieren mit SPF, DKIM und DMARC]]
-- [[Systemgrenzen von Odoo]]
