@@ -69,21 +69,23 @@ Den LLM-Workflow zeige ich anhand des folgenden Beispiels:
 
 > PHP2Shell war ein grosses Problem für meine WordPress-Website. Nun habe ich von Static Site Generators gehört und möchte aus meiner dynamischen Website eine statische Website machen. Ein Agent soll mich bei der Konvertierung unterstützen.
 
+### Projekt initalisieren
+
 ```bash
-[~]$ mkdir odoo-aersolution-etl
-[~]$ cd odoo-aersolution-etl
-[~/odoo-aersolution-etl]$ task init-project
+[~]$ mkdir website-to-hugo
+[~]$ cd website-to-hugo
+[~/website-to-hugo]$ task init-project
 ```
 
 Ich wähle: Python, Hugo, Prompt LLM, Jupyter, 
 
 ```bash
-[main][~/odoo-aersolution-etl]$ ls -f
+[main][~/website-to-hugo]$ ls -f
 task  .gitignore  LICENSE  .env.template  .  CHANGELOG.md  ..  AGENTS.md  tmp  README.md  .git
 ```
 
 ```bash
-[main][~/odoo-aersolution-etl]$ task commit-with-llm
+[main][~/website-to-hugo]$ task commit-with-llm
 Write prompt to tmp/llm_prompt.
 fatal: your current branch 'main' does not have any commits yet
 Send prompt with staged git diff and wait for the response of the Qwen/Qwen3-Embedding-8B LLM.
@@ -111,8 +113,10 @@ Do you want to commit (Y) or edit (e) before commit the message? (Y/e/n):
  create mode 100755 task
 ```
 
+### Prompt-Datei erstellen
+
 ```bash
-[main][~/odoo-aersolution-etl]$ task init-prompt-log
+[main][~/website-to-hugo]$ task init-prompt-log
 Warning: could not push prompt-log to remote.
 Preparing worktree (checking out 'prompt-log')
 HEAD is now at 9983576 init: prompt-log branch
@@ -120,18 +124,46 @@ Created prompt-log worktree at tmp/prompt-log.
 ```
 
 ```bash
-[main][~/odoo-aersolution-etl]$ task create-prompt "Convert website to Hugo static site"
+[main][~/website-to-hugo]$ task create-prompt "Convert website to Hugo static site"
 ```
 
 ```markdown
 
 ```
 
+### Prompt ausführen
 
 ```bash
-[main][~/odoo-aersolution-etl]$ task prompt-with-pi -m
+[main][~/website-to-hugo]$ task prompt-with-pi -m
 ```
 
+```text
+...
+ $ cd /home/janikvonrotz/website-to-hugo && for p in / /de_CH/
+ /aersolution-story /blog /contactpersons /contactus-1 /cookie-policy /engineering
+ /impressum /jobs /production /qualification /quality /shop /shop/cart; do
+ code=$(curl -sS -o /dev/null -w '%{http_code} %{size_download}' -L
+ "https://www.example.com$p" --max-time 25); echo "$p -> $code"; done (timeout
+ 180s)
+
+ ... (1 earlier lines, ctrl+o to expand)
+ / -> 000 0
+ /de_CH/ -> 200 46210
+ /aersolution-story -> 200 58379
+ curl: (28) Operation timed out after 25001 milliseconds with 0 bytes received
+ /blog -> 000 0
+
+ Elapsed 1m 14s
+
+
+── ⠇ Working ────────────────────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────────────────────────────────
+~/website-to-hugo (main)
+↑12k ↓1.4k R61k CH97.8% 10.7%/128k                 (mistral) deepseek-v4-1-flash-1017
 ```
 
-```
+![[pi context usage.png]]
+
+### Ergebnis prüfen
+
