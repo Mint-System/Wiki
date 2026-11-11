@@ -101,7 +101,7 @@ Angeommen wir sind zufrieden mit dem Ergebnis, dann einchecken wir den Code in e
 
 ### Demo
 
-Damit es nicht nur bei Text bleibt, hier ein paar Screenshots des Results aus unserem Beispiel.
+Damit es nicht nur bei Text bleibt, hier ein paar Screenshots des Resultats aus unserem Beispiel.
 
 Auf einer neuen Odoo-Umgebung kann die Website-App mit einem Befehl bereitgestellt werden: 
 
