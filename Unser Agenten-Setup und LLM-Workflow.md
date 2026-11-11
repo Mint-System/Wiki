@@ -8,7 +8,9 @@ draft: true
 
 In diesem Beitrag möchten wir unseren LLM-Workflow und unser Agenten-Setup präsentieren.
 
-## Claude?
+Bestimmte Wörter wie Inference, Provider, Harness, Deployment oder Models lassen sich (noch) nicht sinnvoll ist Deutsche übersetzen. Um präzise zu bleiben verwenden wir die Englischen Begriffe.
+
+## Claude die Antithese
 
 Wir nutzen bewusst keine Produkte und Dienste von Anthropic und OpenAI. Einerseits weil es proprietäre Lösungen sind und andererseits weil wir diese Technologie nicht einfach nutzen wollen, sondern auch verstehen wollen.
 
@@ -69,7 +71,9 @@ Den LLM-Workflow zeige ich anhand des folgenden Beispiels:
 
 > PHP2Shell war ein grosses Problem für meine WordPress-Website. Nun habe ich von Static Site Generators gehört und möchte aus meiner dynamischen Website eine statische Website machen. Ein Agent soll mich bei der Konvertierung unterstützen.
 
-### Projekt initalisieren
+### Projekt initialisieren
+
+Ich öffne die Kommandozeile, erstelle einen Projekt-Ordner und initialisiere das Taskfile-Projekt:
 
 ```bash
 [~]$ mkdir website-to-hugo
@@ -77,12 +81,14 @@ Den LLM-Workflow zeige ich anhand des folgenden Beispiels:
 [~/website-to-hugo]$ task init-project
 ```
 
-Ich wähle: Python, Hugo, Prompt LLM, Jupyter, 
+Ich wählte die folgenden Profile Python, Hugo, Prompt LLM und Jupyter für das Projekt. Der Befehl erstellt diese Dateien:
 
 ```bash
 [main][~/website-to-hugo]$ ls -f
 task  .gitignore  LICENSE  .env.template  .  CHANGELOG.md  ..  AGENTS.md  tmp  README.md  .git
 ```
+
+Damit ich mit dem prompten loslegen kann, committe ich neuen Dateien.
 
 ```bash
 [main][~/website-to-hugo]$ task commit-with-llm
@@ -113,7 +119,11 @@ Do you want to commit (Y) or edit (e) before commit the message? (Y/e/n):
  create mode 100755 task
 ```
 
+Wie man sieht wird die Commit-Message generiert. Für diesen Vorgang nutzen wir das llm-cli: <https://codeberg.org/Mint-System/taskfile.build/src/branch/main/bin/commit-with-llm>
+
 ### Prompt-Datei erstellen
+
+Nun sind wir bereit um das Prompt-Log und die Prompt-Datei zu erstellen. Im Prompt-Log werden alle Ausführungen von einem LLM registriert und dokumentiert.
 
 ```bash
 [main][~/website-to-hugo]$ task init-prompt-log
@@ -123,24 +133,70 @@ HEAD is now at 9983576 init: prompt-log branch
 Created prompt-log worktree at tmp/prompt-log.
 ```
 
+Mit diesem Befehl erstellen wir die prompt.md Datei:
+
 ```bash
 [main][~/website-to-hugo]$ task create-prompt "Convert website to Hugo static site"
 ```
 
-```markdown
+Ich öffne die Datei und ersetze:
 
+```markdown
+@Author Provide instructions with clear objective here.
 ```
 
+mit meinen Instruktionen:
+
+```markdown
+I have a website <https://www.example.com/> and would like to convert it to a static site using Hugo.
+
+### Download site
+
+First, I want you to download the site. Create a `proc/download-website.ipynb` Jupyter notebook to this.
+
+The goals is that you have the html files in the `tmp` folder.
+
+Start by analysing the navigation and page structure. Then proceed by download the pages.
+
+### Setup Hugo
+
+Use `install-hugo` and use the `hugo` cli to setup a new site in this folder.
+
+### Extract content
+
+Next I want you to extract the website's content. Create the site structure and store content as yaml content.
+
+Remove any styling from the content. Store images in a static folder.
+
+Ignore pages with dynamic elements like a contact form or shop checkout process.
+
+### Create a theme
+
+Try to replicate the styling of the website by creating a Hugo theme.
+
+### Build the site
+
+For development use `dev-hugo-site`. For a production build run `build-hugo-site`.
+```
+
+In der prompt.md sind Anweisungen das README.md und das AGENTS.md zu lesen.
+
 ### Prompt ausführen
+
+Nun der spannende Teil. Mit diesem Befehl wird das Pi harness gestartet und eine Auswahl von Providers und Models präsentiert:
 
 ```bash
 [main][~/website-to-hugo]$ task prompt-with-pi -m
 ```
 
+Ich wähle Mistral und DeepSeek-V4-Flash und Pi legt los.
+
+Pi zeigt alle Aktionen, die ausgeführt werden. Hier ein Ausschnitt:
+
 ```text
 ...
  $ cd /home/janikvonrotz/website-to-hugo && for p in / /de_CH/
- /aersolution-story /blog /contactpersons /contactus-1 /cookie-policy /engineering
+ /example-story /blog /contactpersons /contactus-1 /cookie-policy /engineering
  /impressum /jobs /production /qualification /quality /shop /shop/cart; do
  code=$(curl -sS -o /dev/null -w '%{http_code} %{size_download}' -L
  "https://www.example.com$p" --max-time 25); echo "$p -> $code"; done (timeout
@@ -149,7 +205,7 @@ Created prompt-log worktree at tmp/prompt-log.
  ... (1 earlier lines, ctrl+o to expand)
  / -> 000 0
  /de_CH/ -> 200 46210
- /aersolution-story -> 200 58379
+ /example-story -> 200 58379
  curl: (28) Operation timed out after 25001 milliseconds with 0 bytes received
  /blog -> 000 0
 
@@ -162,6 +218,8 @@ Created prompt-log worktree at tmp/prompt-log.
 ~/website-to-hugo (main)
 ↑12k ↓1.4k R61k CH97.8% 10.7%/128k                 (mistral) deepseek-v4-1-flash-1017
 ```
+
+Pi kann mit Plugins erweitern werden. Ein Plugin kann die Nutzung des Kontext-Fenster visualisieren:
 
 ![[pi context usage.png]]
 
