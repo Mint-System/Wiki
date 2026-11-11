@@ -126,3 +126,7 @@ Und hier einzelnen Arbeitsschritte vom Upload bis zur Zusammenfassung:
 ![[pricelist-importer_03-progress.png]]
 
 ![[pricelist-importer_04-summary.png]]
+
+---
+
+Letzte Bemerkung: Kaum zu glauben, aber dieser Blog-Post wurde Hand geschrieben! :)

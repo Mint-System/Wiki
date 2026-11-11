@@ -283,4 +283,4 @@ Der ganze Einsatz des LLMs und dessen Ergebnis ist nachvollziehbar dokumentiert.
 
 ---
 
-Letzte Bemerkung: Dieser Blog-Post wurde Hand geschrieben. Ich weiss mittlerweile kaum zu glauben!
+Letzte Bemerkung: Kaum zu glauben, aber dieser Blog-Post wurde Hand geschrieben! :)
