@@ -251,7 +251,29 @@ Der Agent erstellt sich eine Todo-Liste und arbeitet bis er das Ziel erreicht ha
 ↑42k ↓14k R1.7M CH99.3% 42.3%/128k                (mistral) deepseek-v4-1-flash-1017
 ```
 
-Mit der Dauer der Ausführung füllt sich das Kontext-Fenster. Was genau darin steckt kann mit mit einer Pi-Erweiterung analysieren:
+Mit der Dauer der Ausführung füllt sich das Kontext-Fenster. 
+
+```text
+
+ Response was truncated before completion.
+
+● Todos (2/7)
+├─ ✓ Analyze site navigation and page structure
+├─ ✓ Create proc/download-website.ipynb
+├─ ◐ Setup Hugo site (setting up Hugo site)
+├─ ○ Extract content to YAML content files
+├─ ○ Create Hugo theme replicating styling
+├─ ○ Build and verify site
+└─ ○ Update prompt.md worklog and docs
+
+── ⠴ Compacting context... (escape to cancel) ──────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────
+~/odoo-aersolution-etl (main)
+↑90k ↓53k R11M CH99.1% 97.2%/128k                 (mistral) deepseek-v4-1-flash-1017
+```
+
+Was genau darin steckt kann mit mit einer Pi-Erweiterung analysieren:
 
 ![[pi context usage.png]]
 
