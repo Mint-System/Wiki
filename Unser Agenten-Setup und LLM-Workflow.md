@@ -221,11 +221,41 @@ Pi zeigt alle Aktionen, die ausgeführt werden. Hier ein Ausschnitt:
 
 Je nach Aufgaben kann die Ausführung von wenigen Sekunden bis Stunden führen. Wichtig ist, dass sich das Kontext-Fenster nicht überfüllt.
 
-Mit Pi und mithilfe einer Erweiterung lässt sich das Kontext-Fenster visualisieren:
+Der Agent erstellt sich eine Todo-Liste und arbeitet bis er das Ziel erreicht hat. Während der Ausführung kann man Steering-Prompts eingeben. Diese werden bei der nächsten Gelegenheit aufgenommen und verarbeitet.
+
+```text
+...
+ $ cd /home/janikvonrotz/website-to-hugo && PROJECT_DIR=$PWD timeout 1800
+ ./task run-jupyter-notebook proc/download-website.ipynb 2>&1 | tail -20; echo
+ "EXIT=$?"; ls tmp/website | wc -l; ls tmp/website/assets | wc -l (timeout 1900s)
+
+ Elapsed 26m 2s
+
+
+ Steering: This takes very long. Note this in the noteook. Do not rerun the note...
+ ↳ Alt+Up to edit all queued messages
+
+● Todos (1/7)
+├─ ✓ Analyze site navigation and page structure
+├─ ◐ Create proc/download-website.ipynb (writing download notebook)
+├─ ○ Setup Hugo site
+├─ ○ Extract content to YAML content files
+├─ ○ Create Hugo theme replicating styling
+├─ ○ Build and verify site
+└─ ○ Update prompt.md worklog and docs
+
+── ⠧ Working ───────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────
+~/website-to-hugo (main)
+↑42k ↓14k R1.7M CH99.3% 42.3%/128k                (mistral) deepseek-v4-1-flash-1017
+```
+
+Mit der Dauer der Ausführung füllt sich das Kontext-Fenster. Was genau darin steckt kann mit mit einer Pi-Erweiterung analysieren:
 
 ![[pi context usage.png]]
 
-Irgendwann hat der Agent sein Ziel erreicht und bittet um eine Review. Dass er nach einer Review fragen muss, ist explizit im prompt.md festgehalten. 
+Hat der Agent sein Ziel erreicht und bittet er um eine Review. Dass dieser nach einer Review fragen muss, ist explizit im prompt.md festgehalten. 
 
 ### Ergebnis prüfen
 
