@@ -23,7 +23,7 @@ Eine Situation mit dem wir jetzt mehrmals konfrontiert waren ist die folgende:
 - Der Kunde stellt diese zur Verfügung und er Agent installiert die Lösung auf der Odoo-Umgebung
 - Der Kunde validiert die Lösung?
 
-Die hier beschriebene Lösung kann eine Anpassung an einem Bericht oder eine neues Odoo Modul sein. Nun bleiben bei diesem Vorgehen einige Punkte unkgeklärt:
+Die hier beschriebene Lösung kann eine Anpassung an einem Bericht oder eine neues Odoo Modul sein. Nun bleiben bei diesem Vorgehen einige Punkte ungeklärt:
 
 - **Reproduzierbarkeit**: Wo wird der Quellcode der Anpassung gespeichert?
 - **Upgrade-fähig**: Wir wird sichergestellt, dass die Lösung nach einem Odoo Upgrade funktioniert?
@@ -50,24 +50,80 @@ Wir zeigen den Lösungsansatz anhand folgenden Beispiel: Wir erhalten von Liefer
 
 #### Recherchieren
 
-Als erstes empfehl wir eine Recherche. Es kann gut sein, dass das Problem bereits in der Odoo Gemeinschaft gelöst wurde. Auch hier können KI-Agenten helfen. Instruiere Sie diese eine Websuche zu machen.
+Als erstes empfehlen wir eine Recherche. Es kann gut sein, dass das Problem bereits in der Odoo Gemeinschaft gelöst wurde. Auch hier können KI-Agenten helfen. Instruiere Sie diese eine Websuche zu machen.
+
+Oder hacken Sie bei ihrem Odoo-Partner nach. Diese sollte eine Einschätzung geben können und nutzt ja die Möglichkeiten von LLMs selbst auch.
 
 #### Spezifizieren
 
 Wir haben keine existierende Lösung für unser Problem gefunden und möchten eine Anpassung an Odoo vornehmen.
 
-In unseren KI-gestützen Entwicklungsprozessen starten wir immer mit einer Prompt-Datei. In dieser Datei beschreiben wir was das Problem ist und wie Lösung aussehen soll. Ein Beispiel:
+In unseren KI-gestützten Entwicklungsprozessen starten wir immer mit einer Prompt-Datei. In dieser Datei beschreiben wir was das Problem ist und wie Lösung aussehen soll. Ein Beispiel:
 
-```markdown
+````markdown
+Every month I receive a pricelist from a Vendor and would like to import it into Odoo.
 
+Please create an Odoo Website App (HTML/CSS/JavaScript) that helps importing the pricelist into Odoo.
+
+### Access 
+
+My Odoo instance is running at:
+
+Url: http://localhost:8069  
+Database: 19.0  
+Username: admin  
+Password: admin  
+
+I have installed the `website` module.
+
+### Pricelist App
+
+Create an HTML/CSS/JavaScript-App and create a script to embed it on the Odoo website.
+
+The app allows me to upload a pricelist in the format of `input/vendor_pricelist.csv`. Here is an example:
+
+```csv
+sku,product,price,currency
+P001,Table,100,CHF
+P002,Chair,50,CHF
+P003,Desk,75,CHF
 ```
+
+Create an Odoo website page "Pricelist Importer" and embed the Code on this page.
+
+After the import the app must show a summary.
+````
 
 #### Implementieren
 
-https://github.com/Mint-System/Demo-Odoo-Website-App
+Nun haben wir eine klare Vorstellung was die neue App leisten soll. Mithilfe eines Agenten lassen wir die Spezifikation umsetzen.
 
 #### Prüfen
 
+Sobald der Agent sein Ziel erreicht hat, ist es wichtig das Ergebnis zu prüfen. Man sollte dem Resultat nicht blind vertrauen. Eine Prüfung des generierten Codes, auch wenn man diesen einfach überfliegt, ist schon viel wert. Eine Schlüsselfrage, die man sich hier stellen kann, ist: Habe ich eine Antwort, wenn jemand fragt, was die App macht?
+
+Angeommen wir sind zufrieden mit dem Ergebnis, dann einchecken wir den Code in ein Git-Repository ein.. Hier das Ergebnis des vorhergehenden Beispiels: <https://github.com/Mint-System/Demo-Odoo-Website-App>
 
 ### Demo
 
+Damit es nicht nur bei Text bleibt, hier ein paar Screenshots des Results aus unserem Beispiel.
+
+Auf einer neuen Odoo-Umgebung kann die Website-App mit einem Befehl bereitgestellt werden: 
+
+```bash
+[main][~/demo-odoo-website-apps]$ t publish-pricelist-importer
+Publishing pricelist importer page to Odoo website ...
+Authenticated as user 2 on http://localhost:8069 (db 19.0)
+Created page /pricelist-importer (page #9, view #2324).
+Open http://localhost:8069/pricelist-importer
+```
+
+Und hier einzelnen Arbeitsschritte vom Upload bis zur Zusammenfassung:
+
+![[pricelist-importer_01-upload.png]]
+
+![[pricelist-importer_02-preview.png]]
+
+![[pricelist-importer_03-progress.png]]
+
+![[pricelist-importer_04-summary.png]]
