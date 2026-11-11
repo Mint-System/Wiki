@@ -31,21 +31,17 @@ Die hier beschriebene Lösung kann eine Anpassung an einem Bericht oder eine neu
 
 Für die hier genannten Punkte gibt es in der Softwareentwicklung bereits Prozesse und Best Practices.
 
-## Einzelkämpfer oder Team?
-
-Der Einsatz von KI in Organisation führt oft zu einer Verlagerung der Kosten. Ein Einzelner kann viel neue Inhalte (Code, Bilder, Dokumente, Texte, ...) generieren, aber nur wenige können das konsumieren (Lesen, Prüfen, Validieren, ...). Diese Diskrepanz gab es schon immer, verstärkt sich jedoch mit KI ungemein.
-
-Oft sind jene, die von der KI schwärmen Einzelkämpfer. Sie tragen ausschliesslich Eigenverantwortung. In bestimmten Organisation mag das funktionieren, in den meisten aber nicht. Gerade wenn man im Team arbeitet, muss sichergestellt, dass der Effizienzgewinn durch KI nicht auf der Strecke bleibt.
-
 ## Odoo Website Apps
 
-Nun Zurück zu unserem Szenario. Wie gesagt haben wir paar offene Punkte (Reproduzierbarkeit, Upgrade-fähig, Verantwortung, Recherche) und müssen klären wie das besser geht.
+Wie gesagt haben wir paar offene Punkte (Reproduzierbarkeit, Upgrade-fähig, Verantwortung, Recherche) und müssen klären wie das besser geht.
 
-Dass man selbständig Odoo nach seinen Bedürfnissen anpassen möchte, finden wir total legitim. Damit die Verfügbarkeit des System nicht gefährdet wird, lohnt sich ein systematisches Vorgehen.
+Dass man selbständig Odoo nach seinen Bedürfnissen anpassen möchte, ist legitim. Damit die Verfügbarkeit und Integrität des gesamten System nicht gefährdet wird, lohnt sich jedoch ein systematisches Vorgehen.
 
 ### Beispiel
 
-Wir zeigen den Lösungsansatz anhand folgenden Beispiel: Wir erhalten von Lieferanten jeden Monat eine Preisliste und möchten diese in Odoo importieren. Irgendwie müssen die bestehende und neue Produkte erkannt und mit den Preisen der Liste verbunden werden. Mit Excel und Formeln wäre das irgendwie möglich.
+Wir zeigen den Lösungsansatz anhand folgenden Beispiel:
+
+> Wir erhalten von Lieferanten jeden Monat eine Preisliste und möchten diese in Odoo importieren. Irgendwie müssen die bestehende und neue Produkte erkannt und mit den Preisen der Liste verbunden werden. Mit Excel und Formeln wäre das irgendwie möglich.
 
 #### Recherchieren
 
