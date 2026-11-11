@@ -113,7 +113,7 @@ Created page /pricelist-importer (page #9, view #2324).
 Open http://localhost:8069/pricelist-importer
 ```
 
-Und hier einzelnen Arbeitsschritte vom Upload bis zur Zusammenfassung:
+Und hier die einzelnen Arbeitsschritte vom Upload bis zur Zusammenfassung:
 
 ![[pricelist-importer_01-upload.png]]
 
