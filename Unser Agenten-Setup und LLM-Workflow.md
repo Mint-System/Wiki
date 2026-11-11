@@ -158,6 +158,8 @@ The goals is that you have the html files in the `tmp` folder.
 
 Start by analysing the navigation and page structure. Then proceed by download the pages.
 
+Also note that the website is translated into English (en) and German (de). Download content in both languages.
+
 ### Setup Hugo
 
 Use `install-hugo` and use the `hugo` cli to setup a new site in this folder.
@@ -269,11 +271,11 @@ Mit der Dauer der Ausführung füllt sich das Kontext-Fenster.
 ── ⠴ Compacting context... (escape to cancel) ──────────────────────────────────────
 
 ────────────────────────────────────────────────────────────────────────────────────
-~/odoo-aersolution-etl (main)
+~/website-to-hugo (main)
 ↑90k ↓53k R11M CH99.1% 97.2%/128k                 (mistral) deepseek-v4-1-flash-1017
 ```
 
-Was genau darin steckt kann mit mit einer Pi-Erweiterung analysieren:
+Was genau darin steckt kann mit mit einer Pi-Erweiterung analysiert werden:
 
 ![[pi context usage.png]]
 
