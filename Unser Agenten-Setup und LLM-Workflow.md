@@ -273,7 +273,6 @@ Nun comitten wir den Code:
 
 ```
 
-
 Und registrieren das promptl.md im Prompt-Log:
 
 ```bash
