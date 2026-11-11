@@ -36,5 +36,6 @@ In diesem Dokument werden die internen Prozesse der Mint System beschrieben.
 - [[Prozesse Hardware]]
 - [[Prozesse Softwareentwicklung]]
 - [[Prozesse Infrastruktur]]
+- [[Prozesse Kubernetes]]
 - [[Prozesse Sicherheit]]
 - [[Prozesse Migration]]

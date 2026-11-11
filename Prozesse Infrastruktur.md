@@ -3,7 +3,7 @@ kind: reference
 section: process
 ---
 
-Dokumentation der Infrastruktur Prozesse.
+Dokumentation der Infrastruktur-Prozesse.
 
 ## Bestellung
 

@@ -221,7 +221,7 @@ Pi zeigt alle Aktionen, die ausgeführt werden. Hier ein Ausschnitt:
 ↑12k ↓1.4k R61k CH97.8% 10.7%/128k                 (mistral) deepseek-v4-1-flash-1017
 ```
 
-Je nach Aufgaben kann die Ausführung von wenigen Sekunden bis Stunden führen. Wichtig ist, dass sich das Kontext-Fenster nicht überfüllt.
+Je nach Aufgaben kann die Ausführung von wenigen Sekunden bis Stunden führen.
 
 Der Agent erstellt sich eine Todo-Liste und arbeitet bis er das Ziel erreicht hat. Während der Ausführung kann man Steering-Prompts eingeben. Diese werden bei der nächsten Gelegenheit aufgenommen und verarbeitet.
 
@@ -253,7 +253,7 @@ Der Agent erstellt sich eine Todo-Liste und arbeitet bis er das Ziel erreicht ha
 ↑42k ↓14k R1.7M CH99.3% 42.3%/128k                (mistral) deepseek-v4-1-flash-1017
 ```
 
-Mit der Dauer der Ausführung füllt sich das Kontext-Fenster. 
+Mit der Dauer der Ausführung füllt sich das Kontext-Fenster. Wenn des Kontext-Fenster vollgelaufen ist kann es mit der Compact Aktion den bestehenden Kontext reduzieren.
 
 ```text
 
@@ -275,7 +275,7 @@ Mit der Dauer der Ausführung füllt sich das Kontext-Fenster.
 ↑90k ↓53k R11M CH99.1% 97.2%/128k                 (mistral) deepseek-v4-1-flash-1017
 ```
 
-Was genau darin steckt kann mit mit einer Pi-Erweiterung analysiert werden:
+Spannend and dieser Stelle - es gibt Pi-Erweiterungen um das Kontext-Fenster zu visualisieren und zu analyiseren:
 
 ![[pi context usage.png]]
 
@@ -283,27 +283,50 @@ Hat der Agent sein Ziel erreicht und bittet er um eine Review. Dass dieser nach 
 
 ### Ergebnis prüfen
 
-Vorher kamm der spannende Teil, jetzt kommt der wichtigste Teil: Fingerspitzengefühl
+Jetzt kommt der wichtigste Teil: Fingerspitzengefühl
 
-Das LLM ist ein Destilat des menschlichen Wissen. Beim Programmieren kann es nur Konzept anwenden, die es schon gibt. Es kann keine neuen Lösungsansätze entwickeln. Das führt dazu dass das LLM auf biegen und brechen versucht eine plausible Lösung zu erstellen. Und in vielen Fällen ist das ausreichend. Bewegt man sich aber in Domänen, die nur schlecht vom LLM-Wissen abgedeckt sind, muss man selbst nachhelfen.
+LLMs sind ein Destilat des menschlichen Wissen. Beim Programmieren kann es nur Konzept anwenden, die es bereits gibt. Es kann keine neuen Lösungsansätze entwickeln. Das führt dazu, dass das LLM auf biegen und brechen versuchen eine plausible Lösung zu erstellen. Und in vielen Fällen ist das ausreichend. Bewegt man sich aber in einer Domänen, die nur schlecht vom LLM-Wissen abgedeckt sind, muss man nachhelfen.
+
+An dieser Stelle mache ich manuelle Tests. Ich starte das Programm oder führe die neuen Funktionen aus. Alles was hilft um das Resultat zu plausibilieren. Möchte man ein neues prompt.md erstllen oder die Prüfung überspringen, werden entsprechende Befehle blockiert:
+
+```bash
+[main][~/odoo-aersolution-etl]$ task commit-prompt
+Error: Cannot commit prompt in review state.
+```
 
 ### Ergebnis festhalten
 
-Wir sind zufrieden mit dem Ergebnis und teilen dem LLM mit, dass die Anweisungen erfüllt wurden. Im AGENTS.md sind Anweisungen enthalten, dass im prompt.md Metadaten ausfüllt werden sollen.
+Wir sind zufrieden mit dem Ergebnis und teilen dem LLM mit, dass die Aufgabe erledigt ist. Gemäss AGENTS.md fühlt der Agent im prompt.md die Metadaten ab.
 
-Nun comitten wir den Code:
-
-```bash
-
-```
-
-Und registrieren das promptl.md im Prompt-Log:
+Bevor wir das prompt.md aufzeichen committen wir den Code:
 
 ```bash
+[main][~/odoo-aersolution-etl]$ t commit-with-llm
+Write prompt to tmp/llm_prompt.
+Send prompt with staged git diff and wait for the response of the Qwen/Qwen3-Embedding-8B LLM.
+Saved response to tmp/llm_prompt_result.
+Preview of commit message:
 
+feat: migrate Odoo website to bilingual Hugo static site
+
+- Add Jupyter notebooks to download the Odoo website and extract content into Hugo bundles
+- Implement `example` Hugo theme with custom CSS and layouts for sections, blog, and jobs
+- Generate bilingual (EN/DE) content for home, services, story, team, blog, and job postings
+- Configure `hugo.toml` with menus, languages, and site parameters
+- Update documentation (README, AGENTS, CHANGELOG) and add `.gitignore` rules for Hugo
 ```
 
-Der ganze Einsatz des LLMs und dessen Ergebnis ist nachvollziehbar dokumentiert.
+Dann registrieren wir das prompt.md im Prompt-Log:
+
+```bash
+[main][~/odoo-aersolution-etl]$ task commit-prompt
+Updating existing prompt file: 2026-11-11_convert-website-to-hugo-static-site.md
+On branch prompt-log
+nothing to commit, working tree clean
+Warning: push failed.
+```
+
+Der ganze Einsatz des LLMs und dessen Ergebnis nachvollziehbar dokumentiert.
 
 ---
 
