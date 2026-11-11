@@ -4,6 +4,8 @@ kind: explain
 draft: true
 ---
 
+> LLMs und Ageneten effizient nutzen.
+
 In diesem Beitrag möchten wir unseren LLM-Workflow und unser Agenten-Setup präsentieren.
 
 ## Claude?
@@ -50,9 +52,10 @@ Der Vorteil des Taskfile ist, dass sich nur Werkzeuge und Instruktionen über Pr
 - Dokumentation -> Zensical
 - Website -> Hugo
 - Datenverarbeitung -> Jupyter
-- GitOps -> Kubernetes
+- Deployment -> Kubernetes
 - Container -> Docker
 - Scripting -> Python
+- Verschlüsselung -> SOPS
 
 Ein wichtiges Werkezeug sind die Jupyter-Notebooks. Sobald wir Daten verarbeiten, erstellen wir bzw. lassen wir Jupyter-Notebooks generieren. Damit lassen sich komplexe Datenmigrationen wie "Exportiere alle Daten aus Bexio und importieren Sie nach Odoo" in wenigen Stunden erledigen.
 
@@ -66,11 +69,69 @@ Den LLM-Workflow zeige ich anhand des folgenden Beispiels:
 
 > PHP2Shell war ein grosses Problem für meine WordPress-Website. Nun habe ich von Static Site Generators gehört und möchte aus meiner dynamischen Website eine statische Website machen. Ein Agent soll mich bei der Konvertierung unterstützen.
 
+```bash
+[~]$ mkdir odoo-aersolution-etl
+[~]$ cd odoo-aersolution-etl
+[~/odoo-aersolution-etl]$ task init-project
+```
+
+Ich wähle: Python, Hugo, Prompt LLM, Jupyter, 
+
+```bash
+[main][~/odoo-aersolution-etl]$ ls -f
+task  .gitignore  LICENSE  .env.template  .  CHANGELOG.md  ..  AGENTS.md  tmp  README.md  .git
+```
+
+```bash
+[main][~/odoo-aersolution-etl]$ task commit-with-llm
+Write prompt to tmp/llm_prompt.
+fatal: your current branch 'main' does not have any commits yet
+Send prompt with staged git diff and wait for the response of the Qwen/Qwen3-Embedding-8B LLM.
+Saved response to tmp/llm_prompt_result.
+Preview of commit message:
+
+chore: initialize project structure and documentation
+
+- Add .env.template and .gitignore
+- Create AGENTS.md with guidelines for LLM agents
+- Add CHANGELOG.md following Keep a Changelog format
+- Include GNU Affero General Public License v3.0
+- Initialize empty README.md
+- Add task script with Python, Jupyter, LLM, Prompt, and Hugo utilities
+
+Do you want to commit (Y) or edit (e) before commit the message? (Y/e/n):
+[main (root-commit) 86b5366] chore: initialize project structure and documentation
+ 7 files changed, 936 insertions(+)
+ create mode 100644 .env.template
+ create mode 100644 .gitignore
+ create mode 100644 AGENTS.md
+ create mode 100644 CHANGELOG.md
+ create mode 100644 LICENSE
+ create mode 100644 README.md
+ create mode 100755 task
+```
+
+```bash
+[main][~/odoo-aersolution-etl]$ task init-prompt-log
+Warning: could not push prompt-log to remote.
+Preparing worktree (checking out 'prompt-log')
+HEAD is now at 9983576 init: prompt-log branch
+Created prompt-log worktree at tmp/prompt-log.
+```
+
+```bash
+[main][~/odoo-aersolution-etl]$ task create-prompt "Convert website to Hugo static site"
+```
+
+```markdown
+
+```
 
 
+```bash
+[main][~/odoo-aersolution-etl]$ task prompt-with-pi -m
+```
 
+```
 
-## Neue Möglichkeiten
-
-
-
+```
