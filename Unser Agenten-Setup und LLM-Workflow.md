@@ -10,7 +10,7 @@ In diesem Beitrag möchten wir unseren LLM-Workflow und unser Agenten-Setup prä
 
 Bestimmte Wörter wie Inference, Provider, Harness, Commit, Deployment oder Models lassen sich (noch) nicht sinnvoll ist Deutsche übersetzen. Um präzise zu bleiben verwenden wir die Englischen Begriffe.
 
-## Claude die Antithese
+## Not Claude 
 
 Wir nutzen bewusst keine Produkte und Dienste von Anthropic und OpenAI. Einerseits weil es proprietäre Lösungen sind und andererseits weil wir diese Technologie nicht einfach nutzen wollen, sondern auch verstehen wollen.
 
