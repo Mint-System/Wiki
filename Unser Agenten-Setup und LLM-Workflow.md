@@ -8,7 +8,7 @@ draft: true
 
 In diesem Beitrag möchten wir unseren LLM-Workflow und unser Agenten-Setup präsentieren.
 
-Bestimmte Wörter wie Inference, Provider, Harness, Deployment oder Models lassen sich (noch) nicht sinnvoll ist Deutsche übersetzen. Um präzise zu bleiben verwenden wir die Englischen Begriffe.
+Bestimmte Wörter wie Inference, Provider, Harness, Commit, Deployment oder Models lassen sich (noch) nicht sinnvoll ist Deutsche übersetzen. Um präzise zu bleiben verwenden wir die Englischen Begriffe.
 
 ## Claude die Antithese
 
@@ -219,9 +219,36 @@ Pi zeigt alle Aktionen, die ausgeführt werden. Hier ein Ausschnitt:
 ↑12k ↓1.4k R61k CH97.8% 10.7%/128k                 (mistral) deepseek-v4-1-flash-1017
 ```
 
-Pi kann mit Plugins erweitern werden. Ein Plugin kann die Nutzung des Kontext-Fenster visualisieren:
+Je nach Aufgaben kann die Ausführung von wenigen Sekunden bis Stunden führen. Wichtig ist, dass sich das Kontext-Fenster nicht überfüllt.
+
+Mit Pi und mithilfe einer Erweiterung lässt sich das Kontext-Fenster visualisieren:
 
 ![[pi context usage.png]]
 
+Irgendwann hat der Agent sein Ziel erreicht und bittet um eine Review. Dass er nach einer Review fragen muss, ist explizit im prompt.md festgehalten. 
+
 ### Ergebnis prüfen
+
+Vorher kamm der spannende Teil, jetzt kommt der wichtigste Teil: Fingerspitzengefühl
+
+Das LLM ist ein Destilat des menschlichen Wissen. Beim Programmieren kann es nur Konzept anwenden, die es schon gibt. Es kann keine neuen Lösungsansätze entwickeln. Das führt dazu dass das LLM auf biegen und brechen versucht eine plausible Lösung zu erstellen. Und in vielen Fällen ist das ausreichend. Bewegt man sich aber in Domänen, die nur schlecht vom LLM-Wissen abgedeckt sind, muss man selbst nachhelfen.
+
+### Ergebnis festhalten
+
+Wir sind zufrieden mit dem Ergebnis und teilen dem LLM mit, dass die Anweisungen erfüllt wurden. Im AGENTS.md sind Anweisungen enthalten, dass im prompt.md Metadaten ausfüllt werden sollen.
+
+Nun comitten wir den Code:
+
+```bash
+
+```
+
+
+Und registrieren das promptl.md im Prompt-Log:
+
+```bash
+
+```
+
+Der ganze Einsatz des LLMs und dessen Ergebnis ist nachvollziehbar dokumentiert.
 
