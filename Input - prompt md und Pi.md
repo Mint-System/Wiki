@@ -273,7 +273,7 @@ sops will use the key from /home/$USER/.config/sops/age/keys.txt automatically.
 Create a encrypted `secrets.env`:
 
 ```bash
-task create-dotenv secrets secrets
+task create-dotenv secrets odoo -s
 Init .env file: /home/$USER/odoo-example-etl/secrets.env
 Encrypted /home/$USER/odoo-example-etl/secrets.env with sops.
 Edit with: task edit-dotenv secrets
