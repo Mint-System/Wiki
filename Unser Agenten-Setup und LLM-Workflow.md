@@ -285,7 +285,7 @@ Jetzt kommt der wichtigste Teil: Fingerspitzengefühl.
 
 LLMs sind ein Destillat des menschlichen Wissen. Beim Programmieren kann ein LLM nur Konzepte anwenden, die es bereits gibt. Es kann keine neuen Lösungsansätze entwickeln. Das führt dazu, dass das LLM auf Biegen und Brechen versucht, eine plausible Lösung hinzukriegen. Und in vielen Fällen ist das ausreichend. Bewegt man sich aber in einer Domäne, die nur schlecht vom LLM-Wissen abgedeckt ist, muss man nachhelfen.
 
-An dieser Stelle machen wir manuelle Tests. Man startet das Programm oder führt die neuen Funktionen aus. WEir lesen den generierten Code und versuchen, den Lösungsansatz des LLMs zu verstehen. Also alles, was hilft, um das Resultat zu plausibilisieren.
+An dieser Stelle machen wir manuelle Tests. Man startet das Programm oder führt die neuen Funktionen aus. Wir lesen den generierten Code und versuchen, den Lösungsansatz des LLMs zu verstehen. Also alles, was hilft, um das Resultat zu plausibilisieren.
 
 Möchte man an dieser Stelle ein neues prompt.md erstellen oder die Prüfung überspringen, werden die entsprechenden Befehle blockiert:
 
