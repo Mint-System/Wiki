@@ -1,15 +1,14 @@
-# taskfile
+# Taskfile
 tmp
-
-# dotenv
+prompt.md
 .env
-
-# Obsidian
-.obsidian/workspace.json
 
 # pnpm
 node_modules
 pnpm-workspace.yaml
+
+# Obsidian
+.obsidian/workspace.json
 
 # Zensical
 .venv
