@@ -191,7 +191,7 @@ Das prompt.md entählt weitere Anweisungen. Insbesondere wird sichergestellt, da
 [main][~/website-to-hugo]$ task prompt-with-pi -m
 ```
 
-Ich wähle "Mistral" mit "DeepSeek-V4-Flash" und Pi begintt zu arbeiten. Pi zeigt alle Inputs und Outputs, die im Loop entstehen. Hier ein Ausschnitt:
+Ich wähle "Mistral" mit "DeepSeek-V4-Flash" und Pi beginnt zu arbeiten. Pi zeigt alle Inputs und Outputs, die im Loop entstehen. Hier ein Ausschnitt:
 
 ```text
 ...
