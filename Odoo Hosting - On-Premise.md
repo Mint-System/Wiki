@@ -31,18 +31,20 @@ Die folgenden Angaben sind Mindestvoraussetzung und richten sich an 10 bis 50 Be
 **Extern**: Wenn Odoo aus dem Internet erreichbar sein soll, erfolgt die Verbindung mit HTTPS (Port 443).\
 **Remote-Zugriff**: Der Remote-Zugriff von Mint System erfolgt mit SSH. Mehr dazu unter [[SSH-Zugriff]].\
 **Repositories**: Zur Installation von Software muss der Server auf externe Repositories zugreifen. Dazu eine Liste von Hosts zur Freigaben:
-* docker.com
-* docker.io
-* odoo.com
-* github.com
-* gitlab.com
-* codeberg.com
-* mint.app.codey.ch
-* debian.org
-* init7.net
-* quad9.net
-* gcr.io
-* infomaniak.com
+
+- docker.com
+- docker.io
+- odoo.com
+- github.com
+- gitlab.com
+- codeberg.com
+- mint.app.codey.ch
+- debian.org
+- init7.net
+- quad9.net
+- gcr.io
+- infomaniak.com
+- pypi.org
 
 ### Integration
 
