@@ -296,7 +296,7 @@ Error: Cannot commit prompt in review state.
 
 ### Ergebnis festhalten
 
-Wir sind zufrieden mit dem Ergebnis und teilen dem LLM mit, dass die Aufgabe erledigt ist. Gemäss AGENTS.md fühlt der Agent im prompt.md die Metadaten ab.
+Wir sind zufrieden mit dem Ergebnis und teilen dem LLM mit, dass die Aufgabe erledigt ist. Gemäss AGENTS.md aktualisiert der Agent im prompt.md die Metadaten.
 
 Bevor wir das prompt.md aufzeichnen, committen wir den Code:
 
