@@ -4,7 +4,7 @@ kind: explain
 draft: true
 ---
 
-> LLMs und Ageneten effizient nutzen.
+> LLMs und Agenten effizient nutzen.
 
 In diesem Beitrag möchten wir unseren LLM-Workflow und unser Agenten-Setup präsentieren.
 
@@ -12,7 +12,7 @@ Bestimmte Wörter wie Inference, Provider, Harness, Commit, Deployment oder Mode
 
 ## Abgrenzung Claude und Co
 
-Wir nutzen bewusst keine Produkte und Dienste von Anthropic und OpenAI. Einerseits, weil es proprietäre Lösungen sind, und andererseits, weil wir die LLM-Technologie nicht einfach anwenden wollen, sondern auch verstehen möchten.
+Wir nutzen bewusst keine Produkte und Dienste von Anthropic und OpenAI. Einerseits weil es proprietäre Lösungen sind, und andererseits, weil wir die LLM-Technologie nicht einfach anwenden, sondern auch verstehen wollen.
 
 Claude ist ein Bündel von geschlossenen Produkten und Dienstleistungen:
 
@@ -27,7 +27,7 @@ Wer Claude einsetzt, macht sich von diesen Produkten und Dienstleistungen abhän
 
 Wie sieht ein Agenten-Setup aus, wenn man die Sache ernst meint?
 
-Anstatt _einen_ Anbieter von Models, _ein_ Harness oder _einen_ Inference Provider zu nutzen, nutzen wir verschiedene:
+Anstatt _einen_ Anbieter von Models, _ein_ Harness oder _einen_ Inference Provider zu wählen, nutzen wir verschiedene:
 
 - Open Harnesses: OpenCode, Pi, llm
 - Multiple Inference Providers: Infomaniak, Scaleway, Hugging Face, Mistral
@@ -61,7 +61,7 @@ Der Vorteil des Taskfile ist, dass sich nicht nur Werkzeuge und Instruktionen ü
 
 Ein wichtiges Werkzeug sind die Jupyter-Notebooks. Sobald wir Daten verarbeiten, erstellen wir bzw. lassen wir Jupyter-Notebooks erstellen. Damit lassen sich komplexe Datenmigrationen wie "Exportiere alle Daten aus Bexio und importieren sie nach Odoo" in wenigen Stunden erledigen.
 
-Ein weiterer  Vorteil von Jupyter-Notebooks ist, dass man ein selbstdokumentiertes und reproduzierbares Programm erhält. Das ist in der Arbeit mit LLMs entscheidend. Anstatt dem LLM die Datenverarbeitung direkt zu überlassen, teilt man Anweisungen mit, dass die Datenverarbeitung in Jupyter-Notebooks erfolgen soll. Das Endprodukt, also das Jupyter-Notebook, lässt sich dann ohne Unterstützung des LLMs ausführen.
+Ein weiterer  Vorteil von Jupyter-Notebooks ist, dass man ein selbstdokumentiertes und reproduzierbares Programm erhält. Das ist in der Arbeit mit LLMs entscheidend. Anstatt dem LLM die Datenverarbeitung direkt zu überlassen, steuert man mit Anweisungen, dass die Datenverarbeitung in Jupyter-Notebooks erfolgen soll. Das Endprodukt, also das Jupyter-Notebook, lässt sich dann ohne Unterstützung des LLMs ausführen.
 
 ## LLM-Workflow
 
@@ -219,7 +219,7 @@ Ich wähle "Mistral" mit "DeepSeek-V4-Flash" und Pi beginnt zu arbeiten. Pi zeig
 ↑12k ↓1.4k R61k CH97.8% 10.7%/128k                 (mistral) deepseek-v4-1-flash-1017
 ```
 
-Je nach Aufgabe kann die Ausführung von wenigen Sekunden bis Stunden dauern.
+Je nach Aufgabe kann die Ausführung wenige Sekunden bis Stunden dauern.
 
 Der Agent erstellt sich eine Todo-Liste und arbeitet sie ab, bis er das Ziel erreicht hat. Während der Ausführung kann man Steering-Prompts eingeben. Diese werden bei der nächsten Gelegenheit aufgenommen und verarbeitet:
 
@@ -283,9 +283,9 @@ Hat der Agent sein Ziel erreicht, bittet er um einen Review. Dass dieser nach ei
 
 Jetzt kommt der wichtigste Teil: Fingerspitzengefühl.
 
-LLMs sind ein Destillat des menschlichen Wissen. Beim Programmieren kann ein LLM nur Konzepte anwenden, die es bereits gibt. Es kann keine neuen Lösungsansätze entwickeln. Das führt dazu, dass das LLM auf Biegen und Brechen versucht, eine plausible Lösung hinzukriegen. Und in vielen Fällen ist das ausreichend. Bewegt man sich aber in einer Domäne, die nur schlecht vom LLM-Wissen abgedeckt ist, muss man nachhelfen.
+LLMs sind ein Destillat des menschlichen Wissens. Beim Programmieren kann ein LLM nur Konzepte anwenden, die es bereits gibt. Es kann keine neuen Lösungsansätze entwickeln. Das führt dazu, dass das LLM auf Biegen und Brechen versucht, eine plausible Lösung hinzukriegen. Und in vielen Fällen ist das ausreichend. Bewegt man sich aber in einer Domäne, die nur schlecht vom LLM-Wissen abgedeckt ist, muss man nachhelfen.
 
-An dieser Stelle machen wir manuelle Tests. Man startet das Programm oder führt die neuen Funktionen aus. WEir lesen den generierten Code und versuchen, den Lösungsansatz des LLMs zu verstehen. Also alles, was hilft, um das Resultat zu plausibilisieren.
+An dieser Stelle machen wir manuelle Tests. Man startet das Programm oder führt die neuen Funktionen aus. Wir lesen den generierten Code und versuchen, den Lösungsansatz des LLMs zu verstehen. Also alles, was hilft, um das Resultat zu plausibilisieren.
 
 Möchte man an dieser Stelle ein neues prompt.md erstellen oder die Prüfung überspringen, werden die entsprechenden Befehle blockiert:
 
