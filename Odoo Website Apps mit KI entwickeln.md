@@ -10,7 +10,7 @@ Wir und unsere Kunden beschäftigen sich intensiv mit KI-Agenten (LLM-Loops). Wi
 
 Dass dies unsere bestehenden Implementationsprozesse auf die Probe stellt, muss hier nicht erklärt werden. Wir sehen viele Vorteile in der Arbeit mit KI, aber auch sog. _Regressionen_: Probleme, die gelöst sind, erscheinen wieder in neuer Form.
 
-KI verändert die Arbeitsweise auf mehreren Ebenen. Organisatorisch, operativ und technisch wird gerade einiges auf den Kopf gestellt. Bei Mint System versuchen wir, nicht nur Schritt zu halten, vielmehr wollen wir auch verstehen, wie diese Werkzeuge (ja, es sind immer noch Werkzeuge) funktionieren und wie wir sie gestalten können.
+KI verändert die Arbeitsweise auf mehreren Ebenen. Organisatorisch, operativ und technisch wird gerade einiges auf den Kopf gestellt. Bei Mint System versuchen wir, nicht nur Schritt zu halten. Vielmehr wollen wir auch verstehen, wie diese Werkzeuge (ja, es sind immer noch Werkzeuge) funktionieren und wie wir sie gestalten können.
 
 ## Neue Entwicklung?
 
@@ -33,15 +33,15 @@ Für die hier genannten Punkte gibt es in der Softwareentwicklung bereits Prozes
 
 ## Odoo Website Apps
 
-Wie gesagt, haben wir ein paar offene Punkte (Reproduzierbarkeit, Upgrade-fähig, Verantwortung, Recherche) und müssen klären, wie das besser geht.
+Wie gesagt, haben wir ein paar offene Punkte (Reproduzierbarkeit, Upgrade-fähig, Verantwortung, Recherche) und müssen klären, was gute Lösungen sind.
 
-Dass man selbständig Odoo nach seinen Bedürfnissen anpassen möchte, ist legitim. Damit die Verfügbarkeit und Integrität des gesamten Systems nicht gefährdet wird, lohnt sich jedoch ein systematisches Vorgehen.
+Dass man selbständig Odoo nach seinen Bedürfnissen anpassen möchte ist legitim. Damit die Verfügbarkeit und Integrität des gesamten Systems nicht gefährdet wird, lohnt sich jedoch ein systematisches Vorgehen.
 
 ### Beispiel
 
-Wir zeigen den Lösungsansatz anhand folgenden Beispiels:
+Wir zeigen den Lösungsansatz anhand des folgenden Beispiels:
 
-> Wir erhalten vom Lieferanten jeden Monat eine Preisliste und möchten diese in Odoo importieren. Irgendwie müssen bestehende und neue Produkte erkannt und mit den Preisen der Liste verbunden werden. Mit Excel und Formeln wäre das irgendwie möglich.
+> Wir erhalten vom Lieferanten jeden Monat eine Preisliste und möchten diese in Odoo importieren. Irgendwie müssen bestehende und neue Produkte erkannt und mit den Preisen der Liste verbunden werden. Mit Excel und Formeln wäre das grundsätzlich möglich.
 
 #### Recherchieren
 
@@ -91,7 +91,7 @@ After the import the app must show a summary.
 
 #### Implementieren
 
-Nun haben wir eine klare Vorstellung, was die neue App leisten soll. Mithilfe eines Agenten lassen wir die Spezifikation umsetzen.
+Nun haben wir eine klare Vorstellung, was die neue App leisten soll. Mit Hilfe eines Agenten lassen wir die Spezifikation umsetzen.
 
 #### Prüfen
 
