@@ -262,13 +262,15 @@ Create a sops config:
 
 ```bash
 task init-dotenv-sops
-Generated age key 'odoo-example-etl' and appended to /home/$USER/.config/sops/age/keys.txt
-Create .sops.yaml
-Age key file: /home/$USER/.config/sops/age/keys.txt
-Age key name: odoo-example-etl
-Age public key: age1xjjk2az208g73fmz08r9dh0fdnmhxzm73qa9rrvmdkugjcrrh4sszh202n
-sops will use the key from /home/$USER/.config/sops/age/keys.txt automatically.
 ```
+
+>Generated age key 'odoo-example-etl' and appended to /home/$USER/.config/sops/age/keys.txt
+>Create .sops.yaml
+>Age key file: /home/$USER/.config/sops/age/keys.txt
+>Age key name: odoo-example-etl
+>Age public key: age1xjjk2az208g73fmz08r9dh0fdnmhxzm73qa9rrvmdkugjcrrh4sszh202n
+>sops will use the key from /home/$USER/.config/sops/age/keys.txt automatically.
+
 
 Create a encrypted `secrets.env`:
 
