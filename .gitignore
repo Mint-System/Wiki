@@ -15,4 +15,13 @@ pnpm-workspace.yaml
 site
 
 # Project
-docs
+docs/*
+!docs/assets/
+docs/assets/*
+!docs/assets/logo.svg
+!docs/javascripts/
+docs/javascripts/*
+!docs/javascripts/extra.js
+!docs/stylesheets/
+docs/stylesheets/*
+!docs/stylesheets/style.css
