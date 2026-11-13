@@ -16,8 +16,4 @@ Vercel Domains:
 - doo-build.org
 - odoo-build.com
 
-## HowTo
-
-- [[Odoo Build - Create an OCA module]]
-- [[Odoo Build - Develop a new module]]
-- [[Odoo Build Troubleshooting]]
+Weiterführende Links: [[Odoo Build Troubleshooting]]

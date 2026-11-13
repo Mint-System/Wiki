@@ -24,5 +24,5 @@ Arbeitsschritte:
 - Prüfen ob für das gesuchte Modul ein Pull-Request existiert, der alle Tests erfüllt
   - Denn Branch des Pull-Request bereitstellen
 - Prüfen ob die OCA plant das Modul auf die Odoo Zielversion upzugraden
-  - Modul gemäss Anleitung [[Migrate OCA module to XX.0]] migrieren
+  - Modul gemäss Anleitung migrieren
   - Den Branch des Pull-Request bereitstellen
