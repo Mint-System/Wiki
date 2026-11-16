@@ -1,7 +1,7 @@
 ---
 section: blog
 kind: explain
-draft: true
+draft: false
 ---
 
 > Wie Sie für Odoo eigene Apps mit Hilfe einer KI entwickeln können
