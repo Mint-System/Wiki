@@ -44,32 +44,21 @@ sed -i "s/$OLD/$NEW/g" ~/Kubernetes-Build/test_values/knd/odoo.yaml
 
 Arbeitsschritte:
 
-- Mitteilung an Projektleiter in Aufgabe _Projektadministration_
-- Mitteilung an Kunde via Odoo Dialog > Kanal _Allgemein_
-
-```
-Guten Tag
-
-Die Revision dieser Odoo Installation wird innerhalb der nächsten halben Stunde aktualisiert.
-
-Bei der Aktualisierung kann es zu einem kurzen Unterbruch (maximal 5 Minuten) kommen.
-
-Mit freundlichen Grüssen
-
-Mint System Team
-```
-
+- Öffnen aktuelles Worklog _Odoo Revision Update_
+- Ein Odoo-Host auswählen
 - In Ansible-Inventar die Informationen zur Odoo Revision aktualisieren
-- Den Odoo-Container neu deployment `task play -i inventories/mint_system plays/odoo.yml -l ${ALIAS}_odoo`
-- Nach erfolgreichem Deployment die Aktion *Apps > Auto-Upgrade Modules* ausführen
+- Den Odoo-Container deployment `task play -i inventories/mint_system plays/odoo.yml -l ${ALIAS}_odoo`
+- Optional: Nach erfolgreichem Deployment die Aktion _Apps > Auto-Upgrade Modules_ ausführen
 
 !!! warning
     Damit diese Aktion verfügbar ist, muss das Modul `module_auto_update` installiert werden.
 
 
-- Mitteilung an Kunde via Odoo Dialog
+- Mitteilung an Kunde via Aufgabe "Projektadministration"
 
 ```
+Betreff: Odoo Revision Update
+
 Guten Tag
 
 Die Revision dieser Odoo Installation wurde aktualisiert.
@@ -81,9 +70,5 @@ Chrome: https://www.odoo-wiki.org/development.html#browser-cache-in-chrome-losch
 
 Falls danach immer noch Probleme bestehen, bitten wir Sie mit uns Kontakt aufzunehmen.
 
-Mit freundlichen Grüssen
-
-Mint System Team
-
-P.S. Bitte nicht auf diese Nachricht im Chatter antworten. Wir erhalten keine Benachrichtigungen.
+Freundliche Grüsse
 ```
