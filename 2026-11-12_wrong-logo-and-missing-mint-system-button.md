@@ -1,5 +1,5 @@
 ---
-commit_ref: a1193a942118613213d23693e32ce3442a4ddc14
+commit_ref: 9289748ff49762a0e1b13b72af0bef02b0dd6953
 title: "Wrong logo and missing Mint System button"
 author: "Janik von Rotz <login@janikvonrotz.ch>"
 action: implement
