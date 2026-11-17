@@ -20,3 +20,4 @@ Interne Dienste für Mitarbeitende der Mint System:
 * [[Backup Mint System]]
 * [[Forgejo Runner Mint System]]
 * [[Jumphost Mint System]]
+* [[Dotfiles Mint System]]
