@@ -9,8 +9,8 @@ date_completed: 2026-11-17
 harness: pi
 provider: mistral
 model: deepseek-v4-1-flash-1017
-input_tokens: 41581
-output_tokens: 6469
+input_tokens: 265205
+output_tokens: 25546
 ---
 
 # Render of Obsidian Canvas missing
