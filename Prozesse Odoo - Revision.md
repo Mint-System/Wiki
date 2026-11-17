@@ -56,17 +56,18 @@ Arbeitsschritte:
 
 - Mitteilung an Kunde via Aufgabe "Projektadministration"
 
-```
 Betreff: Odoo Revision Update
 
+```
 Guten Tag
 
-Die Revision dieser Odoo Installation wurde aktualisiert.
+Die Revision ihrer Odoo Installation wurde aktualisiert.
 
 Mit dem Update wurde neuer Odoo Code bereitgestellt. Wenn dies zu Problemen und Fehlermeldungen führt, empfehlen wir als erstes den Browser-Cache zu löschen:
 
-Firefox: https://www.odoo-wiki.org/development.html#browser-cache-in-firefox-loschen
-Chrome: https://www.odoo-wiki.org/development.html#browser-cache-in-chrome-loschen
+Firefox: [https://www.odoo-wiki.org/development.html#browser-cache-in-firefox-losche](https://www.odoo-wiki.org/development.html#browser-cache-in-firefox-losche)
+
+Chrome: [https://www.odoo-wiki.org/development.html#browser-cache-in-chrome-loschen](https://www.odoo-wiki.org/development.html#browser-cache-in-chrome-loschen)
 
 Falls danach immer noch Probleme bestehen, bitten wir Sie mit uns Kontakt aufzunehmen.
 
