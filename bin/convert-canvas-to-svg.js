@@ -108,7 +108,7 @@ function renderEdge(edge) {
 
   if (edge['label']) {
     // Calculate position of label
-    let labelText = edge['label']
+    let labelText = escapeXml(edge['label'])
     let labelLength = labelText.length
 
     // Update label length for mutliline text.
@@ -187,16 +187,27 @@ function renderEdge(edge) {
     `
 }
 
+// Escape XML special characters so the generated SVG stays well-formed.
+function escapeXml(text) {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+}
+
 function formatText(text) {
   if (typeof text !== 'string') {
     return { formattedText: null, plainText: null }
   }
 
+  // Escape XML before adding markup, so user text cannot break the SVG
+  let escapedText = escapeXml(text)
+
   // Format bold
-  formattedText = text.replace(/\*\*(.*?)\*\*/g, '<bold>$1</bold>')
+  formattedText = escapedText.replace(/\*\*(.*?)\*\*/g, '<bold>$1</bold>')
 
   // Cleanup
-  plainText = text.replace('**', '')
+  plainText = escapedText.replace('**', '')
 
   return { formattedText, plainText }
 }
@@ -295,7 +306,7 @@ function renderGroup(group) {
   let textOffsetY = -15
   let fontColor = '#2c2d2c'
   let fillColor = '#fbfbfb'
-  let text = group['label']
+  let text = escapeXml(group['label'])
   let fontSize = 24
 
   return `

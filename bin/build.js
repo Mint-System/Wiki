@@ -28,7 +28,7 @@ const ignoreLinks = 'TOC'
 // file name regex
 const excalidraw = /!\[\[([^\]]+)\.excalidraw\]\]/g
 const wikiImage = /!\[\[([^\]]+\..+)\]\]/g
-const obsidianCanvas = /\[\[([^\]]+\.canvas.+)\]\]/g
+const obsidianCanvas = /!?\[\[([^\]]+\.canvas(?:\|[^\]]*)?)\]\]/g
 const embededContent = /!\[\[([^\]]*)\]\]/g
 const wikiLink = /\[\[([^\]]*)\]\]/g
 const obsidianBases = /\[\[([^\]]+)\.base\]\]/g
@@ -132,20 +132,23 @@ function convert(content, file) {
   }
 
   // Convert Obsidian canvas
-  // [[S3.canvas|S3]] -> [](./s3.svg)
+  // ![[S3.canvas|S3]] -> ![S3](./s3.svg)
+  // ![[S3.canvas]] -> ![](./s3.svg)
   matches = content.match(obsidianCanvas) || []
   for (i = 0; i < matches.length; i++) {
     let match = matches[i]
-    let asset = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
-    let href = asset
-    // Set title and href
+    let fileName = match.match(/\[\[([^\]|]*)\.canvas/)[1]
+    let href = sanitizeAssetname(fileName)
+    // Set title from the alias if present, otherwise use the file name
+    let title = fileName
     if (match.indexOf('|') > 0) {
-      href = sanitizeAssetname(match.match(/\|(.*)\]\]/)[1])
-      asset = match.match(/\|(.*)\]\]/)[1]
+      title = match.match(/\|([^\]]*)\]\]/)[1]
     }
+    // Embeds (![[...]]) are rendered as images, plain links as links
+    let prefix = match.startsWith('!') ? '!' : ''
     content = content.replace(
       match,
-      `[${asset}](${basePathAttachments}${href}.svg)`
+      `${prefix}[${title}](${basePathAttachments}${href}.svg)`
     )
   }
 
@@ -274,20 +277,23 @@ if (!firstArg || ['all', 'canvas'].indexOf(firstArg) >= 0) {
   // log
   console.log('Convert canvas files ...')
 
-  // Loop all canvas files
-  fs.readdirSync(rootDir)
-    .filter((file) => path.extname(file) === '.canvas')
-    .forEach((file) => {
-      // Get file name
-      let fileName = sanitizeAssetname(file.replace('\.canvas', ''))
+  // Loop all canvas files in the root and the attachments folder
+  const canvasDirs = [rootDir, path.join(rootDir, attachmentsFolder)]
+  canvasDirs.forEach((dir) => {
+    fs.readdirSync(dir)
+      .filter((file) => path.extname(file) === '.canvas')
+      .forEach((file) => {
+        // Get file name
+        let fileName = sanitizeAssetname(file.replace('\.canvas', ''))
 
-      // Get content
-      let content = fs.readFileSync(path.join(rootDir, file), 'utf8')
+        // Get content
+        let content = fs.readFileSync(path.join(dir, file), 'utf8')
 
-      content = convertCanvasToSVG(JSON.parse(content))
+        content = convertCanvasToSVG(JSON.parse(content))
 
-      fs.writeFileSync(targetPath + fileName + '.svg', content)
-    })
+        fs.writeFileSync(targetPath + fileName + '.svg', content)
+      })
+  })
 
   // log
   console.log('Converting canvas files finished.')
