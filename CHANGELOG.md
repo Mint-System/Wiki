@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 
 - Obsidian canvas embeds render again: canvas files in `attachments/` are converted to SVG, embeds without an alias (`![[Name.canvas]]`) are converted to image links, and canvas text is XML-escaped so the generated SVG stays well-formed.
+- Canvas SVGs support dark mode via `prefers-color-scheme`, so text and group fills stay readable on the slate theme.
 
 ### Changed
 

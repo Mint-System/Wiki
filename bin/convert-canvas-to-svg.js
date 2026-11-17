@@ -46,6 +46,33 @@ function mapColor(color) {
   return appliedColor
 }
 
+// Theme styles injected into every SVG. The SVG is embedded as an <img>, so
+// page CSS cannot reach it; dark mode is handled via prefers-color-scheme,
+// which Material's slate scheme follows.
+function themeStyle() {
+  return `
+    <style>
+        .canvas-text { fill: #2c2d2c; }
+        .canvas-group { fill: #fbfbfb; }
+        .canvas-label-bg { fill: #fff; }
+        p {
+            font-family: Consolas, Monaco, monospace;
+            font-size: 15px;
+            font-weight: normal;
+            color: #2c2d2c;
+        }
+        p bold { font-weight: bold; }
+        p em { font-style: italic; }
+        @media (prefers-color-scheme: dark) {
+            .canvas-text { fill: #d7d7d7; }
+            .canvas-group { fill: #1f1f1f; }
+            .canvas-label-bg { fill: #2b2b2b; }
+            p { color: #d7d7d7; }
+        }
+    </style>
+    `
+}
+
 function renderEdge(edge) {
   const id = edge['id']
   const strockWidth = 4
@@ -54,8 +81,6 @@ function renderEdge(edge) {
   const toSide = edge['toSide']
   const fontFamily = 'Consolas, Monaco, monospace';
   const fontSize = 15
-  const fontColor = '#2c2d2c'
-  const fillColor = '#fff'
 
   let marker = `marker-end="url(#arrow-end-${id})"`
   let fromOffset = 1
@@ -170,8 +195,8 @@ function renderEdge(edge) {
     rectY = labelY - textHeight + 4
 
     label = `
-        <rect x="${rectX}" y="${rectY}" width="${textWidth}" height="${textHeight}" rx="3" fill="${fillColor}" />
-        <text x="${labelX}" y="${labelY}" font-family="${fontFamily}" fill="${fontColor}" font-size="${fontSize}">${labelText}</text>
+        <rect class="canvas-label-bg" x="${rectX}" y="${rectY}" width="${textWidth}" height="${textHeight}" rx="3" />
+        <text class="canvas-text" x="${labelX}" y="${labelY}" font-family="${fontFamily}" font-size="${fontSize}">${labelText}</text>
         `
   }
 
@@ -238,20 +263,6 @@ function renderNode(node) {
     }
 
     content = `
-        <style>
-            p {
-                font-family: ${fontFamily};
-                font-size: ${fontSize}px;
-                font-weight: ${fontWeight};
-                color: ${fontColor};
-            }
-            p bold {
-                font-weight: bold;
-            }
-            p em {
-                font-style: italic;
-            }
-        </style>
         <foreignObject x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" width="${node['width'] - textOffsetX * 2}" height="${node['height'] - textOffsetY * 2}">
         <p xmlns="http://www.w3.org/1999/xhtml" class="${node['id']}">${formattedText}</p>
         </foreignObject>
@@ -266,7 +277,7 @@ function renderNode(node) {
       spans += `<tspan x="${node['x'] + textOffsetX}" dy="${fontSize + 3}">${line}</tspan>`
     }
     textOffsetY = 10
-    content = `<text x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}" fill="${fontColor}">${spans}</text>`
+    content = `<text class="canvas-text" x="${node['x'] + textOffsetX}" y="${node['y'] + textOffsetY}" font-family="${fontFamily}">${spans}</text>`
   }
 
   // Render linked markdown file
@@ -304,14 +315,12 @@ function renderGroup(group) {
 
   let textOffsetX = 15
   let textOffsetY = -15
-  let fontColor = '#2c2d2c'
-  let fillColor = '#fbfbfb'
   let text = escapeXml(group['label'])
   let fontSize = 24
 
   return `
-    <rect x="${group['x']}" y="${group['y']}" width="${group['width']}" height="${group['height']}" rx="30" stroke="${mapColor(group['color'])}" stroke-width="${strockWidth}" fill="${fillColor}"/>
-    <text x="${group['x'] + textOffsetX}" y="${group['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fontColor}">${text}</text>
+    <rect class="canvas-group" x="${group['x']}" y="${group['y']}" width="${group['width']}" height="${group['height']}" rx="30" stroke="${mapColor(group['color'])}" stroke-width="${strockWidth}"/>
+    <text class="canvas-text" x="${group['x'] + textOffsetX}" y="${group['y'] + textOffsetY}" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}">${text}</text>
     `
 }
 
@@ -369,6 +378,7 @@ function convertCanvasToSVG(content) {
   const spacing = 50
 
   svg += `<svg viewBox="${minX - spacing} ${minY - spacing} ${width + spacing * 2} ${height + spacing * 2}" xmlns="http://www.w3.org/2000/svg">\n`
+  svg += themeStyle()
 
   // Render group as rect
 
