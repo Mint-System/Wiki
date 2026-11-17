@@ -11,6 +11,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Mint System GmbH button in the navigation, styled with `docs/stylesheets/style.css`.
 - Plausible analytics for `wiki.mint-system.ch` in `docs/javascripts/extra.js`.
 
+### Fixed
+
+- Obsidian canvas embeds render again: canvas files in `attachments/` are converted to SVG, embeds without an alias (`![[Name.canvas]]`) are converted to image links, and canvas text is XML-escaped so the generated SVG stays well-formed.
+
 ### Changed
 
 - Site logo and favicon now use the Mint System logo `docs/assets/logo.svg`.
