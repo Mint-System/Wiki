@@ -22,6 +22,7 @@ Odoo besteht im wesentlichen aus der [[Odoo Community Edition]] und der [[Odoo E
 - [[Odoo Connector]]
 - [[Odoo Lifecycle]]
 - [[Odoo KI]]
+- [[Odoo Modul-Architektur]]
 
 ## Entwicklung und Upgrade
 
