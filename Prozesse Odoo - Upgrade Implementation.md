@@ -37,13 +37,17 @@ Arbeitsschritte:
 ```markdown
 Hallo _VORNAME_
 
-Die Upgrade-Umgebung _ODOO_LINK_ steht zum Testen bereit. Das Login ist das gleiche wie bis anhin.
+Die Upgrade-Umgebung _ODOO_LINK_ steht zum Testen bereit. Das Login ist das gleiche wie auf der produktiven Umgebung.
 
-Für das Testing arbeiten wir mit diesem Dokument: _TESTING_FILE_LINK_
+Für das Testen arbeiten wir mit diesem Dokument: _TESTING_FILE_LINK_
 
-Im Abschnitt "Testfälle" halten wir die Prüfschritte der wichtigsten Odoo-Prozesse fest. Unterhalb im Abschnitt "Feedback" notieren und behandeln wir die Probleme.
+Im Abschnitt "Testfälle" halten wir die Prüfschritte der wichtigsten Abläufe fest. Im darauffolgenden Abschnitt "Feedback" notieren und behandeln wir die festgestellten Probleme. Wir haben bereits einige Testfälle und auch erste Feedbacks erfasst.
 
-Ich habe eine erstes Beispiel für einen Testfall und Feedback erstellt. Meine Absicht ist dass wir gemeinsam neue Testfälle entwickeln und ausführen.
+Nun brauchen wir deine Unterstützung. Kannst du ...
 
-Ist das in deinem Sinn? Wollen wir das in einem Online-Meeting besprechen?
+- Die Testfälle nachvollziehen
+- Prüfschritten ausführen
+- Neue Probleme bei Feedback festhalten
+
+Danke für eine kurze Rückmeldung. Bei Bedarf können wir das gerne auch in einem Online-Meeting besprechen.
 ```
