@@ -23,7 +23,15 @@ Arbeitsschritte:
 Arbeitsschritte:
 
 - Ausführen Drehbuch
-- Testfälle anhand Vorlage [[Testing Upgrade Odoo XX.0]] entwickeln
+- Vorlage [[Testing Upgrade Odoo XX.0]] koieren
+- Entlang den wichtigsten Workflows des Kunden erste Testfälle erfassen
+- Gleichzeitig die Testfälle validieren
+
+## Testing freigeben
+
+Arbeitsschritte:
+
+- Sicherstellen dass Upgrade-Umgebung erreichbar ist
 - Nachricht an die TesterIn schicken:
 
 ```markdown
