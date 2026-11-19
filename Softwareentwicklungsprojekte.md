@@ -14,12 +14,12 @@ Zur Umsetzung eines Softwareentwicklungsprojekt können diese Phase angewendet w
 
 **Serverumgebung**
 
-- [[Phase Build-Umgebung bereitstellen]]
+- [[Phase Build-Umgebung]]
 
 **Implementation**
 
 - [[Phase Softwareentwicklung]]
-- [[Phase Continuos Delivery]]
+- [[Phase Continuous Delivery]]
 
 **Betrieb**
 

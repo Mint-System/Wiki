@@ -1,5 +1,6 @@
 ---
 kind: reference
+section: project
 ---
 
 ## Phasen
@@ -53,10 +54,10 @@ Zur Umsetzung eines Odoo-Projekt werden eine Auswahl von Phase angewendet:
 - [[Phase Kundendienst]]
 - [[Phase CRM]]
 - [[Phase Lager]]
-- [[Phase Personalbrechnung]]
+- [[Phase Personalabrechnung]]
 - [[Phase Personal]]
 - [[Phase Personalbeschaffung]]
-- [[Phase Plannung]]
+- [[Phase Planung]]
 - [[Phase PoS]]
 - [[Phase Produkte]]
 - [[Phase Produktionsplanung]]
