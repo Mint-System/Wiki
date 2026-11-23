@@ -9,6 +9,8 @@ Arbeitsschritte:
 
 - Auf Server einloggen `task connect-host $ALIAS`
 - Modulliste generieren `docker-odoo-cloc -c $CONTAINER -d $DATABASE`
+- Um einen vierspaltigen Markdown-Tabellenkörper zu erzeugen:
+  `docker-odoo-cloc -c $CONTAINER -d $DATABASE | awk 'NF {print "|" $1 "| | | |"}'`
 - Modulname aus Konsole kopieren und filtern
 - Vorlage [[Migrate modules to Odoo XX.0]] kopieren
 - Modulnamen einfügen
