@@ -241,13 +241,17 @@ It should use the `infomaniak/moonshotai/Kimi-K2.6` model by default.
 
 Move into your project directory and create new project called `odoo-example-etl`:
 
-```bash
-[~]$ mkdir odoo-example-etl
-[~]$ cd odoo-example-etl
-[~/odoo-example-etl]$ ~/taskfile.build/task.template init-project
-Init git directory.
-Initialized empty Git repository in /home/$USER$/odoo-example-etl/.git/
-Created: tmp/ .gitignore task .env.template AGENTS.md CHANGELOG.md README.md LICENSE
+``` bash
+mkdir odoo-example-etl
+cd odoo-example-etl
+~/taskfile.build/task.template init-project
+```
+
+```
+Output:
+>Init git directory.
+>Initialized empty Git repository in /home/$USER$/odoo-example-etl/.git/
+>Created: tmp/ .gitignore task .env.template AGENTS.md CHANGELOG.md README.md LICENSE
 ```
 
 Optional: Open the `task` file and remove all help sections (marked with `===`) and commands except for the Jupyter, LLM and Prompt sections.
@@ -264,7 +268,7 @@ Create a sops config:
 task init-dotenv-sops
 ```
 
-```
+``` Bash
 Output:
 >Generated age key 'odoo-example-etl' and appended to /home/$USER/.config/sops/age/keys.txt
 >Create .sops.yaml
@@ -278,9 +282,13 @@ Create a encrypted `secrets.env`:
 
 ```bash
 task create-dotenv secrets odoo -s
-Init .env file: /home/$USER/odoo-example-etl/secrets.env
-Encrypted /home/$USER/odoo-example-etl/secrets.env with sops.
-Edit with: task edit-dotenv secrets
+```
+
+``` bash
+Output:
+>Init .env file: /home/$USER/odoo-example-etl/secrets.env
+>Encrypted /home/$USER/odoo-example-etl/secrets.env with sops.
+>Edit with: task edit-dotenv secrets
 ```
 
 Edit the `secrets.env`:
@@ -312,8 +320,12 @@ Still in the project folder create a prompt:
 
 ```bash
 task create-prompt "Create a personal Odoo account"
-File created:
-prompt.md
+```
+
+``` bash
+Output:
+>File created:
+>prompt.md
 ```
 
 Replace `@Author` with these instructions:
