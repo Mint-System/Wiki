@@ -18,8 +18,7 @@ Arbeitsschritte:
 !!! warning
     Damit diese Aktion verfügbar ist, muss das Modul `module_auto_update` installiert werden.
 
-
-- Mitteilung an Kunde via Aufgabe "Projektadministration"
+- Mitteilung an Kunde via Aufgabe "Projektadministration" (Unnötige Follower entfernen)
 
 Mail-Vorlage: Odoo Revision Update
 
