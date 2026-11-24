@@ -21,12 +21,12 @@ Arbeitsschritte:
 
 - Mitteilung an Kunde via Aufgabe "Projektadministration"
 
-Betreff: Odoo Revision Update
+Mail-Vorlage: Odoo Revision Update
 
 ```
-Guten Tag,
+Guten Tag
 
-die Revision Ihrer Odoo Installation wurde aktualisiert.
+Die Revision Ihrer Odoo Installation wurde aktualisiert.
 
 Mit dem Update wurde neuer Odoo Code bereitgestellt. Wenn dies zu Problemen und Fehlermeldungen führt, empfehlen wir, als erstes den Browser-Cache zu löschen:
 
