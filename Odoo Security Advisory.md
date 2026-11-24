@@ -10,10 +10,6 @@ The policy describes how security researcher can submit their findings and tells
 
 Valid vulnerabilities receive a CVE (Common Vulnerabilities and Exposures) ID.
 
-## Public Channels
-
-CVEs are published on GitHub as issues: <https://github.com/odoo/odoo/issues?q=is%3Aissue+label%3ASecurity>.
-
 ## Notifications
 
 Odoo notifies Odoo Enterprise customers with an on-premise installation of Odoo.
