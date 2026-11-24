@@ -13,5 +13,4 @@ Newsletter und Blog auf Website:
 [[Google Ads]]\
 [[Social Media]]\
 [[Success Stories]]\
-[[Website]]\
-[[Web Analytics]]
+[[Website]]

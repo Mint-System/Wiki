@@ -21,3 +21,4 @@ Interne Dienste für Mitarbeitende der Mint System:
 * [[Forgejo Runner Mint System]]
 * [[Jumphost Mint System]]
 * [[Dotfiles Mint System]]
+* [[Analytics Mint System]]
