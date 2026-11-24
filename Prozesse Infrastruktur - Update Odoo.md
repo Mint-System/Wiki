@@ -5,7 +5,42 @@ section: process
 
 Update Odoo-Umgebung
 
-## Odoo mit Ansible aktualisieren
+## Mehrere Odoo Revisionen aktualisieren
+
+Arbeitsschritte:
+
+- Öffnen aktuelles Worklog _Odoo Revision Update_
+- Ein Odoo-Host auswählen
+- In Ansible-Inventar die Informationen zur Odoo Revision aktualisieren
+- Den Odoo-Container deployment `task play -i inventories/mint_system plays/odoo.yml -l ${ALIAS}_odoo`
+- Optional: Nach erfolgreichem Deployment die Aktion _Apps > Auto-Upgrade Modules_ ausführen
+
+!!! warning
+    Damit diese Aktion verfügbar ist, muss das Modul `module_auto_update` installiert werden.
+
+
+- Mitteilung an Kunde via Aufgabe "Projektadministration"
+
+Betreff: Odoo Revision Update
+
+```
+Guten Tag,
+
+die Revision Ihrer Odoo Installation wurde aktualisiert.
+
+Mit dem Update wurde neuer Odoo Code bereitgestellt. Wenn dies zu Problemen und Fehlermeldungen führt, empfehlen wir, als erstes den Browser-Cache zu löschen:
+
+Firefox: https://www.odoo-wiki.org/development/#browser-cache-in-firefox-loschen
+
+Chrome: https://www.odoo-wiki.org/development/#browser-cache-in-chrome-loschen
+
+Falls danach immer noch Probleme bestehen, bitten wir Sie, mit uns Kontakt aufzunehmen.
+
+Freundliche Grüsse
+```
+
+
+## Einzelne Odoo Revisionen aktualisieren
 
 Arbeitsschritte:
 
