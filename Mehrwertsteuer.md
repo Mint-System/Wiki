@@ -34,6 +34,12 @@ Der Nachteil liegt daran, dass das Unternehmen die bezahlten MWST der Einkäufe 
 
 Da Mint System nach Saldosteuersatz abrechnen (5.9%) und somit den Einkauf nicht abziehen kann, ergibt sich jeweils eine Differenz von 1.8%. Bei einem Projekt mit externen Dienstleistungen (Debitoren) von zum Beispiel CHF 40'000 sind dies CHF 2'360 die Mint System so statt CHF 0 der MWST abliefert. Auch wenn die Dienstleistung mit CHF 40'000 weiterverrechnet (Kreditoren) wird.
 
+## Vereinbart oder Vereinnahmt
+
+Vereinbart ist in der Schweiz der Normalfall, versteuert nach Rechnungserstellung.
+
+Vereinnahmt ist der Sonderfall und bezieht sich auf erhaltene Einnahmen. Dies ist anspruchsvoller umzusetzen.
+
 ## Fakturierung von Dienstleistungen im Ausland
 
 Bei einer Dienstleistung im Ausland fragt es sich, ob die Fakturierung auch inkl. Mehrwertsteuer sein muss. Und wenn ja, mit welchen Steuersatz.

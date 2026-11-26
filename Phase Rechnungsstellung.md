@@ -48,6 +48,8 @@ Ergebnis: Kunden- und Lieferantenrechnungen können erstellt werden.
 - Verrechnen Sie die Mehrwertsteuer nach Vereinbart oder Vereinnahmt? ⭐
 - Arbeiten Sie nach der Saldomethode? ⭐
 
+Die Verrechnungsmethoden werden im Artikel [[Mehrwertsteuer]] erklärt.
+
 **Ausland**
 
 - Müssen Sie die MWST-Buchungen nach Land aufschlüsseln?
