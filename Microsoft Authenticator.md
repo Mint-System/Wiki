@@ -26,7 +26,7 @@ Then click the _Can't scan image?_ button and copy the _Code_ and _URL_.
 
 Store the the image, code and url in a vault. They can be used later to setup TOTP on any device.
 
-Complete the porocess and you should see a new sign-in method.
+Complete the process and you should see a new sign-in method.
 
 ![[Microsoft Security info.png]]
 
